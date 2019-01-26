@@ -9,5 +9,6 @@
     "layout.header.game_jams": "Game Jams",
     "layout.header.upload_game": "Upload Game",
     "layout.header.devlogs": "Devlogs",
-    "layout.header.community": "Community"
+    "layout.header.community": "Community",
+    "layout.header.search_placeholder": "Search for games or creators"
 }
