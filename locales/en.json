@@ -1,5 +1,6 @@
 {
     "itchio": "itch.io",
     "layout.footer.about": "About",
-    "layout.footer.faq": "FAQ"
+    "layout.footer.faq": "FAQ",
+    "layout.footer.blog": "Blog"
 }
