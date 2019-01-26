@@ -17,5 +17,6 @@
     "layout.header.dashboard": "Dashboard",
     "layout.header.jams": "Jams",
     "layout.footer.terms": "Terms",
-    "layout.footer.directory": "Directory"
+    "layout.footer.directory": "Directory",
+    "layout.header.notifications_count.one": "One notification"
 }
