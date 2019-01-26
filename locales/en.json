@@ -21,5 +21,6 @@
     "layout.header.notifications_count.one": "One notification",
     "layout.header.notifications_count.other": "%{count} notifications",
     "layout.header.no_notifications": "No new notifications",
-    "layout.header.user_menu.explore": "Explore"
+    "layout.header.user_menu.explore": "Explore",
+    "layout.header.user_menu.create": "Create"
 }
