@@ -7,5 +7,6 @@
     "layout.header.browse": "Browse",
     "layout.header.browse_games": "Browse Games",
     "layout.header.game_jams": "Game Jams",
-    "layout.header.upload_game": "Upload Game"
+    "layout.header.upload_game": "Upload Game",
+    "layout.header.devlogs": "Devlogs"
 }
