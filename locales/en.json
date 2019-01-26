@@ -11,5 +11,6 @@
     "layout.header.devlogs": "Devlogs",
     "layout.header.community": "Community",
     "layout.header.search_placeholder": "Search for games or creators",
-    "layout.header.search": "Search"
+    "layout.header.search": "Search",
+    "layout.header.log_in": "Log in"
 }
