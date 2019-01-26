@@ -14,5 +14,6 @@
     "layout.header.search": "Search",
     "layout.header.log_in": "Log in",
     "layout.header.register": "Register",
-    "layout.header.dashboard": "Dashboard"
+    "layout.header.dashboard": "Dashboard",
+    "layout.header.jams": "Jams"
 }
