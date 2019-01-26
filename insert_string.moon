@@ -2,12 +2,19 @@ import shell_escape from require "lapis.cmd.path"
 import from_json, to_json, trim from require "lapis.util"
 import columnize from require "lapis.cmd.util"
 
-SOURCE = "locales/en.json"
+argparse = require "argparse"
 
-source_text = assert ..., "missing source string"
+parser = argparse "insert_string.moon", "Add a translation to a locale file"
+parser\argument "text", "Text to be inserted into translation file"
+parser\option "--translations_file", "Where translation will be inserted", "locales/en.json"
+parser\option "--from", "Filename where text was pulled from, to help infer key prefix"
+parser\option "--prefix", "Set key prefix, don't show picker"
+parser\option "--template", "Template for code output", '@t(%q)'
+
+args = parser\parse [v for _, v in ipairs arg]
 
 jq = (command) ->
-  handle = assert io.popen "jq --indent 4 '#{shell_escape command}' '#{shell_escape SOURCE}'"
+  handle = assert io.popen "jq --indent 4 '#{shell_escape command}' '#{shell_escape args.translations_file}'"
   res = assert handle\read "*a"
   from_json(res), res
 
@@ -53,29 +60,37 @@ find_prefixes = ->
 
   prefixes = [k for k in pairs prefixes]
   table.sort prefixes
+
+  -- if we have a file, infert a prefix
+  if args.from
+    candidate = args.from\gsub("^views/", "")\gsub("^widgets/", "")\gsub("%.moon$", "")\gsub("/", ".")
+    prefixes = [p for p in *prefixes when p != candidate]
+    table.insert prefixes, 1, candidate
+
   prefixes
 
 convert_to_key = (str) ->
   out = str\lower!\gsub("%s+", "_")\gsub("[^%d%w_]", "")
   out
 
-prefix = dmenu "Prefix:", find_prefixes!
+prefix = args.prefix or dmenu "Prefix:", find_prefixes!
 
 if prefix == ""
   os.exit 1
   return
 
 suffix = dmenu "#{prefix}.", {
-  convert_to_key source_text
+  convert_to_key args.text
 }
 
 if suffix == ""
   os.exit 1
   return
 
-print prefix, suffix, source_text
-
-to_append = to_json { ["#{prefix}.#{suffix}"]: source_text }
+to_append = to_json { ["#{prefix}.#{suffix}"]: args.text }
 out, raw_out = jq ". + #{to_append}"
-assert(io.open(SOURCE, "w"))\write raw_out
+assert(io.open(args.translations_file, "w"))\write raw_out
+
+io.write io.stderr, "#{prefix}\t#{suffix}\t#{args.text}\n"
+print args.template\format "#{prefix}.#{suffix}"
 
