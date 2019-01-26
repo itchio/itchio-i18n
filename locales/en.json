@@ -16,5 +16,6 @@
     "layout.header.register": "Register",
     "layout.header.dashboard": "Dashboard",
     "layout.header.jams": "Jams",
-    "layout.footer.terms": "Terms"
+    "layout.footer.terms": "Terms",
+    "layout.footer.directory": "Directory"
 }
