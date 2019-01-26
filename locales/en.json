@@ -23,5 +23,6 @@
     "layout.header.no_notifications": "No new notifications",
     "layout.header.user_menu.explore": "Explore",
     "layout.header.user_menu.create": "Create",
-    "layout.header.user_menu.account": "Account"
+    "layout.header.user_menu.account": "Account",
+    "layout.header.user_menu.log_out": "Log out"
 }
