@@ -3,5 +3,6 @@
     "layout.footer.about": "About",
     "layout.footer.faq": "FAQ",
     "layout.footer.blog": "Blog",
-    "layout.footer.contact_us": "Contact us"
+    "layout.footer.contact_us": "Contact us",
+    "layout.header.browse": "Browse"
 }
