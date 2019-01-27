@@ -62,5 +62,6 @@
     "misc.durations.half_hour": "Alrededor de media hora",
     "misc.durations.hour": "Alrededor de una hora",
     "misc.durations.hours": "Unas pocas horas",
-    "misc.durations.days": "Días o más"
+    "misc.durations.days": "Días o más",
+    "layout.header.game_jams": "Game Jams"
 }
