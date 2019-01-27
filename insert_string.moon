@@ -85,6 +85,6 @@ to_append = to_json { ["#{prefix}.#{suffix}"]: args.text }
 out, raw_out = jq ". + #{to_append}"
 assert(io.open(args.translations_file, "w"))\write raw_out
 
-io.stderr\write "#{prefix}\t#{suffix}\t#{args.text}\n"
+-- io.stderr\write "#{prefix}\t#{suffix}\t#{args.text}\n"
 print args.template\format "#{prefix}.#{suffix}"
 
