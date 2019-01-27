@@ -9,7 +9,7 @@ parser\argument "text", "Text to be inserted into translation file"
 parser\option "--translations_file", "Where translation will be inserted", "locales/en.json"
 parser\option "--from", "Filename where text was pulled from, to help infer key prefix"
 parser\option "--prefix", "Set key prefix, don't show picker"
-parser\option "--template", "Template for code output", '@t(%q)'
+parser\option "--template", "Template for code output", '@t%q'
 
 args = parser\parse [v for _, v in ipairs arg]
 
@@ -20,13 +20,7 @@ jq = (command) ->
 
 dmenu = (prompt, options) ->
   pre = if options
-    columns = for opt in *options
-      if type(opt) == "table"
-        opt
-      else
-        {opt}
-
-    "'#{shell_escape columnize columns, 0, nil, false}'"
+    "'#{shell_escape table.concat options, "\n"}'"
   else
     ''
 
@@ -91,6 +85,6 @@ to_append = to_json { ["#{prefix}.#{suffix}"]: args.text }
 out, raw_out = jq ". + #{to_append}"
 assert(io.open(args.translations_file, "w"))\write raw_out
 
-io.write io.stderr, "#{prefix}\t#{suffix}\t#{args.text}\n"
+io.stderr\write "#{prefix}\t#{suffix}\t#{args.text}\n"
 print args.template\format "#{prefix}.#{suffix}"
 
