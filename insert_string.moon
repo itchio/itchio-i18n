@@ -153,7 +153,7 @@ if variables and next variables
   out = {
     [[@t("]]
     "#{prefix}.#{suffix}"
-    [[", { ]]
+    [[", ]]
   }
 
   for {name, expression} in *variables
@@ -161,7 +161,7 @@ if variables and next variables
     table.insert out, expression
     table.insert out, ", "
 
-  out[#out] = " })"
+  out[#out] = ")"
   print table.concat out
 else
   print args.template\format "#{prefix}.#{suffix}"
