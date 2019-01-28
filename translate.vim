@@ -6,5 +6,5 @@ function ItchTranslate()
 	return substitute(system("insert_string --from " . shellescape(expand("%")) . " " . shellescape(getreg(""))), , '\n$', '', '')
 endfunction
 
-vmap <c-j> x"=ItchTranslate()<cr>p
+vmap <c-j> x"=ItchTranslate()<cr>P
 
