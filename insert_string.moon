@@ -31,7 +31,7 @@ dmenu = (prompt, options) ->
   else
     ''
 
-  cmd = "echo -n #{pre} | dmenu -i -l 20 -p '#{shell_escape prompt}' -fn 'xos4 Terminus-16'"
+  cmd = "echo -n #{pre} | dmenu -i -l 20 -p '#{shell_escape prompt}' -fn 'xos4 Terminus-20'"
   f = assert io.popen cmd
   trim f\read("*all")
 
@@ -72,6 +72,7 @@ find_prefixes = ->
 
 convert_to_key = (str) ->
   out = str\lower!\gsub("[%s@\\:()!]+", "_")\gsub("[^%d%w_]", "")\gsub("__+", "_")
+  out = out\gsub("^_+", "")\reverse!\gsub("^_+", "")\reverse!
   out
 
 format_text = (str) ->
