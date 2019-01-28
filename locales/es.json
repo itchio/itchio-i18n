@@ -63,5 +63,16 @@
     "misc.durations.hour": "Alrededor de una hora",
     "misc.durations.hours": "Unas pocas horas",
     "misc.durations.days": "Días o más",
-    "layout.header.game_jams": "Game Jams"
+    "layout.header.game_jams": "Game Jams",
+    "layout.header.devlogs": "Devlogs",
+    "layout.header.dashboard": "Dashboard",
+    "layout.header.jams": "Jams",
+    "layout.user_menu.host_game_jam": "Organizar una game jam",
+    "layout.user_menu.dashboard": "Dashboard",
+    "layout.user_menu.game_jams": "Game jams",
+    "layout.user_menu.feed": "Mi feed",
+    "index.browse": "Ver",
+    "misc.inputs.joystick": "Joystick",
+    "misc.inputs.phone": "Smartphone",
+    "misc.inputs.dance_pad": "Almohadilla de baile"
 }
