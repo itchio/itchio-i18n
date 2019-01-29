@@ -79,29 +79,27 @@ positions.  Additionally, a translator typically is viewing a single string at
 a time. The cut up chunks give no context, which would lead to confusing the
 translator and a poor translation.
 
-So, it's necessary to include the markup in the translation string to capture
-the whole sentence. In this case the translator would be expected to work
-around the HTML, moving it if necessary. There are some issues with this
-though:
+To avoid this, you could include the entire text with markup verbatim for the
+translator to work with. The translator would be expected to work around the
+HTML, moving it if necessary. Although it works, there are many downsides with
+this approach:
 
 * If the markup is complicated, then it makes it much more difficult to work with. The translator could easily make a mistake and break the functionality of the page.
-* The markup is locked into the translation. If it needs to be updated later, then every translation must be edited by a programmer. 
-* Putting raw HTML into the translation string means that it would be rendered in the page without HTML escaping. A XSS vulnerability may be introduced, and the risk is greater especially with crowdsourced translation. Stray characters may also break the entire page.
+* The markup is frozen into the translation files. If it needs to be updated later, then every translation must be edited by a programmer.
+* Putting raw HTML into the translation string means that it would be rendered in the page without HTML escaping. A XSS vulnerability may be introduced, with additional risk from a crowdsourced translation. Stray characters could break the entire page.
 
-
-To solve all of these problems, a special reduced syntax is introduced:
+To solve all of these problems, we've come up with a special reduced syntax:
 
     To log in, <a>click here</a> and type your password
 
 It looks like HTML, but it only supports a tag names with no attributes.
-Because it is a subset of HTML it's much easier to validate. It's also very
-short, so it's easy for translators to work with it. Any text can be rendered
-HTML escaped to prevent any invalid markup or vulnerabilities.
+Because it's a subset of HTML, it's much easier to validate. It's also very
+short, so it's easy for translators to work with it. Regular text can be
+rendered HTML escaped to prevent any invalid markup or vulnerabilities.
 
-The `a` in this example actually references a variable named `a` in our code
-where the translation is rendered. In our code we pass a function that is
-responsible for rendering the full HTML tag. Here's what it looks like on our
-end (in MoonScript)
+The `a` in this example actually references a variable named `a`. In our code
+we pass a function that is responsible for rendering the full HTML tag. Here's
+what it looks like on our end (in MoonScript):
 
 
 ```moon
@@ -121,10 +119,11 @@ Because the markup of the translation can contain more complicated syntax, I
 decided to invest some time in ahead-of-time compilation to ensure translations
 don't slow down the page rendering.
 
-The simplest approach would be to fetch the string, parse it, and replace all
-the interpolations during page request time. Both parsing and rendering would
-require many allocations, loops, checks, and other things. What if we
-*compiled* the string at build time to ensure a fast render.
+Without any special optimizations, the simplest approach would be to fetch the
+string, parse it, and replace all the interpolations during page request time.
+Both parsing and rendering would require many allocations, loops, checks, and
+other things. To avoid this, we can *compile* the string at build time to
+ensure a fast render.
 
 Using `lpeg` we can [parse the translation string into a syntax tree](https://github.com/itchio/itchio-i18n/blob/master/helpers/compiler.moon#L10), then using
 the MoonSciprt Lua compiler we can [turn that AST into Lua code](https://github.com/itchio/itchio-i18n/blob/master/helpers/compiler.moon#L40). The
