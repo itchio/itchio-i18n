@@ -14,39 +14,44 @@ this branch automatically.
 
 ## Translations markup guide
 
-### Interpolation
-
 itch.io uses a custom translation markup parser that powers variable
 interpolations and formatting of text.
 
-Simple interpolations use the `{{ }}` syntax: 
+### Interpolation
+
+Variables are inserted with the `{{ }}` syntax:
 
     Hello {{username}}, welcome back!
 
-When translating strings like these, preserve the `{{ }}` and what is inside.
-The name of the variable should give you an idea of what words will be
-inserted, so you can place the variable in the correct location for the
-translated string.
+When translating strings with a variable, preserve the `{{ }}` and what is
+inside. The name of the variable should give you an idea of what words will be
+inserted. Use this information to place the variable in the grammatically
+correct location for the translated string.
 
 ### Markup
 
-Some translation strings contain an HTML like markup to control formatting of
+Some translation strings contain an HTML-like markup to control formatting of
 parts of the string:
 
     You update your password on <a>your settings page</a>.
 
-When the translation string is rendered, the placeholder tag will be replaced
-with the full markup necessary for the page it appears on. In the example
-above, the `<a>` placeholder will be replaced with a relevant link.
+When the translated string is displayed, the placeholder tag will be replaced
+with the full markup needed for the page it appears on. In the example above,
+the `<a>` placeholder will be replaced with a relevant link.
 
 When translating like these, preserve the placeholder tag and what object it
 wraps, but feel free to move it around to ensure grammatically correct text.
 
+Do not add additional markup if it isn't already in the source string. These
+tags are not HTML, but actually work more like variables.
+
 ### HTML
 
-All translations strings are HTML escaped, so you can't use regular HTML
-markup. For example, instead of using `&mdash;` you should use the — character
+All translation strings are HTML escaped when displayed, HTML markup will not
+render. For example, instead of using `&mdash;` you should use the — character
 directly.
+
+HTML tags are not supported, only the markup syntax from the example above.
 
 ## Components
 
