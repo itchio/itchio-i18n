@@ -107,8 +107,9 @@ Here's how it looks like on the code end when rendered into the page (in MoonScr
 
 
 ```moon
+-- "index.user_log_in" is the name of the key that holds the example string
 @t "index.user_log_in", {
-  a: (...) -> a href: @url("login"), class: "login_link", ...
+  a: (...) -> a href: @url_for("log_in"), class: "log_in_link", ...
 }
 ```
 
