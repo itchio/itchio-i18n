@@ -15,7 +15,7 @@ parser\option "--translations_file", "Where translation will be inserted", "loca
 parser\option "--from", "Filename where text was pulled from, to help infer key prefix"
 parser\option "--prefix", "Set key prefix, don't show picker"
 parser\option "--template", "Template for code output", '@t%q'
-parser\option "--variable_template", "Template for code output", '%%{%s}'
+parser\option "--variable_template", "Template for code output", '{{%s}}'
 parser\flag "--dryrun", "Don't write to translations file"
 
 args = parser\parse [v for _, v in ipairs arg]
