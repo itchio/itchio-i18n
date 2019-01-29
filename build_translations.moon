@@ -20,6 +20,21 @@ for file in assert lfs.dir DIR
   object = json.decode contents
   output[name] = object
 
+
+import parse_tags, chunk_to_syntax from require "helpers.compiler"
+
+import types from require "tableshape"
+
+simple_string = types.shape { types.string }
+
+string_to_syntax = (str) ->
+  chunks = assert parse_tags\match str
+  if simple_string chunks
+    return nil
+
+  lines = [chunk_to_syntax chunk for chunk in *chunks]
+  {"fndef", {{"text_fn"}, {"variables"}}, {}, "slim", lines}
+
 encode_value = (v) ->
   switch type(v)
     when "number"
@@ -39,9 +54,11 @@ encode_value = (v) ->
           encode_value(v[k])
         }
       }
-
     else
       str = tostring v
+
+      if fn = string_to_syntax str
+        return fn
 
       delim = if str\match '"'
         if str\match "'"

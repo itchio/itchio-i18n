@@ -110,4 +110,4 @@ compile = (t) ->
   code = assert compile_to_lua t
   loadstring(code)
 
-{:parse_tags, :tree_to_syntax, :compile_to_lua, :compile}
+{:parse_tags, :chunk_to_syntax, :compile_to_lua, :compile}
