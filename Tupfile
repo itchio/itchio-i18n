@@ -1,0 +1,1 @@
+: locales/*.json |> ./build_translations > %o |> ../locales.lua
