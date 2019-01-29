@@ -39,11 +39,11 @@ When the translated string is displayed, the placeholder tag will be replaced
 with the full markup needed for the page it appears on. In the example above,
 the `<a>` placeholder will be replaced with a relevant link.
 
-When translating like these, preserve the placeholder tag and what object it
+When translating strings like these, preserve the placeholder tag and what object it
 wraps, but feel free to move it around to ensure grammatically correct text.
 
-Do not add additional markup if it isn't already in the source string. These
-tags are not HTML, but actually work more like variables.
+Do not add additional markup, if it isn't already in the source string then it
+throw an error. These tags are not HTML, but actually work more like variables.
 
 ### HTML
 
