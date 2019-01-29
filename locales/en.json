@@ -74,5 +74,14 @@
     "misc.durations.half_hour": "About a half-hour",
     "misc.durations.hour": "About an hour",
     "misc.durations.hours": "A few hours",
-    "misc.durations.days": "Days or more"
+    "misc.durations.days": "Days or more",
+    "index.view_something_random": "View something random",
+    "index.view_all_games": "View all games",
+    "index.dont_see_anything_you_like": "Dont see anything you like?",
+    "index.from_the_blog": "From the blog",
+    "index.random_game": "Random game",
+    "blog.all_posts": "All posts",
+    "blog.updates": "Updates",
+    "blog.digest": "Digest",
+    "index.get_the_app": "<s>Get the most out of itch.io!</s> Install and manage your games with our desktop app"
 }
