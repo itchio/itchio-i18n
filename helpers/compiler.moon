@@ -35,6 +35,26 @@ parse_tags = do
 
   Ct P(-1) / "" + (C((P(1) - open_tag - variable)^1) + tag + variable)^0 * P(-1)
 
+-- tag interpreter renderer
+render_tags = (t, text_fn, variables) ->
+  for chunk in *t
+    if type(chunk) == "string"
+      if chunk != ""
+        text_fn chunk
+    else
+      {:tag, :contents, :variable} = chunk
+      if variable
+        text_fn variables[variable]
+      else
+        tag_fn = variables[tag]
+        unless tag_fn
+          error "missing tag renderer: #{tag}"
+
+        if type(contents[1]) == "string" and not contents[2]
+          tag_fn contents[1]
+        else
+          tag_fn ->
+            render_tags contents, text_fn, variables
 
 -- convertes parsed tree to lua syntax node
 chunk_to_syntax = do
