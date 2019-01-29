@@ -80,7 +80,10 @@ chunk_to_syntax = do
       {
         "chain"
         {"ref", "variables"}
-        {"dot", op.variable}
+        if op.variable\match "^%d+$"
+          {"index", op.variable}
+        else
+          {"dot", op.variable}
       }
   }
 
@@ -105,7 +108,10 @@ chunk_to_syntax = do
       return {
         "chain"
         {"ref", "variables"}
-        {"dot", op.tag}
+        if op.tag\match "^%d+$"
+          {"index", op.tag}
+        else
+          {"dot", op.tag}
         {"call", {arg}}
       }
 
