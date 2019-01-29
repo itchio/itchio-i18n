@@ -98,8 +98,12 @@ short, so it's easy for translators to work with it. Regular text can be
 rendered HTML escaped to prevent any invalid markup or vulnerabilities.
 
 The `a` in this example actually references a variable named `a`. In our code
-we pass a function that is responsible for rendering the full HTML tag. Here's
-what it looks like on our end (in MoonScript):
+we pass a function that is responsible for rendering the full HTML tag. The
+variable name is flexible, it doesn't have a to be a single letter, and it
+doesn't need to match the original tag. It could be `<b>`, `<1>`,
+`<loginlink>`, etc.
+
+Here's how it looks like on the code end when rendered into the page (in MoonScript):
 
 
 ```moon
