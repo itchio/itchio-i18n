@@ -76,7 +76,7 @@ chunk_to_syntax = do
       arg = if simple_tag op
         assert node_for_value\transform op.contents[1]
       else
-        lines = [node_for_op child_op for child_op in *op.contents]
+        lines = [chunk_to_syntax child_op for child_op in *op.contents]
         if next lines
           {"fndef", {}, {}, "slim", lines}
         else
