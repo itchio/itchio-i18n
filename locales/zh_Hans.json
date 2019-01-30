@@ -215,6 +215,7 @@
     },
     "blog": {
         "all_posts": "所有布告",
-        "updates": "更新"
+        "updates": "更新",
+        "digest": "文摘"
     }
 }
