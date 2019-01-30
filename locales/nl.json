@@ -1,1 +1,23 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Over",
+            "faq": "FAQ",
+            "blog": "Blog",
+            "contact_us": "Contacteer ons",
+            "terms": "Gebruiksvoorwaarden"
+        },
+        "header": {
+            "upload_game": "Game uploaden",
+            "search_placeholder": "Zoek naar games of ontwikkelaars",
+            "search": "Zoeken",
+            "log_in": "Inloggen",
+            "register": "Registreren",
+            "notifications_count": "Een notificatie",
+            "notifications_count_plural": "{{aantal}} notificaties",
+            "free_games": "Gratis games",
+            "bundles": "Bundels"
+        }
+    }
+}
