@@ -10,6 +10,15 @@ json = require "cjson"
 
 output = { }
 
+flatten_nested = (t, prefix="", out={}) ->
+  for k,v in pairs t
+    if type(v) == "table"
+      flatten_nested v, "#{prefix}#{k}.", out
+    else
+      out["#{prefix}#{k}"] = v
+
+  out
+
 for file in assert lfs.dir DIR
   continue if file\match "^%.+$"
   name = file\match "^(%w+).json$"
@@ -18,8 +27,7 @@ for file in assert lfs.dir DIR
   contents = assert handle\read "*a"
 
   object = json.decode contents
-  output[name] = object
-
+  output[name] = flatten_nested object
 
 import parse_tags, chunk_to_syntax from require "helpers.compiler"
 
