@@ -1,21 +1,21 @@
 {
-    "itchio": "",
+    "itchio": "itch.io",
     "layout": {
         "footer": {
-            "about": "",
-            "faq": "",
-            "blog": "",
-            "contact_us": ""
+            "about": "itch.ioについて",
+            "faq": "よくある質問",
+            "blog": "ブログ",
+            "contact_us": "問い合わせ"
         },
         "header": {
-            "upload_game": "",
-            "devlogs": "",
-            "community": "",
-            "search_placeholder": "",
-            "search": "",
-            "log_in": "",
-            "register": "",
-            "dashboard": "",
+            "upload_game": "ゲームをアップロード",
+            "devlogs": "開発者ブログ",
+            "community": "コミュニティ",
+            "search_placeholder": "ゲームまたはクリエイターを検索する",
+            "search": "検索",
+            "log_in": "ログイン",
+            "register": "登録",
+            "dashboard": "ダッシュボード",
             "no_notifications": ""
         },
         "user_menu": {
@@ -44,5 +44,8 @@
         "accessibility_features": {
             "subtitles": ""
         }
+    },
+    "developers": {
+        "upload_or_dashboard": "<1>新しいゲームをアップロード</1> <em>または</em> <2>ダッシュボードに移動</2>"
     }
 }
