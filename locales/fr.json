@@ -74,5 +74,11 @@
     "misc.durations.half_hour": "Une demi-heure environ",
     "misc.durations.hour": "Une heure environ",
     "misc.durations.hours": "Quelques heures",
-    "misc.durations.days": "Plusieurs jours"
+    "misc.durations.days": "Plusieurs jours",
+    "index.view_something_random": "Voir quelque-chose au hasard",
+    "index.view_all_games": "Voir tous les jeux",
+    "index.dont_see_anything_you_like": "Rien n'est à votre goût ?",
+    "index.from_the_blog": "En direct du blog",
+    "index.random_game": "Jeu au hasard",
+    "blog.all_posts": "Tous les articles"
 }
