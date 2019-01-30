@@ -22,7 +22,7 @@
             "register": "Register",
             "dashboard": "Dashboard",
             "jams": "Jams",
-            "notifications_count": "One notification",
+            "notifications_count": "{{count}} notification",
             "notifications_count_plural": "{{count}} notifications",
             "no_notifications": "No new notifications",
             "free_games": "Free games",
