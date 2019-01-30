@@ -220,6 +220,7 @@
         "upload_your_game_description": "Téléversez votre jeu indé sur <s>itch.io</s> gratuitement. Nous hébergeons votre jeu, avec vos captures et vos autres fichiers. Les téléchargements sont toujours disponibles et rapides.",
         "learn_more_about": "En savoir plus sur :",
         "share_message": "itch.io est un moyen simple de distribuer gratuitement vos jeux en ligne.",
-        "create_account_or_login": "<1>Créer un compte</1> <em>ou</em> <2>Se connecter</2>"
+        "create_account_or_login": "<1>Créer un compte</1> <em>ou</em> <2>Se connecter</2>",
+        "upload_or_dashboard": ""
     }
 }
