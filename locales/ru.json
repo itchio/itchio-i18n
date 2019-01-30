@@ -2,7 +2,67 @@
     "itchio": "itch.io",
     "layout": {
         "header": {
-            "browse": ""
+            "browse": "Категории",
+            "browse_games": "Игры",
+            "game_jams": "Геймджемы",
+            "upload_game": "Загрузить игру",
+            "devlogs": "Дневники",
+            "community": "Сообщество",
+            "search_placeholder": "Поиск игр и создателей",
+            "search": "Поиск",
+            "log_in": "Вход",
+            "register": "Зарегистрироваться",
+            "dashboard": "Кабинет разработчика",
+            "jams": "Геймджемы",
+            "notifications_count_0": "Одно уведомление",
+            "notifications_count_1": "{{count}} уведомления",
+            "notifications_count_2": "{{count}} уведомлений",
+            "no_notifications": "Нет новых уведомлений",
+            "free_games": "Бесплатные игры",
+            "indie_game_store": "Магазин инди игр",
+            "game_development": "Разработка игр",
+            "comics": "Комиксы",
+            "sales": "Продажи",
+            "bundles": "Бандлы",
+            "game_assets": "Ассеты",
+            "fun_games": "Развлекательные игры",
+            "games": "Игры",
+            "feed": "Лента"
+        },
+        "footer": {
+            "about": "О сайте",
+            "faq": "FAQ",
+            "blog": "Блог",
+            "contact_us": "Контакты",
+            "terms": "Условия использования",
+            "directory": "Каталог"
+        },
+        "user_menu": {
+            "log_out": "Выход",
+            "settings": "Настройки",
+            "view_profile": "Посмотреть профиль",
+            "host_game_jam": "Провести геймджем",
+            "sales_bundles": "Продажи и бандлы",
+            "new_project": "Загрузить новый проект",
+            "dashboard": "Кабинет",
+            "game_jams": "Геймджемы",
+            "recommendations": "Рекомендации",
+            "library": "Моя игротека",
+            "feed": "Моя лента"
         }
+    },
+    "index": {
+        "popular_tags": "Популярные теги",
+        "browse": "Обзор",
+        "games_by_price": "Игры по цене",
+        "download_app": "Загрузить приложение",
+        "view_something_random": "Показать что-нибудь случайное",
+        "view_all_games": "Показать все игры",
+        "dont_see_anything_you_like": "Не видите ничего, что бы вам понравилось?",
+        "from_the_blog": "Из блога",
+        "random_game": "Случайная игра",
+        "get_the_app": "<s>Получите максимум от itch.io!</s> Устанавливайте и управляйте играми с помощью нашего приложения",
+        "from_the_itchio_blog": "Из блога itch.io",
+        "view_all_blog_posts": "Показать все новости"
     }
 }
