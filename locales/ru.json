@@ -1,3 +1,8 @@
 {
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "layout": {
+        "header": {
+            "browse": ""
+        }
+    }
 }
