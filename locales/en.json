@@ -35,6 +35,7 @@
             "fun_games": "Fun games",
             "games": "Games",
             "feed_unseen_count": "{{count}} new",
+            "feed_unseen_count_plural": "{{count}} new",
             "feed": "Feed"
         },
         "user_menu": {
