@@ -28,7 +28,13 @@
             "indie_game_store": "Verslun fyrir sjálfstætt framleidda leiki",
             "game_development": "Leikjahönnun",
             "comics": "Myndasögur",
-            "sales": "Sala"
+            "sales": "Sala",
+            "fun_games": "Skemmtilegir leikir",
+            "games": "Leikir"
+        },
+        "user_menu": {
+            "explore": "Skoða",
+            "create": "Búa til"
         }
     }
 }
