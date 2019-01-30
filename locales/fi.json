@@ -92,7 +92,8 @@
         },
         "intro": "<s>itch.io</s> on yksinkertainen tapa löytää ja jakaa indiepelejä ilmaiseksi.",
         "intro_cta": "<1>Lisää pelisi</1> tai <2>Tutustu UKK:iin</2>",
-        "html5_games": "HTML5-pelit"
+        "html5_games": "HTML5-pelit",
+        "with_demo": "Demo saatavilla"
     },
     "misc": {
         "classifications": {
@@ -144,7 +145,8 @@
     },
     "blog": {
         "all_posts": "Kaikki postaukset",
-        "updates": "Päivitykset"
+        "updates": "Päivitykset",
+        "digest": "Yhteenveto"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Kirjaudu itch.io-tilillesi",
