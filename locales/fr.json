@@ -183,7 +183,9 @@
             "log_in": "Se connecter",
             "link_product": "Votre achat: <1>{{product}}</1> sera lié à votre compte après votre connexion.",
             "accept_tos": "J'accepte les <1>Conditions Générales d'Utilisations</1>",
-            "about_you": "À propos de vous"
+            "about_you": "À propos de vous",
+            "your_email_address": "Votre adresse email",
+            "password": "Mot de passe"
         }
     }
 }
