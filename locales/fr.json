@@ -92,5 +92,6 @@
     "index.view_all": "Tout voir",
     "index.recommended_for_you": "Recommandé pour vous",
     "index.recommendations_based_on": "Basé sur vos achats, téléchargement et notes",
-    "index.fresh_games": "Jeux tout frais"
+    "index.fresh_games": "Jeux tout frais",
+    "blog.digest": "En bref"
 }
