@@ -1,1 +1,17 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "O nas",
+            "faq": "FAQ",
+            "blog": "Blog",
+            "contact_us": "Kontakt",
+            "terms": "Regulamin",
+            "directory": "Folder"
+        },
+        "header": {
+            "browse": "Przeglądaj",
+            "browse_games": "Przeglądaj gry"
+        }
+    }
+}
