@@ -36,7 +36,11 @@ import types from require "tableshape"
 simple_string = types.shape { types.string }
 
 string_to_syntax = (str) ->
-  chunks = assert parse_tags\match str
+  chunks = parse_tags\match str
+
+  unless chunks
+    error "failed to parse string: #{str}"
+
   if simple_string chunks
     return nil
 
