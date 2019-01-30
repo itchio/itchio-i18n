@@ -1,1 +1,48 @@
-{}
+{
+    "itchio": "",
+    "layout": {
+        "footer": {
+            "about": "",
+            "faq": "",
+            "blog": "",
+            "contact_us": ""
+        },
+        "header": {
+            "upload_game": "",
+            "devlogs": "",
+            "community": "",
+            "search_placeholder": "",
+            "search": "",
+            "log_in": "",
+            "register": "",
+            "dashboard": "",
+            "no_notifications": ""
+        },
+        "user_menu": {
+            "account": "",
+            "log_out": "",
+            "settings": "",
+            "view_profile": "",
+            "new_project": "",
+            "recommendations": ""
+        }
+    },
+    "index": {
+        "download_app": ""
+    },
+    "misc": {
+        "classifications": {
+            "game": "",
+            "assets": "",
+            "game_mod": "",
+            "soundtrack": "",
+            "other": "",
+            "tool": "",
+            "comic": "",
+            "book": ""
+        },
+        "accessibility_features": {
+            "subtitles": ""
+        }
+    }
+}
