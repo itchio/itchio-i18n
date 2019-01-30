@@ -6,7 +6,8 @@
             "faq": "UKK",
             "blog": "Blogi",
             "contact_us": "Ota yhteyttä",
-            "directory": "Sivukartta"
+            "directory": "Sivukartta",
+            "terms": "Käyttöehdot"
         },
         "header": {
             "browse": "Selaa",
@@ -30,7 +31,8 @@
             "bundles": "Paketit",
             "fun_games": "Hauskat pelit",
             "games": "Pelit",
-            "feed_unseen_count": "uutta"
+            "feed_unseen_count": "uutta",
+            "game_jams": "Game Jamit"
         },
         "user_menu": {
             "explore": "Tutki",
