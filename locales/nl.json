@@ -19,7 +19,8 @@
             "notifications_count_plural": "{{aantal}} notificaties",
             "free_games": "Gratis games",
             "bundles": "Bundels",
-            "browse": "Bladeren"
+            "browse": "Bladeren",
+            "browse_games": "Hello world bad translation"
         }
     }
 }
