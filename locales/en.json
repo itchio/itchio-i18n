@@ -22,10 +22,8 @@
             "register": "Register",
             "dashboard": "Dashboard",
             "jams": "Jams",
-            "notifications_count": {
-                "one": "One notification",
-                "other": "{{count}} notifications"
-            },
+            "notifications_count": "One notification",
+            "notifications_count_plural": "{{count}} notifications",
             "no_notifications": "No new notifications",
             "free_games": "Free games",
             "indie_game_store": "Indie game store",
@@ -37,8 +35,7 @@
             "fun_games": "Fun games",
             "games": "Games",
             "feed_unseen_count": "{{count}} new",
-            "feed": "Feed",
-            "notifications_count_plural": "{{count}} notifications"
+            "feed": "Feed"
         },
         "user_menu": {
             "explore": "Explore",
