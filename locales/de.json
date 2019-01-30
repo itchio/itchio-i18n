@@ -1,1 +1,18 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Über uns",
+            "faq": "FAQ",
+            "blog": "Blog",
+            "contact_us": "Kontaktiere uns",
+            "terms": "AGBs",
+            "directory": "Verzeichnis"
+        },
+        "header": {
+            "browse": "Durchsuchen",
+            "browse_games": "Spiele durchsuchen",
+            "game_jams": "Game Jams"
+        }
+    }
+}
