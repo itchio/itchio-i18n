@@ -175,5 +175,15 @@
             "rate_game": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir noter un jeu.",
             "follow": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir suivre quelqu'un."
         }
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Créer un compte sur Itch.io",
+        "register_form": {
+            "create_account": "Créer un compte",
+            "log_in": "Se connecter",
+            "link_product": "Votre achat: <1>{{product}}</1> sera lié à votre compte après votre connexion.",
+            "accept_tos": "J'accepte les <1>Conditions Générales d'Utilisations</1>",
+            "about_you": "À propos de vous"
+        }
     }
 }
