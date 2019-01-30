@@ -1,1 +1,50 @@
-{}
+{
+    "layout": {
+        "footer": {
+            "about": "Quant a",
+            "faq": "Preguntes més freqüents",
+            "blog": "Blog",
+            "contact_us": "Contacte",
+            "terms": "Termes",
+            "directory": "Directori"
+        },
+        "header": {
+            "browse": "Explora",
+            "browse_games": "Explora els Jocs",
+            "upload_game": "Penja un Joc",
+            "community": "Comunitat",
+            "search_placeholder": "Cerca jocs o desenvolupadors",
+            "search": "Cerca",
+            "log_in": "Inicia la sessió",
+            "register": "Registreu-vos",
+            "dashboard": "Tauler de control",
+            "notifications_count": "Una notificació",
+            "notifications_count_plural": "{{count}} notificacions",
+            "no_notifications": "No hi ha cap notificació nova",
+            "free_games": "Jocs gratuïts",
+            "indie_game_store": "Botiga de jocs indie",
+            "game_development": "Desenvolupament de jocs",
+            "comics": "Comics",
+            "sales": "Vendes",
+            "bundles": "Paquets",
+            "game_assets": "Recursos",
+            "fun_games": "Jocs divertits",
+            "games": "Jocs",
+            "feed_unseen_count": "{{count}} nous",
+            "feed": "Fil de continguts"
+        },
+        "user_menu": {
+            "explore": "Explora",
+            "create": "Crea",
+            "account": "Compte",
+            "log_out": "Finalitza la sessió",
+            "settings": "Configuració",
+            "view_profile": "Mostra el perfil",
+            "sales_bundles": "Ofertes i paquets",
+            "new_project": "Penja un projecte nou",
+            "dashboard": "Tauler de control",
+            "recommendations": "Recomanacions",
+            "library": "La meva biblioteca"
+        }
+    }
+}

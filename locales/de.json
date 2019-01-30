@@ -18,7 +18,7 @@
             "search": "Suche",
             "log_in": "Anmelden",
             "register": "Registrieren",
-            "notifications_count": "Eine Benachrichtigung",
+            "notifications_count": "{{count}} Benachrichtigung",
             "notifications_count_plural": "{{count}} Benachrichtigungen",
             "no_notifications": "Keine neuen Benachrichtigungen",
             "free_games": "Kostenlose Spiele",
@@ -26,7 +26,16 @@
             "sales": "Verkäufe",
             "bundles": "Bündel",
             "games": "Spiele",
-            "feed_unseen_count": "{{count}} neu"
+            "feed_unseen_count": "{{count}} neu",
+            "community": "Community",
+            "search_placeholder": "Nach Spielen oder Autoren suchen",
+            "dashboard": "Übersicht",
+            "jams": "Jams",
+            "indie_game_store": "Indie-Spiele Store",
+            "comics": "Comics",
+            "game_assets": "Inhalte",
+            "fun_games": "Witzige Spiele",
+            "feed": "Feed"
         },
         "user_menu": {
             "explore": "Erkunden",
@@ -35,9 +44,14 @@
             "log_out": "Abmelden",
             "settings": "Einstellungen",
             "view_profile": "Profil ansehen",
-            "new_project": "Neuen Projekt hochladen",
+            "new_project": "Neues Projekt hochladen",
             "recommendations": "Empfehlungen",
-            "library": "Meine Bibliothek"
+            "library": "Meine Bibliothek",
+            "host_game_jam": "Game Jam organisieren",
+            "sales_bundles": "Angebote & Bündel",
+            "dashboard": "Übersicht",
+            "game_jams": "Game Jams",
+            "feed": "Mein Feed"
         }
     },
     "index": {
@@ -50,6 +64,127 @@
         "from_the_blog": "Vom Blog",
         "random_game": "Zufälliges Spiel",
         "on_sale": "Im Angebot",
-        "free_games": "Kostenlose Spiele"
+        "free_games": "Kostenlose Spiele",
+        "with_demo": "mit Demo",
+        "dont_see_anything_you_like": "Nicht's für dich dabei?",
+        "get_the_app": "<s>Habe das meiste von itch.io!</s> Installiere unsere Desktop App und manage deine Spiele",
+        "from_the_itchio_blog": "Aus dem itch.io blog",
+        "view_all_blog_posts": "Alle Updates anzeigen",
+        "search_games_creators": "Suche Spiele & Autoren",
+        "browse_all_tags": "Durchsuche alle Tags",
+        "top_sellers": "Bestseller",
+        "view_all": "Alle ansehen",
+        "recommended_for_you": "Für dich vorgeschlagen",
+        "recommendations_based_on": "Basierend auf deinen Einkäufen, Downloads und Bewertungen",
+        "fresh_games": "Neue Spiele",
+        "view_more": "Mehr ansehen",
+        "featured_jams": "Vorgestellte Jams",
+        "view_all_jams": "Alle Jams ansehen",
+        "fresh_games_description": "Immer auf dem neusten Stand mit den neuesten Spielen",
+        "people_to_follow": "Leute zum Folgen",
+        "view_all_games_on_sale": "Alle Angebote sehen",
+        "more_featured_games": "Weitere vorgestellte Spiele",
+        "game_dev_on_sale": "Inhalte für Spieleentwicklung im Angebot",
+        "view_all_on_sale": "Alle Angebote ansehen",
+        "people_to_follow_description": "Hier sind ein paar accounts die dich vielleicht interessieren. <a>Warum folgen?</a>",
+        "latest_featured_games": "Die neusten vorgestellten Spiele",
+        "filtering_platform": "Alle Spiele filtern nach {{platform_name}}",
+        "view_all_platforms": "Alle Plattformen ansehen",
+        "browse_content_type": "Durchsuche {{content_type}}",
+        "nav": {
+            "all_games": "Alle Spiele",
+            "bundles": "Bündel",
+            "game_jams": "Game Jams",
+            "devlogs": "DevLogs",
+            "community": "Community"
+        },
+        "intro": "<s>itch.io</s> ist der einfachste Weg kostenlos Indie-Spiele zu finden und teilen.",
+        "intro_cta": "<1>Füge dein Spiel hinzu</1> oder <2>Lese das FAQ</2>",
+        "html5_games": "HTML5 Spiele"
+    },
+    "misc": {
+        "classifications": {
+            "game": "Spiele",
+            "assets": "Spiel Inhalte",
+            "game_mod": "Spiel Mods",
+            "physical_game": "Physische Spiele",
+            "soundtrack": "Soundtracks",
+            "other": "Anderes",
+            "tool": "Werkzeuge",
+            "comic": "Comics",
+            "book": "Bücher"
+        },
+        "accessibility_features": {
+            "colorblind": "Farbenblind freundlich",
+            "subtitles": "Untertitel",
+            "configurable_controls": "Konfigurierbare Controls",
+            "highcontrast": "Kontrastreich",
+            "tutorial": "Interaktives Tutorial",
+            "one_button": "Ein Knopf",
+            "blind": "Für Blinde",
+            "textless": "Ohne Text"
+        },
+        "multiplayer_features": {
+            "local": "Lokaler Mehrspieler",
+            "server": "Server basierender Netzwerk Mehrspieler",
+            "adhoc": "Ad-hoc Netzwerk Mehrspieler"
+        },
+        "inputs": {
+            "keyboard": "Tastatur",
+            "mouse": "Maus",
+            "gamepad": "Gamepad (alle)",
+            "joystick": "Joystick",
+            "voice": "Stimmenkontrolliert",
+            "accelerometer": "Tachometer",
+            "dance_pad": "Dance Pad",
+            "midi_controller": "MIDI Controller"
+        },
+        "durations": {
+            "seconds": "Ein paar Sekunden",
+            "minutes": "Ein paar Sekunden",
+            "half_hour": "Ungefähr eine halbe Stunde",
+            "hour": "Ungefähr eine Stunde",
+            "hours": "Ein paar Stunden",
+            "days": "Tage oder mehr"
+        }
+    },
+    "blog": {
+        "all_posts": "Alle Postings",
+        "digest": "Zusammenfassung"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Logge dich in deinen itch.io account ein",
+        "login_form": {
+            "username_or_email": "Benutzername oder Email",
+            "password": "Passwort",
+            "forgot_password": "Passwort vergessen",
+            "create_account": "Account erstellen",
+            "or_log_in_with_another_site": "Oder logge dich mit einer anderen Website ein",
+            "or": "oder",
+            "log_in_button": "Einloggen"
+        },
+        "looking_for_something_you_bought": "Suchst du nach etwas was du gekauft hast?",
+        "create_a_new_account": "Neuen Account erstellen",
+        "intent": {
+            "community": "Du musst dich einloggen um an Communities auf itch.io teilzunehmen. Einen Account erstellen ist kostenlos und dauert nur einen Moment.",
+            "comment": "Du brauchst einen itch.io Account bevor du kommentieren kannst.",
+            "rate_game": "Du brauchst einen itch.io Account bevor du ein Spiel bewerten kannst.",
+            "follow": "Du brauchst einen itch.io Account bevor du jemandem folgen kannst.",
+            "follow_username": "Du brauchst einen itch.io Account bevor du <1>{{username}}</1> folgen kannst.",
+            "collection": "Du brauchst einen itch.io Account bevor du eine Kollektion hinzufügen kannst.",
+            "jam_submit": "Du brauchst einen itch.io Account bevor du an einem Game Jam teilnehmen kannst.",
+            "claim_object": "Bitte logge dich ein oder erstelle einen Account um {{noun}} zu beanspruchen."
+        },
+        "no_account_prompt": "Du hast keinen Account? <1>Erstelle einen Account</1>"
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Erstelle einen itch.io Account",
+        "register_form": {
+            "create_account": "Account erstellen",
+            "already_have_account": "oder hast du bereits einen Account?",
+            "log_in": "Einloggen",
+            "link_product": "Dein Kauf von <1>{{product}}</1> wird automatisch mit deinem Account verlinkt, nachdem du dich registrierst.",
+            "accept_tos": "Ich akzeptiere die <1>Allgemeinen Geschäftsbedingungen</1>"
+        }
     }
 }

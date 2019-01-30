@@ -1,1 +1,34 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Sobre",
+            "faq": "Perguntas Frequentes",
+            "blog": "Blog",
+            "contact_us": "Contatos",
+            "terms": "Termos",
+            "directory": "Diretório"
+        },
+        "header": {
+            "browse": "Navegar",
+            "browse_games": "Ver Jogos",
+            "game_jams": "Game Jams",
+            "upload_game": "Carregar Jogo",
+            "devlogs": "Registros do Desenvolvedor",
+            "community": "Comunidade",
+            "search_placeholder": "Procure por jogos ou criadores",
+            "search": "Procura",
+            "log_in": "Entrar",
+            "register": "Registrar",
+            "notifications_count": "Uma notificação",
+            "notifications_count_plural": "Várias notificações",
+            "no_notifications": "Sem novas notificações",
+            "free_games": "Jogos gratuitos",
+            "indie_game_store": "Loja de jogos indie",
+            "game_development": "Desenvolvimento de Jogos",
+            "comics": "Histórias em Quadrinhos",
+            "sales": "Promoções",
+            "bundles": "Pacotes"
+        }
+    }
+}

@@ -1,1 +1,26 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "O projektu",
+            "faq": "Často kladené dotazy",
+            "blog": "Blog",
+            "contact_us": "Kontakt",
+            "terms": "Podmínky",
+            "directory": "Adresář"
+        },
+        "header": {
+            "browse": "Prohlížet",
+            "browse_games": "Procházet hry",
+            "game_jams": "Game jamy",
+            "upload_game": "Nahrát hru",
+            "search_placeholder": "Hledat hry nebo autory",
+            "search": "Hledat",
+            "log_in": "Přihlásit se",
+            "register": "Registrovat se",
+            "notifications_count_0": "Oznámení",
+            "notifications_count_1": "Oznámení",
+            "notifications_count_2": "Oznámení: {{count}}"
+        }
+    }
+}

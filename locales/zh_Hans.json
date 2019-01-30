@@ -166,7 +166,7 @@
         "browser_game_description": "通过<s>itch.io</s>发布你开发的网页游戏可以让你获得收入。你的游戏将会嵌在网页端，如果玩家喜欢你的游戏，他们可以向你捐赠任意额度的金额。",
         "upload_your_game_description": "你可以在<s>itch.io</s>上免费上传自己的游戏。我们会代为发行你的游戏，展示游戏截图和其他下载内容。我们为你提供可靠且快速的下载途径。",
         "learn_more_about": "了解更多内容：",
-        "share_message": "itch.io是一款免费在线平台，让你轻松发行自己的独立游戏",
+        "share_message": "itch.io是一款免费在线平台，让你轻松发行自己的独立游戏。",
         "create_account_or_login": "<1>创建账号</1> <em>或者</em> <2>登录账号</2>"
     },
     "user_login": {

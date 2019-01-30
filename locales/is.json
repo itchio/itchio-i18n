@@ -1,1 +1,40 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Um okkur",
+            "faq": "Algengar spurningar",
+            "blog": "Blogg",
+            "contact_us": "Hafa samband",
+            "terms": "Skilmálar",
+            "directory": "Efnisskrá"
+        },
+        "header": {
+            "browse": "Skoða",
+            "browse_games": "Skoða leiki",
+            "game_jams": "Leikjagerðarmaraþon",
+            "upload_game": "Hlaða upp leik",
+            "community": "Samfélag",
+            "search_placeholder": "Leita að leikjum eða leikjagerðarmönnum",
+            "search": "Leita",
+            "log_in": "Innskráning",
+            "register": "Skráning",
+            "dashboard": "Mælaborð",
+            "jams": "Maraþon",
+            "notifications_count": "Ein ný tilkynning",
+            "notifications_count_plural": "nýjar tilkynningar",
+            "no_notifications": "Engar nýjar tilkynningar",
+            "free_games": "Ókeypis leikir",
+            "indie_game_store": "Verslun fyrir sjálfstætt framleidda leiki",
+            "game_development": "Leikjahönnun",
+            "comics": "Myndasögur",
+            "sales": "Sala",
+            "fun_games": "Skemmtilegir leikir",
+            "games": "Leikir"
+        },
+        "user_menu": {
+            "explore": "Skoða",
+            "create": "Búa til"
+        }
+    }
+}
