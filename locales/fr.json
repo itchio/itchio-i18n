@@ -215,6 +215,9 @@
         "track_your_game": "Suivez votre jeu",
         "host_a_sale": "Créer des soldes",
         "host_a_sale_description": "Faites la promo de votre jeu et améliorez vos ventes en faisant des soldes quand ça vous chante.",
-        "learn_more": "En savoir plus"
+        "learn_more": "En savoir plus",
+        "browser_game_description": "Monétisez votre jeu Navigateur en l'hébergeant sur <s>itch.io</s>. Votre jeu sera embarqué dans notre cadre et vous pourrez même recevoir des dons si votre création plait.",
+        "upload_your_game_description": "Téléversez votre jeu indé sur <s>itch.io</s> gratuitement. Nous hébergeons votre jeu, avec vos captures et vos autres fichiers. Les téléchargements sont toujours disponibles et rapides.",
+        "learn_more_about": "En savoir plus sur :"
     }
 }
