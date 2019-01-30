@@ -97,7 +97,9 @@
         },
         "intro": "使用<s>itch.io</s>即可简单快捷地免费寻找和分享独立游戏。",
         "intro_cta": "<1>添加你的游戏</1> 或 <2>阅读FAQ</2>",
-        "html5_games": "HTML5游戏"
+        "html5_games": "HTML5游戏",
+        "from_the_blog": "博客摘要",
+        "from_the_itchio_blog": "itch.io博客摘要"
     },
     "misc": {
         "classifications": {
