@@ -18,7 +18,8 @@
             "search": "Buscar",
             "log_in": "Iniciar sesión",
             "register": "Registrarse",
-            "notifications_count": "Una notificación",
+            "notifications_count": "{{count}} notificación",
+            "notifications_count_plural": "{{count}} notificaciones",
             "no_notifications": "No hay nuevas notificaciones",
             "game_jams": "Game Jams",
             "devlogs": "Devlogs",
@@ -32,7 +33,6 @@
             "bundles": "Bundles",
             "fun_games": "Juegos divertidos",
             "games": "Juegos",
-            "notifications_count_plural": "{{count}} notificaciones",
             "game_assets": "Insumos",
             "feed_unseen_count": "{{count}} nuevos",
             "feed": "Feed"
