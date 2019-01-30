@@ -18,7 +18,7 @@
             "search": "Suche",
             "log_in": "Anmelden",
             "register": "Registrieren",
-            "notifications_count": "Eine Benachrichtigung",
+            "notifications_count": "{{count}} Benachrichtigung",
             "notifications_count_plural": "{{count}} Benachrichtigungen",
             "no_notifications": "Keine neuen Benachrichtigungen",
             "free_games": "Kostenlose Spiele",
