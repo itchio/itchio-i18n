@@ -1,1 +1,182 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "O nás",
+            "faq": "FAQ",
+            "blog": "Blog",
+            "contact_us": "Kontaktujte nás",
+            "terms": "Podmienky",
+            "directory": "Adresár"
+        },
+        "header": {
+            "browse": "Prehliadať",
+            "browse_games": "Prehľadávať hry",
+            "game_jams": "Game Jamy",
+            "upload_game": "Uploadovať hru",
+            "devlogs": "Devlogy",
+            "community": "Komunita",
+            "search_placeholder": "Hľadať herných tvorcov",
+            "search": "Hľadať",
+            "log_in": "Prihlásiť sa",
+            "register": "Registrovať sa",
+            "jams": "Jamy",
+            "no_notifications": "Žiadne nové oznamy",
+            "free_games": "Hry zdarma",
+            "indie_game_store": "Obchod indie hier",
+            "game_development": "Herný vývoj",
+            "comics": "Komiks",
+            "sales": "Zľavy",
+            "bundles": "Balíčky",
+            "game_assets": "Assety",
+            "fun_games": "Zábavné hry",
+            "games": "Hry",
+            "feed": "Príspevky"
+        },
+        "user_menu": {
+            "explore": "Objaviť",
+            "create": "Vytvoriť",
+            "account": "Účet",
+            "log_out": "Odhlásiť",
+            "settings": "Nastavenia",
+            "view_profile": "Zobraziť profil",
+            "host_game_jam": "Založiť game jam",
+            "sales_bundles": "Zľavy a balíčky",
+            "new_project": "Nahrať nový projekt",
+            "game_jams": "Game jamy",
+            "recommendations": "Odporúčané",
+            "library": "Moja knižnica",
+            "feed": "Moje príspevky"
+        }
+    },
+    "index": {
+        "popular_tags": "Populárny tagy",
+        "browse": "Prehliadať",
+        "games_by_price": "Hry podľa ceny",
+        "download_app": "Stiahnuť appku",
+        "view_something_random": "Zobraziť niečo náhodné",
+        "view_all_games": "Zobraziť všetky hry",
+        "dont_see_anything_you_like": "Nenašli ste čo ste hľadali?",
+        "from_the_blog": "Z blogu",
+        "random_game": "Náhodná hra",
+        "get_the_app": "<s>Využite itch.io čo najviac!</s>Nainštalujte a spravujte svoje hry pomocou našej desktopovej aplikácie",
+        "from_the_itchio_blog": "Z blogu itch.io",
+        "view_all_blog_posts": "Zobraziť všetky updaty",
+        "search_games_creators": "Hľadať hry a tvorcov",
+        "browse_all_tags": "Prehľadávať všetky tagy",
+        "on_sale": "V zľave",
+        "free_games": "Hry zdarma",
+        "top_sellers": "Najpredávanejšie",
+        "with_demo": "S demom",
+        "view_all": "Zobraziť všetky",
+        "recommended_for_you": "Odporúčané pre vás",
+        "recommendations_based_on": "Podľa kúpených, stiahnutých a hodnotených hier",
+        "fresh_games": "Čerstvé hry",
+        "view_more": "Zobraziť viac",
+        "featured_jams": "Featured jamy",
+        "view_all_jams": "Zobraziť všetky jamy",
+        "fresh_games_description": "Neustále updatované novými hrami na itch.io",
+        "people_to_follow": "Ľudia na sledovanie",
+        "view_all_games_on_sale": "Zobraziť všetky hry v zľave",
+        "more_featured_games": "Viac featured hier",
+        "game_dev_on_sale": "Zdroje Pre Herný Vývoj <1>V Zľave<1>",
+        "view_all_on_sale": "Zobraziť všetko v zľave",
+        "people_to_follow_description": "Tu sú niektoré účty, ktoré by vás mohli zaujímať. <a>Prečo sledovať?</a>",
+        "filtering_platform": "Filtrujem všetky hry na {{platform_name}}",
+        "view_all_platforms": "Zobraziť všetky platformy",
+        "browse_content_type": "Prehliadať {{content_type}}",
+        "nav": {
+            "all_games": "Všetky hry",
+            "bundles": "Balíčky",
+            "game_jams": "Game jamy",
+            "devlogs": "Devlogy",
+            "community": "Komunita"
+        },
+        "intro": "<s>itch.io</s> je jednoduchý spôsob ako nájsť a zdielať indie hry online a zadarmo.",
+        "intro_cta": "<1>Pridať vašu hru</1> alebo <2>Prečítať FAQ</2>",
+        "html5_games": "HTML5 hry"
+    },
+    "misc": {
+        "classifications": {
+            "game": "Hry",
+            "assets": "Herné assety",
+            "game_mod": "Herné módy",
+            "physical_game": "Fyzické hry",
+            "soundtrack": "Soundtracky",
+            "other": "Iné",
+            "tool": "Nástroje",
+            "comic": "Komiks",
+            "book": "Knihy"
+        },
+        "accessibility_features": {
+            "colorblind": "Farboslepý mód",
+            "subtitles": "Titulky",
+            "configurable_controls": "Nastaviteľné ovládanie",
+            "highcontrast": "Vysoko kontrastné",
+            "tutorial": "Ineraktívny návod",
+            "one_button": "Jedno tlačidlo",
+            "blind": "Mód pre slepých",
+            "textless": "Bez textu"
+        },
+        "multiplayer_features": {
+            "local": "Lokálny multiplayer",
+            "server": "Serverový sieťový multiplayer",
+            "adhoc": "Ad-hoc sieťový multiplayer"
+        },
+        "inputs": {
+            "keyboard": "Klávesnica",
+            "mouse": "Myš",
+            "gamepad": "Gamepad",
+            "joystick": "",
+            "touchscreen": "Dotyková obrazovka",
+            "voice": "Ovládanie hlasom",
+            "dance_pad": "Tanečná podložka",
+            "midi_controller": "MIDI ovládač"
+        },
+        "durations": {
+            "seconds": "Pár sekúnd",
+            "minutes": "Pár minút",
+            "half_hour": "Okolo pol hodiny",
+            "hour": "Okolo hodiny",
+            "hours": "Pár hodín",
+            "days": "Viac dní"
+        }
+    },
+    "blog": {
+        "all_posts": "Všetky príspevky",
+        "updates": "Updaty"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Prihláste sa do vášho itch.io účtu",
+        "login_form": {
+            "username_or_email": "Prihlasovacie meno alebo email",
+            "password": "Heslo",
+            "forgot_password": "Zabudnuté heslo",
+            "create_account": "Vytvoriť účet",
+            "or_log_in_with_another_site": "Alebo prihlásiť sa pomocou inej stránky",
+            "or": "alebo",
+            "log_in_button": "Prihlásiť sa"
+        },
+        "looking_for_something_you_bought": "Hľadáte niečo čo ste zakúpili?",
+        "create_a_new_account": "Vytvoriť nový účet",
+        "intent": {
+            "community": "Musíte sa prihlásiť aby ste sa mohli zúčastniť komunity na itch.io. Vytvorenie účtu je zadarmo a zaberie vám len niekoľko minút.",
+            "comment": "Musíte mať účet na itch.io predtým ako napíšete komentár.",
+            "rate_game": "Musíte mať účet na itch.io predtým ako ohodnotíte hru.",
+            "follow": "Musíte mať účet na itch.io predtým ako niekoho sledujete.",
+            "follow_username": "Musíte mať účet na itch.io predtým ako sledujete <1>{{username}}</1>.",
+            "collection": "Musíte mať účet na itch.io predtým ako si pridáte do kolekcie.",
+            "jam_submit": "Musíte mať účet na itch.io predtým ako sa zúčastníte game jamu.",
+            "claim_object": "Prosím prihláste sa alebo si vytvorte účet na získanie {{noun}}"
+        },
+        "no_account_prompt": "Nemáte účet? <1>Vytvorte si účet</1>"
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Vytvoriť účet na itch.io",
+        "register_form": {
+            "create_account": "Vytvoriť účet",
+            "already_have_account": "alebo už máte účet?",
+            "log_in": "Prihlásiť sa"
+        }
+    }
+}
