@@ -87,6 +87,28 @@
         "latest_featured_games": "最新精选游戏",
         "filtering_platform": "筛选所有游戏内容 {{platform_name}}",
         "view_all_platforms": "浏览所有游戏平台",
-        "browse_content_type": "浏览 {{content_type}}"
+        "browse_content_type": "浏览 {{content_type}}",
+        "nav": {
+            "all_games": "所有游戏",
+            "bundles": "捆绑包",
+            "game_jams": "Game jams",
+            "devlogs": "开发日志",
+            "community": "社区"
+        },
+        "intro": "使用<s>itch.io</s>即可简单快捷地免费寻找和分享独立游戏。",
+        "intro_cta": "<1>添加你的游戏</1> 或 <2>阅读FAQ</2>",
+        "html5_games": "HTML5游戏"
+    },
+    "misc": {
+        "classifications": {
+            "game": "游戏",
+            "assets": "游戏素材",
+            "game_mod": "游戏MOD",
+            "physical_game": "线下游戏",
+            "soundtrack": "原声集"
+        }
+    },
+    "developers": {
+        "upload_or_dashboard": "<1>上传新游戏</1> <em>或</em> <2>Go to dashboard</2>"
     }
 }
