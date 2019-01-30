@@ -1,1 +1,58 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Tietoa",
+            "faq": "UKK",
+            "blog": "Blogi",
+            "contact_us": "Ota yhteyttä",
+            "directory": "Sivukartta"
+        },
+        "header": {
+            "browse": "Selaa",
+            "browse_games": "Selaa Pelejä",
+            "upload_game": "Lisää Peli",
+            "community": "Yhteisö",
+            "search_placeholder": "Hae pelejä ja kehittäjiä",
+            "search": "Hae",
+            "log_in": "Kirjaudu",
+            "register": "Rekisteröidy",
+            "dashboard": "Hallintapaneeli",
+            "jams": "Jamit",
+            "notifications_count": "Yksi",
+            "notifications_count_plural": "Useita",
+            "no_notifications": "Ei uusia ilmoituksia",
+            "free_games": "Ilmaiset pelit",
+            "indie_game_store": "Indiepelikauppa",
+            "game_development": "Pelinkehitys",
+            "comics": "Sarjakuvat",
+            "sales": "Tarjoukset",
+            "bundles": "Paketit",
+            "fun_games": "Hauskat pelit",
+            "games": "Pelit",
+            "feed_unseen_count": "uutta"
+        },
+        "user_menu": {
+            "explore": "Tutki",
+            "create": "Luo",
+            "account": "Tili",
+            "log_out": "Kirjaudu ulos",
+            "settings": "Asetukset",
+            "view_profile": "Profiili",
+            "host_game_jam": "Järjestä pelijami",
+            "sales_bundles": "Tarjoukset & paketit",
+            "new_project": "Lisää uusi projekti",
+            "dashboard": "Hallintapaneeli",
+            "game_jams": "Pelijamit",
+            "recommendations": "Suositukset",
+            "library": "Kirjasto",
+            "feed": "Syöte"
+        }
+    },
+    "index": {
+        "popular_tags": "Suositut avainsanat",
+        "browse": "Selaa",
+        "games_by_price": "Pelit hinnan mukaan",
+        "download_app": "Lataa sovellus"
+    }
+}
