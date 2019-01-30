@@ -19,7 +19,7 @@
     "layout.footer.terms": "Conditions d'utilisation",
     "layout.footer.directory": "Plan du site",
     "layout.header.notifications_count.one": "Une notification",
-    "layout.header.notifications_count.other": "%{count} notifications",
+    "layout.header.notifications_count.other": "{{count}} notifications",
     "layout.header.no_notifications": "Pas de notifications",
     "layout.user_menu.explore": "Explorer",
     "layout.user_menu.create": "Créer",
