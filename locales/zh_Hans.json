@@ -105,7 +105,46 @@
             "assets": "游戏素材",
             "game_mod": "游戏MOD",
             "physical_game": "线下游戏",
-            "soundtrack": "原声集"
+            "soundtrack": "原声集",
+            "other": "杂项",
+            "tool": "工具",
+            "comic": "漫画",
+            "book": "书籍"
+        },
+        "accessibility_features": {
+            "colorblind": "色盲模式",
+            "subtitles": "字幕",
+            "configurable_controls": "按键可修改",
+            "highcontrast": "高契合度",
+            "tutorial": "交互教程",
+            "one_button": "一键操作",
+            "blind": "盲人模式",
+            "textless": "无文本"
+        },
+        "multiplayer_features": {
+            "local": "本地多人游戏",
+            "server": "服务器联机",
+            "adhoc": "网络联机"
+        },
+        "inputs": {
+            "keyboard": "键盘",
+            "mouse": "鼠标",
+            "gamepad": "手柄（任何型号）",
+            "joystick": "摇杆",
+            "touchscreen": "触屏",
+            "voice": "声控",
+            "accelerometer": "加速度传感器",
+            "phone": "手机",
+            "dance_pad": "跳舞毯",
+            "midi_controller": "MIDI接口"
+        },
+        "durations": {
+            "seconds": "数秒",
+            "minutes": "数分钟",
+            "half_hour": "半小时",
+            "hour": "一小时",
+            "hours": "数小时",
+            "days": "一天及以上"
         }
     },
     "developers": {
@@ -134,7 +173,9 @@
             "create_account": "创建账号",
             "or_log_in_with_another_site": "或者以第三方账号登录",
             "or": "或者",
-            "log_in_button": "登录"
+            "log_in_button": "登录",
+            "username_or_email": "用户名或邮箱",
+            "password": "密码"
         },
         "looking_for_something_you_bought": "寻找已购买内容？",
         "create_a_new_account": "创建新账号",
@@ -148,7 +189,8 @@
             "jam_submit": "登录账号后即可提交游戏作品。",
             "claim_object": "请登录或者创建账号后获取 {{noun}}"
         },
-        "no_account_prompt": "还没有账号？ <1>创建账号</1>"
+        "no_account_prompt": "还没有账号？ <1>创建账号</1>",
+        "log_in_to_your_itchio_account": "登陆你的itch.io账户"
     },
     "user_register": {
         "create_an_account_on_itchio": "创建itch.io账号",
@@ -170,5 +212,9 @@
             "username": "用户名",
             "other_registration_methods": "其他注册方式"
         }
+    },
+    "blog": {
+        "all_posts": "所有布告",
+        "updates": "更新"
     }
 }
