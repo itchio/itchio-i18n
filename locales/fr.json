@@ -174,7 +174,12 @@
         "intent": {
             "rate_game": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir noter un jeu.",
             "follow": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir suivre quelqu'un.",
-            "community": "Pour participer aux communautés itch.io, il faut se connecter. Créer un compte est gratuit et rapide."
+            "community": "Pour participer aux communautés itch.io, il faut se connecter. Créer un compte est gratuit et rapide.",
+            "comment": "Il vous faut un compte itch.io pour commenter.",
+            "follow_username": "Il vous faut un compte itch.io pour s'abonner à <1>{{username}}</1>.",
+            "collection": "Il vous faut un compte itch.io pour ajouter à une collection.",
+            "jam_submit": "Il vous faut un compte itch.io pour participer à une jam.",
+            "claim_object": "Connectez-vous ou créer un compte pour réclamer le {{noun}}"
         }
     },
     "user_register": {
@@ -189,7 +194,16 @@
             "password": "Mot de passe",
             "repeat_password": "Vérification du mot de passe",
             "url_preview": "Votre page de profil sera",
-            "other_registration_methods": "Autres méthodes de connexion"
+            "other_registration_methods": "Autres méthodes de connexion",
+            "already_have_account": "ou vous avez déjà un compte ?",
+            "digest_signup": "Envoyez-moi la lettre de nouvelles \"En bref\" itch.io bimensuelle",
+            "interest_gamer": "Je veux jouer ou télécharger des jeux depuis itch.io",
+            "interest_developer": "Je veux distribuer du contenu sur itch.io",
+            "account_preferences_info": "Vous pouvez changer vos réponses plus tard, ces questions ajustent la manière dont le site se présente à vous.",
+            "username": "Nom d'utilisateur"
         }
+    },
+    "developers": {
+        "page_header": "Créer une page personnalisée pour distribuer ou vendre votre jeu indé immédiatement"
     }
 }
