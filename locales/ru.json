@@ -67,6 +67,68 @@
         "free_games": "Бесплатные игры",
         "view_all": "Показать все",
         "recommended_for_you": "Рекомендованные для вас",
-        "recommendations_based_on": "Основано на продуктах, которые вы покупали, скачивали или оценивали"
+        "recommendations_based_on": "Основано на продуктах, которые вы покупали, скачивали или оценивали",
+        "on_sale": "Распродажа",
+        "top_sellers": "Самые продаваемые",
+        "with_demo": "Есть демо",
+        "fresh_games": "Свежие игры",
+        "view_all_jams": "Показать все джемы",
+        "fresh_games_description": "Постоянно обновляемый список последних игр на itch.io",
+        "view_all_games_on_sale": "Показать все игры со скидками",
+        "view_all_on_sale": "Показать всё со скидками",
+        "people_to_follow_description": "Аккаунты, которые могут быть вам интересны. <a>Зачем подписываться?</a>",
+        "latest_featured_games": "Последние избранные игры",
+        "filtering_platform": "Показаны только игры для {{platform_name}}",
+        "view_all_platforms": "Показать все платформы",
+        "nav": {
+            "all_games": "Все игры",
+            "bundles": "Бандлы",
+            "game_jams": "Геймджемы",
+            "devlogs": "Дневники",
+            "community": "Сообщество"
+        },
+        "intro": "<s>itch.io</s> - простой способ найти и поделиться инди играми онлайн.",
+        "intro_cta": "<1>Добавить вашу игру</1> или <2>Прочитать FAQ</2>",
+        "html5_games": "HTML5 игры"
+    },
+    "misc": {
+        "classifications": {
+            "game": "Игры",
+            "assets": "Игровые ассеты",
+            "game_mod": "Моды к играм",
+            "physical_game": "Физические игры",
+            "soundtrack": "Саундтреки",
+            "other": "Прочее",
+            "tool": "Утилиты",
+            "comic": "Комиксы",
+            "book": "Книги"
+        },
+        "accessibility_features": {
+            "colorblind": "Дружественно к людям с дальтонизмом",
+            "subtitles": "Субтитры",
+            "configurable_controls": "Настраиваемое управление",
+            "highcontrast": "Высокая контрастность",
+            "tutorial": "Интерактивный туториал",
+            "one_button": "Одна кнопка",
+            "blind": "Дружественно к слепым",
+            "textless": "Без текста"
+        },
+        "multiplayer_features": {
+            "local": "Локальный мультиплеер",
+            "server": "Сетевой мультиплеер с серверами",
+            "adhoc": "Сетевой мультиплеер без серверов"
+        },
+        "inputs": {
+            "keyboard": "Клавиатура",
+            "mouse": "Мышь",
+            "gamepad": "Геймпад (любой)",
+            "joystick": "Джойстик",
+            "touchscreen": "Тачскрин",
+            "voice": "Управление голосом",
+            "accelerometer": "Акселерометр",
+            "phone": "Смартфон",
+            "dance_pad": "Дэнс-пад",
+            "midi_controller": "MIDI контроллер"
+        }
     }
 }
