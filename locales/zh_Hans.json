@@ -109,6 +109,66 @@
         }
     },
     "developers": {
-        "upload_or_dashboard": "<1>上传新游戏</1> <em>或</em> <2>Go to dashboard</2>"
+        "upload_or_dashboard": "<1>上传新游戏</1> <em>或</em> <2>前往面板</2>",
+        "page_header": "创建自定义页面，马上发行或者销售你的独立游戏",
+        "product_summary1": "<s>itch.io</s>是一款免费在线平台，让你轻松发行自己的独立游戏。一次性上传游戏文件和截图，为你的游戏建立定制化的宣传页面。",
+        "product_summary2": "你甚至可以为游戏设置最低购买价格，让玩家自行选择支付的价格。",
+        "my_dashboard": "我的面板",
+        "upload_a_new_game": "上传新游戏",
+        "account_faq_cta": "<1>马上创建账号</1> 或者 <2>阅读常见问题</2>",
+        "upload_your_indie_game": "上传你的独立游戏",
+        "design_your_games_page": "设计你的游戏页面",
+        "track_your_game": "追踪你的游戏数据",
+        "host_a_sale": "进行游戏促销活动",
+        "host_a_sale_description": "宣传你的游戏，在任意时间段开展促销活动来获得更高销量。",
+        "learn_more": "了解更多内容",
+        "browser_game_description": "通过<s>itch.io</s>发布你开发的网页游戏可以让你获得收入。你的游戏将会嵌在网页端，如果玩家喜欢你的游戏，他们可以向你捐赠任意额度的金额。",
+        "upload_your_game_description": "你可以在<s>itch.io</s>上免费上传自己的游戏。我们会代为发行你的游戏，展示游戏截图和其他下载内容。我们为你提供可靠且快速的下载途径。",
+        "learn_more_about": "了解更多内容：",
+        "share_message": "itch.io是一款免费在线平台，让你轻松发行自己的独立游戏",
+        "create_account_or_login": "<1>创建账号</1> <em>或者</em> <2>登录账号</2>"
+    },
+    "user_login": {
+        "login_form": {
+            "forgot_password": "忘记密码",
+            "create_account": "创建账号",
+            "or_log_in_with_another_site": "或者以第三方账号登录",
+            "or": "或者",
+            "log_in_button": "登录"
+        },
+        "looking_for_something_you_bought": "寻找已购买内容？",
+        "create_a_new_account": "创建新账号",
+        "intent": {
+            "community": "你需要登录账号才能在itch.io的社区上互动。你可以免费且快速地创建新账号。",
+            "comment": "登录账号后即可进行评论。",
+            "rate_game": "登录账号后即可给游戏评分。",
+            "follow": "登录账号后即可关注其他用户。",
+            "follow_username": "登录账号后即可关注 <1>{{username}}</1>。",
+            "collection": "登录账号后即可收藏游戏。",
+            "jam_submit": "登录账号后即可提交游戏作品。",
+            "claim_object": "请登录或者创建账号后获取 {{noun}}"
+        },
+        "no_account_prompt": "还没有账号？ <1>创建账号</1>"
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "创建itch.io账号",
+        "register_form": {
+            "create_account": "创建账号",
+            "already_have_account": "或者已有账号？",
+            "log_in": "登录",
+            "link_product": "注册账号后，你所购买的<1>{{product}}</1>将会自动关联到已注册账号。",
+            "accept_tos": "我同意并接受 <1>服务条款</1>",
+            "digest_signup": "订阅itch.io的双月文摘刊物",
+            "interest_gamer": "我希望在itch.io上玩游戏或者下载游戏",
+            "interest_developer": "我希望在itch.io上分发内容",
+            "account_preferences_info": "你可以后续修改这些答案，itch.io会根据这些答案向你展示网站内容。",
+            "about_you": "个人信息",
+            "your_email_address": "你的邮箱",
+            "password": "输入密码",
+            "repeat_password": "再次输入密码",
+            "url_preview": "你的个人页面将为",
+            "username": "用户名",
+            "other_registration_methods": "其他注册方式"
+        }
     }
 }
