@@ -173,7 +173,8 @@
         "no_account_prompt": "Pas de compte? <1>Créer un compte</1>",
         "intent": {
             "rate_game": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir noter un jeu.",
-            "follow": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir suivre quelqu'un."
+            "follow": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir suivre quelqu'un.",
+            "community": "Pour participer aux communautés itch.io, il faut se connecter. Créer un compte est gratuit et rapide."
         }
     },
     "user_register": {
@@ -181,7 +182,7 @@
         "register_form": {
             "create_account": "Créer un compte",
             "log_in": "Se connecter",
-            "link_product": "Votre achat: <1>{{product}}</1> sera lié à votre compte après votre connexion.",
+            "link_product": "Votre achat: <1>{{product}}</1> sera lié à votre compte dès sa création.",
             "accept_tos": "J'accepte les <1>Conditions Générales d'Utilisations</1>",
             "about_you": "À propos de vous",
             "your_email_address": "Votre adresse email",
