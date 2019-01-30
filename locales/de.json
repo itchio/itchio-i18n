@@ -12,7 +12,44 @@
         "header": {
             "browse": "Durchsuchen",
             "browse_games": "Spiele durchsuchen",
-            "game_jams": "Game Jams"
+            "game_jams": "Game Jams",
+            "upload_game": "Spiel hochladen",
+            "devlogs": "Devlogs",
+            "search": "Suche",
+            "log_in": "Anmelden",
+            "register": "Registrieren",
+            "notifications_count": "Eine Benachrichtigung",
+            "notifications_count_plural": "{{count}} Benachrichtigungen",
+            "no_notifications": "Keine neuen Benachrichtigungen",
+            "free_games": "Kostenlose Spiele",
+            "game_development": "Spieleentwicklung",
+            "sales": "Verkäufe",
+            "bundles": "Bündel",
+            "games": "Spiele",
+            "feed_unseen_count": "{{count}} neu"
+        },
+        "user_menu": {
+            "explore": "Erkunden",
+            "create": "Erstellen",
+            "account": "Konto",
+            "log_out": "Abmelden",
+            "settings": "Einstellungen",
+            "view_profile": "Profil ansehen",
+            "new_project": "Neuen Projekt hochladen",
+            "recommendations": "Empfehlungen",
+            "library": "Meine Bibliothek"
         }
+    },
+    "index": {
+        "popular_tags": "Beliebte Tags",
+        "browse": "Stöbern",
+        "games_by_price": "Spiele nach Preis",
+        "download_app": "App herunterladen",
+        "view_something_random": "Etwas zufälliges anschauen",
+        "view_all_games": "Alle Spiele anschauen",
+        "from_the_blog": "Vom Blog",
+        "random_game": "Zufälliges Spiel",
+        "on_sale": "Im Angebot",
+        "free_games": "Kostenlose Spiele"
     }
 }
