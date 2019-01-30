@@ -220,5 +220,13 @@
         "share_message": "itch.io is a simple way to distribute your indie games online for free.",
         "create_account_or_login": "<1>Create an account</1> <em>or</em> <2>Log in</2>",
         "upload_or_dashboard": "<1>Upload a new game</1> <em>or</em> <2>Go to dashboard</2>"
+    },
+    "search": {
+        "creators": "Creators:",
+        "published_count": "{{ count }} project",
+        "published_count_plural": "{{ count }} projects",
+        "view_all_tags": "View all tags",
+        "browse_all_games": "Browse all games",
+        "search_results_for_query": "Search results for '{{query}}'"
     }
 }
