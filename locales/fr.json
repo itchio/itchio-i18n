@@ -22,10 +22,7 @@
             "register": "S'inscrire",
             "dashboard": "Tableau de bord",
             "jams": "Jams",
-            "notifications_count": {
-                "one": "Une notification",
-                "other": "{{count}} notifications"
-            },
+            "notifications_count": "Une notification",
             "no_notifications": "Pas de notifications",
             "free_games": "Jeux gratuits",
             "indie_game_store": "Magasin de jeux indés",
@@ -37,7 +34,8 @@
             "fun_games": "Jeux marrants",
             "games": "Jeux",
             "feed_unseen_count": "{{count}} nouveautés",
-            "feed": "Fil"
+            "feed": "Fil",
+            "notifications_count_plural": "{{count}} notifications"
         },
         "user_menu": {
             "explore": "Explorer",
@@ -221,6 +219,6 @@
         "learn_more_about": "En savoir plus sur :",
         "share_message": "itch.io est un moyen simple de distribuer gratuitement vos jeux en ligne.",
         "create_account_or_login": "<1>Créer un compte</1> <em>ou</em> <2>Se connecter</2>",
-        "upload_or_dashboard": ""
+        "upload_or_dashboard": "<1>Créer un nouveau jeu</1> <em>ou</em> <2>Accéder au tableau de bord</2>"
     }
 }
