@@ -185,7 +185,10 @@
             "accept_tos": "J'accepte les <1>Conditions Générales d'Utilisations</1>",
             "about_you": "À propos de vous",
             "your_email_address": "Votre adresse email",
-            "password": "Mot de passe"
+            "password": "Mot de passe",
+            "repeat_password": "Vérification du mot de passe",
+            "url_preview": "Votre page de profil sera",
+            "other_registration_methods": "Autres méthodes de connexion"
         }
     }
 }
