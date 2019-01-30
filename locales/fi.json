@@ -32,7 +32,8 @@
             "fun_games": "Hauskat pelit",
             "games": "Pelit",
             "feed_unseen_count": "uutta",
-            "game_jams": "Game Jamit"
+            "game_jams": "Game Jamit",
+            "feed": "Syöte"
         },
         "user_menu": {
             "explore": "Tutki",
@@ -55,6 +56,152 @@
         "popular_tags": "Suositut avainsanat",
         "browse": "Selaa",
         "games_by_price": "Pelit hinnan mukaan",
-        "download_app": "Lataa sovellus"
+        "download_app": "Lataa sovellus",
+        "view_something_random": "Satunnainen",
+        "view_all_games": "Näytä kaikki pelit",
+        "dont_see_anything_you_like": "Etkö löydä haluamaasi?",
+        "from_the_blog": "Blogista",
+        "random_game": "Satunnainen peli",
+        "get_the_app": "<s>Ota itch.iosta kaikki irti!</s> Asenna ja hallinnoi pelejäsi työpöytäsovelluksella",
+        "from_the_itchio_blog": "itch.io-blogista",
+        "view_all_blog_posts": "Näytä kaikki päivitykset",
+        "search_games_creators": "Hae peleistä ja tekijöistä",
+        "browse_all_tags": "Selaa kaikkia avainsanoja",
+        "on_sale": "Tarjouksessa",
+        "free_games": "Ilmaiset pelit",
+        "top_sellers": "Myydyimmät",
+        "view_all": "Näytä kaikki",
+        "recommended_for_you": "Suosituksia sinulle",
+        "recommendations_based_on": "Ostostesi, lataustesi ja arvostelujesi perusteella",
+        "fresh_games": "Uudet pelit",
+        "view_more": "Näytä lisää",
+        "featured_jams": "Suositellut jamit",
+        "view_all_jams": "Näytä kaikki jamit",
+        "view_all_games_on_sale": "Näytä kaikki tarjouspelit",
+        "more_featured_games": "Lisää suositeltuja pelejä",
+        "view_all_on_sale": "Näytä kaikki tarjoukset",
+        "people_to_follow_description": "Tässä joitain seurattavia joista saattaisit olla kiinnostunut. <a>Miksi seurata?</a>",
+        "latest_featured_games": "Uusimmat suositellut pelit",
+        "filtering_platform": "Suodatetaan kaikki pelit alustalle {{platform_name}}",
+        "view_all_platforms": "Näytä kaikki alustat",
+        "browse_content_type": "Selaa {{content_type}}",
+        "nav": {
+            "all_games": "Kaikki pelit",
+            "bundles": "Paketit",
+            "game_jams": "Pelijamit"
+        },
+        "intro": "<s>itch.io</s> on yksinkertainen tapa löytää ja jakaa indiepelejä ilmaiseksi.",
+        "intro_cta": "<1>Lisää pelisi</1> tai <2>Tutustu UKK:iin</2>",
+        "html5_games": "HTML5-pelit"
+    },
+    "misc": {
+        "classifications": {
+            "game": "Pelit",
+            "assets": "Peliassetit",
+            "game_mod": "Pelien modit",
+            "physical_game": "Fyysiset pelit",
+            "soundtrack": "Soundtrackit",
+            "other": "Muut",
+            "tool": "Työkalut",
+            "comic": "Sarjakuvat",
+            "book": "Kirjat"
+        },
+        "accessibility_features": {
+            "colorblind": "Värisokeille sopivat",
+            "subtitles": "Tekstitykset",
+            "configurable_controls": "Säädettävät kontrollit",
+            "highcontrast": "Korkea kontrasti",
+            "tutorial": "Interaktiivinen tutoriaali",
+            "one_button": "Yksi painike",
+            "blind": "Sokeille soveltuva",
+            "textless": "Tekstitön"
+        },
+        "multiplayer_features": {
+            "local": "Paikallinen moninpeli",
+            "server": "Palvelinpohjainen nettimoninpeli",
+            "adhoc": "Ad-hoc nettimoninpeli"
+        },
+        "inputs": {
+            "keyboard": "Näppäimistö",
+            "mouse": "Hiiri",
+            "gamepad": "Ohjain (mikä tahansa)",
+            "joystick": "Joystick",
+            "touchscreen": "Kosketusnäyttö",
+            "voice": "Ääniohjaus",
+            "accelerometer": "Nopeusmittari",
+            "phone": "Älypuhelin",
+            "dance_pad": "Tanssimatto",
+            "midi_controller": "MIDI-ohjain"
+        },
+        "durations": {
+            "seconds": "Muutama sekunti",
+            "minutes": "Muutama minuutti",
+            "half_hour": "Noin puoli tuntia",
+            "hour": "Noin tunti",
+            "hours": "Muutama tunti",
+            "days": "Päivä tai enemmän"
+        }
+    },
+    "blog": {
+        "all_posts": "Kaikki postaukset",
+        "updates": "Päivitykset"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Kirjaudu itch.io-tilillesi",
+        "login_form": {
+            "username_or_email": "Käyttäjätunnus tai sähköposti",
+            "password": "Salasana",
+            "forgot_password": "Unohtuiko salasanasi",
+            "create_account": "Luo tili",
+            "or_log_in_with_another_site": "Tai kirjaudu muun sivun kautta",
+            "or": "tai",
+            "log_in_button": "Kirjaudu sisään"
+        },
+        "looking_for_something_you_bought": "Etsitkö jotain, mitä ostit?",
+        "create_a_new_account": "Luo uusi tili",
+        "intent": {
+            "community": "Sinun pitää kirjautua osallistuaksesi itch.io:n yhteisöihin. Tilin luominen on ilmaista ja kestää vain hetken.",
+            "comment": "Tarvitset itch.io tilin ennenkuin voit kommentoida.",
+            "rate_game": "Tarvitset itch.io tilin ennenkuin voit arvostella pelin.",
+            "follow": "Tarvitset itch.io tilin seurataksesi jotakuta.",
+            "follow_username": "Tarvitset itch.io-tilin ennen kuin voit seurata käyttäjää <1>{{username}}</1>.",
+            "collection": "Tarvitset itch.io-tilin ennen kuin voit lisätä kokoelmaan.",
+            "jam_submit": "Tarvitset itch.io-tilin ennen kuin voit osallistua jamiin.",
+            "claim_object": "Kirjaudu sisään tai luo tunnus lunastaaksesi tuotteen {{noun}}"
+        },
+        "no_account_prompt": "Eikö sinulla ole tunnusta? <1>Luo tunnus</1>"
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Luo itch.io-tunnus",
+        "register_form": {
+            "create_account": "Luo tili",
+            "already_have_account": "vai onko sinulla jo tunnus?",
+            "log_in": "Kirjaudu sisään",
+            "link_product": "Ostamasi tuote <1>{{product}}</1> lisätään tilillesi kun olet rekisteröitynyt.",
+            "accept_tos": "Hyväksyn <1>Käyttöehdot</1>",
+            "digest_signup": "Haluan vastaanottaa itch.io:n uutiskirjeen kahdesti kuukaudessa",
+            "interest_gamer": "Olen kiinnostunut pelaamaan tai latamaan pelejä itch.io:sta",
+            "interest_developer": "Olen kiinnostunut jakamaan omaa sisältöäni itch.iossa",
+            "account_preferences_info": "Voit vaihtaa vastauksiasi näihin kysymyksiin myöhemmin, niitä käytetään muokkaamaan itch.io:a sinulle sopivaksi.",
+            "about_you": "Kerro itsestäsi",
+            "your_email_address": "Sähköpostiosoitteesi",
+            "password": "Salasana",
+            "repeat_password": "Toista salasana",
+            "url_preview": "Profiilisivusi löytyy osoitteesta",
+            "username": "Käyttäjänimi",
+            "other_registration_methods": "Muita tapoja rekisteröityä"
+        }
+    },
+    "developers": {
+        "page_header": "Luo uusi sivu jakaaksesi tai myydäksesi indiepelejäsi välittömästi",
+        "product_summary1": "<s>itch.io</s> on yksinkertainen ja ilmainen tapa jakaa indiepelejäsi verkossa. Lataa pelitiedostosi ja kuvankaappauksesi yhteen paikkaan. Luo kustomoitu etusivu jolla sinun pelisi on keskiössä.",
+        "product_summary2": "Voit asettaa minimihinnan peliisi, antaen faneillesi mahdollisuuden maksaa mitä he haluavat pelistäsi.",
+        "my_dashboard": "Hallintapaneelini",
+        "upload_a_new_game": "Lataa uusi peli",
+        "account_faq_cta": "<1>Luo tili nyt</1> tai <2>Lue UKK</2>",
+        "upload_your_indie_game": "Lataa indiepelisi",
+        "design_your_games_page": "Suunnittele pelisi sivu",
+        "track_your_game": "Seuraa peliäsi",
+        "host_a_sale": "Järjestä tarjous"
     }
 }
