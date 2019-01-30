@@ -168,7 +168,7 @@
             "or": "ou",
             "log_in_button": "Se connecter"
         },
-        "looking_for_something_you_bought": "Cherchez-vous un achat?",
+        "looking_for_something_you_bought": "Cherchez-vous un achat ?",
         "create_a_new_account": "Créer un nouveau compte",
         "no_account_prompt": "Pas de compte? <1>Créer un compte</1>",
         "intent": {
