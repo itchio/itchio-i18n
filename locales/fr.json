@@ -82,16 +82,17 @@
     "index.random_game": "Jeu au hasard",
     "blog.all_posts": "Tous les articles",
     "blog.updates": "Mises à jour",
-    "index.get_the_app": "<s>1Profitez pleinement de Itch!</s>2 Installez et gérez vos jeux avec l'app",
+    "index.get_the_app": "<s>Profitez pleinement d'itch.io!</s> Installez et gérez vos jeux avec l'app",
     "index.from_the_itchio_blog": "En direct du blog Itch.io",
     "index.view_all_blog_posts": "Voir toutes les Mises à jour",
-    "index.on_sale": "En Solde",
+    "index.on_sale": "En solde",
     "index.free_games": "Jeux gratuits",
     "index.top_sellers": "Meilleures ventes",
     "index.with_demo": "Démo disponible",
     "index.view_all": "Tout voir",
     "index.recommended_for_you": "Recommandé pour vous",
-    "index.recommendations_based_on": "Basé sur vos achats, téléchargement et notes",
-    "index.fresh_games": "Jeux tout frais",
-    "blog.digest": "En bref"
+    "index.recommendations_based_on": "Sur la base de vos achats, téléchargements et évaluations",
+    "index.fresh_games": "Nouveaux jeux",
+    "blog.digest": "En bref",
+    "index.browse_all_tags": "Voir tous les tags"
 }
