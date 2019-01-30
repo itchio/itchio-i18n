@@ -26,7 +26,15 @@
             "game_jams": "Game Jams",
             "devlogs": "Devlogs",
             "dashboard": "Dashboard",
-            "jams": "Jams"
+            "jams": "Jams",
+            "free_games": "Juegos gratis",
+            "indie_game_store": "Tienda de juegos indie",
+            "game_development": "Desarrollo de videojuegos",
+            "comics": "Comics",
+            "sales": "Rebajas",
+            "bundles": "Bundles",
+            "fun_games": "Juegos divertidos",
+            "games": "Juegos"
         },
         "user_menu": {
             "explore": "Explorar",
@@ -49,7 +57,49 @@
         "popular_tags": "Etiquetas Populares",
         "games_by_price": "Juegos por precio",
         "download_app": "Descargar app",
-        "browse": "Ver"
+        "browse": "Ver",
+        "view_something_random": "Ver algo aleatorio",
+        "view_all_games": "Ver todos los juegos",
+        "dont_see_anything_you_like": "¿No ves nada que te guste?",
+        "from_the_blog": "Desde el blog",
+        "random_game": "Juego aleatorio",
+        "get_the_app": "<s>¡Aprovecha itch.io al máximo!</s> Instala y administra tus juegos con nuestra app de escritorio",
+        "from_the_itchio_blog": "Desde el blog de itch.io",
+        "view_all_blog_posts": "Ver todas las actualizaciones",
+        "search_games_creators": "Buscar juegos y creadores",
+        "browse_all_tags": "Ver todas las etiquetas",
+        "on_sale": "Ofertas",
+        "free_games": "Juegos gratis",
+        "top_sellers": "Los más vendidos",
+        "with_demo": "Con demo",
+        "view_all": "Ver todos",
+        "recommended_for_you": "Recomendados para ti",
+        "recommendations_based_on": "Basado en lo que has comprado, descargado y valorado",
+        "fresh_games": "Juegos Nuevos",
+        "view_more": "Ver más",
+        "featured_jams": "Jams seleccionadas",
+        "view_all_jams": "Ver todas las jams",
+        "fresh_games_description": "Actualizado constantemente con los últimos juegos en itch.io",
+        "people_to_follow": "Personas a las que seguir",
+        "view_all_games_on_sale": "Ver todos los juegos en oferta",
+        "more_featured_games": "Más juegos seleccionados",
+        "game_dev_on_sale": "Recursos Para Gamedevs <1>En Oferta</1>",
+        "view_all_on_sale": "Ver todas las ofertas",
+        "people_to_follow_description": "Estos son algunos perfiles que puede que te interese seguir. <a>¿Por qué seguirles?</a>",
+        "latest_featured_games": "Últimos Juegos Seleccionados",
+        "filtering_platform": "Filtrando todos los juegos para {{platform_name}}",
+        "view_all_platforms": "Ver todas las plataformas",
+        "browse_content_type": "Buscar {{content_type}}",
+        "nav": {
+            "all_games": "Todos los Juegos",
+            "bundles": "Bundles",
+            "game_jams": "Game jams",
+            "devlogs": "Devlogs",
+            "community": "Comunidad"
+        },
+        "intro": "<s>itch.io</s> es una manera simple de encontrar y compartir juegos indie online de forma gratuita.",
+        "intro_cta": "<1>Añade tu juego</1> o <2>Lee las preguntas más frecuentes</2>",
+        "html5_games": "Juegos HTML5"
     },
     "misc": {
         "classifications": {
@@ -97,6 +147,47 @@
             "hour": "Alrededor de una hora",
             "hours": "Unas pocas horas",
             "days": "Días o más"
+        }
+    },
+    "blog": {
+        "all_posts": "Todas las publicaciones",
+        "updates": "Actualizaciones",
+        "digest": "Resumen"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Inicia sesión en tu cuenta de itch.io",
+        "login_form": {
+            "username_or_email": "Nombre de usuario o email",
+            "password": "Contraseña",
+            "forgot_password": "Contraseña olvidada",
+            "create_account": "Crear cuenta",
+            "or_log_in_with_another_site": "O conectarse a través de otro servicio",
+            "or": "o",
+            "log_in_button": "Iniciar sesión"
+        },
+        "looking_for_something_you_bought": "¿Buscas algo que ya has comprado?",
+        "create_a_new_account": "Crear nueva cuenta",
+        "intent": {
+            "community": "Necesitas iniciar sesión para participar en las comunidades de itch.io. Crear una cuenta es gratis y es sólo un instante.",
+            "comment": "Necesitas una cuenta de itch.io para dejar un comentario.",
+            "rate_game": "Necesitas una cuenta en itch.io para valorar un juego.",
+            "follow": "Necesitas una cuenta de itch.io para seguir a una persona.",
+            "follow_username": "Necesitas una cuenta de itch.io para seguir a <1>{{username}}</1>.",
+            "collection": "Necesitas una cuenta de itch.io para añadir a una colección.",
+            "jam_submit": "Necesitas una cuenta de itch.io para participar en una jam.",
+            "claim_object": "Inicia sesión o crea una cuenta para reclamar el {{noun}}"
+        },
+        "no_account_prompt": "¿No tienes cuenta? <1>Crear una cuenta</1>"
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Crear una cuenta en itch.io",
+        "register_form": {
+            "create_account": "Crear cuenta",
+            "already_have_account": "o, ¿ya tienes una cuenta?",
+            "log_in": "Iniciar sesión",
+            "link_product": "La compra de <1>{{product}}</1> se enlazará automáticamente a tu cuenta tras registrarte.",
+            "accept_tos": "Acepto los <1>Términos y condiciones</1>",
+            "digest_signup": "Inscríbeme a la newsletter con el resumen bimensual de itch.io"
         }
     }
 }
