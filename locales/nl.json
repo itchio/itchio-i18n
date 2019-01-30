@@ -6,7 +6,8 @@
             "faq": "FAQ",
             "blog": "Blog",
             "contact_us": "Contacteer ons",
-            "terms": "Gebruiksvoorwaarden"
+            "terms": "Gebruiksvoorwaarden",
+            "directory": "Bibliotheek"
         },
         "header": {
             "upload_game": "Game uploaden",
@@ -17,7 +18,8 @@
             "notifications_count": "Een notificatie",
             "notifications_count_plural": "{{aantal}} notificaties",
             "free_games": "Gratis games",
-            "bundles": "Bundels"
+            "bundles": "Bundels",
+            "browse": "Bladeren"
         }
     }
 }
