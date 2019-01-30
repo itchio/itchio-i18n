@@ -22,7 +22,7 @@
             "register": "S'inscrire",
             "dashboard": "Tableau de bord",
             "jams": "Jams",
-            "notifications_count": "Une notification",
+            "notifications_count": "{{count}} notification",
             "notifications_count_plural": "{{count}} notifications",
             "no_notifications": "Pas de notifications",
             "free_games": "Jeux gratuits",
