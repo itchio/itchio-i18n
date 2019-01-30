@@ -205,16 +205,16 @@
     },
     "developers": {
         "page_header": "Créer une page personnalisée pour distribuer ou vendre votre jeu indé immédiatement",
-        "product_summary1": "<s>itch.io</s> est un moyen simple pour distribuer gratuitement vos jeux indés en ligne. Téléversez vos fichiers de jeu et vos captures à un seul endroit. Créez un page sur mesure pour mettre en valeur votre création.",
+        "product_summary1": "<s>itch.io</s> est un moyen simple pour distribuer gratuitement vos jeux indés en ligne. Mettez en ligne vos fichiers de jeu et vos captures d'écrans à un seul endroit. Créez une page sur mesure pour mettre en valeur votre création.",
         "product_summary2": "Vous pouvez même fixer un prix minimum pour votre jeu, offrant ainsi l'opportunité à vos fans de payer ce qu'ils souhaitent pour votre jeu.",
-        "my_dashboard": "Mon récapitulatif",
-        "upload_a_new_game": "Téléverser un nouveau jeu",
+        "my_dashboard": "Mon tableau de bord",
+        "upload_a_new_game": "Mettre en ligne un nouveau jeu",
         "account_faq_cta": "<1>Créer un compte maintenant</1> ou <2>Lire la FAQ</2>",
-        "upload_your_indie_game": "Téléverser Votre Jeu Indé",
-        "design_your_games_page": "Personnalisez votre page Jeu",
-        "track_your_game": "Suivi du jeu",
-        "host_a_sale": "Créer une Solde",
-        "host_a_sale_description": "Faites la promo de votre jeu et améliorez vos ventes en faisant des soldes comme ça vous chante.",
-        "learn_more": "En Savoir Plus"
+        "upload_your_indie_game": "Mettez en ligne votre jeu indé",
+        "design_your_games_page": "Personnalisez votre page",
+        "track_your_game": "Suivez votre jeu",
+        "host_a_sale": "Créer des soldes",
+        "host_a_sale_description": "Faites la promo de votre jeu et améliorez vos ventes en faisant des soldes quand ça vous chante.",
+        "learn_more": "En savoir plus"
     }
 }
