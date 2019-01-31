@@ -54,7 +54,8 @@
             "game_jams": "Game jams",
             "recommendations": "Recommendations",
             "library": "My library",
-            "feed": "My feed"
+            "feed": "My feed",
+            "account_menu_tooltip": "Account Menu"
         }
     },
     "index": {
@@ -153,6 +154,9 @@
             "hour": "About an hour",
             "hours": "A few hours",
             "days": "Days or more"
+        },
+        "forms": {
+            "required": "Required"
         }
     },
     "blog": {
@@ -302,7 +306,8 @@
             "leave_a_comment_header": "Leave a comment",
             "leave_a_comment": "Leave a comment",
             "click_to_leave_a_comment": "Click to leave a comment...",
-            "log_in_to_leave_comment": "<a>Log in with itch.io</a> to leave a comment."
+            "log_in_to_leave_comment": "<a>Log in with itch.io</a> to leave a comment.",
+            "post_comment": "Post comment"
         },
         "info_panel": {
             "updated_at": "Updated",
@@ -413,6 +418,16 @@
             "suspended_account": "Suspended account",
             "pinned_reply": "Pinned Reply",
             "pinned_post": "Pinned Post"
+        },
+        "post_form": {
+            "add_profile_image": "Add profile image",
+            "save": "Save",
+            "post": "Post",
+            "subscribe": "Subscribe",
+            "subscribe_to_this_topic": "Subscribe to this topic",
+            "subscribe_description": "Get notifications of new replies to the topic",
+            "tag_header": "Tag",
+            "remove_tag": "Remove tag"
         }
     }
 }
