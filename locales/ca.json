@@ -53,7 +53,8 @@
             "library": "La meva biblioteca",
             "host_game_jam": "Organitza una game jam",
             "game_jams": "Game jams",
-            "feed": "El meu fil de continguts"
+            "feed": "El meu fil de continguts",
+            "account_menu_tooltip": "Menú del compte"
         }
     },
     "itchio": "itch.io",
@@ -153,6 +154,9 @@
             "hour": "Una hora",
             "hours": "Unes hores",
             "days": "Uns dies o més"
+        },
+        "forms": {
+            "required": "Obligatori"
         }
     },
     "blog": {
@@ -302,7 +306,8 @@
             "leave_a_comment_header": "Deixeu un comentari",
             "leave_a_comment": "Deixeu un comentari",
             "click_to_leave_a_comment": "Feu clic per a deixar un comentari...",
-            "log_in_to_leave_comment": "<a>Inicieu la sessió a itch.io</a> per a deixar un comentari."
+            "log_in_to_leave_comment": "<a>Inicieu la sessió a itch.io</a> per a deixar un comentari.",
+            "post_comment": "Publica el comentari"
         },
         "info_panel": {
             "updated_at": "Actualitzat",
@@ -413,6 +418,16 @@
             "suspended_account": "Compte suspès",
             "pinned_reply": "Resposta fixada",
             "pinned_post": "Missatge fixat"
+        },
+        "post_form": {
+            "add_profile_image": "Afegeix una imatge de perfil",
+            "save": "Desa",
+            "post": "Publica",
+            "subscribe": "Subscriu-m'hi",
+            "subscribe_to_this_topic": "Subscriu-me a aquest tema",
+            "subscribe_description": "Obtingueu notificacions de noves respostes en aquest tema",
+            "tag_header": "Etiqueta",
+            "remove_tag": "Suprimeix l'etiqueta"
         }
     }
 }
