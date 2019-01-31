@@ -7,7 +7,9 @@
             "blog": "Blog",
             "contact_us": "Contact us",
             "terms": "Terms",
-            "directory": "Directory"
+            "directory": "Directory",
+            "privacy": "Privacy",
+            "cookies": "Cookies"
         },
         "header": {
             "browse": "Browse",
