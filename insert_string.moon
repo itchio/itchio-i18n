@@ -31,7 +31,7 @@ dmenu = (prompt, options) ->
   else
     ''
 
-  cmd = "echo -n #{pre} | dmenu -i -l 20 -p '#{shell_escape prompt}' -fn 'xos4 Terminus-20'"
+  cmd = "echo -n #{pre} | dmenu -i -l 20 -p '#{shell_escape prompt}' -fn 'xos4 Terminus-16'"
   f = assert io.popen cmd
   trim f\read("*all")
 
@@ -143,23 +143,25 @@ if suffix == ""
 
 
 merge = {}
-key = "#{prefix}.#{suffix}"
+key = "#{prefix}.#{suffix}"\gsub("%.%.+", ".")
 parts = [part for part in key\gmatch "[^%.]+"]
 
 existing = if file = io.open(args.translations_file, "r")
   from_json assert file\read "*a"
 
+local overwriting
 
 current = merge
 path = {}
 for i, p in ipairs parts
   if i == #parts
-    if existing and type(existing[p]) != "text"
+    if existing and existing[p] and type(existing[p]) != "string"
       error "type mismatch: #{table.concat path, "."}.#{p}, expected string, have #{type existing[p]}"
 
     current[p] = text
+    overwriting = existing and existing[p]
   else
-    if existing and type(existing[p]) != "table"
+    if existing and existing[p] and type(existing[p]) != "table"
       error "type mismatch: #{table.concat path, "."}.#{p}, expected table, have #{type existing[p]}"
 
     current[p] or= {}
@@ -172,16 +174,25 @@ for i, p in ipairs parts
 to_append = to_json merge
 out, raw_out = jq ". * #{to_append}"
 
+can_write = if overwriting
+  if overwriting == text
+    false -- no need to write
+  else
+    "yes" == dmenu "overwrite: #{overwriting}", { "yes", "no" }
+else
+  true
+
 if args.dryrun
   print raw_out
 else
-  assert(io.open(args.translations_file, "w"))\write raw_out
+  if can_write
+    assert(io.open(args.translations_file, "w"))\write raw_out
 
 -- io.stderr\write "#{prefix}\t#{suffix}\t#{args.text}\n"
 if variables and next variables
   out = {
     [[@t("]]
-    "#{prefix}.#{suffix}"
+    key
     [[", ]]
   }
 
@@ -193,5 +204,5 @@ if variables and next variables
   out[#out] = ")"
   print table.concat out
 else
-  print args.template\format "#{prefix}.#{suffix}"
+  print args.template\format key
 
