@@ -146,13 +146,28 @@ merge = {}
 key = "#{prefix}.#{suffix}"
 parts = [part for part in key\gmatch "[^%.]+"]
 
+existing = if file = io.open(args.translations_file, "r")
+  from_json assert file\read "*a"
+
+
 current = merge
+path = {}
 for i, p in ipairs parts
   if i == #parts
+    if existing and type(existing[p]) != "text"
+      error "type mismatch: #{table.concat path, "."}.#{p}, expected string, have #{type existing[p]}"
+
     current[p] = text
   else
+    if existing and type(existing[p]) != "table"
+      error "type mismatch: #{table.concat path, "."}.#{p}, expected table, have #{type existing[p]}"
+
     current[p] or= {}
     current = current[p]
+    table.insert path, p
+
+    if existing
+      existing = existing[p]
 
 to_append = to_json merge
 out, raw_out = jq ". * #{to_append}"
