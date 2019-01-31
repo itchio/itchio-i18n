@@ -38,27 +38,19 @@ dmenu = (prompt, options) ->
 
 find_prefixes = ->
   current_strings = jq "."
-  ignore_suffixes = {"one", "few", "many", "other"}
 
   -- find prefixes
-  prefixes = {}
-  for key in pairs current_strings
-    parts = [part for part in key\gmatch "[^%.]+"]
+  recurse = (t, path="", prefixes={}) ->
+    for k,v in pairs t
+      if type(v) == "string"
+        continue if path == ""
+        prefixes[path\gsub "%.$", ""] = true
+      else
+        recurse v, "#{path}#{k}.", prefixes
 
-    continue if #parts == 1
+    prefixes
 
-    -- remove ignored suffixes
-    for i in *ignore_suffixes
-      if parts[#parts] == i
-        parts[#parts] = nil
-        break
-
-    -- remove the key name
-    parts[#parts] = nil
-    prefix = table.concat parts, "."
-    prefixes[prefix] = true
-
-
+  prefixes = recurse current_strings
   prefixes = [k for k in pairs prefixes]
   table.sort prefixes
 
