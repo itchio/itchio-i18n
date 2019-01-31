@@ -27,7 +27,8 @@
             "bundles": "バンドル",
             "game_assets": "ゲーム素材",
             "games": "ゲーム",
-            "feed": "フィード"
+            "feed": "フィード",
+            "browse": "ブラウズ"
         },
         "user_menu": {
             "account": "",
