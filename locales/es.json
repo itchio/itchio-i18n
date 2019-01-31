@@ -11,7 +11,7 @@
         },
         "header": {
             "browse": "Ver",
-            "browse_games": "Ver juegos",
+            "browse_games": "Explorar juegos",
             "upload_game": "Subir Juego",
             "community": "Comunidad",
             "search_placeholder": "Buscar juegos o creadores",
@@ -34,7 +34,8 @@
             "fun_games": "Juegos divertidos",
             "games": "Juegos",
             "game_assets": "Insumos",
-            "feed_unseen_count": "{{count}} nuevos",
+            "feed_unseen_count": "{{count}} nuevo",
+            "feed_unseen_count_plural": "{{count}} nuevos",
             "feed": "Feed"
         },
         "user_menu": {
@@ -220,5 +221,13 @@
         "share_message": "itch.io es una forma sencilla y gratuita de distribuir tus juegos indie en línea.",
         "create_account_or_login": "<1>Crea una cuenta</1> <em>o</em> <2>Inicia Sesión</2>",
         "upload_or_dashboard": "<1>Subir un juego nuevo</1> <em>o</em> <2>Ir al tablero de control</2>"
+    },
+    "search": {
+        "creators": "Creadores:",
+        "published_count": "{{ count }} proyecto",
+        "published_count_plural": "{{ count }} proyectos",
+        "view_all_tags": "Ver todas las etiquetas",
+        "browse_all_games": "Ver todos los juegos",
+        "search_results_for_query": "Resultados de la búsqueda para '{{query}}'"
     }
 }
