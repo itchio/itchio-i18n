@@ -49,7 +49,7 @@ do
 
     table.insert translations, {
       :found
-      completion_ration: found / #source_keys
+      completion_ratio: found / #source_keys
     }
 
 import parse_tags, chunk_to_syntax from require "helpers.compiler"
