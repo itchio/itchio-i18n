@@ -103,7 +103,9 @@
         },
         "intro": "<s>itch.io</s> is a simple way to find and share indie games online for free.",
         "intro_cta": "<1>Add your game</1> or <2>Read the FAQ</2>",
-        "html5_games": "HTML5 games"
+        "html5_games": "HTML5 games",
+        "page_title": "Download the latest indie games",
+        "meta_description": "itch.io is a simple way to find, download and distribute indie games online. Whether you're a developer looking to upload your game or just someone looking for something new to play itch.io has you covered."
     },
     "misc": {
         "classifications": {
@@ -181,7 +183,14 @@
             "jam_submit": "You'll need an account on itch.io before you can submit to a jam.",
             "claim_object": "Please log in or create an account to claim the {{noun}}"
         },
-        "no_account_prompt": "Dont have an account? <1>Create an account</1>"
+        "no_account_prompt": "Dont have an account? <1>Create an account</1>",
+        "page_title": "Log in",
+        "you_are_logged_out": "You are logged out",
+        "welcome_back": "Welcome back!",
+        "welcome_to_itchio": "Welcome to itch.io!",
+        "errors": {
+            "accept_terms": "You must accept the Terms of Service"
+        }
     },
     "user_register": {
         "create_an_account_on_itchio": "Create an account on itch.io",
@@ -202,7 +211,8 @@
             "url_preview": "Your profile page will be",
             "username": "Username",
             "other_registration_methods": "Other registration methods"
-        }
+        },
+        "page_title": "Register account"
     },
     "developers": {
         "page_header": "Create a custom page to instantly distribute or sell your indie games",
@@ -231,5 +241,31 @@
         "view_all_tags": "View all tags",
         "browse_all_games": "Browse all games",
         "search_results_for_query": "Search results for '{{query}}'"
+    },
+    "app": {
+        "open_source": "Open source",
+        "share_message": "itch, the desktop app for indie games",
+        "tagline": "Install, update and play indie games",
+        "start_download": "Start Download",
+        "for_platforms": "For <1>Windows</1>, <2>macOS</2>, and <3>Linux</3>",
+        "summary": "The itch.io app, <s>itch</s>, lets you effortlessly download and run games and software from itch.io. All of your downloads are kept in a single place and are automatically updated. Access your collections and purchases, or browse for new games via the in-app browser.",
+        "more_info_links": "<1>Read more on the FAQ</1> or <2>Read the app guide</2>",
+        "learn_more_below": "Learn more below",
+        "contribute_link": "Want to contribute? <a>View the source on GitHub</a>",
+        "updates": "Updates",
+        "read_the_app_guide": "Read the app guide",
+        "browse_header": "Browse games like the creator intended",
+        "browse_description": "On itch.io creators control how their project pages look. The built in browser lets you download and install games while exploring the <a>unique page designs of our creators</a>.",
+        "updates_header": "Always updated",
+        "updates_description": "Not only will the games you've installed automatically update, the app itself will automatically transform as we launch new functionality and features. Games using our new command line tools will generate <em>delta patches</em>, ensuring that you only download what's changed when new games come out.",
+        "web_games_header": "Browser games offline",
+        "web_games_description": "You can sync any browser based games right into the app, letting you play them offline whenever you want. Once you're back online you'll be able to grab any updates if necessary.",
+        "languages_header": "Available in your language",
+        "languages_description": "The itch app is available in over 20 languages, thanks to the itch.io community! <a>Learn more about translating</a>",
+        "download_now": "Download Now",
+        "community_header": "Join the community",
+        "community_description": "Learn more about the development of the app <1>in our community</1>. Share feature requests and general feedback with other members of itch.io. If you're a programmer then you'll be glad to hear that the entire project is <2>open source on GitHub</2>, we look forward to your pull requests.",
+        "page_title": "Download App",
+        "meta_description": "itch, the best way to download and play indie games. Download free games and manage your library from your desktop. Now available for Windows, macOS and Linux."
     }
 }
