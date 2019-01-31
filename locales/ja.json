@@ -5,7 +5,8 @@
             "about": "itch.ioについて",
             "faq": "よくある質問",
             "blog": "ブログ",
-            "contact_us": "問い合わせ"
+            "contact_us": "問い合わせ",
+            "cookies": "クッキー"
         },
         "header": {
             "upload_game": "ゲームをアップロード",
@@ -16,19 +17,36 @@
             "log_in": "ログイン",
             "register": "登録",
             "dashboard": "ダッシュボード",
-            "no_notifications": ""
+            "no_notifications": "新着通知なし",
+            "game_jams": "ゲームジャム",
+            "notifications_count": "{{count}}の通知",
+            "free_games": "無料ゲーム",
+            "game_development": "ゲーム開発",
+            "comics": "漫画",
+            "sales": "セール",
+            "bundles": "バンドル",
+            "game_assets": "ゲーム素材",
+            "games": "ゲーム",
+            "feed": "フィード"
         },
         "user_menu": {
             "account": "",
             "log_out": "",
             "settings": "",
             "view_profile": "",
-            "new_project": "",
-            "recommendations": ""
+            "new_project": "新作をアップロード",
+            "recommendations": "おすすめ",
+            "sales_bundles": "セール＆バンドル",
+            "dashboard": "ダッシュボード",
+            "game_jams": "ゲームジャム",
+            "library": "マイライブラリ",
+            "feed": "マイフィード"
         }
     },
     "index": {
-        "download_app": ""
+        "download_app": "アプリをダウンロード",
+        "popular_tags": "人気のタグ",
+        "view_all_games": "すべてのゲームを表示"
     },
     "misc": {
         "classifications": {
