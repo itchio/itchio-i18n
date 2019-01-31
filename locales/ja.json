@@ -6,7 +6,9 @@
             "faq": "よくある質問",
             "blog": "ブログ",
             "contact_us": "問い合わせ",
-            "cookies": "クッキー"
+            "cookies": "クッキーポリシー",
+            "terms": "利用規約",
+            "privacy": "プライバシーポリシー"
         },
         "header": {
             "upload_game": "ゲームをアップロード",
@@ -19,7 +21,7 @@
             "dashboard": "ダッシュボード",
             "no_notifications": "新着通知なし",
             "game_jams": "ゲームジャム",
-            "notifications_count": "{{count}}の通知",
+            "notifications_count": "{{count}}件の通知",
             "free_games": "無料ゲーム",
             "game_development": "ゲーム開発",
             "comics": "漫画",
@@ -28,13 +30,16 @@
             "game_assets": "ゲーム素材",
             "games": "ゲーム",
             "feed": "フィード",
-            "browse": "ブラウズ"
+            "browse": "作品を探す",
+            "browse_games": "ゲームを探す",
+            "jams": "ゲームジャム",
+            "indie_game_store": "インディーズゲームストア"
         },
         "user_menu": {
-            "account": "",
-            "log_out": "",
-            "settings": "",
-            "view_profile": "",
+            "account": "アカウント",
+            "log_out": "ログアウト",
+            "settings": "アカウント設定",
+            "view_profile": "プロフィールを表示",
             "new_project": "新作をアップロード",
             "recommendations": "おすすめ",
             "sales_bundles": "セール＆バンドル",
@@ -51,17 +56,18 @@
     },
     "misc": {
         "classifications": {
-            "game": "",
-            "assets": "",
+            "game": "ゲーム",
+            "assets": "ゲーム素材",
             "game_mod": "",
-            "soundtrack": "",
-            "other": "",
+            "soundtrack": "サウンドトラック",
+            "other": "その他",
             "tool": "",
             "comic": "",
-            "book": ""
+            "book": "本",
+            "physical_game": "アナログゲーム"
         },
         "accessibility_features": {
-            "subtitles": ""
+            "subtitles": "字幕"
         }
     },
     "developers": {
