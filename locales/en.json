@@ -347,6 +347,27 @@
             "version_name": "Version {{version_name}}",
             "this_file_will_be_available_when_the_creator_uploads_it": "This file will be available when the creator uploads it",
             "empty_message": "Nothing is available for download yet."
+        },
+        "layout": {
+            "view_all_by_name": "View all by {{name}}",
+            "creator": "Creator",
+            "follow": "Follow",
+            "following": "Following",
+            "follow_username": "Follow {{username}}",
+            "following_username": "Following {{username}}",
+            "add_to_collection": "Add To Collection",
+            "add_to_collection_short": "Collection",
+            "comments": "Comments",
+            "community": "Community",
+            "devlog": "Devlog",
+            "edit_your_rating": "Edit Your Rating",
+            "edit_rating": "Edit Rating",
+            "rate": "Rate",
+            "rate_this_noun": "Rate this {{noun}}",
+            "rate_for_jam": "Rate for {{jam_title}}",
+            "submission_to_jam": "Submission to {{jam_title}}",
+            "related_games": "Related games",
+            "related_games_short": "Related"
         }
     },
     "community": {
