@@ -162,7 +162,9 @@
     "blog": {
         "all_posts": "All posts",
         "updates": "Updates",
-        "digest": "Digest"
+        "digest": "Digest",
+        "empty_message": "There don't appear to be any posts here",
+        "tag_filter": "Filtering to {{tag}}. <a>Clear tag</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Log in to your itch.io account",
