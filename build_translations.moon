@@ -6,6 +6,8 @@ lfs = require "lfs"
 
 DIR = "locales/"
 
+SOURCE_LOCALE = "en"
+
 json = require "cjson"
 
 output = { }
@@ -29,8 +31,28 @@ for file in assert lfs.dir DIR
   object = json.decode contents
   output[name] = flatten_nested object
 
-import parse_tags, chunk_to_syntax from require "helpers.compiler"
+-- summarize completion
+do
+  -- remove any plural suffixes
+  normalize_key = (key) -> (key\gsub("_%d+$", "")\gsub("_plural$", ""))
+  source_translations = assert output[SOURCE_LOCALE], "missing source locale: #{SOURCE_LOCALE}"
+  source_keys = {normalize_key(key), true for key in pairs source_translations}
+  source_keys = [key for key in pairs source_keys]
 
+  for locale, translations in pairs output
+    found = 0
+    translated_keys = {normalize_key(key), true for key in pairs output when type(key) == "string"}
+
+    for key in *source_keys
+      if translations[key]
+        found += 1
+
+    table.insert translations, {
+      :found
+      completion_ration: found / #source_keys
+    }
+
+import parse_tags, chunk_to_syntax from require "helpers.compiler"
 import types from require "tableshape"
 
 simple_string = types.shape { types.string }
@@ -53,18 +75,32 @@ encode_value = (v) ->
       {"number", v}
     when "table"
       keys = [k for k in pairs v]
-      table.sort keys
+
+      table.sort keys, (a, b) ->
+        if type(a) != type(b)
+          if type(a) == "number"
+            return true
+
+          if type(b) == "number"
+            return false
+        else
+            return a < b
+
       {"table", for k in *keys
-        k = tostring k
+        if type(k) == "number"
+          {
+            encode_value v[k]
+          }
+        else
+          k = tostring k
+          {
+            if k\match "%."
+              {"string", '"', k}
+            else
+              {"key_literal", k}
 
-        {
-          if k\match "%."
-            {"string", '"', k}
-          else
-            {"key_literal", k}
-
-          encode_value(v[k])
-        }
+            encode_value v[k]
+          }
       }
     else
       str = tostring v
