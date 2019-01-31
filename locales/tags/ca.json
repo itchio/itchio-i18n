@@ -43,6 +43,26 @@
         "controller": "Comandament",
         "cozy": "Comfortable",
         "crafting": "Artesania",
-        "creative": "Creatiu"
+        "creative": "Creatiu",
+        "creepy": "Esgarrifós",
+        "crime": "Crim",
+        "cult-classic": "Clàssic de culte",
+        "cute": "Bonic",
+        "cyberpunk": "Ciberpunk",
+        "dark": "Fosc",
+        "dark-fantasy": "Fantasia fosca",
+        "dark-humor": "Humor negre",
+        "dating-sim": "Simulador de cites",
+        "deck-building": "Construcció de baralles de cartes",
+        "demake": "Demake",
+        "destruction": "Destrucció",
+        "detective": "Detectiu",
+        "dice": "Dau",
+        "difficult": "Difícil",
+        "dinosaurs": "Dinosaures",
+        "dogs": "Gossos",
+        "dragons": "Dracs",
+        "dreams": "Somnis",
+        "driving": "Conducció"
     }
 }
