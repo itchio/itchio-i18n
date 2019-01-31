@@ -141,11 +141,25 @@ if suffix == ""
   os.exit 1
   return
 
-to_append = to_json { ["#{prefix}.#{suffix}"]: text }
+
+merge = {}
+key = "#{prefix}.#{suffix}"
+parts = [part for part in key\gmatch "[^%.]+"]
+
+current = merge
+for i, p in ipairs parts
+  if i == #parts
+    current[p] = text
+  else
+    current[p] or= {}
+    current = current[p]
+
+to_append = to_json merge
+out, raw_out = jq ". * #{to_append}"
+
 if args.dryrun
-  print to_append
+  print raw_out
 else
-  out, raw_out = jq ". + #{to_append}"
   assert(io.open(args.translations_file, "w"))\write raw_out
 
 -- io.stderr\write "#{prefix}\t#{suffix}\t#{args.text}\n"
