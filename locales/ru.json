@@ -28,7 +28,9 @@
             "fun_games": "Развлекательные игры",
             "games": "Игры",
             "feed": "Лента",
-            "feed_unseen_count": "{{count}} новых"
+            "feed_unseen_count_0": "{{count}} новый",
+            "feed_unseen_count_1": "{{count}} новых",
+            "feed_unseen_count_2": "{{count}} новых"
         },
         "footer": {
             "about": "О сайте",
@@ -221,5 +223,14 @@
         "share_message": "itch.io - простой способ бесплатно распространять ваши инди игры онлайн.",
         "create_account_or_login": "<1>Создать учётную запись</1> <em>или</em> <2>Войти</2>",
         "upload_or_dashboard": "<1>Загрузить новую игру</1> <em>или</em> <2>Перейти в кабинет разработчика</2>"
+    },
+    "search": {
+        "creators": "Создатели:",
+        "published_count_0": "{{count}} проект",
+        "published_count_1": "{{count}} проекта",
+        "published_count_2": "{{count}} проектов",
+        "view_all_tags": "Посмотреть все теги",
+        "browse_all_games": "Смотреть все игры",
+        "search_results_for_query": "Результаты поиска для '{{query}}'"
     }
 }
