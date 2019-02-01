@@ -23,7 +23,7 @@ flatten_nested = (t, prefix="", out={}) ->
 
 for file in assert lfs.dir DIR
   continue if file\match "^%.+$"
-  name = file\match "^(%w+).json$"
+  name = file\match "^([%w_]+).json$"
   continue unless name
   handle = assert io.open "#{DIR}/#{file}"
   contents = assert handle\read "*a"
