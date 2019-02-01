@@ -27,7 +27,7 @@
             "indie_game_store": "Botiga de jocs indie",
             "game_development": "Desenvolupament de jocs",
             "comics": "Còmics",
-            "sales": "Vendes",
+            "sales": "Ofertes",
             "bundles": "Paquets",
             "game_assets": "Recursos",
             "fun_games": "Jocs divertits",
@@ -162,7 +162,9 @@
     "blog": {
         "all_posts": "Totes les publicacions",
         "updates": "Actualitzacions",
-        "digest": "Resum"
+        "digest": "Resum",
+        "empty_message": "Sembla que aquí no hi ha cap publicació",
+        "tag_filter": "S'està filtrant amb {{tag}}. <a>Neteja l'etiqueta</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Inicieu la sessió al compte d'itch.io",
