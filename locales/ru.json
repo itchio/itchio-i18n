@@ -2,7 +2,7 @@
     "itchio": "itch.io",
     "layout": {
         "header": {
-            "browse": "Обзор",
+            "browse": "Категории",
             "browse_games": "Обзор игр",
             "game_jams": "Геймджемы",
             "upload_game": "Загрузить игру",
@@ -56,7 +56,8 @@
             "feed": "Моя лента",
             "explore": "Исследовать",
             "create": "Создавать",
-            "account": "Учетная запись"
+            "account": "Учетная запись",
+            "account_menu_tooltip": "Меню учётной записи"
         }
     },
     "index": {
@@ -155,6 +156,9 @@
             "hour": "Около часа",
             "hours": "Несколько часов",
             "days": "Сутки или более"
+        },
+        "forms": {
+            "required": "Обязательно"
         }
     },
     "blog": {
@@ -305,7 +309,8 @@
             "leave_a_comment_header": "Оставить комментарий",
             "leave_a_comment": "Оставить комментарий",
             "click_to_leave_a_comment": "Нажмите, чтобы оставить комментарий...",
-            "log_in_to_leave_comment": "<a>Выполните вход на itch.io</a>, чтобы оставить комментарий."
+            "log_in_to_leave_comment": "<a>Выполните вход на itch.io</a>, чтобы оставить комментарий.",
+            "post_comment": "Прокомментировать"
         },
         "info_panel": {
             "updated_at": "Обновлено",
@@ -382,8 +387,8 @@
             "unlisted_topic_notice": "<s>Модератор скрыл эту тему.</s> Она невидима в списке тем, но вы всё ещё можете отвечать и писать.",
             "join_the_discussion": "Присоединяйтесь к обсуждению. Выполните вход или создайте учётную запись itch.io, чтобы продолжить.",
             "reply_to_someone_else": "Хотите ответить кому-то другому? Нажмите <s>ответить</s> под их сообщением.",
-            "this_reply_will_go_to_yourself": "Этот ответ будет для вас самих.",
-            "this_reply_will_go_to_the_topic_author": "Этот ответ будет для автора темы, {{username}}.",
+            "this_reply_will_go_to_yourself": "Это ответ вам самим.",
+            "this_reply_will_go_to_the_topic_author": "Это ответ для автора темы, {{username}}.",
             "new_reply": "Новый ответ",
             "remove_bookmark": "Удалить закладку",
             "bookmark": "Сохранить в закладки",
@@ -419,6 +424,16 @@
             "suspended_account": "Приостановленный аккаунт",
             "pinned_reply": "Закреплённый ответ",
             "pinned_post": "Закреплённый пост"
+        },
+        "post_form": {
+            "add_profile_image": "Добавить картинку профиля",
+            "save": "Сохранить",
+            "post": "Отправить",
+            "subscribe": "Подписаться",
+            "subscribe_to_this_topic": "Подписаться на эту тему",
+            "subscribe_description": "Получать уведомления о новых ответах в этой теме",
+            "tag_header": "Тег",
+            "remove_tag": "Удалить тег"
         }
     }
 }
