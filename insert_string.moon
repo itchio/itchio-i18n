@@ -3,6 +3,7 @@ import from_json, to_json, trim from require "lapis.util"
 import columnize from require "lapis.cmd.util"
 
 import types from require("tableshape")
+import dmenu from require "helpers.menu"
 
 -- TODO:
 -- handle when key already exists
@@ -24,16 +25,6 @@ jq = (command) ->
   handle = assert io.popen "jq --indent 4 '#{shell_escape command}' '#{shell_escape args.translations_file}'"
   res = assert handle\read "*a"
   from_json(res), res
-
-dmenu = (prompt, options) ->
-  pre = if options
-    "'#{shell_escape table.concat options, "\n"}'"
-  else
-    ''
-
-  cmd = "echo -n #{pre} | dmenu -i -l 20 -p '#{shell_escape prompt}' -fn 'xos4 Terminus-16'"
-  f = assert io.popen cmd
-  trim f\read("*all")
 
 
 find_prefixes = ->
