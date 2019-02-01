@@ -164,7 +164,9 @@
     "blog": {
         "all_posts": "Все публикации",
         "updates": "Обновления",
-        "digest": "Дайджест"
+        "digest": "Дайджест",
+        "empty_message": "Тут ещё никто ничего не написал",
+        "tag_filter": "Включен фильтр по {{tag}}. <a>Очистить тег</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Вход в вашу учётную запись itch.io",
