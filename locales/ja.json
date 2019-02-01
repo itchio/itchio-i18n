@@ -24,9 +24,9 @@
             "game_jams": "ゲームジャム",
             "notifications_count": "{{count}}件の通知",
             "free_games": "無料ゲーム",
-            "game_development": "ゲーム開発",
+            "game_development": "開発ツール",
             "comics": "漫画",
-            "sales": "セール",
+            "sales": "セール中",
             "bundles": "バンドル",
             "game_assets": "ゲーム素材",
             "games": "ゲーム",
@@ -34,7 +34,9 @@
             "browse": "作品を探す",
             "browse_games": "ゲームを探す",
             "jams": "ゲームジャム",
-            "indie_game_store": "インディーズゲームストア"
+            "indie_game_store": "インディーズゲームストア",
+            "fun_games": "楽しいゲーム",
+            "feed_unseen_count": "新着フィードが{{count}}件"
         },
         "user_menu": {
             "account": "アカウント",
@@ -47,23 +49,44 @@
             "dashboard": "ダッシュボード",
             "game_jams": "ゲームジャム",
             "library": "マイライブラリ",
-            "feed": "マイフィード"
+            "feed": "マイフィード",
+            "explore": "探してみよう",
+            "create": "創ってみよう",
+            "host_game_jam": "ゲームジャムを主催",
+            "account_menu_tooltip": "アカウントー設定"
         }
     },
     "index": {
         "download_app": "アプリをダウンロード",
         "popular_tags": "人気のタグ",
-        "view_all_games": "すべてのゲームを表示"
+        "view_all_games": "すべてのゲームを表示",
+        "browse": "作品を探す",
+        "games_by_price": "価格で選ぶ",
+        "view_something_random": "ランダムにいつくかのゲームを表示",
+        "dont_see_anything_you_like": "気になる作品は見つかりませんか？",
+        "from_the_blog": "ブログ一覧",
+        "random_game": "ランダムゲーム",
+        "get_the_app": "<s>itch.ioランチャーを手に入れよう！</s>　デスクトップ上のアプリからゲームのインストールや管理を行えます",
+        "from_the_itchio_blog": "itch.io運営ブログより",
+        "view_all_blog_posts": "過去に投稿されたブログ記事をすべて見る",
+        "search_games_creators": "ゲームとクリエイターを検索",
+        "browse_all_tags": "すべてのタグを見る",
+        "free_games": "無料ゲーム",
+        "with_demo": "体験版有り",
+        "view_all": "すべて見る",
+        "recommended_for_you": "あなたへのおすすめ",
+        "view_all_games_on_sale": "セール中のゲームをすべて見る",
+        "view_all_on_sale": "セール中のものをすべて見る"
     },
     "misc": {
         "classifications": {
             "game": "ゲーム",
             "assets": "ゲーム素材",
-            "game_mod": "",
+            "game_mod": "MOD",
             "soundtrack": "サウンドトラック",
             "other": "その他",
-            "tool": "",
-            "comic": "",
+            "tool": "ツール",
+            "comic": "漫画",
             "book": "本",
             "physical_game": "アナログゲーム"
         },
@@ -73,5 +96,16 @@
     },
     "developers": {
         "upload_or_dashboard": "<1>新しいゲームをアップロード</1> <em>または</em> <2>ダッシュボードに移動</2>"
+    },
+    "user_register": {
+        "register_form": {
+            "create_account": "アカウント登録",
+            "log_in": "ログイン",
+            "digest_signup": "一月に二回ほど送られるニュースレーターに登録する"
+        }
+    },
+    "search": {
+        "creators": "クリエイター：",
+        "published_count": "{{count}}件のプロジェクト"
     }
 }
