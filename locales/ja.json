@@ -90,7 +90,10 @@
         "fresh_games_description": "itch.ioに登録された最新のゲームをご紹介します",
         "people_to_follow": "おすすめのアカウント",
         "people_to_follow_description": "こちらはあなたが興味を持つかもしれないアカウントです。 <a>フォローしてみてはいかがですか？</a>",
-        "filtering_platform": "{{platform_name}}用のゲームだけを絞り込む"
+        "filtering_platform": "{{platform_name}}用のゲームだけを絞り込む",
+        "more_featured_games": "他の注目タイトル",
+        "game_dev_on_sale": "<1>セール中</1>のゲーム開発素材",
+        "latest_featured_games": "注目タイトル"
     },
     "misc": {
         "classifications": {
