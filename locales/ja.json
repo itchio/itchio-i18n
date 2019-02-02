@@ -85,7 +85,9 @@
         "featured_jams": "注目のゲームジャム",
         "nav": {
             "game_jams": "ゲームジャム"
-        }
+        },
+        "fresh_games": "新着ゲーム",
+        "fresh_games_description": "itch.ioに登録された最新のゲームをご紹介します"
     },
     "misc": {
         "classifications": {
