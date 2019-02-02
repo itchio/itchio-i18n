@@ -7,7 +7,9 @@
             "blog": "Blog",
             "contact_us": "Kontakt os",
             "terms": "Betingelser",
-            "directory": "Indeks"
+            "directory": "Indeks",
+            "privacy": "Privatlivspolitik",
+            "cookies": "Cookies"
         },
         "header": {
             "browse": "Udforsk",
@@ -22,7 +24,7 @@
             "register": "Opret konto",
             "dashboard": "Overblik",
             "jams": "Jams",
-            "notifications_count": "Én notifikation",
+            "notifications_count": "{{count}} notifikation",
             "notifications_count_plural": "{{count}} notifikationer",
             "no_notifications": "Ingen nye notifikationer",
             "free_games": "Gratis spil",
@@ -34,7 +36,8 @@
             "game_assets": "Assets",
             "fun_games": "Sjove spil",
             "games": "Spil",
-            "feed_unseen_count": "{{count}} nye",
+            "feed_unseen_count": "{{count}} ny",
+            "feed_unseen_count_plural": "{{count}} nye",
             "feed": "Feed"
         },
         "user_menu": {
@@ -51,7 +54,8 @@
             "game_jams": "Game jams",
             "recommendations": "Anbefalinger",
             "library": "Mit bibliotek",
-            "feed": "Mit feed"
+            "feed": "Mit feed",
+            "account_menu_tooltip": "Kontomenu"
         }
     },
     "index": {
@@ -71,7 +75,7 @@
         "browse_all_tags": "Udforsk alle tags",
         "on_sale": "På Tilbud",
         "free_games": "Gratis spil",
-        "top_sellers": "Topsellere",
+        "top_sellers": "Topsælgere",
         "with_demo": "Med demo",
         "view_all": "Se alle",
         "recommended_for_you": "Anbefalet til dig",
@@ -100,7 +104,9 @@
         },
         "intro": "<s>itch.io</s> er en nem og gratis måde at finde og dele indiespil online.",
         "intro_cta": "<1>Tilføj dit spil</1> eller <2>Læs FAQen</2>",
-        "html5_games": "HTML5-spil"
+        "html5_games": "HTML5-spil",
+        "page_title": "Hent de nyeste indiespil",
+        "meta_description": "itch.io er en nem måde at finde, hente og distribuere indiespil online. Uanset om du er en udvikler med et spil at uploade, eller bare én der søger noget nyt at spille, så har itch.io dig dækket."
     },
     "misc": {
         "classifications": {
@@ -148,12 +154,45 @@
             "hour": "Omkring en time",
             "hours": "Nogle timer",
             "days": "Flere dage"
+        },
+        "forms": {
+            "required": "Skal fyldes ud"
+        },
+        "page_number": "Side {{page_number}}",
+        "follow_button": {
+            "follow_username": "Følg {{username}}",
+            "follow": "Følg",
+            "following_username": "Følger {{username}}",
+            "following": "Følger",
+            "unfollow_username": "Hold op med at følge {{username}}",
+            "unfollow": "Hold op med at følge"
+        },
+        "filter_when": {
+            "last_day": "Seneste Dag",
+            "last_7_days": "Seneste 7 dage",
+            "last_30_days": "Seneste 30 dage"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Gratis",
+            "on_sale": "På Tilbud",
+            "paid": "Betalt"
+        },
+        "pager": {
+            "next_page": "Næste side",
+            "prev": "Forrige",
+            "next": "Næste",
+            "current_page_of_total": "Side {{current_page}} af {{total_pages}}"
         }
     },
     "blog": {
         "all_posts": "Alle indlæg",
         "updates": "Opdateringer",
-        "digest": "Digest"
+        "digest": "Digest",
+        "empty_message": "Der ser ikke ud til at være nogen indlæg her",
+        "tag_filter": "Filtrerer efter {{tag}}. <a>Ryd tag</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Log ind på din itch.io-konto",
@@ -178,7 +217,14 @@
             "jam_submit": "Du skal logge ind på itch.io før du kan tilmelde et jam.",
             "claim_object": "Log ind eller opret en konto for at gøre krav på {{noun}}"
         },
-        "no_account_prompt": "Har du ikke en konto? <1>Opret en konto</1>"
+        "no_account_prompt": "Har du ikke en konto? <1>Opret en konto</1>",
+        "page_title": "Log ind",
+        "you_are_logged_out": "Du er logget ud",
+        "welcome_back": "Velkommen tilbage!",
+        "welcome_to_itchio": "Velkommen til itch.io!",
+        "errors": {
+            "accept_terms": "Du skal acceptere servicebetingelserne"
+        }
     },
     "user_register": {
         "create_an_account_on_itchio": "Opret en konto på itch.io",
@@ -199,7 +245,8 @@
             "url_preview": "Din profilside hedder",
             "username": "Brugernavn",
             "other_registration_methods": "Andre registreringsmetoder"
-        }
+        },
+        "page_title": "Opret konto"
     },
     "developers": {
         "page_header": "Opret en side for at distribuere eller sælge dine indiespil",
@@ -220,5 +267,313 @@
         "share_message": "itch.io er en nem og gratis måde at distribuere dine indiespil online.",
         "create_account_or_login": "<1>Opret en konto</1> <em>eller</em> <2>Log ind</2>",
         "upload_or_dashboard": "<1>Upload et nyt spil</1> <em>eller</em> <2>Gå til overblik</2>"
+    },
+    "search": {
+        "creators": "Skabere:",
+        "published_count": "{{count}} projekt",
+        "published_count_plural": "{{count}} projekter",
+        "view_all_tags": "Se alle tags",
+        "browse_all_games": "Vis alle spil",
+        "search_results_for_query": "Søgningsresultater for '{{query}}'"
+    },
+    "app": {
+        "open_source": "Open-source",
+        "share_message": "itch, skrivebordsappen til indiespil",
+        "tagline": "Installer, opdater og spil indiespil",
+        "start_download": "Hent Nu",
+        "for_platforms": "Til <1>Windows, <2>macOS</2> og <3>Linux</3>",
+        "summary": "Itch.io-appen <s>itch</s> lader dig hurtigt hente og køre spil og software fra itch.io. Alle dine downloads er gemt i et enkelt sted, og holdes automatisk opdateret. Tilgå dine samlinger og køb, eller find nye spil gennem browseren i appen.",
+        "more_info_links": "<1>Læs mere på FAQen</1> eller <2>Læs app-guiden<2>",
+        "learn_more_below": "Se mere nedenfor",
+        "contribute_link": "Vil du hjælpe til? <a>Se kildekoden på GitHub</a>",
+        "updates": "Opdateringer",
+        "read_the_app_guide": "Læs app-guiden",
+        "browse_header": "Se spil som skaberen havde til hensigt",
+        "browse_description": "På itch.io kan skabere selv bestemme hvordan deres projektsider skal se ud. Den indbyggede browser lader dig hente og installere spil mens du udforsker <a>vores skaberes unikke sidedesigns</a>.",
+        "updates_header": "Altid opdateret",
+        "updates_description": "Ikke nok med at de spil du har installeret selv opdaterer, vil appen selv transformere eftersom vi udgiver ny funktionalitet. Spil der udnytter vores kommandolinjeværktøjer vil generere <em>deltapatches</em>, der sørger for at du kun downloader det er er nødvendigt når nye spil udkommer.",
+        "web_games_header": "Browserspil offline",
+        "web_games_description": "Du kan synkronisere browserbaserede spil lige ind i appen, hvilket lader dig spille dem offline når som helst. Når du kommer tilbage online kan du hente opdateringer hvis nødvendigt.",
+        "languages_header": "Tilgængeligt på dit sprog",
+        "languages_description": "Itch-appen er tilgængelig i over 20 sprog, takket være itch.io-fællesskabet. <a>Lær mere om at oversætte</a>",
+        "download_now": "Hent Nu",
+        "community_header": "Bliv en del af fællesskabet",
+        "community_description": "Lær mere om appens udvikling <1>i vores fællesskab</1>. Del funktionsanmodninger og generel feedback med andre medlemmer af itch.io. Hvis du er en udvikler, vil det glæde dig at høre at hele projektet er <2>open-source på GitHub<2>. Vi ser frem til dine pull requests.",
+        "page_title": "Hent App",
+        "meta_description": "itch, den bedste måde at downloade og spille indiespil. Hent gratis spil og administrer dit bibliotek fra dit skrivebord. Nu tilgængelig til Windows, macOS og Linux."
+    },
+    "game": {
+        "empty_page": "Der ser ikke ud til at være noget her...",
+        "more_information": "Mere information",
+        "install_instructions": "Installationsinstrukser",
+        "download_header": "Hent",
+        "unavailable": "Dette {{game_noun}} er utilgængeligt på nuværende tidspunkt",
+        "purchase_header": "Køb",
+        "download_access": "Klik 'download' nu for at få adgang til følgende filer:",
+        "get_access": "Du vil få adgang til følgende filer:",
+        "get_access_preorder": "Du vil få adgang til følgende filer når de udgives:",
+        "download_demo_header": "Hent demo",
+        "available_header": "Tilgængelig til",
+        "also_available_header": "Også tilgængelig til",
+        "will_be_available_in": "Bliver tilgængelig {{time_remaining}}.",
+        "download_or_claim_button": "Hent eller indløs",
+        "download_now_button": "Hent Nu",
+        "preorder_button": "Forudbestil Nu",
+        "buy_now_button": "Køb Nu",
+        "name_your_own_price": "Bestem selv prisen",
+        "on_sale": "På Tilbud!",
+        "percent_off": "<s>{{percent}}%</s> Rabat",
+        "price_or_more": "{{price}} <s>eller mere</s>",
+        "development_log_header": "Udviklingslog",
+        "in_order_to_access": "For at få adgang til dette {{noun}}, skal du købe det til eller over minimumsprisen på {{price}}.",
+        "devlog_view_all_posts": "Se alle indlæg",
+        "your_purchase_comes_with_a_steam_key": "Dit køb kommer med en Steam-licens.",
+        "steam_key_bundle_disclaimer": "(NB: Steam-licens ikke inkluderet i {{bundle_title}})",
+        "donate_button": "Støt Dette {{noun}}",
+        "empty_page_no_uploads": "Skaberen har ikke uploadet noget endnu...",
+        "comments": {
+            "comments_header": "Kommentarer",
+            "leave_a_comment_header": "Læg en kommentar",
+            "leave_a_comment": "Læg en kommentar",
+            "click_to_leave_a_comment": "Klik for at lægge en kommentar...",
+            "log_in_to_leave_comment": "<a>Log ind med itch.io</a> for at lægge en kommentar.",
+            "post_comment": "Læg kommentar"
+        },
+        "info_panel": {
+            "updated_at": "Opdateret",
+            "published_at": "Udgivet",
+            "release_status": "Status",
+            "category": "Kategori",
+            "platforms": "Platforme",
+            "publisher": "Udgiver",
+            "release_date": "Udgivelsesdato",
+            "rating": "Vurdering",
+            "authors": "Skabere",
+            "author": "Skaber",
+            "genre": "Genre",
+            "made_with_tools": "Lavet med",
+            "tags": "Tags",
+            "code_license": "Licens",
+            "asset_license": "Assetlicens",
+            "average_session_duration": "Gennemsnitlig session",
+            "languages": "Sprog",
+            "inputs": "Inputs",
+            "accessibility": "Tilgængelighed",
+            "multiplayer": "Multiplayer",
+            "player_count": "Spillerantal",
+            "singleplayer": "Single player",
+            "links": "Links",
+            "mentions": "Nævnt af"
+        },
+        "community_header": "Fællesskab",
+        "join_the_community": "Bliv en del af fællesskabet",
+        "community_view_all_posts": "Se alle indlæg",
+        "community_post_author": "af {{username}}",
+        "community_posts_count": "{{count}} indlæg",
+        "community_posts_count_plural": "{{count}} indlæg",
+        "post_a_new_topic": "Start et nyt emne",
+        "post_first_topic": "Post første emne",
+        "community_sticky": "Udvalgt",
+        "upload_list": {
+            "preorder": "Forudbestil",
+            "download": "Hent",
+            "play_in_browser": "Spil i browser",
+            "if_you_pay_price_or_more": "hvis du betaler {{price}} eller mere",
+            "version_name": "Version {{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Denne fil vil være tilgængelig når skaberen uploader den",
+            "empty_message": "Intet er tilgængeligt til download endnu."
+        },
+        "layout": {
+            "view_all_by_name": "Se alt fra {{name}}",
+            "creator": "Skaber",
+            "follow": "Følg",
+            "following": "Følger",
+            "follow_username": "Følg {{username}}",
+            "following_username": "Følger {{username}}",
+            "add_to_collection": "Tilføj Til Samling",
+            "add_to_collection_short": "Samling",
+            "comments": "Kommentarer",
+            "community": "Fællesskab",
+            "devlog": "Udviklingslog",
+            "edit_your_rating": "Ændr Din Vurdering",
+            "edit_rating": "Ændr Vurdering",
+            "rate": "Vurder",
+            "rate_this_noun": "Vurder dette {{noun}}",
+            "rate_for_jam": "Vurder for {{jam_title}}",
+            "submission_to_jam": "Tilmelding til {{jam_title}}",
+            "related_games": "Relaterede spil",
+            "related_games_short": "Relateret"
+        }
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "Dette emne er arkiveret og kan ikke længere blive postet i",
+            "reply": "Svar",
+            "log_in_to_reply": "Log ind for at svare",
+            "unlisted_topic_notice": "<s>En moderator har skjult dette emne.</s> Det er ikke synligt på emnelisten, men du kan stadig svare eller redigere.",
+            "join_the_discussion": "Bliv en del af diskussionen. Log ind eller opret en gratis itch.io-konto for at fortsætte.",
+            "reply_to_someone_else": "Vil du svare på en anden? Klik <s>svar</s> under deres indlæg.",
+            "this_reply_will_go_to_yourself": "Dette svar er til dig selv.",
+            "this_reply_will_go_to_the_topic_author": "Dette svar er til emnets forfatter, {{username}}.",
+            "new_reply": "Nyt svar",
+            "remove_bookmark": "Fjern bogmærke",
+            "bookmark": "Bogmærke",
+            "unsubscribe": "Fjern abonnering",
+            "subscribe": "Abonner",
+            "return_to_topic_list": "Tilbage til emneliste",
+            "sticky": "Udvalgt",
+            "locked": "Låst",
+            "moderation": "Moderation",
+            "replies_count": "Svar: {{count}}",
+            "views_count": "Visninger: {{count}}",
+            "a_topic_by_username_created_time_ago": "Et emne fra {{username}} skabt {{time_ago}}"
+        },
+        "post_list": {
+            "deleted_post": "Slettet indlæg",
+            "post_from_blocked_account": "Indlæg fra blokeret konto",
+            "edit_blocks": "Administrer blokeringer",
+            "edits_count_plural": "(redigeret {{count}} gange)",
+            "edits_count": "(redigeret {{count}} gang)",
+            "reply": "Svar",
+            "like": "Like",
+            "edit": "Rediger",
+            "delete_topic": "Slet emne",
+            "delete": "Slet",
+            "report": "Rapporter",
+            "ban": "Bandlys...",
+            "view_more_in_thread": "Vis mere i tråd",
+            "vote_up": "Stem op",
+            "vote_down": "Stem ned",
+            "deleted_account": "Slettet konto",
+            "suspended_account": "Suspenderet konto",
+            "pinned_reply": "Udvalgt Svar",
+            "pinned_post": "Udvalgt Indlæg"
+        },
+        "post_form": {
+            "add_profile_image": "Tilføj profilbillede",
+            "save": "Gem",
+            "post": "Post",
+            "subscribe": "Abonner",
+            "subscribe_to_this_topic": "Abonner på dette emne",
+            "subscribe_description": "Bliv notificeret af nye svar til dette emne",
+            "tag_header": "Tag",
+            "remove_tag": "Fjern tag"
+        },
+        "new_topic": {
+            "moderator_tools": "Moderatorværktøjer",
+            "sticky": "Udvalgt",
+            "locked": "Låst",
+            "moderation_options": "Valgmuligheder",
+            "i_agree_to_the_rules_above": "Jeg er enig med de ovenstående regler",
+            "new_topic": "Nyt emne",
+            "this_a_community_run_message_board": "Dette er et fællesskabsdrevet forum.",
+            "see_community_guidelines": "Se <a>fællesskabsreglerne</a> for itch.ios fællesskabspolitik.",
+            "title": "Titel",
+            "body": "Brødtekst",
+            "topic_tag": "Tag",
+            "your_moderators_are": "itch.io modererer ikke disse forums, dine moderatorer er:"
+        }
+    },
+    "buy_form": {
+        "download_title": "Hent '{{title}}'",
+        "buy_title": "Køb '{{title}}'",
+        "preorder_title": "Forudbestil '{{title}}'",
+        "sold_out_notice": "Dette produkt er udsolgt på nuværende tidspunkt, kig tilbage senere.",
+        "on_sale_notice": "Dette produkt er på tilbud.",
+        "support_message": "Støt udviklingen af dette produkt ved at donere",
+        "percent_off_until": "Alle køb er på <s>{{rate}}%</s> rabat indtil {{end_date}}.",
+        "also_buy_as_bundle_plural": "Du kan også købe dette produkt som del af et bundt med {{count}} produkter for {{price}}:",
+        "buy_as_bundle_plural": "Du kan købe produkt som del af et bundt med {{count}} produkter for {{price}}:",
+        "free_pay_what_you_want": "Dette produkt er gratis, men skabere accepterer din støtte ved at lade dig betale hvad du mener er fair.",
+        "no_thanks_just_take_me_to_the_downloads": "Nej tak, bare send mig videre til filerne",
+        "includes_steam_key": "Du vil få en Steam-licens med dit køb.",
+        "preorder_this_product_by_purchasing_it_for": "Forudbestil dette produkt ved at købe det for {{price}} eller mere.",
+        "download_this_product_by_purchasing_it_for": "Hent dette produkt ved at købe det for {{price}} eller mere.",
+        "your_email_address": "Din e-mailadresse",
+        "email_address_description": "Din kvittering vil blive sendt her",
+        "gift_email_instructions": "Du kan vælge en e-mail at sende gaven til efter du har betalt",
+        "i_already_paid_for_this": "Jeg har allerede betalt for dette...",
+        "included_files": "Inkluderede filer",
+        "agree_to_terms": "Ved at gennemføre en betaling, er du enig med itch.ios <1>servicebetingelser</1> og <2>privatlivspolitik</2>.",
+        "this_purchase_is_a_gift": "Dette køb er en gave",
+        "support_the_creator_by_paying_above_the_minimum_price": "Støt skaberen ved at betale mere end minimumsprisen",
+        "support_the_creator_with_an_additional_contribution": "Støt skaberen med et yderligere bidrag",
+        "pay_with": "Betal med",
+        "check_out_with": "Betal med",
+        "credit_card": "Kort",
+        "go_back": "Gå tilbage",
+        "continue_payment": "Gå videre med betaling",
+        "billing_address": "Betalingsadresse",
+        "generic_error": "Der var et problem med dit køb: {{error}}",
+        "contact_support_on_error": "Hvis problemet fortsætter, kontakt <a>itch.io support</a> med alle de relevante detaljer."
+    },
+    "collection": {
+        "authors": "en samling af {{author}}",
+        "last_updated_date": "sidst opdateret {{date}}",
+        "edit_collection": "Rediger samling",
+        "edit_contributors": "Rediger bidragere",
+        "empty_collection_message": "Der er ikke noget i denne samling.",
+        "private_collection_message": "Denne samling er private, kun bidragere kan se indholdet",
+        "pending_invitation": "Du har en ventende invitation til at være bidrager af denne samling. <a>Se invitation</a>",
+        "a_collection_by_author": "En samling af {{author}}",
+        "page_title": "{{collection_title}} - Samling af {{author}}",
+        "remove_item_button": "Fjern...",
+        "add_a_blurb": "Tilføj en blurb",
+        "edit_blurb": "Rediger blurb",
+        "blurb_author_says": "{{author}} siger",
+        "remove_confirm": "Er du sikker på du vil fjerne dette fra samlingen"
+    },
+    "browse": {
+        "results_count_plural": "{{count}} resultater",
+        "results_count": "{{count}} resultat",
+        "sort_popular": "Populære",
+        "sort_new_and_popular": "Nyt % Populært",
+        "sort_top_sellers": "Topsælgere",
+        "sort_top_rated": "Vurderet godt",
+        "sort_most_recent": "Nyeste",
+        "sort": "Sortér",
+        "upload_your_project": "<a>Upload dit projekt</a> til itch.io for at vise det her.",
+        "filter_results": "Filtrér Resultater",
+        "clear_filters": "Ryd",
+        "related_collections": "Lignende samlinger",
+        "filter_group_price": "Pris",
+        "filter_group_genre": "Genre",
+        "tag": {
+            "no_description_yet": "Ingen beskrivelse endnu",
+            "suggest_updated_description": "Foreslå opdateret beskrivelse",
+            "suggest_description_for_this_tag": "Foreslå beskrivelse for dette tag"
+        },
+        "filter_group_platform": "Platform",
+        "view_all_tags": "Se alle tags",
+        "filter_by_tag": "Filtrér efter tags",
+        "filter_group_when": "Hvornår",
+        "filter_group_input_methods": "Inputmetoder",
+        "filter_group_session_length": "Gennemsnitlig sessionlængde",
+        "filter_group_multiplayer": "Multiplayerfunktioner",
+        "filter_group_accessibility_features": "Tilgængelighedsfunktioner",
+        "filter_group_type": "Type",
+        "type_downloadable": "Downloadbar",
+        "filter_group_release_status": "Udgivelsesstatus",
+        "filter_group_misc": "Andet",
+        "filter_group_collection": "Samling",
+        "filter_group_tools": "Værktøjer & Engines",
+        "fresh_description": "Gennemse et konstant opdaterende sæt af projekter fra en række kurérede samlinger fra vores medlemmer. Kig tilbage efter nye tilføjelser.",
+        "filter_group": {
+            "more_options": "Flere Muligheder",
+            "fewer_options": "Færre Muligheder",
+            "toggle_more_options": "Skift Flere Muligheder",
+            "clear_filter": "Ryd filter"
+        },
+        "filter_everything_else": "Alt andet"
+    },
+    "browse_tags": {
+        "page_title": "Toptags",
+        "find_tag": "Find tag",
+        "commonly_tagged_with": "Ofte tagget med",
+        "no_description_yet": "Ingen beskrivelse endnu"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>af</1> {{author}}",
+        "powered_by_itchio": "drevet af {{itchio}}"
     }
 }
