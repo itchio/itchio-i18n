@@ -157,6 +157,28 @@
         },
         "forms": {
             "required": "Required"
+        },
+        "page_number": "Page {{page_number}}",
+        "follow_button": {
+            "follow_username": "Follow {{username}}",
+            "follow": "Follow",
+            "following_username": "Following {{username}}",
+            "following": "Following",
+            "unfollow_username": "Unfollow {{username}}",
+            "unfollow": "Unfollow"
+        },
+        "filter_when": {
+            "last_day": "Last Day",
+            "last_7_days": "Last 7 days",
+            "last_30_days": "Last 30 days"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Free",
+            "on_sale": "On Sale",
+            "paid": "Paid"
         }
     },
     "blog": {
@@ -478,5 +500,63 @@
         "billing_address": "Billing address",
         "generic_error": "There was a problem with your purchase: {{error}}",
         "contact_support_on_error": "If the problem persists, please contact <a>itch.io support</a> with all the relevant details."
+    },
+    "collection": {
+        "authors": "a collection by {{author}}",
+        "last_updated_date": "last updated {{date}}",
+        "edit_collection": "Edit collection",
+        "edit_contributors": "Edit contributors",
+        "empty_collection_message": "There isn't anything in this collection.",
+        "private_collection_message": "This collection is private, only contributors can see its contents",
+        "pending_invitation": "You have a pending invite to be a contributor of this collection. <a>See invite</a>",
+        "a_collection_by_author": "A collection by {{author}}",
+        "page_title": "{{collection_title}} - Collection by {{author}}",
+        "remove_item_button": "Remove...",
+        "add_a_blurb": "Add a blurb",
+        "edit_blurb": "Edit blurb",
+        "blurb_author_says": "{{author}} says",
+        "remove_confirm": "Are you sure you want to remove this from the collection"
+    },
+    "browse": {
+        "results_count_plural": "{{count}} results",
+        "results_count": "{{count}} result",
+        "sort_popular": "Popular",
+        "sort_new_and_popular": "New & Popular",
+        "sort_top_sellers": "Top sellers",
+        "sort_top_rated": "Top rated",
+        "sort_most_recent": "Most Recent",
+        "sort": "Sort",
+        "upload_your_project": "<a>Upload your project</a> to itch.io to have it show up here.",
+        "filter_results": "Filter Results",
+        "clear_filters": "Clear",
+        "related_collections": "Related collections",
+        "filter_group_price": "Price",
+        "filter_group_genre": "Genre",
+        "tag": {
+            "no_description_yet": "No description yet",
+            "suggest_updated_description": "Suggest updated description",
+            "suggest_description_for_this_tag": "Suggest description for this tag"
+        },
+        "filter_group_platform": "Platform",
+        "view_all_tags": "View all tags",
+        "filter_by_tag": "Filter by tag",
+        "filter_group_when": "When",
+        "filter_group_input_methods": "Input methods",
+        "filter_group_session_length": "Average session length",
+        "filter_group_multiplayer": "Multiplayer features",
+        "filter_group_accessibility_features": "Accessibility features",
+        "filter_group_type": "Type",
+        "type_downloadable": "Downloadable",
+        "filter_group_release_status": "Release status",
+        "filter_group_misc": "Misc",
+        "filter_group_collection": "Collection",
+        "filter_group_tools": "Tools & Engines",
+        "fresh_description": "Browse a constantly updating set of projects sourced from a curated collections by our members. Check back for new additions.",
+        "filter_group": {
+            "more_options": "More Options",
+            "fewer_options": "Fewer Options",
+            "toggle_more_options": "Toggle More Options",
+            "clear_filter": "Clear filter"
+        }
     }
 }
