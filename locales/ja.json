@@ -84,16 +84,20 @@
         "view_all_jams": "ゲームジャムをすべて見る",
         "featured_jams": "注目のゲームジャム",
         "nav": {
-            "game_jams": "ゲームジャム"
+            "game_jams": "ゲームジャム",
+            "bundles": "バンドル"
         },
         "fresh_games": "新着ゲーム",
         "fresh_games_description": "itch.ioに登録された最新のゲームをご紹介します",
         "people_to_follow": "おすすめのアカウント",
         "people_to_follow_description": "こちらはあなたが興味を持つかもしれないアカウントです。 <a>フォローしてみてはいかがですか？</a>",
-        "filtering_platform": "{{platform_name}}用のゲームだけを絞り込む",
+        "filtering_platform": "{{platform_name}}用のゲームだけを表示しています",
         "more_featured_games": "他の注目タイトル",
         "game_dev_on_sale": "<1>セール中</1>のゲーム開発素材",
-        "latest_featured_games": "注目タイトル"
+        "latest_featured_games": "注目タイトル",
+        "view_all_platforms": "すべてのプラットフォームを表示",
+        "browse_content_type": " {{content_type}}を探す",
+        "intro": "itch.ioならオンライン上でインディーズゲームを探したりシェアしたりすることが無料で簡単に行えます。"
     },
     "misc": {
         "classifications": {
