@@ -101,7 +101,9 @@
         "view_all_platforms": "すべてのプラットフォームを表示",
         "browse_content_type": " {{content_type}}を探す",
         "intro": "<s>itch.io</s>ならオンライン上でインディーズゲームを探したりシェアしたりすることが無料で簡単に行えます。",
-        "intro_cta": "<1>ゲームを登録する</1> or <2>FAQを読む</2>"
+        "intro_cta": "<1>ゲームを登録する</1> または <2>FAQを読む</2>",
+        "html5_games": "HTML5ゲーム",
+        "page_title": "最新のインディーズゲームをダウンロード"
     },
     "misc": {
         "classifications": {
@@ -120,22 +122,51 @@
         }
     },
     "developers": {
-        "upload_or_dashboard": "<1>新しいゲームをアップロード</1> <em>または</em> <2>ダッシュボードに移動</2>"
+        "upload_or_dashboard": "<1>新しいゲームをアップロード</1> <em>または</em> <2>ダッシュボードに移動</2>",
+        "page_header": "インディーズゲームをすぐに配信するためのカスタムページを作りましょう",
+        "my_dashboard": "マイダッシュボード",
+        "upload_a_new_game": "新作ゲームをアップロード",
+        "upload_your_indie_game": "インディーズゲームをアップロードしよう",
+        "design_your_games_page": "独自のゲームページをデザインしよう",
+        "host_a_sale": "セールを主催",
+        "learn_more": "もっと詳しく",
+        "learn_more_about": "もっと詳しく："
     },
     "user_register": {
         "register_form": {
             "create_account": "アカウント登録",
             "log_in": "ログイン",
-            "digest_signup": "一月に二回ほど送られるニュースレーターに登録する"
-        }
+            "digest_signup": "一月に二回ほど送られるニュースレーターに登録する",
+            "already_have_account": "すでにアカウントをお持ちですか？",
+            "link_product": "登録が済んだら、購入した<1>{{product}}</1>は自動的にアカウントにリンクされます。",
+            "accept_tos": "<1>利用規約</1>に同意する",
+            "interest_gamer": "itch.ioのゲームを楽しみたい",
+            "interest_developer": "itch.ioで作品を配信したい",
+            "account_preferences_info": "選択したものによってitch.ioの表示が多少変わります。選択はまた後に変更できます。",
+            "about_you": "あなたについて",
+            "your_email_address": "メールアドレス",
+            "password": "パスワード",
+            "repeat_password": "パスワードを再入力",
+            "url_preview": "プロフィールURLがこちらになります",
+            "username": "ユーザー名",
+            "other_registration_methods": "他の登録方法"
+        },
+        "create_an_account_on_itchio": "itchi.ioアカウントを作成",
+        "page_title": "アカウントを登録"
     },
     "search": {
         "creators": "クリエイター：",
-        "published_count": "{{count}}件のプロジェクト"
+        "published_count": "{{count}}件のプロジェクト",
+        "view_all_tags": "タグをすべて見る"
     },
     "user_login": {
         "intent": {
             "jam_submit": "ゲームジャムに参加するにはitch.ioのアカウントが必要です。"
+        },
+        "welcome_back": "お帰りなさいませ！",
+        "welcome_to_itchio": "itch.ioへようこそ！",
+        "errors": {
+            "accept_terms": "利用規約に同意する必要があります"
         }
     },
     "game": {
