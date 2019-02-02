@@ -159,6 +159,34 @@
         },
         "forms": {
             "required": "Обязательно"
+        },
+        "page_number": "Страница {{page_number}}",
+        "follow_button": {
+            "follow_username": "Подписаться на {{username}}",
+            "follow": "Подписаться",
+            "following_username": "Подписаны на {{username}}",
+            "following": "Подписаны",
+            "unfollow_username": "Отписаться от {{username}}",
+            "unfollow": "Отписаться"
+        },
+        "filter_when": {
+            "last_day": "Последний день",
+            "last_7_days": "Последние 7 дней",
+            "last_30_days": "Последние 30 дней"
+        },
+        "platforms": {
+            "web": "Веб"
+        },
+        "filter_price": {
+            "free": "Бесплатные",
+            "on_sale": "Распродажа",
+            "paid": "Платные"
+        },
+        "pager": {
+            "next_page": "Следующая страница",
+            "prev": "Предыдущие",
+            "next": "Следующие",
+            "current_page_of_total": "Страница {{current_page}} из {{total_pages}}"
         }
     },
     "blog": {
@@ -436,6 +464,124 @@
             "subscribe_description": "Получать уведомления о новых ответах в этой теме",
             "tag_header": "Тег",
             "remove_tag": "Удалить тег"
+        },
+        "new_topic": {
+            "moderator_tools": "Инструменты модератора",
+            "sticky": "Прилепить",
+            "locked": "Закрыть от комментариев",
+            "moderation_options": "Настройки",
+            "i_agree_to_the_rules_above": "Я согласен с правилами выше",
+            "new_topic": "Новая тема",
+            "this_a_community_run_message_board": "Это форум, управляемый сообществом.",
+            "see_community_guidelines": "Правила сообществ itch.io смотрите в <a>Советах сообществам</a>.",
+            "title": "Заголовок",
+            "body": "Сообщение",
+            "topic_tag": "Тег",
+            "your_moderators_are": "itch.io не модерирует этот форум, ваши модераторы здесь:"
         }
+    },
+    "buy_form": {
+        "download_title": "Скачать '{{title}}'",
+        "buy_title": "Купить '{{title}}'",
+        "preorder_title": "Предзаказать '{{title}}'",
+        "sold_out_notice": "Этот продукт в данный момент закончился, попробуйте позднее.",
+        "on_sale_notice": "Этот продукт предлагается со скидкой.",
+        "support_message": "Поддержите разработку этого проекта пожертвованием",
+        "percent_off_until": "Минус <s>{{rate}}%</s> на все покупки до {{end_date}}.",
+        "also_buy_as_bundle_plural": "Вы также можете купить этот продукт в составе бандла из {{count}} продуктов за {{price}}:",
+        "buy_as_bundle_plural": "Вы можете купить этот продукт в составе бандла из {{count}} продуктов за {{price}}:",
+        "free_pay_what_you_want": "Этот проект доступен бесплатно, но создатель будет рад вашей поддержке, давая возможность заплатить столько, сколько вы считаете честным.",
+        "no_thanks_just_take_me_to_the_downloads": "Нет спасибо, давайте сразу к скачиванию",
+        "includes_steam_key": "Вы получите Steam ключ вместе с вашей покупкой.",
+        "preorder_this_product_by_purchasing_it_for": "Предзакажите этот продукт, заплатив {{price}} или больше.",
+        "download_this_product_by_purchasing_it_for": "Скачайте этот продукт, заплатив {{price}} или больше.",
+        "your_email_address": "Ваш email адрес",
+        "email_address_description": "Туда будет выслано подтверждение вашей покупки",
+        "gift_email_instructions": "Вы можете выбрать email, на который отправить подарок, после оплаты",
+        "i_already_paid_for_this": "Я уже заплатил за это...",
+        "included_files": "Включённые файлы",
+        "agree_to_terms": "Выполняя платёж, вы соглашаетесь с <1>Условиями использования</1> и <2>Политикой приватности</2> itch.io.",
+        "this_purchase_is_a_gift": "Эта покупка - подарок",
+        "support_the_creator_by_paying_above_the_minimum_price": "Поддержите создателя, заплатив выше минимальной цены",
+        "support_the_creator_with_an_additional_contribution": "Поддержите создателя дополнительным пожертвованием",
+        "pay_with": "Заплатить с помощью",
+        "check_out_with": "Заплатить с помощью",
+        "credit_card": "Банковская карта",
+        "go_back": "Назад",
+        "continue_payment": "Продолжить платёж",
+        "billing_address": "Платёжный адрес",
+        "generic_error": "Случилась проблема с вашей покупкой: {{error}}",
+        "contact_support_on_error": "Если проблема повторяется, пожалуйста, обратитесь в <a>поддержку itch.io</a> с указанием подробностей."
+    },
+    "collection": {
+        "authors": "коллекция от {{author}}",
+        "last_updated_date": "обновлено {{date}}",
+        "edit_collection": "Редактировать коллекцию",
+        "edit_contributors": "Редактировать авторов",
+        "empty_collection_message": "В этой коллекции ничего нет.",
+        "private_collection_message": "Это частная коллекция, только авторы могут её видеть",
+        "pending_invitation": "Вас пригласили быть автором этой коллекции. <a>Посмотреть приглашение</a>",
+        "a_collection_by_author": "Коллекция от {{author}}",
+        "page_title": "{{collection_title}} - Коллекция от {{author}}",
+        "remove_item_button": "Удалить...",
+        "add_a_blurb": "Добавить примечание",
+        "edit_blurb": "Изменить примечание",
+        "blurb_author_says": "{{author}} говорит",
+        "remove_confirm": "Вы уверены, что хотите удалить это из коллекции"
+    },
+    "browse": {
+        "results_count_plural": "{{count}} результатов",
+        "results_count_0": "{{count}} результат",
+        "results_count_1": "{{count}} результата",
+        "results_count_2": "{{count}} результатов",
+        "sort_popular": "Популярное",
+        "sort_new_and_popular": "Новое и популярное",
+        "sort_top_sellers": "Самые продаваемые",
+        "sort_top_rated": "Самые высоко оценённые",
+        "sort_most_recent": "Самые последние",
+        "sort": "Порядок",
+        "upload_your_project": "<a>Загрузить ваш проект</a> на itch.io, чтобы он тут был.",
+        "filter_results": "Фильтровать результаты",
+        "clear_filters": "Очистить",
+        "related_collections": "Похожие коллекции",
+        "filter_group_price": "Цена",
+        "filter_group_genre": "Жанр",
+        "tag": {
+            "no_description_yet": "Пока нет описания",
+            "suggest_updated_description": "Предложить новое описание",
+            "suggest_description_for_this_tag": "Предложить описание для этого тега"
+        },
+        "filter_group_platform": "Платформа",
+        "view_all_tags": "Посмотреть все теги",
+        "filter_by_tag": "Фильтровать по тегу",
+        "filter_group_when": "Когда",
+        "filter_group_input_methods": "Способы ввода",
+        "filter_group_session_length": "Средняя длительность сессии",
+        "filter_group_multiplayer": "Мультиплеер",
+        "filter_group_accessibility_features": "Доступность",
+        "filter_group_type": "Тип",
+        "type_downloadable": "Загружаемые",
+        "filter_group_release_status": "Статус релиза",
+        "filter_group_misc": "Прочие",
+        "filter_group_collection": "Коллекция",
+        "filter_group_tools": "Инструменты и движки",
+        "fresh_description": "Смотрите постоянно обновляемые списки проектов из отобранных коллекций наших участников. Проверяйте, не добавилось ли что-то новое.",
+        "filter_group": {
+            "more_options": "Больше настроек",
+            "fewer_options": "Меньше настроек",
+            "toggle_more_options": "Переключить больше настроек",
+            "clear_filter": "Сбросить фильтр"
+        },
+        "filter_everything_else": "Всё остальное"
+    },
+    "browse_tags": {
+        "page_title": "Популярные теги",
+        "find_tag": "Найти тег",
+        "commonly_tagged_with": "Обычно используется с",
+        "no_description_yet": "Пока нет описания"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>от</1> {{author}}",
+        "powered_by_itchio": "на платформе {{itchio}}"
     }
 }
