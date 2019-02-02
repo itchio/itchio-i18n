@@ -179,6 +179,12 @@
             "free": "Free",
             "on_sale": "On Sale",
             "paid": "Paid"
+        },
+        "pager": {
+            "next_page": "Next page",
+            "prev": "Prev",
+            "next": "Next",
+            "current_page_of_total": "Page {{current_page}} of {{total_pages}}"
         }
     },
     "blog": {
@@ -557,6 +563,17 @@
             "fewer_options": "Fewer Options",
             "toggle_more_options": "Toggle More Options",
             "clear_filter": "Clear filter"
-        }
+        },
+        "filter_everything_else": "Everything else"
+    },
+    "browse_tags": {
+        "page_title": "Top tags",
+        "find_tag": "Find tag",
+        "commonly_tagged_with": "Commonly tagged with",
+        "no_description_yet": "No description yet"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>by</1> {{author}}",
+        "powered_by_itchio": "powered by {{itchio}}"
     }
 }
