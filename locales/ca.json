@@ -157,6 +157,34 @@
         },
         "forms": {
             "required": "Obligatori"
+        },
+        "page_number": "Pàgina {{page_number}}",
+        "follow_button": {
+            "follow_username": "Segueix {{username}}",
+            "follow": "Segueix",
+            "following_username": "Ja seguiu {{username}}",
+            "following": "Ja el seguiu",
+            "unfollow_username": "Deixa de seguir {{username}}",
+            "unfollow": "Deixa de seguir"
+        },
+        "filter_when": {
+            "last_day": "El darrer dia",
+            "last_7_days": "Els darrers 7 dies",
+            "last_30_days": "Els darrers 30 dies"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Gratuït",
+            "on_sale": "En oferta",
+            "paid": "De pagament"
+        },
+        "pager": {
+            "next_page": "Pàgina següent",
+            "prev": "Anterior",
+            "next": "Següent",
+            "current_page_of_total": "Pàgina {{current_page}} de {{total_pages}}"
         }
     },
     "blog": {
@@ -361,7 +389,7 @@
             "follow": "Segueix",
             "following": "Seguint",
             "follow_username": "Segueix {{username}}",
-            "following_username": "Seguint {{username}}",
+            "following_username": "Ja seguiu {{username}}",
             "add_to_collection": "Afegeix a la col·lecció",
             "add_to_collection_short": "Col·lecció",
             "comments": "Comentaris",
@@ -430,6 +458,122 @@
             "subscribe_description": "Obtingueu notificacions de noves respostes en aquest tema",
             "tag_header": "Etiqueta",
             "remove_tag": "Suprimeix l'etiqueta"
+        },
+        "new_topic": {
+            "moderator_tools": "Eines de moderació",
+            "sticky": "Fixat",
+            "locked": "Tancat",
+            "moderation_options": "Opcions",
+            "i_agree_to_the_rules_above": "Estic d'acord amb les normes anteriors",
+            "new_topic": "Tema nou",
+            "this_a_community_run_message_board": "Aquests fòrums els gestiona la comunitat.",
+            "see_community_guidelines": "Vegeu les <a>Normes de la comunitat</a> per a més informació de la política de la comunitat d'itch.io.",
+            "title": "Títol",
+            "body": "Cos",
+            "topic_tag": "Etiqueta",
+            "your_moderators_are": "itch.io no modera aquests fòrums, els moderadors són:"
         }
+    },
+    "buy_form": {
+        "download_title": "Descarrega '{{title}}'",
+        "buy_title": "Compra '{{title}}'",
+        "preorder_title": "Reserva '{{title}}'",
+        "sold_out_notice": "Aquest producte està esgotat, torneu-ho a mirar més tard.",
+        "on_sale_notice": "Aquest producte està en oferta.",
+        "support_message": "Doneu suport al desenvolupament d'aquest projecte donant-hi",
+        "percent_off_until": "Totes les compres tenen un <s>{{rate}}%</s> de descompte fins a {{end_date}}.",
+        "also_buy_as_bundle_plural": "També podeu comprar aquest producte com a part d'un paquet de {{count}} elements per {{price}}:",
+        "buy_as_bundle_plural": "Podeu comprar aquest producte com a part d'un paquet de {{count}} elements per {{price}}:",
+        "free_pay_what_you_want": "Aquest projecte és gratuït, però el creador accepta el vostre suport permetent-vos pagar allò que trobeu just.",
+        "no_thanks_just_take_me_to_the_downloads": "No, gràcies, porta'm a les descàrregues i prou",
+        "includes_steam_key": "Rebreu una clau de Steam amb la vostra compra.",
+        "preorder_this_product_by_purchasing_it_for": "Reserveu aquest producte comprant-lo per {{price}} o més.",
+        "download_this_product_by_purchasing_it_for": "Descarregueu aquest producte comprant-lo per {{price}} o més.",
+        "your_email_address": "La vostra adreça de correu electrònic",
+        "email_address_description": "S'hi enviarà la confirmació del vostre pagament",
+        "gift_email_instructions": "Triareu un correu electrònic al qual enviar-ho com a present després del pagament",
+        "i_already_paid_for_this": "Ja he pagat per això...",
+        "included_files": "Fitxers inclosos",
+        "agree_to_terms": "En completar un pagament, accepteu els <1>Termes del servei</1> i la <2>Privacitat</2> d'itch.io.",
+        "this_purchase_is_a_gift": "Aquesta compra és un present",
+        "support_the_creator_by_paying_above_the_minimum_price": "Doneu suport al creador pagant més del preu mínim",
+        "support_the_creator_with_an_additional_contribution": "Doneu suport al creador amb una contribució addicional",
+        "pay_with": "Paga amb",
+        "check_out_with": "Continua el pagament amb",
+        "credit_card": "Targeta",
+        "go_back": "Torna endarrere",
+        "continue_payment": "Continua el pagament",
+        "billing_address": "Adreça de facturació",
+        "generic_error": "Hi ha hagut un problema amb la vostra compra: {{error}}",
+        "contact_support_on_error": "Si el problema persisteix, contacteu amb el <a>suport d'itch.io</a> amb tots els detalls rellevants."
+    },
+    "collection": {
+        "authors": "una col·lecció de {{author}}",
+        "last_updated_date": "actualitzada per darrer cop {{date}}",
+        "edit_collection": "Edita la col·lecció",
+        "edit_contributors": "Edita els col·laboradors",
+        "empty_collection_message": "En aquesta col·lecció no hi ha res.",
+        "private_collection_message": "Aquesta col·lecció és privada, només els col·laboradors en poden veure els continguts",
+        "pending_invitation": "Teniu una invitació pendent per a ser col·laborador en aquesta col·lecció. <a>Mostra la invitació</a>",
+        "a_collection_by_author": "Una col·lecció de {{author}}",
+        "page_title": "{{collection_title}} - Col·lecció de {{author}}",
+        "remove_item_button": "Suprimeix...",
+        "add_a_blurb": "Afegeix una descripció breu",
+        "edit_blurb": "Edita la descripció breu",
+        "blurb_author_says": "{{author}} diu",
+        "remove_confirm": "Esteu segur que voleu suprimir això de la col·lecció"
+    },
+    "browse": {
+        "results_count_plural": "{{count}} resultats",
+        "results_count": "{{count}} resultat",
+        "sort_popular": "Popular",
+        "sort_new_and_popular": "Nou i popular",
+        "sort_top_sellers": "Els més venuts",
+        "sort_top_rated": "Els més puntuats",
+        "sort_most_recent": "Els més recents",
+        "sort": "Ordena",
+        "upload_your_project": "<a>Pengeu el vostre projecte</a> a itch.io perquè aparegui aquí.",
+        "filter_results": "Filtra els resultats",
+        "clear_filters": "Neteja",
+        "related_collections": "Col·leccions relacionades",
+        "filter_group_price": "Preu",
+        "filter_group_genre": "Gènere",
+        "tag": {
+            "no_description_yet": "Encara no hi ha cap descripció",
+            "suggest_updated_description": "Suggereix una descripció actualitzada",
+            "suggest_description_for_this_tag": "Suggereix una descripció per a aquesta etiqueta"
+        },
+        "filter_group_platform": "Plataforma",
+        "view_all_tags": "Mostra totes les etiquetes",
+        "filter_by_tag": "Filtra per etiqueta",
+        "filter_group_when": "Quan",
+        "filter_group_input_methods": "Mètodes d'entrada",
+        "filter_group_session_length": "Durada mitjana de la sessió",
+        "filter_group_multiplayer": "Característiques multijugador",
+        "filter_group_accessibility_features": "Característiques d'accessibilitat",
+        "filter_group_type": "Tipus",
+        "type_downloadable": "Descarregable",
+        "filter_group_release_status": "Estat de llançament",
+        "filter_group_misc": "Miscel·lània",
+        "filter_group_collection": "Col·lecció",
+        "filter_group_tools": "Eines i motors",
+        "fresh_description": "Exploreu un conjunt de projectes actualitzat constantment en col·leccions organitzades pels nostres membres. Comproveu més tard si hi ha noves incorporacions.",
+        "filter_group": {
+            "more_options": "Més opcions",
+            "fewer_options": "Menys opcions",
+            "toggle_more_options": "Activa/desactiva més opcions",
+            "clear_filter": "Neteja el filtre"
+        },
+        "filter_everything_else": "Tota la resta"
+    },
+    "browse_tags": {
+        "page_title": "Etiquetes més populars",
+        "find_tag": "Cerca una etiqueta",
+        "commonly_tagged_with": "Etiquetat habitualment amb",
+        "no_description_yet": "Encara no hi ha cap descripció"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>de</1> {{author}}",
+        "powered_by_itchio": "fet amb {{itchio}}"
     }
 }
