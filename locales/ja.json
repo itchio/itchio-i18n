@@ -87,7 +87,10 @@
             "game_jams": "ゲームジャム"
         },
         "fresh_games": "新着ゲーム",
-        "fresh_games_description": "itch.ioに登録された最新のゲームをご紹介します"
+        "fresh_games_description": "itch.ioに登録された最新のゲームをご紹介します",
+        "people_to_follow": "おすすめのアカウント",
+        "people_to_follow_description": "こちらはあなたが興味を持つかもしれないアカウントです。 <a>フォローしてみてはいかがですか？</a>",
+        "filtering_platform": "{{platform_name}}用のゲームだけを絞り込む"
     },
     "misc": {
         "classifications": {
