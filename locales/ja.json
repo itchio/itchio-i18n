@@ -85,7 +85,10 @@
         "featured_jams": "注目のゲームジャム",
         "nav": {
             "game_jams": "ゲームジャム",
-            "bundles": "バンドル"
+            "bundles": "バンドル",
+            "all_games": "すべてのゲーム",
+            "devlogs": "開発者ブログ",
+            "community": "コミュニティ"
         },
         "fresh_games": "新着ゲーム",
         "fresh_games_description": "itch.ioに登録された最新のゲームをご紹介します",
