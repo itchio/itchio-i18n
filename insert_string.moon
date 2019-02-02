@@ -15,7 +15,6 @@ parser\argument "text", "Text to be inserted into translation file"
 parser\option "--translations_file", "Where translation will be inserted", "locales/en.json"
 parser\option "--from", "Filename where text was pulled from, to help infer key prefix"
 parser\option "--prefix", "Set key prefix, don't show picker"
-parser\option "--template", "Template for code output", '@t%q'
 parser\option "--variable_template", "Template for code output", '{{%s}}'
 parser\flag "--dryrun", "Don't write to translations file"
 
@@ -172,20 +171,5 @@ else
     assert(io.open(args.translations_file, "w"))\write raw_out
 
 -- io.stderr\write "#{prefix}\t#{suffix}\t#{args.text}\n"
-if variables and next variables
-  out = {
-    [[@t("]]
-    key
-    [[", ]]
-  }
-
-  for {name, expression} in *variables
-    table.insert out, "#{name}: "
-    table.insert out, expression
-    table.insert out, ", "
-
-  out[#out] = ")"
-  print table.concat out
-else
-  print args.template\format key
-
+import string_to_code from require "helpers.code_gen"
+string_to_code key, text
