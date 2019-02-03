@@ -639,5 +639,32 @@
             "profile": "Profile",
             "profile_description": "The content of your profile page"
         }
+    },
+    "stripe_checkout": {
+        "payment_error": "There was an error processing your payment:",
+        "payment_error_help": "If you are unsure, please contact <a>itch.io support</a> with the above message.",
+        "choose_a_card": "Choose a card",
+        "edit_saved_cards": "Edit saved cards",
+        "card_ending_last4": "Ending in {{last4}}",
+        "new_card": "New card",
+        "enter_your_password_to_use_your_card": "Enter your password to use your card",
+        "password": "Password",
+        "buying_as": "Buying as",
+        "gift_instructions": "This purchase is a gift. You'll be able to provide the recipient's email after checkout.",
+        "credit_or_debit_card": "Credit or debit card",
+        "save_credit_card_for_future_purchases": "Save credit card for future purchases",
+        "manage_cards_link": "You can manage your cards from your <a>Account Settings</a>",
+        "pay_price_button": "Pay {{price}}",
+        "paying_price_for": "Paying {{price}} for:",
+        "paying_price_vat_for": "Paying {{price}} VAT inc. for:",
+        "donating_price_to": "Donating {{price}} to:",
+        "donating_price_vat_to": "Donating {{price}} VAT inc. to:",
+        "you_will_receive_files": "You will receive:",
+        "steam_key": "Steam key",
+        "linked_to_account": "Linked to account",
+        "email": "Email",
+        "youll_be_mailed_your_access_link": "You'll be mailed your access link",
+        "full_name": "Full Name",
+        "name_as_it_appears_on_card": "As it appears on card"
     }
 }
