@@ -427,7 +427,9 @@
             "jam_submission": {
                 "view_the_submission_page": "Посмотреть страницу посылки",
                 "this_is_a_submission_to_jam_title": "Участвует в {{jam_title}}",
-                "accepting_ratiings": "Геймджем сейчас собирает оценки проектов. <a>Подробнее</a>"
+                "accepting_ratiings": "Геймджем сейчас собирает оценки проектов. <a>Подробнее</a>",
+                "you_rated_this_game": "Вы оценили эту игру",
+                "now_accepting_ratings": "Гейм-джем сейчас собирает оценки проектов."
             }
         }
     },
