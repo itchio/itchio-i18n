@@ -400,9 +400,33 @@
             "rate": "Puntua",
             "rate_this_noun": "Puntua aquest {{noun}}",
             "rate_for_jam": "Puntua per a {{jam_title}}",
-            "submission_to_jam": "Enviament a {{jam_title}}",
+            "submission_to_jam": "Participació a {{jam_title}}",
             "related_games": "Jocs relacionats",
-            "related_games_short": "Relacionats"
+            "related_games_short": "Relacionats",
+            "ownership": {
+                "you_own_this": "L'heu adquirit",
+                "send_gift": "Envia com a present",
+                "download": "Descarrega",
+                "percent_off": "{{percent}}% de descompte",
+                "you_havent_sent_this_gift_to_anyone_yet": "Encara no heu enviat aquest present a ningú",
+                "claimed": "Reclamat",
+                "you_were_gifted_this": "Us han regalat això",
+                "purchased_in_a_bundle_for_price": "Comprat en un paquet per {{price}}"
+            },
+            "footer": {
+                "view_all_by_username": "Mostra-ho tot de {{username}}",
+                "report": "Informa'n",
+                "embed": "Incrusta",
+                "updated_date": "Actualitzat {{date}}"
+            },
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "Això participa a {{jam_title}}",
+                "view_the_submission_page": "Mostra la pàgina de la participació",
+                "accepting_ratiings": "La jam accepta puntuacions per a les participacions. <a>Més informació</a>",
+                "you_rated_this_game": "Heu puntuat aquest joc",
+                "now_accepting_ratings": "Aquesta jam accepta puntuacions per a les propostes.",
+                "rating_instructions": "Puntueu i comenteu en aquesta participació a la jam tot visitant-ne la pàgina de participació de l'enllaç superior."
+            }
         }
     },
     "community": {
@@ -575,5 +599,86 @@
     "buy_form_popup": {
         "author_line": "<1>de</1> {{author}}",
         "powered_by_itchio": "fet amb {{itchio}}"
+    },
+    "user_settings": {
+        "navigation": {
+            "email_addresses": "Adreces de correu electrònic",
+            "two_factor_auth": "Autenticació en dos passos",
+            "support_email": "Correu electrònic de suport",
+            "publisher_get_started": "Comenceu",
+            "revenue_sharing": "Compartició dels ingressos",
+            "payment_processors": "Processadors de pagaments",
+            "tax_information": "Informació fiscal",
+            "payout_mode": "Mode de pagament",
+            "credit_cards": "Targetes de crèdit",
+            "billing_address": "Adreça de facturació",
+            "email_notifications": "Notificacions per correu electrònic",
+            "connected_accounts": "Comptes connectats",
+            "press_access": "Accés de premsa",
+            "privacy": "Privacitat",
+            "data_export": "Exportació de dades",
+            "api_keys": "Claus de l'API",
+            "oauth_applications": "Aplicacions OAuth",
+            "thirdparty_analytics": "Analítiques de tercers"
+        },
+        "profile": {
+            "language_community_translation": "<s>itch.io és traduït per membres de la comunitat.</s> Alguns idiomes només estan disponibles parcialment. Si us agradaria veure itch.io en la vostra llengua o corregir-ne errades, podeu contribuir-hi. <a>Més informació</a>",
+            "language": "Idioma",
+            "language_description": "Idioma de la interfície d'usuari d'itch.io",
+            "page_header": "Perfil",
+            "username": "Nom d'usuari",
+            "username_description": "S'utilitza per a iniciar la sessió al vostre compte i per a la URL de la vostra pàgina",
+            "change_username": "Canvia el nom d'usuari/URL",
+            "you_recently_changed_your_username": "Heu canviat el vostre nom d'usuari recentment",
+            "url_description": "La URL pública per al vostre compte",
+            "profile_image": "Imatge de perfil",
+            "profile_image_description": "Es mostra al costat del vostre nom quan feu accions al lloc (dimensions quadrades)",
+            "display_name": "Nom mostrat",
+            "display_name_description": "Nom que es mostra en lloc del vostre nom d'usuari, deixeu-lo en blanc per a fer servir el nom d'usuari",
+            "website": "Lloc web",
+            "website_description": "URL opcional que es mostrarà a la vostra pàgina de perfil",
+            "twitter_description": "Compte de Twitter que es mostrarà al vostre perfil",
+            "account_type": "Tipus de compte",
+            "account_type_description": "Com fareu servir el vostre compte",
+            "account_type_gamer": "Per a jugar i descarregar jocs",
+            "account_type_developer": "Per a desenvolupar i penjar jocs",
+            "default_language_option": "Per defecte (definit a Anglès durant la beta dels idiomes)",
+            "content": "Contingut",
+            "content_description": "Com se us mostra el contingut d'itch.io",
+            "show_adult_content": "Mostra contingut marcat per a adults en cercar i explorar",
+            "disable_animated_gifs": "Desactiva els GIFs animats",
+            "disable_autoloading_next_page_when_browsing": "Desactiva la càrrega automàtica de la pàgina següent en explorar",
+            "click_to_load_games": "Exigeix un clic per a executar incrustacions de jocs HTML5",
+            "use_dark_theme": "Utilitza un tema fosc allà on sigui possible",
+            "profile": "Perfil",
+            "profile_description": "El contingut de la vostra pàgina de perfil"
+        }
+    },
+    "stripe_checkout": {
+        "payment_error": "S'ha produït un error en processar el pagament:",
+        "payment_error_help": "Si no n'esteu segur, contacteu amb el <a>suport d'itch.io</a> amb el missatge anterior.",
+        "choose_a_card": "Trieu una targeta",
+        "edit_saved_cards": "Edita les targetes desades",
+        "card_ending_last4": "Acabada en {{last4}}",
+        "new_card": "Targeta nova",
+        "enter_your_password_to_use_your_card": "Introduïu la contrasenya per a utilitzar la targeta",
+        "password": "Contrasenya",
+        "buying_as": "Compreu com a",
+        "gift_instructions": "Aquesta compra és un regal. Podreu proporcionar el correu electrònic del destinatari després de la compra.",
+        "credit_or_debit_card": "Targeta de crèdit o dèbit",
+        "save_credit_card_for_future_purchases": "Desa la targeta de crèdit per a futures compres",
+        "manage_cards_link": "Podeu gestionar les targetes a la <a>Configuració del compte</a>",
+        "pay_price_button": "Paga {{price}}",
+        "paying_price_for": "Pagareu {{price}} per:",
+        "paying_price_vat_for": "Pagareu {{price}} inclòs l'IVA per:",
+        "donating_price_to": "Donareu {{price}} a:",
+        "donating_price_vat_to": "Donareu {{price}} inclòs l'IVA a:",
+        "you_will_receive_files": "Rebreu:",
+        "steam_key": "Clau de Steam",
+        "linked_to_account": "Enllaçat al compte",
+        "email": "Correu electrònic",
+        "youll_be_mailed_your_access_link": "Us enviarem l'enllaç d'accés per correu",
+        "full_name": "Nom complet",
+        "name_as_it_appears_on_card": "Tal com apareix a la targeta"
     }
 }
