@@ -429,7 +429,7 @@
                 "this_is_a_submission_to_jam_title": "Участвует в {{jam_title}}",
                 "accepting_ratiings": "Геймджем сейчас собирает оценки проектов. <a>Подробнее</a>",
                 "you_rated_this_game": "Вы оценили эту игру",
-                "now_accepting_ratings": "Гейм-джем сейчас собирает оценки проектов."
+                "now_accepting_ratings": "Геймджем сейчас собирает оценки проектов."
             }
         }
     },
@@ -607,5 +607,11 @@
     "buy_form_popup": {
         "author_line": "<1>от</1> {{author}}",
         "powered_by_itchio": "на платформе {{itchio}}"
+    },
+    "user_settings": {
+        "account_settings": "Настройки учётной записи",
+        "navigation": {
+            "email_addresses": "Email адреса"
+        }
     }
 }
