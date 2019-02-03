@@ -660,7 +660,13 @@
             "account_type_description": "Как вы будете использовать ваш аккаунт",
             "account_type_gamer": "Для игр и их скачивания",
             "account_type_developer": "Для разработки и публикации игр",
-            "default_language_option": "По умолчанию (используется английский, пока идёт бета-тестирование локализации)"
+            "default_language_option": "По умолчанию (используется английский, пока идёт бета-тестирование локализации)",
+            "content": "Контент",
+            "content_description": "Как отображать содержимое itch.io",
+            "show_adult_content": "Отображать материал для взрослых в поиске и каталогах",
+            "disable_animated_gifs": "Отключить анимированные GIF",
+            "disable_autoloading_next_page_when_browsing": "Отключить автодогрузку страниц при просмотре каталога",
+            "click_to_load_games": "Всегда требовать нажатия для запуска HTML5 игр"
         }
     }
 }
