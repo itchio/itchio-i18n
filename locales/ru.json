@@ -415,13 +415,19 @@
                 "percent_off": "Скидка {{percent}}%",
                 "you_havent_sent_this_gift_to_anyone_yet": "Вы ещё не отправили кому-либо этот подарок",
                 "purchased_in_a_bundle_for_price": "Куплено в бандле за {{price}}",
-                "you_were_gifted_this": "Вам это подарили"
+                "you_were_gifted_this": "Вам это подарили",
+                "purchased_for_price": "Куплено за {{price}}"
             },
             "footer": {
-                "embed": "Встроить"
+                "embed": "Встроить",
+                "view_all_by_username": "Просмотреть всё от {{username}}",
+                "report": "Пожаловаться",
+                "updated_date": "Обновлено {{date}}"
             },
             "jam_submission": {
-                "view_the_submission_page": "Посмотреть страницу посылки"
+                "view_the_submission_page": "Посмотреть страницу посылки",
+                "this_is_a_submission_to_jam_title": "Участвует в {{jam_title}}",
+                "accepting_ratiings": "Гейм-джем сейчас собирает оценки проектов. <a>Подробнее</a>"
             }
         }
     },
