@@ -666,7 +666,7 @@
             "show_adult_content": "Отображать материал для взрослых в поиске и каталогах",
             "disable_animated_gifs": "Отключить анимированные GIF",
             "disable_autoloading_next_page_when_browsing": "Отключить автодогрузку страниц при просмотре каталога",
-            "click_to_load_games": "Всегда требовать нажатия для запуска HTML5 игр"
+            "click_to_load_games": "Всегда требовать клика для запуска HTML5 игр"
         }
     }
 }
