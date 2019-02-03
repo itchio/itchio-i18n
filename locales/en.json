@@ -156,7 +156,8 @@
             "days": "Days or more"
         },
         "forms": {
-            "required": "Required"
+            "required": "Required",
+            "save": "Save"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -575,5 +576,68 @@
     "buy_form_popup": {
         "author_line": "<1>by</1> {{author}}",
         "powered_by_itchio": "powered by {{itchio}}"
+    },
+    "user_settings": {
+        "account_settings": "Account settings",
+        "navigation": {
+            "basics_header": "Basics",
+            "payment_header": "Payment",
+            "publisher_header": "Publisher",
+            "contact_header": "Contact",
+            "misc_header": "Misc",
+            "developer_header": "Developer",
+            "profile": "Profile",
+            "password": "Password",
+            "email_addresses": "Email addresses",
+            "two_factor_auth": "Two factor auth",
+            "support_email": "Support email",
+            "publisher_get_started": "Get started",
+            "revenue_sharing": "Revenue sharing",
+            "payment_processors": "Payment processors",
+            "tax_information": "Tax information",
+            "payout_mode": "Payout mode",
+            "credit_cards": "Credit cards",
+            "billing_address": "Billing address",
+            "email_notifications": "Email notifications",
+            "connected_accounts": "Connected accounts",
+            "press_access": "Press access",
+            "privacy": "Privacy",
+            "data_export": "Data Export",
+            "api_keys": "API keys",
+            "oauth_applications": "OAuth applications",
+            "thirdparty_analytics": "Third-party analytics"
+        },
+        "profile": {
+            "language_community_translation": "<s>itch.io is translated by members of our community.</s> Some languages are only partially available. If you'd like to see itch.io in your language or help fix any mistakes you can contribute. <a>Learn more</a>",
+            "language": "Language",
+            "language_description": "Language of itch.io's user interface",
+            "page_header": "Profile",
+            "username": "Username",
+            "username_description": "Used to log into your account and for your page URL",
+            "change_username": "Change my username/URL",
+            "you_recently_changed_your_username": "You recently changed your username",
+            "url_description": "The public URL for your account",
+            "profile_image": "Profile image",
+            "profile_image_description": "Shown next to your name when you take an action on the site (square dimensions)",
+            "display_name": "Display name",
+            "display_name_description": "Name to be shown in place of your username, leave blank to default to username",
+            "website": "Website",
+            "website_description": "Optional URL to be shown on your profile page",
+            "twitter_description": "Twitter account to show on your profile",
+            "account_type": "Account type",
+            "account_type_description": "How will you use your account",
+            "account_type_gamer": "Playing and downloading games",
+            "account_type_developer": "Developing and uploading games",
+            "default_language_option": "Default (Set to English during languages beta)",
+            "content": "Content",
+            "content_description": "How content on itch.io is shown to you",
+            "show_adult_content": "Show content marked as adult in search & browse",
+            "disable_animated_gifs": "Disable animated gifs",
+            "disable_autoloading_next_page_when_browsing": "Disable auto-loading next page when browsing",
+            "click_to_load_games": "Require a click to run HTML5 game embeds",
+            "use_dark_theme": "Use a dark theme where available",
+            "profile": "Profile",
+            "profile_description": "The content of your profile page"
+        }
     }
 }
