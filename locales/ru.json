@@ -414,7 +414,8 @@
                 "download": "Скачать",
                 "percent_off": "Скидка {{percent}}%",
                 "you_havent_sent_this_gift_to_anyone_yet": "Вы ещё не отправили кому-либо этот подарок",
-                "purchased_in_a_bundle_for_price": "Купено в бандле за {{price}}"
+                "purchased_in_a_bundle_for_price": "Купено в бандле за {{price}}",
+                "you_were_gifted_this": "Вам это подарили"
             }
         }
     },
