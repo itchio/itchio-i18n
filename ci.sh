@@ -5,7 +5,7 @@ set -o xtrace
 
 # setup lua
 luarocks-5.1 install moonscript
-luarocks-5.1 install cjson
+luarocks-5.1 install lua-cjson
 luarocks-5.1 install tableshape
 luarocks-5.1 install luafilesystem
 eval $(luarocks-5.1 path)
