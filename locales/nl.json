@@ -16,7 +16,7 @@
             "log_in": "Inloggen",
             "register": "Registreren",
             "notifications_count": "Een notificatie",
-            "notifications_count_plural": "{{aantal}} notificaties",
+            "notifications_count_plural": "{{count}} notificaties",
             "free_games": "Gratis games",
             "bundles": "Bundels",
             "browse": "Bladeren",
