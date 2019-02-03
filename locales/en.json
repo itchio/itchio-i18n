@@ -157,7 +157,8 @@
         },
         "forms": {
             "required": "Required",
-            "save": "Save"
+            "save": "Save",
+            "email_address": "Email Address"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -186,6 +187,12 @@
             "prev": "Prev",
             "next": "Next",
             "current_page_of_total": "Page {{current_page}} of {{total_pages}}"
+        },
+        "collection_button": {
+            "add_to_collection": "Add to collection"
+        },
+        "lightboxes": {
+            "close": "Close"
         }
     },
     "blog": {
@@ -216,7 +223,8 @@
             "follow_username": "You'll need an account on itch.io before you can follow <1>{{username}}</1>.",
             "collection": "You'll need an account on itch.io before you can add to a collection.",
             "jam_submit": "You'll need an account on itch.io before you can submit to a jam.",
-            "claim_object": "Please log in or create an account to claim the {{noun}}"
+            "claim_object": "Please log in or create an account to claim the {{noun}}",
+            "recent_purchases": "Log in to link any purchases you've recently made."
         },
         "no_account_prompt": "Dont have an account? <1>Create an account</1>",
         "page_title": "Log in",
@@ -691,5 +699,73 @@
         "youll_be_mailed_your_access_link": "You'll be mailed your access link",
         "full_name": "Full Name",
         "name_as_it_appears_on_card": "As it appears on card"
+    },
+    "game_download": {
+        "share_and_follow": "Share & follow",
+        "social_share_message_download": "I just downloaded {{title}} by {{username}}",
+        "or_share_on": "or share on",
+        "trouble_downloading_link": "Downloads not starting?",
+        "install_instructions_intro": "Download and install instructions from {{username}}:",
+        "recommendations_title": "More you might be interested in",
+        "check_out_more_from_jam_title": "Check out more from {{jam_title}}",
+        "alternate_download": {
+            "enable_alternate_download_mode": "Enable alternate download mode",
+            "title": "Alternate Download Mode",
+            "region_message": "Some regions have been known to block itch.io's CDN. If your downloads aren't starting then you can try enabling alternate download mode and trying again."
+        },
+        "check_your_email_for_the_confirmation_link": "Check your email for the confirmation link.",
+        "preorder_instructions": "This project has files that aren't released yet. Come back to this page when the creator has released the files in order to download them.",
+        "app_banner": {
+            "get_the_app": "Get the app",
+            "app_description": "Install and manage your games with the itch.io desktop app"
+        },
+        "play_in_your_browser": "Play in your browser",
+        "start_project_button": "Start",
+        "version_name": "Version {{version_name}}",
+        "header": {
+            "invoice": "Invoice",
+            "more_menu": "More",
+            "view_rest_in_bundle": "View rest in bundle",
+            "preorder_title": "Preorder for {{project_title}}",
+            "download_title": "Download {{project_title}}",
+            "view_all_my_purchases": "View all my purchases",
+            "return_to_project": "Return to project",
+            "discussion_board": "Discussion board"
+        },
+        "linked_user_message": "This page is linked to the account {{username}}.",
+        "link_my_account": "Link my account",
+        "log_in_to_link": "Log in to link",
+        "link_account_header": "Link this download page to your itch.io account",
+        "link_account_description": "You can link this download page to an itch.io account so you never have to worry about losing it. It will show up alongside any other things you own.",
+        "must_link_account_description": "You must link this page to an itch.io account before you can download. Accounts are free and will let you keep track of any games you've collected.",
+        "already_own": "It looks like you already own this",
+        "access_existing_copy": "You can't claim another copy, but you can access your existing one.",
+        "get_external_key": "Get {{key_type}} key",
+        "claim_external_key": "Claim {{key_type}} key",
+        "claim_external_key_instructions": "Click the button to claim it.",
+        "payment_comes_with_key": "Your payment comes with a {{key_type}} key!",
+        "access_comes_with_key": "Your access comes with a {{key_type}} key!",
+        "access_it": "Access it",
+        "email_capture": {
+            "dont_lose_your_purchase": "Don't lose your purchase!",
+            "provide_email_instructions": "Enter your email address to link it to your purchase so you can retrieve it if you ever lose this page."
+        },
+        "purchase": {
+            "youve_been_gifted": "You've been gifted {{product_title}}.",
+            "save_this_purchase_to_your_account": "Save this purchase to your account",
+            "link_purchase_links": "<1>Create an account</1> or <2>log in to itch.io</2> to instantly link this purchase.",
+            "link_purchase_warning": "Don't lose your purchase!",
+            "thank_you_for_purchasing": "Thank you for purchasing {{product_title}}.",
+            "thank_you_for_purchasing_author": "Thank you for purchasing {{product_title}} by {{author}}.",
+            "thank_you_for_donating": "Thank you for donating to {{product_title}}.",
+            "thank_you_for_donating_author": "Thank you for donating to {{product_title}} by {{author}}.",
+            "unique_url_for_your_payment": "This page has a unique URL for your payment.",
+            "access_latest_files_from_this_page": "You can always access the latest files from this page.",
+            "receipt_support_information": "You should have also received an email with a link to this page. If you ever lose the URL for this page you can request it to be emailed to you from the <a>support page</a>.",
+            "payment_summary": "You paid for this on {{payment_date}} for {{payment_price}}.",
+            "payment_summary_with_email": "You paid for this on {{payment_date}} for {{payment_price}} with the email {{email_address}}.",
+            "percent_off": "{{percent}}% off",
+            "linked_user_message": "This purchase is linked to the account {{username}}."
+        }
     }
 }
