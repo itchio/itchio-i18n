@@ -157,7 +157,8 @@
         },
         "forms": {
             "required": "Obligatori",
-            "save": "Desa"
+            "save": "Desa",
+            "email_address": "Adreça de correu electrònic"
         },
         "page_number": "Pàgina {{page_number}}",
         "follow_button": {
@@ -186,6 +187,12 @@
             "prev": "Anterior",
             "next": "Següent",
             "current_page_of_total": "Pàgina {{current_page}} de {{total_pages}}"
+        },
+        "collection_button": {
+            "add_to_collection": "Afegeix a una col·lecció"
+        },
+        "lightboxes": {
+            "close": "Tanca"
         }
     },
     "blog": {
@@ -216,7 +223,8 @@
             "follow_username": "Cal que tingueu un compte a itch.io abans de poder seguir <1>{{username}}</1>.",
             "collection": "Cal que tingueu un compte a itch.io abans de poder afegir elements a una col·lecció.",
             "jam_submit": "Cal que tingueu un compte a itch.io abans de poder participar en una jam.",
-            "claim_object": "Inicieu la sessió o creeu un compte per a reclamar el {{noun}}"
+            "claim_object": "Inicieu la sessió o creeu un compte per a reclamar el {{noun}}",
+            "recent_purchases": "Inicieu la sessió per enllaçar les compres que hàgiu fet recentment."
         },
         "no_account_prompt": "No teniu cap compte? <1>Creeu un compte</1>",
         "page_title": "Inicia la sessió",
@@ -406,10 +414,10 @@
             "related_games_short": "Relacionats",
             "ownership": {
                 "you_own_this": "L'heu adquirit",
-                "send_gift": "Envia com a present",
+                "send_gift": "Envia com a regal",
                 "download": "Descarrega",
                 "percent_off": "{{percent}}% de descompte",
-                "you_havent_sent_this_gift_to_anyone_yet": "Encara no heu enviat aquest present a ningú",
+                "you_havent_sent_this_gift_to_anyone_yet": "Encara no heu enviat aquest regal a ningú",
                 "claimed": "Reclamat",
                 "you_were_gifted_this": "Us han regalat això",
                 "purchased_in_a_bundle_for_price": "Comprat en un paquet per {{price}}",
@@ -517,11 +525,11 @@
         "download_this_product_by_purchasing_it_for": "Descarregueu aquest producte comprant-lo per {{price}} o més.",
         "your_email_address": "La vostra adreça de correu electrònic",
         "email_address_description": "S'hi enviarà la confirmació del vostre pagament",
-        "gift_email_instructions": "Triareu un correu electrònic al qual enviar-ho com a present després del pagament",
+        "gift_email_instructions": "Triareu un correu electrònic al qual enviar-ho com a regal després del pagament",
         "i_already_paid_for_this": "Ja he pagat per això...",
         "included_files": "Fitxers inclosos",
         "agree_to_terms": "En completar un pagament, accepteu els <1>Termes del servei</1> i la <2>Privacitat</2> d'itch.io.",
-        "this_purchase_is_a_gift": "Aquesta compra és un present",
+        "this_purchase_is_a_gift": "Aquesta compra és un regal",
         "support_the_creator_by_paying_above_the_minimum_price": "Doneu suport al creador pagant més del preu mínim",
         "support_the_creator_with_an_additional_contribution": "Doneu suport al creador amb una contribució addicional",
         "pay_with": "Paga amb",
@@ -691,5 +699,73 @@
         "youll_be_mailed_your_access_link": "Us enviarem l'enllaç d'accés per correu",
         "full_name": "Nom complet",
         "name_as_it_appears_on_card": "Tal com apareix a la targeta"
+    },
+    "game_download": {
+        "share_and_follow": "Comparteix i segueix",
+        "social_share_message_download": "Acabo de descarregar {{title}} de {{username}}",
+        "or_share_on": "or compartiu-ho a",
+        "trouble_downloading_link": "Les descàrregues no comencen?",
+        "install_instructions_intro": "Instruccions de descàrrega i instal·lació de {{username}}:",
+        "recommendations_title": "Altres coses en què podeu tenir interès",
+        "check_out_more_from_jam_title": "Vegeu més coses de {{jam_title}}",
+        "alternate_download": {
+            "enable_alternate_download_mode": "Activa el mode de descàrrega alternatiu",
+            "title": "Mode de descàrrega alternatiu",
+            "region_message": "Algunes regions bloquen la xarxa de distribució de continguts (CDN) d'itch.io. Si les descàrregues no comencen, podeu provar d'activar el mode de descàrrega alternatiu i tornar-ho a provar."
+        },
+        "check_your_email_for_the_confirmation_link": "Comproveu el vostre correu electrònic per trobar-hi l'enllaç de confirmació.",
+        "preorder_instructions": "Aquest projecte té fitxers que encara no s'han llançat. Torneu a aquesta pàgina quan el creador n'hagi llançat els fitxers per a descarregar-los.",
+        "app_banner": {
+            "get_the_app": "Obtén l'aplicació",
+            "app_description": "Instal·leu i gestioneu els vostres jocs amb l'aplicació d'escriptori d'itch.io"
+        },
+        "play_in_your_browser": "Juga-hi al navegador",
+        "start_project_button": "Inicia",
+        "version_name": "Versió {{version_name}}",
+        "header": {
+            "invoice": "Factura",
+            "more_menu": "Més",
+            "view_rest_in_bundle": "Mostra la resta del paquet",
+            "preorder_title": "Reserva de {{project_title}}",
+            "download_title": "Descarrega {{project_title}}",
+            "view_all_my_purchases": "Mostra totes les meves compres",
+            "return_to_project": "Torna al projecte",
+            "discussion_board": "Fòrums de discussió"
+        },
+        "linked_user_message": "Aquesta pàgina està enllaçada al compte {{username}}.",
+        "link_my_account": "Enllaça el meu compte",
+        "log_in_to_link": "Inicieu la sessió per a enllaçar",
+        "link_account_header": "Enllaceu aquesta pàgina de descàrrega al vostre compte d'itch.io",
+        "link_account_description": "Podeu enllaçar aquesta pàgina de descàrrega a un compte d'itch.io, de manera que no us haureu de preocupar de si la perdeu. Es mostrarà juntament amb la resta de coses que hàgiu adquirit.",
+        "must_link_account_description": "Cal que enllaceu aquesta pàgina a un compte d'itch.io abans de poder descarregar. Els comptes són gratuïts i us permeten fer un seguiment de la vostra col·lecció de jocs.",
+        "already_own": "Sembla que ja heu adquirit això",
+        "access_existing_copy": "No en podeu reclamar una altra còpia, però podeu accedir a la que ja teniu.",
+        "get_external_key": "Obtén la clau de {{key_type}}",
+        "claim_external_key": "Reclama la clau de {{key_type}}",
+        "claim_external_key_instructions": "Feu clic al botó per a reclamar-la.",
+        "payment_comes_with_key": "El vostre pagament inclou una clau de {{key_type}}!",
+        "access_comes_with_key": "El vostre accés inclou una clau de {{key_type}}!",
+        "access_it": "Accedeix-hi",
+        "email_capture": {
+            "dont_lose_your_purchase": "No perdeu la vostra compra!",
+            "provide_email_instructions": "Introduïu la vostra adreça de correu electrònic per a enllaçar-la a la compra i poder recuperar-la si mai perdeu l'accés a aquesta pàgina."
+        },
+        "purchase": {
+            "youve_been_gifted": "Us han regalat {{product_title}}.",
+            "save_this_purchase_to_your_account": "Desa aquesta compra al meu compte",
+            "link_purchase_links": "<1>Creeu un compte</1> o <2>inicieu la sessió a itch.io</2> per a enllaçar instantàniament aquesta compra.",
+            "link_purchase_warning": "No perdeu la vostra compra!",
+            "thank_you_for_purchasing": "Gràcies per comprar {{product_title}}.",
+            "thank_you_for_purchasing_author": "Gràcies per comprar {{product_title}} de {{author}}.",
+            "thank_you_for_donating": "Gràcies per donar a {{product_title}}.",
+            "thank_you_for_donating_author": "Gràcies per donar a {{product_title}} de {{author}}.",
+            "unique_url_for_your_payment": "Aquesta pàgina té una URL única per al vostre pagament.",
+            "access_latest_files_from_this_page": "Sempre podreu accedir als darrers fitxers en aquesta pàgina.",
+            "receipt_support_information": "També hauríeu d'haver rebut un correu electrònic amb un enllaç a aquesta pàgina. Si mai perdeu la URL d'aquesta pàgina , podeu demanar que se us enviï per correu electrònic a la <a>pàgina de suport</a>.",
+            "payment_summary": "Vau pagar {{payment_price}} per això el {{payment_date}}.",
+            "payment_summary_with_email": "Vau pagar {{payment_price}} per això el {{payment_date}}, amb el correu electrònic {{email_address}}.",
+            "percent_off": "{{percent}}% de descompte",
+            "linked_user_message": "Aquesta compra està enllaçada al compte {{username}}."
+        }
     }
 }
