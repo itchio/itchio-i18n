@@ -429,7 +429,8 @@
                 "this_is_a_submission_to_jam_title": "Участвует в {{jam_title}}",
                 "accepting_ratiings": "Геймджем сейчас собирает оценки проектов. <a>Подробнее</a>",
                 "you_rated_this_game": "Вы оценили эту игру",
-                "now_accepting_ratings": "Геймджем сейчас собирает оценки проектов."
+                "now_accepting_ratings": "Геймджем сейчас собирает оценки проектов.",
+                "rating_instructions": "Оцените этот проект и оставьте комментарий, перейдя по ссылке выше на страницу в гейм-джеме."
             }
         }
     },
@@ -501,7 +502,7 @@
             "title": "Заголовок",
             "body": "Сообщение",
             "topic_tag": "Тег",
-            "your_moderators_are": "itch.io не модерирует этот форум, ваши модераторы здесь:"
+            "your_moderators_are": "itch.io не модерирует этот форум, но модерируют эти пользователи:"
         }
     },
     "buy_form": {
@@ -611,7 +612,35 @@
     "user_settings": {
         "account_settings": "Настройки учётной записи",
         "navigation": {
-            "email_addresses": "Email адреса"
+            "email_addresses": "Email адреса",
+            "basics_header": "Базовое",
+            "payment_header": "Платежи",
+            "publisher_header": "Издатель",
+            "contact_header": "Обратная связь",
+            "misc_header": "Разное",
+            "developer_header": "Разработчик",
+            "profile": "Профиль",
+            "password": "Пароль",
+            "two_factor_auth": "Двухфакторная аутентификация",
+            "support_email": "Почта для поддержки",
+            "publisher_get_started": "Начать",
+            "revenue_sharing": "Разделение доходов",
+            "payment_processors": "Операторы платежей",
+            "tax_information": "Информация о налогах",
+            "payout_mode": "Режим выплат",
+            "credit_cards": "Кредитные карты",
+            "billing_address": "Платёжный адрес",
+            "email_notifications": "Уведомления на почту",
+            "connected_accounts": "Привязанные аккаунты",
+            "press_access": "Доступ для прессы",
+            "privacy": "Приватность",
+            "data_export": "Экспорт данных",
+            "api_keys": "Ключи API",
+            "oauth_applications": "Приложения OAuth",
+            "thirdparty_analytics": "Сторонняя аналитика"
+        },
+        "profile": {
+            "language_community_translation": "<s>itch.io переводится участниками нашего сообщества.</s> Некоторые языки только частично доступны. Если вы хотите видеть itch.io на своём языке, или же если вы нашли ошибки в переводе, вы можете нам помочь. <a>Подробнее</a>"
         }
     }
 }
