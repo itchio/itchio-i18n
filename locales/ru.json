@@ -416,7 +416,8 @@
                 "you_havent_sent_this_gift_to_anyone_yet": "Вы ещё не отправили кому-либо этот подарок",
                 "purchased_in_a_bundle_for_price": "Куплено в бандле за {{price}}",
                 "you_were_gifted_this": "Вам это подарили",
-                "purchased_for_price": "Куплено за {{price}}"
+                "purchased_for_price": "Куплено за {{price}}",
+                "claimed": "Принято"
             },
             "footer": {
                 "embed": "Встроить",
@@ -691,6 +692,12 @@
         "paying_price_for": "{{price}} за:",
         "donating_price_to": "Пожертвование {{price}} за:",
         "donating_price_vat_to": "Пожертвование {{price}} (НДС включено) за:",
-        "full_name": "Полное имя"
+        "full_name": "Полное имя",
+        "you_will_receive_files": "Вы получите:",
+        "steam_key": "Ключ Steam",
+        "linked_to_account": "Привязанный к аккаунту",
+        "email": "Email",
+        "youll_be_mailed_your_access_link": "Мы отправим вам ссылку доступа.",
+        "name_as_it_appears_on_card": "Так же, как и на карте"
     }
 }
