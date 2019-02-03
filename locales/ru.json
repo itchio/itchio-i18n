@@ -697,7 +697,7 @@
         "steam_key": "Ключ Steam",
         "linked_to_account": "Привязанный к аккаунту",
         "email": "Email",
-        "youll_be_mailed_your_access_link": "Мы отправим вам ссылку доступа.",
+        "youll_be_mailed_your_access_link": "Мы отправим вам ссылку для доступа",
         "name_as_it_appears_on_card": "Так же, как и на карте"
     }
 }
