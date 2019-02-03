@@ -683,6 +683,8 @@
         "password": "Пароль",
         "buying_as": "Покупаю как",
         "gift_instructions": "Подарок. Вы сможете указать email получателя после проведения платежа.",
-        "credit_or_debit_card": "Кредитная или дебитовая карта"
+        "credit_or_debit_card": "Кредитная или дебетовая карта",
+        "pay_price_button": "Заплатить {{price}}",
+        "paying_price_vat_for": "{{price}} (НДС включено) за:"
     }
 }
