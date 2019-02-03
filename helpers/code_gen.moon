@@ -46,4 +46,4 @@ string_to_code = (key, text) ->
     print "@t\"#{key}\""
 
 
-{:string_to_code}
+{:string_to_code, :find_variables}
