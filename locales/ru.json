@@ -685,6 +685,10 @@
         "gift_instructions": "Подарок. Вы сможете указать email получателя после проведения платежа.",
         "credit_or_debit_card": "Кредитная или дебетовая карта",
         "pay_price_button": "Заплатить {{price}}",
-        "paying_price_vat_for": "{{price}} (НДС включено) за:"
+        "paying_price_vat_for": "{{price}} (НДС включено) за:",
+        "save_credit_card_for_future_purchases": "Сохранить данные карты для будущих платежей",
+        "manage_cards_link": "Управляйте своими картами через <a>настройки аккаунта</a>",
+        "paying_price_for": "{{price}} за:",
+        "donating_price_to": "Пожертвование в {{price}} за:"
     }
 }
