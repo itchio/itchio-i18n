@@ -1,0 +1,13 @@
+language: c
+sudo: required
+
+services:
+  - docker
+
+install:
+  - docker build -t itchio-i18n-test .
+
+script:
+  - docker run itchio-i18n-test
+
+
