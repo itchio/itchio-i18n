@@ -645,7 +645,8 @@
             "language_description": "Язык интерфейса itch.io",
             "page_header": "Профиль",
             "username": "Имя пользователя",
-            "username_description": "Используется для входа и как адрес вашей страницы"
+            "username_description": "Используется для входа, и как адрес вашей страницы",
+            "change_username": "Поменять моё имя пользователя / URL"
         }
     }
 }
