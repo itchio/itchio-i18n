@@ -158,7 +158,8 @@
             "days": "Сутки или более"
         },
         "forms": {
-            "required": "Обязательно"
+            "required": "Обязательно",
+            "save": "Сохранить"
         },
         "page_number": "Страница {{page_number}}",
         "follow_button": {
@@ -406,7 +407,15 @@
             "rate_for_jam": "Оценить для {{jam_title}}",
             "submission_to_jam": "Посылка для {{jam_title}}",
             "related_games": "Похожие игры",
-            "related_games_short": "Похожие"
+            "related_games_short": "Похожие",
+            "ownership": {
+                "you_own_this": "Вы купили это",
+                "send_gift": "Отправить как подарок",
+                "download": "Скачать",
+                "percent_off": "Скидка {{percent}}%",
+                "you_havent_sent_this_gift_to_anyone_yet": "Вы ещё не отправили кому-либо этот подарок",
+                "purchased_in_a_bundle_for_price": "Купено в бандле за {{price}}"
+            }
         }
     },
     "community": {
