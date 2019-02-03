@@ -647,7 +647,7 @@
             "username": "Имя пользователя",
             "username_description": "Используется для входа, и как адрес вашей страницы",
             "change_username": "Поменять моё имя пользователя / URL",
-            "you_recently_changed_your_username": "Вы недавно изменили имя вашего профиля"
+            "you_recently_changed_your_username": "Вы недавно изменили ваше имя пользователя"
         }
     }
 }
