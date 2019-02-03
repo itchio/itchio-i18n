@@ -156,7 +156,8 @@
             "days": "Uns dies o més"
         },
         "forms": {
-            "required": "Obligatori"
+            "required": "Obligatori",
+            "save": "Desa"
         },
         "page_number": "Pàgina {{page_number}}",
         "follow_button": {
@@ -411,7 +412,8 @@
                 "you_havent_sent_this_gift_to_anyone_yet": "Encara no heu enviat aquest present a ningú",
                 "claimed": "Reclamat",
                 "you_were_gifted_this": "Us han regalat això",
-                "purchased_in_a_bundle_for_price": "Comprat en un paquet per {{price}}"
+                "purchased_in_a_bundle_for_price": "Comprat en un paquet per {{price}}",
+                "purchased_for_price": "Comprat per {{price}}"
             },
             "footer": {
                 "view_all_by_username": "Mostra-ho tot de {{username}}",
@@ -619,7 +621,15 @@
             "data_export": "Exportació de dades",
             "api_keys": "Claus de l'API",
             "oauth_applications": "Aplicacions OAuth",
-            "thirdparty_analytics": "Analítiques de tercers"
+            "thirdparty_analytics": "Analítiques de tercers",
+            "basics_header": "Configuració bàsica",
+            "payment_header": "Pagament",
+            "publisher_header": "Editor",
+            "contact_header": "Contacte",
+            "misc_header": "Miscel·lània",
+            "developer_header": "Desenvolupador",
+            "profile": "Perfil",
+            "password": "Contrasenya"
         },
         "profile": {
             "language_community_translation": "<s>itch.io és traduït per membres de la comunitat.</s> Alguns idiomes només estan disponibles parcialment. Si us agradaria veure itch.io en la vostra llengua o corregir-ne errades, podeu contribuir-hi. <a>Més informació</a>",
@@ -652,7 +662,8 @@
             "use_dark_theme": "Utilitza un tema fosc allà on sigui possible",
             "profile": "Perfil",
             "profile_description": "El contingut de la vostra pàgina de perfil"
-        }
+        },
+        "account_settings": "Configuració del compte"
     },
     "stripe_checkout": {
         "payment_error": "S'ha produït un error en processar el pagament:",
