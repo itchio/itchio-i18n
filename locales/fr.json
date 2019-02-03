@@ -156,7 +156,36 @@
             "days": "Plusieurs jours"
         },
         "forms": {
-            "required": "Champ obligatoire"
+            "required": "Champ obligatoire",
+            "save": "Sauvegarder"
+        },
+        "page_number": "Page {{page_number}}",
+        "follow_button": {
+            "follow_username": "S'abonner à {{username}}",
+            "follow": "S'abonner",
+            "following_username": "Abonné à {{username}}",
+            "following": "Abonnements",
+            "unfollow_username": "Se désabonner de {{username}}",
+            "unfollow": "Se désabonner"
+        },
+        "filter_when": {
+            "last_day": "Dernières 24h",
+            "last_7_days": "Les 7 derniers jours",
+            "last_30_days": "Les 30 derniers jours"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Gratuit",
+            "on_sale": "En soldes",
+            "paid": "Payant"
+        },
+        "pager": {
+            "next_page": "Page suivante",
+            "prev": "Précédent",
+            "next": "Suivant",
+            "current_page_of_total": "Page {{current_page}} sur {{total_pages}}"
         }
     },
     "blog": {
@@ -181,7 +210,7 @@
         "create_a_new_account": "Créer un nouveau compte",
         "no_account_prompt": "Pas de compte? <1>Créer un compte</1>",
         "intent": {
-            "rate_game": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir noter un jeu.",
+            "rate_game": "Vous avez besoin d'être connecté à votre compte itch.io pour noter un jeu.",
             "follow": "Vous avez besoin d'être connecté à votre compte Itch.io avant de pouvoir suivre quelqu'un.",
             "community": "Pour participer aux communautés itch.io, il faut se connecter. Créer un compte est gratuit et rapide.",
             "comment": "Il vous faut un compte itch.io pour commenter.",
@@ -345,7 +374,7 @@
         "community_posts_count_plural": "{{count}} posts",
         "post_a_new_topic": "Poster un nouveau sujet",
         "post_first_topic": "Poster le premier sujet",
-        "community_sticky": "Toujours en haut",
+        "community_sticky": "Épinglé",
         "upload_list": {
             "preorder": "Pré-commander",
             "download": "Télécharger",
@@ -374,7 +403,14 @@
             "rate_for_jam": "Noter pour {{jam_title}}",
             "submission_to_jam": "Soumission à {{jam_title}}",
             "related_games": "Vous aimerez aussi",
-            "related_games_short": "Voir aussi"
+            "related_games_short": "Voir aussi",
+            "ownership": {
+                "you_own_this": "Vous possédez ceci",
+                "send_gift": "Envoyer un cadeau",
+                "download": "Télécharger",
+                "percent_off": "{{percent}}% de réduc",
+                "you_havent_sent_this_gift_to_anyone_yet": "Vous n'avez encore envoyé ce cadeau à personne"
+            }
         }
     },
     "community": {
@@ -393,7 +429,7 @@
             "unsubscribe": "Se désabonner",
             "subscribe": "S'abonner",
             "return_to_topic_list": "Retour à la liste des sujets",
-            "sticky": "Toujours en haut",
+            "sticky": "Épinglé",
             "locked": "Verrouillé",
             "moderation": "Modération",
             "replies_count": "Réponses: {{count}}",
