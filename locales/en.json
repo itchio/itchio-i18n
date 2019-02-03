@@ -403,7 +403,32 @@
             "rate_for_jam": "Rate for {{jam_title}}",
             "submission_to_jam": "Submission to {{jam_title}}",
             "related_games": "Related games",
-            "related_games_short": "Related"
+            "related_games_short": "Related",
+            "ownership": {
+                "you_own_this": "You own this",
+                "send_gift": "Send Gift",
+                "download": "Download",
+                "percent_off": "{{percent}}% off",
+                "you_havent_sent_this_gift_to_anyone_yet": "You haven't sent this gift to anyone yet",
+                "claimed": "Claimed",
+                "you_were_gifted_this": "You were gifted this",
+                "purchased_in_a_bundle_for_price": "Purchased in a bundle for {{price}}",
+                "purchased_for_price": "Purchased for {{price}}"
+            },
+            "footer": {
+                "view_all_by_username": "View all by {{username}}",
+                "report": "Report",
+                "embed": "Embed",
+                "updated_date": "Updated {{date}}"
+            },
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "This is a submission to {{jam_title}}",
+                "view_the_submission_page": "View the submission page",
+                "accepting_ratiings": "The jam is currently accepting ratings for submissions. <a>Learn more</a>",
+                "you_rated_this_game": "You rated this game",
+                "now_accepting_ratings": "The jam is currently accepting ratings for entries.",
+                "rating_instructions": "Rate and comment on this entry for the jam by visiting the submission page from the link above."
+            }
         }
     },
     "community": {
