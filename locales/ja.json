@@ -100,10 +100,11 @@
         "latest_featured_games": "注目タイトル",
         "view_all_platforms": "すべてのプラットフォームを表示",
         "browse_content_type": " {{content_type}}を探す",
-        "intro": "<s>itch.io</s>ならオンライン上でインディーズゲームを探したりシェアしたりすることが無料で簡単に行えます。",
+        "intro": "<s>itch.io</s>ではオンライン上のインディーズゲームの発見と配信が無料で簡単に行えます。",
         "intro_cta": "<1>ゲームを登録する</1> または <2>FAQを読む</2>",
         "html5_games": "HTML5ゲーム",
-        "page_title": "最新のインディーズゲームをダウンロード"
+        "page_title": "最新のインディーズゲームをダウンロード",
+        "meta_description": "itch.ioではオンライン上のインディーズゲームの発見、ダウンロードまたは配信が簡単に行えます。あなたはゲームのアップロード先を探している開発者でも、何か新しいゲームを求めるプレイヤーでも、itch.ioはその要求に応えられます。"
     },
     "misc": {
         "classifications": {
@@ -118,7 +119,43 @@
             "physical_game": "アナログゲーム"
         },
         "accessibility_features": {
-            "subtitles": "字幕"
+            "subtitles": "字幕",
+            "textless": "テキストなし"
+        },
+        "inputs": {
+            "keyboard": "キーボード",
+            "mouse": "マウス",
+            "gamepad": "ゲームコントローラー（種類関係なく）",
+            "touchscreen": "タッチ画面",
+            "phone": "スマートフォン"
+        },
+        "durations": {
+            "seconds": "数秒",
+            "minutes": "数分",
+            "half_hour": "３０分ほど",
+            "hour": "１時間ほど",
+            "hours": "数時間",
+            "days": "数日以上"
+        },
+        "follow_button": {
+            "follow_username": "{{username}}をフォロー",
+            "follow": "フォロー",
+            "following_username": "{{username}}をフォロー中",
+            "following": "フォロー中"
+        },
+        "filter_when": {
+            "last_7_days": "最後の７日間",
+            "last_30_days": "最後の３０日間"
+        },
+        "filter_price": {
+            "free": "無料",
+            "on_sale": "セール中",
+            "paid": "有料"
+        },
+        "pager": {
+            "next_page": "次のページ",
+            "prev": "前へ",
+            "next": "次へ"
         }
     },
     "developers": {
@@ -130,7 +167,9 @@
         "design_your_games_page": "独自のゲームページをデザインしよう",
         "host_a_sale": "セールを主催",
         "learn_more": "もっと詳しく",
-        "learn_more_about": "もっと詳しく："
+        "learn_more_about": "もっと詳しく：",
+        "product_summary1": "<s>itch.io</s>ではオンライン上のインディーズゲームの配信を無料で簡単に行えます。ゲームファイルとスクリーンショットのすべてを一か所にまとめて、好きなようにゲーム独自のページをカスタマイズしましょう。",
+        "share_message": "itch.ioではオンライン上のインディーズゲームの配信が無料で簡単に行えます。"
     },
     "user_register": {
         "register_form": {
@@ -161,17 +200,33 @@
     },
     "user_login": {
         "intent": {
-            "jam_submit": "ゲームジャムに参加するにはitch.ioのアカウントが必要です。"
+            "jam_submit": "ゲームジャムに参加するにはまずitch.ioのアカウントが必要です。",
+            "community": "itch.ioのコミュニティに参加するにはログインが必要です。アカウントの作成は無料で時間がかかりません。",
+            "comment": "コメントを残すにはまずitch.ioアカウントが必要です。",
+            "rate_game": "ゲームを評価するにはまずitch.ioアカウントが必要です。",
+            "follow": "誰かをフォローするにはまずitch.ioアカウントが必要です。"
         },
         "welcome_back": "お帰りなさいませ！",
         "welcome_to_itchio": "itch.ioへようこそ！",
         "errors": {
             "accept_terms": "利用規約に同意する必要があります"
-        }
+        },
+        "login_form": {
+            "username_or_email": "ユーザー名またはメールアドレス",
+            "password": "パスワード",
+            "forgot_password": "パスワードを忘れた場合",
+            "log_in_button": "ログイン"
+        },
+        "create_a_new_account": "新しいアカウントを作成する"
     },
     "game": {
         "layout": {
             "rate_for_jam": "{{jam_title}}を評価する"
         }
+    },
+    "blog": {
+        "all_posts": "すべての投稿",
+        "updates": "アップデート",
+        "empty_message": "こちらには投稿がありません"
     }
 }
