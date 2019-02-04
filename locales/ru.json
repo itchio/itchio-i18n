@@ -715,10 +715,63 @@
         "recommendations_title": "Вам может быть интересно",
         "alternate_download": {
             "enable_alternate_download_mode": "Включить альтернативный метод скачивания",
-            "title": "Альтернативный метод скачивания"
+            "title": "Альтернативный метод скачивания",
+            "region_message": "Известно, что некоторые регионы блокируют систему распространения контента itch.io. Если закачка не проходит, попробуйте включить альтернативный метод загрузки, и затем попробуйте скачать файлы ещё раз."
         },
         "share_and_follow": "Поделиться и подписаться",
         "install_instructions_intro": "Инструкция по скачиванию и установке от {{username}}:",
-        "check_out_more_from_jam_title": "Оцените другие проекты {{jam_title}}"
+        "check_out_more_from_jam_title": "Оцените другие проекты {{jam_title}}",
+        "check_your_email_for_the_confirmation_link": "Проверьте ваш email — там будет ссылка для подтверждения.",
+        "preorder_instructions": "В этом проекте есть ещё не выпущенные файлы. Проверьте эту страницу после релиза, чтобы скачать их.",
+        "app_banner": {
+            "app_description": "Устанавливайте игры и управляйте игротекой с клиента itch.io"
+        },
+        "play_in_your_browser": "Играйте в браузере",
+        "start_project_button": "Запустить",
+        "version_name": "Версия {{version_name}}",
+        "header": {
+            "invoice": "Счёт-фактура",
+            "more_menu": "Ещё",
+            "view_rest_in_bundle": "Посмотреть всё остальное из комплекта",
+            "preorder_title": "Предзаказ {{project_title}}",
+            "download_title": "Скачать {{project_title}}",
+            "view_all_my_purchases": "Просмотреть все мои покупки",
+            "return_to_project": "Вернуться к проекту",
+            "discussion_board": "Форум"
+        },
+        "linked_user_message": "Эта страница привязана к аккаунту {{username}}.",
+        "link_my_account": "Привязать мой аккаунт",
+        "log_in_to_link": "Войдите, чтобы привязать",
+        "link_account_header": "Привяжите эту страницу для скачивания к вашему itch.io аккаунту",
+        "link_account_description": "Вы можете привязать эту страницу для скачивания к itch.io аккаунту, чтобы не потерять её. Она будет на странице с другими вашими приобретениями.",
+        "must_link_account_description": "Нужно привязать эту страницу к аккаунту itch.io, прежде чем можно будет скачать файлы. Регистрация бесплатна, и позволит хранить все приобретения в игротеке.",
+        "already_own": "Кажется, вы уже приобретали это ",
+        "access_existing_copy": "Нельзя приобрести ещё одну копию, но вы можете получить доступ к уже у вас имеющейся.",
+        "get_external_key": "Получить ключ {{key_type}}",
+        "claim_external_key": "Забрать ключ {{key_type}}",
+        "claim_external_key_instructions": "Нажмите кнопку, чтобы получить ключ.",
+        "payment_comes_with_key": "Ваша покупка будет с ключом {{key_type}}!",
+        "access_comes_with_key": "Ваше приобретение поставляется с ключом {{key_type}}!",
+        "access_it": "Получить доступ",
+        "email_capture": {
+            "dont_lose_your_purchase": "Не потеряйте свою покупку!",
+            "provide_email_instructions": "Введите свой email-адрес, чтобы привязать его к вашей покупке и не потерять её."
+        },
+        "purchase": {
+            "youve_been_gifted": "Вам подарили {{product_title}}.",
+            "save_this_purchase_to_your_account": "Сохраните эту покупку в своём аккаунте",
+            "link_purchase_links": "<1>Создайте аккаунт</1> или <2>войдите в itch.io</2>, чтобы сразу привязать покупку к вашему профилю.",
+            "link_purchase_warning": "Не потеряйте покупку!",
+            "thank_you_for_purchasing": "Спасибо за покупку {{product_title}}.",
+            "thank_you_for_purchasing_author": "Спасибо за покупку {{product_title}} от {{author}}.",
+            "thank_you_for_donating": "Спасибо за пожертвование для {{product_title}}.",
+            "thank_you_for_donating_author": "Спасибо за пожертвование для {{product_title}} от {{author}}.",
+            "unique_url_for_your_payment": "У этой страницы есть уникальная ссылка с вашим платежом.",
+            "access_latest_files_from_this_page": "Вы всегда сможете скачать файлы последних версий с этой страницы.",
+            "receipt_support_information": "Вам также должно прийти email со ссылкой на эту страницу. Если вы вдруг потеряете ссылку, вы можете запросить отправить её повторно на email через нашу <a>форму обратной связи</a>.",
+            "payment_summary": "Вы заплатили за это {{payment_date}} за {{payment_price}}.",
+            "percent_off": "Скидка {{percent}}%",
+            "linked_user_message": "Эта покупка закреплена за аккаунтом {{username}}."
+        }
     }
 }
