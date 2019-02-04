@@ -8,7 +8,7 @@
             "contact_us": "Contact",
             "terms": "Conditions d'utilisation",
             "directory": "Plan du site",
-            "privacy": "Confidentialité",
+            "privacy": "Avis de confidentialité",
             "cookies": "Cookies"
         },
         "header": {
@@ -157,7 +157,8 @@
         },
         "forms": {
             "required": "Champ obligatoire",
-            "save": "Sauvegarder"
+            "save": "Sauvegarder",
+            "email_address": "Adresse e-mail"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -186,6 +187,12 @@
             "prev": "Précédent",
             "next": "Suivant",
             "current_page_of_total": "Page {{current_page}} sur {{total_pages}}"
+        },
+        "collection_button": {
+            "add_to_collection": "Ajouter à une collection"
+        },
+        "lightboxes": {
+            "close": "Fermer"
         }
     },
     "blog": {
@@ -217,7 +224,8 @@
             "follow_username": "Il vous faut un compte itch.io pour vous abonner à <1>{{username}}</1>.",
             "collection": "Il vous faut un compte itch.io pour ajouter à une collection.",
             "jam_submit": "Il vous faut un compte itch.io pour participer à une jam.",
-            "claim_object": "Connectez-vous ou créez un compte pour réclamer le {{noun}}"
+            "claim_object": "Connectez-vous ou créez un compte pour réclamer le {{noun}}",
+            "recent_purchases": "Connectez-vous pour ajouter à votre compte vos derniers achats."
         },
         "page_title": "Se connecter",
         "you_are_logged_out": "Vous êtes maintenant déconnecté(e)",
@@ -233,7 +241,7 @@
             "create_account": "Créer un compte",
             "log_in": "Se connecter",
             "link_product": "Votre achat: <1>{{product}}</1> sera lié à votre compte dès sa création.",
-            "accept_tos": "J'accepte les <1>Conditions Générales d'Utilisations</1>",
+            "accept_tos": "J'accepte les <1>Conditions d'Utilisations</1>",
             "about_you": "À propos de vous",
             "your_email_address": "Votre adresse email",
             "password": "Mot de passe",
@@ -409,7 +417,25 @@
                 "send_gift": "Envoyer un cadeau",
                 "download": "Télécharger",
                 "percent_off": "{{percent}}% de réduc",
-                "you_havent_sent_this_gift_to_anyone_yet": "Vous n'avez encore envoyé ce cadeau à personne"
+                "you_havent_sent_this_gift_to_anyone_yet": "Vous n'avez encore envoyé ce cadeau à personne",
+                "claimed": "Ajouté",
+                "you_were_gifted_this": "Reçu comme cadeau",
+                "purchased_in_a_bundle_for_price": "Acheté dans un bundle pour {{price}}",
+                "purchased_for_price": "Acheté pour {{price}}"
+            },
+            "footer": {
+                "view_all_by_username": "Voir le catalogue {{username}}",
+                "report": "Signaler",
+                "embed": "Intégrer",
+                "updated_date": "Mis à jour le {{date}}"
+            },
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "Présenté à {{jam_title}}",
+                "view_the_submission_page": "Voir la page de jam",
+                "accepting_ratiings": "Les travaux soumis à cette jam sont en cours d'évaluation. <a>En savoir plus</a>",
+                "you_rated_this_game": "Vous avez évalué ce jeu",
+                "now_accepting_ratings": "Les soumissions de cette jam sont en cours d'évaluation.",
+                "rating_instructions": "Notez et commentez cette soumission en visitant sa page à partir du lien ci-dessus."
             }
         }
     },
@@ -466,6 +492,63 @@
             "subscribe_description": "Recevoir des notifications de nouvelles réponses au sujet",
             "tag_header": "Tag",
             "remove_tag": "Enlever le tag"
+        },
+        "new_topic": {
+            "moderator_tools": "Outils de modération",
+            "sticky": "Épinglé",
+            "locked": "Verrouillé",
+            "moderation_options": "Options",
+            "i_agree_to_the_rules_above": "J'accepte les règles ci-dessus",
+            "new_topic": "Nouveau sujet",
+            "this_a_community_run_message_board": "Ceci est un forum de discussion géré par la communauté.",
+            "see_community_guidelines": "Consultez les <a>Règles de communauté</a> pour les communautés itch.io.",
+            "title": "Titre",
+            "body": "Corps",
+            "topic_tag": "Tag",
+            "your_moderators_are": "itch.io ne modère pas ces forums, vos modérateurs sont :"
         }
+    },
+    "buy_form": {
+        "download_title": "Télécharger '{{title}}'",
+        "buy_title": "Acheter '{{title}}'",
+        "preorder_title": "Pré-commander '{{title}}'",
+        "sold_out_notice": "Ce produit est actuellement en rupture de stock.",
+        "on_sale_notice": "Ce produit est en vente.",
+        "support_message": "Soutenir le développement de ce projet en faisant un don",
+        "percent_off_until": "<s>{{rate}}%</s> de réduction sur tout achat avant {{end_date}}.",
+        "also_buy_as_bundle_plural": "Également disponible dans un bundle contenant {{count}} produits pour {{price}} :",
+        "buy_as_bundle_plural": "Disponible dans un bundle contenant {{count}} produits pour {{price}} :",
+        "free_pay_what_you_want": "Ce projet est gratuit, mais vous pouvez soutenir son créateur par un don du montant de votre choix.",
+        "no_thanks_just_take_me_to_the_downloads": "Non merci, montrez-moi les téléchargements",
+        "includes_steam_key": "Vous recevrez une clé Steam avec votre achat.",
+        "preorder_this_product_by_purchasing_it_for": "Pré-commandez ce produit en l'achetant pour {{price}} ou plus.",
+        "download_this_product_by_purchasing_it_for": "Téléchargez ce produit en l'achetant pour {{price}} ou plus.",
+        "your_email_address": "Votre adresse e-mail",
+        "email_address_description": "Un reçu vous sera envoyé à cette addresse",
+        "gift_email_instructions": "Vous pourrez entrer l'e-mail du bénéficiaire après paiement",
+        "i_already_paid_for_this": "Déjà payé pour ce contenu ?",
+        "included_files": "Fichiers inclus",
+        "agree_to_terms": "En effectuant un paiement, vous acceptez les <1>Conditions d'utilisation</1> et l'<2>Avis de confidentialité</2> d'itch.io.",
+        "this_purchase_is_a_gift": "Cet achat est un cadeau",
+        "support_the_creator_by_paying_above_the_minimum_price": "Soutenez le créateur en augmentant le prix d'achat",
+        "support_the_creator_with_an_additional_contribution": "Montrer votre soutien avec une contribution supplémentaire",
+        "pay_with": "Payer avec",
+        "check_out_with": "Payer avec",
+        "credit_card": "Carte de crédit",
+        "go_back": "Retour",
+        "continue_payment": "Procéder au paiement",
+        "billing_address": "Adresse de facturation",
+        "generic_error": "Une erreur s'est produite durant votre achat : {{error}}",
+        "contact_support_on_error": "Si le problème persiste, veuillez contacter le <a>support itch.io</a> avec tous les détails pertinents."
+    },
+    "collection": {
+        "authors": "une collection de {{author}}",
+        "last_updated_date": "mise à jour le {{date}}",
+        "edit_collection": "Éditer la collection",
+        "edit_contributors": "Editer les contributeurs",
+        "empty_collection_message": "Il n'y a rien dans cette collection.",
+        "private_collection_message": "Cette collection est privée, seuls les contributeurs peuvent y accéder",
+        "pending_invitation": "Acceptez <a>cette invitation</a> pour contribuer à cette collection.",
+        "a_collection_by_author": "Une collection de {{author}}"
     }
 }
