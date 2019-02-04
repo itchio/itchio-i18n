@@ -724,7 +724,8 @@
         "check_your_email_for_the_confirmation_link": "Проверьте ваш email — там будет ссылка для подтверждения.",
         "preorder_instructions": "В этом проекте есть ещё не выпущенные файлы. Проверьте эту страницу после релиза, чтобы скачать их.",
         "app_banner": {
-            "app_description": "Устанавливайте игры и управляйте игротекой с клиента itch.io"
+            "app_description": "Устанавливайте игры и управляйте игротекой с клиента itch.io",
+            "get_the_app": "Скачать приложение"
         },
         "play_in_your_browser": "Играйте в браузере",
         "start_project_button": "Запустить",
@@ -771,7 +772,8 @@
             "receipt_support_information": "Вам также должно прийти email со ссылкой на эту страницу. Если вы вдруг потеряете ссылку, вы можете запросить отправить её повторно на email через нашу <a>форму обратной связи</a>.",
             "payment_summary": "Вы заплатили за это {{payment_date}} за {{payment_price}}.",
             "percent_off": "Скидка {{percent}}%",
-            "linked_user_message": "Эта покупка закреплена за аккаунтом {{username}}."
+            "linked_user_message": "Эта покупка закреплена за аккаунтом {{username}}.",
+            "payment_summary_with_email": "Вы заплатили за это {{payment_date}} {{payment_price}}, указав email {{email_address}}."
         }
     }
 }
