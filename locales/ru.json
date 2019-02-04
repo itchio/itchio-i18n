@@ -159,7 +159,8 @@
         },
         "forms": {
             "required": "Обязательно",
-            "save": "Сохранить"
+            "save": "Сохранить",
+            "email_address": "Email адрес"
         },
         "page_number": "Страница {{page_number}}",
         "follow_button": {
@@ -218,7 +219,8 @@
             "follow_username": "Чтобы подписаться на <1>{{username}}</1>, необходима учётная запись itch.io.",
             "collection": "Для добавления в коллекцию необходима учётная запись itch.io.",
             "jam_submit": "Для посылки на геймджем необходима учётная запись itch.io.",
-            "claim_object": "Пожалуйста, войдите или создайте учётную запись, чтобы закрепить за собой {{noun}}"
+            "claim_object": "Пожалуйста, войдите или создайте учётную запись, чтобы закрепить за собой {{noun}}",
+            "recent_purchases": "Выполните вход, чтобы привязать недавние покупки."
         },
         "no_account_prompt": "Нет учётной записи? <1>Создать учётную запись</1>",
         "page_title": "Вход",
@@ -699,5 +701,15 @@
         "email": "Email",
         "youll_be_mailed_your_access_link": "Мы отправим вам ссылку для доступа",
         "name_as_it_appears_on_card": "Так же, как и на карте"
+    },
+    "game_download": {
+        "social_share_message_download": "Я только что скачал {{title}} от {{username}}",
+        "or_share_on": "или поделитесь в",
+        "trouble_downloading_link": "Скачивание не началось?",
+        "recommendations_title": "Вам может быть интересно",
+        "alternate_download": {
+            "enable_alternate_download_mode": "Включить альтернативный метод скачивания",
+            "title": "Альтернативный метод скачивания"
+        }
     }
 }
