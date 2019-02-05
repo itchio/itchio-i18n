@@ -93,6 +93,15 @@
         "view_all_on_sale": "Vezi tot ce e la ofertă",
         "people_to_follow_description": "Uite niște pagini care te-ar putea interesa, și pe care le poți urmări. <a> De ce ai dori să urmărești aceste pagini? </a>",
         "latest_featured_games": "Cele mai noi recomandări",
-        "filtering_platform": "Se selectează numai jocurile pentru {{platform_name}}"
+        "filtering_platform": "Se selectează numai jocurile pentru {{platform_name}}",
+        "view_all_platforms": "Vezi toate platformele",
+        "nav": {
+            "all_games": "Toate jocurile",
+            "bundles": "Pachete",
+            "game_jams": "Concursuri",
+            "devlogs": "Jurnale dezvoltatori",
+            "community": "Comunitate"
+        },
+        "intro": "<s>itch.io </s> oferă posibilitatea de a descoperi și distribui jocuri în mod gratuit."
     }
 }
