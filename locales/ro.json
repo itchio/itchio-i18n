@@ -107,7 +107,7 @@
         "html5_games": "Jocuri HTML5",
         "page_title": "Descarcă cele mai noi jocuri indie",
         "meta_description": "itch.io oferă posibilitatea de a descoperi, descărca și distribui jocuri foarte simplu online. Fie că ești un dezvoltator ce dorește să publice un joc sau pur și simplu cauți să încerci ceva nou, itch.io te poate ajuta.",
-        "browse_content_type": "Navighează {{content_type}}",
+        "browse_content_type": "Găseşte {{content_type}}",
         "intro_cta": "<1> Încarcă-ți propriul joc </1> sau <2> Citește întrebări adresate frecvent </2>"
     },
     "misc": {
