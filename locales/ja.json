@@ -275,7 +275,7 @@
                 "send_gift": "ギフトを贈る",
                 "you_havent_sent_this_gift_to_anyone_yet": "こちらのギフトはまだ誰にも贈っていません",
                 "download": "ダウンロード",
-                "percent_off": "{{precent}}％オフ",
+                "percent_off": "{{percent}}％オフ",
                 "claimed": "要求済み"
             },
             "footer": {
