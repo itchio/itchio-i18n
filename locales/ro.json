@@ -56,7 +56,8 @@
             "recommendations": "Recomandări",
             "library": "Biblioteca mea",
             "feed": "Noutăți",
-            "account_menu_tooltip": "Meniu cont"
+            "account_menu_tooltip": "Meniu cont",
+            "explore": "Explorează"
         }
     },
     "index": {
