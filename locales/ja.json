@@ -120,15 +120,23 @@
         },
         "accessibility_features": {
             "subtitles": "字幕",
-            "textless": "テキストなし"
+            "textless": "テキストなし",
+            "highcontrast": "ハイコントラスト",
+            "tutorial": "インタラクティブチュートリアル",
+            "one_button": "ワンボタン",
+            "blind": "目が不自由でも楽しめる"
         },
         "inputs": {
             "keyboard": "キーボード",
             "mouse": "マウス",
-            "gamepad": "ゲームコントローラー（種類関係なく）",
+            "gamepad": "ゲームコントローラー（機種関係なく）",
             "touchscreen": "タッチ画面",
             "phone": "スマートフォン",
-            "voice": "音声操作"
+            "voice": "音声操作",
+            "joystick": "ジョイスティック",
+            "accelerometer": "加速度センサー",
+            "dance_pad": "ダンスパッド",
+            "midi_controller": "MIDIコントローラー"
         },
         "durations": {
             "seconds": "数秒",
@@ -142,11 +150,14 @@
             "follow_username": "{{username}}をフォロー",
             "follow": "フォロー",
             "following_username": "{{username}}をフォロー中",
-            "following": "フォロー中"
+            "following": "フォロー中",
+            "unfollow_username": "{{username}}のフォローを外す",
+            "unfollow": "フォローを外す"
         },
         "filter_when": {
             "last_7_days": "最後の７日間",
-            "last_30_days": "最後の３０日間"
+            "last_30_days": "最後の３０日間",
+            "last_day": "最後の日"
         },
         "filter_price": {
             "free": "無料",
@@ -165,7 +176,19 @@
         "multiplayer_features": {
             "local": "ローカルマルチプレイ",
             "server": "オンラインマルチプレイ",
-            "adhoc": "アドホックモードマルチプレイ"
+            "adhoc": "アドホックマルチプレイ"
+        },
+        "forms": {
+            "required": "必須",
+            "save": "保存",
+            "email_address": "メールアドレス"
+        },
+        "page_number": "{{page_number}}ページ目",
+        "collection_button": {
+            "add_to_collection": "コレクションに追加"
+        },
+        "lightboxes": {
+            "close": "閉じる"
         }
     },
     "developers": {
@@ -229,9 +252,13 @@
             "username_or_email": "ユーザー名またはメールアドレス",
             "password": "パスワード",
             "forgot_password": "パスワードを忘れた場合",
-            "log_in_button": "ログイン"
+            "log_in_button": "ログイン",
+            "create_account": "アカウントを作成",
+            "or_log_in_with_another_site": "または他のサイトを使ってログインする",
+            "or": "または"
         },
-        "create_a_new_account": "新しいアカウントを作成する"
+        "create_a_new_account": "新しいアカウントを作成する",
+        "log_in_to_your_itchio_account": "itch.ioアカウントにログイン"
     },
     "game": {
         "layout": {
