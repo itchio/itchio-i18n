@@ -13,7 +13,7 @@
         },
         "header": {
             "upload_game": "ゲームをアップロード",
-            "devlogs": "開発者ブログ",
+            "devlogs": "開発ブログ",
             "community": "コミュニティ",
             "search_placeholder": "ゲームまたはクリエイターを検索する",
             "search": "検索",
@@ -53,7 +53,7 @@
             "explore": "探してみよう",
             "create": "創ってみよう",
             "host_game_jam": "ゲームジャムを主催",
-            "account_menu_tooltip": "アカウントー設定"
+            "account_menu_tooltip": "アカウント設定"
         }
     },
     "index": {
@@ -66,8 +66,8 @@
         "dont_see_anything_you_like": "気になる作品は見つかりませんか？",
         "from_the_blog": "ブログ一覧",
         "random_game": "ランダムゲーム",
-        "get_the_app": "<s>itch.ioランチャーを手に入れよう！</s>　デスクトップ上のアプリからゲームのインストールや管理を行えます",
-        "from_the_itchio_blog": "itch.io運営ブログより",
+        "get_the_app": "<s>itch.ioを最大限に活用しよう！</s>　デスクトップアプリからゲームのインストールや管理ができる",
+        "from_the_itchio_blog": "itch.ioブログより",
         "view_all_blog_posts": "過去に投稿されたブログ記事をすべて見る",
         "search_games_creators": "ゲームとクリエイターを検索",
         "browse_all_tags": "すべてのタグを見る",
@@ -77,7 +77,7 @@
         "recommended_for_you": "あなたへのおすすめ",
         "view_all_games_on_sale": "セール中のゲームをすべて見る",
         "view_all_on_sale": "セール中のものをすべて見る",
-        "on_sale": "セール中の作品",
+        "on_sale": "セール中",
         "top_sellers": "売上トップ",
         "recommendations_based_on": "購入、ダウンロード、または評価した作品を基準にしました",
         "view_more": "もっと見る",
@@ -87,7 +87,7 @@
             "game_jams": "ゲームジャム",
             "bundles": "バンドル",
             "all_games": "すべてのゲーム",
-            "devlogs": "開発者ブログ",
+            "devlogs": "開発ブログ",
             "community": "コミュニティ"
         },
         "fresh_games": "新着ゲーム",
@@ -111,7 +111,7 @@
             "game": "ゲーム",
             "assets": "ゲーム素材",
             "game_mod": "MOD",
-            "soundtrack": "サウンドトラック",
+            "soundtrack": "サントラ",
             "other": "その他",
             "tool": "ツール",
             "comic": "漫画",
@@ -127,7 +127,8 @@
             "mouse": "マウス",
             "gamepad": "ゲームコントローラー（種類関係なく）",
             "touchscreen": "タッチ画面",
-            "phone": "スマートフォン"
+            "phone": "スマートフォン",
+            "voice": "音声操作"
         },
         "durations": {
             "seconds": "数秒",
@@ -156,6 +157,9 @@
             "next_page": "次のページ",
             "prev": "前へ",
             "next": "次へ"
+        },
+        "platforms": {
+            "web": "ブラウザゲーム"
         }
     },
     "developers": {
@@ -221,7 +225,33 @@
     },
     "game": {
         "layout": {
-            "rate_for_jam": "{{jam_title}}を評価する"
+            "rate_for_jam": "{{jam_title}}を評価する",
+            "view_all_by_name": "{{name}}の作品をすべて見る",
+            "add_to_collection_short": "コレクション",
+            "comments": "コメント",
+            "community": "コミュニティ",
+            "devlog": "開発ブログ",
+            "edit_your_rating": "評価を編集",
+            "submission_to_jam": "{{jam_title}}に参加",
+            "ownership": {
+                "send_gift": "ギフトを贈る",
+                "you_havent_sent_this_gift_to_anyone_yet": "こちらのギフトはまだ誰にも贈っていません"
+            },
+            "footer": {
+                "view_all_by_username": "{{user_name}}の作品をすべて見る"
+            }
+        },
+        "download_now_button": "今すぐダウンロード",
+        "preorder_button": "今すぐ予約",
+        "buy_now_button": "今すぐ購入",
+        "name_your_own_price": "好きな価格を決める",
+        "on_sale": "セール中！",
+        "percent_off": "<s>{{percent}}％</s>オフ",
+        "devlog_view_all_posts": "すべての投稿を表示",
+        "your_purchase_comes_with_a_steam_key": "こちらの商品にSteamキーがついております。",
+        "info_panel": {
+            "platforms": "プラットフォーム",
+            "inputs": "操作"
         }
     },
     "blog": {
@@ -234,7 +264,72 @@
             "thank_you_for_purchasing": "{{product_title}}をご購入いただき、ありがとうございます。",
             "thank_you_for_purchasing_author": "{{author}}による{{product_title}}をご購入いただき、誠にありがとうございます。",
             "access_latest_files_from_this_page": "いつでもこのページから、最終版のファイルがダウンロードできます。",
-            "linked_user_message": "こちらの商品はアカウント{{username}}にリンクされております。"
+            "linked_user_message": "こちらの商品はアカウント{{username}}にリンクされております。",
+            "save_this_purchase_to_your_account": "こちらの商品をアカウントに保管します",
+            "percent_off": "{{percent}}％オフ"
         }
+    },
+    "app": {
+        "open_source": "オープンソース",
+        "share_message": "インディーズゲーム用のデスクトップアプリ『itch』",
+        "tagline": "インディーズゲームをインストール、更新そして起動するためのランチャーアプリ",
+        "start_download": "ダウンロード開始",
+        "for_platforms": "<1>Windows</1>、 <2>macOS</2>、と <3>Linux</3>対応",
+        "learn_more_below": "もっと詳しく",
+        "updates": "更新",
+        "read_the_app_guide": "アプリガイドを読む",
+        "browse_header": "クリエイターが望んだ通りにゲームを閲覧する",
+        "updates_header": "常に更新されました",
+        "languages_header": "あなたの言語にも対応しております",
+        "download_now": "今すぐダウンロード",
+        "meta_description": "itchはインディーズゲームをダウンロードしたり遊んだりするにはもっとも最適な方法です。デスクトップからフリーゲームをダウンロードして、自分のライブラリを管理しましょう。現在はWindows、macOSとLinux対応です。"
+    },
+    "community": {
+        "post_list": {
+            "pinned_post": "ピン付けされた投稿"
+        },
+        "post_form": {
+            "add_profile_image": "プロフィール画像を追加",
+            "save": "保存",
+            "post": "投稿",
+            "tag_header": "タグ",
+            "remove_tag": "タグを外す"
+        },
+        "new_topic": {
+            "moderator_tools": "管理者ツール",
+            "title": "タイトル",
+            "topic_tag": "タグ",
+            "your_moderators_are": "itch.ioはこの掲示板を管理しておりません。この掲示板の管理者は："
+        }
+    },
+    "buy_form": {
+        "download_title": "『{{title}}』をダウンロード",
+        "buy_title": "『{{title}}』を購入",
+        "preorder_title": "『{{title}}』を予約",
+        "sold_out_notice": "こちらの商品は現在売れ切れました。また今度改めてご確認ください。",
+        "on_sale_notice": "こちらの商品は現在セール中です。",
+        "buy_as_bundle_plural": "こちらの商品は{{count}}個のアイテム入りの{{price}}のバンドルに入っております：",
+        "free_pay_what_you_want": "こちらの商品は無料ですが、開発者はあなたが相応しいと思った価格での支援を受け付けております。",
+        "no_thanks_just_take_me_to_the_downloads": "結構。とりあえずダウンロード画面に移動",
+        "includes_steam_key": "購入する商品にSteamキーがついております。",
+        "preorder_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で予約します。",
+        "download_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で購入してダウンロードします。",
+        "your_email_address": "メールアドレス",
+        "email_address_description": "こちらにお支払いの確認が送信されます",
+        "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます",
+        "i_already_paid_for_this": "すでに支払いが完了しました……"
+    },
+    "browse": {
+        "filter_group_platform": "プラットフォーム",
+        "filter_group_input_methods": "操作方法",
+        "filter_group_session_length": "平均プレイ時間",
+        "filter_group_multiplayer": "マルチプレイ機能",
+        "filter_group_type": "タイプ",
+        "type_downloadable": "ダウンロード",
+        "filter_group_release_status": "公開状況",
+        "filter_group_misc": "その他",
+        "filter_group_collection": "コレクション",
+        "filter_group_tools": "ツール＆エンジン",
+        "filter_everything_else": "その他"
     }
 }
