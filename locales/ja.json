@@ -173,7 +173,9 @@
         "learn_more": "もっと詳しく",
         "learn_more_about": "もっと詳しく：",
         "product_summary1": "<s>itch.io</s>ではオンライン上のインディーズゲームの配信を無料で簡単に行えます。ゲームファイルとスクリーンショットのすべてを一か所にまとめて、好きなようにゲーム独自のページをカスタマイズしましょう。",
-        "share_message": "itch.ioではオンライン上のインディーズゲームの配信が無料で簡単に行えます。"
+        "share_message": "itch.ioではオンライン上のインディーズゲームの配信が無料で簡単に行えます。",
+        "product_summary2": "ゲームには最低価格を設定することができます。これは、ユーザーから支払い額をさらに上乗せしてもらえることが期待できる仕様です。",
+        "host_a_sale_description": "お好みの期間、販売価格のディスカウントを行い、作品を宣伝し売り上げを伸ばしましょう。"
     },
     "user_register": {
         "register_form": {
@@ -252,7 +254,11 @@
         "info_panel": {
             "platforms": "プラットフォーム",
             "inputs": "操作"
-        }
+        },
+        "empty_page": "ここには何もないようですね……",
+        "more_information": "作品情報",
+        "install_instructions": "インストール方法",
+        "download_header": "ダウンロード"
     },
     "blog": {
         "all_posts": "すべての投稿",
@@ -282,7 +288,8 @@
         "updates_header": "常に更新されました",
         "languages_header": "あなたの言語にも対応しております",
         "download_now": "今すぐダウンロード",
-        "meta_description": "itchはインディーズゲームをダウンロードしたり遊んだりするにはもっとも最適な方法です。デスクトップからフリーゲームをダウンロードして、自分のライブラリを管理しましょう。現在はWindows、macOSとLinux対応です。"
+        "meta_description": "itchはインディーズゲームをダウンロードしたり遊んだりするにはもっとも最適な方法です。デスクトップからフリーゲームをダウンロードして、自分のライブラリを管理しましょう。現在はWindows、macOSとLinux対応です。",
+        "languages_description": "itch.ioコミュニティの協力のおかげで、itchランチャーには20以上の言語が用意されています！ <a>翻訳プロジェクトについてもっと詳しく知る</a>"
     },
     "community": {
         "post_list": {
