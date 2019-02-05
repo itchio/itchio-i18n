@@ -244,7 +244,51 @@
             "digest_signup": "Abonează-mă la știrile bilunare itch.io",
             "interest_gamer": "Sunt interesat să joc sau să descarc jocuri de pe itch.io",
             "interest_developer": "Sunt interesat să distribui lucruri pe itch.io",
-            "account_preferences_info": "Poți să-ți schimbi răspunsul la aceste întrebări mai târziu. Ele sunt folosite pentru a decide cum să-ți fie prezentat itch.io."
-        }
+            "account_preferences_info": "Poți să-ți schimbi răspunsul la aceste întrebări mai târziu. Ele sunt folosite pentru a decide cum să-ți fie prezentat itch.io.",
+            "about_you": "Despre tine",
+            "your_email_address": "Adresa ta de e-mail",
+            "password": "Parola",
+            "repeat_password": "Introdu din nou parola",
+            "url_preview": "Adresa paginii tale de profil va fi",
+            "username": "Nume de utilizator",
+            "other_registration_methods": "Alte posibilități de înregistrare"
+        },
+        "page_title": "Înregistrează cont"
+    },
+    "developers": {
+        "page_header": "Creează-ti propria pagină de pe care să distribui sau să vinzi jocurile tale",
+        "product_summary1": "<s>itch.io</s> îți oferă o modalitate simplă pentru a-ți distribui jocurile tale online fără a fi nevoit să plătești. Încarcă fișierele jocului și imagini cu acesta, totul într-un singur loc. Creează o pagină principală personalizată unde jocul tău să fie în centrul atenției. ",
+        "product_summary2": "Poți și să setezi un preț minim pentru jocul tău, oferind fanilor tăi posibilitatea de a plăti cât doresc pentru acesta.",
+        "my_dashboard": "Tabloul meu de bord",
+        "upload_a_new_game": "Încarcă un joc nou",
+        "account_faq_cta": "<1> Creează un cont acum </1> sau <2> Citește întrebările adresate frecvent </2>",
+        "upload_your_indie_game": "Încarcă-ți Propriul Joc",
+        "design_your_games_page": "Creează Propria Pagină Pentru Joc",
+        "track_your_game": "Administrează-ți Jocul",
+        "host_a_sale": "Creează Reduceri",
+        "host_a_sale_description": "Promovează-ți jocurile și obține mai multe vânzări oferindu-le la un preț redus pe orice perioadă de timp.",
+        "learn_more": "Află mai multe",
+        "browser_game_description": "Câștigă bani din jocurile tale pentru browser găzduindu-le pe <s>itch.io</s>. Jocul tău va fi încorporat în browser, iar jucătorii pot dona orice sumă de bani doresc dacă îți iubesc jocul. ",
+        "upload_your_game_description": "Încarcă-ti gratuit jocul pe <s>itch.io</s>. Noi îți găzduim jocul, imagini cu acesta și alte resurse. Toate acestea pot fi descărcate rapid, mereu.",
+        "learn_more_about": "Află mai multe despre:",
+        "share_message": "itch.io îți oferă posibilitatea de a-ți distribui propriul joc online cu ușurință, în mod gratuit.",
+        "create_account_or_login": "<1>Creează un cont</1> <em>sau</em> <2>Conectează-te</2>",
+        "upload_or_dashboard": "<1>Încarcă un joc</1> <em>sau</em> <2>Du-te la tabloul de bord</2>"
+    },
+    "search": {
+        "creators": "Autori:",
+        "published_count_0": "{{count}} proiect",
+        "published_count_1": "{{count}} proiecte",
+        "published_count_2": "{{count}} de proiecte",
+        "view_all_tags": "Vezi toate etichetele",
+        "browse_all_games": "Vezi toate jocurile",
+        "search_results_for_query": "Rezultatele căutării pentru '{{query}}'"
+    },
+    "app": {
+        "open_source": "Open source",
+        "share_message": "itch, aplicația pentru desktop pentru jocuri indie",
+        "tagline": "Instalează, actualizează și joacă jocuri indie",
+        "start_download": "Descarcă acum",
+        "for_platforms": "Pentru <1>Windows</1>, <2>macOS</2>, și <3>Linux</3>"
     }
 }
