@@ -240,7 +240,7 @@
                 "you_havent_sent_this_gift_to_anyone_yet": "こちらのギフトはまだ誰にも贈っていません"
             },
             "footer": {
-                "view_all_by_username": "{{user_name}}の作品をすべて見る"
+                "view_all_by_username": "{{username}}の作品をすべて見る"
             }
         },
         "download_now_button": "今すぐダウンロード",
