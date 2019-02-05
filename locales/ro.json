@@ -153,6 +153,33 @@
             "hour": "Aproximativ o oră",
             "hours": "Câteva ore",
             "days": "Mai multe zile"
+        },
+        "forms": {
+            "required": "Necesar",
+            "save": "Salvează",
+            "email_address": "Adresă de e-mail"
+        },
+        "page_number": "Pagina {{page_number}}",
+        "follow_button": {
+            "follow_username": "Urmărește {{username}}",
+            "follow": "Urmărește",
+            "following_username": "Urmărești pe {{username}}",
+            "following": "Urmărești",
+            "unfollow_username": "Nu mai urmări {{username}}",
+            "unfollow": "Nu mai urmări"
+        },
+        "filter_when": {
+            "last_day": "În ultimele 24 de ore",
+            "last_7_days": "În ultimele 7 zile",
+            "last_30_days": "În ultimele 30 de zile"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Gratis",
+            "on_sale": "La reducere",
+            "paid": "Plătit"
         }
     }
 }
