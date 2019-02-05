@@ -169,7 +169,7 @@
         "upload_a_new_game": "新作ゲームをアップロード",
         "upload_your_indie_game": "インディーズゲームをアップロードしよう",
         "design_your_games_page": "独自のゲームページをデザインしよう",
-        "host_a_sale": "セールを主催",
+        "host_a_sale": "セールを開催",
         "learn_more": "もっと詳しく",
         "learn_more_about": "もっと詳しく：",
         "product_summary1": "<s>itch.io</s>ではオンライン上のインディーズゲームの配信を無料で簡単に行えます。ゲームファイルとスクリーンショットのすべてを一か所にまとめて、好きなようにゲーム独自のページをカスタマイズしましょう。",
@@ -274,14 +274,38 @@
     "game_download": {
         "purchase": {
             "thank_you_for_purchasing": "{{product_title}}をご購入いただき、ありがとうございます。",
-            "thank_you_for_purchasing_author": "{{author}}による{{product_title}}をご購入いただき、誠にありがとうございます。",
+            "thank_you_for_purchasing_author": "{{author}}の作品『{{product_title}}』をご購入いただき、ありがとうございます。",
             "access_latest_files_from_this_page": "いつでもこのページから、最終版のファイルがダウンロードできます。",
             "linked_user_message": "こちらの商品はアカウント{{username}}にリンクされております。",
             "save_this_purchase_to_your_account": "こちらの商品をアカウントに保管します",
-            "percent_off": "{{percent}}％オフ"
+            "percent_off": "{{percent}}％オフ",
+            "link_purchase_links": "ご購入の商品をアカウントにリンクするにはまず<1>アカウントを作成</1>または<2>itch.ioにログイン</2>しましょう。",
+            "thank_you_for_donating": "『{{product_title}}』へのご支援をありがとうございます。"
         },
         "app_banner": {
-            "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう"
+            "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう",
+            "get_the_app": "アプリを手に入れよう"
+        },
+        "play_in_your_browser": "ブラウザ上でプレイ",
+        "start_project_button": "開始",
+        "header": {
+            "invoice": "請求書",
+            "preorder_title": "{{project_title}}を予約",
+            "download_title": "{{project_title}}をダウンロード",
+            "view_all_my_purchases": "すべての購入を表示",
+            "discussion_board": "ディスカッションボード"
+        },
+        "link_my_account": "アカウントをリンクする",
+        "link_account_header": "このダウンロードページをitch.ioアカウントにリンクさせる",
+        "link_account_description": "こちらのダウンロードページはitch.ioアカウントにリンクできるため、失くす心配はありません。すでにお持ちの商品と一緒に表示されます。",
+        "already_own": "こちらの商品はすでにお持ちのようです",
+        "access_existing_copy": "同じものを新しく入手することはできませんが、すでにお持ちのものにはアクセスできます。",
+        "claim_external_key": "{{key_type}}キーを入手",
+        "claim_external_key_instructions": "入手するにはボタンをクリックしてください。",
+        "access_it": "アクセスする",
+        "email_capture": {
+            "dont_lose_your_purchase": "ご購入の商品を失くさないようにしてください！",
+            "provide_email_instructions": "このページを忘れないように、メールアドレスを入力して、ご購入の商品にリンクさせましょう。"
         }
     },
     "app": {
@@ -334,7 +358,14 @@
         "email_address_description": "こちらにお支払いの確認が送信されます",
         "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます",
         "i_already_paid_for_this": "すでに支払いが完了しました……",
-        "support_message": "こちらの作品の開発費を支援しましょう"
+        "support_message": "こちらの作品の開発費を支援しましょう",
+        "this_purchase_is_a_gift": "ご購入の商品はギフト扱いになります",
+        "support_the_creator_by_paying_above_the_minimum_price": "最低価格を上乗せしてクリエイターを支援する",
+        "pay_with": "支払い方法",
+        "credit_card": "クレジットカード",
+        "go_back": "戻る",
+        "continue_payment": "支払いを続ける",
+        "generic_error": "ご購入の際にエラーが発生しました：{{error}}"
     },
     "browse": {
         "filter_group_platform": "プラットフォーム",
@@ -351,5 +382,9 @@
     },
     "stripe_checkout": {
         "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます"
+    },
+    "collection": {
+        "last_updated_date": "最終更新{{date}}",
+        "edit_collection": "コレクションを編集"
     }
 }
