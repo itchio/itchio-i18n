@@ -43,9 +43,9 @@
             "feed": "Noutăți"
         },
         "user_menu": {
-            "create": "Creează ",
+            "create": "Creează",
             "account": "Cont",
-            "log_out": "Deconectare ",
+            "log_out": "Deconectare",
             "settings": "Setări",
             "view_profile": "Profilul tău",
             "host_game_jam": "Organizează concurs",
@@ -71,7 +71,7 @@
         "random_game": "Joc ales aleator",
         "get_the_app": "<s> Profită la maxim de itch.io! </s> Instalează și administrează-ti jocurile cu aplicația noastră pentru desktop",
         "from_the_itchio_blog": "De pe blogul itch.io",
-        "view_all_blog_posts": "Vezi toate noutățile ",
+        "view_all_blog_posts": "Vezi toate noutățile",
         "search_games_creators": "Caută jocuri și dezvoltatori",
         "browse_all_tags": "Vezi toate etichetele",
         "on_sale": "La ofertă",
@@ -244,7 +244,7 @@
             "digest_signup": "Abonează-mă la știrile bilunare itch.io",
             "interest_gamer": "Sunt interesat să joc sau să descarc jocuri de pe itch.io",
             "interest_developer": "Sunt interesat să distribui lucruri pe itch.io",
-            "account_preferences_info": "Poți să-ți schimbi răspunsul la aceste întrebări mai târziu. Ele sunt folosite pentru a decide cum ai vrea ca itch.io să-ți fie prezentat, în funcție de scopurile tale."
+            "account_preferences_info": "Poți să-ți schimbi răspunsul la aceste întrebări mai târziu. Ele sunt folosite pentru a decide cum să-ți fie prezentat itch.io."
         }
     }
 }
