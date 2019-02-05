@@ -175,7 +175,8 @@
         "product_summary1": "<s>itch.io</s>ではオンライン上のインディーズゲームの配信を無料で簡単に行えます。ゲームファイルとスクリーンショットのすべてを一か所にまとめて、好きなようにゲーム独自のページをカスタマイズしましょう。",
         "share_message": "itch.ioではオンライン上のインディーズゲームの配信が無料で簡単に行えます。",
         "product_summary2": "ゲームには最低価格を設定することができます。これは、ユーザーから支払い額をさらに上乗せしてもらえることが期待できる仕様です。",
-        "host_a_sale_description": "お好みの期間で割引キャンペーンを行い、作品を宣伝し売り上げを伸ばしましょう。"
+        "host_a_sale_description": "お好みの期間で割引キャンペーンを行い、作品を宣伝し売り上げを伸ばしましょう。",
+        "browser_game_description": "<s>itch.io</s>上に置くことであなたのブラウザゲームを収益化しましょう。ゲームはブラウザに埋め込まれ、あなたのゲームを愛好しているユーザーは好きな額を寄付することができます。"
     },
     "user_register": {
         "register_form": {
@@ -280,7 +281,8 @@
             "save_this_purchase_to_your_account": "こちらの商品をアカウントに保管します",
             "percent_off": "{{percent}}％オフ",
             "link_purchase_links": "ご購入の商品をアカウントにリンクするにはまず<1>アカウントを作成</1>または<2>itch.ioにログイン</2>しましょう。",
-            "thank_you_for_donating": "『{{product_title}}』へのご支援をありがとうございます。"
+            "thank_you_for_donating": "『{{product_title}}』へのご支援をありがとうございます。",
+            "thank_you_for_donating_author": "  {{author}}の作品『{{product_title}}』にご支援いただき、ありがとうございます。"
         },
         "app_banner": {
             "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう",
@@ -386,5 +388,8 @@
     "collection": {
         "last_updated_date": "最終更新{{date}}",
         "edit_collection": "コレクションを編集"
+    },
+    "buy_form_popup": {
+        "powered_by_itchio": "提供：{{itchio}}"
     }
 }
