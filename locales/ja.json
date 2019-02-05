@@ -103,7 +103,7 @@
         "intro": "<s>itch.io</s>ではオンライン上のインディーズゲームの発見と配信が無料で簡単に行えます。",
         "intro_cta": "<1>ゲームを登録する</1> または <2>FAQを読む</2>",
         "html5_games": "HTML5ゲーム",
-        "page_title": "最新のインディーズゲームをダウンロード",
+        "page_title": "最新のインディーズゲームをダウンロードしよう",
         "meta_description": "itch.ioではオンライン上のインディーズゲームの発見、ダウンロードまたは配信が簡単に行えます。あなたはゲームのアップロード先を探している開発者でも、何か新しいゲームを求めるプレイヤーでも、itch.ioはその要求に応えられます。"
     },
     "misc": {
@@ -175,7 +175,7 @@
         "product_summary1": "<s>itch.io</s>ではオンライン上のインディーズゲームの配信を無料で簡単に行えます。ゲームファイルとスクリーンショットのすべてを一か所にまとめて、好きなようにゲーム独自のページをカスタマイズしましょう。",
         "share_message": "itch.ioではオンライン上のインディーズゲームの配信が無料で簡単に行えます。",
         "product_summary2": "ゲームには最低価格を設定することができます。これは、ユーザーから支払い額をさらに上乗せしてもらえることが期待できる仕様です。",
-        "host_a_sale_description": "お好みの期間、販売価格のディスカウントを行い、作品を宣伝し売り上げを伸ばしましょう。"
+        "host_a_sale_description": "お好みの期間で割引キャンペーンを行い、作品を宣伝し売り上げを伸ばしましょう。"
     },
     "user_register": {
         "register_form": {
@@ -246,7 +246,7 @@
         "download_now_button": "今すぐダウンロード",
         "preorder_button": "今すぐ予約",
         "buy_now_button": "今すぐ購入",
-        "name_your_own_price": "好きな価格を決める",
+        "name_your_own_price": "好きな金額を決める",
         "on_sale": "セール中！",
         "percent_off": "<s>{{percent}}％</s>オフ",
         "devlog_view_all_posts": "すべての投稿を表示",
@@ -258,7 +258,13 @@
         "empty_page": "ここには何もないようですね……",
         "more_information": "作品情報",
         "install_instructions": "インストール方法",
-        "download_header": "ダウンロード"
+        "download_header": "ダウンロード",
+        "purchase_header": "購入",
+        "download_access": "こちらのファイルにアクセスできるように『今すぐダウンロード』をクリックしてください：",
+        "get_access": "こちらのファイルにアクセスできるようになります：",
+        "get_access_preorder": "公開されたらこちらのファイルにアクセスできるようになります：",
+        "download_demo_header": "体験版をダウンロード",
+        "will_be_available_in": "公開までのカウントダウン：{{time_remaining}}"
     },
     "blog": {
         "all_posts": "すべての投稿",
@@ -273,6 +279,9 @@
             "linked_user_message": "こちらの商品はアカウント{{username}}にリンクされております。",
             "save_this_purchase_to_your_account": "こちらの商品をアカウントに保管します",
             "percent_off": "{{percent}}％オフ"
+        },
+        "app_banner": {
+            "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう"
         }
     },
     "app": {
@@ -316,7 +325,7 @@
         "sold_out_notice": "こちらの商品は現在売れ切れました。また今度改めてご確認ください。",
         "on_sale_notice": "こちらの商品は現在セール中です。",
         "buy_as_bundle_plural": "こちらの商品は{{count}}個のアイテム入りの{{price}}のバンドルに入っております：",
-        "free_pay_what_you_want": "こちらの商品は無料ですが、開発者はあなたが相応しいと思った価格での支援を受け付けております。",
+        "free_pay_what_you_want": "こちらの商品は無料ですが、開発者はあなたが相応しいと思った金額での支援を受け付けております。",
         "no_thanks_just_take_me_to_the_downloads": "結構。とりあえずダウンロード画面に移動",
         "includes_steam_key": "購入する商品にSteamキーがついております。",
         "preorder_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で予約します。",
@@ -324,7 +333,8 @@
         "your_email_address": "メールアドレス",
         "email_address_description": "こちらにお支払いの確認が送信されます",
         "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます",
-        "i_already_paid_for_this": "すでに支払いが完了しました……"
+        "i_already_paid_for_this": "すでに支払いが完了しました……",
+        "support_message": "こちらの作品の開発費を支援しましょう"
     },
     "browse": {
         "filter_group_platform": "プラットフォーム",
@@ -338,5 +348,8 @@
         "filter_group_collection": "コレクション",
         "filter_group_tools": "ツール＆エンジン",
         "filter_everything_else": "その他"
+    },
+    "stripe_checkout": {
+        "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます"
     }
 }
