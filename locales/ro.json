@@ -180,6 +180,71 @@
             "free": "Gratis",
             "on_sale": "La reducere",
             "paid": "Pe bani"
+        },
+        "pager": {
+            "next_page": "Pagina următoare",
+            "prev": "Înapoi",
+            "next": "Înainte",
+            "current_page_of_total": "Pagina {{current_page}} din {{total_pages}}"
+        },
+        "collection_button": {
+            "add_to_collection": "Adaugă la colecție"
+        },
+        "lightboxes": {
+            "close": "Închide"
+        }
+    },
+    "blog": {
+        "all_posts": "Toate postările",
+        "updates": "Actualizări",
+        "digest": "Rezumate",
+        "empty_message": "Nu s-au găsit postări aici",
+        "tag_filter": "Se selectează după eticheta {{tag}}. <a> Șterge filtrul </a>"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Conectează-te la contul tău itch.io",
+        "login_form": {
+            "username_or_email": "Numele utilizatorului sau adresa de e-mail",
+            "password": "Parola",
+            "forgot_password": "Am uitat parola",
+            "create_account": "Creează cont",
+            "or_log_in_with_another_site": "Sau conectează-te prin alt site",
+            "or": "sau",
+            "log_in_button": "Conectează-te"
+        },
+        "looking_for_something_you_bought": "Cauți ceva ce ai cumpărat în trecut?",
+        "create_a_new_account": "Creează un cont nou",
+        "intent": {
+            "community": "Trebuie să te conectezi pentru a putea participa în comunitățile de pe itch.io. Poți crea un cont gratuit, și durează doar câteva momente.",
+            "comment": "Ai nevoie de un cont itch.io pentru a putea comenta.",
+            "rate_game": "Ai nevoie de un cont itch.io pentru a evalua jocuri.",
+            "follow": "Ai nevoie de un cont itch.io pentru a putea urmări pe cineva.",
+            "follow_username": "Ai nevoie de un cont itch.io pentru a putea urmări pagina <1>{{username}}</1>",
+            "collection": "Ai nevoie de un cont itch.io pentru a putea adăuga ceva la o colecție.",
+            "jam_submit": "Ai nevoie de un cont itch.io pentru a putea participa la concursuri.",
+            "claim_object": "Te rog conectează-te sau înregistrează-te pentru a putea revendica {{noun}}",
+            "recent_purchases": "Conectează-te pentru a putea revendica achizițiile pe care le-ai făcut."
+        },
+        "no_account_prompt": "Nu ai cont? <1> Înregistrează-te </1>",
+        "page_title": "Conectează-te",
+        "you_are_logged_out": "Ai fost deconectat",
+        "welcome_back": "Bine ai revenit!",
+        "welcome_to_itchio": "Bine ai venit pe itch.io!",
+        "errors": {
+            "accept_terms": "Trebuie să accepți termenii și condițiile"
+        }
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Creează un cont pe itch.io",
+        "register_form": {
+            "create_account": "Creează cont",
+            "already_have_account": "sau ai deja un cont?",
+            "log_in": "Conectează-te",
+            "accept_tos": "Accept <1> Termenii și Condițiile </1>",
+            "digest_signup": "Abonează-mă la știrile bilunare itch.io",
+            "interest_gamer": "Sunt interesat să joc sau să descarc jocuri de pe itch.io",
+            "interest_developer": "Sunt interesat să distribui lucruri pe itch.io",
+            "account_preferences_info": "Poți să-ți schimbi răspunsul la aceste întrebări mai târziu. Ele sunt folosite pentru a decide cum ai vrea ca itch.io să-ți fie prezentat, în funcție de scopurile tale."
         }
     }
 }
