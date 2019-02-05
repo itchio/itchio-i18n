@@ -3,7 +3,7 @@
     "layout": {
         "footer": {
             "about": "Despre noi",
-            "faq": "Întrebări Frecvente",
+            "faq": "Întrebări Adresate Frecvent",
             "blog": "Blog",
             "contact_us": "Contact",
             "terms": "Termeni",
@@ -57,7 +57,7 @@
             "library": "Biblioteca mea",
             "feed": "Noutăți",
             "account_menu_tooltip": "Meniu cont",
-            "explore": "Explorează"
+            "explore": "Descoperă"
         }
     },
     "index": {
