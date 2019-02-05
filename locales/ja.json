@@ -182,7 +182,7 @@
         "share_message": "itch.ioではオンライン上のインディーズゲームの配信が無料で簡単に行えます。",
         "product_summary2": "ゲームには最低価格を設定することができます。これは、ユーザーから支払い額をさらに上乗せしてもらえることが期待できる仕様です。",
         "host_a_sale_description": "お好みの期間で割引キャンペーンを行い、作品を宣伝し売り上げを伸ばしましょう。",
-        "browser_game_description": "ブラウザゲームを<s>itch.io</s>で公開して収益化しましょう。ゲームはitch.ioページからすぐにプレイできて、作品を愛好しているユーザーは好き金額で支援できます。",
+        "browser_game_description": "ブラウザゲームを<s>itch.io</s>で公開して収益化しましょう。ゲームはitch.ioページからすぐにプレイできて、作品を愛好しているユーザーは好きな金額で支援できます。",
         "upload_your_game_description": "作品を無料で<s>itch.io</s>で配信しましょう。 スクリーンショットと他のダウンロードデータはitch.ioサーバーにて保管されます。作品へのダウンロードはは常時、高速で行えます。"
     },
     "user_register": {
@@ -272,7 +272,8 @@
         "get_access": "こちらのファイルにアクセスできるようになります：",
         "get_access_preorder": "公開されたらこちらのファイルにアクセスできるようになります：",
         "download_demo_header": "体験版をダウンロード",
-        "will_be_available_in": "公開までのカウントダウン：{{time_remaining}}"
+        "will_be_available_in": "公開までのカウントダウン：{{time_remaining}}",
+        "download_or_claim_button": "ダウンロードまたは要求"
     },
     "blog": {
         "all_posts": "すべての投稿",
@@ -293,7 +294,7 @@
             "youve_been_gifted": "『{{product_title}}』が贈られました。",
             "link_purchase_warning": "ご購入の商品をなくさないようにしてください！",
             "payment_summary_with_email": "{{email_address}}のメールアドレスで {{payment_date}}に {{payment_price}} を支払いました。",
-            "payment_summary": "{{payment_date}}に {{payment_price}}支払いました。"
+            "payment_summary": "{{payment_date}}に {{payment_price}}を支払いました。"
         },
         "app_banner": {
             "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう",
@@ -312,9 +313,9 @@
         "link_account_header": "このダウンロードページをitch.ioアカウントにリンクさせる",
         "link_account_description": "こちらのダウンロードページはitch.ioアカウントにリンクできるため、失くす心配はありません。すでにお持ちの商品と一緒に表示されます。",
         "already_own": "こちらの商品はすでにお持ちのようです",
-        "access_existing_copy": "同じものを新しく入手することはできませんが、すでにお持ちのものにはアクセスできます。",
-        "claim_external_key": "{{key_type}}キーを入手",
-        "claim_external_key_instructions": "入手するにはボタンをクリックしてください。",
+        "access_existing_copy": "同じものを新しく要求することはできませんが、すでにお持ちのものにはアクセスできます。",
+        "claim_external_key": "{{key_type}}キーを要求",
+        "claim_external_key_instructions": "要求するにはボタンをクリックしてください。",
         "access_it": "アクセスする",
         "email_capture": {
             "dont_lose_your_purchase": "ご購入の商品をなくさないようにしてください！",
