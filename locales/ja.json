@@ -292,7 +292,8 @@
             "thank_you_for_donating_author": "  {{author}}の作品『{{product_title}}』にご支援いただき、ありがとうございます。",
             "youve_been_gifted": "『{{product_title}}』が贈られました。",
             "link_purchase_warning": "ご購入の商品をなくさないようにしてください！",
-            "payment_summary_with_email": "{{email_address}}のメールアドレスで {{payment_date}}に {{payment_price}} を支払いました。"
+            "payment_summary_with_email": "{{email_address}}のメールアドレスで {{payment_date}}に {{payment_price}} を支払いました。",
+            "payment_summary": "{{payment_date}}に {{payment_price}}支払いました。"
         },
         "app_banner": {
             "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう",
