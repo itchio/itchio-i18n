@@ -179,7 +179,7 @@
         "filter_price": {
             "free": "Gratis",
             "on_sale": "La reducere",
-            "paid": "Plătit"
+            "paid": "Pe bani"
         }
     }
 }
