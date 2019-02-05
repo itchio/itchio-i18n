@@ -320,6 +320,11 @@
         "email_capture": {
             "dont_lose_your_purchase": "ご購入の商品をなくさないようにしてください！",
             "provide_email_instructions": "このページを忘れないように、メールアドレスを入力して、ご購入の商品にリンクさせましょう。"
+        },
+        "alternate_download": {
+            "enable_alternate_download_mode": "代替ダウンロードモードを有効化する",
+            "title": "代替ダウンロードモード",
+            "region_message": "国や地域によってはitch.ioのCDNがブロックされている場合があります。 ダウンロードが開始されない場合は、代用ダウンロードモードを有効にしてみてください。有効化できましたら、その後でもう一度ダウンロードをお試しください。"
         }
     },
     "app": {
