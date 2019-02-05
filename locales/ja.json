@@ -104,7 +104,7 @@
         "intro_cta": "<1>ゲームを登録する</1> または <2>FAQを読む</2>",
         "html5_games": "HTML5ゲーム",
         "page_title": "最新のインディーズゲームをダウンロードしよう",
-        "meta_description": "itch.ioではオンライン上のインディーズゲームの発見、ダウンロードまたは配信が簡単に行えます。あなたはゲームのアップロード先を探している開発者でも、何か新しいゲームを求めるプレイヤーでも、itch.ioはその要求に応えられます。"
+        "meta_description": "itch.ioではオンライン上のインディーズゲームを見つけたり、ダウンロードや配信したりすることが簡単に行えます。作品のアップロード先を探している開発者の方も、何か新しいゲームを求めているプレイヤーの方にも、itch.ioがお応えいたします。"
     },
     "misc": {
         "classifications": {
@@ -156,7 +156,8 @@
         "pager": {
             "next_page": "次のページ",
             "prev": "前へ",
-            "next": "次へ"
+            "next": "次へ",
+            "current_page_of_total": "{{total_pages}}ページ中の {{current_page}}ページ"
         },
         "platforms": {
             "web": "ブラウザゲーム"
@@ -177,7 +178,7 @@
         "host_a_sale": "セールを開催",
         "learn_more": "もっと詳しく",
         "learn_more_about": "もっと詳しく：",
-        "product_summary1": "<s>itch.io</s>ではオンライン上のインディーズゲームの配信を無料で簡単に行えます。ゲームファイルとスクリーンショットのすべてを一か所にまとめて、好きなようにゲーム独自のページをカスタマイズしましょう。",
+        "product_summary1": "<s>itch.io</s>ではオンライン上でのインディーズゲームの配信を無料で簡単に行えます。ゲームファイルとスクリーンショットを一か所にまとめて、あなたの作品専用の配信ページを自由に作成しましょう。",
         "share_message": "itch.ioではオンライン上のインディーズゲームの配信が無料で簡単に行えます。",
         "product_summary2": "ゲームには最低価格を設定することができます。これは、ユーザーから支払い額をさらに上乗せしてもらえることが期待できる仕様です。",
         "host_a_sale_description": "お好みの期間で割引キャンペーンを行い、作品を宣伝し売り上げを伸ばしましょう。",
@@ -290,7 +291,8 @@
             "thank_you_for_donating": "『{{product_title}}』へのご支援をありがとうございます。",
             "thank_you_for_donating_author": "  {{author}}の作品『{{product_title}}』にご支援いただき、ありがとうございます。",
             "youve_been_gifted": "『{{product_title}}』が贈られました。",
-            "link_purchase_warning": "ご購入の商品をなくさないようにしてください！"
+            "link_purchase_warning": "ご購入の商品をなくさないようにしてください！",
+            "payment_summary_with_email": " {{email_address}}のアドレスで {{payment_date}}に {{payment_price}} を支払いました。"
         },
         "app_banner": {
             "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう",
