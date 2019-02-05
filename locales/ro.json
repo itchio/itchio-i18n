@@ -254,7 +254,8 @@
             "repeat_password": "Introdu din nou parola",
             "url_preview": "Adresa paginii tale de profil va fi",
             "username": "Nume de utilizator",
-            "other_registration_methods": "Alte posibilități de înregistrare"
+            "other_registration_methods": "Alte posibilități de înregistrare",
+            "link_product": "Achiziția ta <1> {{product}} </1> va fi adăugată la contul tău în mod automat după ce te înregistrezi."
         },
         "page_title": "Înregistrează cont"
     },
