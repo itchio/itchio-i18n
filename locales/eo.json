@@ -1,1 +1,52 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Pri",
+            "blog": "Blogo"
+        },
+        "header": {
+            "community": "Forumo",
+            "search": "Serĉi",
+            "log_in": "Ensaluti",
+            "register": "Registriĝi"
+        }
+    },
+    "index": {
+        "nav": {
+            "community": "Forumo"
+        }
+    },
+    "misc": {
+        "pager": {
+            "next": "Sekva"
+        }
+    },
+    "user_login": {
+        "login_form": {
+            "username_or_email": "Salutnomo aŭ retpoŝtadreso"
+        }
+    },
+    "user_register": {
+        "register_form": {
+            "username": "Salutnomo"
+        }
+    },
+    "developers": {
+        "learn_more": "Lerni Pli"
+    },
+    "app": {
+        "community_header": "Aliĝu al la komunumo"
+    },
+    "game": {
+        "buy_now_button": "Aĉeti nun"
+    },
+    "browse": {
+        "related_collections": "Rilataj kolektoj"
+    },
+    "user_settings": {
+        "profile": {
+            "username": "Salutnomo"
+        }
+    }
+}
