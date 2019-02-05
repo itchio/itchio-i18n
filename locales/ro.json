@@ -111,7 +111,36 @@
         "classifications": {
             "game": "Jocuri",
             "assets": "Resurse pentru jocuri",
-            "game_mod": "Mod-uri pentru jocuri"
+            "game_mod": "Mod-uri pentru jocuri",
+            "physical_game": "Jocuri în format fizic",
+            "soundtrack": "Coloane sonore",
+            "other": "Altele",
+            "tool": "Instrumente",
+            "comic": "Benzi desenate",
+            "book": "Cărți"
+        },
+        "accessibility_features": {
+            "colorblind": "Ajustări pentru daltoniști",
+            "subtitles": "Subtitrări",
+            "configurable_controls": "Setări de control configurabile",
+            "highcontrast": "Contrast ridicat",
+            "tutorial": "Tutorial interactiv",
+            "one_button": "Buton unic",
+            "blind": "Accesibil nevăzătorilor",
+            "textless": "Fără text"
+        },
+        "multiplayer_features": {
+            "local": "Multiplayer local",
+            "server": "Multiplayer online bazat pe servere",
+            "adhoc": "Multiplayer în rețea ad-hoc"
+        },
+        "inputs": {
+            "keyboard": "Tastatură",
+            "mouse": "Mouse",
+            "gamepad": "Gamepad (oricare)",
+            "joystick": "Joystick",
+            "touchscreen": "Ecran tactil",
+            "voice": "Control folosind vocea"
         }
     }
 }
