@@ -140,7 +140,16 @@
             "gamepad": "Gamepad (oricare)",
             "joystick": "Joystick",
             "touchscreen": "Ecran tactil",
-            "voice": "Comandă vocală"
+            "voice": "Comandă vocală",
+            "accelerometer": "Accelerometru",
+            "phone": "Smartphone",
+            "dance_pad": "Dance pad",
+            "midi_controller": "Controler MIDI"
+        },
+        "durations": {
+            "seconds": "Câteva secunde",
+            "minutes": "Câteva minute",
+            "half_hour": "Aproximativ jumate de oră"
         }
     }
 }
