@@ -245,11 +245,22 @@
             "submission_to_jam": "{{jam_title}}に参加",
             "ownership": {
                 "send_gift": "ギフトを贈る",
-                "you_havent_sent_this_gift_to_anyone_yet": "こちらのギフトはまだ誰にも贈っていません"
+                "you_havent_sent_this_gift_to_anyone_yet": "こちらのギフトはまだ誰にも贈っていません",
+                "download": "ダウンロード",
+                "percent_off": "{{precent}}％オフ",
+                "claimed": "要求済み"
             },
             "footer": {
                 "view_all_by_username": "{{username}}の作品をすべて見る"
-            }
+            },
+            "creator": "クリエイター",
+            "follow": "フォロー",
+            "following": "フォロー中",
+            "follow_username": "{{username}}をフォロー",
+            "following_username": "{{username}}をフォロー中",
+            "add_to_collection": "コレクションに追加",
+            "edit_rating": "評価を編集",
+            "rate": "評価"
         },
         "download_now_button": "今すぐダウンロード",
         "preorder_button": "今すぐ予約",
@@ -273,7 +284,22 @@
         "get_access_preorder": "公開されたらこちらのファイルにアクセスできるようになります：",
         "download_demo_header": "体験版をダウンロード",
         "will_be_available_in": "公開までのカウントダウン：{{time_remaining}}",
-        "download_or_claim_button": "ダウンロードまたは要求"
+        "download_or_claim_button": "ダウンロードまたは要求",
+        "empty_page_no_uploads": "このクリエイターはまだ何もアップロードしていません……",
+        "community_header": "コミュニティ",
+        "join_the_community": "コミュニティに参加",
+        "community_view_all_posts": "投稿をすべて見る",
+        "community_post_author": "{{username}}の投稿",
+        "community_posts_count": "{{count}}件の投稿",
+        "upload_list": {
+            "preorder": "予約",
+            "download": "ダウンロード",
+            "play_in_browser": "ブラウザでプレイ",
+            "if_you_pay_price_or_more": "{{price}}以上のをお支払いの場合",
+            "version_name": "バージョン{{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "こちらのファイルは、クリエイターがアプロードしたら表示されます",
+            "empty_message": "ダウンロードできるものはまだありません。"
+        }
     },
     "blog": {
         "all_posts": "すべての投稿",
@@ -311,7 +337,7 @@
         },
         "link_my_account": "アカウントをリンクする",
         "link_account_header": "このダウンロードページをitch.ioアカウントにリンクさせる",
-        "link_account_description": "こちらのダウンロードページはitch.ioアカウントにリンクできるため、失くす心配はありません。すでにお持ちの商品と一緒に表示されます。",
+        "link_account_description": "こちらのダウンロードページはitch.ioアカウントにリンクできるため、なくす心配はありません。すでにお持ちの商品と一緒に表示されます。",
         "already_own": "こちらの商品はすでにお持ちのようです",
         "access_existing_copy": "同じものを新しく要求することはできませんが、すでにお持ちのものにはアクセスできます。",
         "claim_external_key": "{{key_type}}キーを要求",
@@ -324,7 +350,7 @@
         "alternate_download": {
             "enable_alternate_download_mode": "代替ダウンロードモードを有効化する",
             "title": "代替ダウンロードモード",
-            "region_message": "国や地域によってはitch.ioのCDNがブロックされている場合があります。 ダウンロードが開始されない場合は、代用ダウンロードモードを有効にしてみてください。有効化できましたら、その後でもう一度ダウンロードをお試しください。"
+            "region_message": "国や地域によってはitch.ioのCDNがブロックされている場合があります。 ダウンロードが開始されない場合は、代替ダウンロードモードを有効にして、もう一度ダウンロードしてみてください。"
         }
     },
     "app": {
@@ -336,12 +362,13 @@
         "learn_more_below": "もっと詳しく",
         "updates": "更新",
         "read_the_app_guide": "アプリガイドを読む",
-        "browse_header": "クリエイターが望んだ通りにゲームを閲覧する",
+        "browse_header": "クリエイターが望んだ通りにゲームを閲覧",
         "updates_header": "常に更新されました",
         "languages_header": "あなたの言語にも対応しております",
         "download_now": "今すぐダウンロード",
         "meta_description": "itchはインディーズゲームをダウンロードしたり遊んだりするにはもっとも最適な方法です。デスクトップからフリーゲームをダウンロードして、自分のライブラリを管理しましょう。現在はWindows、macOSとLinux対応です。",
-        "languages_description": "itch.ioコミュニティの協力のおかげで、itchランチャーには20以上の言語が用意されています！ <a>翻訳プロジェクトについてもっと詳しく知る</a>"
+        "languages_description": "itch.ioコミュニティの協力のおかげで、itchランチャーには20以上の言語が用意されています！ <a>翻訳プロジェクトについてもっと詳しく知る</a>",
+        "browse_description": "itch.ioでは、作品ページの見た目はクリエイター自身が決めます。ランチャー内ブラウザでゲームをダウンロードしたりインストールしたりすると同時に<a>様々なクリエイターたちのユニークなページ</a>を閲覧しましょう。"
     },
     "community": {
         "post_list": {
