@@ -24,12 +24,15 @@
     },
     "user_login": {
         "login_form": {
-            "username_or_email": "Salutnomo aŭ retpoŝtadreso"
+            "username_or_email": "Salutnomo aŭ retpoŝtadreso",
+            "password": "Pasvorto"
         }
     },
     "user_register": {
         "register_form": {
-            "username": "Salutnomo"
+            "username": "Salutnomo",
+            "password": "Pasvorto",
+            "repeat_password": "Pasvorto-ripeto"
         }
     },
     "developers": {
@@ -47,6 +50,12 @@
     "user_settings": {
         "profile": {
             "username": "Salutnomo"
+        },
+        "navigation": {
+            "password": "Pasvorto"
         }
+    },
+    "stripe_checkout": {
+        "password": "Pasvorto"
     }
 }
