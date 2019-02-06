@@ -7,7 +7,9 @@
             "blog": "Blog",
             "contact_us": "Kontakt",
             "terms": "Regulamin",
-            "directory": "Folder"
+            "directory": "Folder",
+            "privacy": "Prywatność",
+            "cookies": "Ciasteczka"
         },
         "header": {
             "browse": "Przeglądaj",
@@ -22,7 +24,7 @@
             "register": "Zarejestruj",
             "dashboard": "Dashboard",
             "jams": "Jamy",
-            "notifications_count_0": "Jedno powiadomienie",
+            "notifications_count_0": "{{count}} powiadomienie",
             "notifications_count_1": "{{count}} powiadomienia",
             "notifications_count_2": "{{count}} powiadomień",
             "no_notifications": "Brak nowych powiadomień",
@@ -35,7 +37,9 @@
             "game_assets": "Zasoby",
             "fun_games": "Zabawne gry",
             "games": "Gry",
-            "feed_unseen_count": "{{count}} nowych",
+            "feed_unseen_count_0": "{{count}} nowe",
+            "feed_unseen_count_1": "{{count}} nowe",
+            "feed_unseen_count_2": "{{count}} nowych",
             "feed": "Tablica"
         },
         "user_menu": {
@@ -101,7 +105,8 @@
         },
         "intro": "<s>itch.io</s> to prosty, darmowy sposób na odkrywanie i dzielenie się grami niezależnymi online.",
         "intro_cta": "<1>Dodaj grę</1> lub <2>przeczytaj FAQ</2>",
-        "html5_games": "Gry HTML5"
+        "html5_games": "Gry HTML5",
+        "page_title": "Pobierz najnowsze gry niezależne"
     },
     "misc": {
         "classifications": {
@@ -179,7 +184,13 @@
             "jam_submit": "Musisz posiadać konto na itch.io zanim będziesz mógł dodać do jamu.",
             "claim_object": "Proszę się zalogować lub stworzyć konto aby odebrać {{noun}}"
         },
-        "no_account_prompt": "Nie masz konta? <1>Stwórz konto</1>"
+        "no_account_prompt": "Nie masz konta? <1>Stwórz konto</1>",
+        "page_title": "Logowanie",
+        "welcome_back": "Witaj ponownie!",
+        "welcome_to_itchio": "Witaj na itch.io!",
+        "errors": {
+            "accept_terms": "Musisz zaakceptować regulamin"
+        }
     },
     "user_register": {
         "create_an_account_on_itchio": "Stwórz konto na itch.io",
@@ -200,7 +211,8 @@
             "url_preview": "Adres twojej strony profilowej",
             "username": "Nazwa użytkownia",
             "other_registration_methods": "Inne formy rejestracji"
-        }
+        },
+        "page_title": "Załóż konto"
     },
     "developers": {
         "page_header": "Stwórz własną stronę aby natychmiast dytrybuować lub sprzedawać swoje gry niezależne",
@@ -221,5 +233,26 @@
         "share_message": "itch.io to prosty i darmowy sposób na dystrybucję twoich tytułów online.",
         "create_account_or_login": "<1>Stwórz konto</1> <em>lub</em> <2>zaloguj się</2>",
         "upload_or_dashboard": "<1>Prześlij grę</1> <em>lub</em> <2>Przejdź na dashboard</2>"
+    },
+    "search": {
+        "creators": "Twórcy:",
+        "published_count_0": "{{count}} projekt",
+        "published_count_1": "{{count}} projekty",
+        "published_count_2": "{{count}} projektów",
+        "view_all_tags": "Wyświetl wszystkie tagi",
+        "browse_all_games": "Przeglądaj wszystkie gry"
+    },
+    "app": {
+        "open_source": "Źródła",
+        "share_message": "itch, aplikacja desktopowa dla gier niezależnych",
+        "tagline": "Instaluj, aktualizuj i graj w gry niezależne",
+        "start_download": "Pobierz",
+        "more_info_links": "<1>Przeczytaj więcej w FAQ</1> lub <2>Przeczytaj przewodnik aplikacji</2>",
+        "learn_more_below": "Dowiedz się więcej poniżej"
+    },
+    "community": {
+        "post_list": {
+            "pinned_post": "Przypięty post"
+        }
     }
 }
