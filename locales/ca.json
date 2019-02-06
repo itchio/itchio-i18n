@@ -193,6 +193,14 @@
         },
         "lightboxes": {
             "close": "Tanca"
+        },
+        "countdown": {
+            "years": "anys",
+            "months": "mesos",
+            "days": "dies",
+            "hours": "hores",
+            "minutes": "minuts",
+            "seconds": "segons"
         }
     },
     "blog": {
@@ -460,7 +468,13 @@
             "moderation": "Moderació",
             "replies_count": "Respostes: {{count}}",
             "views_count": "Visualitzacions: {{count}}",
-            "a_topic_by_username_created_time_ago": "Un tema de {{username}} creat {{time_ago}}"
+            "a_topic_by_username_created_time_ago": "Un tema de {{username}} creat {{time_ago}}",
+            "next_page": "Pàgina següent",
+            "previous_page": "Pàgina anterior",
+            "first_page": "Primera pàgina",
+            "last_page": "Darrera pàgina",
+            "this_topic_is_locked": "Aquesta tema és tancat",
+            "this_topic_was_locked_by_username": "Aquest tema ha estat tancat per {{username}}"
         },
         "post_list": {
             "deleted_post": "Missatge esborrat",
@@ -766,6 +780,64 @@
             "payment_summary_with_email": "Vau pagar {{payment_price}} per això el {{payment_date}}, amb el correu electrònic {{email_address}}.",
             "percent_off": "{{percent}}% de descompte",
             "linked_user_message": "Aquesta compra està enllaçada al compte {{username}}."
+        }
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "Allotjat per {{hosts}}",
+            "links": {
+                "community": "Comunitat",
+                "results": "Resultats",
+                "submissions": "Participacions",
+                "overview": "Resum",
+                "screenshots": "Captures de pantalla",
+                "submission_feed": "Fil de participacions",
+                "edit_jam": "Edita la jam"
+            }
+        },
+        "stats": {
+            "joined": "S'hi han unit",
+            "entries": "Entrades",
+            "ratings": "Puntuacions"
+        },
+        "submitter": {
+            "join_jam": "Uneix-me a la jam",
+            "submit_button": "Envia-hi el meu projecte",
+            "or_leave_jam": "o <a>Deixa la jam</a>",
+            "youve_joined": "Us heu unit a aquesta jam.",
+            "joined_instructions": "Torneu a aquesta pàgina després que comenci la jam per presentar-hi el vostre projecte.",
+            "leave_jam": "Deixa la jam",
+            "submissions_open_from": "Participacions obertes de {{start_date}} fins a {{end_date}}",
+            "jam_is_now_over": "Aquesta jam s'ha acabat. Va estar activa de {{start_date}} fins a {{end_date}}.",
+            "view_results": "Mostra els resultats",
+            "view_entries": "Mostra {{count}} element",
+            "view_entries_plural": "Mostra {{count}} elements",
+            "countdown": {
+                "starts_in": "Comença en",
+                "submissions_due_in": "Les participacions s'acaben en",
+                "voting_ends_in": "Les votacions s'acabaran en"
+            },
+            "you_can_now_rate_games": "Ara podeu puntuar jocs fent-hi clic a continuació",
+            "submission_is_closed_for_voting": "Les participacions s'han tancat i ara s'efectua la votació"
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "Encara no hi ha cap participació",
+            "there_were_no_submissions": "No hi ha hagut cap participació",
+            "submissions_will_be_available_after_the_jam_has_ended": "Les participacions estaran disponibles quan s'hagi acabat la jam",
+            "help_submissions_in_need_of_ratings": "Ajudeu a puntuar les participacions que tenen poques puntuacions: <a>Participacions amb poques puntuacions</a>",
+            "filters": {
+                "all_submissions": "Totes les participacions",
+                "browser_playable": "Jugable al navegador"
+            },
+            "filter": "Filtre",
+            "empty_results": "No hi ha cap participació que encaixi amb el vostre filtre"
+        },
+        "results": {
+            "results": "Resultats",
+            "submissions_summary": "S'ha enviat <s>{{count}} element</s> entre {{start_date}} i {{end_date}}.",
+            "submissions_summary_plural": "S'han enviat <s>{{count}} elements</s> entre {{start_date}} i {{end_date}}.",
+            "votes_cast_count": "S'ha emès <s>{{count}}</s> vot entre {{vote_start_date}} i {{vote_end_date}}.",
+            "votes_cast_count_plural": "S'han emès <s>{{count}}</s> vots entre {{vote_start_date}} i {{vote_end_date}}."
         }
     }
 }
