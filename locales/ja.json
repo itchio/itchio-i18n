@@ -391,12 +391,15 @@
         "updates": "更新",
         "read_the_app_guide": "アプリガイドを読む",
         "browse_header": "クリエイターが望んだ通りにゲームを閲覧",
-        "updates_header": "常に更新されました",
-        "languages_header": "あなたの言語にも対応しております",
+        "updates_header": "常に最新版",
+        "languages_header": "あなたの言語にも対応",
         "download_now": "今すぐダウンロード",
         "meta_description": "itchはインディーズゲームをダウンロードしたり遊んだりするにはもっとも最適な方法です。デスクトップからフリーゲームをダウンロードして、自分のライブラリを管理しましょう。現在はWindows、macOSとLinux対応です。",
         "languages_description": "itch.ioコミュニティの協力のおかげで、itchランチャーには20以上の言語が用意されています！ <a>翻訳プロジェクトについてもっと詳しく知る</a>",
-        "browse_description": "itch.ioでは、作品ページの見た目はクリエイター自身が決めます。ランチャー内ブラウザでゲームをダウンロードしたりインストールしたりすると同時に<a>様々なクリエイターたちのユニークなページ</a>を閲覧しましょう。"
+        "browse_description": "itch.ioでは、作品専用ページのレイアウトデザインはクリエイター自身が決めます。ランチャー内ブラウザでゲームをダウンロードしたりインストールしたりすると同時に<a>様々なクリエイターたちのユニークなページ</a>を閲覧しましょう。",
+        "web_games_header": "ブラウザゲームのオフラインモード",
+        "community_header": "コミュニティに参加",
+        "page_title": "アプリをダウンロード"
     },
     "community": {
         "post_list": {
