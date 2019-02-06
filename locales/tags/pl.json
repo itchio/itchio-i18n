@@ -1,1 +1,19 @@
-{}
+{
+    "tags": {
+        "2d": "2D",
+        "3d": "3D",
+        "3d-platformer": "Platformówka 3D",
+        "4x": "4X",
+        "8-bit": "8-bitowe",
+        "abstract": "Abstrakcyjne",
+        "action": "Akcja",
+        "action-adventure": "Przygodowo-zręcznościowe",
+        "adventure": "Przygodowe",
+        "aliens": "Obcy",
+        "alternate-history": "Alternatywna historia",
+        "animals": "Zwierzęta",
+        "anime": "Anime",
+        "arcade": "Arcade",
+        "archery": "Łucznictwo"
+    }
+}
