@@ -241,7 +241,8 @@
             "community": "itch.ioのコミュニティに参加するにはログインが必要です。アカウントの作成は無料で時間がかかりません。",
             "comment": "コメントを残すにはまずitch.ioアカウントが必要です。",
             "rate_game": "ゲームを評価するにはまずitch.ioアカウントが必要です。",
-            "follow": "誰かをフォローするにはまずitch.ioアカウントが必要です。"
+            "follow": "誰かをフォローするにはまずitch.ioアカウントが必要です。",
+            "follow_username": "<1>{{username}}1</1>をフォローするにはまずitch.ioアカウントが必要です。"
         },
         "welcome_back": "お帰りなさいませ！",
         "welcome_to_itchio": "itch.ioへようこそ！",
@@ -370,7 +371,8 @@
             "youve_been_gifted": "『{{product_title}}』が贈られました。",
             "link_purchase_warning": "ご購入の商品をなくさないようにしてください！",
             "payment_summary_with_email": "{{email_address}}のメールアドレスで {{payment_date}}に {{payment_price}} を支払いました。",
-            "payment_summary": "{{payment_date}}に {{payment_price}}を支払いました。"
+            "payment_summary": "{{payment_date}}に {{payment_price}}を支払いました。",
+            "unique_url_for_your_payment": "このページはあなたのお会計のための専用URLです。"
         },
         "app_banner": {
             "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう",
