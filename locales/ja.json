@@ -271,7 +271,8 @@
         "create_a_new_account": "新しいアカウントを作成する",
         "log_in_to_your_itchio_account": "itch.ioアカウントにログイン",
         "looking_for_something_you_bought": "以前に購入したものをお探しですか？",
-        "no_account_prompt": "アカウントを持っていませんか？<1>アカウントを作成しましょう</1>。"
+        "no_account_prompt": "アカウントを持っていませんか？<1>アカウントを作成しましょう</1>。",
+        "page_title": "ログイン"
     },
     "game": {
         "layout": {
