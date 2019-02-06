@@ -189,6 +189,14 @@
         },
         "lightboxes": {
             "close": "閉じる"
+        },
+        "countdown": {
+            "years": "年",
+            "months": "月",
+            "days": "日",
+            "hours": "時間",
+            "minutes": "分",
+            "seconds": "秒"
         }
     },
     "developers": {
