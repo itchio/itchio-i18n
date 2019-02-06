@@ -251,7 +251,8 @@
             "rate_game": "ゲームを評価するにはまずitch.ioアカウントが必要です。",
             "follow": "誰かをフォローするにはまずitch.ioアカウントが必要です。",
             "follow_username": "<1>{{username}}</1>をフォローするにはまずitch.ioアカウントが必要です。",
-            "collection": "コレクションに追加するにはまずitch.ioアカウントが必要です。"
+            "collection": "コレクションに追加するにはまずitch.ioアカウントが必要です。",
+            "claim_object": "{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください。"
         },
         "welcome_back": "お帰りなさいませ！",
         "welcome_to_itchio": "itch.ioへようこそ！",
@@ -269,7 +270,8 @@
         },
         "create_a_new_account": "新しいアカウントを作成する",
         "log_in_to_your_itchio_account": "itch.ioアカウントにログイン",
-        "looking_for_something_you_bought": "以前に購入したものをお探しですか？"
+        "looking_for_something_you_bought": "以前に購入したものをお探しですか？",
+        "no_account_prompt": "アカウントを持っていない？<1>アカウントを作成しましょう</1>。"
     },
     "game": {
         "layout": {
