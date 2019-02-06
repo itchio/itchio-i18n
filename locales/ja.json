@@ -288,7 +288,9 @@
             "following_username": "{{username}}をフォロー中",
             "add_to_collection": "コレクションに追加",
             "edit_rating": "評価を編集",
-            "rate": "評価"
+            "rate": "評価",
+            "related_games": "類似するゲーム",
+            "related_games_short": "類似ゲーム"
         },
         "download_now_button": "今すぐダウンロード",
         "preorder_button": "今すぐ予約",
@@ -299,8 +301,28 @@
         "devlog_view_all_posts": "すべての投稿を表示",
         "your_purchase_comes_with_a_steam_key": "こちらの商品にSteamキーがついております。",
         "info_panel": {
-            "platforms": "プラットフォーム",
-            "inputs": "操作"
+            "platforms": "対応OS",
+            "inputs": "操作",
+            "updated_at": "最終更新",
+            "published_at": "サイト公開日",
+            "release_status": "制作状況",
+            "category": "カテゴリー",
+            "publisher": "パブリシャー",
+            "release_date": "作品公開日",
+            "rating": "評価",
+            "authors": "制作者",
+            "author": "制作者",
+            "genre": "ジャンル",
+            "made_with_tools": "制作ツール",
+            "tags": "タグ",
+            "code_license": "ライセンス",
+            "asset_license": "素材ライセンス",
+            "average_session_duration": "平均プレイ時間",
+            "languages": "言語",
+            "multiplayer": "マルチプレイヤー",
+            "player_count": "プレイヤー数",
+            "singleplayer": "シングルプレイヤー",
+            "links": "リンク集"
         },
         "empty_page": "ここには何もないようですね……",
         "more_information": "作品情報",
@@ -457,7 +479,8 @@
         "filter_group_misc": "その他",
         "filter_group_collection": "コレクション",
         "filter_group_tools": "ツール＆エンジン",
-        "filter_everything_else": "その他"
+        "filter_everything_else": "その他",
+        "related_collections": "類似するコレクション"
     },
     "stripe_checkout": {
         "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます"
