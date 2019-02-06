@@ -220,7 +220,7 @@
         "register_form": {
             "create_account": "アカウント登録",
             "log_in": "ログイン",
-            "digest_signup": "一月に二回ほど送られるニュースレーターに登録する",
+            "digest_signup": "一月に二回ほど送られるニュースレターに登録する",
             "already_have_account": "すでにアカウントをお持ちですか？",
             "link_product": "登録が済んだら、購入した<1>{{product}}</1>は自動的にアカウントにリンクされます。",
             "accept_tos": "<1>利用規約</1>に同意する",
@@ -271,7 +271,7 @@
         "create_a_new_account": "新しいアカウントを作成する",
         "log_in_to_your_itchio_account": "itch.ioアカウントにログイン",
         "looking_for_something_you_bought": "以前に購入したものをお探しですか？",
-        "no_account_prompt": "アカウントを持っていない？<1>アカウントを作成しましょう</1>。"
+        "no_account_prompt": "アカウントを持っていませんか？<1>アカウントを作成しましょう</1>。"
     },
     "game": {
         "layout": {
