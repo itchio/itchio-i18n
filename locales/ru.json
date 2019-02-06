@@ -195,6 +195,14 @@
         },
         "lightboxes": {
             "close": "Закрыть"
+        },
+        "countdown": {
+            "years": "лет",
+            "months": "месяцев",
+            "days": "дней",
+            "hours": "часов",
+            "minutes": "минут",
+            "seconds": "секунд"
         }
     },
     "blog": {
@@ -464,7 +472,13 @@
             "moderation": "Модерация",
             "replies_count": "Ответов: {{count}}",
             "views_count": "Просмотров: {{count}}",
-            "a_topic_by_username_created_time_ago": "Тема от {{username}}, создана {{time_ago}}"
+            "a_topic_by_username_created_time_ago": "Тема от {{username}}, создана {{time_ago}}",
+            "next_page": "Следующая страница",
+            "previous_page": "Предыдущая страница",
+            "first_page": "Первая страница",
+            "last_page": "Последняя страница",
+            "this_topic_is_locked": "Эта тема закрыта от обсуждения",
+            "this_topic_was_locked_by_username": "Эта тема закрыта от обсуждения {{username}}"
         },
         "post_list": {
             "deleted_post": "Удалённый пост",
@@ -774,6 +788,83 @@
             "percent_off": "Скидка {{percent}}%",
             "linked_user_message": "Эта покупка закреплена за аккаунтом {{username}}.",
             "payment_summary_with_email": "Вы заплатили за это {{payment_date}} {{payment_price}}, указав email {{email_address}}."
+        }
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "Проводится {{hosts}}",
+            "links": {
+                "community": "Сообщество",
+                "results": "Результаты",
+                "submissions": "Проекты",
+                "overview": "Начало",
+                "screenshots": "Скриншоты",
+                "submission_feed": "Лента проектов",
+                "edit_jam": "Редактировать геймджем"
+            }
+        },
+        "stats": {
+            "joined": "Присоединились",
+            "entries": "Проектов",
+            "ratings": "Рейтингов"
+        },
+        "submitter": {
+            "join_jam": "Участвовать в геймджеме",
+            "submit_button": "Отправить свой проект",
+            "or_leave_jam": "или <a>Покинуть геймджем</a>",
+            "youve_joined": "Вы присоединились к геймджему.",
+            "joined_instructions": "Приходите сюда снова, когда геймджем начнётся, чтобы отправить свой проект.",
+            "leave_jam": "Покинуть геймджем",
+            "submissions_open_from": "Отправлять можно с {{start_date}} до {{end_date}}",
+            "jam_is_now_over": "Этот геймджем закончился. Он проводился с {{start_date}} до {{end_date}}.",
+            "view_results": "Посмотреть результаты",
+            "view_entries_0": "Показать {{count}} проект",
+            "view_entries_1": "Показать {{count}} проекта",
+            "view_entries_2": "Показать {{count}} проектов",
+            "countdown": {
+                "starts_in": "Начинается в",
+                "submissions_due_in": "Отправка разрешена с",
+                "voting_ends_in": "Голосование идёт до"
+            },
+            "you_can_now_rate_games": "Вы можете выставлять оценки играм, кликая по ним ниже",
+            "submission_is_closed_for_voting": "Отправка проектов закрыта, идёт голосование"
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "Пока что проектов нет",
+            "there_were_no_submissions": "Проектов не было",
+            "submissions_will_be_available_after_the_jam_has_ended": "Проекты станут доступны, когда геймджем закончится",
+            "help_submissions_in_need_of_ratings": "Помогите оценить проекты, имеющие мало оценок: <a>Проекты, нуждающиеся в оценках</a>",
+            "filters": {
+                "all_submissions": "Все проекты",
+                "browser_playable": "Браузерные"
+            },
+            "filter": "Фильтр",
+            "empty_results": "Нет проектов, подходящих под фильтр"
+        },
+        "results": {
+            "results": "Результаты",
+            "submissions_summary_0": "<s>{{count}} проект</s> был прислан между {{start_date}} и {{end_date}}.",
+            "submissions_summary_1": "<s>{{count}} проекта</s> были присланы между {{start_date}} и {{end_date}}.",
+            "submissions_summary_2": "<s>{{count}} проектов</s> были присланы между {{start_date}} и {{end_date}}.",
+            "votes_cast_count_0": "<s>{{count}}</s> голос был отдан между {{vote_start_date}} и {{vote_end_date}}.",
+            "votes_cast_count_1": "<s>{{count}}</s> голоса были отданы между {{vote_start_date}} и {{vote_end_date}}.",
+            "votes_cast_count_2": "<s>{{count}}</s> голосов были отданы между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_count_0": "<s>{{count}} оценка</s> была дана между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_count_1": "<s>{{count}} оценки</s> были даны между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_count_2": "<s>{{count}} оценок</s> были даны между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_submissions_count_0": "<s>{{count}} оценка</s> была дана <s>{{submission_count}} проектам</s> ({{percent}}%) между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_submissions_count_1": "<s>{{count}} оценки</s> были даны <s>{{submission_count}} проектам</s> ({{percent}}%) между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_submissions_count_2": "<s>{{count}} оценок</s> были даны <s>{{submission_count}} проектам</s> ({{percent}}%) между {{vote_start_date}} и {{vote_end_date}}.",
+            "average_and_median_results": "Среднее количество оценок на игру <s>{{average_ratings}}</s>, медианное <s>{{median_ratings}}</s>.",
+            "empty_message": "Результаты ещё не доступны, приходите позже",
+            "empty_page_message": "На этой странице нет результатов",
+            "no_rankings_available": "Оценки недоступны",
+            "sort_by_criteria": "По критерию",
+            "sort_overall": "Общая",
+            "submissions": {
+                "by_author": "от {{author}}",
+                "view_submission_page": "Посмотреть страницу проекта"
+            }
         }
     }
 }
