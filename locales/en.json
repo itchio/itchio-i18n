@@ -193,6 +193,14 @@
         },
         "lightboxes": {
             "close": "Close"
+        },
+        "countdown": {
+            "years": "years",
+            "months": "months",
+            "days": "days",
+            "hours": "hours",
+            "minutes": "minutes",
+            "seconds": "seconds"
         }
     },
     "blog": {
@@ -460,7 +468,13 @@
             "moderation": "Moderation",
             "replies_count": "Replies: {{count}}",
             "views_count": "Views: {{count}}",
-            "a_topic_by_username_created_time_ago": "A topic by {{username}} created {{time_ago}}"
+            "a_topic_by_username_created_time_ago": "A topic by {{username}} created {{time_ago}}",
+            "next_page": "Next page",
+            "previous_page": "Previous page",
+            "first_page": "First page",
+            "last_page": "Last page",
+            "this_topic_is_locked": "This topic is locked",
+            "this_topic_was_locked_by_username": "This topic was locked by {{username}}"
         },
         "post_list": {
             "deleted_post": "Deleted post",
@@ -766,6 +780,143 @@
             "payment_summary_with_email": "You paid for this on {{payment_date}} for {{payment_price}} with the email {{email_address}}.",
             "percent_off": "{{percent}}% off",
             "linked_user_message": "This purchase is linked to the account {{username}}."
+        }
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "Hosted by {{hosts}}",
+            "links": {
+                "community": "Community",
+                "results": "Results",
+                "submissions": "Submissions",
+                "overview": "Overview",
+                "screenshots": "Screenshots",
+                "submission_feed": "Submission feed",
+                "edit_jam": "Edit jam"
+            }
+        },
+        "stats": {
+            "joined": "Joined",
+            "entries": "Entries",
+            "ratings": "Ratings"
+        },
+        "submitter": {
+            "join_jam": "Join jam",
+            "submit_button": "Submit your project",
+            "or_leave_jam": "or <a>Leave jam</a>",
+            "youve_joined": "You've joined this jam.",
+            "joined_instructions": "Come to this page after the jam starts to submit your project.",
+            "leave_jam": "Leave jam",
+            "submissions_open_from": "Submissions open from {{start_date}} to {{end_date}}",
+            "jam_is_now_over": "This jam is now over. It ran from {{start_date}} to {{end_date}}.",
+            "view_results": "View results",
+            "view_entries": "View {{count}} entry",
+            "view_entries_plural": "View {{count}} entries",
+            "countdown": {
+                "starts_in": "Starts in",
+                "submissions_due_in": "Submissions due in",
+                "voting_ends_in": "Voting ends in"
+            },
+            "you_can_now_rate_games": "You can now rate games by clicking on them below",
+            "submission_is_closed_for_voting": "Submission is closed and voting is now in progress"
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "There are no submissions yet",
+            "there_were_no_submissions": "There were no submissions",
+            "submissions_will_be_available_after_the_jam_has_ended": "Submissions will be available after the jam has ended",
+            "help_submissions_in_need_of_ratings": "Help rate submissions that have few ratings: <a>Submissions in need of ratings</a>",
+            "filters": {
+                "all_submissions": "All submissions",
+                "browser_playable": "Browser playable"
+            },
+            "filter": "Filter",
+            "empty_results": "No submissions match your filter"
+        },
+        "results": {
+            "results": "Results",
+            "submissions_summary": "<s>{{count}} entry</s> was submitted between {{start_date}} and {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} entries</s> were submitted between {{start_date}} and {{end_date}}.",
+            "votes_cast_count": "<s>{{count}}</s> vote was cast between {{vote_start_date}} and {{vote_end_date}}.",
+            "votes_cast_count_plural": "<s>{{count}}</s> votes were cast between {{vote_start_date}} and {{vote_end_date}}.",
+            "ratings_given_count": "<s>{{count}} ratings</s> were given between {{vote_start_date}} and {{vote_end_date}}.",
+            "ratings_given_count_plural": "<s>{{count}} rating</s> was given between {{vote_start_date}} and {{vote_end_date}}.",
+            "ratings_given_submissions_count": "<s>{{count}} rating</s> was given to <s>{{submission_count}} entries</s> ({{percent}}%) between {{vote_start_date}} and {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "<s>{{count}} ratings</s> were given to <s>{{submission_count}} entries</s> ({{percent}}%) between {{vote_start_date}} and {{vote_end_date}}.",
+            "average_and_median_results": "The average number of ratings per game was <s>{{average_ratings}}</s> and the median was <s>{{median_ratings}}</s>.",
+            "empty_message": "The results are not available yet, come back later",
+            "empty_page_message": "No results on this page",
+            "no_rankings_available": "No rankings available",
+            "sort_by_criteria": "By criteria",
+            "sort_overall": "Overall",
+            "submissions": {
+                "by_author": "by {{author}}",
+                "view_submission_page": "View submission page",
+                "ranked": "Ranked {{ordinal_rank}}",
+                "ranked_vote_count": "Ranked {{ordinal_rank}} with {{count}} vote",
+                "ranked_vote_count_plural": "Ranked {{ordinal_rank}} with {{count}} votes",
+                "ranked_rating_count": "Ranked {{ordinal_rank}} with {{count}} rating",
+                "ranked_rating_count_plural": "Ranked {{ordinal_rank}} with {{count}} ratings",
+                "ranked_criteria": "Ranked {{ordinal_rank}} in {{criteria_name}}",
+                "ranked_criteria_vote_count": "Ranked {{ordinal_rank}} in {{criteria_name}} with {{count}} vote",
+                "ranked_criteria_vote_count_plural": "Ranked {{ordinal_rank}} in {{criteria_name}} with {{count}} votes",
+                "ranked_criteria_rating_count": "Ranked {{ordinal_rank}} in {{criteria_name}} with {{count}} rating",
+                "ranked_criteria_rating_count_plural": "Ranked {{ordinal_rank}} in {{criteria_name}} with {{count}} ratings",
+                "ranked_score": "Score: {{score}}"
+            }
+        },
+        "submission": {
+            "results_table_criteria": "Criteria",
+            "results_table_rank": "Rank",
+            "results_table_votes": "Votes",
+            "results_table_score": "Score",
+            "results_table_raw_score": "Raw Score",
+            "edit_this_submission_button": "Edit this submission",
+            "remove_this_submission_button": "Remove this submission",
+            "a_jam_submission": "A jam submission",
+            "view_game_page": "View game page",
+            "view_project_page": "View project page",
+            "comments": {
+                "leave_a_comment_header": "Leave a comment",
+                "post_comment": "Post comment",
+                "empty_message": "No one has posted a comment yet"
+            },
+            "link_to_itchio_page": "{{game_title}}'s itch.io page",
+            "downloads": "Downloads",
+            "play_game": "Play game",
+            "run_project": "Run project",
+            "score_information": "Score is adjusted from raw score by the median number of ratings per game in the jam.",
+            "ranked_from_count_plural": "Ranked from <s>{{count}} ratings</s>.",
+            "ranked_from_count": "Ranked from <s>{{count}} rating</s>.",
+            "results_header": "Results",
+            "ranked_with_vote_count": "Ranked {{ordinal_rank}} with {{count}} vote",
+            "ranked_with_vote_count_plural": "Ranked {{ordinal_rank}} with {{count}} votes",
+            "submitted_by_contributors": "Submitted by {{contributors}}",
+            "time_remaining_before_deadline": "{{time_duration}} before the deadline",
+            "rated_by_people_count_plural": "Rated by {{count}} people so far",
+            "rated_by_people_count": "Rated by {{count}} person so far",
+            "rate_submission": {
+                "vote": "Vote",
+                "private_field": "(private)",
+                "vote_for_this_submission": "Vote for this submission",
+                "rate_this_submission": "Rate this submission",
+                "not_open_yet": "The submission period of this jam has not ended yet. Rating opens {{start_date}}.",
+                "owner_message": "This is your submission, you are not allowed to rate it. Other participants of the jam will be able to rate your project here.",
+                "unavailable_to_rate": "You are unable to rate this project because you have not submitted your own entry. You can leave a comment below though.",
+                "sign_up_to_rate": "<a>Sign up with an itch.io account</a> to rate and leave comments.",
+                "sign_up_to_vote": "<a>Sign up with an itch.io account</a> to vote and leave comments.",
+                "participate_to_rate_message": "In order to rate this submission you must be <a>logged into itch.io</a> and have submitted your own entry. Anyone with an account can leave a comment.",
+                "you_will_be_able_to_rate_if_you_submit": "You will be able to rate this entry if you submit to this jam.",
+                "other_participants_can_rate": "Others who have entered the jam will be able to rate your entry.",
+                "save_vote": "Save vote",
+                "save_rating": "Save rating",
+                "you_havent_rated_this_submission_yet": "You haven't rated this submission yet.",
+                "you_just_voted": "You just voted.",
+                "you_voted_ago": "You voted {{timestamp}}."
+            }
+        },
+        "screenshots": {
+            "empty_message": "There aren't any screenshots uploaded yet",
+            "loading_more": "Loading more screenshots..."
         }
     }
 }
