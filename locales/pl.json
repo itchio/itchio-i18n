@@ -551,7 +551,8 @@
         "continue_payment": "Kontynuuj płatność",
         "billing_address": "Adres rozliczeniowy",
         "generic_error": "Wystąpił błąd z twoją płatnością: {{error}}",
-        "contact_support_on_error": "Jeśli błąd nadal występuje, skontaktuj się ze <a>wsparciem technicznym itch.io</a>, dołączając wszystkie istotne szczegóły."
+        "contact_support_on_error": "Jeśli błąd nadal występuje, skontaktuj się ze <a>wsparciem technicznym itch.io</a>, dołączając wszystkie istotne szczegóły.",
+        "buy_title": "Kup \"{{title}}\""
     },
     "collection": {
         "authors": "kolekcja od {{author}}",
@@ -672,7 +673,16 @@
             "link_purchase_links": "<1>Utwórz konto</1> lub <2>zaloguj się do itch.io</2> żeby od razu powiązać ten zakup.",
             "thank_you_for_purchasing": "Dziękujemy za zakup {{product_title}}.",
             "payment_summary": "Zapłacono za to {{payment_price}} w dniu {{payment_date}}.",
-            "payment_summary_with_email": "Zapłacono za to {{payment_price}} w dniu {{payment_date}} używając e-maila {{email_address}}."
+            "payment_summary_with_email": "Zapłacono za to {{payment_price}} w dniu {{payment_date}} używając e-maila {{email_address}}.",
+            "link_purchase_warning": "Nie strać swojego zakupu!",
+            "thank_you_for_purchasing_author": "Dziękujemy za zakup {{product_title}} od {{author}}.",
+            "thank_you_for_donating": "Dziękujemy za darowiznę dla {{product_title}}.",
+            "thank_you_for_donating_author": "Dziękujemy za darowiznę dla {{product_title}} od {{author}}.",
+            "unique_url_for_your_payment": "Ta strona zawiera unikatowy URL twojej płatności.",
+            "access_latest_files_from_this_page": "Zawsze masz dostęp do najnowszych plików na tej stronie.",
+            "receipt_support_information": "Powinieneś otrzymać e-mail z linkiem do tej strony. Jeśli kiedykolwiek stracisz ten URL możesz zażądać wysłania kolejnego e-maila na <a>stronie pomocy</a>.",
+            "percent_off": "{{percent}}% zniżki",
+            "linked_user_message": "Ten zakup jest powiązany z kontem {{username}}."
         }
     }
 }
