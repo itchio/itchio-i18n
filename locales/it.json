@@ -76,6 +76,39 @@
         "view_all": "Vedi tutti",
         "recommended_for_you": "Consigliati per te",
         "recommendations_based_on": "In base ai giochi che hai comprato, scaricato e valutato",
-        "fresh_games": "Ultime uscite"
+        "fresh_games": "Ultime uscite",
+        "intro": "<s>itch.io</s> è un modo semplice per trovare e condividere online giochi indie, in maniera gratuita.",
+        "intro_cta": "<1>Carica il tuo gioco</1> o <2>leggi le FAQ</2>",
+        "html5_games": "Giochi HTML5",
+        "page_title": "Scarica giochi indie appena usciti"
+    },
+    "misc": {
+        "classifications": {
+            "game": "Giochi",
+            "assets": "Risorse per sviluppatori",
+            "game_mod": "Mods",
+            "soundtrack": "Colonne sonore",
+            "other": "Miscellanea",
+            "tool": "Strumenti",
+            "comic": "Fumetti",
+            "book": "Libri"
+        },
+        "accessibility_features": {
+            "colorblind": "Accessibile ai daltonici",
+            "subtitles": "Sottotitoli",
+            "configurable_controls": "Controlli configurabili",
+            "highcontrast": "Contrasto elevato",
+            "tutorial": "Tutorial interattivo",
+            "blind": "Accessibile ai non vedenti",
+            "textless": "Privo di testo"
+        },
+        "multiplayer_features": {
+            "local": "Multiplayer locale",
+            "server": "Multiplayer online"
+        },
+        "inputs": {
+            "keyboard": "Tastiera",
+            "mouse": "Mouse"
+        }
     }
 }

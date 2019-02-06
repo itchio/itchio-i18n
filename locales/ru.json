@@ -181,7 +181,7 @@
         },
         "filter_price": {
             "free": "Бесплатные",
-            "on_sale": "Распродажа",
+            "on_sale": "Со скидкой",
             "paid": "Платные"
         },
         "pager": {
@@ -434,7 +434,7 @@
                 "updated_date": "Обновлено {{date}}"
             },
             "jam_submission": {
-                "view_the_submission_page": "Посмотреть страницу в гейм-джеме",
+                "view_the_submission_page": "Посмотреть страницу в геймджеме",
                 "this_is_a_submission_to_jam_title": "Участвует в {{jam_title}}",
                 "accepting_ratiings": "Геймджем сейчас собирает оценки проектов. <a>Подробнее</a>",
                 "you_rated_this_game": "Вы оценили эту игру",
@@ -594,7 +594,7 @@
         "filter_group_multiplayer": "Мультиплеер",
         "filter_group_accessibility_features": "Доступность",
         "filter_group_type": "Тип",
-        "type_downloadable": "Загружаемые",
+        "type_downloadable": "Скачиваемые",
         "filter_group_release_status": "Статус релиза",
         "filter_group_misc": "Прочие",
         "filter_group_collection": "Коллекция",
