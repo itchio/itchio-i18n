@@ -214,7 +214,8 @@
         "product_summary2": "ゲームには最低価格を設定することができます。これは、ユーザーから支払い額をさらに上乗せしてもらえることが期待できる仕様です。",
         "host_a_sale_description": "お好みの期間で割引キャンペーンを行い、作品を宣伝し売り上げを伸ばしましょう。",
         "browser_game_description": "ブラウザゲームを<s>itch.io</s>で公開して収益化しましょう。ゲームはitch.ioページからすぐにプレイできて、作品を愛好しているユーザーは好きな金額で支援できます。",
-        "upload_your_game_description": "作品を無料で<s>itch.io</s>で配信しましょう。 スクリーンショットと他のダウンロードデータはitch.ioサーバーにて保管されます。作品へのダウンロードはは常時、高速で行えます。"
+        "upload_your_game_description": "作品を無料で<s>itch.io</s>で配信しましょう。 スクリーンショットと他のダウンロードデータはitch.ioサーバーにて保管されます。作品へのダウンロードはは常時、高速で行えます。",
+        "account_faq_cta": "<1>いますぐアカウントを作る</1> または <2>FAQを読む</2>"
     },
     "user_register": {
         "register_form": {
@@ -272,7 +273,8 @@
         "log_in_to_your_itchio_account": "itch.ioアカウントにログイン",
         "looking_for_something_you_bought": "以前に購入したものをお探しですか？",
         "no_account_prompt": "アカウントを持っていませんか？<1>アカウントを作成しましょう</1>。",
-        "page_title": "ログイン"
+        "page_title": "ログイン",
+        "you_are_logged_out": "ログアウトしました"
     },
     "game": {
         "layout": {
