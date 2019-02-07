@@ -830,14 +830,94 @@
                 "browser_playable": "Jugable al navegador"
             },
             "filter": "Filtre",
-            "empty_results": "No hi ha cap participació que encaixi amb el vostre filtre"
+            "empty_results": "No hi ha cap participació que encaixi amb el vostre filtre",
+            "rated": "Puntuades"
         },
         "results": {
             "results": "Resultats",
             "submissions_summary": "S'ha enviat <s>{{count}} element</s> entre {{start_date}} i {{end_date}}.",
             "submissions_summary_plural": "S'han enviat <s>{{count}} elements</s> entre {{start_date}} i {{end_date}}.",
             "votes_cast_count": "S'ha emès <s>{{count}}</s> vot entre {{vote_start_date}} i {{vote_end_date}}.",
-            "votes_cast_count_plural": "S'han emès <s>{{count}}</s> vots entre {{vote_start_date}} i {{vote_end_date}}."
+            "votes_cast_count_plural": "S'han emès <s>{{count}}</s> vots entre {{vote_start_date}} i {{vote_end_date}}.",
+            "ratings_given_count": "S'ha fet <s>{{count}} puntuació</s> entre {{vote_start_date}} i {{vote_end_date}}.",
+            "ratings_given_count_plural": "S'han fet <s>{{count}} puntuacions</s> entre {{vote_start_date}} i {{vote_end_date}}.",
+            "ratings_given_submissions_count": "S'ha fet <s>{{count}} puntuació</s> a <s>{{submission_count}} elements</s> ({{percent}}%) entre {{vote_start_date}} i {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "S'han fet <s>{{count}} puntuacions</s> a <s>{{submission_count}} elements</s> ({{percent}}%) entre {{vote_start_date}} i {{vote_end_date}}.",
+            "average_and_median_results": "El nombre mitjà de puntuacions per joc ha estat <s>{{average_ratings}}</s> i la mediana ha estat <s>{{median_ratings}}</s>.",
+            "empty_message": "Els resultats encara no estan disponibles, torneu més tard",
+            "empty_page_message": "No hi ha resultats en aquesta pàgina",
+            "no_rankings_available": "No hi ha cap classificació disponible",
+            "sort_by_criteria": "Per criteri",
+            "sort_overall": "En general",
+            "submissions": {
+                "by_author": "de {{author}}",
+                "view_submission_page": "Mostra la pàgina de la participació",
+                "ranked": "Classificat a la posició {{ordinal_rank}}",
+                "ranked_vote_count": "Classificat a la posició {{ordinal_rank}} amb {{count}} vot",
+                "ranked_vote_count_plural": "Classificat a la posició {{ordinal_rank}} amb {{count}} vots",
+                "ranked_rating_count": "Classificat a la posició {{ordinal_rank}} amb {{count}} puntuació",
+                "ranked_rating_count_plural": "Classificat a la posició {{ordinal_rank}} amb {{count}} puntuacions",
+                "ranked_criteria": "Classificat a la posició {{ordinal_rank}} en {{criteria_name}}",
+                "ranked_criteria_vote_count": "Classificat a la posició {{ordinal_rank}} en {{criteria_name}} amb {{count}} vot",
+                "ranked_criteria_vote_count_plural": "Classificat a la posició {{ordinal_rank}} en {{criteria_name}} amb {{count}} vots",
+                "ranked_criteria_rating_count": "Classificat a la posició {{ordinal_rank}} en {{criteria_name}} amb {{count}} puntuació",
+                "ranked_criteria_rating_count_plural": "Classificat a la posició {{ordinal_rank}} en {{criteria_name}} amb {{count}} puntuacions",
+                "ranked_score": "Puntuació: {{score}}"
+            }
+        },
+        "submission": {
+            "results_table_criteria": "Criteri",
+            "results_table_rank": "Posició",
+            "results_table_votes": "Vots",
+            "results_table_score": "Puntuació",
+            "results_table_raw_score": "Puntuació en brut",
+            "edit_this_submission_button": "Edita aquesta participació",
+            "remove_this_submission_button": "Suprimeix aquesta participació",
+            "a_jam_submission": "Una participació en una jam",
+            "view_game_page": "Mostra la pàgina del joc",
+            "view_project_page": "Mostra la pàgina del projecte",
+            "comments": {
+                "leave_a_comment_header": "Deixeu un comentari",
+                "post_comment": "Publica el comentari",
+                "empty_message": "Encara no hi ha cap comentari"
+            },
+            "link_to_itchio_page": "Pàgina d'itch.io de {{game_title}}",
+            "downloads": "Descàrregues",
+            "play_game": "Juga al joc",
+            "run_project": "Executa el projecte",
+            "score_information": "La puntuació s'ajusta a partir de la puntuació en brut amb el nombre medià de puntuacions per joc a la jam.",
+            "ranked_from_count_plural": "Classificat amb <s>{{count}} puntuacions</s>.",
+            "ranked_from_count": "Classificat amb <s>{{count}} puntuació</s>.",
+            "results_header": "Resultats",
+            "ranked_with_vote_count": "Classificat a la posició {{ordinal_rank}} amb {{count}} vot",
+            "ranked_with_vote_count_plural": "Classificat a la posició {{ordinal_rank}} amb {{count}} vots",
+            "submitted_by_contributors": "Participació enviada per {{contributors}}",
+            "time_remaining_before_deadline": "{{time_duration}} per arribar a la data límit",
+            "rated_by_people_count_plural": "Puntuat per {{count}} persones fins ara",
+            "rated_by_people_count": "Puntuat per {{count}} persona fins ara",
+            "rate_submission": {
+                "vote": "Vota",
+                "private_field": "(privat)",
+                "vote_for_this_submission": "Voteu aquesta participació",
+                "rate_this_submission": "Puntueu aquesta participació",
+                "not_open_yet": "El període de participació en aquesta jam encara no s'ha acabat. La puntuació començarà {{start_date}}.",
+                "owner_message": "Aquesta participació és vostra, no podeu puntuar-la. Els altres participants de la jam podran puntuar el vostre projecte aquí.",
+                "unavailable_to_rate": "No podeu puntuar aquest projecte perquè no heu enviat la vostra pròpia participació. Però podeu deixar-hi un comentari a sota.",
+                "sign_up_to_rate": "<a>Registreu un compte d'itch.io</a> per a puntuar i deixar comentaris.",
+                "sign_up_to_vote": "<a>Registreu un compte d'itch.io</a> per a votar i deixar comentaris.",
+                "participate_to_rate_message": "Per a poder puntuar aquesta participació cal que hàgiu <a>iniciat la sessió a itch.io</a> i hàgiu enviat la vostra pròpia participació. Tothom amb un compte pot deixar-hi un comentari.",
+                "you_will_be_able_to_rate_if_you_submit": "Podreu puntuar aquest element si participeu en aquesta jam.",
+                "other_participants_can_rate": "Els qui hagin participat a la jam podran puntuar la vostra participació.",
+                "save_vote": "Desa el vot",
+                "save_rating": "Desa la puntuació",
+                "you_havent_rated_this_submission_yet": "Encara no heu puntuat aquesta participació.",
+                "you_just_voted": "Acabeu de votar.",
+                "you_voted_ago": "Vau votar {{timestamp}}."
+            }
+        },
+        "screenshots": {
+            "empty_message": "Encara no s'ha penjat cap captura de pantalla",
+            "loading_more": "S'estan carregant més captures de pantalla..."
         }
     }
 }
