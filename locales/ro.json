@@ -446,6 +446,7 @@
                 "accepting_ratiings": "Concursul permite trimiterea recenziilor pentru jocuri acum. <a>Află mai multe</a>",
                 "you_rated_this_game": "Ai trimis un scor pentru acest joc deja"
             }
-        }
+        },
+        "donate_button": "Susține proiectul (de tip {{noun}})"
     }
 }
