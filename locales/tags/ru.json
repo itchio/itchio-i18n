@@ -220,6 +220,9 @@
         "world-war-ii": "Вторая мировая война",
         "yaoi": "Яой",
         "zero-gravity": "Нулевая гравитация",
-        "zombies": "Зомби"
+        "zombies": "Зомби",
+        "classes": "Выбор класса",
+        "escape-game": "Побег",
+        "rotation": "Вращение"
     }
 }
