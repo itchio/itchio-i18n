@@ -1,5 +1,7 @@
 # itch.io Internationalization
 
+[![Build Status](https://travis-ci.org/itchio/itchio-i18n.svg?branch=master)](https://travis-ci.org/itchio/itchio-i18n)
+
 This repository stores the internationalization project for the
 [itch.io](https://itch.io) website. All source English strings and their
 translations are located here. This repository also contains any scripts used
