@@ -7,7 +7,7 @@
             "blog": "Blog",
             "contact_us": "Kontakt",
             "terms": "Regulamin",
-            "directory": "Folder",
+            "directory": "Katalog",
             "privacy": "Prywatność",
             "cookies": "Ciasteczka"
         },
@@ -160,7 +160,8 @@
         "forms": {
             "required": "Wymagane",
             "save": "Zapisz",
-            "email_address": "Adres e-mail"
+            "email_address": "Adres e-mail",
+            "submit": "Wyślij"
         },
         "page_number": "Strona {{page_number}}",
         "follow_button": {
@@ -406,7 +407,7 @@
         "download_header": "Pobieranie",
         "unavailable": "Ta {{game_noun}} jest obecnie niedostępna",
         "purchase_header": "Kup",
-        "download_access": "Kliknij pobierz, żeby uzyskać dostęp do następujących plików:",
+        "download_access": "Kliknij Pobierz Teraz, aby uzyskać dostęp do następujących plików:",
         "get_access": "Uzyskasz dostęp do następujących plików:",
         "get_access_preorder": "Uzyskasz dostęp do następujących plików, kiedy zostaną wydane:",
         "download_demo_header": "Pobierz demo",
@@ -417,7 +418,7 @@
         "download_now_button": "Pobierz Teraz",
         "preorder_button": "Zamów w przedsprzedaży teraz",
         "buy_now_button": "Kup teraz",
-        "name_your_own_price": "Wpisz własną cenę",
+        "name_your_own_price": "Określ własną cenę",
         "on_sale": "Okazje!",
         "percent_off": "<s>{{percent}}%</s> zniżki",
         "price_or_more": "{{price}} <s>lub więcej</s>",
@@ -426,7 +427,7 @@
         "devlog_view_all_posts": "Pokaż wszystkie wpisy",
         "your_purchase_comes_with_a_steam_key": "Twój zakup zawiera klucz Steam.",
         "steam_key_bundle_disclaimer": "(Uwaga: {{bundle_title}} nie zawiera klucza Steam)",
-        "donate_button": "Wesprzyj to {{noun}}",
+        "donate_button": "Wesprzyj {{noun}}",
         "empty_page_no_uploads": "Twórca jeszcze nic nie przesłał...",
         "comments": {
             "comments_header": "Komentarze",
@@ -496,9 +497,9 @@
             "edit_your_rating": "Edytuj swoją ocenę",
             "edit_rating": "Edytuj ocenę",
             "rate": "Oceń",
-            "rate_this_noun": "Oceń to {{noun}}",
+            "rate_this_noun": "Oceń {{noun}}",
             "rate_for_jam": "Oceń dla {{jam_title}}",
-            "submission_to_jam": "Zgłoszenie do {{jam_title}}",
+            "submission_to_jam": "Uczestnik {{jam_title}}",
             "related_games": "Powiązane gry",
             "related_games_short": "Powiązane",
             "ownership": {
@@ -509,7 +510,7 @@
                 "you_havent_sent_this_gift_to_anyone_yet": "Ten prezent jeszcze nie został nikomu wysłany",
                 "claimed": "Przypisane",
                 "you_were_gifted_this": "Otrzymano ten prezent",
-                "purchased_in_a_bundle_for_price": "Kupiono w bundlu za {{price}}",
+                "purchased_in_a_bundle_for_price": "Kupiono w zestawie za {{price}}",
                 "purchased_for_price": "Kupiono za {{price}}"
             },
             "footer": {
@@ -693,6 +694,18 @@
             "use_dark_theme": "Używaj ciemnego motywu, o ile jest dostępny",
             "profile": "Profil",
             "profile_description": "Zawartość twojej strony profilowej"
+        },
+        "password": {
+            "reset_password": "Resetuj hasło",
+            "set_password": "Ustaw hasło",
+            "current_password": "Bieżące hasło",
+            "password": "Hasło",
+            "new_password": "Nowe hasło",
+            "password_again": "Powtórz hasło",
+            "new_password_again": "Powtórz nowe hasło"
+        },
+        "email_addresses": {
+            "primary_email_header": "Główny adres e-mail"
         }
     },
     "game_download": {
@@ -720,7 +733,22 @@
         "check_out_more_from_jam_title": "Sprawdź więcej z {{jam_title}}",
         "alternate_download": {
             "enable_alternate_download_mode": "Włącz alternatywny sposób pobierania",
-            "title": "Alternatywny sposób pobierania"
+            "title": "Alternatywny sposób pobierania",
+            "region_message": "Wiemy że niektóre regiony blokują CDN itch.io. Jeśli twoje pobieranie nie rozpoczęło się, możesz włączyć alternatywny sposób pobierania i spróbować jeszcze raz."
+        },
+        "check_your_email_for_the_confirmation_link": "Sprawdź swój e-mail, wysłaliśmy link potwierdzający.",
+        "preorder_instructions": "Ten projekt ma pliki, które jeszcze nie zostały wydane. Wróć na tę stronę, kiedy twórca wyda pliki, w celu ich pobrania.",
+        "app_banner": {
+            "get_the_app": "Pobierz aplikację",
+            "app_description": "Instaluj i zarządzaj swoimi grami z aplikacją itch.io"
+        },
+        "play_in_your_browser": "Graj w przeglądarce",
+        "start_project_button": "Rozpocznij",
+        "version_name": "Wersja {{version_name}}",
+        "header": {
+            "invoice": "Faktura",
+            "more_menu": "Więcej",
+            "view_rest_in_bundle": "Pokaż resztę zestawu"
         }
     },
     "stripe_checkout": {
