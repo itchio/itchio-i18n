@@ -830,7 +830,8 @@
                 "browser_playable": "Browser playable"
             },
             "filter": "Filter",
-            "empty_results": "No submissions match your filter"
+            "empty_results": "No submissions match your filter",
+            "rated": "Rated"
         },
         "results": {
             "results": "Results",
