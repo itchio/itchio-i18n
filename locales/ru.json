@@ -863,7 +863,65 @@
             "sort_overall": "Общая",
             "submissions": {
                 "by_author": "от {{author}}",
-                "view_submission_page": "Посмотреть страницу проекта"
+                "view_submission_page": "Посмотреть страницу проекта",
+                "ranked": "{{ordinal_rank}} место",
+                "ranked_vote_count_0": "{{ordinal_rank}} место с {{count}} голосом",
+                "ranked_vote_count_1": "{{ordinal_rank}} место с {{count}} голосами",
+                "ranked_vote_count_2": "{{ordinal_rank}} место с {{count}} голосами",
+                "ranked_rating_count_0": "{{ordinal_rank}} место с {{count}} оценкой",
+                "ranked_rating_count_1": "{{ordinal_rank}} место с {{count}} оценками",
+                "ranked_rating_count_2": "{{ordinal_rank}} место с {{count}} оценками",
+                "ranked_criteria": "{{ordinal_rank}} место по {{criteria_name}}",
+                "ranked_criteria_vote_count_0": "{{ordinal_rank}} место по {{criteria_name}} с {{count}} голосом",
+                "ranked_criteria_vote_count_1": "{{ordinal_rank}} место по {{criteria_name}} с {{count}} голосами",
+                "ranked_criteria_vote_count_2": "{{ordinal_rank}} место по {{criteria_name}} с {{count}} голосами",
+                "ranked_criteria_rating_count_0": "{{ordinal_rank}} место по {{criteria_name}} с {{count}} оценкой",
+                "ranked_criteria_rating_count_1": "{{ordinal_rank}} место по {{criteria_name}} с {{count}} оценками",
+                "ranked_criteria_rating_count_2": "{{ordinal_rank}} место по {{criteria_name}} с {{count}} оценками",
+                "ranked_score": "Счёт: {{score}}"
+            }
+        },
+        "submission": {
+            "results_table_criteria": "Критерий",
+            "results_table_rank": "Место",
+            "results_table_votes": "Голосов",
+            "results_table_score": "Счёт",
+            "results_table_raw_score": "Предварительный счёт",
+            "edit_this_submission_button": "Редактировать отправленный проект",
+            "remove_this_submission_button": "Убрать отправленный проект",
+            "a_jam_submission": "Проект на геймджем",
+            "view_game_page": "Посмотреть страницу игры",
+            "view_project_page": "Посмотреть страницу проекта",
+            "comments": {
+                "leave_a_comment_header": "Оставить комментарий",
+                "post_comment": "Отправить комментарий",
+                "empty_message": "Никто ещё не отправлял комментарии"
+            },
+            "link_to_itchio_page": "Страница {{game_title}} на itch.io",
+            "downloads": "Загрузки",
+            "play_game": "Играть",
+            "run_project": "Запустить",
+            "score_information": "Конечный счёт формируется из промежуточного на основе медианы от оценок всех игр в геймджеме.",
+            "ranked_from_count_plural": "На основе <s>{{count}} оценок</s>.",
+            "ranked_from_count_0": "На основе <s>{{count}} оценки</s>.",
+            "ranked_from_count_1": "На основе <s>{{count}} оценок</s>.",
+            "ranked_from_count_2": "На основе <s>{{count}} оценок</s>.",
+            "results_header": "Результаты",
+            "ranked_with_vote_count_0": "{{ordinal_rank}} место с {{count}} голосом",
+            "ranked_with_vote_count_1": "{{ordinal_rank}} место с {{count}} голосами",
+            "ranked_with_vote_count_2": "{{ordinal_rank}} место с {{count}} голосами",
+            "submitted_by_contributors": "Отправлено {{contributors}}",
+            "time_remaining_before_deadline": "{{time_duration}} до окончания геймджема",
+            "rated_by_people_count_plural": "Уже оценено {{count}} людьми",
+            "rated_by_people_count_0": "Уже оценено {{count}} человеком",
+            "rated_by_people_count_1": "Уже оценено {{count}} людьми",
+            "rated_by_people_count_2": "Уже оценено {{count}} людьми",
+            "rate_submission": {
+                "vote": "Проголосовать",
+                "private_field": "(не показывается)",
+                "vote_for_this_submission": "Проголосовать за этот проект",
+                "rate_this_submission": "Оценить проект",
+                "not_open_yet": "Период подачи проектов на этот геймджем ещё не завершилась. Голосование начнётся {{start_date}}."
             }
         }
     }
