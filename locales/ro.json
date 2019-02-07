@@ -447,6 +447,6 @@
                 "you_rated_this_game": "Ai trimis un scor pentru acest joc deja"
             }
         },
-        "donate_button": "Susține proiectul"
+        "donate_button": "Susține proiectul (de tip {{noun}})"
     }
 }
