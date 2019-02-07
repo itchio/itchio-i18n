@@ -160,7 +160,8 @@
         "forms": {
             "required": "Обязательно",
             "save": "Сохранить",
-            "email_address": "Email адрес"
+            "email_address": "Email адрес",
+            "submit": "Отправить"
         },
         "page_number": "Страница {{page_number}}",
         "follow_button": {
@@ -693,6 +694,26 @@
             "use_dark_theme": "Использовать тёмную тему интерфейса там, где возможно",
             "profile": "Профиль",
             "profile_description": "Содержимое на странице вашего профиля"
+        },
+        "password": {
+            "reset_password": "Сбросить пароль",
+            "set_password": "Установить пароль",
+            "current_password": "Текущий пароль",
+            "password": "Пароль",
+            "new_password": "Новый пароль",
+            "password_again": "Пароль ещё раз",
+            "new_password_again": "Новый пароль ещё раз"
+        },
+        "email_addresses": {
+            "primary_email_header": "Основной email",
+            "your_primary_email_address": "Ваш основной email адрес: {{email}}",
+            "change_email_form": {
+                "new_email_address": "Новый email адрес",
+                "current_password": "Текущий пароль"
+            },
+            "primary_email_description": "Ваш основной email - тот, на который itch.io будет посылать уведомления.",
+            "change_password_instructions": "Когда вы изменяете ваш email адрес, вы должны его верифицировать, чтобы получить доступ к купленным играм. Вам будет отправлено письмо с инструкциями. В целях безопасности вам также придётся указать текущий пароль, чтобы изменить email адрес.",
+            "additional_emails_header": "Дополнительные email"
         }
     },
     "stripe_checkout": {
@@ -839,7 +860,8 @@
                 "browser_playable": "Браузерные"
             },
             "filter": "Фильтр",
-            "empty_results": "Нет проектов, подходящих под фильтр"
+            "empty_results": "Нет проектов, подходящих под фильтр",
+            "rated": "Оценено"
         },
         "results": {
             "results": "Результаты",
