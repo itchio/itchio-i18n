@@ -158,7 +158,8 @@
         "forms": {
             "required": "Required",
             "save": "Save",
-            "email_address": "Email Address"
+            "email_address": "Email Address",
+            "submit": "Submit"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -685,6 +686,26 @@
             "use_dark_theme": "Use a dark theme where available",
             "profile": "Profile",
             "profile_description": "The content of your profile page"
+        },
+        "password": {
+            "reset_password": "Reset password",
+            "set_password": "Set password",
+            "current_password": "Current password",
+            "password": "Password",
+            "new_password": "New password",
+            "password_again": "Password again",
+            "new_password_again": "New password again"
+        },
+        "email_addresses": {
+            "primary_email_header": "Primary email",
+            "your_primary_email_address": "Your primary email address: {{email}}",
+            "change_email_form": {
+                "new_email_address": "New email address",
+                "current_password": "Current password"
+            },
+            "primary_email_description": "Your primary email is where itch.io will send any notifications to you.",
+            "change_password_instructions": "When you change your email address you must verify it to access any games you have purchased. You will be mailed the verification instructions. For security reasons you must also provide your current password to make any changes to your email address.",
+            "additional_emails_header": "Additional emails"
         }
     },
     "stripe_checkout": {
