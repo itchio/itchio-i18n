@@ -18,8 +18,6 @@
             "search": "Hledat",
             "log_in": "Přihlásit se",
             "register": "Registrovat se",
-            "notifications_count_0": "Oznámení",
-            "notifications_count_1": "Oznámení",
             "notifications_count_2": "Oznámení: {{count}}"
         }
     }
