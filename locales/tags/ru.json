@@ -250,6 +250,15 @@
         "tower-defense": "Товер-дефенс",
         "twin-stick-shooter": "Твинстик-шутер",
         "tycoon": "Симулятор",
-        "yuri": "Юри"
+        "yuri": "Юри",
+        "beat-em-up": "Побей их всех",
+        "cozy": "Уютные",
+        "demake": "Демейк",
+        "kinetic-novel": "Кинетическая новелла",
+        "lo-fi": "Лоу-фай",
+        "mmorpg": "MMORPG",
+        "otome": "Отоме",
+        "pvp": "ПвП",
+        "score-attack": "На счёт"
     }
 }

@@ -137,5 +137,51 @@
         "design_your_games_page": "Създайте дизайна на страницата за играта си",
         "track_your_game": "Следете играта си",
         "host_a_sale": "Създайте разпродажба"
+    },
+    "game": {
+        "download_header": "Сваляне",
+        "purchase_header": "Купуване",
+        "download_access": "Натиснете „Сваляне сега“, за да получите достъп до следните файлове:",
+        "get_access": "Ще получите достъп до следните файлове:",
+        "get_access_preorder": "Ще получите достъп до следните файлове, след като те станат публично достъпни:",
+        "download_demo_header": "Сваляне на демо",
+        "available_header": "Достъпно на",
+        "also_available_header": "Достъпно също и на",
+        "will_be_available_in": "Ще стане достъпно след {{time_remaining}}.",
+        "download_now_button": "Сваляне сега",
+        "preorder_button": "Предплащане сега",
+        "buy_now_button": "Купуване сега",
+        "on_sale": "Разпродажба!",
+        "percent_off": "<s>-{{percent}}%</s>",
+        "price_or_more": "{{price}} <s>или повече</s>",
+        "devlog_view_all_posts": "Преглед на всички публикации",
+        "your_purchase_comes_with_a_steam_key": "Покупката Ви включва и ключ за Steam.",
+        "steam_key_bundle_disclaimer": "(Забележка: в {{bundle_title}} не е включен ключ за Steam)",
+        "empty_page_no_uploads": "Създателят все още не е качил нищо…",
+        "comments": {
+            "comments_header": "Коментари",
+            "click_to_leave_a_comment": "Натиснете тук, за да добавите коментар…",
+            "log_in_to_leave_comment": "<a>Влезте с профила си в itch.io</a>, за да добавите коментар."
+        },
+        "info_panel": {
+            "release_status": "Състояние",
+            "category": "Категория",
+            "platforms": "Системи",
+            "publisher": "Издател",
+            "release_date": "Дата на излизане",
+            "rating": "Оценка",
+            "authors": "Автори",
+            "author": "Автор",
+            "genre": "Жанр",
+            "made_with_tools": "Създадено с",
+            "tags": "Етикети",
+            "code_license": "Лиценз",
+            "asset_license": "Лиценз на материалите",
+            "mentions": "Споменавания"
+        },
+        "post_a_new_topic": "Публикуване на нова тема"
+    },
+    "buy_form": {
+        "gift_email_instructions": "Ще можете да изберете адрес на е-поща, на която да изпратите подаръка, след като платите"
     }
 }

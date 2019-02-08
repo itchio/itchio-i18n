@@ -158,7 +158,8 @@
         "forms": {
             "required": "Obligatori",
             "save": "Desa",
-            "email_address": "Adreça de correu electrònic"
+            "email_address": "Adreça de correu electrònic",
+            "submit": "Envia"
         },
         "page_number": "Pàgina {{page_number}}",
         "follow_button": {
@@ -685,7 +686,27 @@
             "profile": "Perfil",
             "profile_description": "El contingut de la vostra pàgina de perfil"
         },
-        "account_settings": "Configuració del compte"
+        "account_settings": "Configuració del compte",
+        "password": {
+            "reset_password": "Restableix la contrasenya",
+            "set_password": "Defineix la contrasenya",
+            "current_password": "Contrasenya actual",
+            "password": "Contrasenya",
+            "new_password": "Contrasenya nova",
+            "password_again": "Repetiu la contrasenya",
+            "new_password_again": "Repetiu la contrasenya nova"
+        },
+        "email_addresses": {
+            "primary_email_header": "Correu electrònic principal",
+            "your_primary_email_address": "La vostra adreça de correu electrònic principal: {{email}}",
+            "change_email_form": {
+                "new_email_address": "Adreça de correu electrònic nova",
+                "current_password": "Contrasenya actual"
+            },
+            "primary_email_description": "El vostre correu electrònic principal és on s'enviaran les notificacions d'itch.io.",
+            "change_password_instructions": "Quan canvieu la vostra adreça de correu electrònic, cal que la verifiqueu per a poder accedir als jocs que hàgiu comprat. Us enviarem les instruccions de verificació per correu. Per motius de seguretat, cal que també proporcioneu la contrasenya actual per a fer cap canvi a la vostra adreça de correu electrònic.",
+            "additional_emails_header": "Correus electrònics addicionals"
+        }
     },
     "stripe_checkout": {
         "payment_error": "S'ha produït un error en processar el pagament:",
