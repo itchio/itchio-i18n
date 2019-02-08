@@ -209,7 +209,14 @@
             "draft": "Draft"
         },
         "view_more": "View more",
-        "dismiss": "Dismiss"
+        "dismiss": "Dismiss",
+        "release_statuses": {
+            "released": "Released",
+            "in_development": "In development",
+            "on_hold": "On hold",
+            "canceled": "Canceled",
+            "prototype": "Prototype"
+        }
     },
     "blog": {
         "all_posts": "All posts",
@@ -1001,7 +1008,29 @@
             "custom_noun_field": "Custom noun",
             "custom_noun_field_description": "You can change how itch.io refers to your project by providing a custom noun.",
             "instructions_field": "Download & install instructions",
-            "default_noun": "Leave blank to default to: '{{default_noun}}'."
+            "default_noun": "Leave blank to default to: '{{default_noun}}'.",
+            "classification_other": "Other",
+            "types": {
+                "downloadable": "Downloadable"
+            },
+            "tip_label": "Tip",
+            "project_type_help": "You can add additional downloadable files for any of the types above",
+            "description_field_description": "This will make up the content of your game page.",
+            "instructions_field_info2": "If your game requires any libraries or programs to be installed first you should also include that information",
+            "instructions_field_info1": "This text will be shown to someone when they are downloading your game through their browser. Include any information about how to install and run what they are downloading.",
+            "community_field": "Community",
+            "community_disabled": "Disabled",
+            "community_comments": "Comments",
+            "community_discussion_board": "Discussion board",
+            "pricing_header": "Pricing",
+            "uploads_header": "Uploads",
+            "upload_files_button": "Upload files",
+            "add_external_file_button": "Add External file",
+            "file_size_limit": "File size limit: {{filesize}}. <a>Contact us</a> if you need more space",
+            "content_guidelines_header": "Make sure everyone can find your page",
+            "content_guidelines_info": "Review our <a>quality guidelines</a> before posting your project",
+            "payment_warning_header": "You don't have payment configured",
+            "payment_warning_info": "If you set a minimum price above 0 no one will be able to download your project. <a>Edit account</a>"
         }
     }
 }
