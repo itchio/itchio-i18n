@@ -204,6 +204,20 @@
             "hours": "godzin",
             "minutes": "minut",
             "seconds": "sekund"
+        },
+        "project_visibility": {
+            "restricted": "Ograniczona widoczność",
+            "published": "Opublikowane",
+            "draft": "Wersja robocza"
+        },
+        "view_more": "Pokaż więcej",
+        "dismiss": "Odrzuć",
+        "release_statuses": {
+            "released": "Wydane",
+            "in_development": "W produkcji",
+            "on_hold": "Wstrzymane",
+            "canceled": "Anulowane",
+            "prototype": "Prototyp"
         }
     },
     "blog": {
@@ -705,7 +719,14 @@
             "new_password_again": "Powtórz nowe hasło"
         },
         "email_addresses": {
-            "primary_email_header": "Główny adres e-mail"
+            "primary_email_header": "Główny adres e-mail",
+            "your_primary_email_address": "Twój główny adres e-mail: {{email}}",
+            "change_email_form": {
+                "new_email_address": "Nowy adres e-mail",
+                "current_password": "Bieżące hasło"
+            },
+            "primary_email_description": "Na twój główny e-mail itch.io będzie wysyłać powiadomienia.",
+            "additional_emails_header": "Dodatkowe adresy e-mail"
         }
     },
     "game_download": {
@@ -748,7 +769,11 @@
         "header": {
             "invoice": "Faktura",
             "more_menu": "Więcej",
-            "view_rest_in_bundle": "Pokaż resztę zestawu"
+            "view_rest_in_bundle": "Pokaż resztę zestawu",
+            "preorder_title": "Zamów w przedsprzedaży {{project_title}}",
+            "download_title": "Pobierz {{project_title}}",
+            "view_all_my_purchases": "Pokaż wszystkie moje zakupy",
+            "return_to_project": "Wróć do projektu"
         }
     },
     "stripe_checkout": {
