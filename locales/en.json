@@ -202,7 +202,14 @@
             "hours": "hours",
             "minutes": "minutes",
             "seconds": "seconds"
-        }
+        },
+        "project_visibility": {
+            "restricted": "Restricted",
+            "published": "Published",
+            "draft": "Draft"
+        },
+        "view_more": "View more",
+        "dismiss": "Dismiss"
     },
     "blog": {
         "all_posts": "All posts",
@@ -939,6 +946,62 @@
         "screenshots": {
             "empty_message": "There aren't any screenshots uploaded yet",
             "loading_more": "Loading more screenshots..."
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "Gross Revenue",
+            "payments": "Payments",
+            "views": "Views",
+            "downloads": "Downloads",
+            "followers": "Followers"
+        },
+        "follow_itchio": "Follow itch.io on {{twitter}} and {{facebook}}",
+        "page_title": "Creator Dashboard",
+        "header": {
+            "projects_link": "Projects",
+            "payments_link": "Payments",
+            "analytics_link": "Analytics",
+            "payouts_link": "Payouts",
+            "sales_bundles_link": "Sales & bundles",
+            "coop_bundles_link": "Co-op bundles",
+            "game_jams_link": "Game jams"
+        },
+        "create_new_project_button": "Create new project",
+        "project_list": {
+            "edit": "Edit",
+            "analytics": "Analytics",
+            "widget": "Widget",
+            "no_image": "No Image"
+        },
+        "analytics_summary_header": "Summary",
+        "intro_text": "Are you a developer? Upload your first game",
+        "not_a_developer_escape": "Nah, take me to the games feed",
+        "recently_updated_pages_header": "Recently updated pages",
+        "new_devlog": "New devlog",
+        "hello": "Hello!",
+        "dashboard": "Dashboard",
+        "edit_project": {
+            "create_a_new_project_title": "Create a new project",
+            "edit_project_title": "Edit project",
+            "title_field": "Title",
+            "project_url_field": "Project URL",
+            "save_and_view_button": "Save & view page",
+            "video_field": "Gameplay video or trailer",
+            "video_field_description": "Provide a link to YouTube or Vimeo.",
+            "delete_game_button": "Delete game",
+            "short_description_field": "Short description or tagline",
+            "short_description_field_description": "Shown when we link to your project. Avoid duplicating your project's title",
+            "classification_field": "Classification",
+            "classification_field_description": "What are you uploading?",
+            "kind_of_project_field": "Kind of project",
+            "release_status_field": "Release status",
+            "details_section_header": "Details",
+            "description_field": "Description",
+            "custom_noun_field": "Custom noun",
+            "custom_noun_field_description": "You can change how itch.io refers to your project by providing a custom noun.",
+            "instructions_field": "Download & install instructions",
+            "default_noun": "Leave blank to default to: '{{default_noun}}'."
         }
     }
 }
