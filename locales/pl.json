@@ -249,7 +249,7 @@
             "collection": "Musisz posiadać konto na itch.io zanim będziesz mógł dodać do kolekcji.",
             "jam_submit": "Musisz posiadać konto na itch.io zanim będziesz mógł dodać do jamu.",
             "claim_object": "Proszę się zalogować lub stworzyć konto aby odebrać {{noun}}",
-            "recent_purchases": "Zaloguj się aby powiązać swoje ostatnie zakupy."
+            "recent_purchases": "Zaloguj się, aby przypisać swoje ostatnie zakupy."
         },
         "no_account_prompt": "Nie masz konta? <1>Stwórz konto</1>",
         "page_title": "Logowanie",
@@ -726,12 +726,13 @@
                 "current_password": "Bieżące hasło"
             },
             "primary_email_description": "Na twój główny e-mail itch.io będzie wysyłać powiadomienia.",
-            "additional_emails_header": "Dodatkowe adresy e-mail"
+            "additional_emails_header": "Dodatkowe adresy e-mail",
+            "change_password_instructions": "Po zmianie adresu e-mail, musisz go zweryfikować, żeby mieć dostęp do zakupionych przez ciebie gier. Zostaną ci wysłane instrukcje do weryfikacji. Dla wymogów bezpieczeństwa, musisz również podać bieżące hasło, żeby dokonać jakichkolwiek zmian przy adresie e-mail."
         }
     },
     "game_download": {
         "purchase": {
-            "link_purchase_links": "<1>Utwórz konto</1> lub <2>zaloguj się do itch.io</2> żeby od razu powiązać ten zakup.",
+            "link_purchase_links": "<1>Utwórz konto</1> lub <2>zaloguj się do itch.io</2>, żeby od razu przypisać ten zakup.",
             "thank_you_for_purchasing": "Dziękujemy za zakup {{product_title}}.",
             "payment_summary": "Zapłacono za to {{payment_price}} w dniu {{payment_date}}.",
             "payment_summary_with_email": "Zapłacono za to {{payment_price}} w dniu {{payment_date}} używając e-maila {{email_address}}.",
@@ -743,7 +744,9 @@
             "access_latest_files_from_this_page": "Zawsze masz dostęp do najnowszych plików na tej stronie.",
             "receipt_support_information": "Powinieneś otrzymać e-mail z linkiem do tej strony. Jeśli kiedykolwiek stracisz ten URL możesz zażądać wysłania kolejnego e-maila na <a>stronie pomocy</a>.",
             "percent_off": "{{percent}}% zniżki",
-            "linked_user_message": "Ten zakup jest powiązany z kontem {{username}}."
+            "linked_user_message": "Ten zakup jest przypisany do konta {{username}}.",
+            "youve_been_gifted": "Otrzymano prezent {{product_title}}.",
+            "save_this_purchase_to_your_account": "Zapisz ten zakup na swoim koncie"
         },
         "share_and_follow": "Udostępnij i obserwuj",
         "social_share_message_download": "Właśnie pobrało mi się {{title}} od {{username}}",
@@ -773,7 +776,26 @@
             "preorder_title": "Zamów w przedsprzedaży {{project_title}}",
             "download_title": "Pobierz {{project_title}}",
             "view_all_my_purchases": "Pokaż wszystkie moje zakupy",
-            "return_to_project": "Wróć do projektu"
+            "return_to_project": "Wróć do projektu",
+            "discussion_board": "Forum dyskusyjne"
+        },
+        "linked_user_message": "Ta strona jest przypisana do konta {{username}}.",
+        "link_my_account": "Przypisz moje konto",
+        "log_in_to_link": "Zaloguj się, aby przypisać",
+        "link_account_header": "Przypisz tę stronę pobierania do twojego konta itch.io",
+        "link_account_description": "Możesz przypisać tę stronę pobierania do konta itch.io, żeby nie martwić się, że ją stracisz. Pojawi się ona na liście wraz z innymi rzeczami, które posiadasz.",
+        "must_link_account_description": "Musisz przypisać tę stronę do konta itch.io, zanim rozpoczniesz pobieranie. Konto jest darmowe i pozwoli ci kontrolować na bieżąco zbiór wszystkich twoich gier.",
+        "already_own": "Wygląda na to, że już to posiadasz",
+        "access_existing_copy": "Nie możesz otrzymać następnej kopii, ale masz dostęp do twojej już posiadanej.",
+        "get_external_key": "Uzyskaj klucz {{key_type}}",
+        "claim_external_key": "Przypisz klucz {{key_type}}",
+        "claim_external_key_instructions": "Kliknij przycisk, aby przypisać.",
+        "payment_comes_with_key": "Twoja płatność zawiera klucz {{key_type}}!",
+        "access_comes_with_key": "Twój dostęp zawiera klucz {{key_type}}!",
+        "access_it": "Otrzymaj dostęp",
+        "email_capture": {
+            "dont_lose_your_purchase": "Nie strać swojego zakupu!",
+            "provide_email_instructions": "Wprowadź swój adres e-mail, żeby go powiązać z twoim zakupem, będziesz w stanie go odzyskać jeśli kiedykolwiek stracisz tę stronę."
         }
     },
     "stripe_checkout": {
@@ -802,5 +824,31 @@
         "youll_be_mailed_your_access_link": "Otrzymasz e-mail z linkiem dostępu",
         "full_name": "Pełna nazwa",
         "name_as_it_appears_on_card": "Taka jak na karcie"
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "Prowadzone przez {{hosts}}",
+            "links": {
+                "community": "Społeczność",
+                "results": "Wyniki",
+                "submissions": "Uczestnicy",
+                "overview": "Przegląd",
+                "screenshots": "Zrzuty ekranu",
+                "submission_feed": "Kanał uczestników",
+                "edit_jam": "Edytuj jam"
+            }
+        },
+        "stats": {
+            "joined": "Dołączono",
+            "entries": "Zgłoszenia",
+            "ratings": "Oceny"
+        },
+        "submitter": {
+            "join_jam": "Weź udział w jamie",
+            "submit_button": "Zgłoś swój projekt",
+            "or_leave_jam": "lub <a>Opuść jam</a>",
+            "youve_joined": "Bierzesz udział w tym jamie.",
+            "joined_instructions": "Wróć na tę stronę po rozpoczęciu jamu, żeby zgłosić swój projekt."
+        }
     }
 }
