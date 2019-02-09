@@ -22,7 +22,7 @@
             "indie_game_store": "Магазин инди игр",
             "game_development": "Разработка игр",
             "comics": "Комиксы",
-            "sales": "Продажи",
+            "sales": "Скидки",
             "bundles": "Бандлы",
             "game_assets": "Ассеты",
             "fun_games": "Развлекательные игры",
@@ -47,7 +47,7 @@
             "settings": "Настройки",
             "view_profile": "Посмотреть профиль",
             "host_game_jam": "Провести геймджем",
-            "sales_bundles": "Продажи и бандлы",
+            "sales_bundles": "Скидки и бандлы",
             "new_project": "Загрузить новый проект",
             "dashboard": "Кабинет",
             "game_jams": "Геймджемы",
@@ -204,6 +204,20 @@
             "hours": "часов",
             "minutes": "минут",
             "seconds": "секунд"
+        },
+        "project_visibility": {
+            "restricted": "Ограниченный",
+            "published": "Публичный",
+            "draft": "Черновик"
+        },
+        "view_more": "Показать больше",
+        "dismiss": "Закрыть",
+        "release_statuses": {
+            "released": "Выпущено",
+            "in_development": "В разработке",
+            "on_hold": "Приостановлено",
+            "canceled": "Отменено",
+            "prototype": "Прототип"
         }
     },
     "blog": {
@@ -961,6 +975,84 @@
         "screenshots": {
             "empty_message": "Ещё не загружено каких-либо скриншотов",
             "loading_more": "Загружаем другие скриншоты…"
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "Валовой доход",
+            "payments": "Платежи",
+            "views": "Просмотры",
+            "downloads": "Скачивания",
+            "followers": "Подписчики"
+        },
+        "follow_itchio": "Подпишитесь на itch.io в {{twitter}} и на {{facebook}}",
+        "page_title": "Кабинет создателя",
+        "header": {
+            "projects_link": "Проекты",
+            "payments_link": "Платежи",
+            "analytics_link": "Аналитика",
+            "payouts_link": "Выплаты",
+            "sales_bundles_link": "Скидки и бандлы",
+            "coop_bundles_link": "Совместные бандлы",
+            "game_jams_link": "Геймджемы"
+        },
+        "create_new_project_button": "Создать новый проект",
+        "project_list": {
+            "edit": "Редактировать",
+            "analytics": "Аналитика",
+            "widget": "Виджет",
+            "no_image": "Нет картинки"
+        },
+        "analytics_summary_header": "Сводка",
+        "intro_text": "Вы разработчик? Загрузите свою первую игру",
+        "not_a_developer_escape": "Не, дайте мне список игр",
+        "recently_updated_pages_header": "Недавно обновлённые страницы",
+        "new_devlog": "Новый дневник",
+        "hello": "Привет!",
+        "dashboard": "Кабинет",
+        "edit_project": {
+            "create_a_new_project_title": "Создать новый проект",
+            "edit_project_title": "Редактировать проект",
+            "title_field": "Название",
+            "project_url_field": "Ссылка на проект",
+            "save_and_view_button": "Сохранить и показать страницу",
+            "video_field": "Видео геймплея или трейлер",
+            "video_field_description": "Используйте ссылку на YouTube или Vimeo.",
+            "delete_game_button": "Удалить игру",
+            "short_description_field": "Короткое описание или слоган",
+            "short_description_field_description": "Показывается вместе с ссылкой на ваш проект. Не повторяйте название проекта",
+            "classification_field": "Классификация",
+            "classification_field_description": "Что вы загружаете?",
+            "kind_of_project_field": "Тип проекта",
+            "release_status_field": "Статус релиза",
+            "details_section_header": "Подробности",
+            "description_field": "Описание",
+            "custom_noun_field": "Особое существительное",
+            "custom_noun_field_description": "Вы можете указать itch.io, как называть ваш проект, задав своё существительное.",
+            "instructions_field": "Инструкции по скачиванию и установке",
+            "default_noun": "Оставьте пустым, чтобы использовать стандартное: {{default_noun}}.",
+            "classification_other": "Прочее",
+            "types": {
+                "downloadable": "Скачиваемое"
+            },
+            "tip_label": "Совет",
+            "project_type_help": "Вы можете добавить дополнительные скачиваемые файлы для всех типов выше",
+            "description_field_description": "Это будет составлять содержимое вашей страницы игры.",
+            "instructions_field_info2": "Если ваша игра требует предварительно установленных библиотек или программ, упомяните об этом",
+            "instructions_field_info1": "Этот текст будет показан тем, кто скачивает вашу игру через браузер. Включите любую информацию о том, как установить и запустить то, что скачали.",
+            "community_field": "Сообщество",
+            "community_disabled": "Отключено",
+            "community_comments": "Комментарии",
+            "community_discussion_board": "Форум",
+            "pricing_header": "Цены",
+            "uploads_header": "Загрузки",
+            "upload_files_button": "Загрузить файлы",
+            "add_external_file_button": "Добавить внешний файл",
+            "file_size_limit": "Предел размера файла: {{filesize}}. <a>Свяжитесь с нами</a>, если вам нужно больше",
+            "content_guidelines_header": "Убедитесь, что все могут найти вашу страницу",
+            "content_guidelines_info": "Перечитайте наши <a>рекомендации по качеству</a>, перед тем как опубликовывать ваш проект",
+            "payment_warning_header": "Платежи не настроены",
+            "payment_warning_info": "Если минимальная цена установлена выше 0, никто не сможет скачать ваш проект. <a>Изменить настройки</a>"
         }
     }
 }
