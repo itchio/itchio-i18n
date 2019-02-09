@@ -26,7 +26,30 @@
             "game_development": "Desenvolvimento de Jogos",
             "comics": "Histórias em Quadrinhos",
             "sales": "Promoções",
-            "bundles": "Pacotes"
+            "bundles": "Pacotes",
+            "game_assets": "Assets",
+            "fun_games": "Jogos divertidos",
+            "games": "Jogos",
+            "feed_unseen_count": "{{count}} novo",
+            "feed_unseen_count_plural": "{{count}} novo",
+            "feed": "Feed"
+        },
+        "user_menu": {
+            "explore": "Explorar",
+            "create": "Criar",
+            "account": "Conta",
+            "log_out": "Sair",
+            "settings": "Configurações",
+            "view_profile": "Ver perfil",
+            "host_game_jam": "Host game jam",
+            "sales_bundles": "Vendas e pacotes",
+            "new_project": "Carregar novo projeto",
+            "dashboard": "Painel de controle",
+            "game_jams": "Game jams",
+            "recommendations": "Recomendações",
+            "library": "Minha biblioteca",
+            "feed": "Meu feed",
+            "account_menu_tooltip": "Menu da Conta"
         }
     }
 }
