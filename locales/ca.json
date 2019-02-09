@@ -2,7 +2,7 @@
     "layout": {
         "footer": {
             "about": "Quant a",
-            "faq": "Preguntes més freqüents",
+            "faq": "PMF",
             "blog": "Blog",
             "contact_us": "Contacte",
             "terms": "Termes",
@@ -202,6 +202,20 @@
             "hours": "hores",
             "minutes": "minuts",
             "seconds": "segons"
+        },
+        "project_visibility": {
+            "restricted": "Restringit",
+            "published": "Publicat",
+            "draft": "Esborrany"
+        },
+        "view_more": "Mostra'n més",
+        "dismiss": "Ignora",
+        "release_statuses": {
+            "released": "Llançat",
+            "in_development": "En desenvolupament",
+            "on_hold": "En espera",
+            "canceled": "Cancel·lat",
+            "prototype": "Prototipus"
         }
     },
     "blog": {
@@ -675,7 +689,7 @@
             "account_type_description": "Com fareu servir el vostre compte",
             "account_type_gamer": "Per a jugar i descarregar jocs",
             "account_type_developer": "Per a desenvolupar i penjar jocs",
-            "default_language_option": "Per defecte (definit a Anglès durant la beta dels idiomes)",
+            "default_language_option": "Per defecte (definit a anglès durant la beta dels idiomes)",
             "content": "Contingut",
             "content_description": "Com se us mostra el contingut d'itch.io",
             "show_adult_content": "Mostra contingut marcat per a adults en cercar i explorar",
@@ -939,6 +953,84 @@
         "screenshots": {
             "empty_message": "Encara no s'ha penjat cap captura de pantalla",
             "loading_more": "S'estan carregant més captures de pantalla..."
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "Ingressos bruts",
+            "payments": "Pagaments",
+            "views": "Visualitzacions",
+            "downloads": "Descàrregues",
+            "followers": "Seguidors"
+        },
+        "follow_itchio": "Seguiu itch.io a {{twitter}} i {{facebook}}",
+        "page_title": "Taules de control del creador",
+        "header": {
+            "projects_link": "Projectes",
+            "payments_link": "Pagaments",
+            "analytics_link": "Analítiques",
+            "payouts_link": "Pagaments",
+            "sales_bundles_link": "Ofertes i paquets",
+            "coop_bundles_link": "Paquets cooperatius",
+            "game_jams_link": "Game jams"
+        },
+        "create_new_project_button": "Crea un projecte nou",
+        "project_list": {
+            "edit": "Edita",
+            "analytics": "Analítiques",
+            "widget": "Widget",
+            "no_image": "Sense imatge"
+        },
+        "analytics_summary_header": "Resum",
+        "intro_text": "Sou desenvolupador? Pengeu el vostre primer joc",
+        "not_a_developer_escape": "No, porta'm al fil de jocs",
+        "recently_updated_pages_header": "Pàgines actualitzades recentment",
+        "new_devlog": "Devlog nou",
+        "hello": "Bon dia!",
+        "dashboard": "Tauler de control",
+        "edit_project": {
+            "create_a_new_project_title": "Crea un projecte nou",
+            "edit_project_title": "Edita el projecte",
+            "title_field": "Títol",
+            "project_url_field": "URL del projecte",
+            "save_and_view_button": "Desa i mostra la pàgina",
+            "video_field": "Tràiler o vídeo de com s'hi juga",
+            "video_field_description": "Proporcioneu un enllaç a YouTube o Vimeo.",
+            "delete_game_button": "Suprimeix el joc",
+            "short_description_field": "Descripció curta o eslògan",
+            "short_description_field_description": "Es mostra quan s'enllaça al vostre projecte. Eviteu duplicar-hi el títol del projecte",
+            "classification_field": "Classificació",
+            "classification_field_description": "Què pengeu?",
+            "kind_of_project_field": "Tipus de projecte",
+            "release_status_field": "Estat de llançament",
+            "details_section_header": "Detalls",
+            "description_field": "Descripció",
+            "custom_noun_field": "Substantiu personalitzat",
+            "custom_noun_field_description": "Podeu canviar com es refereix itch.io al vostre projecte proporcionant un substantiu personalitzat.",
+            "instructions_field": "Instruccions de descàrrega i instal·lació",
+            "default_noun": "Deixeu-ho en blanc perquè sigui '{{default_noun}}'.",
+            "classification_other": "Altres",
+            "types": {
+                "downloadable": "Descarregable"
+            },
+            "tip_label": "Consell",
+            "project_type_help": "Podeu afegir fitxers descarregables addicionals per a qualsevol dels tipus anteriors",
+            "description_field_description": "Això formarà part del contingut de la pàgina del vostre joc.",
+            "instructions_field_info2": "Si el vostre joc necessita que abans hi hagi instal·lat cap programa o llibreria, també hauríeu d'incloure-hi aquesta informació",
+            "instructions_field_info1": "Aquest text es mostrarà als usuaris quan descarreguin el vostre joc mitjançant el navegador. Incloeu-hi informació de com instal·lar i executar allò que descarreguen.",
+            "community_field": "Comunitat",
+            "community_disabled": "Desactivat",
+            "community_comments": "Comentaris",
+            "community_discussion_board": "Fòrums de discussió",
+            "pricing_header": "Preus",
+            "uploads_header": "Elements penjats",
+            "upload_files_button": "Penja fitxers",
+            "add_external_file_button": "Afegeix un fitxer extern",
+            "file_size_limit": "Límit de mida dels fitxers: {{filesize}}. <a>Contacteu amb nosaltres</a> si us cal més espai",
+            "content_guidelines_header": "Assegureu-vos que tothom pot trobar la vostra pàgina",
+            "content_guidelines_info": "Reviseu les nostres <a>guies de qualitat</a> abans de publicar el vostre projecte",
+            "payment_warning_header": "No heu configurat els pagaments",
+            "payment_warning_info": "Si definiu un preu mínim més gran que 0, ningú no podrà descarregar el vostre projecte. <a>Edita el compte</a>"
         }
     }
 }
