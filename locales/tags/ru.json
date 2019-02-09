@@ -259,6 +259,10 @@
         "mmorpg": "MMORPG",
         "otome": "Отоме",
         "pvp": "ПвП",
-        "score-attack": "На счёт"
+        "score-attack": "На счёт",
+        "altgame": "Альтернативная игра",
+        "feel-good": "Приятное ощущение",
+        "roguelite": "Почти рогалик",
+        "slice-of-life": "Отрывок из жизни"
     }
 }
