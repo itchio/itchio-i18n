@@ -460,6 +460,19 @@
                 "now_accepting_ratings": "Aquesta jam accepta puntuacions per a les propostes.",
                 "rating_instructions": "Puntueu i comenteu en aquesta participació a la jam tot visitant-ne la pàgina de participació de l'enllaç superior."
             }
+        },
+        "after_download": {
+            "share_this_project": "Comparteix aquest projecte",
+            "thanks_for_downloading_title": "Gràcies per descarregar-lo",
+            "thanks_project_author": "Gràcies per descarregar {{project}} de {{author}}.",
+            "more_from_creator": "Podeu trobar més elements del mateix creador a la seva pàgina: {{profile}}.",
+            "check_popup_blocker": "La descàrrega començarà en uns moments. Si no comença, comproveu si teniu blocades les finestres emergents.",
+            "check_out_more_from_jam_title": "Vegeu més coses de {{jam_title}}",
+            "view_all_from_jam": "Mostra-ho tot de la jam",
+            "more_from_itchio_header": "Vegeu més coses d'itch.io",
+            "see_everything": "Vegeu-ho tot",
+            "powered_by": "<s>Fet amb</s> {{itchio_logo}}",
+            "app_learn_more": "<s>Novetat!</s> Proveu l'aplicació d'escriptori d'itch.io per a descarregar i gestionar la vostra biblioteca. <a>Més informació</a>"
         }
     },
     "community": {
