@@ -24,7 +24,7 @@
             "free_games": "Jogos gratuitos",
             "indie_game_store": "Loja de jogos indie",
             "game_development": "Desenvolvimento de Jogos",
-            "comics": "Histórias em Quadrinhos",
+            "comics": "Histórias em quadrinhos",
             "sales": "Promoções",
             "bundles": "Pacotes",
             "game_assets": "Assets",
@@ -101,5 +101,115 @@
         "html5_games": "Jogos em HTML5",
         "page_title": "Baixe os últimos jogos indie",
         "meta_description": "itch.io é uma maneira simples de encontrar, baixar e distribuir jogos indie online. Quer seja um desenvolvedor a tentar carregar o seu jogo ou apenas alguém à procura de algo novo para jogar, o itch.io tem tudo o que você precisa."
+    },
+    "misc": {
+        "classifications": {
+            "game": "Jogos",
+            "assets": "Assets de jogo",
+            "game_mod": "Mods de jogo",
+            "physical_game": "Jogos físicos",
+            "soundtrack": "Trilhas sonoras",
+            "other": "Misc",
+            "tool": "Ferramentas",
+            "comic": "Histórias em quadrinhos",
+            "book": "Livros"
+        },
+        "accessibility_features": {
+            "colorblind": "Daltônico amigável",
+            "subtitles": "Legendas",
+            "configurable_controls": "Controles configuráveis",
+            "highcontrast": "Alto contraste",
+            "tutorial": "Tutorial interativo",
+            "one_button": "Um botão",
+            "blind": "Cego amigável",
+            "textless": "Sem texto"
+        },
+        "multiplayer_features": {
+            "local": "Multijogador local",
+            "server": "Multijogador em rede baseado em servidor",
+            "adhoc": "Multiplayer em rede ad-hoc"
+        },
+        "inputs": {
+            "keyboard": "Teclado",
+            "mouse": "Mouse",
+            "gamepad": "Gamepad (qualquer)",
+            "joystick": "Controle de video game",
+            "touchscreen": "Tela sensível ao toque",
+            "voice": "Controle de voz",
+            "accelerometer": "Acelerômetro",
+            "phone": "Smartphone",
+            "dance_pad": "Dance pad",
+            "midi_controller": "Controlador MIDI"
+        },
+        "durations": {
+            "seconds": "Alguns segundos",
+            "minutes": "Alguns minutos",
+            "half_hour": "Cerca de meia hora",
+            "hour": "Cerca de uma hora",
+            "hours": "Algumas horas",
+            "days": "Dias ou mais"
+        },
+        "forms": {
+            "required": "Requerido",
+            "save": "Salvar",
+            "email_address": "Endereço de Email",
+            "submit": "Enviar"
+        },
+        "page_number": "Página {{page_number}}",
+        "follow_button": {
+            "follow_username": "Seguir {{username}}",
+            "follow": "Seguir",
+            "following_username": "Seguindo {{username}}",
+            "following": "Seguindo",
+            "unfollow_username": "Deixar de seguir {{username}}",
+            "unfollow": "Deixar de seguir"
+        },
+        "filter_when": {
+            "last_day": "Último dia",
+            "last_7_days": "Últimos 7 dias",
+            "last_30_days": "Últimos 30 dias"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Grátis",
+            "on_sale": "Em Promoção",
+            "paid": "Pago"
+        },
+        "pager": {
+            "next_page": "Próxima página",
+            "prev": "Voltar",
+            "next": "Próxima",
+            "current_page_of_total": "Página {{current_page}} de {{total_pages}}"
+        },
+        "collection_button": {
+            "add_to_collection": "Adicionar a coleção"
+        },
+        "lightboxes": {
+            "close": "Fechar"
+        },
+        "countdown": {
+            "years": "anos",
+            "months": "meses",
+            "days": "dias",
+            "hours": "horas",
+            "minutes": "minutos",
+            "seconds": "segundos"
+        },
+        "project_visibility": {
+            "restricted": "Restrito",
+            "published": "Publicado",
+            "draft": "Rascunho"
+        },
+        "view_more": "Ver mais",
+        "dismiss": "Dispensar",
+        "release_statuses": {
+            "released": "Lançado",
+            "in_development": "Em desenvolvimento",
+            "on_hold": "Em espera",
+            "canceled": "Cancelado",
+            "prototype": "Protótipo"
+        }
     }
 }
