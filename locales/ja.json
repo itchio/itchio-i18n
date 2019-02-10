@@ -427,7 +427,7 @@
     },
     "app": {
         "open_source": "オープンソース",
-        "share_message": "インディーズゲーム用のデスクトップアプリ『itch』",
+        "share_message": "インディーズゲームのためのデスクトップアプリ『itch』",
         "tagline": "インディーズゲームをインストール、更新そして起動するためのランチャーアプリ",
         "start_download": "ダウンロード開始",
         "for_platforms": "<1>Windows</1>、 <2>macOS</2>、と <3>Linux</3>対応",
