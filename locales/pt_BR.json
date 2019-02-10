@@ -3,9 +3,9 @@
     "layout": {
         "footer": {
             "about": "Sobre",
-            "faq": "Perguntas Frequentes",
+            "faq": "FAQ",
             "blog": "Blog",
-            "contact_us": "Contatos",
+            "contact_us": "Contate-Nos",
             "terms": "Termos",
             "directory": "Diretório"
         },
@@ -24,9 +24,192 @@
             "free_games": "Jogos gratuitos",
             "indie_game_store": "Loja de jogos indie",
             "game_development": "Desenvolvimento de Jogos",
-            "comics": "Histórias em Quadrinhos",
+            "comics": "Histórias em quadrinhos",
             "sales": "Promoções",
-            "bundles": "Pacotes"
+            "bundles": "Pacotes",
+            "game_assets": "Assets",
+            "fun_games": "Jogos divertidos",
+            "games": "Jogos",
+            "feed_unseen_count": "{{count}} novo",
+            "feed_unseen_count_plural": "{{count}} novo",
+            "feed": "Feed"
+        },
+        "user_menu": {
+            "explore": "Explorar",
+            "create": "Criar",
+            "account": "Conta",
+            "log_out": "Sair",
+            "settings": "Configurações",
+            "view_profile": "Ver perfil",
+            "host_game_jam": "Host game jam",
+            "sales_bundles": "Vendas e pacotes",
+            "new_project": "Carregar novo projeto",
+            "dashboard": "Painel de controle",
+            "game_jams": "Game jams",
+            "recommendations": "Recomendações",
+            "library": "Minha biblioteca",
+            "feed": "Meu feed",
+            "account_menu_tooltip": "Menu da Conta"
+        }
+    },
+    "index": {
+        "popular_tags": "Tags Populares",
+        "browse": "Navegar",
+        "games_by_price": "Jogos por preço",
+        "download_app": "Baixar o app",
+        "view_something_random": "Ver algo aleatório",
+        "view_all_games": "Ver todos os jogos",
+        "dont_see_anything_you_like": "Não vê nada que você gosta?",
+        "from_the_blog": "Do blog",
+        "random_game": "Jogo aleatório",
+        "get_the_app": "<s>Tire o máximo proveito do itch.io!</s> Instale e gerencie seus jogos com nosso aplicativo de desktop",
+        "from_the_itchio_blog": "Do blog itch.io",
+        "view_all_blog_posts": "Ver todos atualizações",
+        "search_games_creators": "Pesquisar jogos e criadores",
+        "browse_all_tags": "Navegar por todas as tags",
+        "on_sale": "Em Promoção",
+        "free_games": "Jogos grátis",
+        "top_sellers": "Mais vendidos",
+        "with_demo": "Com demonstração",
+        "view_all": "Ver todos",
+        "recommended_for_you": "Recomendado para você",
+        "recommendations_based_on": "Com base nas coisas que você comprou, baixou e classificou",
+        "fresh_games": "Jogos Frescos",
+        "view_more": "Ver mais",
+        "featured_jams": "Destaque das jams",
+        "view_all_jams": "Ver todas as jams",
+        "fresh_games_description": "Constantemente atualizando com os últimos jogos em itch.io",
+        "people_to_follow": "Pessoas Para Seguir",
+        "view_all_games_on_sale": "Ver todos os jogos em promoção",
+        "more_featured_games": "Mais Jogos em Destaque",
+        "game_dev_on_sale": "Recursos Game Dev <1>Em Promoção</1>",
+        "view_all_on_sale": "Ver todos em promoção",
+        "people_to_follow_description": "Aqui estão algumas contas que você pode estar interessado em seguir. <a>Por que seguir?</a>",
+        "latest_featured_games": "Últimos Jogos em Destaque",
+        "filtering_platform": "Filtrando todos os jogos para {{platform_name}}",
+        "view_all_platforms": "Ver todas as plataformas",
+        "browse_content_type": "Navegar {{content_type}}",
+        "nav": {
+            "all_games": "Todos os Jogos",
+            "bundles": "Pacotes",
+            "game_jams": "Game jams",
+            "devlogs": "Devlogs",
+            "community": "Comunidade"
+        },
+        "intro": "<s>itch.io</s> é uma maneira simples de encontrar e compartilhar jogos indie online gratuitamente.",
+        "intro_cta": "<1>Adicione seu jogo</1> or <2>Leia o FAQ</2>",
+        "html5_games": "Jogos em HTML5",
+        "page_title": "Baixe os últimos jogos indie",
+        "meta_description": "itch.io é uma maneira simples de encontrar, baixar e distribuir jogos indie online. Quer seja um desenvolvedor a tentar carregar o seu jogo ou apenas alguém à procura de algo novo para jogar, o itch.io tem tudo o que você precisa."
+    },
+    "misc": {
+        "classifications": {
+            "game": "Jogos",
+            "assets": "Assets de jogo",
+            "game_mod": "Mods de jogo",
+            "physical_game": "Jogos físicos",
+            "soundtrack": "Trilhas sonoras",
+            "other": "Misc",
+            "tool": "Ferramentas",
+            "comic": "Histórias em quadrinhos",
+            "book": "Livros"
+        },
+        "accessibility_features": {
+            "colorblind": "Daltônico amigável",
+            "subtitles": "Legendas",
+            "configurable_controls": "Controles configuráveis",
+            "highcontrast": "Alto contraste",
+            "tutorial": "Tutorial interativo",
+            "one_button": "Um botão",
+            "blind": "Cego amigável",
+            "textless": "Sem texto"
+        },
+        "multiplayer_features": {
+            "local": "Multijogador local",
+            "server": "Multijogador em rede baseado em servidor",
+            "adhoc": "Multiplayer em rede ad-hoc"
+        },
+        "inputs": {
+            "keyboard": "Teclado",
+            "mouse": "Mouse",
+            "gamepad": "Gamepad (qualquer)",
+            "joystick": "Controle de video game",
+            "touchscreen": "Tela sensível ao toque",
+            "voice": "Controle de voz",
+            "accelerometer": "Acelerômetro",
+            "phone": "Smartphone",
+            "dance_pad": "Dance pad",
+            "midi_controller": "Controlador MIDI"
+        },
+        "durations": {
+            "seconds": "Alguns segundos",
+            "minutes": "Alguns minutos",
+            "half_hour": "Cerca de meia hora",
+            "hour": "Cerca de uma hora",
+            "hours": "Algumas horas",
+            "days": "Dias ou mais"
+        },
+        "forms": {
+            "required": "Requerido",
+            "save": "Salvar",
+            "email_address": "Endereço de Email",
+            "submit": "Enviar"
+        },
+        "page_number": "Página {{page_number}}",
+        "follow_button": {
+            "follow_username": "Seguir {{username}}",
+            "follow": "Seguir",
+            "following_username": "Seguindo {{username}}",
+            "following": "Seguindo",
+            "unfollow_username": "Deixar de seguir {{username}}",
+            "unfollow": "Deixar de seguir"
+        },
+        "filter_when": {
+            "last_day": "Último dia",
+            "last_7_days": "Últimos 7 dias",
+            "last_30_days": "Últimos 30 dias"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Grátis",
+            "on_sale": "Em Promoção",
+            "paid": "Pago"
+        },
+        "pager": {
+            "next_page": "Próxima página",
+            "prev": "Voltar",
+            "next": "Próxima",
+            "current_page_of_total": "Página {{current_page}} de {{total_pages}}"
+        },
+        "collection_button": {
+            "add_to_collection": "Adicionar a coleção"
+        },
+        "lightboxes": {
+            "close": "Fechar"
+        },
+        "countdown": {
+            "years": "anos",
+            "months": "meses",
+            "days": "dias",
+            "hours": "horas",
+            "minutes": "minutos",
+            "seconds": "segundos"
+        },
+        "project_visibility": {
+            "restricted": "Restrito",
+            "published": "Publicado",
+            "draft": "Rascunho"
+        },
+        "view_more": "Ver mais",
+        "dismiss": "Dispensar",
+        "release_statuses": {
+            "released": "Lançado",
+            "in_development": "Em desenvolvimento",
+            "on_hold": "Em espera",
+            "canceled": "Cancelado",
+            "prototype": "Protótipo"
         }
     }
 }
