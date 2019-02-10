@@ -460,6 +460,19 @@
                 "now_accepting_ratings": "The jam is currently accepting ratings for entries.",
                 "rating_instructions": "Rate and comment on this entry for the jam by visiting the submission page from the link above."
             }
+        },
+        "after_download": {
+            "share_this_project": "Share this project",
+            "thanks_for_downloading_title": "Thanks for downloading",
+            "thanks_project_author": "Thanks for downloading {{project}} by {{author}}.",
+            "more_from_creator": "You can find more from the same creator on their page: {{profile}}.",
+            "check_popup_blocker": "The download should start momentarily. If it doesn't, check your popup blocker.",
+            "check_out_more_from_jam_title": "Check out more from {{jam_title}}",
+            "view_all_from_jam": "View all from jam",
+            "more_from_itchio_header": "Check out more from itch.io",
+            "see_everything": "See everything",
+            "powered_by": "<s>Powered by</s> {{itchio_logo}}",
+            "app_learn_more": "<s>New!</s> Try out itch.io's desktop app to download and manage your library. <a>Learn more</a>"
         }
     },
     "community": {
