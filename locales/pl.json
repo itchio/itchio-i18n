@@ -81,7 +81,7 @@
         "with_demo": "Zawiera demo",
         "view_all": "Wyświetl wszystko",
         "recommended_for_you": "Polecane dla ciebie",
-        "recommendations_based_on": "Na podstawie zakupów, pobrań i ocen",
+        "recommendations_based_on": "Na podstawie twoich zakupów, pobrań i ocen",
         "fresh_games": "Świeże gry",
         "view_more": "Pokaż więcej",
         "featured_jams": "Polecane jamy",
@@ -541,6 +541,19 @@
                 "now_accepting_ratings": "Jam pozwala teraz oceniać zgłoszone gry.",
                 "rating_instructions": "Oceń i skomentuj to zgłoszenie do jamu poprzez stronę zgłoszenia z linku powyżej."
             }
+        },
+        "after_download": {
+            "share_this_project": "Udostępnij ten projekt",
+            "thanks_for_downloading_title": "Dziękujemy za pobranie",
+            "thanks_project_author": "Dziękujemy za pobranie {{project}} od {{author}}.",
+            "more_from_creator": "Możesz znaleźć więcej od tego samego twórcy na ich stronie: {{profile}}.",
+            "check_popup_blocker": "Pobieranie powinno się zaraz rozpocząć. Jeśli nie, sprawdź blokadę wyskakujących okien.",
+            "check_out_more_from_jam_title": "Sprawdź więcej z {{jam_title}}",
+            "view_all_from_jam": "Pokaż wszystko z jamu",
+            "more_from_itchio_header": "Sprawdź więcej z itch.io",
+            "see_everything": "Zobacz wszystko",
+            "powered_by": "<s>Obsługiwane przez</s> {{itchio_logo}}",
+            "app_learn_more": "<s>Nowość!</s> Wypróbuj naszą aplikację desktopową od itch.io, aby pobrać i zarządzać swoją biblioteką. <a>Dowiedz się więcej</a>"
         }
     },
     "buy_form": {
@@ -559,7 +572,7 @@
         "download_this_product_by_purchasing_it_for": "Pobierz ten produkt płacąc za niego {{price}} lub więcej.",
         "your_email_address": "Twój adres e-mail",
         "email_address_description": "Twoje potwierdzenie zakupu zostanie wysłane na",
-        "gift_email_instructions": "Wybierz e-mail, na który zostanie wysłany prezent po zapłaceniu",
+        "gift_email_instructions": "Wybierz e-mail, na który zostanie wysłany prezent, po zapłaceniu",
         "i_already_paid_for_this": "Już za to zapłaciłem...",
         "included_files": "Dołączone pliki",
         "agree_to_terms": "Przez dokończenie płatności wyrażasz zgodę na <1>Regulamin</1> oraz <2>Politykę prywatności</2> itch.io.",
