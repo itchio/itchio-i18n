@@ -27,6 +27,7 @@
             "bundles": "Bündel",
             "games": "Spiele",
             "feed_unseen_count": "{{count}} neu",
+            "feed_unseen_count_plural": "{{count}} neue",
             "community": "Community",
             "search_placeholder": "Nach Spielen oder Autoren suchen",
             "dashboard": "Übersicht",
