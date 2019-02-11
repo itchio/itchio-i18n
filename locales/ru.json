@@ -464,6 +464,15 @@
                 "now_accepting_ratings": "Геймджем сейчас собирает оценки проектов.",
                 "rating_instructions": "Оцените этот проект и оставьте комментарий, перейдя по ссылке выше на страницу в геймджеме."
             }
+        },
+        "after_download": {
+            "share_this_project": "Поделиться этим проектом",
+            "thanks_for_downloading_title": "Спасибо за скачивание",
+            "thanks_project_author": "Спасибо за скачивание {{project}} от {{author}}.",
+            "more_from_creator": "Вы можете найти другие проекты от этого же создателя на его странице: {{profile}}.",
+            "check_popup_blocker": "Скачивание сейчас начнётся. Если не начинается, проверьте, не заблокированы ли всплывающие окна.",
+            "check_out_more_from_jam_title": "Оцените другие проекты {{jam_title}}",
+            "view_all_from_jam": "Показать всё из геймджема"
         }
     },
     "community": {
