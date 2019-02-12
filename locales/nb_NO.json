@@ -1,1 +1,45 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Om",
+            "blog": "Blogg",
+            "contact_us": "Kontakt oss",
+            "privacy": "Personvern",
+            "cookies": "Informasjonskapsler"
+        },
+        "header": {
+            "upload_game": "Last opp spill",
+            "search_placeholder": "Søk etter spill eller skapere",
+            "search": "Søk",
+            "log_in": "Logg inn",
+            "register": "Opprett konto",
+            "notifications_count": "{{count}} varsel",
+            "notifications_count_plural": "{{count}} varsler",
+            "no_notifications": "Ingen nye varsler",
+            "free_games": "Gratis spill",
+            "indie_game_store": "Indie-spillbutikk",
+            "game_development": "Spillutvikling",
+            "comics": "Tegneserier",
+            "sales": "Salg",
+            "fun_games": "Morsomme spill",
+            "games": "Spill",
+            "feed_unseen_count": "{{count}} ny",
+            "feed_unseen_count_plural": "{{count}} nye"
+        },
+        "user_menu": {
+            "explore": "Utforsk",
+            "log_out": "Logg ut",
+            "settings": "Innstillinger",
+            "view_profile": "Vis profil",
+            "new_project": "Last opp nytt prosjekt",
+            "recommendations": "Anbefalinger",
+            "library": "Mitt bibliotek",
+            "account_menu_tooltip": "Kontomeny"
+        }
+    },
+    "index": {
+        "games_by_price": "Spill etter pris",
+        "download_app": "Last ned app"
+    }
+}
