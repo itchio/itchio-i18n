@@ -25,7 +25,11 @@
             "fun_games": "Morsomme spill",
             "games": "Spill",
             "feed_unseen_count": "{{count}} ny",
-            "feed_unseen_count_plural": "{{count}} nye"
+            "feed_unseen_count_plural": "{{count}} nye",
+            "devlogs": "Utviklingslogger",
+            "community": "Fellesskap",
+            "dashboard": "Kontrollpanel",
+            "game_assets": "Ressurser"
         },
         "user_menu": {
             "explore": "Utforsk",
@@ -35,11 +39,234 @@
             "new_project": "Last opp nytt prosjekt",
             "recommendations": "Anbefalinger",
             "library": "Mitt bibliotek",
-            "account_menu_tooltip": "Kontomeny"
+            "account_menu_tooltip": "Kontomeny",
+            "create": "Opprett",
+            "account": "Konto",
+            "dashboard": "Kontrollpanel"
         }
     },
     "index": {
         "games_by_price": "Spill etter pris",
-        "download_app": "Last ned app"
+        "download_app": "Last ned app",
+        "view_all_games": "Vis alle spill",
+        "page_title": "Last ned de siste indie-spillene",
+        "meta_description": "itch.io er en enkel måte å finne, laste ned, og distribuere indie-spill på online. Uansett om du er en utvikler som vil laste opp et spill eller bare en som leter etter noe nytt å spille, er itch.io noe for deg."
+    },
+    "misc": {
+        "classifications": {
+            "game": "Spill",
+            "assets": "Spillressurser",
+            "physical_game": "Fysiske spill",
+            "soundtrack": "Lydspor",
+            "other": "Diverse",
+            "tool": "Verktøy",
+            "comic": "Tegneserier",
+            "book": "Bøker"
+        },
+        "accessibility_features": {
+            "colorblind": "Passer for fargeblinde",
+            "subtitles": "Undertekster",
+            "configurable_controls": "Konfigurerbare kontroller",
+            "highcontrast": "Høy kontrast",
+            "tutorial": "Interaktiv veiledning",
+            "one_button": "En knapp",
+            "blind": "Passer for blinde",
+            "textless": "Uten tekst"
+        },
+        "multiplayer_features": {
+            "local": "Lokal flerspillermodus",
+            "server": "Server-basert nettverks-flerspiller",
+            "adhoc": "Ad-hoc-basert nettverks-flerspiller"
+        },
+        "inputs": {
+            "keyboard": "Tastatur",
+            "mouse": "Mus",
+            "gamepad": "Kontroller (alle)",
+            "joystick": "Joystick",
+            "touchscreen": "Berøringsskjerm",
+            "voice": "Stemmestyring",
+            "accelerometer": "Akselerometer",
+            "phone": "Smarttelefon",
+            "dance_pad": "Dansematte",
+            "midi_controller": "MIDI-kontroller"
+        },
+        "durations": {
+            "seconds": "Noen få sekunder",
+            "minutes": "Noen få minutter",
+            "half_hour": "Omtrent en halvtime",
+            "hour": "Omtrent en time",
+            "hours": "Noen få timer",
+            "days": "Dager eller mer"
+        },
+        "forms": {
+            "required": "Påkrevd",
+            "save": "Lagre",
+            "email_address": "Epost-adresse",
+            "submit": "Send inn"
+        },
+        "page_number": "Side {{page_number}}",
+        "follow_button": {
+            "follow_username": "Følg {{username}}",
+            "follow": "Følg",
+            "following_username": "Følger {{username}}",
+            "following": "Følger",
+            "unfollow_username": "Avfølg {{username}}",
+            "unfollow": "Avfølg"
+        },
+        "filter_when": {
+            "last_day": "Siste dag",
+            "last_7_days": "Siste 7 dager",
+            "last_30_days": "Siste 30 dager"
+        },
+        "platforms": {
+            "web": "Nett"
+        },
+        "filter_price": {
+            "free": "Gratis",
+            "on_sale": "På tilbud",
+            "paid": "Betalt"
+        },
+        "pager": {
+            "next_page": "Neste side",
+            "prev": "Forrige",
+            "next": "Neste",
+            "current_page_of_total": "Side {{current_page}} av {{total_pages}}"
+        },
+        "collection_button": {
+            "add_to_collection": "Legg til i samling"
+        },
+        "lightboxes": {
+            "close": "Lukk"
+        },
+        "countdown": {
+            "years": "år",
+            "months": "måneder",
+            "days": "dager",
+            "hours": "timer",
+            "minutes": "minutter",
+            "seconds": "sekunder"
+        },
+        "project_visibility": {
+            "restricted": "Begrenset",
+            "published": "Publisert",
+            "draft": "Utkast"
+        },
+        "view_more": "Vis mer",
+        "dismiss": "Avvis",
+        "release_statuses": {
+            "released": "Utgitt",
+            "in_development": "Under utvikling",
+            "on_hold": "På vent",
+            "canceled": "Kansellert",
+            "prototype": "Prototype"
+        }
+    },
+    "blog": {
+        "all_posts": "Alle innlegg",
+        "updates": "Oppdateringer",
+        "empty_message": "Det ser ikke ut til å være noen innlegg her"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Logg inn på din itch.io-konto",
+        "login_form": {
+            "username_or_email": "Brukernavn eller epost",
+            "password": "Passord",
+            "forgot_password": "Glemt passord",
+            "create_account": "Opprett konto",
+            "or_log_in_with_another_site": "Eller logg inn med en annen side",
+            "or": "eller",
+            "log_in_button": "Logg inn"
+        },
+        "looking_for_something_you_bought": "Ser du etter noe du har kjøpt?",
+        "create_a_new_account": "Opprett en ny konto",
+        "intent": {
+            "community": "Du må logge inn for å delta i fellesskap på itch.io. Å opprette en konto er gratis og tar bare noen få øyeblikk.",
+            "comment": "Du trenger en konto på itch.io før du kan legge igjen en kommentar.",
+            "rate_game": "Du trenger en konto på itch.io før du kan vurdere et spill.",
+            "follow": "Du trenger en konto på itch.io før du kan følge noen.",
+            "follow_username": "Du trenger en konto på itch.io før du kan følge <1>{{username}}</1>.",
+            "collection": "Du trenger en konto på itch.io før du kan legge til i en samling.",
+            "claim_object": "Vennligst logg inn eller opprett en konto for å gjøre krav på gjenstanden av typen {{noun}}",
+            "recent_purchases": "Logg inn for å knytte sammen nylige kjøp."
+        },
+        "no_account_prompt": "Har du ikke en konto? <1>Opprett en konto</>",
+        "page_title": "Logg inn",
+        "you_are_logged_out": "Du er logget ut",
+        "welcome_back": "Velkommen tilbake!",
+        "welcome_to_itchio": "Velkommen til itch.io",
+        "errors": {
+            "accept_terms": "Du må akseptere Bruksvilkårene"
+        }
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Opprett en konto på itch.io",
+        "register_form": {
+            "create_account": "Opprett en konto",
+            "already_have_account": "eller har du allerede en konto?",
+            "log_in": "Logg inn",
+            "link_product": "Ditt kjøp av <1>{{product}}</1> vil automatisk knyttes til din konto etter at du har registrert deg.",
+            "accept_tos": "Jeg godtar <1>Bruksvilkårene</1>",
+            "digest_signup": "Meld meg på itch.io-nyhetsbrevet, som sendes hver andre måned",
+            "interest_gamer": "Jeg er interessert i å spille eller laste ned spill på itch.io",
+            "interest_developer": "Jeg er interessert i å distribuere innhold på itch.io",
+            "account_preferences_info": "Du kan endre ditt svar på disse spørsmålene senere, de brukes av itch.io for å bestemme hvordan siden ser ut for deg.",
+            "about_you": "Om deg",
+            "your_email_address": "Din epost-adresse",
+            "password": "Passord",
+            "repeat_password": "Gjenta passord",
+            "url_preview": "Profilsiden din vil være",
+            "username": "Brukernavn",
+            "other_registration_methods": "Andre registreringsmetoder"
+        },
+        "page_title": "Opprett konto"
+    },
+    "developers": {
+        "page_header": "Opprett en tilpasset side for å distribuere eller selge dine indie-spill",
+        "product_summary1": "<s>itch.io</s> er en enkel og gratis måte å distribuere dine indie-spill online på. Last opp dine spillfiler og skjermbilder på ett sted. Lag din egen tilpassede forside hvor ditt spill er i fokus.",
+        "product_summary2": "Du kan til og med sette en minimumspris for spillet, som lar dine fans velge selv hvor mye de ønsker å betale.",
+        "my_dashboard": "Mitt kontrollpanel",
+        "upload_a_new_game": "Last opp et nytt spill",
+        "account_faq_cta": "<1>Opprett en konto nå</1> eller <2>les FAQ-en</2>",
+        "upload_your_indie_game": "Last opp ditt indie-spill",
+        "design_your_games_page": "Design spillets tilpassede side",
+        "host_a_sale": "Start et salg",
+        "host_a_sale_description": "Promoter dine spill og selg mer ved å tilby spillene dine til en lavere pris i en tilbudsperiode.",
+        "learn_more": "Lær mer",
+        "browser_game_description": "Tjen penger på ditt nettleserspill ved å laste det opp på <s>itch.io</s>. Spillet ditt er bygget inn i nettleseren og spillere kan donene en valgfri sum hvis de liker spillet ditt.",
+        "upload_your_game_description": "Last opp ditt indie-spill til <s>itch.io</s> helt gratis. Vi er vert for spillet, spillets skjermbilder og andre nedlastninger. Dine nedlastninger er alltid tilgjengelig og alltid raske.",
+        "learn_more_about": "Lær mer om:",
+        "share_message": "itch.io er en enkel og gratis måte å distribuere indie-spill på online.",
+        "create_account_or_login": "<1>Opprett en konto</1> <em>eller</em> <2>Logg inn</2>",
+        "upload_or_dashboard": "<1>Last opp et nytt spill</1> <em>eller</em> <2>Gå til kontrollpanelet</2>"
+    },
+    "search": {
+        "creators": "Skapere:",
+        "published_count": "{{count}} prosjekt",
+        "published_count_plural": "{{count}} prosjekter",
+        "browse_all_games": "Vis alle spill",
+        "search_results_for_query": "Søkeresultater for '{{query}}'"
+    },
+    "app": {
+        "open_source": "Åpen kildekode",
+        "share_message": "itch, skrivebordsappen for indie-spill",
+        "tagline": "Installer, oppdater og spill indie-spill",
+        "start_download": "Start nedlastning",
+        "for_platforms": "For <1>Windows</1>, <2>macOS</2> og <3>Linux</3>",
+        "summary": "Itch.io-appen <s>itch</s> lar deg raskt laste ned og kjøre spill og programvare fra itch.io. Alle dine nedlastninger lagres på samme sted, og holdes automatisk oppdatert. Få tilgang til dine samlinger og kjøp, eller finn nye spill gjennom nettleseren i appen.",
+        "more_info_links": "<1>Les mer i FAQ-en</1> eller <2>Les app-guiden</2>",
+        "learn_more_below": "Se mer lenger ned",
+        "contribute_link": "Vil du bidra? <a>Se kildekoden på GitHub</a>",
+        "updates": "Oppdateringer",
+        "read_the_app_guide": "Les app-guiden",
+        "browse_header": "Bla gjennom spill slik skaperen selv ønsker",
+        "browse_description": "På itch.io kan skapere selv bestemme hvordan prosjektsidene skal se ut. Den innebyggede nettleseren lar deg laste ned og installere spill mens du utforsker <a>våre skaperes unike sidedesign</a>.",
+        "updates_header": "Alltid oppdatert",
+        "updates_description": "Ikke nok med at installerte spill oppdateres automatisk, appen i seg selv vil også automatisk transformeres etter hvert som vi lanserer ny funksjonalitet. Spill som bruker våre kommandolinjeverktøy vil generere <em>delta patches</em>, som gjør at du kun trenger å laste ned det som er forandret når nye spill kommer ut.",
+        "web_games_header": "Nettleserspill uten nett",
+        "web_games_description": "Du kan synkronisere nettleserbaserte spill rett fra appen, som lar deg spille dem når som helst, selv uten nett. Med en gang du er tilbake på nett vil du kunne hente eventuelle oppdateringer.",
+        "languages_header": "Tilgjengelig på ditt språk",
+        "languages_description": "Itch-appen er tilgjengelig på over 20 språk, takket være itch.io-fellesskapet. <a>Lær mer om oversetting</a>",
+        "download_now": "Last ned nå",
+        "community_header": "Bli med i fellesskapet"
     }
 }
