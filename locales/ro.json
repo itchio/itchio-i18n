@@ -160,7 +160,8 @@
         "forms": {
             "required": "Necesar",
             "save": "Salvează",
-            "email_address": "Adresă de e-mail"
+            "email_address": "Adresă de e-mail",
+            "submit": "Trimite"
         },
         "page_number": "Pagina {{page_number}}",
         "follow_button": {
@@ -203,6 +204,19 @@
             "hours": "ore",
             "minutes": "minute",
             "seconds": "secunde"
+        },
+        "project_visibility": {
+            "restricted": "Restricționat",
+            "published": "Publicat",
+            "draft": "Ciorne"
+        },
+        "view_more": "Vezi mai multe",
+        "dismiss": "Închide",
+        "release_statuses": {
+            "released": "Publicat",
+            "in_development": "În lucru",
+            "canceled": "Anulat",
+            "prototype": "Prototip"
         }
     },
     "blog": {
@@ -444,9 +458,23 @@
                 "this_is_a_submission_to_jam_title": "Încărcat pentru {{jam_title}}",
                 "view_the_submission_page": "Vezi pagina de concurs a jocului",
                 "accepting_ratiings": "Concursul permite trimiterea recenziilor pentru jocuri acum. <a>Află mai multe</a>",
-                "you_rated_this_game": "Ai trimis un scor pentru acest joc deja"
+                "you_rated_this_game": "Ai trimis un scor pentru acest joc deja",
+                "now_accepting_ratings": "Concursul acceptă momentan recenzii pentru proiecte.",
+                "rating_instructions": "Dă o notă și lasă un comentariu la acest proiect pentru concurs vizitând pagina de la linkul de mai sus."
             }
         },
-        "donate_button": "Susține proiectul (de tip {{noun}})"
+        "donate_button": "Susține proiectul (de tip {{noun}})",
+        "after_download": {
+            "share_this_project": "Distribuie acest proiect",
+            "thanks_for_downloading_title": "Îți mulțumim că ai descărcat acest proiect",
+            "thanks_project_author": "Îți mulțumim că ai descărcat {{project}}, de {{author}}.",
+            "more_from_creator": "Poți găsi mai multe proiecte de la același autor pe pagina acestuia: {{profile}}.",
+            "check_popup_blocker": "Descărcarea ar trebui să înceapă în curând. Dacă nu, verifică dacă ai popup-urile blocate.",
+            "check_out_more_from_jam_title": "Vezi mai multe de la {{jam_title}}",
+            "view_all_from_jam": "Vezi tot de la concurs",
+            "more_from_itchio_header": "Vezi mai multe de pe itch.io",
+            "see_everything": "Vezi tot",
+            "powered_by": "<s>Cu sprijinul</s> {{itchio_logo}}"
+        }
     }
 }
