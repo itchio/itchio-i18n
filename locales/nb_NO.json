@@ -189,7 +189,7 @@
             "claim_object": "Vennligst logg inn eller opprett en konto for å gjøre krav på gjenstanden av typen {{noun}}",
             "recent_purchases": "Logg inn for å knytte sammen nylige kjøp."
         },
-        "no_account_prompt": "Har du ikke en konto? <1>Opprett en konto</>",
+        "no_account_prompt": "Har du ikke en konto? <1>Opprett en konto</1>",
         "page_title": "Logg inn",
         "you_are_logged_out": "Du er logget ut",
         "welcome_back": "Velkommen tilbake!",
