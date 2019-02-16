@@ -20,7 +20,7 @@
             "log_in": "ログイン",
             "register": "登録",
             "dashboard": "ダッシュボード",
-            "no_notifications": "新着通知なし",
+            "no_notifications": "通知なし",
             "game_jams": "ゲームジャム",
             "notifications_count": "{{count}}件の通知",
             "free_games": "無料ゲーム",
@@ -79,7 +79,7 @@
         "view_all_on_sale": "セール中のものをすべて見る",
         "on_sale": "セール中",
         "top_sellers": "売上トップ",
-        "recommendations_based_on": "購入、ダウンロード、または評価した作品を基準にしておすすめします",
+        "recommendations_based_on": "購入、ダウンロード、または評価した作品に基づいておすすめします",
         "view_more": "もっと見る",
         "view_all_jams": "ゲームジャムをすべて見る",
         "featured_jams": "注目のゲームジャム",
@@ -99,7 +99,7 @@
         "game_dev_on_sale": "<1>セール中</1>のゲーム開発素材",
         "latest_featured_games": "最新の注目タイトル",
         "view_all_platforms": "すべてのプラットフォームを表示",
-        "browse_content_type": " {{content_type}}を探す",
+        "browse_content_type": "{{content_type}}を探す",
         "intro": "<s>itch.io</s>ではオンライン上のインディーズゲームの発見と配信が無料で簡単に行えます。",
         "intro_cta": "<1>ゲームを登録する</1> または <2>FAQを読む</2>",
         "html5_games": "HTML5ゲーム",
@@ -124,7 +124,9 @@
             "highcontrast": "ハイコントラスト",
             "tutorial": "インタラクティブチュートリアル",
             "one_button": "ワンボタン",
-            "blind": "目が不自由でも楽しめる"
+            "blind": "目が不自由でも楽しめる",
+            "colorblind": "色覚異常に配慮",
+            "configurable_controls": "キーコンフィグあり"
         },
         "inputs": {
             "keyboard": "キーボード",
@@ -203,6 +205,15 @@
             "restricted": "限定公開",
             "published": "公開済み",
             "draft": "ドラフト"
+        },
+        "view_more": "もっと見る",
+        "dismiss": "破棄",
+        "release_statuses": {
+            "released": "公開済み",
+            "in_development": "開発中",
+            "on_hold": "開発一時中止",
+            "canceled": "開発中止",
+            "prototype": "プロトタイプ"
         }
     },
     "developers": {
@@ -222,7 +233,8 @@
         "browser_game_description": "ブラウザゲームを<s>itch.io</s>で公開して収益化しましょう。ゲームはitch.ioページからすぐにプレイできて、作品を愛好しているユーザーは好きな金額で支援できます。",
         "upload_your_game_description": "作品を無料で<s>itch.io</s>で配信しましょう。 スクリーンショットと他のダウンロードデータはitch.ioサーバーにて保管されます。作品へのダウンロードはは常時、高速で行えます。",
         "account_faq_cta": "<1>今すぐアカウントを作る</1> または <2>FAQを読む</2>",
-        "create_account_or_login": "<1>アカウントを作成する</1><em>または</em><2>ログイン</2>"
+        "create_account_or_login": "<1>アカウントを作成する</1><em>または</em><2>ログイン</2>",
+        "track_your_game": "作品のトラッキング"
     },
     "user_register": {
         "register_form": {
@@ -262,7 +274,8 @@
             "follow": "誰かをフォローするにはまずitch.ioアカウントが必要です。",
             "follow_username": "<1>{{username}}</1>をフォローするにはまずitch.ioアカウントが必要です。",
             "collection": "コレクションに追加するにはまずitch.ioアカウントが必要です。",
-            "claim_object": "{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください。"
+            "claim_object": "{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください",
+            "recent_purchases": "購入した商品をアカウントにリンクするにはまずログインして下さい。"
         },
         "welcome_back": "お帰りなさいませ！",
         "welcome_to_itchio": "itch.ioへようこそ！",
@@ -326,7 +339,7 @@
         "your_purchase_comes_with_a_steam_key": "こちらの商品にSteamキーがついております。",
         "info_panel": {
             "platforms": "対応OS",
-            "inputs": "操作",
+            "inputs": "操作方法",
             "updated_at": "最終更新",
             "published_at": "公開日",
             "release_status": "制作状況",
@@ -342,11 +355,12 @@
             "code_license": "ライセンス",
             "asset_license": "素材ライセンス",
             "average_session_duration": "平均プレイ時間",
-            "languages": "言語",
+            "languages": "対応言語",
             "multiplayer": "マルチプレイヤー",
             "player_count": "プレイヤー数",
             "singleplayer": "シングルプレイヤー",
-            "links": "リンク集"
+            "links": "リンク集",
+            "accessibility": "対応機能"
         },
         "empty_page": "ここには何もないようですね……",
         "more_information": "作品情報",
@@ -515,7 +529,8 @@
         "filter_group_collection": "コレクション",
         "filter_group_tools": "ツール＆エンジン",
         "filter_everything_else": "その他",
-        "related_collections": "類似するコレクション"
+        "related_collections": "類似するコレクション",
+        "filter_group_accessibility_features": "対応機能"
     },
     "stripe_checkout": {
         "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます"
@@ -552,7 +567,11 @@
         "header": {
             "projects_link": "プロジェクト",
             "payments_link": "売上",
-            "payouts_link": "入金"
+            "payouts_link": "売上の振込",
+            "analytics_link": "アナリティクス",
+            "sales_bundles_link": "セール＆バンドル",
+            "coop_bundles_link": "共同バンドル",
+            "game_jams_link": "ゲームジャム"
         },
         "create_new_project_button": "新しいプロジェクトを作成",
         "project_list": {
@@ -587,6 +606,13 @@
             "content_guidelines_info": "プロジェクトを投稿する前に<a>品質ガイド</a>をご確認ください",
             "payment_warning_header": "お支払い方法がまだ設定されていません",
             "payment_warning_info": "最低価格を０よりも上に設定した場合、誰もこのプロジェクトをダウンロードできなくなります。<a>アカウントを編集</a>"
-        }
+        },
+        "analytics_summary_header": "概要",
+        "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
+        "not_a_developer_escape": "結構。ゲームフィードに移動",
+        "recently_updated_pages_header": "最後に更新されたページ",
+        "new_devlog": "新しい開発ブログ",
+        "hello": "こんにちは！",
+        "dashboard": "ダッシュボード"
     }
 }
