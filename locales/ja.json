@@ -79,7 +79,7 @@
         "view_all_on_sale": "セール中のものをすべて見る",
         "on_sale": "セール中",
         "top_sellers": "売上トップ",
-        "recommendations_based_on": "購入、ダウンロード、または評価した作品を基準にしました",
+        "recommendations_based_on": "購入、ダウンロード、または評価した作品を基準にしておすすめします",
         "view_more": "もっと見る",
         "view_all_jams": "ゲームジャムをすべて見る",
         "featured_jams": "注目のゲームジャム",
@@ -181,7 +181,8 @@
         "forms": {
             "required": "必須",
             "save": "保存",
-            "email_address": "メールアドレス"
+            "email_address": "メールアドレス",
+            "submit": "送信"
         },
         "page_number": "{{page_number}}ページ目",
         "collection_button": {
@@ -197,6 +198,11 @@
             "hours": "時間",
             "minutes": "分",
             "seconds": "秒"
+        },
+        "project_visibility": {
+            "restricted": "限定公開",
+            "published": "公開済み",
+            "draft": "ドラフト"
         }
     },
     "developers": {
@@ -275,7 +281,7 @@
         "create_a_new_account": "新しいアカウントを作成する",
         "log_in_to_your_itchio_account": "itch.ioアカウントにログイン",
         "looking_for_something_you_bought": "以前に購入したものをお探しですか？",
-        "no_account_prompt": "アカウントを持っていませんか？<1>アカウントを作成しましょう</1>。",
+        "no_account_prompt": "アカウントを持っていませんか？<1>アカウントを作成しましょう</1>",
         "page_title": "ログイン",
         "you_are_logged_out": "ログアウトしました"
     },
@@ -351,7 +357,7 @@
         "get_access": "こちらのファイルにアクセスできるようになります：",
         "get_access_preorder": "公開されたらこちらのファイルにアクセスできるようになります：",
         "download_demo_header": "体験版をダウンロード",
-        "will_be_available_in": "公開までのカウントダウン：{{time_remaining}}",
+        "will_be_available_in": "公開までのカウントダウン：{{time_remaining}}。",
         "download_or_claim_button": "ダウンロードまたは要求",
         "empty_page_no_uploads": "このクリエイターはまだ何もアップロードしていません……",
         "community_header": "コミュニティ",
@@ -368,7 +374,10 @@
             "this_file_will_be_available_when_the_creator_uploads_it": "こちらのファイルは、クリエイターがアプロードしたら表示されます",
             "empty_message": "ダウンロードできるものはまだありません。"
         },
-        "unavailable": "この{{game_noun}}は現在ご利用いただけません"
+        "unavailable": "この{{game_noun}}は現在ご利用いただけません",
+        "after_download": {
+            "share_this_project": "プロジェクトをシェアする"
+        }
     },
     "blog": {
         "all_posts": "すべての投稿",
@@ -385,7 +394,7 @@
             "percent_off": "{{percent}}％オフ",
             "link_purchase_links": "ご購入の商品をアカウントにリンクするにはまず<1>アカウントを作成</1>または<2>itch.ioにログイン</2>しましょう。",
             "thank_you_for_donating": "『{{product_title}}』へのご支援をありがとうございます。",
-            "thank_you_for_donating_author": "  {{author}}の作品『{{product_title}}』にご支援いただき、ありがとうございます。",
+            "thank_you_for_donating_author": "{{author}}の作品『{{product_title}}』にご支援いただき、ありがとうございます。",
             "youve_been_gifted": "『{{product_title}}』が贈られました。",
             "link_purchase_warning": "ご購入の商品をなくさないようにしてください！",
             "payment_summary_with_email": "{{email_address}}のメールアドレスで {{payment_date}}に {{payment_price}} を支払いました。",
@@ -484,7 +493,7 @@
         "email_address_description": "こちらにお支払いの確認が送信されます",
         "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます",
         "i_already_paid_for_this": "すでに支払いが完了しました……",
-        "support_message": "こちらの作品の開発費を支援しましょう",
+        "support_message": "こちらの作品の開発を支援しましょう",
         "this_purchase_is_a_gift": "ご購入の商品はギフト扱いになります",
         "support_the_creator_by_paying_above_the_minimum_price": "最低価格を上乗せしてクリエイターを支援する",
         "pay_with": "支払い方法",
@@ -516,5 +525,67 @@
     },
     "buy_form_popup": {
         "powered_by_itchio": "提供：{{itchio}}"
+    },
+    "user_settings": {
+        "profile": {
+            "language_description": "itch.ioの表示言語",
+            "page_header": "プロフィール",
+            "username_description": "アカウントへのログインおよびプロフィールページのURLに使用されます",
+            "change_username": "ユーザー名/URLを変更",
+            "url_description": "プロフィールの公開URL",
+            "profile_image": "プロフィール画像",
+            "profile_image_description": "あなたがこのウェブサイト上で行動を起こしたとき、名前の横に表示されます。（正方形にトリミングされます）",
+            "display_name_description": "ユーザー名の代わりに表示される名前。空欄の際はユーザー名が表示されます"
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "売上総額",
+            "payments": "購入回数",
+            "views": "アクセス数",
+            "downloads": "ダウンロード数",
+            "followers": "フォロワー"
+        },
+        "follow_itchio": "itch.ioを{{twitter}}と{{facebook}}でフォローする",
+        "page_title": "クリエイターダッシュボード",
+        "header": {
+            "projects_link": "プロジェクト",
+            "payments_link": "売上",
+            "payouts_link": "入金"
+        },
+        "create_new_project_button": "新しいプロジェクトを作成",
+        "project_list": {
+            "edit": "編集",
+            "analytics": "アナリティクス",
+            "widget": "ウィジェット",
+            "no_image": "画像なし"
+        },
+        "edit_project": {
+            "create_a_new_project_title": "新しいプロジェクトを作成",
+            "edit_project_title": "プロジェクトを編集",
+            "title_field": "タイトル",
+            "project_url_field": "プロジェクトURL",
+            "save_and_view_button": "保存してページを表示",
+            "video_field": "ゲームプレイ動画またはトレーラー",
+            "video_field_description": "YouTubeまたはVimeoのリンクを入力してください。",
+            "delete_game_button": "ゲームを削除",
+            "kind_of_project_field": "プロジェクトの種類",
+            "release_status_field": "リリース状況",
+            "details_section_header": "詳細",
+            "description_field": "説明",
+            "instructions_field": "ダウンロードとインストール指示",
+            "classification_other": "その他",
+            "community_comments": "コメント",
+            "community_discussion_board": "ディスカッション",
+            "pricing_header": "価格設定",
+            "uploads_header": "アップロード",
+            "upload_files_button": "ファイルをアップロード",
+            "add_external_file_button": "外部ファイルを追加",
+            "file_size_limit": "容量制限は{{filesize}}。それ以上必要な場合は<a>連絡してください</a>",
+            "content_guidelines_header": "ページが誰にも見つけられるようにしましょう",
+            "content_guidelines_info": "プロジェクトを投稿する前に<a>品質ガイド</a>をご確認ください",
+            "payment_warning_header": "お支払い方法がまだ設定されていません",
+            "payment_warning_info": "最低価格を０よりも上に設定した場合、誰もこのプロジェクトをダウンロードできなくなります。<a>アカウントを編集</a>"
+        }
     }
 }
