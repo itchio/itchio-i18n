@@ -412,7 +412,8 @@
             "preorder_title": "{{project_title}}を予約",
             "download_title": "{{project_title}}をダウンロード",
             "view_all_my_purchases": "すべての購入を表示",
-            "discussion_board": "ディスカッションボード"
+            "discussion_board": "ディスカッションボード",
+            "return_to_project": "プロジェクトに戻る"
         },
         "link_my_account": "アカウントをリンクする",
         "link_account_header": "このダウンロードページをitch.ioアカウントにリンクさせる",
