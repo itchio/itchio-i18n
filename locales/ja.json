@@ -401,7 +401,8 @@
         "unavailable": "この{{game_noun}}は現在ご利用いただけません",
         "after_download": {
             "share_this_project": "プロジェクトをシェアする",
-            "check_popup_blocker": "まもなくダウンロードを開始いたします。ダウンロードが始まらない場合は、ポップアップブロック機能をご使用ではないかお確かめください。"
+            "check_popup_blocker": "まもなくダウンロードを開始いたします。ダウンロードが始まらない場合は、ポップアップブロック機能をご使用ではないかお確かめください。",
+            "thanks_for_downloading_title": "ダウンロードしていただきありがとうございます"
         },
         "available_header": "こちらで入手可能",
         "also_available_header": "次のストアでも入手可能",
