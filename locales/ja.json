@@ -218,11 +218,11 @@
     },
     "developers": {
         "upload_or_dashboard": "<1>新しいゲームをアップロード</1> <em>または</em> <2>ダッシュボードに移動</2>",
-        "page_header": "インディーズゲームをすぐに配信するためのカスタムページを作りましょう",
-        "my_dashboard": "マイダッシュボード",
-        "upload_a_new_game": "新作ゲームをアップロード",
-        "upload_your_indie_game": "インディーズゲームをアップロードしよう",
-        "design_your_games_page": "独自のゲームページをデザインしよう",
+        "page_header": "インディーズゲームをすぐに配信するためのカスタムページを作ろう",
+        "my_dashboard": "ダッシュボードに移動",
+        "upload_a_new_game": "新しいゲームをアップロード",
+        "upload_your_indie_game": "インディーズゲームの配信",
+        "design_your_games_page": "独自のゲームページ",
         "host_a_sale": "セールを開催",
         "learn_more": "もっと詳しく",
         "learn_more_about": "もっと詳しく：",
@@ -231,10 +231,10 @@
         "product_summary2": "ゲームには最低価格を設定することができます。これは、ユーザーから支払い額をさらに上乗せしてもらえることが期待できる仕様です。",
         "host_a_sale_description": "お好みの期間で割引キャンペーンを行い、作品を宣伝し売り上げを伸ばしましょう。",
         "browser_game_description": "ブラウザゲームを<s>itch.io</s>で公開して収益化しましょう。ゲームはitch.ioページからすぐにプレイできて、作品を愛好しているユーザーは好きな金額で支援できます。",
-        "upload_your_game_description": "作品を無料で<s>itch.io</s>でアップロードしましょう。 スクリーンショットとその他のデータはitch.ioサーバーで保管されます。作品へのダウンロードはは常時、高速で行えます。",
+        "upload_your_game_description": "作品を無料で<s>itch.io</s>にアップロードしましょう。 スクリーンショットとその他のデータはitch.ioがホストします。作品へのダウンロードはは常時、高速で行えます。",
         "account_faq_cta": "<1>今すぐアカウントを作る</1> または <2>FAQを読む</2>",
         "create_account_or_login": "<1>アカウントを作成する</1><em>または</em><2>ログイン</2>",
-        "track_your_game": "作品のトラッキング"
+        "track_your_game": "作品の分析"
     },
     "user_register": {
         "register_form": {
@@ -337,10 +337,12 @@
             "related_games_short": "類似ゲーム",
             "rate_this_noun": "{{noun}} を評価",
             "jam_submission": {
-                "this_is_a_submission_to_jam_title": "{{jam_title}}に参加",
-                "you_rated_this_game": "評価済みのゲームです",
-                "view_the_submission_page": "申請したページを表示",
-                "accepting_ratiings": "このゲームジャムは現在参加作品の評価を受け付けております。<a>もっと詳しく</a>"
+                "this_is_a_submission_to_jam_title": "{{jam_title}}の参加作品",
+                "you_rated_this_game": "このゲームをすでに評価しました",
+                "view_the_submission_page": "参加ページを表示",
+                "accepting_ratiings": "このゲームジャムは現在参加作品の評価を受け付けております。<a>もっと詳しく</a>",
+                "now_accepting_ratings": "このゲームジャムは現在参加作品の評価を受け付けております。",
+                "rating_instructions": "上記のリンクから、ゲームジャム参加ページにてこの作品を評価してコメントしましょう。"
             }
         },
         "download_now_button": "今すぐダウンロード",
@@ -405,7 +407,7 @@
         },
         "unavailable": "この{{game_noun}}は現在ご利用いただけません",
         "after_download": {
-            "share_this_project": "プロジェクトをシェアする",
+            "share_this_project": "プロジェクトを共有",
             "check_popup_blocker": "まもなくダウンロードを開始いたします。ダウンロードが始まらない場合は、ポップアップブロック機能をご使用ではないかお確かめください。",
             "thanks_for_downloading_title": "ダウンロードしていただきありがとうございます",
             "thanks_project_author": "{{author}}の作品『{{project}}』をダウンロードしていただきありがとうございます。",
@@ -498,7 +500,7 @@
         "open_source": "オープンソース",
         "share_message": "インディーズゲームのためのデスクトップアプリ『itch』",
         "tagline": "インディーズゲームをインストール、更新そして起動するためのランチャーアプリ",
-        "start_download": "ダウンロード開始",
+        "start_download": "ダウンロードを開始",
         "for_platforms": "<1>Windows</1>、 <2>macOS</2>、と <3>Linux</3>対応",
         "learn_more_below": "もっと詳しく",
         "updates": "更新",
@@ -531,23 +533,40 @@
             "reply": "返信",
             "like": "いいね",
             "edit": "編集",
-            "delete_topic": "削除されたスレッド",
+            "delete_topic": "スレッドを削除",
             "delete": "削除",
             "report": "報告",
-            "view_more_in_thread": "スレッドにてもっと見る"
+            "view_more_in_thread": "スレッドにてもっと見る",
+            "ban": "BANする…",
+            "vote_up": "高く評価する",
+            "vote_down": "低く評価する",
+            "deleted_account": "削除されたアカウント",
+            "suspended_account": "凍結中のアカウント",
+            "pinned_reply": "ピン付けされた返信"
         },
         "post_form": {
             "add_profile_image": "プロフィール画像を追加",
             "save": "保存",
             "post": "投稿",
             "tag_header": "タグ",
-            "remove_tag": "タグを外す"
+            "remove_tag": "タグを外す",
+            "subscribe": "登録",
+            "subscribe_to_this_topic": "このスレッドに登録",
+            "subscribe_description": "スレッドに新しい返信があったら通知されます"
         },
         "new_topic": {
             "moderator_tools": "管理者ツール",
             "title": "タイトル",
             "topic_tag": "タグ",
-            "your_moderators_are": "itch.ioはこの掲示板を管理しておりません。この掲示板の管理者は："
+            "your_moderators_are": "itch.ioはこの掲示板を管理しておりません。この掲示板の管理者は：",
+            "sticky": "ピン止め",
+            "locked": "ロック",
+            "moderation_options": "モデレーター機能",
+            "i_agree_to_the_rules_above": "上記の規定に同意します",
+            "new_topic": "新しいスレッド",
+            "this_a_community_run_message_board": "コミュニティの掲示板です。",
+            "see_community_guidelines": "<a>コミュニティガイドを読んで</a>itch.ioのコミュニティポリシーをご確認ください。",
+            "body": "内容"
         },
         "topic": {
             "topic_is_archived": "このスレッドはアーカイブされており、投稿はできません",
@@ -574,7 +593,8 @@
             "first_page": "最初のページ",
             "last_page": "最後のページ",
             "this_topic_is_locked": "このスレッドはロックされました",
-            "this_topic_was_locked_by_username": "このスレッドは{{username}}によりロックされました"
+            "this_topic_was_locked_by_username": "このスレッドは{{username}}によりロックされました",
+            "moderation": "モデレーター機能"
         }
     },
     "buy_form": {
@@ -606,7 +626,9 @@
         "included_files": "含まれているファイル",
         "agree_to_terms": "お支払いを済ませると、ユーザーはitch.ioの<1>利用規約</1>と<2>プライバシーポリシー</2>に同意したものと見なされます。",
         "check_out_with": "決済方法",
-        "billing_address": "請求先住所"
+        "billing_address": "請求先住所",
+        "support_the_creator_with_an_additional_contribution": "追加貢献してクリエイターを支援する",
+        "contact_support_on_error": "この問題が続いていれば、関連する詳細情報と共に<a>itch.ioサポート</a>までご連絡ください。"
     },
     "browse": {
         "filter_group_platform": "プラットフォーム",
@@ -635,13 +657,17 @@
         "view_all_tags": "タグをすべて見る",
         "filter_by_tag": "タグで絞り込む",
         "filter_group_when": "いつ",
-        "fresh_description": "常に更新されているメンバーが推奨したプロジェクトの数々を閲覧します。新たに追加された作品を改めてご確認ください。",
+        "fresh_description": "常に更新されているメンバーたちが推奨したプロジェクトの数々を閲覧します。新たに追加された作品を改めてご確認ください。",
         "filter_group": {
             "more_options": "選択肢をより多く表示",
             "fewer_options": "選択肢をより少なく表示",
             "toggle_more_options": "選択肢表示数の切り替え",
             "clear_filter": "絞り込みを削除"
-        }
+        },
+        "results_count_plural": "検索結果{{count}}件",
+        "results_count": "検索結果{{count}}件",
+        "sort_most_recent": "最新",
+        "sort": "ソート"
     },
     "stripe_checkout": {
         "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます",
@@ -663,8 +689,15 @@
     "collection": {
         "last_updated_date": "最終更新{{date}}",
         "edit_collection": "コレクションを編集",
-        "authors": "{{author}}のコレクション",
-        "private_collection_message": "このコレクションはプライベート公開になっているため、貢献者以外に表示されません"
+        "authors": "{{author}}によるコレクション",
+        "private_collection_message": "このコレクションはプライベート公開になっているため、貢献者以外に表示されません",
+        "edit_contributors": "貢献者を編集",
+        "empty_collection_message": "このコレクションには何も含まれていません。",
+        "pending_invitation": "このコレクションの貢献者になるための保留中の招待があります。<a>招待を確認</a>",
+        "a_collection_by_author": "{{author}}によるコレクション",
+        "page_title": "{{collection_title}}―{{author}}によるコレクション",
+        "remove_item_button": "除外…",
+        "remove_confirm": "こちらをコレクションから除外してもよろしいですか"
     },
     "buy_form_popup": {
         "powered_by_itchio": "提供{{itchio}}"
@@ -721,7 +754,7 @@
             "credit_cards": "クレジットカード",
             "billing_address": "請求先住所",
             "email_notifications": "メール通知",
-            "connected_accounts": "連携済みアカウント",
+            "connected_accounts": "連携されたアカウント",
             "press_access": "プレスアクセス",
             "privacy": "プライバシー",
             "data_export": "データのエクスポート",
@@ -763,7 +796,7 @@
             "projects_link": "プロジェクト",
             "payments_link": "売上",
             "payouts_link": "売上の振込み",
-            "analytics_link": "アナリティクス",
+            "analytics_link": "分析",
             "sales_bundles_link": "セール＆バンドル",
             "coop_bundles_link": "共同バンドル",
             "game_jams_link": "ゲームジャム"
@@ -771,7 +804,7 @@
         "create_new_project_button": "新しいプロジェクトを作成",
         "project_list": {
             "edit": "編集",
-            "analytics": "アナリティクス",
+            "analytics": "分析",
             "widget": "ウィジェット",
             "no_image": "画像なし"
         },
