@@ -92,7 +92,7 @@
         },
         "fresh_games": "新着ゲーム",
         "fresh_games_description": "itch.ioに登録された最新のゲームをご紹介します",
-        "people_to_follow": "おすすめのアカウント",
+        "people_to_follow": "おすすめのユーザー",
         "people_to_follow_description": "こちらはあなたが興味を持つかもしれないアカウントです。 <a>フォローしてみてはいかがですか？</a>",
         "filtering_platform": "{{platform_name}}用のゲームだけを表示しています",
         "more_featured_games": "他の注目タイトル",
@@ -207,7 +207,7 @@
             "draft": "ドラフト"
         },
         "view_more": "もっと見る",
-        "dismiss": "破棄",
+        "dismiss": "無視",
         "release_statuses": {
             "released": "公開済み",
             "in_development": "開発中",
@@ -274,7 +274,7 @@
             "follow": "誰かをフォローするにはまずitch.ioアカウントが必要です。",
             "follow_username": "<1>{{username}}</1>をフォローするにはまずitch.ioアカウントが必要です。",
             "collection": "コレクションに追加するにはまずitch.ioアカウントが必要です。",
-            "claim_object": "{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください",
+            "claim_object": "この{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください",
             "recent_purchases": "購入した商品をアカウントにリンクするにはまずログインしてください。"
         },
         "welcome_back": "お帰りなさいませ！",
@@ -332,19 +332,20 @@
             "rate": "評価",
             "related_games": "類似するゲーム",
             "related_games_short": "類似ゲーム",
-            "rate_this_noun": "『{{noun}} 』を評価する",
+            "rate_this_noun": "{{noun}} を評価",
             "jam_submission": {
-                "this_is_a_submission_to_jam_title": "{{jam_title}}に参加"
+                "this_is_a_submission_to_jam_title": "{{jam_title}}に参加",
+                "you_rated_this_game": "評価済みのゲームです"
             }
         },
         "download_now_button": "今すぐダウンロード",
         "preorder_button": "今すぐ予約",
         "buy_now_button": "今すぐ購入",
-        "name_your_own_price": "好きな金額を決める",
+        "name_your_own_price": "好きな金額での支援を受け付ける",
         "on_sale": "セール中！",
         "percent_off": "<s>{{percent}}％</s>オフ",
         "devlog_view_all_posts": "すべての投稿を表示",
-        "your_purchase_comes_with_a_steam_key": "こちらの商品にSteamキーがついております。",
+        "your_purchase_comes_with_a_steam_key": "購入するとSteamキーがついております。",
         "info_panel": {
             "platforms": "対応OS",
             "inputs": "操作方法",
@@ -368,15 +369,16 @@
             "player_count": "プレイヤー数",
             "singleplayer": "シングルプレイヤー",
             "links": "リンク集",
-            "accessibility": "対応機能"
+            "accessibility": "対応機能",
+            "mentions": "関連ユーザー"
         },
-        "empty_page": "ここには何もないようですね……",
+        "empty_page": "ここには何もないようですね…",
         "more_information": "作品情報",
         "install_instructions": "インストール方法",
         "download_header": "ダウンロード",
         "purchase_header": "購入",
-        "download_access": "こちらのファイルにアクセスできるように『今すぐダウンロード』をクリックしてください：",
-        "get_access": "こちらのファイルにアクセスできるようになります：",
+        "download_access": "こちらのファイルにアクセスするには『今すぐダウンロード』をクリックしてください：",
+        "get_access": "アクセス可能になるファイルはこちらです：",
         "get_access_preorder": "公開されたらこちらのファイルにアクセスできるようになります：",
         "download_demo_header": "体験版をダウンロード",
         "will_be_available_in": "公開までのカウントダウン：{{time_remaining}}。",
@@ -391,7 +393,7 @@
             "preorder": "予約",
             "download": "ダウンロード",
             "play_in_browser": "ブラウザでプレイ",
-            "if_you_pay_price_or_more": "{{price}}以上のをお支払いの場合",
+            "if_you_pay_price_or_more": "{{price}}以上支払った場合",
             "version_name": "バージョン{{version_name}}",
             "this_file_will_be_available_when_the_creator_uploads_it": "こちらのファイルは、クリエイターがアップロードしたら表示されます",
             "empty_message": "ダウンロードできるものはまだありません。"
@@ -399,15 +401,15 @@
         "unavailable": "この{{game_noun}}は現在ご利用いただけません",
         "after_download": {
             "share_this_project": "プロジェクトをシェアする",
-            "check_popup_blocker": "まもなくダウンロードを開始いたします。もしダウンロードが始まらない場合は、ポップアップブロック機能をご使用ではないかお確かめください。"
+            "check_popup_blocker": "まもなくダウンロードを開始いたします。ダウンロードが始まらない場合は、ポップアップブロック機能をご使用ではないかお確かめください。"
         },
         "available_header": "こちらで入手可能",
         "also_available_header": "次のストアでも入手可能",
         "price_or_more": "{{price}}<s>から</s>",
         "development_log_header": "開発ブログ",
-        "in_order_to_access": "『{{noun}}』にアクセスするには、最低価格{{price}}以上で購入する必要があります。",
+        "in_order_to_access": "この{{noun}}にアクセスするには、最低価格{{price}}以上で購入する必要があります。",
         "steam_key_bundle_disclaimer": "（注意：『{{bundle_title}}』には、Steamキーは含まれていません）",
-        "donate_button": "『{{noun}}』を支援する",
+        "donate_button": "この{{noun}}を支援",
         "comments": {
             "comments_header": "コメント",
             "leave_a_comment_header": "コメントを投稿",
@@ -430,7 +432,7 @@
             "thank_you_for_purchasing_author": "{{author}}の作品『{{product_title}}』をご購入いただき、ありがとうございます。",
             "access_latest_files_from_this_page": "いつでもこのページから、最終版のファイルがダウンロードできます。",
             "linked_user_message": "こちらの商品はアカウント{{username}}にリンクされております。",
-            "save_this_purchase_to_your_account": "こちらの商品をアカウントに保管します",
+            "save_this_purchase_to_your_account": "こちらの商品をアカウントに保存します",
             "percent_off": "{{percent}}％オフ",
             "link_purchase_links": "ご購入の商品をアカウントにリンクするにはまず<1>アカウントを作成</1>または<2>itch.ioにログイン</2>しましょう。",
             "thank_you_for_donating": "『{{product_title}}』へのご支援をありがとうございます。",
@@ -533,14 +535,14 @@
         "on_sale_notice": "こちらの商品は現在セール中です。",
         "buy_as_bundle_plural": "こちらの商品は{{count}}個のアイテム入りの{{price}}のバンドルに入っております：",
         "free_pay_what_you_want": "こちらの商品は無料ですが、開発者はあなたが相応しいと思った金額での支援を受け付けております。",
-        "no_thanks_just_take_me_to_the_downloads": "結構。とりあえずダウンロード画面に移動",
+        "no_thanks_just_take_me_to_the_downloads": "支援しないでダウンロードする",
         "includes_steam_key": "購入する商品にSteamキーがついております。",
         "preorder_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で予約します。",
         "download_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で購入してダウンロードします。",
         "your_email_address": "メールアドレス",
         "email_address_description": "こちらにお支払いの確認が送信されます",
         "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます",
-        "i_already_paid_for_this": "すでに支払いが完了しました……",
+        "i_already_paid_for_this": "すでに支払いが完了しました…",
         "support_message": "こちらの作品の開発を支援しましょう",
         "this_purchase_is_a_gift": "ご購入の商品はギフト扱いになります",
         "support_the_creator_by_paying_above_the_minimum_price": "最低価格を上乗せしてクリエイターを支援する",
@@ -571,7 +573,9 @@
         }
     },
     "stripe_checkout": {
-        "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます"
+        "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます",
+        "edit_saved_cards": "保存されたカード情報を編集",
+        "save_credit_card_for_future_purchases": "今後の購入のためにクレジットカード情報を保存"
     },
     "collection": {
         "last_updated_date": "最終更新{{date}}",
@@ -594,7 +598,8 @@
             "display_name": "表示される名前",
             "website": "ホームページ",
             "website_description": "プロフィールページに表示される任意のURL",
-            "twitter_description": "プロフィールに表示されるツイッターアカウント"
+            "twitter_description": "プロフィールに表示されるツイッターアカウント",
+            "username": "ユーザー名"
         }
     },
     "dashboard": {
@@ -648,11 +653,11 @@
             "content_guidelines_header": "ページが誰にも見つけられるようにしましょう",
             "content_guidelines_info": "プロジェクトを投稿する前に<a>品質ガイド</a>をご確認ください",
             "payment_warning_header": "お支払い方法がまだ設定されていません",
-            "payment_warning_info": "最低価格を０よりも上に設定した場合、誰もこのプロジェクトをダウンロードできなくなります。<a>アカウントを編集</a>",
+            "payment_warning_info": "最低価格を０より上に設定した場合、誰もこのプロジェクトをダウンロードできなくなります。<a>アカウントを編集</a>",
             "short_description_field": "短い説明またはキャッチコピー",
             "custom_noun_field": "アイテムの固有名称",
             "custom_noun_field_description": "itch.ioがどのようにこのプロジェクトを参照するのかを変更できます。",
-            "default_noun": "空欄にすると次のデフォルト名称が表示されます：『{{default_noun}}』。",
+            "default_noun": "空欄の場合は次のデフォルト名称が使用されます：『{{default_noun}}』。",
             "types": {
                 "downloadable": "ダウンロード可能"
             },
@@ -661,7 +666,7 @@
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
-        "not_a_developer_escape": "結構。ゲームフィードに移動",
+        "not_a_developer_escape": "違います。ゲームフィードに移動したい",
         "recently_updated_pages_header": "最後に更新されたページ",
         "new_devlog": "新しい開発ブログ",
         "hello": "こんにちは！",
@@ -669,5 +674,13 @@
     },
     "browse_tags": {
         "no_description_yet": "説明なし"
+    },
+    "jam": {
+        "submission": {
+            "rate_submission": {
+                "save_vote": "投票を保存",
+                "save_rating": "評価を保存"
+            }
+        }
     }
 }
