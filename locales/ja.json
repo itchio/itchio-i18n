@@ -231,7 +231,7 @@
         "product_summary2": "ゲームには最低価格を設定することができます。これは、ユーザーから支払い額をさらに上乗せしてもらえることが期待できる仕様です。",
         "host_a_sale_description": "お好みの期間で割引キャンペーンを行い、作品を宣伝し売り上げを伸ばしましょう。",
         "browser_game_description": "ブラウザゲームを<s>itch.io</s>で公開して収益化しましょう。ゲームはitch.ioページからすぐにプレイできて、作品を愛好しているユーザーは好きな金額で支援できます。",
-        "upload_your_game_description": "作品を無料で<s>itch.io</s>で配信しましょう。 スクリーンショットと他のダウンロードデータはitch.ioサーバーにて保管されます。作品へのダウンロードはは常時、高速で行えます。",
+        "upload_your_game_description": "作品を無料で<s>itch.io</s>でアップロードしましょう。 スクリーンショットとその他のデータはitch.ioサーバーで保管されます。作品へのダウンロードはは常時、高速で行えます。",
         "account_faq_cta": "<1>今すぐアカウントを作る</1> または <2>FAQを読む</2>",
         "create_account_or_login": "<1>アカウントを作成する</1><em>または</em><2>ログイン</2>",
         "track_your_game": "作品のトラッキング"
@@ -275,7 +275,7 @@
             "follow_username": "<1>{{username}}</1>をフォローするにはまずitch.ioアカウントが必要です。",
             "collection": "コレクションに追加するにはまずitch.ioアカウントが必要です。",
             "claim_object": "{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください",
-            "recent_purchases": "購入した商品をアカウントにリンクするにはまずログインして下さい。"
+            "recent_purchases": "購入した商品をアカウントにリンクするにはまずログインしてください。"
         },
         "welcome_back": "お帰りなさいませ！",
         "welcome_to_itchio": "itch.ioへようこそ！",
@@ -313,10 +313,14 @@
                 "you_havent_sent_this_gift_to_anyone_yet": "こちらのギフトはまだ誰にも贈っていません",
                 "download": "ダウンロード",
                 "percent_off": "{{percent}}％オフ",
-                "claimed": "要求済み"
+                "claimed": "要求済み",
+                "you_own_this": "既に所有しています",
+                "you_were_gifted_this": "ギフトされました"
             },
             "footer": {
-                "view_all_by_username": "{{username}}の作品をすべて見る"
+                "view_all_by_username": "{{username}}の作品をすべて見る",
+                "report": "報告",
+                "embed": "埋め込みリンク"
             },
             "creator": "クリエイター",
             "follow": "フォロー",
@@ -327,7 +331,11 @@
             "edit_rating": "評価を編集",
             "rate": "評価",
             "related_games": "類似するゲーム",
-            "related_games_short": "類似ゲーム"
+            "related_games_short": "類似ゲーム",
+            "rate_this_noun": "『{{noun}} 』を評価する",
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "{{jam_title}}に参加"
+            }
         },
         "download_now_button": "今すぐダウンロード",
         "preorder_button": "今すぐ予約",
@@ -385,7 +393,7 @@
             "play_in_browser": "ブラウザでプレイ",
             "if_you_pay_price_or_more": "{{price}}以上のをお支払いの場合",
             "version_name": "バージョン{{version_name}}",
-            "this_file_will_be_available_when_the_creator_uploads_it": "こちらのファイルは、クリエイターがアプロードしたら表示されます",
+            "this_file_will_be_available_when_the_creator_uploads_it": "こちらのファイルは、クリエイターがアップロードしたら表示されます",
             "empty_message": "ダウンロードできるものはまだありません。"
         },
         "unavailable": "この{{game_noun}}は現在ご利用いただけません",
@@ -394,7 +402,7 @@
         },
         "available_header": "こちらで入手可能",
         "also_available_header": "次のストアでも入手可能",
-        "price_or_more": "{{price}}<s>以上</s>",
+        "price_or_more": "{{price}}<s>から</s>",
         "development_log_header": "開発ブログ",
         "in_order_to_access": "『{{noun}}』にアクセスするには、最低価格{{price}}以上で購入する必要があります。",
         "steam_key_bundle_disclaimer": "（注意：『{{bundle_title}}』には、Steamキーは含まれていません）",
@@ -404,9 +412,10 @@
             "leave_a_comment_header": "コメントを投稿",
             "leave_a_comment": "コメントを投稿する",
             "click_to_leave_a_comment": "コメントを投稿するにはクリックしてください…",
-            "log_in_to_leave_comment": "コメントを投稿するにはまず<a>itch.ioにログインしてください<a/>",
-            "post_comment": "コメントを投稿する"
-        }
+            "log_in_to_leave_comment": "<a>itch.ioにログイン</a>すれば、コメントを投稿できます。",
+            "post_comment": "コメントを投稿"
+        },
+        "post_a_new_topic": "新しいスレッドを作成"
     },
     "blog": {
         "all_posts": "すべての投稿",
@@ -442,7 +451,7 @@
             "preorder_title": "{{project_title}}を予約",
             "download_title": "{{project_title}}をダウンロード",
             "view_all_my_purchases": "すべての購入を表示",
-            "discussion_board": "ディスカッションボード",
+            "discussion_board": "掲示板",
             "return_to_project": "プロジェクトに戻る"
         },
         "link_my_account": "アカウントをリンクする",
@@ -478,7 +487,7 @@
         "updates_header": "常に最新版",
         "languages_header": "あなたの言語にも対応",
         "download_now": "今すぐダウンロード",
-        "meta_description": "itchはインディーズゲームをダウンロードしたり遊んだりするにはもっとも最適な方法です。デスクトップからフリーゲームをダウンロードして、自分のライブラリを管理しましょう。現在はWindows、macOSとLinux対応です。",
+        "meta_description": "itchはインディーズゲームをダウンロードしたり遊んだりする最高の方法です。デスクトップから無料ゲームをダウンロードして、自分のライブラリを管理しましょう。Windows、macOS、Linuxに対応しています。",
         "languages_description": "itch.ioコミュニティの協力のおかげで、itchランチャーには20以上の言語が用意されています！ <a>翻訳プロジェクトについてもっと詳しく知る</a>",
         "browse_description": "itch.ioでは、作品専用ページのレイアウトデザインはクリエイター自身が決めます。ランチャー内ブラウザでゲームをダウンロードしたりインストールしたりすると同時に<a>様々なクリエイターたちのユニークなページ</a>を閲覧しましょう。",
         "web_games_header": "ブラウザゲームのオフラインモード",
@@ -486,7 +495,7 @@
         "page_title": "アプリをダウンロード",
         "updates_description": "インストールしたゲームが自動的にアップデートされるだけでなく、ランチャーアプリ自体も新しい機能や特徴が追加されるたびに自動的に変化していきます。新コマンドラインツールを使ったゲームでは <em>デルタパッチ</em>が作成され、それによって新しいゲームが登場した場合にも、変更されている部分だけをダウンロードするようになります。",
         "web_games_description": "ブラウザゲームをランチャーに同期させると、いつでもオフラインでプレイできます。 オンラインに復帰すれば、必要に応じてアップデートを行うことができます。",
-        "more_info_links": "<1>よくある質問にて詳しく読む</1>または<2>アプリマニュアルを読む</2>",
+        "more_info_links": "<1>よくある質問をもっと読む</1>または<2>アプリマニュアルを読む</2>",
         "contribute_link": "itchの開発に貢献しませんか？<a>GitHubでソースを閲覧</a>",
         "community_description": "<1>コミュニティ</1>を利用してアプリ開発をさらに学びましょう。 itch.ioの他のメンバーと機能に関するリクエストやフィードバックを共有しましょう。 プロジェクト全体が<2> GitHub上のオープンソース</2>であることは、プログラマの方にとって嬉しい情報でしょう。プロジェクトを牽引してくれるリクエストをお待ちしています。",
         "summary": "itch.ioアプリ <s>itch</s>は、itch.io上のゲームやソフトウェアをダウンロードしたり動かしたりすることが簡単にできます。ダウンロードしたものは一箇所にまとめられ自動的にアップデートされます。過去の購入物やコレクションにアクセスできるのはもちろん、アプリのブラウザを経由して新しいゲームを探すこともできます。"
@@ -507,6 +516,12 @@
             "title": "タイトル",
             "topic_tag": "タグ",
             "your_moderators_are": "itch.ioはこの掲示板を管理しておりません。この掲示板の管理者は："
+        },
+        "topic": {
+            "topic_is_archived": "このトピックはアーカイブされており、投稿はできません",
+            "reply": "返信",
+            "log_in_to_reply": "ログインして返信する",
+            "join_the_discussion": "ログインするか、無料でitch.ioのアカウントを作成して、議論に参加しましょう。"
         }
     },
     "buy_form": {
@@ -540,14 +555,19 @@
         "filter_group_session_length": "平均プレイ時間",
         "filter_group_multiplayer": "マルチプレイ機能",
         "filter_group_type": "タイプ",
-        "type_downloadable": "ダウンロード",
+        "type_downloadable": "ダウンロード可能",
         "filter_group_release_status": "公開状況",
         "filter_group_misc": "その他",
         "filter_group_collection": "コレクション",
         "filter_group_tools": "ツール＆エンジン",
         "filter_everything_else": "その他",
         "related_collections": "類似するコレクション",
-        "filter_group_accessibility_features": "対応機能"
+        "filter_group_accessibility_features": "対応機能",
+        "tag": {
+            "no_description_yet": "説明なし",
+            "suggest_updated_description": "更新された説明文を提案",
+            "suggest_description_for_this_tag": "このタグの説明文を提案"
+        }
     },
     "stripe_checkout": {
         "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます"
@@ -568,7 +588,12 @@
             "url_description": "プロフィールの公開URL",
             "profile_image": "プロフィール画像",
             "profile_image_description": "あなたがこのウェブサイト上で行動を起こしたとき、名前の横に表示されます。（正方形にトリミングされます）",
-            "display_name_description": "ユーザー名の代わりに表示される名前。空欄の際はユーザー名が表示されます"
+            "display_name_description": "ユーザー名の代わりに表示される名前。空欄の際はユーザー名が表示されます",
+            "you_recently_changed_your_username": "最近ユーザー名が変更されました",
+            "display_name": "表示される名前",
+            "website": "ホームページ",
+            "website_description": "プロフィールページに表示される任意のURL",
+            "twitter_description": "プロフィールに表示されるツイッターアカウント"
         }
     },
     "dashboard": {
@@ -609,11 +634,11 @@
             "kind_of_project_field": "プロジェクトの種類",
             "release_status_field": "リリース状況",
             "details_section_header": "詳細",
-            "description_field": "説明",
+            "description_field": "紹介文",
             "instructions_field": "ダウンロードとインストール指示",
             "classification_other": "その他",
             "community_comments": "コメント",
-            "community_discussion_board": "ディスカッション",
+            "community_discussion_board": "掲示板",
             "pricing_header": "価格設定",
             "uploads_header": "アップロード",
             "upload_files_button": "ファイルをアップロード",
@@ -622,7 +647,16 @@
             "content_guidelines_header": "ページが誰にも見つけられるようにしましょう",
             "content_guidelines_info": "プロジェクトを投稿する前に<a>品質ガイド</a>をご確認ください",
             "payment_warning_header": "お支払い方法がまだ設定されていません",
-            "payment_warning_info": "最低価格を０よりも上に設定した場合、誰もこのプロジェクトをダウンロードできなくなります。<a>アカウントを編集</a>"
+            "payment_warning_info": "最低価格を０よりも上に設定した場合、誰もこのプロジェクトをダウンロードできなくなります。<a>アカウントを編集</a>",
+            "short_description_field": "短い説明またはキャッチコピー",
+            "custom_noun_field": "アイテムの固有名称",
+            "custom_noun_field_description": "itch.ioがどのようにこのプロジェクトを参照するのかを変更できます。",
+            "default_noun": "空欄にすると次のデフォルト名称が表示されます：『{{default_noun}}』。",
+            "types": {
+                "downloadable": "ダウンロード可能"
+            },
+            "tip_label": "ヒント",
+            "project_type_help": "ダウンロード可能なファイル、または上記に適用するものは追加アップロードできます"
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
@@ -631,5 +665,8 @@
         "new_devlog": "新しい開発ブログ",
         "hello": "こんにちは！",
         "dashboard": "ダッシュボード"
+    },
+    "browse_tags": {
+        "no_description_yet": "説明なし"
     }
 }
