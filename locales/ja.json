@@ -76,7 +76,7 @@
         "view_all": "すべて見る",
         "recommended_for_you": "あなたへのおすすめ",
         "view_all_games_on_sale": "セール中のゲームをすべて見る",
-        "view_all_on_sale": "セール中のものをすべて見る",
+        "view_all_on_sale": "セール中の商品をすべて見る",
         "on_sale": "セール中",
         "top_sellers": "売上トップ",
         "recommendations_based_on": "購入、ダウンロード、または評価した作品に基づいておすすめします",
@@ -170,7 +170,7 @@
             "next_page": "次のページ",
             "prev": "前へ",
             "next": "次へ",
-            "current_page_of_total": "{{total_pages}}ページ中の {{current_page}}ページ"
+            "current_page_of_total": "{{total_pages}}ページ中の {{current_page}}ページ目"
         },
         "platforms": {
             "web": "ブラウザゲーム"
@@ -315,12 +315,15 @@
                 "percent_off": "{{percent}}％オフ",
                 "claimed": "要求済み",
                 "you_own_this": "既に所有しています",
-                "you_were_gifted_this": "ギフトされました"
+                "you_were_gifted_this": "ギフトされました",
+                "purchased_in_a_bundle_for_price": "{{price}}のバンドルの一部として購入しました",
+                "purchased_for_price": "{{price}}で購入しました"
             },
             "footer": {
                 "view_all_by_username": "{{username}}の作品をすべて見る",
                 "report": "報告",
-                "embed": "埋め込みリンク"
+                "embed": "埋め込み",
+                "updated_date": "最終更新{{date}}"
             },
             "creator": "クリエイター",
             "follow": "フォロー",
@@ -335,7 +338,9 @@
             "rate_this_noun": "{{noun}} を評価",
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "{{jam_title}}に参加",
-                "you_rated_this_game": "評価済みのゲームです"
+                "you_rated_this_game": "評価済みのゲームです",
+                "view_the_submission_page": "申請したページを表示",
+                "accepting_ratiings": "このゲームジャムは現在参加作品の評価を受け付けております。<a>もっと詳しく</a>"
             }
         },
         "download_now_button": "今すぐダウンロード",
@@ -402,7 +407,15 @@
         "after_download": {
             "share_this_project": "プロジェクトをシェアする",
             "check_popup_blocker": "まもなくダウンロードを開始いたします。ダウンロードが始まらない場合は、ポップアップブロック機能をご使用ではないかお確かめください。",
-            "thanks_for_downloading_title": "ダウンロードしていただきありがとうございます"
+            "thanks_for_downloading_title": "ダウンロードしていただきありがとうございます",
+            "thanks_project_author": "{{author}}の作品『{{project}}』をダウンロードしていただきありがとうございます。",
+            "more_from_creator": "このゲームのクリエイターの他の作品をプロフィールページで確認する：{{profile}}。",
+            "check_out_more_from_jam_title": "{{jam_title}}をもっと詳しく見る",
+            "view_all_from_jam": "ゲームジャムをすべて見る",
+            "more_from_itchio_header": "itch.ioをもっと詳しく見る",
+            "see_everything": "すべて見る",
+            "powered_by": "<s>提供</s>{{itchio_logo}}",
+            "app_learn_more": "<s>NEW!</s> ライブラリの管理とダウンロードに新しいitch.ioのデスクトップアプリを試しましょう！ <a>もっと詳しく</a>"
         },
         "available_header": "こちらで入手可能",
         "also_available_header": "次のストアでも入手可能",
@@ -419,13 +432,16 @@
             "log_in_to_leave_comment": "<a>itch.ioにログイン</a>すれば、コメントを投稿できます。",
             "post_comment": "コメントを投稿"
         },
-        "post_a_new_topic": "新しいスレッドを作成"
+        "post_a_new_topic": "新しいスレッドを作成",
+        "post_first_topic": "最初のスレッドを投稿",
+        "community_sticky": "ピン止め"
     },
     "blog": {
         "all_posts": "すべての投稿",
         "updates": "アップデート",
         "empty_message": "こちらには投稿がありません",
-        "digest": "ダイジェスト"
+        "digest": "ダイジェスト",
+        "tag_filter": "{{tag}}のタグが付けられたものだけを表示しています。<a>タグを解除</a>"
     },
     "game_download": {
         "purchase": {
@@ -506,7 +522,19 @@
     },
     "community": {
         "post_list": {
-            "pinned_post": "ピン付けされた投稿"
+            "pinned_post": "ピン付けされた投稿",
+            "deleted_post": "削除された投稿",
+            "post_from_blocked_account": "ブロックされたアカウントからの投稿",
+            "edit_blocks": "ブロックを編集",
+            "edits_count_plural": "（{{count}}回の編集）",
+            "edits_count": "（{{count}}回の編集）",
+            "reply": "返信",
+            "like": "いいね",
+            "edit": "編集",
+            "delete_topic": "削除されたスレッド",
+            "delete": "削除",
+            "report": "報告",
+            "view_more_in_thread": "スレッドにてもっと見る"
         },
         "post_form": {
             "add_profile_image": "プロフィール画像を追加",
@@ -522,10 +550,31 @@
             "your_moderators_are": "itch.ioはこの掲示板を管理しておりません。この掲示板の管理者は："
         },
         "topic": {
-            "topic_is_archived": "このトピックはアーカイブされており、投稿はできません",
+            "topic_is_archived": "このスレッドはアーカイブされており、投稿はできません",
             "reply": "返信",
             "log_in_to_reply": "ログインして返信する",
-            "join_the_discussion": "ログインするか、無料でitch.ioのアカウントを作成して、議論に参加しましょう。"
+            "join_the_discussion": "ログインするか、無料でitch.ioのアカウントを作成して、議論に参加しましょう。",
+            "unlisted_topic_notice": "<s>このスレッドはモデレーターによりリストから除外されました。</s>スレッド一覧に表示されませんが、返事したり編集したりすることができます。",
+            "reply_to_someone_else": "他の方の投稿に返信するには投稿の下にある『<s>返信</s>』をクリックしてください。",
+            "this_reply_will_go_to_yourself": "この返信はあなた自身宛てになります。",
+            "this_reply_will_go_to_the_topic_author": "この返信はスレッドの作者『{{username}}』宛てになります。",
+            "new_reply": "新しい返信",
+            "remove_bookmark": "ブックマークを削除",
+            "bookmark": "ブックマーク",
+            "unsubscribe": "スレッドの登録を解除",
+            "subscribe": "スレッドに登録",
+            "return_to_topic_list": "スレッド一覧に戻る",
+            "sticky": "ピン止め",
+            "locked": "ロック",
+            "replies_count": "返信数：{{count}}",
+            "views_count": "アクセス数：{{count}}",
+            "a_topic_by_username_created_time_ago": "{{time_ago}}に作成された{{username}}によるスレッド",
+            "next_page": "次のページ",
+            "previous_page": "前のページ",
+            "first_page": "最初のページ",
+            "last_page": "最後のページ",
+            "this_topic_is_locked": "このスレッドはロックされました",
+            "this_topic_was_locked_by_username": "このスレッドは{{username}}によりロックされました"
         }
     },
     "buy_form": {
@@ -534,8 +583,8 @@
         "preorder_title": "『{{title}}』を予約",
         "sold_out_notice": "こちらの商品は現在売れ切れました。また今度改めてご確認ください。",
         "on_sale_notice": "こちらの商品は現在セール中です。",
-        "buy_as_bundle_plural": "こちらの商品は{{count}}個のアイテム入りの{{price}}のバンドルに入っております：",
-        "free_pay_what_you_want": "こちらの商品は無料ですが、開発者はあなたが相応しいと思った金額での支援を受け付けております。",
+        "buy_as_bundle_plural": "こちらの商品は{{count}}個アイテム入りの{{price}}のバンドルに入っております：",
+        "free_pay_what_you_want": "こちらの作品は無料ですが、開発者はあなたが相応しいと思った金額での支援を受け付けております。",
         "no_thanks_just_take_me_to_the_downloads": "支援しないでダウンロードする",
         "includes_steam_key": "購入する商品にSteamキーがついております。",
         "preorder_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で予約します。",
@@ -551,7 +600,13 @@
         "credit_card": "クレジットカード",
         "go_back": "戻る",
         "continue_payment": "支払いを続ける",
-        "generic_error": "ご購入の際にエラーが発生しました：{{error}}"
+        "generic_error": "ご購入の際にエラーが発生しました：{{error}}",
+        "percent_off_until": "すべての商品は{{end_date}}まで<s>{{rate}}%</s>オフとなります。",
+        "also_buy_as_bundle_plural": "こちらの商品は{{count}}個アイテム入りの{{price}}のバンドルにも入っております：",
+        "included_files": "含まれているファイル",
+        "agree_to_terms": "お支払いを済ませると、ユーザーはitch.ioの<1>利用規約</1>と<2>プライバシーポリシー</2>に同意したものと見なされます。",
+        "check_out_with": "決済方法",
+        "billing_address": "請求先住所"
     },
     "browse": {
         "filter_group_platform": "プラットフォーム",
@@ -571,19 +626,48 @@
             "no_description_yet": "説明なし",
             "suggest_updated_description": "更新された説明文を提案",
             "suggest_description_for_this_tag": "このタグの説明文を提案"
+        },
+        "sort_popular": "人気",
+        "sort_new_and_popular": "新着＆人気",
+        "sort_top_sellers": "売上トップ",
+        "filter_results": "絞り込み結果一覧",
+        "filter_group_genre": "ジャンル",
+        "view_all_tags": "タグをすべて見る",
+        "filter_by_tag": "タグで絞り込む",
+        "filter_group_when": "いつ",
+        "fresh_description": "常に更新されているメンバーが推奨したプロジェクトの数々を閲覧します。新たに追加された作品を改めてご確認ください。",
+        "filter_group": {
+            "more_options": "選択肢をより多く表示",
+            "fewer_options": "選択肢をより少なく表示",
+            "toggle_more_options": "選択肢表示数の切り替え",
+            "clear_filter": "絞り込みを削除"
         }
     },
     "stripe_checkout": {
         "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます",
         "edit_saved_cards": "保存されたカード情報を編集",
-        "save_credit_card_for_future_purchases": "今後の購入のためにクレジットカード情報を保存"
+        "save_credit_card_for_future_purchases": "今後の購入のためにクレジットカード情報を保存",
+        "payment_error": "お支払いの処理にエラーが発生しました：",
+        "choose_a_card": "カードを選択",
+        "card_ending_last4": "最後の４桁番号は{{last4}}",
+        "new_card": "新しいカード",
+        "enter_your_password_to_use_your_card": "カードを利用するにはパスワードを入力してください",
+        "password": "パスワード",
+        "gift_instructions": "こちらはギフト目的の購入となります。支払いが済ませたら受領者のメールアドレスが入力できます。",
+        "credit_or_debit_card": "クレジットまたはデビットカード",
+        "pay_price_button": "{{price}}を支払う",
+        "steam_key": "Steamキー",
+        "email": "メールアドレス",
+        "name_as_it_appears_on_card": "カードに表示される通り"
     },
     "collection": {
         "last_updated_date": "最終更新{{date}}",
-        "edit_collection": "コレクションを編集"
+        "edit_collection": "コレクションを編集",
+        "authors": "{{author}}のコレクション",
+        "private_collection_message": "このコレクションはプライベート公開になっているため、貢献者以外に表示されません"
     },
     "buy_form_popup": {
-        "powered_by_itchio": "提供：{{itchio}}"
+        "powered_by_itchio": "提供{{itchio}}"
     },
     "user_settings": {
         "profile": {
@@ -593,14 +677,76 @@
             "change_username": "ユーザー名/URLを変更",
             "url_description": "プロフィールの公開URL",
             "profile_image": "プロフィール画像",
-            "profile_image_description": "あなたがこのウェブサイト上で行動を起こしたとき、名前の横に表示されます。（正方形にトリミングされます）",
-            "display_name_description": "ユーザー名の代わりに表示される名前。空欄の際はユーザー名が表示されます",
+            "profile_image_description": "このウェブサイト上で行動を起こしたとき、名前の横に表示されます。（正方形にトリミングされます）",
+            "display_name_description": "ユーザー名の代わりに表示される名前。空欄の場合はユーザー名が表示されます",
             "you_recently_changed_your_username": "最近ユーザー名が変更されました",
-            "display_name": "表示される名前",
+            "display_name": "表示名",
             "website": "ホームページ",
             "website_description": "プロフィールページに表示される任意のURL",
             "twitter_description": "プロフィールに表示されるツイッターアカウント",
-            "username": "ユーザー名"
+            "username": "ユーザー名",
+            "account_type": "アカウントの種類",
+            "account_type_description": "アカウントの主な目的",
+            "account_type_gamer": "ゲームを遊んだりダウンロードしたりするため",
+            "account_type_developer": "ゲームを開発したりアップロードしたりするため",
+            "default_language_option": "デフォルト（言語β版の間は英語に設定）",
+            "content": "表示設定",
+            "content_description": "itch.ioのコンテンツがどのように表示されるかの設定",
+            "show_adult_content": "アダルトコンテンツを検索と閲覧の際に表示する",
+            "disable_animated_gifs": "GIFアニメーションを無効化する",
+            "disable_autoloading_next_page_when_browsing": "閲覧の際に次のページのオートローディングを無効化する",
+            "click_to_load_games": "埋め込まれたHTML5ゲームを再生するにはまずクリックが必要となる",
+            "use_dark_theme": "可能ならダークテーマを利用する",
+            "profile": "プロフィール",
+            "profile_description": "プロフィールページの内容"
+        },
+        "account_settings": "アカウント設定",
+        "navigation": {
+            "basics_header": "基本情報",
+            "payment_header": "お支払い情報",
+            "publisher_header": "パブリシャー",
+            "contact_header": "連絡先",
+            "misc_header": "その他",
+            "developer_header": "開発関連",
+            "profile": "プロフィール",
+            "password": "パスワード",
+            "email_addresses": "メールアドレス",
+            "two_factor_auth": "２段階認証",
+            "support_email": "サポートメール",
+            "publisher_get_started": "はじめに",
+            "revenue_sharing": "収入分配",
+            "payment_processors": "支払い処理業者",
+            "tax_information": "税務情報",
+            "payout_mode": "入金方法",
+            "credit_cards": "クレジットカード",
+            "billing_address": "請求先住所",
+            "email_notifications": "メール通知",
+            "connected_accounts": "連携済みアカウント",
+            "press_access": "プレスアクセス",
+            "privacy": "プライバシー",
+            "data_export": "データのエクスポート",
+            "api_keys": "APIキー",
+            "oauth_applications": "OAuthアプリケーション",
+            "thirdparty_analytics": "サードパーティの分析"
+        },
+        "password": {
+            "reset_password": "パスワードの初期化",
+            "set_password": "パスワードを設定",
+            "current_password": "現在のパスワード",
+            "password": "パスワード",
+            "new_password": "新しいパスワード",
+            "password_again": "パスワードを再入力",
+            "new_password_again": "新しいパスワードを再入力"
+        },
+        "email_addresses": {
+            "primary_email_header": "主要メールアドレス",
+            "your_primary_email_address": "主要メールアドレス：{{email}}",
+            "change_email_form": {
+                "new_email_address": "新しいメールアドレス",
+                "current_password": "現在のパスワード"
+            },
+            "primary_email_description": "主要メールアドレス宛てにitch.ioからの通知が送信されます。",
+            "additional_emails_header": "追加メールアドレス"
         }
     },
     "dashboard": {
@@ -616,7 +762,7 @@
         "header": {
             "projects_link": "プロジェクト",
             "payments_link": "売上",
-            "payouts_link": "売上の振込",
+            "payouts_link": "売上の振込み",
             "analytics_link": "アナリティクス",
             "sales_bundles_link": "セール＆バンドル",
             "coop_bundles_link": "共同バンドル",
@@ -667,20 +813,24 @@
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
-        "not_a_developer_escape": "違います。ゲームフィードに移動したい",
+        "not_a_developer_escape": "違うよ。ゲームフィードを表示して(・ω・)",
         "recently_updated_pages_header": "最後に更新されたページ",
         "new_devlog": "新しい開発ブログ",
         "hello": "こんにちは！",
         "dashboard": "ダッシュボード"
     },
     "browse_tags": {
-        "no_description_yet": "説明なし"
+        "no_description_yet": "説明なし",
+        "page_title": "トップのタグ",
+        "find_tag": "タグを検索",
+        "commonly_tagged_with": "普段のタグ付け："
     },
     "jam": {
         "submission": {
             "rate_submission": {
                 "save_vote": "投票を保存",
-                "save_rating": "評価を保存"
+                "save_rating": "評価を保存",
+                "sign_up_to_rate": "<a>itch.ioアカウントを作成</a>して、評価またはコメントを投稿します。"
             }
         }
     }
