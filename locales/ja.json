@@ -404,7 +404,8 @@
             "leave_a_comment_header": "コメントを投稿",
             "leave_a_comment": "コメントを投稿する",
             "click_to_leave_a_comment": "コメントを投稿するにはクリックしてください…",
-            "log_in_to_leave_comment": "コメントを投稿するにはまず<a>itch.ioにログインしてください<a/>"
+            "log_in_to_leave_comment": "コメントを投稿するにはまず<a>itch.ioにログインしてください<a/>",
+            "post_comment": "コメントを投稿する"
         }
     },
     "blog": {
