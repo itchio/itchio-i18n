@@ -310,7 +310,45 @@
         "info_panel": {
             "updated_at": "Oppdatert",
             "published_at": "Utgitt",
-            "release_status": "Status"
+            "release_status": "Status",
+            "category": "Kategori",
+            "platforms": "Plattformer",
+            "publisher": "Utgiver",
+            "release_date": "Utgivelsesdato",
+            "rating": "Vurdering",
+            "authors": "Skapere",
+            "author": "Skaper",
+            "genre": "Sjanger",
+            "made_with_tools": "Laget med",
+            "code_license": "Lisens",
+            "asset_license": "Lisens for ressurser",
+            "average_session_duration": "Gjennomsnittlig øktlengde",
+            "languages": "Språk",
+            "inputs": "Inndata",
+            "accessibility": "Tilgjengelighet",
+            "multiplayer": "Flerspiller",
+            "player_count": "Antall spillere",
+            "singleplayer": "Enkeltspiller",
+            "links": "Lenker",
+            "mentions": "Omtaler"
+        },
+        "community_header": "Fellesskap",
+        "join_the_community": "Bli med i fellesskapet",
+        "community_view_all_posts": "Vis alle innlegg",
+        "community_post_author": "av {{username}}",
+        "community_posts_count": "{{count}} innlegg",
+        "community_posts_count_plural": "{{count}} innlegg",
+        "post_a_new_topic": "Start et nytt emne",
+        "post_first_topic": "Publiser første emne",
+        "community_sticky": "Festet",
+        "upload_list": {
+            "preorder": "Forhåndsbestill",
+            "download": "Last ned",
+            "play_in_browser": "Spill i nettleseren",
+            "if_you_pay_price_or_more": "hvis du betaler {{price}} eller mer",
+            "version_name": "Versjon {{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Denne filen vil bli tilgjengelig når skaperen laster den opp",
+            "empty_message": "Ingenting er tilgjengelig for nedlastning ennå."
         }
     }
 }
