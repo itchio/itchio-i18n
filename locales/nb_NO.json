@@ -290,7 +290,7 @@
         "buy_now_button": "Kjøp nå",
         "name_your_own_price": "Velg prisen selv",
         "on_sale": "På tilbud!",
-        "percent_off": "{{percent}}%</s> avslag",
+        "percent_off": "<s>{{percent}}%</s> avslag",
         "price_or_more": "{{price}} <s>eller mer</s>",
         "development_log_header": "Utviklingslogg",
         "in_order_to_access": "For å få tilgang til denne gjenstanden av typen {{noun}} må du kjøpe det for {{price}} eller mer.",
