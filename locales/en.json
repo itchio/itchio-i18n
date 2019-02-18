@@ -159,7 +159,8 @@
             "required": "Required",
             "save": "Save",
             "email_address": "Email Address",
-            "submit": "Submit"
+            "submit": "Submit",
+            "optional": "Optional"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -1045,5 +1046,23 @@
             "payment_warning_header": "You don't have payment configured",
             "payment_warning_info": "If you set a minimum price above 0 no one will be able to download your project. <a>Edit account</a>"
         }
+    },
+    "add_to_collection": {
+        "dialog_title": "Add {{project_title}} to collection",
+        "add_reason": "Add this project to a collection to save it for later.",
+        "already_in_collections": "This project is already in the following collections:",
+        "count_items": "{{count}} item",
+        "count_items_plural": "{{count}} items",
+        "add_to_existing": "Add to existing collection",
+        "private_collection_title": "[Private] {{title}}",
+        "add_to_new": "Add to new collection titled",
+        "default_title": "{{username}}'s Collection",
+        "add_button": "Add to collection",
+        "manage_collections_link": "Manage collections",
+        "private_collection_option": "Private collection — Only you can see the contents",
+        "about_this_project_label": "About this project"
+    },
+    "game_grid": {
+        "in_bundle": "In bundle"
     }
 }
