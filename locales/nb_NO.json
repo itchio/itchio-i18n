@@ -267,6 +267,50 @@
         "languages_header": "Tilgjengelig på ditt språk",
         "languages_description": "Itch-appen er tilgjengelig på over 20 språk, takket være itch.io-fellesskapet. <a>Lær mer om oversetting</a>",
         "download_now": "Last ned nå",
-        "community_header": "Bli med i fellesskapet"
+        "community_header": "Bli med i fellesskapet",
+        "page_title": "Last ned app"
+    },
+    "game": {
+        "empty_page": "Det ser ikke ut til å være noe her...",
+        "more_information": "Mer informasjon",
+        "install_instructions": "Installasjonsintruksjoner",
+        "download_header": "Last ned",
+        "unavailable": "Denne gjenstanden av typen {{game_noun}} er ikke tilgjengelig for øyeblikket",
+        "purchase_header": "Kjøp",
+        "download_access": "Klikk last ned nå for å få tilgang til følgende filer:",
+        "get_access": "Du vil få tilgang til følgende filer",
+        "get_access_preorder": "Du vil få tilgang til følgene filer når de blir utgitt:",
+        "download_demo_header": "Last ned demo",
+        "available_header": "Tilgjengelig for",
+        "also_available_header": "Også tilgjengelig for",
+        "will_be_available_in": "Vil bli tilgjengelig {{time_remaining}}.",
+        "download_or_claim_button": "Last ned eller gjør krav på",
+        "download_now_button": "Last ned nå",
+        "preorder_button": "Forhåndsbestill nå",
+        "buy_now_button": "Kjøp nå",
+        "name_your_own_price": "Velg prisen selv",
+        "on_sale": "På tilbud!",
+        "percent_off": "{{percent}}%</s> avslag",
+        "price_or_more": "{{price}} <s>eller mer</s>",
+        "development_log_header": "Utviklingslogg",
+        "in_order_to_access": "For å få tilgang til denne gjenstanden av typen {{noun}} må du kjøpe det for {{price}} eller mer.",
+        "devlog_view_all_posts": "Vis alle innlegg",
+        "your_purchase_comes_with_a_steam_key": "Ditt kjøp kommer med en Steam-nøkkel.",
+        "steam_key_bundle_disclaimer": "(NB: Steam-nøkkel ikke inkludert i {{bundle_title}})",
+        "donate_button": "Støtt denne gjenstanden av typen {{noun}}",
+        "empty_page_no_uploads": "Skaperen har ikke lastet opp noe ennå...",
+        "comments": {
+            "comments_header": "Kommentarer",
+            "leave_a_comment_header": "Legg igjen en kommentar",
+            "leave_a_comment": "Legg igjen en kommentar",
+            "click_to_leave_a_comment": "Klikk for å legge igjen en kommentar...",
+            "log_in_to_leave_comment": "<a>Logg inn med itch.io</a> for å legge igjen en kommentar.",
+            "post_comment": "Publiser kommentar"
+        },
+        "info_panel": {
+            "updated_at": "Oppdatert",
+            "published_at": "Utgitt",
+            "release_status": "Status"
+        }
     }
 }
