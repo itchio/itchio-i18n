@@ -160,7 +160,8 @@
             "save": "Save",
             "email_address": "Email Address",
             "submit": "Submit",
-            "optional": "Optional"
+            "optional": "Optional",
+            "search": "Search"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -188,7 +189,9 @@
             "next_page": "Next page",
             "prev": "Prev",
             "next": "Next",
-            "current_page_of_total": "Page {{current_page}} of {{total_pages}}"
+            "current_page_of_total": "Page {{current_page}} of {{total_pages}}",
+            "previous_page": "Previous page",
+            "first_page": "First page"
         },
         "collection_button": {
             "add_to_collection": "Add to collection"
@@ -549,6 +552,41 @@
             "body": "Body",
             "topic_tag": "Tag",
             "your_moderators_are": "itch.io does not moderate these boards, your moderators are:"
+        },
+        "misc": {
+            "new_topic_button": "New topic"
+        },
+        "category": {
+            "topics_count": "{{count}} topic",
+            "topics_count_plural": "{{count}} topics",
+            "create_first_topic_button": "Create the first topic",
+            "empty_message": "There are no topics",
+            "there_arent_any_topics_yet": "There aren't any topics yet",
+            "search_community_label": "Search community",
+            "subscribe_to_new_topics": "Subscribe to new topics",
+            "unsubscribe_from_topics": "Unsubscribe",
+            "stats": {
+                "topics": "Topics"
+            },
+            "rules_header": "Rules",
+            "recent_posts_header": "Recent Posts",
+            "list_header_last_topic": "Last topic",
+            "new_flag": "New",
+            "archived_flag": "Archived",
+            "by_topic_author": "by {{username}}"
+        },
+        "topic_list": {
+            "views_count": "<s>{{count}}</s> view",
+            "views_count_plural": "<s>{{count}}</s> views",
+            "no_posts_yet": "No posts yet",
+            "replies_count": "<s>{{count}}</s> reply",
+            "replies_count_plural": "<s>{{count}}</s> replies",
+            "started_by_author": "started by {{topic_author}}",
+            "new_flag": "New",
+            "sticky_flag": "Sticky",
+            "locked_flag": "Locked",
+            "list_header_topic_title": "Topic",
+            "list_header_last_post": "Last post"
         }
     },
     "buy_form": {
@@ -1064,5 +1102,25 @@
     },
     "game_grid": {
         "in_bundle": "In bundle"
+    },
+    "jams": {
+        "jams_created_header": "Jams you've created",
+        "jams_joined_header": "Jams you've joined",
+        "page_title": "Game Jams on itch.io",
+        "page_summary": "itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam.",
+        "games_created": "<s>{{count}} game</s> has been created for jams hosted on itch.io.",
+        "games_created_plural": "<s>{{count}} games</s> have been created for jams hosted on itch.io.",
+        "host_a_jam_button": "Host a jam",
+        "manage_submissions_link": "Manage your submissions and jams",
+        "browse_jams_header": "Browse Jams",
+        "jam_calendar_header": "Jam Calendar",
+        "host_your_own_jam_button": "Host Your Own Jam",
+        "host_or_explore_links": "<1>Host Your Own Jam</1> or <2>Explore All Jams</2>",
+        "dont_see_something_you_like_header": "Don't see something you like?",
+        "browse_upcoming_this_month": "Upcoming This Month",
+        "brose_featured_jams": "Featured Jams",
+        "browse_top_past_jams": "Top Past Jams",
+        "browse_in_progress": "In Progress",
+        "count_joined": "{{count}} joined"
     }
 }
