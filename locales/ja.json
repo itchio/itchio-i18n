@@ -625,7 +625,8 @@
         "topic_list": {
             "views_count": "閲覧数：<s>{{count}}</s>",
             "no_posts_yet": "まだ書き込みがありません",
-            "replies_count": "返信数：<s>{{count}}</s>"
+            "replies_count": "返信数：<s>{{count}}</s>",
+            "started_by_author": "スレッド作成者：{{topic_author}}"
         }
     },
     "buy_form": {
