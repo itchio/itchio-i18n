@@ -184,7 +184,8 @@
             "required": "必須",
             "save": "保存",
             "email_address": "メールアドレス",
-            "submit": "送信"
+            "submit": "送信",
+            "optional": "任意"
         },
         "page_number": "{{page_number}}ページ目",
         "collection_button": {
@@ -221,7 +222,7 @@
         "page_header": "インディーズゲームをすぐに配信するためのカスタムページを作ろう",
         "my_dashboard": "ダッシュボードに移動",
         "upload_a_new_game": "新しいゲームをアップロード",
-        "upload_your_indie_game": "インディーズゲームの配信",
+        "upload_your_indie_game": "インディーズゲームを配信",
         "design_your_games_page": "独自のゲームページ",
         "host_a_sale": "セールを開催",
         "learn_more": "もっと詳しく",
@@ -360,7 +361,7 @@
             "published_at": "公開日",
             "release_status": "制作状況",
             "category": "カテゴリー",
-            "publisher": "パブリッシャー",
+            "publisher": "パブリッシュ関連",
             "release_date": "公開日",
             "rating": "評価",
             "authors": "制作者",
@@ -384,9 +385,9 @@
         "install_instructions": "インストール方法",
         "download_header": "ダウンロード",
         "purchase_header": "購入",
-        "download_access": "こちらのファイルにアクセスするには『今すぐダウンロード』をクリックしてください：",
-        "get_access": "アクセス可能になるファイルはこちらです：",
-        "get_access_preorder": "公開されたらこちらのファイルにアクセスできるようになります：",
+        "download_access": "『今すぐダウンロード』をクリックするとこちらのファイルにアクセスできます：",
+        "get_access": "購入後アクセス可能になるファイルはこちらです：",
+        "get_access_preorder": "公開後アクセス可能になるファイルはこちらです：",
         "download_demo_header": "体験版をダウンロード",
         "will_be_available_in": "公開までのカウントダウン：{{time_remaining}}。",
         "download_or_claim_button": "ダウンロードまたは要求",
@@ -474,7 +475,9 @@
             "download_title": "{{project_title}}をダウンロード",
             "view_all_my_purchases": "すべての購入を表示",
             "discussion_board": "掲示板",
-            "return_to_project": "プロジェクトに戻る"
+            "return_to_project": "プロジェクトに戻る",
+            "more_menu": "もっと",
+            "view_rest_in_bundle": "バンドルの内容を確認"
         },
         "link_my_account": "アカウントをリンクする",
         "link_account_header": "このダウンロードページをitch.ioアカウントにリンクさせる",
@@ -494,7 +497,12 @@
             "region_message": "国や地域によってはitch.ioのCDNがブロックされている場合があります。 ダウンロードが開始されない場合は、代替ダウンロードモードを有効にして、もう一度ダウンロードしてみてください。"
         },
         "linked_user_message": "このページは{{username}}のアカウントにリンクされています。",
-        "must_link_account_description": "ダウンロードするためには、このページをitch.ioアカウントにリンクする必要があります。アカウントは無料で作成でき、あなたが収集したすべてのゲームの履歴を確認できるようになります。"
+        "must_link_account_description": "ダウンロードするためには、このページをitch.ioアカウントにリンクする必要があります。アカウントは無料で作成でき、あなたが収集したすべてのゲームの履歴を確認できるようになります。",
+        "version_name": "バージョン{{version_name}}",
+        "log_in_to_link": "ログインしてリンクする",
+        "get_external_key": "{{key_type}}キーを手に入れる",
+        "payment_comes_with_key": "ご購入の商品に{{key_type}}キーがついております！",
+        "access_comes_with_key": "{{key_type}}キーがついております！"
     },
     "app": {
         "open_source": "オープンソース",
@@ -537,7 +545,7 @@
             "delete": "削除",
             "report": "報告",
             "view_more_in_thread": "スレッドにてもっと見る",
-            "ban": "BANする…",
+            "ban": "ユーザーをBAN…",
             "vote_up": "高く評価する",
             "vote_down": "低く評価する",
             "deleted_account": "削除されたアカウント",
@@ -586,7 +594,7 @@
             "sticky": "ピン止め",
             "locked": "ロック",
             "replies_count": "返信数：{{count}}",
-            "views_count": "アクセス数：{{count}}",
+            "views_count": "閲覧数：{{count}}",
             "a_topic_by_username_created_time_ago": "{{time_ago}}に作成された{{username}}によるスレッド",
             "next_page": "次のページ",
             "previous_page": "前のページ",
@@ -595,6 +603,13 @@
             "this_topic_is_locked": "このスレッドはロックされました",
             "this_topic_was_locked_by_username": "このスレッドは{{username}}によりロックされました",
             "moderation": "モデレーター機能"
+        },
+        "misc": {
+            "new_topic_button": "新しいスレッド"
+        },
+        "category": {
+            "topics_count": "{{count}}件のスレッド",
+            "create_first_topic_button": "最初のスレッドを作成"
         }
     },
     "buy_form": {
@@ -635,8 +650,8 @@
         "filter_group_input_methods": "操作方法",
         "filter_group_session_length": "平均プレイ時間",
         "filter_group_multiplayer": "マルチプレイ機能",
-        "filter_group_type": "タイプ",
-        "type_downloadable": "ダウンロード可能",
+        "filter_group_type": "作品の種類",
+        "type_downloadable": "ダウンロード可能な作品",
         "filter_group_release_status": "公開状況",
         "filter_group_misc": "その他",
         "filter_group_collection": "コレクション",
@@ -650,7 +665,7 @@
             "suggest_description_for_this_tag": "このタグの説明文を提案"
         },
         "sort_popular": "人気",
-        "sort_new_and_popular": "新着＆人気",
+        "sort_new_and_popular": "話題の新作",
         "sort_top_sellers": "売上トップ",
         "filter_results": "絞り込み結果",
         "filter_group_genre": "ジャンル",
@@ -666,7 +681,7 @@
         },
         "results_count_plural": "検索結果{{count}}件",
         "results_count": "検索結果{{count}}件",
-        "sort_most_recent": "最新",
+        "sort_most_recent": "新作",
         "sort": "並び替え",
         "sort_top_rated": "高評価",
         "upload_your_project": "ここに表示するにはitch.ioに<a>作品をアップロード</a>してください。",
@@ -751,7 +766,7 @@
             "two_factor_auth": "２段階認証",
             "support_email": "サポートメール",
             "publisher_get_started": "はじめに",
-            "revenue_sharing": "収入分配",
+            "revenue_sharing": "収益配分",
             "payment_processors": "支払い処理業者",
             "tax_information": "税務情報",
             "payout_mode": "入金方法",
@@ -767,7 +782,7 @@
             "thirdparty_analytics": "サードパーティの分析"
         },
         "password": {
-            "reset_password": "パスワードの初期化",
+            "reset_password": "パスワードの変更",
             "set_password": "パスワードを設定",
             "current_password": "現在のパスワード",
             "password": "パスワード",
@@ -843,24 +858,24 @@
             "custom_noun_field_description": "itch.ioがどのようにこのプロジェクトを参照するのかを変更できます。",
             "default_noun": "空欄の場合は次のデフォルト名称が使用されます：『{{default_noun}}』。",
             "types": {
-                "downloadable": "ダウンロード可能"
+                "downloadable": "ダウンロード可能な作品"
             },
             "tip_label": "ヒント",
-            "project_type_help": "ダウンロード可能なファイル、または上記に適用するものは追加アップロードできます"
+            "project_type_help": "ダウンロード可能なファイル、または上記に当てはまるものは追加アップロードできます"
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
         "not_a_developer_escape": "違うよ。ゲームフィードを表示して(・ω・)",
         "recently_updated_pages_header": "最後に更新されたページ",
-        "new_devlog": "新しい開発ブログ",
+        "new_devlog": "開発ブログを書く",
         "hello": "こんにちは！",
         "dashboard": "ダッシュボード"
     },
     "browse_tags": {
         "no_description_yet": "説明なし",
-        "page_title": "トップのタグ",
+        "page_title": "注目のタグ",
         "find_tag": "タグを検索",
-        "commonly_tagged_with": "普段のタグ付け："
+        "commonly_tagged_with": "関連するタグ："
     },
     "jam": {
         "submission": {
@@ -868,7 +883,29 @@
                 "save_vote": "投票を保存",
                 "save_rating": "評価を保存",
                 "sign_up_to_rate": "<a>itch.ioアカウントを作成</a>して、評価またはコメントを投稿します。"
-            }
+            },
+            "edit_this_submission_button": "この参加作品を編集",
+            "remove_this_submission_button": "この参加作品を除外",
+            "a_jam_submission": "ゲームジャムの参加作品",
+            "view_game_page": "ゲームページを表示",
+            "view_project_page": "作品ページを表示",
+            "comments": {
+                "leave_a_comment_header": "コメントを残す",
+                "post_comment": "コメントを投稿",
+                "empty_message": "まだ誰もコメントしていません"
+            },
+            "link_to_itchio_page": "{{game_title}}のitch.ioページ"
         }
+    },
+    "add_to_collection": {
+        "about_this_project_label": "この作品について"
+    },
+    "game_grid": {
+        "in_bundle": "バンドルあり"
+    },
+    "jams": {
+        "host_a_jam_button": "ゲームジャムを主催",
+        "manage_submissions_link": "ゲームジャムと参加作品を管理",
+        "browse_top_past_jams": "注目の過去のゲームジャム"
     }
 }
