@@ -97,7 +97,7 @@
         "filtering_platform": "{{platform_name}}用のゲームだけを表示しています",
         "more_featured_games": "他の注目タイトル",
         "game_dev_on_sale": "<1>セール中</1>のゲーム開発素材",
-        "latest_featured_games": "最新の注目タイトル",
+        "latest_featured_games": "話題の新作ゲーム",
         "view_all_platforms": "すべてのプラットフォームを表示",
         "browse_content_type": "{{content_type}}を探す",
         "intro": "<s>itch.io</s>ではオンライン上のインディーズゲームの発見と配信が無料で簡単に行えます。",
@@ -416,9 +416,9 @@
             "thanks_for_downloading_title": "ダウンロードしていただきありがとうございます",
             "thanks_project_author": "{{author}}の作品『{{project}}』をダウンロードしていただきありがとうございます。",
             "more_from_creator": "このゲームのクリエイターの他の作品をプロフィールページで確認する：{{profile}}。",
-            "check_out_more_from_jam_title": "{{jam_title}}をもっと詳しく見る",
+            "check_out_more_from_jam_title": "{{jam_title}}をもっと見てみよう",
             "view_all_from_jam": "ゲームジャムをすべて見る",
-            "more_from_itchio_header": "itch.ioをもっと詳しく見る",
+            "more_from_itchio_header": "itch.ioをもっと見てみよう",
             "see_everything": "すべて見る",
             "powered_by": "<s>提供</s>{{itchio_logo}}",
             "app_learn_more": "<s>新登場!</s> ライブラリの管理とダウンロードに新しいitch.ioのデスクトップアプリを試しましょう！ <a>もっと詳しく</a>"
@@ -464,7 +464,8 @@
             "link_purchase_warning": "ご購入の商品をなくさないようにしてください！",
             "payment_summary_with_email": "{{email_address}}のメールアドレスで {{payment_date}}に {{payment_price}} を支払いました。",
             "payment_summary": "{{payment_date}}に {{payment_price}}を支払いました。",
-            "unique_url_for_your_payment": "このページはあなたのお会計のための専用URLです。"
+            "unique_url_for_your_payment": "このページはあなたのお会計のための専用URLです。",
+            "receipt_support_information": "このページのURLをメールアドレスにも送信されます。万が一URLを無くした場合、<a>サポートページ</a>から改めてメールアドレスに送信されるように申請できます。"
         },
         "app_banner": {
             "app_description": "itch.ioデスクトップアプリでゲームをインストールして管理しましょう",
@@ -505,7 +506,16 @@
         "log_in_to_link": "ログインしてリンクする",
         "get_external_key": "{{key_type}}キーを手に入れる",
         "payment_comes_with_key": "ご購入の商品に{{key_type}}キーがついております！",
-        "access_comes_with_key": "{{key_type}}キーがついております！"
+        "access_comes_with_key": "{{key_type}}キーがついております！",
+        "share_and_follow": "共有してフォロー",
+        "social_share_message_download": "{{username}}の作品『{{title}}』をたった今ダウンロードしました",
+        "or_share_on": "または共有",
+        "trouble_downloading_link": "ダウンロードが開始されませんか？",
+        "install_instructions_intro": "{{username}}からのダウンロードとインストール指示：",
+        "recommendations_title": "こちらの作品に興味ありませんか：",
+        "check_out_more_from_jam_title": "{{jam_title}}をもっと見てみよう",
+        "check_your_email_for_the_confirmation_link": "メールアドレスに送られた確認のリンクをお確かめください。",
+        "preorder_instructions": "このプロジェクトには未公開のファイルが含まれています。制作者がそのファイルを公開したら、改めてこのページに戻ってダウンロードしてください。"
     },
     "app": {
         "open_source": "オープンソース",
@@ -535,12 +545,12 @@
     },
     "community": {
         "post_list": {
-            "pinned_post": "ピン付けされた投稿",
+            "pinned_post": "ピン留めされた投稿",
             "deleted_post": "削除された投稿",
             "post_from_blocked_account": "ブロックされたアカウントからの投稿",
             "edit_blocks": "ブロックを編集",
-            "edits_count_plural": "（{{count}}回の編集）",
-            "edits_count": "（{{count}}回の編集）",
+            "edits_count_plural": "（更新数{{count}}回）",
+            "edits_count": "（更新数：{{count}}回）",
             "reply": "返信",
             "like": "いいね",
             "edit": "編集",
@@ -553,7 +563,7 @@
             "vote_down": "低く評価する",
             "deleted_account": "削除されたアカウント",
             "suspended_account": "凍結中のアカウント",
-            "pinned_reply": "ピン付けされた返信"
+            "pinned_reply": "ピン留めされた返信"
         },
         "post_form": {
             "add_profile_image": "プロフィール画像を追加",
@@ -571,7 +581,7 @@
             "topic_tag": "タグ",
             "your_moderators_are": "itch.ioはこの掲示板を管理しておりません。この掲示板の管理者は：",
             "sticky": "ピン留め",
-            "locked": "ロック",
+            "locked": "封鎖",
             "moderation_options": "モデレーター機能",
             "i_agree_to_the_rules_above": "上記の規定に同意します",
             "new_topic": "新しいスレッド",
@@ -587,24 +597,24 @@
             "unlisted_topic_notice": "<s>このスレッドはモデレーターによりリストから除外されました。</s>スレッド一覧に表示されませんが、返事したり編集したりすることができます。",
             "reply_to_someone_else": "他の方の投稿に返信するには投稿の下にある『<s>返信</s>』をクリックしてください。",
             "this_reply_will_go_to_yourself": "この返信はあなた自身宛てになります。",
-            "this_reply_will_go_to_the_topic_author": "この返信はスレッドの作者『{{username}}』宛てになります。",
-            "new_reply": "新しい返信",
+            "this_reply_will_go_to_the_topic_author": "この返信はスレッドの作成者『{{username}}』宛てになります。",
+            "new_reply": "返信を投稿",
             "remove_bookmark": "ブックマークを削除",
             "bookmark": "ブックマーク",
             "unsubscribe": "スレッドの登録を解除",
             "subscribe": "スレッドに登録",
             "return_to_topic_list": "スレッド一覧に戻る",
             "sticky": "ピン留め",
-            "locked": "ロック",
+            "locked": "封鎖",
             "replies_count": "返信数：{{count}}",
             "views_count": "閲覧数：{{count}}",
-            "a_topic_by_username_created_time_ago": "{{time_ago}}に作成された{{username}}によるスレッド",
-            "next_page": "次のページ",
-            "previous_page": "前のページ",
-            "first_page": "最初のページ",
-            "last_page": "最後のページ",
-            "this_topic_is_locked": "このスレッドはロックされました",
-            "this_topic_was_locked_by_username": "このスレッドは{{username}}によりロックされました",
+            "a_topic_by_username_created_time_ago": "{{time_ago}}に{{username}}が作成したスレッド",
+            "next_page": "次のページへ",
+            "previous_page": "前のページへ",
+            "first_page": "先頭のページへ",
+            "last_page": "最後のページへ",
+            "this_topic_is_locked": "このスレッドは封鎖されました",
+            "this_topic_was_locked_by_username": "このスレッドは{{username}}により封鎖されました",
             "moderation": "モデレーター機能"
         },
         "misc": {
@@ -620,13 +630,21 @@
             "rules_header": "規定",
             "recent_posts_header": "最新の書き込み",
             "list_header_last_topic": "最新のスレッド",
-            "new_flag": "新着"
+            "new_flag": "新着",
+            "empty_message": "スレッドがありません",
+            "there_arent_any_topics_yet": "スレッドがまだありません",
+            "subscribe_to_new_topics": "カテゴリーに登録",
+            "unsubscribe_from_topics": "カテゴリーの登録を解除",
+            "archived_flag": "アーカイブ",
+            "by_topic_author": "作成者：{{username}}"
         },
         "topic_list": {
             "views_count": "閲覧数：<s>{{count}}</s>",
             "no_posts_yet": "まだ書き込みがありません",
             "replies_count": "返信数：<s>{{count}}</s>",
-            "started_by_author": "スレッド作成者：{{topic_author}}"
+            "started_by_author": "作成者：{{topic_author}}",
+            "sticky_flag": "ピン留め",
+            "locked_flag": "封鎖"
         }
     },
     "buy_form": {
@@ -634,11 +652,11 @@
         "buy_title": "『{{title}}』を購入",
         "preorder_title": "『{{title}}』を予約",
         "sold_out_notice": "こちらの商品は現在売れ切れました。また今度改めてご確認ください。",
-        "on_sale_notice": "こちらの商品は現在セール中です。",
-        "buy_as_bundle_plural": "この商品は{{count}}作品入りのバンドル（{{price}}）でお求めいただけます：",
-        "free_pay_what_you_want": "こちらの作品は無料ですが、開発者はあなたが相応しいと思った金額での支援を受け付けております。",
+        "on_sale_notice": "セール対象商品！",
+        "buy_as_bundle_plural": "{{count}}作品入りのバンドル（{{price}}）でお求めいただけます：",
+        "free_pay_what_you_want": "こちらの作品は無料ですが、制作者はあなたが相応しいと思った金額での支援を受け付けております。",
         "no_thanks_just_take_me_to_the_downloads": "支援しないでダウンロードする",
-        "includes_steam_key": "購入する商品にSteamキーがついております。",
+        "includes_steam_key": "商品にSteamキーがついております。",
         "preorder_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で予約します。",
         "download_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で購入してダウンロードします。",
         "your_email_address": "メールアドレス",
@@ -646,7 +664,7 @@
         "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます",
         "i_already_paid_for_this": "すでに支払いが完了しました…",
         "support_message": "こちらの作品の開発を支援しましょう",
-        "this_purchase_is_a_gift": "ご購入の商品はギフト扱いになります",
+        "this_purchase_is_a_gift": "ギフトとして購入する",
         "support_the_creator_by_paying_above_the_minimum_price": "最低価格を上乗せしてクリエイターを支援する",
         "pay_with": "支払い方法",
         "credit_card": "クレジットカード",
@@ -654,7 +672,7 @@
         "continue_payment": "支払いを続ける",
         "generic_error": "ご購入の際にエラーが発生しました：{{error}}",
         "percent_off_until": "すべての商品は{{end_date}}まで<s>{{rate}}%</s>オフとなります。",
-        "also_buy_as_bundle_plural": "この商品は{{count}}作品入りのバンドル（{{price}}）でもお求めいただけます：",
+        "also_buy_as_bundle_plural": "{{count}}作品入りのバンドル（{{price}}）でもお求めいただけます：",
         "included_files": "含まれているファイル",
         "agree_to_terms": "お支払いを済ませると、ユーザーはitch.ioの<1>利用規約</1>と<2>プライバシーポリシー</2>に同意したものと見なされます。",
         "check_out_with": "決済方法",
@@ -715,28 +733,42 @@
         "new_card": "新しいカード",
         "enter_your_password_to_use_your_card": "カードを利用するにはパスワードを入力してください",
         "password": "パスワード",
-        "gift_instructions": "こちらはギフト目的の購入となります。支払いが済ませたら受領者のメールアドレスが入力できます。",
+        "gift_instructions": "ギフトとして購入します。支払いが済ませたら受領者のメールアドレスが入力できます。",
         "credit_or_debit_card": "クレジットまたはデビットカード",
         "pay_price_button": "{{price}}を支払う",
         "steam_key": "Steamキー",
         "email": "メールアドレス",
-        "name_as_it_appears_on_card": "カードに表示される通り"
+        "name_as_it_appears_on_card": "カードに記載されている名義",
+        "payment_error_help": "よくわからない場合は、上記のメッセージを添えて<a> itch.ioサポート</a>までご連絡ください。",
+        "buying_as": "購入者：",
+        "paying_price_for": "こちらの商品に{{price}}を支払う：",
+        "paying_price_vat_for": "こちらの商品に{{price}}のVATを支払う：",
+        "donating_price_to": "こちらの作品に{{price}}を支援する：",
+        "donating_price_vat_to": "こちらの作品の支援に{{price}}のVATを支払う：",
+        "you_will_receive_files": "手に入れるファイル：",
+        "linked_to_account": "こちらのアカウントにリンクされます：",
+        "youll_be_mailed_your_access_link": "アクセスURLがメールに送信されます",
+        "full_name": "カード名義人"
     },
     "collection": {
         "last_updated_date": "最終更新{{date}}",
         "edit_collection": "コレクションを編集",
-        "authors": "{{author}}によるコレクション",
-        "private_collection_message": "このコレクションはプライベート公開になっているため、貢献者以外に表示されません",
-        "edit_contributors": "貢献者を編集",
+        "authors": "{{author}}のコレクション",
+        "private_collection_message": "このコレクションはプライベート公開になっているため、管理者以外に表示されません",
+        "edit_contributors": "管理者を編集",
         "empty_collection_message": "このコレクションには何も含まれていません。",
-        "pending_invitation": "このコレクションの貢献者になるための保留中の招待があります。<a>招待を確認</a>",
-        "a_collection_by_author": "{{author}}によるコレクション",
-        "page_title": "{{collection_title}}―{{author}}によるコレクション",
+        "pending_invitation": "このコレクションの管理者になるための招待があります。<a>招待を確認</a>",
+        "a_collection_by_author": "{{author}}のコレクション",
+        "page_title": "{{collection_title}}―{{author}}のコレクション",
         "remove_item_button": "除外…",
-        "remove_confirm": "こちらをコレクションから除外してもよろしいですか"
+        "remove_confirm": "こちらをコレクションから除外してもよろしいですか",
+        "add_a_blurb": "一言を追加",
+        "edit_blurb": "一言を編集",
+        "blurb_author_says": "{{author}}からの一言"
     },
     "buy_form_popup": {
-        "powered_by_itchio": "提供{{itchio}}"
+        "powered_by_itchio": "提供{{itchio}}",
+        "author_line": "<1>作成者：</1>{{author}}"
     },
     "user_settings": {
         "profile": {
@@ -767,7 +799,9 @@
             "click_to_load_games": "埋め込まれたHTML5ゲームを再生するにはまずクリックが必要となる",
             "use_dark_theme": "可能ならダークテーマを利用する",
             "profile": "プロフィール",
-            "profile_description": "プロフィールページの内容"
+            "profile_description": "プロフィールページの内容",
+            "language_community_translation": "<s>itch.ioはコミュニティーのメンバーたちによって翻訳されました。</s>いくつの言語は部分的にしか翻訳されていません。itch.ioを自分の国の言葉でお使いになりたい場合、または何かの誤りを修正したい場合はあなたも翻訳に貢献できます。<a>もっと詳しく</a>",
+            "language": "言語設定"
         },
         "account_settings": "アカウント設定",
         "navigation": {
@@ -815,7 +849,8 @@
                 "current_password": "現在のパスワード"
             },
             "primary_email_description": "主要メールアドレス宛てにitch.ioからの通知が送信されます。",
-            "additional_emails_header": "追加メールアドレス"
+            "additional_emails_header": "追加メールアドレス",
+            "change_password_instructions": "メールアドレスが変更されましたら、新しいメールの認証が終わるまで購入済みのゲームにアクセスできなくなります。認証方法はメールに送信されます。セキュリティ上の理由により、メールアドレスの変更に現在のパスワードが求められます。"
         }
     },
     "dashboard": {
@@ -862,7 +897,7 @@
             "community_comments": "コメント",
             "community_discussion_board": "掲示板",
             "pricing_header": "価格設定",
-            "uploads_header": "アップロード",
+            "uploads_header": "ファイル一覧",
             "upload_files_button": "ファイルをアップロード",
             "add_external_file_button": "外部ファイルを追加",
             "file_size_limit": "容量制限は{{filesize}}。それ以上必要な場合は<a>連絡してください</a>",
@@ -890,7 +925,7 @@
     },
     "browse_tags": {
         "no_description_yet": "説明なし",
-        "page_title": "注目のタグ",
+        "page_title": "人気のタグ",
         "find_tag": "タグを検索",
         "commonly_tagged_with": "関連するタグ："
     },
@@ -900,7 +935,9 @@
                 "save_vote": "投票を保存",
                 "save_rating": "評価を保存",
                 "sign_up_to_rate": "<a>itch.ioアカウントを作成</a>して、評価またはコメントを投稿します。",
-                "rate_this_submission": "この作品を評価する"
+                "rate_this_submission": "この作品を評価する",
+                "vote_for_this_submission": "この作品に投票する",
+                "not_open_yet": "このゲームジャムの参加申し込みはまだ受け付けております。評価は{{start_date}}から始まります。"
             },
             "edit_this_submission_button": "この参加作品を編集",
             "remove_this_submission_button": "この参加作品を除外",
@@ -913,6 +950,45 @@
                 "empty_message": "まだ誰もコメントしていません"
             },
             "link_to_itchio_page": "{{game_title}}のitch.ioページ"
+        },
+        "header": {
+            "hosted_by": "主催者：{{hosts}}",
+            "links": {
+                "community": "コミュニティ",
+                "results": "結果",
+                "submissions": "参加作品",
+                "screenshots": "スクリーンショット",
+                "submission_feed": "参加作品のフィード",
+                "edit_jam": "ゲームジャムを編集"
+            }
+        },
+        "stats": {
+            "joined": "参加中",
+            "entries": "参加作品",
+            "ratings": "評価"
+        },
+        "submitter": {
+            "join_jam": "ゲームジャムに参加",
+            "submit_button": "参加を申し込む",
+            "or_leave_jam": "または<a>参加を取り消す</a>",
+            "joined_instructions": "ゲームジャムが開始されたらまたこのページに戻って参加申し込みをしましょう。",
+            "submissions_open_from": "参加申し込みは{{start_date}}から{{end_date}}までです",
+            "jam_is_now_over": "このゲームジャムはすでに終了しました。{{start_date}}から{{end_date}}まで開催されました。",
+            "countdown": {
+                "starts_in": "開始まであと",
+                "submissions_due_in": "参加申し込み終了まであと",
+                "voting_ends_in": "投票終了まであと"
+            },
+            "submission_is_closed_for_voting": "参加申し込みを締め切りました。現在投票受付中です"
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "参加作品がまだありません",
+            "there_were_no_submissions": "参加作品がありません"
+        },
+        "results": {
+            "submissions": {
+                "view_submission_page": "参加ページを表示"
+            }
         }
     },
     "add_to_collection": {
@@ -924,6 +1000,11 @@
     "jams": {
         "host_a_jam_button": "ゲームジャムを主催",
         "manage_submissions_link": "ゲームジャムと参加作品を管理",
-        "browse_top_past_jams": "注目の過去のゲームジャム"
+        "browse_top_past_jams": "過去の人気ゲームジャム",
+        "dont_see_something_you_like_header": "気になるものは見つかりませんか？",
+        "browse_upcoming_this_month": "今月開催予定",
+        "brose_featured_jams": "注目のゲームジャム",
+        "browse_in_progress": "開催中",
+        "count_joined": "参加作品数{{count}}点"
     }
 }
