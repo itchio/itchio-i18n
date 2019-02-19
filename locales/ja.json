@@ -644,7 +644,10 @@
             "replies_count": "返信数：<s>{{count}}</s>",
             "started_by_author": "作成者：{{topic_author}}",
             "sticky_flag": "ピン留め",
-            "locked_flag": "封鎖"
+            "locked_flag": "封鎖",
+            "new_flag": "新着",
+            "list_header_topic_title": "スレッド",
+            "list_header_last_post": "最新の書き込み"
         }
     },
     "buy_form": {
