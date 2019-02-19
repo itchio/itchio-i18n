@@ -159,7 +159,9 @@
             "required": "Obligatori",
             "save": "Desa",
             "email_address": "Adreça de correu electrònic",
-            "submit": "Envia"
+            "submit": "Envia",
+            "optional": "Opcional",
+            "search": "Cerca"
         },
         "page_number": "Pàgina {{page_number}}",
         "follow_button": {
@@ -187,7 +189,9 @@
             "next_page": "Pàgina següent",
             "prev": "Anterior",
             "next": "Següent",
-            "current_page_of_total": "Pàgina {{current_page}} de {{total_pages}}"
+            "current_page_of_total": "Pàgina {{current_page}} de {{total_pages}}",
+            "previous_page": "Pàgina anterior",
+            "first_page": "Primera pàgina"
         },
         "collection_button": {
             "add_to_collection": "Afegeix a una col·lecció"
@@ -548,6 +552,41 @@
             "body": "Cos",
             "topic_tag": "Etiqueta",
             "your_moderators_are": "itch.io no modera aquests fòrums, els moderadors són:"
+        },
+        "misc": {
+            "new_topic_button": "Tema nou"
+        },
+        "category": {
+            "topics_count": "{{count}} tema",
+            "topics_count_plural": "{{count}} temes",
+            "create_first_topic_button": "Crea el primer tema",
+            "empty_message": "No hi ha cap tema",
+            "there_arent_any_topics_yet": "Encara no hi ha cap tema",
+            "search_community_label": "Cerca a la comunitat",
+            "subscribe_to_new_topics": "Subscriu-me a temes nous",
+            "unsubscribe_from_topics": "Cancel·la la subscripció",
+            "stats": {
+                "topics": "Temes"
+            },
+            "rules_header": "Normes",
+            "recent_posts_header": "Missatges recents",
+            "list_header_last_topic": "Darrer tema",
+            "new_flag": "Nou",
+            "archived_flag": "Arxivat",
+            "by_topic_author": "per {{username}}"
+        },
+        "topic_list": {
+            "views_count": "<s>{{count}}</s> visualització",
+            "views_count_plural": "<s>{{count}}</s> visualitzacions",
+            "no_posts_yet": "Encara no hi ha missatges",
+            "replies_count": "<s>{{count}}</s> resposta",
+            "replies_count_plural": "<s>{{count}}</s> respostes",
+            "started_by_author": "iniciat per {{topic_author}}",
+            "new_flag": "Nou",
+            "sticky_flag": "Fixat",
+            "locked_flag": "Tancat",
+            "list_header_topic_title": "Tema",
+            "list_header_last_post": "Darrer missatge"
         }
     },
     "buy_form": {
@@ -1045,5 +1084,43 @@
             "payment_warning_header": "No heu configurat els pagaments",
             "payment_warning_info": "Si definiu un preu mínim més gran que 0, ningú no podrà descarregar el vostre projecte. <a>Edita el compte</a>"
         }
+    },
+    "add_to_collection": {
+        "dialog_title": "Afegeix {{project_title}} a la col·lecció",
+        "add_reason": "Afegiu aquest projecte a una col·lecció per a desar-lo per a més tard.",
+        "already_in_collections": "Aquest projecte ja és a les següents col·leccions:",
+        "count_items": "{{count}} element",
+        "count_items_plural": "{{count}} elements",
+        "add_to_existing": "Afegeix a una col·lecció existent",
+        "private_collection_title": "[Privat] {{title}}",
+        "add_to_new": "Afegeix a una nova col·lecció titulada",
+        "default_title": "Col·lecció de {{username}}",
+        "add_button": "Afegeix a una col·lecció",
+        "manage_collections_link": "Gestiona les col·leccions",
+        "private_collection_option": "Col·lecció privada — Només vós en podeu veure els continguts",
+        "about_this_project_label": "Quant a aquest projecte"
+    },
+    "game_grid": {
+        "in_bundle": "En un paquet"
+    },
+    "jams": {
+        "jams_created_header": "Jams que heu creat",
+        "jams_joined_header": "Jams a què us heu unit",
+        "page_title": "Game jams a itch.io",
+        "page_summary": "itch.io és un lloc on allotjar i participar en game jams en línia. Tothom pot crear i allotjar una jam instantàniament.",
+        "games_created": "S'ha creat <s>{{count}} joc</s> en jams allotjades a itch.io.",
+        "games_created_plural": "S'han creat <s>{{count}} jocs</s> en jams allotjades a itch.io.",
+        "host_a_jam_button": "Allotja una jam",
+        "manage_submissions_link": "Gestiona les meves participacions i les jams",
+        "browse_jams_header": "Explora les jams",
+        "jam_calendar_header": "Calendari de jams",
+        "host_your_own_jam_button": "Allotja la meva pròpia jam",
+        "host_or_explore_links": "<1>Allotgeu la vostra pròpia jam</1> o <2>Exploreu totes les jams</2>",
+        "dont_see_something_you_like_header": "No veieu res que us agradi?",
+        "browse_upcoming_this_month": "Properes jams durant aquest mes",
+        "brose_featured_jams": "Jams destacades",
+        "browse_top_past_jams": "Jams anteriors més populars",
+        "browse_in_progress": "En procés",
+        "count_joined": "{{count}} s'hi han unit"
     }
 }
