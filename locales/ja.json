@@ -185,7 +185,8 @@
             "save": "保存",
             "email_address": "メールアドレス",
             "submit": "送信",
-            "optional": "任意"
+            "optional": "任意",
+            "search": "検索"
         },
         "page_number": "{{page_number}}ページ目",
         "collection_button": {
@@ -437,7 +438,7 @@
         },
         "post_a_new_topic": "新しいスレッドを作成",
         "post_first_topic": "最初のスレッドを投稿",
-        "community_sticky": "ピン止め"
+        "community_sticky": "ピン留め"
     },
     "blog": {
         "all_posts": "すべての投稿",
@@ -567,7 +568,7 @@
             "title": "タイトル",
             "topic_tag": "タグ",
             "your_moderators_are": "itch.ioはこの掲示板を管理しておりません。この掲示板の管理者は：",
-            "sticky": "ピン止め",
+            "sticky": "ピン留め",
             "locked": "ロック",
             "moderation_options": "モデレーター機能",
             "i_agree_to_the_rules_above": "上記の規定に同意します",
@@ -591,7 +592,7 @@
             "unsubscribe": "スレッドの登録を解除",
             "subscribe": "スレッドに登録",
             "return_to_topic_list": "スレッド一覧に戻る",
-            "sticky": "ピン止め",
+            "sticky": "ピン留め",
             "locked": "ロック",
             "replies_count": "返信数：{{count}}",
             "views_count": "閲覧数：{{count}}",
@@ -805,7 +806,7 @@
         "stats": {
             "gross_revenue": "売上総額",
             "payments": "購入回数",
-            "views": "アクセス数",
+            "views": "閲覧数",
             "downloads": "ダウンロード数",
             "followers": "フォロワー"
         },
