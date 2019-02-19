@@ -161,7 +161,9 @@
             "required": "Necesar",
             "save": "Salvează",
             "email_address": "Adresă de e-mail",
-            "submit": "Trimite"
+            "submit": "Trimite",
+            "optional": "Opțional",
+            "search": "Caută"
         },
         "page_number": "Pagina {{page_number}}",
         "follow_button": {
@@ -189,7 +191,9 @@
             "next_page": "Pagina următoare",
             "prev": "Înapoi",
             "next": "Înainte",
-            "current_page_of_total": "Pagina {{current_page}} din {{total_pages}}"
+            "current_page_of_total": "Pagina {{current_page}} din {{total_pages}}",
+            "previous_page": "Pagina precedentă",
+            "first_page": "Prima pagină"
         },
         "collection_button": {
             "add_to_collection": "Adaugă la colecție"
@@ -216,7 +220,8 @@
             "released": "Publicat",
             "in_development": "În lucru",
             "canceled": "Anulat",
-            "prototype": "Prototip"
+            "prototype": "Prototip",
+            "on_hold": "Întrerupt"
         }
     },
     "blog": {
@@ -474,7 +479,31 @@
             "view_all_from_jam": "Vezi tot de la concurs",
             "more_from_itchio_header": "Vezi mai multe de pe itch.io",
             "see_everything": "Vezi tot",
-            "powered_by": "<s>Cu sprijinul</s> {{itchio_logo}}"
+            "powered_by": "<s>Cu sprijinul</s> {{itchio_logo}}",
+            "app_learn_more": "<s>Nou!</s> Încearcă aplicația pentru desktop itch.io pentru a descărca jocuri și a-ți administra biblioteca. <a>Află mai multe</a>"
+        }
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "Acest subiect este arhivat și nu mai pot fi adăugate comentarii",
+            "reply": "Răspunde",
+            "log_in_to_reply": "Conectează-te pentru a răspunde",
+            "unlisted_topic_notice": "<s>Un moderator a ascuns subiectul.</s> Acesta nu mai este vizibil în listă dar încă poate fi editat și se pot primi comentarii.",
+            "join_the_discussion": "Alătură-te discuției. Conectează-te sau creează gratuit un cont itch.io pentru a continua.",
+            "reply_to_someone_else": "Vrei să scrii un răspuns cuiva? Apasă <s>răspunde</s> sub postarea lor.",
+            "this_reply_will_go_to_yourself": "Acest răspuns îți va fi trimis ție..",
+            "this_reply_will_go_to_the_topic_author": "Acest răspuns va fi trimis autorului subiectului, {{username}}.",
+            "new_reply": "Răspuns nou",
+            "remove_bookmark": "Șterge semnul de carte",
+            "bookmark": "Adaugă semn de carte",
+            "unsubscribe": "Dezabonează-te",
+            "subscribe": "Abonează-te",
+            "return_to_topic_list": "Înapoi la lista subiectelor",
+            "sticky": "Fixat",
+            "locked": "Blocat",
+            "moderation": "Moderare",
+            "replies_count": "Răspunsuri: {{count}}",
+            "views_count": "Vizualizări: {{count}}"
         }
     }
 }
