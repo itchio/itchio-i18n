@@ -617,7 +617,15 @@
             "stats": {
                 "topics": "スレッド"
             },
-            "rules_header": "規定"
+            "rules_header": "規定",
+            "recent_posts_header": "最新の書き込み",
+            "list_header_last_topic": "最新のスレッド",
+            "new_flag": "新着"
+        },
+        "topic_list": {
+            "views_count": "閲覧数：<s>{{count}}</s>",
+            "no_posts_yet": "まだ書き込みがありません",
+            "replies_count": "レス数：<s>{{count}}</s>"
         }
     },
     "buy_form": {
