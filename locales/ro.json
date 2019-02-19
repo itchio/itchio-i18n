@@ -503,7 +503,18 @@
             "locked": "Blocat",
             "moderation": "Moderare",
             "replies_count": "Răspunsuri: {{count}}",
-            "views_count": "Vizualizări: {{count}}"
+            "views_count": "Vizualizări: {{count}}",
+            "a_topic_by_username_created_time_ago": "Subiect creat de {{username}} {{time_ago}}",
+            "next_page": "Pagina următoare",
+            "previous_page": "Pagina precedentă",
+            "first_page": "Prima pagină",
+            "last_page": "Ultima pagină",
+            "this_topic_is_locked": "Acest subiect este blocat",
+            "this_topic_was_locked_by_username": "Subiectul a fost blocat de {{username}}"
+        },
+        "post_list": {
+            "deleted_post": "Postare ștearsă",
+            "post_from_blocked_account": "Postare de la un cont blocat"
         }
     }
 }
