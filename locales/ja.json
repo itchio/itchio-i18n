@@ -170,7 +170,9 @@
             "next_page": "次のページ",
             "prev": "前へ",
             "next": "次へ",
-            "current_page_of_total": "{{total_pages}}ページ中の {{current_page}}ページ目"
+            "current_page_of_total": "{{total_pages}}ページ中の {{current_page}}ページ目",
+            "previous_page": "前のページへ",
+            "first_page": "先頭のページへ"
         },
         "platforms": {
             "web": "ブラウザゲーム"
@@ -610,7 +612,12 @@
         },
         "category": {
             "topics_count": "{{count}}件のスレッド",
-            "create_first_topic_button": "最初のスレッドを作成"
+            "create_first_topic_button": "最初のスレッドを作成",
+            "search_community_label": "コミュニティを検索",
+            "stats": {
+                "topics": "スレッド"
+            },
+            "rules_header": "ガイドライン"
         }
     },
     "buy_form": {
@@ -883,7 +890,8 @@
             "rate_submission": {
                 "save_vote": "投票を保存",
                 "save_rating": "評価を保存",
-                "sign_up_to_rate": "<a>itch.ioアカウントを作成</a>して、評価またはコメントを投稿します。"
+                "sign_up_to_rate": "<a>itch.ioアカウントを作成</a>して、評価またはコメントを投稿します。",
+                "rate_this_submission": "この作品を評価する"
             },
             "edit_this_submission_button": "この参加作品を編集",
             "remove_this_submission_button": "この参加作品を除外",
