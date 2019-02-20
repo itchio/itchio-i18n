@@ -49,11 +49,11 @@
             "log_out": "Wyloguj",
             "settings": "Ustawienia",
             "view_profile": "Wyświetl profil",
-            "host_game_jam": "Zorganizuj game jam",
+            "host_game_jam": "Zorganizuj Game Jam",
             "sales_bundles": "Wyprzedaże i bundle",
             "new_project": "Wyślij nowy projekt",
             "dashboard": "Panel",
-            "game_jams": "Game jamy",
+            "game_jams": "Game Jamy",
             "recommendations": "Rekomendacje",
             "library": "Moja biblioteka",
             "feed": "Moja tablica",
@@ -84,8 +84,8 @@
         "recommendations_based_on": "Na podstawie twoich zakupów, pobrań i ocen",
         "fresh_games": "Świeże gry",
         "view_more": "Pokaż więcej",
-        "featured_jams": "Polecane jamy",
-        "view_all_jams": "Pokaż wszystkie jamy",
+        "featured_jams": "Polecane Jamy",
+        "view_all_jams": "Pokaż wszystkie Jamy",
         "fresh_games_description": "Ciągle aktualizowane o nowe gry na itch.io",
         "people_to_follow": "Ludzie do śledzenia",
         "view_all_games_on_sale": "Wszystkie gry na wyprzedaży",
@@ -100,7 +100,7 @@
         "nav": {
             "all_games": "Wszystkie gry",
             "bundles": "Bundle",
-            "game_jams": "Game jamy",
+            "game_jams": "Game Jamy",
             "devlogs": "Devlogi",
             "community": "Społeczność"
         },
@@ -251,7 +251,7 @@
             "follow": "Musisz posiadać konto na itch.io zanim będziesz mógł śledzić innego użytkownika.",
             "follow_username": "Musisz posiadać konto na itch.io zanim będziesz mógł śledzić <1>{{username}}</1>.",
             "collection": "Musisz posiadać konto na itch.io zanim będziesz mógł dodać do kolekcji.",
-            "jam_submit": "Musisz posiadać konto na itch.io zanim będziesz mógł dodać do jamu.",
+            "jam_submit": "Musisz posiadać konto na itch.io, żeby dodać zgłoszenie do Jamu.",
             "claim_object": "Proszę się zalogować lub stworzyć konto aby odebrać {{noun}}",
             "recent_purchases": "Zaloguj się, aby przypisać swoje ostatnie zakupy."
         },
@@ -577,11 +577,11 @@
             },
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "Uczestnik {{jam_title}}",
-                "view_the_submission_page": "Pokaż stronę jamu",
+                "view_the_submission_page": "Pokaż stronę Jamu",
                 "accepting_ratiings": "Jam pozwala teraz oceniać zgłoszone gry. <a>Dowiedz się więcej</a>",
                 "you_rated_this_game": "Już oceniono tę grę",
                 "now_accepting_ratings": "Jam pozwala teraz oceniać zgłoszone gry.",
-                "rating_instructions": "Oceń i skomentuj to zgłoszenie do jamu poprzez stronę zgłoszenia z linku powyżej."
+                "rating_instructions": "Oceń i skomentuj to zgłoszenie do Jamu poprzez stronę zgłoszenia z linku powyżej."
             }
         },
         "after_download": {
@@ -591,7 +591,7 @@
             "more_from_creator": "Możesz znaleźć więcej od tego samego twórcy na ich stronie: {{profile}}.",
             "check_popup_blocker": "Pobieranie powinno się zaraz rozpocząć. Jeśli nie, sprawdź blokadę wyskakujących okien.",
             "check_out_more_from_jam_title": "Sprawdź więcej z {{jam_title}}",
-            "view_all_from_jam": "Pokaż wszystko z jamu",
+            "view_all_from_jam": "Pokaż wszystko z Jamu",
             "more_from_itchio_header": "Sprawdź więcej z itch.io",
             "see_everything": "Zobacz wszystko",
             "powered_by": "<s>Obsługiwane przez</s> {{itchio_logo}}",
@@ -797,7 +797,7 @@
             "thank_you_for_donating_author": "Dziękujemy za darowiznę dla {{product_title}} od {{author}}.",
             "unique_url_for_your_payment": "Ta strona zawiera unikatowy URL twojej płatności.",
             "access_latest_files_from_this_page": "Zawsze masz dostęp do najnowszych plików na tej stronie.",
-            "receipt_support_information": "Powinieneś otrzymać e-mail z linkiem do tej strony. Jeśli kiedykolwiek stracisz ten URL, możesz zażądać wysłania kolejnego e-maila na <a>stronie pomocy</a>.",
+            "receipt_support_information": "Został do ciebie wysłany e-mail z linkiem do tej strony. Jeśli kiedykolwiek stracisz ten URL, możesz zażądać wysłania kolejnego e-maila na <a>stronie pomocy</a>.",
             "percent_off": "{{percent}}% zniżki",
             "linked_user_message": "Ten zakup jest przypisany do konta {{username}}.",
             "youve_been_gifted": "Otrzymano prezent {{product_title}}.",
@@ -890,7 +890,7 @@
                 "overview": "Przegląd",
                 "screenshots": "Zrzuty ekranu",
                 "submission_feed": "Kanał zgłoszeń",
-                "edit_jam": "Edytuj jam"
+                "edit_jam": "Edytuj Jam"
             }
         },
         "stats": {
@@ -899,14 +899,14 @@
             "ratings": "Oceny"
         },
         "submitter": {
-            "join_jam": "Weź udział w jamie",
+            "join_jam": "Weź udział w Jamie",
             "submit_button": "Zgłoś swój projekt",
-            "or_leave_jam": "lub <a>Opuść jam</a>",
-            "youve_joined": "Bierzesz udział w tym jamie.",
-            "joined_instructions": "Wróć na tę stronę po rozpoczęciu jamu, żeby zgłosić swój projekt.",
-            "leave_jam": "Opuść jam",
+            "or_leave_jam": "lub <a>Opuść Jam</a>",
+            "youve_joined": "Bierzesz udział w tym Jamie.",
+            "joined_instructions": "Wróć na tę stronę po rozpoczęciu Jamu, żeby zgłosić swój projekt.",
+            "leave_jam": "Opuść Jam",
             "submissions_open_from": "Zgłoszenia trwają od {{start_date}} do {{end_date}}",
-            "jam_is_now_over": "Ten jam się już skończył. Trwał on od {{start_date}} do {{end_date}}.",
+            "jam_is_now_over": "Ten Jam się już skończył. Trwał on od {{start_date}} do {{end_date}}.",
             "view_results": "Pokaż wyniki",
             "view_entries_0": "Pokaż {{count}} zgłoszenie",
             "view_entries_1": "Pokaż {{count}} zgłoszenia",
@@ -922,7 +922,7 @@
         "submissions": {
             "there_are_no_submissions_yet": "Nie ma na razie zgłoszeń",
             "there_were_no_submissions": "Nie było zgłoszeń",
-            "submissions_will_be_available_after_the_jam_has_ended": "Zgłoszenia będą dostępne po zakończeniu jamu",
+            "submissions_will_be_available_after_the_jam_has_ended": "Zgłoszenia będą dostępne po zakończeniu Jamu",
             "help_submissions_in_need_of_ratings": "Pomóż ocenić zgłoszenia, które mają mało ocen: <a>Zgłoszenia wymagające ocen</a>",
             "filters": {
                 "all_submissions": "Wszystkie zgłoszenia",
@@ -980,7 +980,7 @@
             "results_table_raw_score": "Wstępny wynik",
             "edit_this_submission_button": "Edytuj to zgłoszenie",
             "remove_this_submission_button": "Usuń to zgłoszenie",
-            "a_jam_submission": "Zgłoszenie do jamu",
+            "a_jam_submission": "Zgłoszenie do Jamu",
             "view_game_page": "Pokaż stronę gry",
             "view_project_page": "Pokaż stronę projektu",
             "comments": {
@@ -992,7 +992,7 @@
             "downloads": "Pobrania",
             "play_game": "Zagraj",
             "run_project": "Rozpocznij projekt",
-            "score_information": "Wynik jest dostosowany ze wstępnego wyniku, przy pomocy mediany ocen na grę w jamie.",
+            "score_information": "Wynik jest dostosowany ze wstępnego wyniku, przy pomocy mediany ocen na grę w Jamie.",
             "ranked_from_count_plural": "Sklasyfikowane na podstawie <s>{{count}} ocen</s>.",
             "ranked_from_count_0": "Sklasyfikowane na podstawie <s>{{count}} oceny</s>.",
             "ranked_from_count_1": "Sklasyfikowane na podstawie <s>{{count}} ocen</s>.",
@@ -1012,14 +1012,14 @@
                 "private_field": "(prywatne)",
                 "vote_for_this_submission": "Głosuj na to zgłoszenie",
                 "rate_this_submission": "Oceń to zgłoszenie",
-                "not_open_yet": "Okres zgłoszeń dla tego jamu jeszcze się nie zakończył. Ocenianie rozpoczyna się {{start_date}}.",
-                "owner_message": "To jest twoje zgłoszenie, nie możesz go oceniać. Inni uczestnicy tego jamu będą mogli tutaj ocenić twój projekt.",
+                "not_open_yet": "Okres zgłoszeń dla tego Jamu jeszcze się nie zakończył. Ocenianie rozpoczyna się {{start_date}}.",
+                "owner_message": "To jest twoje zgłoszenie, nie możesz go oceniać. Inni uczestnicy tego Jamu będą mogli tutaj ocenić twój projekt.",
                 "unavailable_to_rate": "Nie możesz oceniać tego projektu, bez zgłoszenia najpierw własnego. Możesz jednak zostawić komentarz poniżej.",
                 "sign_up_to_rate": "<a>Zaloguj się kontem itch.io</a> żeby oceniać i komentować.",
                 "sign_up_to_vote": "<a>Zaloguj się kontem itch.io</a>, żeby głosować i komentować.",
                 "participate_to_rate_message": "Żeby oceniać to zgłoszenie musisz <a>zalogować się do itch.io</a> i zgłosić własny projekt. Każdy właściciel konta może zostawić komentarz.",
-                "you_will_be_able_to_rate_if_you_submit": "Będziesz mieć możliwość oceny tego zgłoszenia, jeśli zgłosisz swój projekt w tym jamie.",
-                "other_participants_can_rate": "Inni uczestnicy jamu będą mogli oceniać twoje zgłoszenie.",
+                "you_will_be_able_to_rate_if_you_submit": "Będziesz mieć możliwość oceny tego zgłoszenia, jeśli dodasz swój projekt w tym Jamie.",
+                "other_participants_can_rate": "Inni uczestnicy Jamu będą mogli oceniać twoje zgłoszenie.",
                 "save_vote": "Zapisz głos",
                 "save_rating": "Zapisz ocenę",
                 "you_havent_rated_this_submission_yet": "Jeszcze nie oceniłeś tego zgłoszenia.",
@@ -1049,7 +1049,7 @@
             "payouts_link": "Wypłaty",
             "sales_bundles_link": "Wyprzedaże i bundle",
             "coop_bundles_link": "Wspólne bundle",
-            "game_jams_link": "Game jamy"
+            "game_jams_link": "Game Jamy"
         },
         "create_new_project_button": "Utwórz nowy projekt",
         "project_list": {
@@ -1119,6 +1119,25 @@
         "count_items_2": "{{count}} elementów",
         "add_to_existing": "Dodaj do istniejącej kolekcji",
         "private_collection_title": "[Prywatne] {{title}}",
-        "add_to_new": "Dodaj do nowej kolekcji zatytułowanej"
+        "add_to_new": "Dodaj do nowej kolekcji o nazwie",
+        "default_title": "Kolekcja {{username}}"
+    },
+    "jams": {
+        "jams_created_header": "Jamy utworzone przez ciebie",
+        "jams_joined_header": "Jamy w których bierzesz udział",
+        "page_title": "Game Jamy na itch.io",
+        "page_summary": "itch.io to miejsce do hostowania i uczestniczenia w Game Jamach internetowych. Każdy może błyskawicznie utworzyć Jam i go poprowadzić.",
+        "games_created_0": "<s>{{count}} gra</s> została stworzona dla Jamów prowadzonych na itch.io.",
+        "games_created_1": "<s>{{count}} gry</s> zostały stworzone dla Jamów prowadzonych na itch.io.",
+        "games_created_2": "<s>{{count}} gier</s> zostało stworzonych dla Jamów prowadzonych na itch.io.",
+        "host_a_jam_button": "Poprowadź jam",
+        "manage_submissions_link": "Zarządzaj swoimi zgłoszeniami i Jamami",
+        "browse_jams_header": "Przeglądaj Jamy",
+        "jam_calendar_header": "Kalendarz Jamów",
+        "host_your_own_jam_button": "Poprowadź swój własny Jam",
+        "host_or_explore_links": "<1>Poprowadź swój własny Jam</1> lub <2>Przeglądaj wszystkie Jamy</2>",
+        "dont_see_something_you_like_header": "Nie widzisz niczego, co ci się podoba?",
+        "brose_featured_jams": "Polecane Jamy",
+        "browse_top_past_jams": "Najlepsze zakończone Jamy"
     }
 }
