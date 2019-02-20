@@ -436,7 +436,9 @@
             "recent_posts_header": "Najnowsze posty",
             "list_header_last_topic": "Ostatni temat",
             "new_flag": "Nowy",
-            "archived_flag": "Zarchiwizowane"
+            "archived_flag": "Zarchiwizowane",
+            "unsubscribe_from_topics": "Anuluj subskrypcję",
+            "by_topic_author": "od {{username}}"
         },
         "topic_list": {
             "views_count_0": "<s>{{count}}</s> wyświetlenie",
@@ -450,7 +452,8 @@
             "sticky_flag": "Przyklejony",
             "locked_flag": "Zablokowany",
             "list_header_topic_title": "Temat",
-            "list_header_last_post": "Ostatni post"
+            "list_header_last_post": "Ostatni post",
+            "no_posts_yet": "Na razie brak postów"
         }
     },
     "game": {
