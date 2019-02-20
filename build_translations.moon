@@ -13,7 +13,7 @@ argparse = require "argparse"
 
 parser = argparse "build_translations.moon", "Build all translations into single file"
 parser\option "--source-locale", "Which locale is the default", SOURCE_LOCALE
-parser\option "--dir", "Directory to load translation files from", DIR
+parser\option "--dir", "Directory to load translation files from", DIR, (str) -> if str\match "/$" then str else "#{str}/"
 parser\option "--format", "Output format (lua, json, json_raw)", "lua", types.one_of({"lua", "json", "json_raw"})\transform
 parser\flag "--nested", "Nest keys", false
 
@@ -34,22 +34,46 @@ flatten_nested = (t, prefix="", out={}) ->
 
 empty_object = types.equivalent {}
 
-for file in assert lfs.dir args.dir
-  continue if file\match "^%.+$"
-  name = file\match "^([%w_]+).json$"
-  continue unless name
-  handle = assert io.open "#{args.dir}/#{file}"
-  contents = assert handle\read "*a"
+merge_tables = (target, to_merge) ->
+  assert type(target) == "table", "target for merge is not table"
+  assert type(to_merge) == "table", "table to merge is not table"
 
-  object = json.decode contents
+  for k, v in pairs to_merge
+    if target[k]
+      if type(target[k]) == "string"
+        error "can't merge into string: #{k}"
+      merge_tables target[k], v
+    else
+      target[k] = v
 
-  if empty_object object
-    continue
+visit_directory = (dir) ->
+  for file in assert lfs.dir dir
+    continue if file\match "^%.+$"
+    path = "#{dir}#{file}"
 
-  output[name] = if args.nested
-    object
-  else
-    flatten_nested object
+    switch lfs.attributes path, "mode"
+      when "directory"
+        visit_directory "#{path}/"
+      when "file"
+        name = file\match "^([%w_]+).json$"
+        continue unless name
+        handle = assert io.open path
+        contents = assert handle\read "*a"
+
+        object = json.decode contents
+
+        if empty_object object
+          continue
+
+        unless args.nested
+          object = flatten_nested object
+
+        if output[name]
+          merge_tables output[name], object
+        else
+          output[name] = object
+
+visit_directory args.dir
 
 -- summarize completion
 if args.format == "lua"
