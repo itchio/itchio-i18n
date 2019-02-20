@@ -7,12 +7,15 @@ lfs = require "lfs"
 DIR = "locales/"
 SOURCE_LOCALE = "en"
 
+import types from require "tableshape"
+
 argparse = require "argparse"
 
 parser = argparse "build_translations.moon", "Build all translations into single file"
 parser\option "--source-locale", "Which locale is the default", SOURCE_LOCALE
 parser\option "--dir", "Directory to load translation files from", DIR
-parser\option "--format", "How to render", "lua"
+parser\option "--format", "Output format (lua, json, json_raw)", "lua", types.one_of({"lua", "json", "json_raw"})\transform
+parser\flag "--nested", "Nest keys", false
 
 args = parser\parse [v for _, v in ipairs arg]
 
@@ -37,7 +40,10 @@ for file in assert lfs.dir args.dir
   contents = assert handle\read "*a"
 
   object = json.decode contents
-  output[name] = flatten_nested object
+  output[name] = if args.nested
+    object
+  else
+    flatten_nested object
 
 -- summarize completion
 if args.format == "lua"
@@ -149,10 +155,14 @@ switch args.format
 
     import parse_tags from require "helpers.compiler"
 
-    document = types.map_of types.string, types.map_of types.string, types.all_of {
-      types.string / (s) -> parse_tags\match s
-      convert_syntax
+    local strings_level
+    strings_level = types.map_of types.string, types.one_of {
+      types.string / parse_tags\match * convert_syntax
+      if args.nested
+        types.proxy -> strings_level
     }
+
+    document = types.map_of types.string, strings_level
 
     print json.encode assert document\transform output
   when "lua"
