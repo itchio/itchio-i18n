@@ -1,1 +1,2 @@
 : locales/*.json |> ./build_translations > %o |> ../translations.lua
+: locales/*.json |> ./build_translations --nested --format json | jq -S > %o |> ../translations.json
