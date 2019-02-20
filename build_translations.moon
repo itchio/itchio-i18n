@@ -32,6 +32,8 @@ flatten_nested = (t, prefix="", out={}) ->
 
   out
 
+empty_object = types.equivalent {}
+
 for file in assert lfs.dir args.dir
   continue if file\match "^%.+$"
   name = file\match "^([%w_]+).json$"
@@ -40,6 +42,10 @@ for file in assert lfs.dir args.dir
   contents = assert handle\read "*a"
 
   object = json.decode contents
+
+  if empty_object object
+    continue
+
   output[name] = if args.nested
     object
   else
