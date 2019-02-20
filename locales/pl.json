@@ -1120,7 +1120,11 @@
         "add_to_existing": "Dodaj do istniejącej kolekcji",
         "private_collection_title": "[Prywatne] {{title}}",
         "add_to_new": "Dodaj do nowej kolekcji o nazwie",
-        "default_title": "Kolekcja {{username}}"
+        "default_title": "Kolekcja {{username}}",
+        "add_button": "Dodaj do kolekcji",
+        "manage_collections_link": "Zarządzaj kolekcjami",
+        "private_collection_option": "Kolekcja prywatna - tylko Ty możesz zobaczyć jej zawartość",
+        "about_this_project_label": "O tym projekcie"
     },
     "jams": {
         "jams_created_header": "Jamy utworzone przez ciebie",
@@ -1138,6 +1142,12 @@
         "host_or_explore_links": "<1>Poprowadź swój własny Jam</1> lub <2>Przeglądaj wszystkie Jamy</2>",
         "dont_see_something_you_like_header": "Nie widzisz niczego, co ci się podoba?",
         "brose_featured_jams": "Polecane Jamy",
-        "browse_top_past_jams": "Najlepsze zakończone Jamy"
+        "browse_top_past_jams": "Najlepsze zakończone Jamy",
+        "browse_upcoming_this_month": "Nadchodzące w tym miesiącu",
+        "browse_in_progress": "W trakcie",
+        "count_joined": "{{count}} dołączyło"
+    },
+    "game_grid": {
+        "in_bundle": "W pakiecie"
     }
 }
