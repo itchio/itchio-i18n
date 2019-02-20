@@ -161,7 +161,9 @@
             "required": "Wymagane",
             "save": "Zapisz",
             "email_address": "Adres e-mail",
-            "submit": "Wyślij"
+            "submit": "Wyślij",
+            "optional": "Opcjonalny",
+            "search": "Szukaj"
         },
         "page_number": "Strona {{page_number}}",
         "follow_button": {
@@ -189,7 +191,9 @@
             "next_page": "Następna strona",
             "prev": "Poprzednia",
             "next": "Następna",
-            "current_page_of_total": "Strona {{current_page}} z {{total_pages}}"
+            "current_page_of_total": "Strona {{current_page}} z {{total_pages}}",
+            "previous_page": "Poprzednia strona",
+            "first_page": "Pierwsza strona"
         },
         "collection_button": {
             "add_to_collection": "Dodaj do kolekcji"
@@ -412,6 +416,41 @@
             "body": "Zawartość",
             "topic_tag": "Tag",
             "your_moderators_are": "itch.io nie moderuje tych forów, moderatorami są:"
+        },
+        "misc": {
+            "new_topic_button": "Nowy temat"
+        },
+        "category": {
+            "topics_count_0": "{{count}} temat",
+            "topics_count_1": "{{count}} tematy",
+            "topics_count_2": "{{count}} tematów",
+            "create_first_topic_button": "Utwórz pierwszy temat",
+            "empty_message": "Brak tematów",
+            "there_arent_any_topics_yet": "Nie ma jeszcze żadnych tematów",
+            "search_community_label": "Przeszukaj społeczność",
+            "subscribe_to_new_topics": "Subskrybuj nowe tematy",
+            "stats": {
+                "topics": "Tematy"
+            },
+            "rules_header": "Zasady",
+            "recent_posts_header": "Najnowsze posty",
+            "list_header_last_topic": "Ostatni temat",
+            "new_flag": "Nowy",
+            "archived_flag": "Zarchiwizowane"
+        },
+        "topic_list": {
+            "views_count_0": "<s>{{count}}</s> wyświetlenie",
+            "views_count_1": "<s>{{count}}</s> wyświetlenia",
+            "views_count_2": "<s>{{count}}</s> wyświetleń",
+            "replies_count_0": "<s>{{count}}</s> odpowiedź",
+            "replies_count_1": "<s>{{count}}</s> odpowiedzi",
+            "replies_count_2": "<s>{{count}}</s> odpowiedzi",
+            "started_by_author": "rozpoczęte przez {{topic_author}}",
+            "new_flag": "Nowe",
+            "sticky_flag": "Przyklejony",
+            "locked_flag": "Zablokowany",
+            "list_header_topic_title": "Temat",
+            "list_header_last_post": "Ostatni post"
         }
     },
     "game": {
@@ -1067,5 +1106,16 @@
             "payment_warning_header": "Nie masz skonfigurowanych płatności",
             "payment_warning_info": "Jeśli ustawisz cenę minimalną powyżej 0, nikt nie będzie mógł pobrać twojego projektu. <a>Edytuj konto</a>"
         }
+    },
+    "add_to_collection": {
+        "dialog_title": "Dodaj {{project_title}} do kolekcji",
+        "add_reason": "Dodaj ten projekt do kolekcji, aby zapisać go na później.",
+        "already_in_collections": "Ten projekt znajduje się już w następujących kolekcjach:",
+        "count_items_0": "{{count}} element",
+        "count_items_1": "{{count}} elementy",
+        "count_items_2": "{{count}} elementów",
+        "add_to_existing": "Dodaj do istniejącej kolekcji",
+        "private_collection_title": "[Prywatne] {{title}}",
+        "add_to_new": "Dodaj do nowej kolekcji zatytułowanej"
     }
 }
