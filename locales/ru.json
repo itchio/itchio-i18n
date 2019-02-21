@@ -161,7 +161,9 @@
             "required": "Обязательно",
             "save": "Сохранить",
             "email_address": "Email адрес",
-            "submit": "Отправить"
+            "submit": "Отправить",
+            "optional": "Необязательно",
+            "search": "Поиск"
         },
         "page_number": "Страница {{page_number}}",
         "follow_button": {
@@ -189,7 +191,9 @@
             "next_page": "Следующая страница",
             "prev": "Предыдущие",
             "next": "Следующие",
-            "current_page_of_total": "Страница {{current_page}} из {{total_pages}}"
+            "current_page_of_total": "Страница {{current_page}} из {{total_pages}}",
+            "previous_page": "Предыдущая страница",
+            "first_page": "Первая страница"
         },
         "collection_button": {
             "add_to_collection": "Добавить в коллекцию"
@@ -472,7 +476,11 @@
             "more_from_creator": "Вы можете найти другие проекты от этого же создателя на его странице: {{profile}}.",
             "check_popup_blocker": "Скачивание сейчас начнётся. Если не начинается, проверьте, не заблокированы ли всплывающие окна.",
             "check_out_more_from_jam_title": "Оцените другие проекты {{jam_title}}",
-            "view_all_from_jam": "Показать всё из геймджема"
+            "view_all_from_jam": "Показать всё из геймджема",
+            "more_from_itchio_header": "Показать больше игр с itch.io",
+            "see_everything": "Показать всё",
+            "powered_by": "<s>Хостинг</s> {{itchio_logo}}",
+            "app_learn_more": "<s>Новинка!</s> Попробуйте загружать игры с десктопным приложением itch.io. <a>Узнать больше</a>"
         }
     },
     "community": {
@@ -550,6 +558,44 @@
             "body": "Сообщение",
             "topic_tag": "Тег",
             "your_moderators_are": "itch.io не модерирует этот форум, но модерируют эти пользователи:"
+        },
+        "misc": {
+            "new_topic_button": "Новая тема"
+        },
+        "category": {
+            "topics_count_0": "{{count}} тема",
+            "topics_count_1": "{{count}} темы",
+            "topics_count_2": "{{count}} тем",
+            "create_first_topic_button": "Создать первую тему",
+            "empty_message": "Нет тем",
+            "there_arent_any_topics_yet": "Пока не было тем",
+            "search_community_label": "Поиск в сообществе",
+            "subscribe_to_new_topics": "Подписаться на новые темы",
+            "unsubscribe_from_topics": "Отписаться",
+            "stats": {
+                "topics": "Темы"
+            },
+            "rules_header": "Правила",
+            "recent_posts_header": "Последние посты",
+            "list_header_last_topic": "Последняя тема",
+            "new_flag": "Новое",
+            "archived_flag": "В архиве",
+            "by_topic_author": "от {{username}}"
+        },
+        "topic_list": {
+            "views_count_0": "<s>{{count}}</s> просмотр",
+            "views_count_1": "<s>{{count}}</s> просмотра",
+            "views_count_2": "<s>{{count}}</s> просмотров",
+            "no_posts_yet": "Постов ещё нет",
+            "replies_count_0": "<s>{{count}}</s> ответ",
+            "replies_count_1": "<s>{{count}}</s> ответа",
+            "replies_count_2": "<s>{{count}}</s> ответов",
+            "started_by_author": "начата {{topic_author}}",
+            "new_flag": "Новое",
+            "sticky_flag": "Прилеплено",
+            "locked_flag": "Заблокировано",
+            "list_header_topic_title": "Тема",
+            "list_header_last_post": "Последний пост"
         }
     },
     "buy_form": {
@@ -1063,5 +1109,45 @@
             "payment_warning_header": "Платежи не настроены",
             "payment_warning_info": "Если минимальная цена установлена выше 0, никто не сможет скачать ваш проект. <a>Изменить настройки</a>"
         }
+    },
+    "add_to_collection": {
+        "dialog_title": "Добавить {{project_title}} в коллекцию",
+        "add_reason": "Добавить этот проект в коллекцию, чтобы посмотреть потом.",
+        "already_in_collections": "Этот проект уже добавлен в коллекции:",
+        "count_items_0": "{{count}} проект",
+        "count_items_1": "{{count}} проекта",
+        "count_items_2": "{{count}} проектов",
+        "add_to_existing": "Добавить в существующую коллекцию",
+        "private_collection_title": "[Приватно] {{title}}",
+        "add_to_new": "Добавить в новую коллекцию с именем",
+        "default_title": "Коллекция от {{username}}",
+        "add_button": "Добавить в коллекцию",
+        "manage_collections_link": "Управление коллекциями",
+        "private_collection_option": "Приватная коллекция - только вы можете её видеть",
+        "about_this_project_label": "О проекте"
+    },
+    "game_grid": {
+        "in_bundle": "В бандле"
+    },
+    "jams": {
+        "jams_created_header": "Созданные вами геймджемы",
+        "jams_joined_header": "Геймджемы, в которых вы поучаствовали",
+        "page_title": "Геймджемы на itch.io",
+        "page_summary": "itch.io - место для проведения и участия в геймджемах. Создание и проведение геймджемов доступно для всех.",
+        "games_created_0": "<s>{{count}} игра</s> была создана в рамках геймджемов itch.io.",
+        "games_created_1": "<s>{{count}} игры</s> были созданы в рамках геймджемов itch.io.",
+        "games_created_2": "<s>{{count}} игр</s> было создано в рамках геймджемов itch.io.",
+        "host_a_jam_button": "Провести геймджем",
+        "manage_submissions_link": "Управление вашими геймджемами и проектами для них",
+        "browse_jams_header": "Показать геймджемы",
+        "jam_calendar_header": "Календарь геймджемов",
+        "host_your_own_jam_button": "Провести свой геймджем",
+        "host_or_explore_links": "<1>Проведите свой геймджем</1> или <2>посмотрите существующие геймджемы</2>",
+        "dont_see_something_you_like_header": "Ничего интересного?",
+        "browse_upcoming_this_month": "Будущие в этом месяце",
+        "brose_featured_jams": "Избранные геймджемы",
+        "browse_top_past_jams": "Лучшие прошедшие геймджемы",
+        "browse_in_progress": "В процессе",
+        "count_joined": "{{count}} присоединились"
     }
 }
