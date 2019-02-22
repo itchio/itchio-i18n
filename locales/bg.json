@@ -179,9 +179,75 @@
             "asset_license": "Лиценз на материалите",
             "mentions": "Споменавания"
         },
-        "post_a_new_topic": "Публикуване на нова тема"
+        "post_a_new_topic": "Публикуване на нова тема",
+        "layout": {
+            "add_to_collection_short": "Колекция",
+            "comments": "Коментари",
+            "community": "Общност",
+            "devlog": "Дневник на разработчика",
+            "edit_your_rating": "Промяна на оценката",
+            "edit_rating": "Промяна на оценката",
+            "rate": "Оценяване",
+            "related_games": "Подобни игри",
+            "related_games_short": "Подобни",
+            "ownership": {
+                "you_own_this": "Вече притежавате това",
+                "send_gift": "Изпращане на подарък",
+                "download": "Сваляне",
+                "percent_off": "-{{percent}}%",
+                "you_havent_sent_this_gift_to_anyone_yet": "Все още не сте изпратили този подарък",
+                "you_were_gifted_this": "Получено като подарък",
+                "purchased_in_a_bundle_for_price": "Закупено в пакет за {{price}}",
+                "purchased_for_price": "Закупено за {{price}}"
+            },
+            "footer": {
+                "view_all_by_username": "Преглед на всичко от {{username}}",
+                "report": "Докладване",
+                "embed": "Вграждане",
+                "updated_date": "Обновено на {{date}}"
+            },
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "Участва в {{jam_title}}",
+                "you_rated_this_game": "Вие сте оценили тази игра"
+            }
+        },
+        "after_download": {
+            "share_this_project": "Споделяне на този проект",
+            "thanks_for_downloading_title": "Благодарим за свалянето",
+            "thanks_project_author": "Благодарим Ви, че свалихте {{project}} от {{author}}.",
+            "more_from_creator": "Можете да откриете още от същия създател на страницата му: {{profile}}.",
+            "check_popup_blocker": "Свалянето ще започне веднага. Ако не започне, проверете дали изскачащите прозорци не са забранени.",
+            "check_out_more_from_jam_title": "Вижте още от {{jam_title}}",
+            "more_from_itchio_header": "Вижте още от itch.io",
+            "see_everything": "Вижте всичко",
+            "powered_by": "<s>С подкрепата на</s> {{itchio_logo}}",
+            "app_learn_more": "<s>Ново!</s> Опитайте приложението за работен плот на „itch.io“, с което можете да сваляте и управлявате библиотеката си. <a>Научете повече</a>"
+        }
     },
     "buy_form": {
         "gift_email_instructions": "Ще можете да изберете адрес на е-поща, на която да изпратите подаръка, след като платите"
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "Тази тема е заключена и в нея вече не може да се пише",
+            "reply": "Отговор",
+            "log_in_to_reply": "Влезте, за да отговорите",
+            "unlisted_topic_notice": "<s>Тази тема е скрита от модератор.</s> Тя няма да се вижда в списъка с теми, но въпреки това можете да отговаряте и да правите редакции.",
+            "join_the_discussion": "Присъединете се в дискусията. Влезте или се регистрирайте безплатно в „itch.io“, за да продължите.",
+            "reply_to_someone_else": "Искате да отговорите на другиго? Натиснете <s>отговор</s> под публикацията му.",
+            "this_reply_will_go_to_yourself": "Този отговор ще бъде до Вас самия.",
+            "this_reply_will_go_to_the_topic_author": "Този отговор ще бъде до създателя на темата – {{username}}.",
+            "new_reply": "Нов отговор",
+            "remove_bookmark": "Премахване на отметката"
+        }
+    },
+    "user_settings": {
+        "navigation": {
+            "developer_header": "Разработчик"
+        }
+    },
+    "dashboard": {
+        "intro_text": "Вие сте разработчик? Качете първата си игра",
+        "new_devlog": "Нов дневник на разработчика"
     }
 }
