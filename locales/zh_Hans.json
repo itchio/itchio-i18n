@@ -2,12 +2,14 @@
     "itchio": "itch.io",
     "layout": {
         "footer": {
-            "about": "关于itch.io",
+            "about": "关于 itch.io",
             "faq": "常见问题",
             "blog": "博客",
             "contact_us": "联系我们",
-            "terms": "条款细则",
-            "directory": "目录"
+            "terms": "服务条款",
+            "directory": "目录",
+            "privacy": "隐私政策",
+            "cookies": "Cookies"
         },
         "header": {
             "browse": "浏览",
@@ -22,7 +24,7 @@
             "register": "注册",
             "dashboard": "面板",
             "jams": "Jams",
-            "notifications_count": "{{count}} 消息",
+            "notifications_count": "{{count}} 条通知",
             "no_notifications": "没有新的消息",
             "free_games": "免费游戏",
             "indie_game_store": "独立游戏商店",
@@ -43,14 +45,15 @@
             "log_out": "退出登录",
             "settings": "设置",
             "view_profile": "查看账号信息",
-            "host_game_jam": "举办game jam",
-            "sales_bundles": "促销和捆绑包",
+            "host_game_jam": "发起 game jam",
+            "sales_bundles": "优惠和捆绑包",
             "new_project": "上传新项目",
             "dashboard": "面板",
             "game_jams": "Game jams",
             "recommendations": "推荐",
-            "library": "我的内容库",
-            "feed": "我的订阅"
+            "library": "我的库",
+            "feed": "我的订阅",
+            "account_menu_tooltip": "帐户菜单"
         }
     },
     "index": {
@@ -62,21 +65,21 @@
         "view_all_games": "浏览所有游戏",
         "dont_see_anything_you_like": "没有找到感兴趣的内容？",
         "random_game": "随机游戏",
-        "get_the_app": "<s>体验itch.io的全部功能！</s> 安装电脑客户端管理你的游戏内容",
+        "get_the_app": "<s>充分利用 itch.io ！</s> 使用我们的桌面应用安装和管理您的游戏",
         "view_all_blog_posts": "浏览所有更新",
         "search_games_creators": "搜索游戏和游戏开发者",
         "browse_all_tags": "浏览所有标签",
-        "on_sale": "打折",
+        "on_sale": "优惠",
         "free_games": "免费游戏",
         "top_sellers": "热卖",
         "with_demo": "提供游戏试玩版",
         "view_all": "浏览所有内容",
-        "recommended_for_you": "推荐内容",
-        "recommendations_based_on": "基于你所购买，下载和评分的内容",
+        "recommended_for_you": "为你推荐",
+        "recommendations_based_on": "基于您购买，下载和评分的内容",
         "fresh_games": "最新游戏",
         "view_more": "浏览更多内容",
         "featured_jams": "精选Jams",
-        "view_all_jams": "浏览所有Jams",
+        "view_all_jams": "查看所有 Jams",
         "fresh_games_description": "最近在平台上持续更新的游戏",
         "people_to_follow": "关注的人",
         "view_all_games_on_sale": "浏览所有打折游戏",
@@ -99,7 +102,9 @@
         "intro_cta": "<1>添加你的游戏</1> 或 <2>阅读FAQ</2>",
         "html5_games": "HTML5游戏",
         "from_the_blog": "博客摘要",
-        "from_the_itchio_blog": "itch.io博客摘要"
+        "from_the_itchio_blog": "itch.io博客摘要",
+        "page_title": "下载最新的独立游戏",
+        "meta_description": "itch.io 是一个可以在线查找，下载与发布独立游戏的便捷平台。无论您是想要发布游戏的开发者，还是只是想寻找新游戏的玩家，都可以使用 itch.io。"
     },
     "misc": {
         "classifications": {
@@ -135,7 +140,7 @@
             "joystick": "摇杆",
             "touchscreen": "触屏",
             "voice": "声控",
-            "accelerometer": "加速度传感器",
+            "accelerometer": "加速度计",
             "phone": "手机",
             "dance_pad": "跳舞毯",
             "midi_controller": "MIDI接口"
@@ -147,6 +152,72 @@
             "hour": "一小时",
             "hours": "数小时",
             "days": "一天及以上"
+        },
+        "forms": {
+            "required": "必填",
+            "save": "保存",
+            "email_address": "邮件地址",
+            "submit": "提交",
+            "optional": "可选",
+            "search": "搜索"
+        },
+        "page_number": "第{{page_number}}页",
+        "follow_button": {
+            "follow_username": "关注{{username}}",
+            "follow": "关注",
+            "following_username": "已关注{{username}}",
+            "following": "已关注",
+            "unfollow_username": "取消关注{{username}}",
+            "unfollow": "取消关注"
+        },
+        "filter_when": {
+            "last_day": "最近一天",
+            "last_7_days": "过去7天",
+            "last_30_days": "过去30天"
+        },
+        "platforms": {
+            "web": "网页"
+        },
+        "filter_price": {
+            "free": "免费",
+            "on_sale": "优惠",
+            "paid": "付费"
+        },
+        "pager": {
+            "next_page": "下一页",
+            "prev": "上一个",
+            "next": "下一个",
+            "current_page_of_total": "第{{current_page}}页/共{{total_pages}}页",
+            "previous_page": "上一页",
+            "first_page": "第一页"
+        },
+        "collection_button": {
+            "add_to_collection": "添加到收藏"
+        },
+        "lightboxes": {
+            "close": "关闭"
+        },
+        "countdown": {
+            "years": "年",
+            "months": "月",
+            "days": "日",
+            "hours": "时",
+            "minutes": "分",
+            "seconds": "秒"
+        },
+        "project_visibility": {
+            "restricted": "受限",
+            "published": "发布",
+            "draft": "草稿"
+        },
+        "view_more": "更多",
+        "dismiss": "忽略",
+        "release_statuses": {
+            "released": "已发行",
+            "in_development": "开发中",
+            "on_hold": "开发暂停",
+            "canceled": "开发终止",
+            "prototype": "原型"
         }
     },
     "developers": {
@@ -182,17 +253,25 @@
         "looking_for_something_you_bought": "寻找已购买内容？",
         "create_a_new_account": "创建新账号",
         "intent": {
-            "community": "你需要登录账号才能在itch.io的社区上互动。你可以免费且快速地创建新账号。",
+            "community": "您需要登录才能参与 itch.io 社区互动。创建帐户是免费的，并且只需要几分钟。",
             "comment": "登录账号后即可进行评论。",
             "rate_game": "登录账号后即可给游戏评分。",
             "follow": "登录账号后即可关注其他用户。",
             "follow_username": "登录账号后即可关注 <1>{{username}}</1>。",
             "collection": "登录账号后即可收藏游戏。",
             "jam_submit": "登录账号后即可提交游戏作品。",
-            "claim_object": "请登录或者创建账号后获取 {{noun}}"
+            "claim_object": "请登录或者创建账号后获取 {{noun}}",
+            "recent_purchases": "登录以绑定您最近购买的商品。"
         },
         "no_account_prompt": "还没有账号？ <1>创建账号</1>",
-        "log_in_to_your_itchio_account": "登陆你的itch.io账户"
+        "log_in_to_your_itchio_account": "登录您的 itch.io 帐户",
+        "page_title": "登录",
+        "you_are_logged_out": "已退出登录",
+        "welcome_back": "欢迎回来！",
+        "welcome_to_itchio": "欢迎来到 itch.io！",
+        "errors": {
+            "accept_terms": "您必须接受服务条款"
+        }
     },
     "user_register": {
         "create_an_account_on_itchio": "创建itch.io账号",
@@ -210,14 +289,74 @@
             "your_email_address": "你的邮箱",
             "password": "输入密码",
             "repeat_password": "再次输入密码",
-            "url_preview": "你的个人页面将为",
+            "url_preview": "您的个人资料页面将是",
             "username": "用户名",
             "other_registration_methods": "其他注册方式"
-        }
+        },
+        "page_title": "注册账户"
     },
     "blog": {
         "all_posts": "所有布告",
         "updates": "更新",
-        "digest": "文摘"
+        "digest": "摘要",
+        "empty_message": "这里似乎没有任何内容",
+        "tag_filter": "过滤到{{tag}}。 <a>清除标记</a>"
+    },
+    "search": {
+        "creators": "创作者：",
+        "published_count": "{{count}}个项目",
+        "view_all_tags": "查看所有标签",
+        "browse_all_games": "浏览所有游戏",
+        "search_results_for_query": "{{query}} 的搜索结果"
+    },
+    "app": {
+        "open_source": "开源",
+        "share_message": "itch，独立游戏的桌面应用",
+        "tagline": "安装，更新并游玩独立游戏",
+        "start_download": "开始下载",
+        "for_platforms": "对应 <1>Windows</1>， <2>macOS</2>，和 <3>Linux</3>",
+        "summary": "itch.io 应用程序，<s>itch</s>，让您可以毫不费力地从 itch.io 下载并运行游戏和软件。您所有的下载内容都被保存在一个位置并会自动更新。您可以通过应用内浏览器访问收藏和购买的内容，或浏览新游戏。",
+        "more_info_links": "<1>阅读常见问题</1>或<2>阅读应用指南</2>",
+        "learn_more_below": "了解更多信息",
+        "contribute_link": "想为开发做贡献？<a>在 Github 上查看源代码</a>",
+        "updates": "更新",
+        "read_the_app_guide": "阅读应用指南",
+        "browse_header": "使用创作者所希望的方式浏览游戏",
+        "browse_description": "在 itch.io，创作者可以掌控他们的项目页面的设计。内置浏览器可让您通过浏览<a>我们创作者的独特页面设计</a>时下载和安装游戏。",
+        "updates_header": "始终保持更新",
+        "updates_description": "您安装的游戏不仅会自动更新，并且在我们推出新功能和新特性时，应用程序本身也会自动升级。通过使用我们新的命令行工具开发游戏可以生成<em>delta 补丁</em>，确保您只需要下载新游戏发布时更改的内容。",
+        "web_games_header": "离线网页游戏",
+        "web_games_description": "您可以将任何基于网页的游戏同步到桌面应用中，让您随时随地游玩它们。当您重新联网，将能够在必要时获取任何更新。",
+        "languages_header": "以您的语言提供",
+        "languages_description": "在 itch.io 社区的帮助下，itch 应用程序支持超过20种语言！ <a>了解有关翻译的详情</a>",
+        "download_now": "立即下载",
+        "community_header": "加入社区",
+        "community_description": "详细了解我们<1>社区中</1>应用的开发。与 itch.io 的其他成员分享功能请求和一般反馈。如果您是程序员，那么您会很高兴听到整个项目已经在 <2>GitHub 开源</2>，我们期待您的拉取请求。",
+        "page_title": "下载应用程序",
+        "meta_description": "itch，下载和游玩独立游戏的最佳方式。从桌面应用下载免费游戏并管理您的游戏库。现在可用于 Windows，macOS 和 Linux。"
+    },
+    "game": {
+        "empty_page": "这里似乎没有任何东西......",
+        "more_information": "更多信息",
+        "install_instructions": "安装说明",
+        "download_header": "下载",
+        "unavailable": "此{{game_noun}}目前无法使用",
+        "purchase_header": "购买",
+        "download_access": "点击立即下载以访问以下文件：",
+        "get_access": "您将可以访问以下文件：",
+        "get_access_preorder": "发布后，您将可以访问以下文件：",
+        "download_demo_header": "下载试玩版",
+        "available_header": "可用于",
+        "also_available_header": "也可用于",
+        "will_be_available_in": "将在{{time_remaining}}后可用。",
+        "download_or_claim_button": "下载或声明",
+        "download_now_button": "立即下载",
+        "preorder_button": "立即预购",
+        "buy_now_button": "立即购买",
+        "name_your_own_price": "自己出价",
+        "on_sale": "优惠中！",
+        "percent_off": "<s>{{percent}}％</s>折扣",
+        "price_or_more": "{{price}} <s>或更多</s>",
+        "development_log_header": "开发日志"
     }
 }
