@@ -1134,7 +1134,7 @@
         "games_created_0": "<s>{{count}} gra</s> została stworzona dla Jamów prowadzonych na itch.io.",
         "games_created_1": "<s>{{count}} gry</s> zostały stworzone dla Jamów prowadzonych na itch.io.",
         "games_created_2": "<s>{{count}} gier</s> zostało stworzonych dla Jamów prowadzonych na itch.io.",
-        "host_a_jam_button": "Poprowadź jam",
+        "host_a_jam_button": "Poprowadź Jam",
         "manage_submissions_link": "Zarządzaj swoimi zgłoszeniami i Jamami",
         "browse_jams_header": "Przeglądaj Jamy",
         "jam_calendar_header": "Kalendarz Jamów",
