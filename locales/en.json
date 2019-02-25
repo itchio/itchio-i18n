@@ -313,7 +313,9 @@
         "learn_more_about": "Learn more about:",
         "share_message": "itch.io is a simple way to distribute your indie games online for free.",
         "create_account_or_login": "<1>Create an account</1> <em>or</em> <2>Log in</2>",
-        "upload_or_dashboard": "<1>Upload a new game</1> <em>or</em> <2>Go to dashboard</2>"
+        "upload_or_dashboard": "<1>Upload a new game</1> <em>or</em> <2>Go to dashboard</2>",
+        "design_your_games_page_description": "Create a custom page for your game where people buy or download your game. You pick the colors, fonts, images and videos. Because it's your game page you won't find anything on it that you didn't put there.",
+        "track_your_game_description": "Keep tabs on how people are viewing your game with detailed analytics convering views, downloads and purchases. Want to run a promotion? Generate download keys to give people access to your game."
     },
     "search": {
         "creators": "Creators:",
