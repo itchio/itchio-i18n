@@ -230,7 +230,8 @@
         },
         "errors": {
             "server_error": "Server failed failed to respond, please try again later"
-        }
+        },
+        "more_ellip": "More…"
     },
     "blog": {
         "all_posts": "All posts",
@@ -1127,7 +1128,39 @@
                 "frame_options": "Frame options",
                 "mobile_friendly_option": "Mobile friendly",
                 "mobile_friendly_info": "Your project can run on mobile phones (smaller resolution and touch support)",
-                "orientation": "Orientation"
+                "orientation": "Orientation",
+                "fullscreen_button_option": "Fullscreen button",
+                "enable_scrollbars_option": "Enable scrollbars",
+                "embed_in_page_option": "Embed in page",
+                "launch_fullscreen_option": "Click to launch in fullscreen"
+            },
+            "details_genre_header": "Genre",
+            "details_tags_header": "Tags",
+            "details_genre_info": "Select the category that best describes your game. You can pick additional genres with tags below",
+            "pricing": {
+                "free_or_donate": "{{money}} or donate",
+                "paid": "Paid",
+                "no_payments": "No payments",
+                "embed_pricing_info": "Setting a minimum price will only restrict access to downloadable files. Embedded content is freely available.",
+                "minimum_price_label": "Minimum price",
+                "minimum_price_info": "Minimum price to pay to get download access to game",
+                "free_price_info": "Someone downloading your project will be asked for a donation before getting access. They can skip to download for free.",
+                "default_donation_amount_info": "Default donation amount",
+                "payment_disabled_info": "The project's files will be freely available and no donations can be made",
+                "suggest_default_price_label": "Suggest an alternate default price",
+                "suggested_donation_label": "Suggested donation",
+                "suggested_price_label": "Suggested price",
+                "default_price_info": "Default price shown when someone attempts to buy your project",
+                "price_too_low_error": "Please provide an amount greater than the project price"
+            },
+            "uploads": {
+                "delete_file_button": "Delete file",
+                "play_in_browser_toggle": "This file will be played in the browser",
+                "hide_toggle": "Hide this file and prevent it from being downloaded",
+                "demo_toggle": "This file is a demo and can be downloaded for free",
+                "preorder_toggle": "This file is a pre-order placeholder",
+                "set_price_toggle": "Set a different price for this file",
+                "change_display_name_button": "Change display name"
             }
         }
     },
