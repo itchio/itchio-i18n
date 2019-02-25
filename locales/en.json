@@ -106,7 +106,13 @@
         "intro_cta": "<1>Add your game</1> or <2>Read the FAQ</2>",
         "html5_games": "HTML5 games",
         "page_title": "Download the latest indie games",
-        "meta_description": "itch.io is a simple way to find, download and distribute indie games online. Whether you're a developer looking to upload your game or just someone looking for something new to play itch.io has you covered."
+        "meta_description": "itch.io is a simple way to find, download and distribute indie games online. Whether you're a developer looking to upload your game or just someone looking for something new to play itch.io has you covered.",
+        "to_follow": {
+            "created_projects": "Created {{project_list}}",
+            "empty_results": "We don't have any more recommendations right now. Check back later",
+            "refresh_button": "Refresh for more...",
+            "dismiss_tooltip": "Don't suggest anymore"
+        }
     },
     "misc": {
         "classifications": {
@@ -210,7 +216,8 @@
         "project_visibility": {
             "restricted": "Restricted",
             "published": "Published",
-            "draft": "Draft"
+            "draft": "Draft",
+            "public": "Public"
         },
         "view_more": "View more",
         "dismiss": "Dismiss",
@@ -220,6 +227,9 @@
             "on_hold": "On hold",
             "canceled": "Canceled",
             "prototype": "Prototype"
+        },
+        "errors": {
+            "server_error": "Server failed failed to respond, please try again later"
         }
     },
     "blog": {
@@ -1082,7 +1092,43 @@
             "content_guidelines_header": "Make sure everyone can find your page",
             "content_guidelines_info": "Review our <a>quality guidelines</a> before posting your project",
             "payment_warning_header": "You don't have payment configured",
-            "payment_warning_info": "If you set a minimum price above 0 no one will be able to download your project. <a>Edit account</a>"
+            "payment_warning_info": "If you set a minimum price above 0 no one will be able to download your project. <a>Edit account</a>",
+            "cover_uploader": {
+                "confirm_remove": "Are you sure you want to remove the cover image?",
+                "cover_description": "The cover image is used whenever itch.io wants to link to your project from another part of the site. Required (Minimum: 315x250, Recommended: 630x500)",
+                "replace_image": "Replace Cover Image",
+                "remove_image": "Remove Image",
+                "upload_button": "Upload Cover Image"
+            },
+            "errors": {
+                "invalid_file": "There's an issue with the file you selected",
+                "invalid_image": "Please edit your image or try another one"
+            },
+            "error_dialog": {
+                "confirm_button": "Got it",
+                "title": "There was a problem saving your project"
+            },
+            "visibility_access_header": "Visibility & access",
+            "visibility_access_info": "Use Draft to review your page before making it public. <a>Learn more about access modes</a>",
+            "access_control": {
+                "disable_downloads_option": "Disable new downloads & purchases",
+                "unlisted_option": "Unlisted in search & browse",
+                "allow_password_option": "Also allow a password to view page",
+                "password_label": "Password",
+                "public_access_settings": "Public access settings",
+                "restricted_access_settings": "Restricted access settings",
+                "access_settings": "Access settings"
+            },
+            "embed_options_header": "Embed options",
+            "embed_options": {
+                "viewport_dimensions": "Viewport dimensions",
+                "width": "Width",
+                "height": "Height",
+                "frame_options": "Frame options",
+                "mobile_friendly_option": "Mobile friendly",
+                "mobile_friendly_info": "Your project can run on mobile phones (smaller resolution and touch support)",
+                "orientation": "Orientation"
+            }
         }
     },
     "add_to_collection": {
