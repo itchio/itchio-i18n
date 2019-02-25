@@ -167,7 +167,7 @@
             "paid": "有料"
         },
         "pager": {
-            "next_page": "次のページ",
+            "next_page": "次のページへ",
             "prev": "前へ",
             "next": "次へ",
             "current_page_of_total": "{{total_pages}}ページ中の {{current_page}}ページ目",
