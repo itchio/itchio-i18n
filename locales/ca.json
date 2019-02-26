@@ -106,7 +106,13 @@
         "intro_cta": "<1>Afegiu-hi el vostre joc</1> o <2>llegiu-ne les PMF</2>",
         "html5_games": "Jocs HTML5",
         "page_title": "Descarregueu els darrers jocs independents",
-        "meta_description": "itch.io és una manera simple de trobar, descarregar i distribuir jocs independents en línia. Tant si sou un desenvolupador que cerca on penjar un joc o algú que cerca alguna cosa nova per a jugar, itch.io té el que us cal."
+        "meta_description": "itch.io és una manera simple de trobar, descarregar i distribuir jocs independents en línia. Tant si sou un desenvolupador que cerca on penjar un joc o algú que cerca alguna cosa nova per a jugar, itch.io té el que us cal.",
+        "to_follow": {
+            "created_projects": "Ha creat {{project_list}}",
+            "empty_results": "Ara mateix no hi ha més recomanacions. Torneu-ho a provar més tard",
+            "refresh_button": "Refresqueu per a més elements...",
+            "dismiss_tooltip": "No suggereixis més"
+        }
     },
     "misc": {
         "classifications": {
@@ -210,7 +216,8 @@
         "project_visibility": {
             "restricted": "Restringit",
             "published": "Publicat",
-            "draft": "Esborrany"
+            "draft": "Esborrany",
+            "public": "Públic"
         },
         "view_more": "Mostra'n més",
         "dismiss": "Ignora",
@@ -220,7 +227,11 @@
             "on_hold": "En espera",
             "canceled": "Cancel·lat",
             "prototype": "Prototipus"
-        }
+        },
+        "errors": {
+            "server_error": "El servidor no ha respost, torneu-ho a provar més tard"
+        },
+        "more_ellip": "Més…"
     },
     "blog": {
         "all_posts": "Totes les publicacions",
