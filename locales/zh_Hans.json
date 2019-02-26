@@ -281,7 +281,7 @@
             "log_in": "登录",
             "link_product": "注册账号后，你所购买的<1>{{product}}</1>将会自动关联到已注册账号。",
             "accept_tos": "我同意并接受 <1>服务条款</1>",
-            "digest_signup": "订阅itch.io的双月文摘刊物",
+            "digest_signup": "订阅itch.io的每月两次文摘刊物",
             "interest_gamer": "我希望在itch.io上玩游戏或者下载游戏",
             "interest_developer": "我希望在itch.io上分发内容",
             "account_preferences_info": "你可以后续修改这些答案，itch.io会根据这些答案向你展示网站内容。",
