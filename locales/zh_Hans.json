@@ -78,10 +78,10 @@
         "recommendations_based_on": "基于您购买，下载和评分的内容",
         "fresh_games": "最新游戏",
         "view_more": "浏览更多内容",
-        "featured_jams": "精选Jams",
+        "featured_jams": "特色 Jams",
         "view_all_jams": "查看所有 Jams",
         "fresh_games_description": "最近在平台上持续更新的游戏",
-        "people_to_follow": "关注的人",
+        "people_to_follow": "可以关注的人",
         "view_all_games_on_sale": "浏览所有打折游戏",
         "more_featured_games": "更多精选游戏",
         "game_dev_on_sale": "游戏开发资源 <1>特价</1>",
@@ -101,10 +101,16 @@
         "intro": "使用<s>itch.io</s>即可简单快捷地免费寻找和分享独立游戏。",
         "intro_cta": "<1>添加你的游戏</1> 或 <2>阅读FAQ</2>",
         "html5_games": "HTML5游戏",
-        "from_the_blog": "博客摘要",
-        "from_the_itchio_blog": "itch.io博客摘要",
+        "from_the_blog": "来自博客",
+        "from_the_itchio_blog": "来自 itch.io 博客",
         "page_title": "下载最新的独立游戏",
-        "meta_description": "itch.io 是一个可以在线查找，下载与发布独立游戏的便捷平台。无论您是想要发布游戏的开发者，还是只是想寻找新游戏的玩家，都可以使用 itch.io。"
+        "meta_description": "itch.io 是一个可以在线查找，下载与发布独立游戏的便捷平台。无论您是想要发布游戏的开发者，还是只是想寻找新游戏的玩家，都可以使用 itch.io。",
+        "to_follow": {
+            "created_projects": "已创建{{project_list}}",
+            "empty_results": "我们现在没有任何其他建议。请过一会再来",
+            "refresh_button": "刷新获取更多内容......",
+            "dismiss_tooltip": "不要再推荐了"
+        }
     },
     "misc": {
         "classifications": {
@@ -208,7 +214,8 @@
         "project_visibility": {
             "restricted": "受限",
             "published": "发布",
-            "draft": "草稿"
+            "draft": "草稿",
+            "public": "公开"
         },
         "view_more": "更多",
         "dismiss": "忽略",
@@ -218,7 +225,11 @@
             "on_hold": "开发暂停",
             "canceled": "开发终止",
             "prototype": "原型"
-        }
+        },
+        "errors": {
+            "server_error": "服务器响应失败，请稍后再试"
+        },
+        "more_ellip": "更多…"
     },
     "developers": {
         "upload_or_dashboard": "<1>上传新游戏</1> <em>或</em> <2>前往面板</2>",
@@ -238,7 +249,9 @@
         "upload_your_game_description": "你可以在<s>itch.io</s>上免费上传自己的游戏。我们会代为发行你的游戏，展示游戏截图和其他下载内容。我们为你提供可靠且快速的下载途径。",
         "learn_more_about": "了解更多内容：",
         "share_message": "itch.io是一款免费在线平台，让你轻松发行自己的独立游戏。",
-        "create_account_or_login": "<1>创建账号</1> <em>或者</em> <2>登录账号</2>"
+        "create_account_or_login": "<1>创建账号</1> <em>或者</em> <2>登录账号</2>",
+        "design_your_games_page_description": "为大家购买或下载游戏创建游戏自定义页面。您可以自行选择颜色，字体，图像和视频。这是属于你的游戏页面，所以不会出现任何多余内容。",
+        "track_your_game_description": "通过详尽的关于查看、下载和购买的统计数据，密切关注人们如何查看您的游戏。想要进行促销活动？生成下载密钥以允许用户获取您的游戏。"
     },
     "user_login": {
         "login_form": {
@@ -281,11 +294,11 @@
             "log_in": "登录",
             "link_product": "注册账号后，你所购买的<1>{{product}}</1>将会自动关联到已注册账号。",
             "accept_tos": "我同意并接受 <1>服务条款</1>",
-            "digest_signup": "订阅itch.io的每月两次文摘刊物",
+            "digest_signup": "订阅 itch.io 每月两次的文摘简报",
             "interest_gamer": "我希望在itch.io上玩游戏或者下载游戏",
             "interest_developer": "我希望在itch.io上分发内容",
             "account_preferences_info": "你可以后续修改这些答案，itch.io会根据这些答案向你展示网站内容。",
-            "about_you": "个人信息",
+            "about_you": "关于您的意向",
             "your_email_address": "你的邮箱",
             "password": "输入密码",
             "repeat_password": "再次输入密码",
@@ -357,6 +370,8 @@
         "on_sale": "优惠中！",
         "percent_off": "<s>{{percent}}％</s>折扣",
         "price_or_more": "{{price}} <s>或更多</s>",
-        "development_log_header": "开发日志"
+        "development_log_header": "开发日志",
+        "in_order_to_access": "要访问此{{noun}}，您必须以不低于{{price}}的价格购买。",
+        "devlog_view_all_posts": "查看所有帖子"
     }
 }
