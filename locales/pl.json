@@ -1182,7 +1182,9 @@
                 "play_in_browser_toggle": "Ten plik zostanie odtworzony w przeglądarce",
                 "hide_toggle": "Ukryj ten plik i zapobiegaj jego pobieraniu",
                 "demo_toggle": "Ten plik jest plikiem demo i można go pobrać za darmo",
-                "preorder_toggle": "Ten plik jest elementem zastępczym zamówienia w przedsprzedaży"
+                "preorder_toggle": "Ten plik jest elementem zastępczym zamówienia w przedsprzedaży",
+                "set_price_toggle": "Ustaw inną cenę dla tego pliku",
+                "change_display_name_button": "Zmień wyświetlaną nazwę"
             }
         }
     },
@@ -1225,5 +1227,31 @@
     },
     "game_grid": {
         "in_bundle": "W pakiecie"
+    },
+    "feed": {
+        "filter_own_activity_tab": "Moja własna aktywność",
+        "filter_everything_tab": "Wszystko",
+        "filter_new_projects_tab": "Nowe projekty",
+        "filter_collections_tab": "Kolekcje",
+        "filter_devlogs_tab": "Devlogi",
+        "filter_ratings_tab": "Oceny",
+        "latest_featured_games_header": "Najnowsze polecane gry",
+        "featured_tags_header": "Polecane tagi",
+        "to_rate": {
+            "projects_to_rate_header": "Projekty do oceny"
+        },
+        "to_follow": {
+            "people_to_follow_header": "Ludzie do obserwowania"
+        },
+        "manage_my_games_button": "Zarządzaj moimi grami",
+        "upload_a_game_button": "Prześlij grę",
+        "event_filter_label": "Filtruj:",
+        "email_warning": {
+            "verify_your_email_address": "Zweryfikuj swój adres email"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Dodaj zdjęcie profilowe",
+            "description": "Twoje konto nie ma zdjęcia profilowego, dodaj go, aby inni mogli łatwiej Cię zidentyfikować!"
+        }
     }
 }
