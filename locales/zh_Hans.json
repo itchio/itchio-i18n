@@ -229,7 +229,8 @@
         "errors": {
             "server_error": "服务器响应失败，请稍后再试"
         },
-        "more_ellip": "更多…"
+        "more_ellip": "更多…",
+        "loading_more_ellip": "加载更多...…"
     },
     "developers": {
         "upload_or_dashboard": "<1>上传新游戏</1> <em>或</em> <2>前往面板</2>",
@@ -372,6 +373,67 @@
         "price_or_more": "{{price}} <s>或更多</s>",
         "development_log_header": "开发日志",
         "in_order_to_access": "要访问此{{noun}}，您必须以不低于{{price}}的价格购买。",
-        "devlog_view_all_posts": "查看所有帖子"
+        "devlog_view_all_posts": "查看所有帖子",
+        "your_purchase_comes_with_a_steam_key": "您的购买附赠 Steam 序列号。",
+        "steam_key_bundle_disclaimer": "（注意：Steam 序列号不包含在{{bundle_title}}中）",
+        "donate_button": "支持此{{noun}}",
+        "empty_page_no_uploads": "创作者尚未上传任何内容......",
+        "comments": {
+            "comments_header": "评论",
+            "leave_a_comment_header": "发表评论",
+            "leave_a_comment": "发表评论",
+            "click_to_leave_a_comment": "点击发表评论......",
+            "log_in_to_leave_comment": "<a>登录 itch.io</a> 发表评论。",
+            "post_comment": "发表评论"
+        },
+        "info_panel": {
+            "updated_at": "已更新",
+            "published_at": "已发布",
+            "release_status": "状态",
+            "category": "分类",
+            "platforms": "平台",
+            "publisher": "发布者",
+            "release_date": "发行日期",
+            "rating": "评分",
+            "authors": "作者",
+            "author": "作者",
+            "genre": "类型",
+            "made_with_tools": "使用",
+            "tags": "标签",
+            "code_license": "许可",
+            "asset_license": "素材许可",
+            "average_session_duration": "平均时长",
+            "languages": "语言",
+            "inputs": "输入",
+            "accessibility": "无障碍",
+            "multiplayer": "多人模式",
+            "player_count": "玩家数量",
+            "singleplayer": "单人模式",
+            "links": "链接",
+            "mentions": "提及"
+        },
+        "community_header": "社区",
+        "join_the_community": "加入社区",
+        "community_view_all_posts": "查看所有帖子",
+        "community_post_author": "由 {{username}} 发表",
+        "post_a_new_topic": "发布新话题",
+        "post_first_topic": "发表第一个话题",
+        "community_sticky": "置顶",
+        "upload_list": {
+            "preorder": "预购",
+            "download": "下载",
+            "play_in_browser": "在浏览器中玩",
+            "if_you_pay_price_or_more": "如果您支付不少于{{price}}",
+            "version_name": "版本{{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "创作者上传此文件后才可以使用",
+            "empty_message": "目前暂时不提供下载。"
+        },
+        "layout": {
+            "view_all_by_name": "查看 {{name}} 的全部内容",
+            "creator": "创作者",
+            "follow": "关注",
+            "follow_username": "关注 {{username}}",
+            "following_username": "已关注{{username}}"
+        }
     }
 }
