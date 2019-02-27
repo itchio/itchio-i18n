@@ -1126,7 +1126,7 @@
             "cover_uploader": {
                 "remove_image": "Usuń zdjęcie",
                 "cover_description": "Zdjęcie okładki jest używane, gdy itch.io chce podlinkować twój projekt z innej części strony. Wymagane (minimum: 315 x 250, zalecane: 630 x 500)",
-                "replace_image": "Zamień Zdjęcie Okładki"
+                "replace_image": "Zmień zdjęcie okładki"
             },
             "errors": {
                 "invalid_file": "Wystąpił problem z wybranym plikiem",
