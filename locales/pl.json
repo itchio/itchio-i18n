@@ -108,7 +108,13 @@
         "intro_cta": "<1>Dodaj grę</1> lub <2>przeczytaj FAQ</2>",
         "html5_games": "Gry HTML5",
         "page_title": "Pobierz najnowsze gry niezależne",
-        "meta_description": "itch.io pozwala łatwo znaleźć, pobrać i dostarczać niezależne gry online. Niezależnie czy jesteś twórcą chcącym udostępnić swoją grę, czy po prostu szukasz czegoś nowego do pogrania itch.io ci to zapewni."
+        "meta_description": "itch.io pozwala łatwo znaleźć, pobrać i dostarczać niezależne gry online. Niezależnie czy jesteś twórcą chcącym udostępnić swoją grę, czy po prostu szukasz czegoś nowego do pogrania itch.io ci to zapewni.",
+        "to_follow": {
+            "created_projects": "Utworzone {{project_list}}",
+            "empty_results": "W tej chwili nie mamy więcej rekomendacji. Wróć później",
+            "refresh_button": "Odśwież, aby uzyskać więcej ...",
+            "dismiss_tooltip": "Nie proponuj więcej"
+        }
     },
     "misc": {
         "classifications": {
@@ -212,7 +218,8 @@
         "project_visibility": {
             "restricted": "Ograniczona widoczność",
             "published": "Opublikowane",
-            "draft": "Wersja robocza"
+            "draft": "Wersja robocza",
+            "public": "Publiczny"
         },
         "view_more": "Pokaż więcej",
         "dismiss": "Odrzuć",
@@ -222,6 +229,9 @@
             "on_hold": "Wstrzymane",
             "canceled": "Anulowane",
             "prototype": "Prototyp"
+        },
+        "errors": {
+            "server_error": "Serwer nie może odpowiedzieć, spróbuj ponownie później"
         }
     },
     "blog": {
