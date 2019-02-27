@@ -1124,6 +1124,14 @@
             "payment_warning_info": "Jeśli ustawisz cenę minimalną powyżej 0, nikt nie będzie mógł pobrać twojego projektu. <a>Edytuj konto</a>",
             "cover_uploader": {
                 "remove_image": "Usuń zdjęcie"
+            },
+            "errors": {
+                "invalid_file": "Wystąpił problem z wybranym plikiem",
+                "invalid_image": "Edytuj zdjęcie lub wypróbuj inne"
+            },
+            "error_dialog": {
+                "confirm_button": "Rozumiem",
+                "title": "Podczas zapisywania projektu wystąpił problem"
             }
         }
     },
