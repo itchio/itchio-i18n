@@ -1141,7 +1141,8 @@
                 "allow_password_option": "Zezwalaj również na hasło do przeglądania strony",
                 "password_label": "Hasło",
                 "public_access_settings": "Ustawienia publicznego dostępu"
-            }
+            },
+            "details_genre_header": "Gatunek"
         }
     },
     "add_to_collection": {
