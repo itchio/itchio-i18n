@@ -231,7 +231,7 @@
             "prototype": "Prototyp"
         },
         "errors": {
-            "server_error": "Serwer nie może odpowiedzieć, spróbuj ponownie później"
+            "server_error": "Serwer nie odpowiada, spróbuj ponownie później"
         }
     },
     "blog": {
