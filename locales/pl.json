@@ -1252,6 +1252,11 @@
         "profile_notice": {
             "add_a_profile_image": "Dodaj zdjęcie profilowe",
             "description": "Twoje konto nie ma zdjęcia profilowego, dodaj je, aby inni mogli łatwiej Cię zidentyfikować!"
+        },
+        "event": {
+            "collection_summary_0": "Kolekcja z {{count}} elementem.",
+            "collection_summary_1": "Kolekcja z {{count}} elementami.",
+            "collection_summary_2": "Kolekcja z {{count}} elementami."
         }
     }
 }
