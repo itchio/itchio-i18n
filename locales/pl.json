@@ -1051,7 +1051,8 @@
             "payments": "Płatności",
             "views": "Odsłony",
             "downloads": "Pobrania",
-            "followers": "Obserwują to"
+            "followers": "Obserwują to",
+            "following": "Obserwowane"
         },
         "follow_itchio": "Obserwuj itch.io na {{twitter}} i {{facebook}}",
         "page_title": "Panel twórcy",
@@ -1120,7 +1121,10 @@
             "content_guidelines_header": "Upewnij się, że każdy może znaleźć twoją stronę",
             "content_guidelines_info": "Przejrzyj nasze <a>wytyczne jakości</a>, zanim zamieścisz swój projekt",
             "payment_warning_header": "Nie masz skonfigurowanych płatności",
-            "payment_warning_info": "Jeśli ustawisz cenę minimalną powyżej 0, nikt nie będzie mógł pobrać twojego projektu. <a>Edytuj konto</a>"
+            "payment_warning_info": "Jeśli ustawisz cenę minimalną powyżej 0, nikt nie będzie mógł pobrać twojego projektu. <a>Edytuj konto</a>",
+            "cover_uploader": {
+                "remove_image": "Usuń Zdjęcie"
+            }
         }
     },
     "add_to_collection": {
