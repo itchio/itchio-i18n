@@ -1140,9 +1140,50 @@
                 "unlisted_option": "Nie wyświetlaj w wyszukiwarce i przeglądaniu",
                 "allow_password_option": "Zezwalaj również na hasło do przeglądania strony",
                 "password_label": "Hasło",
-                "public_access_settings": "Ustawienia publicznego dostępu"
+                "public_access_settings": "Ustawienia publicznego dostępu",
+                "restricted_access_settings": "Ustawienia ograniczonego dostępu",
+                "access_settings": "Ustawienia dostępu"
             },
-            "details_genre_header": "Gatunek"
+            "details_genre_header": "Gatunek",
+            "embed_options_header": "Ustawienia osadzania",
+            "embed_options": {
+                "viewport_dimensions": "Wymiary okna podglądu",
+                "width": "Szerokość",
+                "height": "Wysokość",
+                "frame_options": "Opcje ramki",
+                "mobile_friendly_option": "Przyjazny dla urządzeń mobilnych",
+                "mobile_friendly_info": "Twój projekt może działać na telefonach komórkowych (mniejsza rozdzielczość i obsługa dotykowa)",
+                "orientation": "Orientacja",
+                "fullscreen_button_option": "Przycisk pełnego ekranu",
+                "enable_scrollbars_option": "Włącz paski przewijania",
+                "embed_in_page_option": "Osadź na stronie",
+                "launch_fullscreen_option": "Kliknij, aby uruchomić na pełnym ekranie"
+            },
+            "details_tags_header": "Tagi",
+            "details_genre_info": "Wybierz kategorię, która najlepiej opisuje twoją grę. Możesz wybrać dodatkowe gatunki z tagami poniżej",
+            "pricing": {
+                "free_or_donate": "{{money}} lub przekaż darowiznę",
+                "paid": "Płatny",
+                "no_payments": "Brak płatności",
+                "embed_pricing_info": "Ustawienie ceny minimalnej ograniczy dostęp tylko do pobrania plików. Treści osadzone są swobodnie dostępne.",
+                "minimum_price_label": "Cena minimalna",
+                "minimum_price_info": "Minimalna cena do zapłaty, aby uzyskać dostęp do pobierania gry",
+                "free_price_info": "Ktoś pobierający twój projekt zostanie poproszony o darowiznę przed uzyskaniem dostępu. Może przejść dalej, aby pobrać za darmo.",
+                "default_donation_amount_info": "Domyślna kwota darowizny",
+                "payment_disabled_info": "Pliki projektu będą swobodnie dostępne i nie będzie można dokonać darowizn",
+                "suggest_default_price_label": "Zaproponuj alternatywną cenę domyślną",
+                "suggested_donation_label": "Sugerowana darowizna",
+                "suggested_price_label": "Sugerowana cena",
+                "default_price_info": "Domyślnie wyświetlana cena, gdy ktoś próbuje kupić twój projekt",
+                "price_too_low_error": "Podaj kwotę większą niż cena projektu"
+            },
+            "uploads": {
+                "delete_file_button": "Usuń plik",
+                "play_in_browser_toggle": "Ten plik zostanie odtworzony w przeglądarce",
+                "hide_toggle": "Ukryj ten plik i zapobiegaj jego pobieraniu",
+                "demo_toggle": "Ten plik jest plikiem demo i można go pobrać za darmo",
+                "preorder_toggle": "Ten plik jest zastępczym elementem zamówienia w przedsprzedaży"
+            }
         }
     },
     "add_to_collection": {
