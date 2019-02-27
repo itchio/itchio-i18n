@@ -1123,7 +1123,7 @@
             "payment_warning_header": "Nie masz skonfigurowanych płatności",
             "payment_warning_info": "Jeśli ustawisz cenę minimalną powyżej 0, nikt nie będzie mógł pobrać twojego projektu. <a>Edytuj konto</a>",
             "cover_uploader": {
-                "remove_image": "Usuń Zdjęcie"
+                "remove_image": "Usuń zdjęcie"
             }
         }
     },
