@@ -316,7 +316,7 @@
         "share_message": "itch.io to prosty i darmowy sposób na dystrybucję twoich tytułów online.",
         "create_account_or_login": "<1>Stwórz konto</1> <em>lub</em> <2>zaloguj się</2>",
         "upload_or_dashboard": "<1>Prześlij grę</1> <em>lub</em> <2>Przejdź do panelu</2>",
-        "design_your_games_page_description": "Utwórz niestandardową stronę do gry, w której użytkownicy mogą kupić lub pobrać twoją grę. Wybierz kolory, czcionki, obrazy i filmy. Ponieważ jest to twoja strona gry, nie znajdziesz na niej niczego czego sam na niej nie umieściłeś."
+        "design_your_games_page_description": "Utwórz własną stronę dla gry, na której użytkownicy mogą kupić lub pobrać twoją grę. Wybierz kolory, czcionki, obrazy i filmy. Ponieważ jest to twoja strona gry, nie znajdziesz na niej nic, czego samodzielnie na niej nie umieścisz."
     },
     "search": {
         "creators": "Twórcy:",
@@ -427,7 +427,8 @@
             "title": "Tytuł",
             "body": "Zawartość",
             "topic_tag": "Tag",
-            "your_moderators_are": "itch.io nie moderuje tych forów, moderatorami są:"
+            "your_moderators_are": "itch.io nie moderuje tych forów, moderatorami są:",
+            "page_title": "Utwórz nowy temat"
         },
         "misc": {
             "new_topic_button": "Nowy temat"
