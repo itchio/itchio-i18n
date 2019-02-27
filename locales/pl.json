@@ -1134,7 +1134,14 @@
                 "title": "Podczas zapisywania twojego projektu wystąpił problem"
             },
             "visibility_access_header": "Widoczność i dostęp",
-            "visibility_access_info": "Użyj wersji roboczej, aby przejrzeć swoją stronę, zanim ją upublicznisz. <a>Dowiedz się więcej o trybach dostępu</a>"
+            "visibility_access_info": "Użyj wersji roboczej, aby przejrzeć swoją stronę, zanim ją upublicznisz. <a>Dowiedz się więcej o trybach dostępu</a>",
+            "access_control": {
+                "disable_downloads_option": "Wyłącz nowe pobrania i zakupy",
+                "unlisted_option": "Nie wyświetlaj w wyszukiwarce i przeglądaniu",
+                "allow_password_option": "Zezwalaj również na hasło do przeglądania strony",
+                "password_label": "Hasło",
+                "public_access_settings": "Ustawienia publicznego dostępu"
+            }
         }
     },
     "add_to_collection": {
