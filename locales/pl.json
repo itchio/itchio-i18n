@@ -232,7 +232,8 @@
         },
         "errors": {
             "server_error": "Serwer nie odpowiada, spróbuj ponownie później"
-        }
+        },
+        "more_ellip": "Więcej…"
     },
     "blog": {
         "all_posts": "Wszystkie posty",
@@ -314,7 +315,8 @@
         "learn_more_about": "Dowiedz się więcej o:",
         "share_message": "itch.io to prosty i darmowy sposób na dystrybucję twoich tytułów online.",
         "create_account_or_login": "<1>Stwórz konto</1> <em>lub</em> <2>zaloguj się</2>",
-        "upload_or_dashboard": "<1>Prześlij grę</1> <em>lub</em> <2>Przejdź do panelu</2>"
+        "upload_or_dashboard": "<1>Prześlij grę</1> <em>lub</em> <2>Przejdź do panelu</2>",
+        "design_your_games_page_description": "Utwórz niestandardową stronę do gry, w której użytkownicy mogą kupić lub pobrać twoją grę. Wybierz kolory, czcionki, obrazy i filmy. Ponieważ jest to twoja strona gry, nie znajdziesz na niej niczego czego sam na niej nie umieściłeś."
     },
     "search": {
         "creators": "Twórcy:",
