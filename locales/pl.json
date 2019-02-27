@@ -317,7 +317,8 @@
         "share_message": "itch.io to prosty i darmowy sposób na dystrybucję twoich tytułów online.",
         "create_account_or_login": "<1>Stwórz konto</1> <em>lub</em> <2>zaloguj się</2>",
         "upload_or_dashboard": "<1>Prześlij grę</1> <em>lub</em> <2>Przejdź do panelu</2>",
-        "design_your_games_page_description": "Utwórz własną stronę dla gry, na której użytkownicy mogą kupić lub pobrać twoją grę. Wybierz kolory, czcionki, obrazy i filmy. Ponieważ jest to twoja strona gry, nie znajdziesz na niej nic, czego samodzielnie na niej nie umieścisz."
+        "design_your_games_page_description": "Utwórz własną stronę dla gry, na której użytkownicy mogą kupić lub pobrać twoją grę. Wybierz kolory, czcionki, obrazy i filmy. Ponieważ jest to twoja strona gry, nie znajdziesz na niej nic, czego samodzielnie na niej nie umieścisz.",
+        "track_your_game_description": "Sprawdzaj zainteresowanie użytkowników twoją grą, dzięki szczegółowym analizom, w których zbierane są wyświetlenia, pobrania i zakupy. Chcesz uruchomić promocję? Wygeneruj klucze pobierania, aby dać ludziom dostęp do twojej gry."
     },
     "search": {
         "creators": "Twórcy:",
@@ -1127,7 +1128,7 @@
                 "remove_image": "Usuń zdjęcie",
                 "cover_description": "Zdjęcie okładki jest używane, gdy itch.io chce podlinkować twój projekt z innej części strony. Wymagane (minimum: 315 x 250, zalecane: 630 x 500)",
                 "replace_image": "Zmień zdjęcie okładki",
-                "upload_button": "Prześlij Zdjęcie Okładki"
+                "upload_button": "Prześlij zdjęcie okładki"
             },
             "errors": {
                 "invalid_file": "Wystąpił problem z wybranym plikiem",
@@ -1245,7 +1246,8 @@
             "projects_to_rate_header": "Projekty do oceny"
         },
         "to_follow": {
-            "people_to_follow_header": "Ludzie do obserwowania"
+            "people_to_follow_header": "Ludzie do obserwowania",
+            "to_follow_description": "Oto kilka kont do obserwowania, które mogą Cię zainteresować."
         },
         "manage_my_games_button": "Zarządzaj moimi grami",
         "upload_a_game_button": "Prześlij grę",
@@ -1283,7 +1285,8 @@
             "things_to_rate": "Rzeczy do ocenienia"
         },
         "download_button": "Pobierz",
-        "gift_button": "Prezent"
+        "gift_button": "Prezent",
+        "things_rated_header": "Rzeczy ocenione"
     },
     "nags": {
         "unverified_email": {
