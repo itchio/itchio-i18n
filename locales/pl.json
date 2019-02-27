@@ -233,7 +233,8 @@
         "errors": {
             "server_error": "Serwer nie odpowiada, spróbuj ponownie później"
         },
-        "more_ellip": "Więcej…"
+        "more_ellip": "Więcej…",
+        "loading_more_ellip": "Załaduj więcej ..."
     },
     "blog": {
         "all_posts": "Wszystkie posty",
@@ -1256,7 +1257,34 @@
         "event": {
             "collection_summary_0": "Kolekcja z {{count}} elementem.",
             "collection_summary_1": "Kolekcja z {{count}} elementami.",
-            "collection_summary_2": "Kolekcja z {{count}} elementami."
+            "collection_summary_2": "Kolekcja z {{count}} elementami.",
+            "collection_added_count_0": "Dodano {{count}} element.",
+            "collection_added_count_1": "Dodano {{count}} elementy.",
+            "collection_added_count_2": "Dodano {{count}} elementów."
+        }
+    },
+    "library": {
+        "page_title": "Moja Biblioteka",
+        "things_you_own_header": "Rzeczy, które posiadasz",
+        "view_all_link": "Wyświetl wszystko",
+        "show_on_my_profile_toggle": "Pokaż w moim profilu",
+        "permalink": "Odnośnik bezpośredni",
+        "private_toggle": "Prywatny",
+        "go_to_collection_link": "Przejdź do kolekcji",
+        "empty_collection_message": "Ta kolekcja jest pusta",
+        "nav_header": "Biblioteka",
+        "nav": {
+            "my_purchases": "Moje zakupy",
+            "recommended_for_you": "Polecane dla ciebie",
+            "things_on_sale": "Rzeczy na wyprzedaży",
+            "things_to_rate": "Rzeczy do ocenienia"
+        },
+        "download_button": "Pobierz",
+        "gift_button": "Prezent"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Twój adres e-mail nie jest zweryfikowany"
         }
     }
 }
