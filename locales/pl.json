@@ -1128,7 +1128,8 @@
                 "remove_image": "Usuń zdjęcie",
                 "cover_description": "Zdjęcie okładki jest używane, gdy itch.io chce podlinkować twój projekt z innej części strony. Wymagane (minimum: 315 x 250, zalecane: 630 x 500)",
                 "replace_image": "Zmień zdjęcie okładki",
-                "upload_button": "Prześlij zdjęcie okładki"
+                "upload_button": "Prześlij zdjęcie okładki",
+                "confirm_remove": "Czy na pewno chcesz usunąć zdjęcie okładki?"
             },
             "errors": {
                 "invalid_file": "Wystąpił problem z wybranym plikiem",
@@ -1243,7 +1244,8 @@
         "latest_featured_games_header": "Najnowsze polecane gry",
         "featured_tags_header": "Polecane tagi",
         "to_rate": {
-            "projects_to_rate_header": "Projekty do oceny"
+            "projects_to_rate_header": "Projekty do oceny",
+            "to_rate_description": "Oto kilka rzeczy, z którymi miałeś styczność, ale ich nie oceniłeś."
         },
         "to_follow": {
             "people_to_follow_header": "Ludzie do obserwowania",
@@ -1266,7 +1268,9 @@
             "collection_added_count_0": "Dodano {{count}} element.",
             "collection_added_count_1": "Dodano {{count}} elementy.",
             "collection_added_count_2": "Dodano {{count}} elementów."
-        }
+        },
+        "my_feed_tab": "Mój kanał",
+        "global_feed_tab": "Globalny kanał"
     },
     "library": {
         "page_title": "Moja Biblioteka",
