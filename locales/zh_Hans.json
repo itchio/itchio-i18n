@@ -453,7 +453,10 @@
                 "claimed": "领取成功",
                 "you_were_gifted_this": "这是您的礼物",
                 "purchased_in_a_bundle_for_price": "以{{price}}捆绑购买",
-                "purchased_for_price": "以{{price}}购买"
+                "purchased_for_price": "以{{price}}购买",
+                "you_own_this": "你已拥有",
+                "send_gift": "赠送礼物",
+                "download": "下载"
             },
             "footer": {
                 "view_all_by_username": "查看 {{username}} 的全部",
@@ -468,7 +471,8 @@
                 "you_rated_this_game": "您已对此游戏评分",
                 "now_accepting_ratings": "这个 Jam 正在接受对参赛作品的评分。",
                 "rating_instructions": "通过访问上面的作品提交页面链接对此 Jam 进行评分和评论。"
-            }
+            },
+            "devlog": "开发日志"
         },
         "community_posts_count": "{{count}} 篇帖子",
         "after_download": {
