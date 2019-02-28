@@ -399,6 +399,7 @@
             "multiplayer": "멀티플레이어"
         },
         "community_header": "커뮤니티",
-        "join_the_community": "커뮤니티에 참가하기"
+        "join_the_community": "커뮤니티에 참가하기",
+        "community_view_all_posts": "모든 포스트들 보기"
     }
 }
