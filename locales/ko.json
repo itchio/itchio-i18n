@@ -387,7 +387,12 @@
             "made_with_tools": "제작 도구",
             "tags": "태그",
             "code_license": "라이선스",
-            "asset_license": "애셋 라이선스"
+            "asset_license": "애셋 라이선스",
+            "average_session_duration": "평균 세션",
+            "player_count": "플레이어 수",
+            "singleplayer": "싱글플레이어",
+            "links": "링크",
+            "mentions": "멘션들"
         }
     }
 }
