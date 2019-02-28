@@ -397,6 +397,8 @@
             "inputs": "입력",
             "accessibility": "접근성",
             "multiplayer": "멀티플레이어"
-        }
+        },
+        "community_header": "커뮤니티",
+        "join_the_community": "커뮤니티에 참여하기"
     }
 }
