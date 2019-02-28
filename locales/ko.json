@@ -366,7 +366,8 @@
         "empty_page_no_uploads": "이 창작자는 아직 아무것도 올리지 않았습니다...",
         "comments": {
             "comments_header": "댓글",
-            "leave_a_comment_header": "덧글 남기기"
+            "leave_a_comment_header": "댓글 남기기",
+            "leave_a_comment": "댓글 남기기"
         }
     }
 }
