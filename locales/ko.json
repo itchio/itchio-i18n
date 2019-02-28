@@ -155,7 +155,8 @@
         },
         "forms": {
             "required": "필요사항",
-            "save": "저장"
+            "save": "저장",
+            "email_address": "이메일 주소"
         },
         "platforms": {
             "web": "웹"
@@ -163,6 +164,20 @@
         "filter_price": {
             "free": "무료",
             "on_sale": "세일 중"
+        },
+        "page_number": "{{page_number}} 페이지",
+        "follow_button": {
+            "follow_username": "{{username}} 팔로우",
+            "follow": "팔로우",
+            "following_username": "{{username}} 팔로우 중",
+            "following": "팔로잉",
+            "unfollow_username": "{{username}} 언팔로우",
+            "unfollow": "언팔로우"
+        },
+        "filter_when": {
+            "last_day": "어제",
+            "last_7_days": "일주일 전",
+            "last_30_days": "한 달 전"
         }
     },
     "blog": {
