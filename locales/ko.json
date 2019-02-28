@@ -340,6 +340,13 @@
         "more_information": "추가 정보",
         "install_instructions": "설치 방법",
         "download_header": "다운로드",
-        "unavailable": "현재 {{game_noun}}이(가) 없습니다."
+        "unavailable": "현재 {{game_noun}}이(가) 없습니다.",
+        "purchase_header": "구매",
+        "download_access": "다운로드를 지금 클릭하시면 다음 파일들을 얻을 수 있습니다:",
+        "get_access": "다음 파일들을 얻을 수 있습니다:",
+        "get_access_preorder": "출시가 되면 다음 파일들을 받을 수 있습니다:",
+        "download_demo_header": "데모 다운로드",
+        "available_header": "사용 가능 플랫폼",
+        "also_available_header": "그외에 다음에서도 사용 가능합니다"
     }
 }
