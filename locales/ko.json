@@ -188,13 +188,17 @@
         },
         "collection_button": {
             "add_to_collection": "모음집에 추가"
+        },
+        "lightboxes": {
+            "close": "닫기"
         }
     },
     "blog": {
         "all_posts": "모든 포스트들",
         "updates": "업데이트",
         "digest": "다이제스트",
-        "empty_message": "아무 글도 없음"
+        "empty_message": "아무 글도 없음",
+        "tag_filter": "{{tag}}로 필터링 중. <a>태그 지우기</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "itch.io 계정으로 로그인 하세요",
@@ -217,9 +221,12 @@
             "follow_username": "<1>{{username}}</1>을/를 팔로우 하시려면 itch.io 계정이 필요하십니다.",
             "collection": "컬렉션에 추가하려면 itch.io 계정이 필요하십니다.",
             "jam_submit": "잼에 제출하시려면 itch.io 계정이 필요하십니다.",
-            "claim_object": "{{noun}}을/를 받으시려면 로그인을 하시거나 계정을 만드세요"
+            "claim_object": "{{noun}}을/를 받으시려면 로그인을 하시거나 계정을 만드세요",
+            "recent_purchases": "로그인해서 최근 구매한 제품들을 연결시키세요."
         },
-        "no_account_prompt": "계정이 없으신가요? <1>계정 만들기</1>"
+        "no_account_prompt": "계정이 없으신가요? <1>계정 만들기</1>",
+        "page_title": "로그인",
+        "you_are_logged_out": "로그아웃 했습니다"
     },
     "user_register": {
         "create_an_account_on_itchio": "itch.io에 계정 만들기",
