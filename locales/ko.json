@@ -226,7 +226,8 @@
         },
         "no_account_prompt": "계정이 없으신가요? <1>계정 만들기</1>",
         "page_title": "로그인",
-        "you_are_logged_out": "로그아웃됨"
+        "you_are_logged_out": "로그아웃됨",
+        "welcome_back": "돌아오셨군요!"
     },
     "user_register": {
         "create_an_account_on_itchio": "itch.io에 계정 만들기",
