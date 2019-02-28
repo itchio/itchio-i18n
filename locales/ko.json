@@ -401,6 +401,12 @@
         "community_header": "커뮤니티",
         "join_the_community": "커뮤니티에 참가하기",
         "community_view_all_posts": "모든 글 보기",
-        "community_post_author": "{{username}}이/가 올림"
+        "community_post_author": "{{username}}이(가) 올림",
+        "community_posts_count": "글 {{count}}개",
+        "post_a_new_topic": "새 주제 올리기",
+        "post_first_topic": "첫 주제 올리기",
+        "upload_list": {
+            "preorder": "예약 구매"
+        }
     }
 }
