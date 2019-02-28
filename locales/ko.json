@@ -384,7 +384,10 @@
             "authors": "작가",
             "author": "작가",
             "genre": "장르",
-            "made_with_tools": "제작 도구"
+            "made_with_tools": "제작 도구",
+            "tags": "태그",
+            "code_license": "라이선스",
+            "asset_license": "애셋 라이선스"
         }
     }
 }
