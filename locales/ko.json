@@ -2,15 +2,16 @@
     "itchio": "itch.io",
     "layout": {
         "footer": {
-            "about": "소개",
+            "about": "정보",
             "faq": "FAQ",
             "blog": "블로그",
-            "contact_us": "연락처",
+            "contact_us": "문의하기",
             "terms": "이용약관",
-            "directory": "목록"
+            "directory": "목록",
+            "cookies": "쿠키"
         },
         "header": {
-            "browse": "둘러보기",
+            "browse": "탐색",
             "browse_games": "게임 둘러보기",
             "game_jams": "게임 잼",
             "upload_game": "게임 업로드",
@@ -74,7 +75,7 @@
         "with_demo": "데모 포함",
         "view_all": "모두 보기",
         "recommended_for_you": "추천드립니다",
-        "recommendations_based_on": "당신의 구매, 다운로드, 평가들을 기반으로 합니다",
+        "recommendations_based_on": "당신의 구매, 다운로드, 평가들에 기반함",
         "fresh_games": "새로운 게임",
         "view_more": "더 보기",
         "featured_jams": "주목할 만한 잼들",
@@ -170,7 +171,7 @@
         "intent": {
             "community": "커뮤니티에 참여하려면 로그인을 하셔야 합니다. 계정 만드는 건 무료이고 몇 초밖에 안걸립니다.",
             "comment": "덧글을 다시려면 itch.io 계정이 필요하십니다.",
-            "rate_game": "게임을 평가하려면 itch.io 계정이 필요하십니다.",
+            "rate_game": "게임을 평가하려면 itch.io 계정이 필요합니다.",
             "follow": "누군가를 팔로우하려면 itch.io 계정이 필요하십니다.",
             "follow_username": "<1>{{username}}</1>을/를 팔로우 하시려면 itch.io 계정이 필요하십니다.",
             "collection": "컬렉션에 추가하려면 itch.io 계정이 필요하십니다.",
