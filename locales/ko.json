@@ -230,7 +230,7 @@
         "welcome_back": "돌아오셨군요!",
         "welcome_to_itchio": "itch.io에 오신 걸 환영합니다!",
         "errors": {
-            "accept_terms": "이용약관에 동의하여야 합니다"
+            "accept_terms": "이용약관에 동의해야 함"
         }
     },
     "user_register": {
