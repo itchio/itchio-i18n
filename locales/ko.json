@@ -34,7 +34,7 @@
             "game_assets": "에셋",
             "fun_games": "재미있는 게임",
             "games": "게임",
-            "feed_unseen_count": "{{count}}개 안읽음",
+            "feed_unseen_count": "{{count}}개 안 읽음",
             "feed": "피드"
         },
         "user_menu": {
