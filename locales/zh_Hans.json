@@ -35,7 +35,7 @@
             "game_assets": "素材",
             "fun_games": "趣味游戏",
             "games": "游戏",
-            "feed_unseen_count": "{{count}} 最新",
+            "feed_unseen_count": "{{count}}条新消息",
             "feed": "订阅"
         },
         "user_menu": {
@@ -433,9 +433,76 @@
             "creator": "创作者",
             "follow": "关注",
             "follow_username": "关注 {{username}}",
-            "following_username": "已关注{{username}}",
-            "following": "关注中"
+            "following_username": "已关注 {{username}}",
+            "following": "已关注",
+            "add_to_collection": "添加到收藏",
+            "add_to_collection_short": "收藏",
+            "comments": "评论",
+            "community": "社区",
+            "edit_your_rating": "编辑您的评分",
+            "edit_rating": "编辑评分",
+            "rate": "评分",
+            "rate_this_noun": "对 {{noun}} 评分",
+            "rate_for_jam": "对 {{jam_title}} 评分",
+            "submission_to_jam": "提交到 {{jam_title}}",
+            "related_games": "相关游戏",
+            "related_games_short": "相关",
+            "ownership": {
+                "percent_off": "{{percent}}% 折扣",
+                "you_havent_sent_this_gift_to_anyone_yet": "你还没有把这份礼物送给任何人",
+                "claimed": "领取成功",
+                "you_were_gifted_this": "这是您的礼物",
+                "purchased_in_a_bundle_for_price": "以{{price}}捆绑购买",
+                "purchased_for_price": "以{{price}}购买"
+            },
+            "footer": {
+                "view_all_by_username": "查看 {{username}} 的全部",
+                "report": "报告",
+                "embed": "嵌入代码",
+                "updated_date": "更新于{{date}}"
+            },
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "这是提交于 {{jam_title}} 的作品",
+                "view_the_submission_page": "查看提交页面",
+                "accepting_ratiings": "这个 Jam 目前正在接受对已提交作品的评分。 <a>了解详情</a>",
+                "you_rated_this_game": "您已对此游戏评分",
+                "now_accepting_ratings": "这个 Jam 正在接受对参赛作品的评分。",
+                "rating_instructions": "通过访问上面的作品提交页面链接对此 Jam 进行评分和评论。"
+            }
         },
-        "community_posts_count": "{{count}} 篇帖子"
+        "community_posts_count": "{{count}} 篇帖子",
+        "after_download": {
+            "share_this_project": "分享此项目",
+            "thanks_for_downloading_title": "感谢您的下载",
+            "thanks_project_author": "感谢您下载 {{author}} 的 {{project}}。",
+            "more_from_creator": "您可以在其网页上找到来自同一创作者的更多内容：{{profile}}。",
+            "check_popup_blocker": "下载应该即刻开始。如果没有，请检查弹出窗口阻止程序。",
+            "check_out_more_from_jam_title": "查看 {{jam_title}} 的更多内容",
+            "view_all_from_jam": "查看 Jam 的所有内容",
+            "more_from_itchio_header": "了解 itch.io 的更多信息",
+            "see_everything": "查看全部",
+            "powered_by": "由{{itchio_logo}}<s>提供支持</s>",
+            "app_learn_more": "<s>新！</s> 试着使用 itch.io 的桌面应用程序来下载和管理你的库。 <a>了解详情</a>"
+        }
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "此主题已被归档，无法再发布评论",
+            "reply": "回复",
+            "log_in_to_reply": "登录回复",
+            "unlisted_topic_notice": "<s>管理员已隐藏此主题。</s> 主题列表中不会被显示显示，但您仍可以回复并进行修改。",
+            "join_the_discussion": "加入讨论。登录或创建免费的 itch.io 帐户以继续。",
+            "reply_to_someone_else": "想回复别人？点击帖子下方的<s>回复</s>。",
+            "this_reply_will_go_to_yourself": "这个回复将归你自己。",
+            "this_reply_will_go_to_the_topic_author": "此回复将转到主题作者 {{username}}。",
+            "new_reply": "新的回复",
+            "remove_bookmark": "删除书签",
+            "bookmark": "书签",
+            "unsubscribe": "取消订阅",
+            "subscribe": "订阅",
+            "return_to_topic_list": "返回主题列表",
+            "sticky": "置顶",
+            "locked": "已锁定"
+        }
     }
 }
