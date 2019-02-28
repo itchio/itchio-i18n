@@ -278,6 +278,6 @@
     "search": {
         "creators": "창작자:",
         "published_count": "프로젝트 {{count}}개",
-        "view_all_tags": "모든 태그들 보기"
+        "view_all_tags": "모든 태그 보기"
     }
 }
