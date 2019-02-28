@@ -400,6 +400,7 @@
         },
         "community_header": "커뮤니티",
         "join_the_community": "커뮤니티에 참가하기",
-        "community_view_all_posts": "모든 글 보기"
+        "community_view_all_posts": "모든 글 보기",
+        "community_post_author": "{{username}}이/가 올림"
     }
 }
