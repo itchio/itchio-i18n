@@ -367,7 +367,8 @@
         "comments": {
             "comments_header": "댓글",
             "leave_a_comment_header": "댓글 남기기",
-            "leave_a_comment": "댓글 남기기"
+            "leave_a_comment": "댓글 남기기",
+            "click_to_leave_a_comment": "덧글을 남기려면 클릭하세요..."
         }
     }
 }
