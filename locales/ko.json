@@ -340,7 +340,7 @@
         "more_information": "추가 정보",
         "install_instructions": "설치 방법",
         "download_header": "다운로드",
-        "unavailable": "현재 {{game_noun}}이(가) 없습니다.",
+        "unavailable": "현재 {{game_noun}} 플레이 불가능",
         "purchase_header": "구매",
         "download_access": "다운로드를 지금 클릭하시면 다음 파일들을 얻을 수 있습니다:",
         "get_access": "다음 파일들을 얻을 수 있습니다:",
@@ -422,7 +422,29 @@
             "view_all_by_name": "{{name}}의 모든 걸 보기",
             "creator": "제작자",
             "follow": "팔로우",
-            "add_to_collection": "컬렉션에 추가"
+            "add_to_collection": "모음집에 추가",
+            "add_to_collection_short": "모음집",
+            "comments": "댓글",
+            "community": "커뮤니티",
+            "edit_your_rating": "평가 수정하기",
+            "edit_rating": "평가 수정하기",
+            "rate": "평가",
+            "rate_this_noun": "{{noun}} 평가하기",
+            "rate_for_jam": "{{jam_title}} 평가하기",
+            "submission_to_jam": "{{jam_title}}에 제출",
+            "related_games": "관련 게임",
+            "related_games_short": "관련됨",
+            "ownership": {
+                "you_own_this": "소유함",
+                "send_gift": "선물 보내기",
+                "download": "다운로드",
+                "percent_off": "{{percent}}% 할인"
+            }
+        }
+    },
+    "community": {
+        "post_form": {
+            "remove_tag": "태그 제거"
         }
     }
 }
