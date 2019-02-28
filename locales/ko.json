@@ -373,7 +373,8 @@
             "post_comment": "댓글 달기"
         },
         "info_panel": {
-            "updated_at": "업데이트됨"
+            "updated_at": "업데이트됨",
+            "published_at": "출시 됨"
         }
     }
 }
