@@ -347,6 +347,10 @@
         "get_access_preorder": "출시가 되면 다음 파일들을 받을 수 있습니다:",
         "download_demo_header": "데모 다운로드",
         "available_header": "사용 가능 플랫폼",
-        "also_available_header": "다음 언어에서도 사용 가능"
+        "also_available_header": "다음 언어에서도 사용 가능",
+        "will_be_available_in": "{{time_remaining}} 뒤에 사용 가능합니다.",
+        "download_or_claim_button": "다운로드 혹은 취득",
+        "download_now_button": "지금 다운로드",
+        "preorder_button": "지금 예약"
     }
 }
