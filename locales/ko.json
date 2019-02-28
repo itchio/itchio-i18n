@@ -163,7 +163,8 @@
         },
         "filter_price": {
             "free": "무료",
-            "on_sale": "할인중"
+            "on_sale": "할인중",
+            "paid": "유료"
         },
         "page_number": "{{page_number}} 페이지",
         "follow_button": {
@@ -178,6 +179,10 @@
             "last_day": "어제",
             "last_7_days": "일주일 전",
             "last_30_days": "한 달 전"
+        },
+        "pager": {
+            "next_page": "다음 페이지",
+            "prev": "예전"
         }
     },
     "blog": {
