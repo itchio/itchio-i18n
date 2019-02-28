@@ -310,6 +310,8 @@
         "search_results_for_query": "'{{query}}' 검색 결과"
     },
     "app": {
-        "open_source": "오픈 소스"
+        "open_source": "오픈 소스",
+        "share_message": "itch, 인디 게임들을 위한 데스크탑 앱",
+        "tagline": "인디 게임들을 설치, 업데이트, 플레이하세요"
     }
 }
