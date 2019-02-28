@@ -340,6 +340,6 @@
         "more_information": "추가 정보",
         "install_instructions": "설치 방법",
         "download_header": "다운로드",
-        "unavailable": "현재 {{game_noun}}이/가 없습니다."
+        "unavailable": "현재 {{game_noun}}이(가) 없습니다."
     }
 }
