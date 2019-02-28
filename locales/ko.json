@@ -163,7 +163,7 @@
         },
         "filter_price": {
             "free": "무료",
-            "on_sale": "세일 중"
+            "on_sale": "할인중"
         },
         "page_number": "{{page_number}} 페이지",
         "follow_button": {
