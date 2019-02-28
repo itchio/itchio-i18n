@@ -374,7 +374,11 @@
         },
         "info_panel": {
             "updated_at": "업데이트됨",
-            "published_at": "출시됨"
+            "published_at": "출시됨",
+            "release_status": "상태",
+            "category": "카테고리",
+            "platforms": "플랫폼",
+            "publisher": "출판사"
         }
     }
 }
