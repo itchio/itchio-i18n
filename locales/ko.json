@@ -438,8 +438,10 @@
                 "you_own_this": "소유함",
                 "send_gift": "선물 보내기",
                 "download": "다운로드",
-                "percent_off": "{{percent}}% 할인"
-            }
+                "percent_off": "{{percent}}% 할인",
+                "you_havent_sent_this_gift_to_anyone_yet": "이 선물을 아직 아무에게도 보내지 않았습니다"
+            },
+            "devlog": "개발일지"
         }
     },
     "community": {
