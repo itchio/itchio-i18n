@@ -152,6 +152,17 @@
             "hour": "약 한 시간",
             "hours": "몇 시간",
             "days": "며칠 이상"
+        },
+        "forms": {
+            "required": "필요사항",
+            "save": "저장"
+        },
+        "platforms": {
+            "web": "웹"
+        },
+        "filter_price": {
+            "free": "무료",
+            "on_sale": "세일 중"
         }
     },
     "blog": {
