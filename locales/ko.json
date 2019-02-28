@@ -351,6 +351,7 @@
         "will_be_available_in": "{{time_remaining}} 뒤에 사용 가능합니다.",
         "download_or_claim_button": "다운로드 혹은 취득",
         "download_now_button": "지금 다운로드",
-        "preorder_button": "지금 예약"
+        "preorder_button": "지금 예약 구매하기",
+        "buy_now_button": "지금 구매하기"
     }
 }
