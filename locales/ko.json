@@ -355,6 +355,7 @@
         "buy_now_button": "지금 구매하기",
         "name_your_own_price": "원하는 만큼 내세요",
         "on_sale": "할인중!",
-        "percent_off": "<s>{{percent}}%</s> 할인"
+        "percent_off": "<s>{{percent}}%</s> 할인",
+        "price_or_more": "{{price}}<s>이상</s>"
     }
 }
