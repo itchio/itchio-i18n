@@ -371,6 +371,9 @@
             "click_to_leave_a_comment": "댓글을 남기려면 클릭하세요...",
             "log_in_to_leave_comment": "댓글을 다시려면 <a>itch.io에 로그인</a> 해주세요.",
             "post_comment": "댓글 달기"
+        },
+        "info_panel": {
+            "updated_at": "업데이트 됨"
         }
     }
 }
