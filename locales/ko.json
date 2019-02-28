@@ -347,6 +347,6 @@
         "get_access_preorder": "출시가 되면 다음 파일들을 받을 수 있습니다:",
         "download_demo_header": "데모 다운로드",
         "available_header": "사용 가능 플랫폼",
-        "also_available_header": "그외에 다음에서도 사용 가능합니다"
+        "also_available_header": "다음 언어에서도 사용 가능"
     }
 }
