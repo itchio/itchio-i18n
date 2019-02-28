@@ -378,7 +378,13 @@
             "release_status": "상태",
             "category": "카테고리",
             "platforms": "플랫폼",
-            "publisher": "배급사"
+            "publisher": "배급사",
+            "release_date": "출시 날짜",
+            "rating": "평점",
+            "authors": "작가",
+            "author": "작가",
+            "genre": "장르",
+            "made_with_tools": "다음으로 제작되었습니다"
         }
     }
 }
