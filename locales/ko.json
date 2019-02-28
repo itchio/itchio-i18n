@@ -173,7 +173,7 @@
         "follow_button": {
             "follow_username": "{{username}} 팔로우",
             "follow": "팔로우",
-            "following_username": "{{username}} 팔로우 중",
+            "following_username": "{{username}} 팔로잉",
             "following": "팔로잉",
             "unfollow_username": "{{username}} 언팔로우",
             "unfollow": "언팔로우"
@@ -408,8 +408,13 @@
         "upload_list": {
             "preorder": "예약 구매",
             "download": "다운로드",
-            "play_in_browser": "브라우저에서 플레이하기"
+            "play_in_browser": "브라우저에서 플레이"
         },
-        "community_sticky": "고정"
+        "community_sticky": "고정",
+        "layout": {
+            "following": "팔로잉",
+            "follow_username": "{{username}} 팔로우",
+            "following_username": "{{username}} 팔로잉"
+        }
     }
 }
