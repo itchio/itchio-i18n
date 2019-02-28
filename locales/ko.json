@@ -274,5 +274,10 @@
         "share_message": "itch.io는 당신의 인디 게임을 무료로 유통하는 쉬운 방법입니다.",
         "create_account_or_login": "<1>계정 만들기</1> <em>혹은</em> <2>로그인</2>",
         "upload_or_dashboard": "<1>새 게임 업로드</1> <em>혹은</em> <2>대시보드로 가기</2>"
+    },
+    "search": {
+        "creators": "창작자:",
+        "published_count": "프로젝트 {{count}}개",
+        "view_all_tags": "모든 태그들 보기"
     }
 }
