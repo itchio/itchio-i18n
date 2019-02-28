@@ -228,7 +228,10 @@
         "page_title": "로그인",
         "you_are_logged_out": "로그아웃됨",
         "welcome_back": "돌아오셨군요!",
-        "welcome_to_itchio": "itch.io에 오신 걸 환영합니다!"
+        "welcome_to_itchio": "itch.io에 오신 걸 환영합니다!",
+        "errors": {
+            "accept_terms": "이용약관에 동의하여야 합니다"
+        }
     },
     "user_register": {
         "create_an_account_on_itchio": "itch.io에 계정 만들기",
