@@ -357,6 +357,7 @@
         "on_sale": "할인중!",
         "percent_off": "<s>{{percent}}%</s> 할인",
         "price_or_more": "{{price}} <s>이상</s>",
-        "development_log_header": "개발일지"
+        "development_log_header": "개발일지",
+        "in_order_to_access": "{{noun}}을/를 사용하시려면 {{price}} 혹은 그 이상을 지불하셔야 합니다."
     }
 }
