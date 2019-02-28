@@ -318,7 +318,7 @@
         "summary": "itch.io 앱 <s>itch</s>로 노력없이 itch.io에서 게임들과 소프트웨어들을 다운로드 할 수 있습니다. 모든 다운로드들은 한 곳에 저장되어 자동으로 업데이트 됩니다. 당신의 컬렉션과 구매품목들을 살피거나, 인앱 브라우저로 새 게임들을 탐색하세요.",
         "more_info_links": "<1>FAQ에서 더 알아보시거나</1> <2>앱 사용 설명서를 읽어보세요</2>",
         "learn_more_below": "더 알아보기",
-        "languages_header": "다중 언어",
+        "languages_header": "당신의 언어로",
         "contribute_link": "도움을 주고 싶나요? <a>GitHub에서 소스를 보세요</a>",
         "updates": "업데이트",
         "read_the_app_guide": "앱 사용 설명서 읽기",
@@ -336,6 +336,10 @@
         "meta_description": "itch, 인디 게임을 다운로드하고 즐기는 최고의 방법. 데스크탑에서 무료 게임들을 다운로드 받고 라이브러리를 관리하세요. Windows, macOS, 그리고 Linux에서 사용 가능."
     },
     "game": {
-        "empty_page": "여기엔 아무것도 없어 보이네요..."
+        "empty_page": "여기엔 아무것도 없어 보이네요...",
+        "more_information": "추가 정보",
+        "install_instructions": "설치 방법",
+        "download_header": "다운로드",
+        "unavailable": "현재 {{game_noun}}이/가 없습니다."
     }
 }
