@@ -353,6 +353,7 @@
         "download_now_button": "지금 다운로드",
         "preorder_button": "지금 예약 구매하기",
         "buy_now_button": "지금 구매하기",
-        "name_your_own_price": "원하는 가격을 제시하세요"
+        "name_your_own_price": "원하는 만큼 내세요",
+        "on_sale": "할인중!"
     }
 }
