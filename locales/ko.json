@@ -156,7 +156,10 @@
         "forms": {
             "required": "필요사항",
             "save": "저장",
-            "email_address": "이메일 주소"
+            "email_address": "이메일 주소",
+            "submit": "제출",
+            "optional": "선택",
+            "search": "검색"
         },
         "platforms": {
             "web": "웹"
@@ -184,14 +187,38 @@
             "next_page": "다음 페이지",
             "prev": "이전",
             "next": "다음",
-            "current_page_of_total": "{{total_pages}} 페이지 중 {{current_page}} 페이지"
+            "current_page_of_total": "{{total_pages}} 페이지 중 {{current_page}} 페이지",
+            "previous_page": "이전 페이지",
+            "first_page": "첫 페이지"
         },
         "collection_button": {
             "add_to_collection": "모음집에 추가"
         },
         "lightboxes": {
             "close": "닫기"
-        }
+        },
+        "countdown": {
+            "years": "년",
+            "months": "월",
+            "days": "일",
+            "hours": "시",
+            "minutes": "분",
+            "seconds": "초"
+        },
+        "project_visibility": {
+            "restricted": "제한됨",
+            "published": "공개됨",
+            "draft": "임시",
+            "public": "공개"
+        },
+        "view_more": "더보기",
+        "dismiss": "무시",
+        "release_statuses": {
+            "in_development": "개발중",
+            "canceled": "취소됨",
+            "prototype": "프로토타이"
+        },
+        "more_ellip": "더보기…"
     },
     "blog": {
         "all_posts": "모든 포스트들",
@@ -241,7 +268,7 @@
             "log_in": "로그인",
             "link_product": "구매내역 <1>{{product}}</1>은/는 등록을 하신 뒤에 당신 계정에 자동으로 연결됩니다.",
             "accept_tos": "저는 <1>이용약관</1>에 동의 합니다",
-            "digest_signup": "매월 2번씩 발행되는 itch.io 다이제스트에 구독",
+            "digest_signup": "매월 2번씩 발행되는 itch.io 뉴스레터에 구독",
             "interest_gamer": "저는 itch.io에 있는 게임들을 플레이하거나 다운로드 하는 데에 관심 있습니다",
             "interest_developer": "저는 itch.io로 컨텐츠를 배급하는 데 관심 있습니다",
             "account_preferences_info": "나중에 답변들을 변경할 수 있습니다. 답변들은 itch.io가 당신에게 어떻게 보여야 할지 판단할 때 참고됩니다.",
@@ -283,6 +310,6 @@
         "search_results_for_query": "'{{query}}' 검색 결과"
     },
     "app": {
-        "open_source": "오픈소스"
+        "open_source": "오픈 소스"
     }
 }
