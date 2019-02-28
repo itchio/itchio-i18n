@@ -433,7 +433,9 @@
             "creator": "创作者",
             "follow": "关注",
             "follow_username": "关注 {{username}}",
-            "following_username": "已关注{{username}}"
-        }
+            "following_username": "已关注{{username}}",
+            "following": "关注中"
+        },
+        "community_posts_count": "{{count}} 篇帖子"
     }
 }
