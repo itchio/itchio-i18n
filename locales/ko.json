@@ -408,13 +408,21 @@
         "upload_list": {
             "preorder": "예약 구매",
             "download": "다운로드",
-            "play_in_browser": "브라우저에서 플레이"
+            "play_in_browser": "브라우저에서 플레이",
+            "if_you_pay_price_or_more": "{{price}} 이상 지불하시면",
+            "version_name": "버전 {{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "이 파일은 제작자가 올리면 받을 수 있습니다",
+            "empty_message": "아직 다운로드할 수 있는 게 없습니다."
         },
         "community_sticky": "고정",
         "layout": {
             "following": "팔로잉",
             "follow_username": "{{username}} 팔로우",
-            "following_username": "{{username}} 팔로잉"
+            "following_username": "{{username}} 팔로잉",
+            "view_all_by_name": "{{name}}의 모든 걸 보기",
+            "creator": "제작자",
+            "follow": "팔로우",
+            "add_to_collection": "컬렉션에 추가"
         }
     }
 }
