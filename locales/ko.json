@@ -314,6 +314,9 @@
         "share_message": "itch, 인디 게임들을 위한 데스크탑 앱",
         "tagline": "인디 게임을 설치, 업데이트, 플레이",
         "start_download": "다운로드하기",
-        "for_platforms": "<1>Windows</1>, <2>macOS</2>, 그리고 <3>Linux</3> 지원"
+        "for_platforms": "<1>Windows</1>, <2>macOS</2>, 그리고 <3>Linux</3> 지원",
+        "summary": "itch.io 앱 <s>itch</s>로 노력없이 itch.io에서 게임들과 소프트웨어들을 다운로드 할 수 있습니다. 모든 다운로드들은 한 곳에 저장되어 자동으로 업데이트 됩니다. 당신의 컬렉션과 구매품목들을 살피거나, 인앱 브라우저로 새 게임들을 탐색하세요.",
+        "more_info_links": "<1>FAQ에서 더 알아보시거나</1> <2>앱 사용 설명서를 읽어보세요</2>",
+        "learn_more_below": "밑에서 좀 더 알아보세요"
     }
 }
