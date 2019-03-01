@@ -6,7 +6,8 @@
             "blog": "Blogg",
             "contact_us": "Kontakt oss",
             "privacy": "Personvern",
-            "cookies": "Informasjonskapsler"
+            "cookies": "Informasjonskapsler",
+            "terms": "Vilkår"
         },
         "header": {
             "upload_game": "Last opp spill",
@@ -29,7 +30,11 @@
             "devlogs": "Utviklingslogger",
             "community": "Fellesskap",
             "dashboard": "Kontrollpanel",
-            "game_assets": "Ressurser"
+            "game_assets": "Ressurser",
+            "game_jams": "Game Jams",
+            "jams": "Jams",
+            "bundles": "Pakker",
+            "feed": "Feed"
         },
         "user_menu": {
             "explore": "Utforsk",
@@ -42,7 +47,11 @@
             "account_menu_tooltip": "Kontomeny",
             "create": "Opprett",
             "account": "Konto",
-            "dashboard": "Kontrollpanel"
+            "dashboard": "Kontrollpanel",
+            "host_game_jam": "Start et game jam",
+            "sales_bundles": "Salg og pakker",
+            "game_jams": "Game jams",
+            "feed": "Min feed"
         }
     },
     "index": {
@@ -50,7 +59,43 @@
         "download_app": "Last ned app",
         "view_all_games": "Vis alle spill",
         "page_title": "Last ned de siste indie-spillene",
-        "meta_description": "itch.io er en enkel måte å finne, laste ned, og distribuere indie-spill på online. Uansett om du er en utvikler som vil laste opp et spill eller bare en som leter etter noe nytt å spille, er itch.io noe for deg."
+        "meta_description": "itch.io er en enkel måte å finne, laste ned, og distribuere indie-spill på online. Uansett om du er en utvikler som vil laste opp et spill eller bare en som leter etter noe nytt å spille, er itch.io noe for deg.",
+        "popular_tags": "Populære merker",
+        "browse": "Utforsk",
+        "dont_see_anything_you_like": "Ser du ikke noe du liker?",
+        "view_all_blog_posts": "Vis alle oppdateringer",
+        "browse_all_tags": "Bla gjennom alle merker",
+        "top_sellers": "Bestselgere",
+        "view_all": "Vis alle",
+        "recommendations_based_on": "Basert på ting du har kjøpt, lastet ned og vurdert",
+        "fresh_games": "Ferske spill",
+        "view_more": "Vis mer",
+        "featured_jams": "Fremhevede jams",
+        "view_all_jams": "Vis alle jams",
+        "view_all_games_on_sale": "Vis alle spill på tilbud",
+        "more_featured_games": "Flere fremhevede spill",
+        "game_dev_on_sale": "Ressurser for spillutvikling <1>på tilbud</1>",
+        "view_all_on_sale": "Vis alle på tilbud",
+        "people_to_follow_description": "Her er noen kontoer du kanskje er interessert i å følge. <a>Hvorfor følge?</a>",
+        "latest_featured_games": "Siste fremhevede spill",
+        "filtering_platform": "Filtrerer alle spill for {{platform_name}}",
+        "view_all_platforms": "Vis alle plattformer",
+        "browse_content_type": "Bla gjennom {{content_type}}",
+        "nav": {
+            "all_games": "Alle spill",
+            "bundles": "Pakker",
+            "game_jams": "Game jams",
+            "community": "Fellesskap"
+        },
+        "intro": "<s>itch.io</s> er en enkel måte å finne og dele indie-spill på, online og gratis.",
+        "intro_cta": "<1>Legg til ditt spill</1> eller <2>Les FAQ-en</2>",
+        "html5_games": "HTML5-spill",
+        "to_follow": {
+            "created_projects": "Opprettet {{project_list}}",
+            "empty_results": "Vi har ingen flere anbefalinger akkurat nå. Kom tilbake senere",
+            "refresh_button": "Last inn på nytt for mer...",
+            "dismiss_tooltip": "Ikke foreslå mer"
+        }
     },
     "misc": {
         "classifications": {
@@ -61,7 +106,8 @@
             "other": "Diverse",
             "tool": "Verktøy",
             "comic": "Tegneserier",
-            "book": "Bøker"
+            "book": "Bøker",
+            "game_mod": "Spillmodifikasjoner"
         },
         "accessibility_features": {
             "colorblind": "Passer for fargeblinde",
@@ -102,7 +148,9 @@
             "required": "Påkrevd",
             "save": "Lagre",
             "email_address": "Epost-adresse",
-            "submit": "Send inn"
+            "submit": "Send inn",
+            "optional": "Valgfri",
+            "search": "Søk"
         },
         "page_number": "Side {{page_number}}",
         "follow_button": {
@@ -130,7 +178,9 @@
             "next_page": "Neste side",
             "prev": "Forrige",
             "next": "Neste",
-            "current_page_of_total": "Side {{current_page}} av {{total_pages}}"
+            "current_page_of_total": "Side {{current_page}} av {{total_pages}}",
+            "previous_page": "Forrige side",
+            "first_page": "Første side"
         },
         "collection_button": {
             "add_to_collection": "Legg til i samling"
@@ -149,7 +199,8 @@
         "project_visibility": {
             "restricted": "Begrenset",
             "published": "Publisert",
-            "draft": "Utkast"
+            "draft": "Utkast",
+            "public": "Offentlig"
         },
         "view_more": "Vis mer",
         "dismiss": "Avvis",
@@ -159,12 +210,18 @@
             "on_hold": "På vent",
             "canceled": "Kansellert",
             "prototype": "Prototype"
-        }
+        },
+        "errors": {
+            "server_error": "Serveren kunne ikke svare, prøv igjen senere"
+        },
+        "more_ellip": "Mer…",
+        "loading_more_ellip": "Laster mer…"
     },
     "blog": {
         "all_posts": "Alle innlegg",
         "updates": "Oppdateringer",
-        "empty_message": "Det ser ikke ut til å være noen innlegg her"
+        "empty_message": "Det ser ikke ut til å være noen innlegg her",
+        "tag_filter": "Filtrerer etter {{tag}} <a>Fjern merke</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Logg inn på din itch.io-konto",
@@ -187,7 +244,8 @@
             "follow_username": "Du trenger en konto på itch.io før du kan følge <1>{{username}}</1>.",
             "collection": "Du trenger en konto på itch.io før du kan legge til i en samling.",
             "claim_object": "Vennligst logg inn eller opprett en konto for å gjøre krav på gjenstanden av typen {{noun}}",
-            "recent_purchases": "Logg inn for å knytte sammen nylige kjøp."
+            "recent_purchases": "Logg inn for å knytte sammen nylige kjøp.",
+            "jam_submit": "Du trenger en konto på itch.io før du kan sende inn til et jam."
         },
         "no_account_prompt": "Har du ikke en konto? <1>Opprett en konto</1>",
         "page_title": "Logg inn",
@@ -237,14 +295,18 @@
         "learn_more_about": "Lær mer om:",
         "share_message": "itch.io er en enkel og gratis måte å distribuere indie-spill på online.",
         "create_account_or_login": "<1>Opprett en konto</1> <em>eller</em> <2>Logg inn</2>",
-        "upload_or_dashboard": "<1>Last opp et nytt spill</1> <em>eller</em> <2>Gå til kontrollpanelet</2>"
+        "upload_or_dashboard": "<1>Last opp et nytt spill</1> <em>eller</em> <2>Gå til kontrollpanelet</2>",
+        "track_your_game": "Spor spillet ditt",
+        "design_your_games_page_description": "Opprett en tilpasset side for spillet ditt, som folk går til for å kjøpe eller laste ned spillet ditt. Du velger farger, skrifttyper, bilder og videoer. Fordi det er din side, vil du ikke finne noe på den du ikke selv har plassert der.",
+        "track_your_game_description": "Hold deg oppdatert på hvordan folk ser på spillet ditt med detaljert statistikk som dekker visninger, nedlastninger og kjøp. Vil du kjøre en promotering? Generer nedlastingsnøkler for å gi folk tilgang til spillet."
     },
     "search": {
         "creators": "Skapere:",
         "published_count": "{{count}} prosjekt",
         "published_count_plural": "{{count}} prosjekter",
         "browse_all_games": "Vis alle spill",
-        "search_results_for_query": "Søkeresultater for '{{query}}'"
+        "search_results_for_query": "Søkeresultater for '{{query}}'",
+        "view_all_tags": "Se alle merker"
     },
     "app": {
         "open_source": "Åpen kildekode",
@@ -268,7 +330,9 @@
         "languages_description": "Itch-appen er tilgjengelig på over 20 språk, takket være itch.io-fellesskapet. <a>Lær mer om oversetting</a>",
         "download_now": "Last ned nå",
         "community_header": "Bli med i fellesskapet",
-        "page_title": "Last ned app"
+        "page_title": "Last ned app",
+        "community_description": "Lær mer om utvikling av appen <1>i vårt samfunn</1>. Del forslag til funksjoner og generell tilbakemelding med andre medlemmer av itch.io. Hvis du er en programmerer, vil det glede deg at hele prosjektet er <2>åpen-kildekode på GitHub</2>. Vi ser fram til dine pull requests.",
+        "meta_description": "itch, den beste måten å laste ned og spille indie-spill på. Last ned gratisspill og håndter biblioteket ditt fra skriveborder. Nå tilgjengelig for Windows, macOS og Linux."
     },
     "game": {
         "empty_page": "Det ser ikke ut til å være noe her...",
@@ -330,7 +394,8 @@
             "player_count": "Antall spillere",
             "singleplayer": "Enkeltspiller",
             "links": "Lenker",
-            "mentions": "Omtaler"
+            "mentions": "Omtaler",
+            "tags": "Merker"
         },
         "community_header": "Fellesskap",
         "join_the_community": "Bli med i fellesskapet",
@@ -349,6 +414,87 @@
             "version_name": "Versjon {{version_name}}",
             "this_file_will_be_available_when_the_creator_uploads_it": "Denne filen vil bli tilgjengelig når skaperen laster den opp",
             "empty_message": "Ingenting er tilgjengelig for nedlastning ennå."
+        },
+        "layout": {
+            "view_all_by_name": "Vis alt av {{name}}",
+            "creator": "Skaper",
+            "follow": "Følg",
+            "following": "Følger",
+            "follow_username": "Følg {{username}}",
+            "following_username": "Følger {{username}}",
+            "add_to_collection": "Legg til i samling",
+            "add_to_collection_short": "Samling",
+            "comments": "Kommentarer",
+            "community": "Fellesskap",
+            "edit_your_rating": "Endre din vurdering",
+            "edit_rating": "Endre vurdering",
+            "rate": "Vurder",
+            "rate_this_noun": "Vurder dette {{noun}}",
+            "rate_for_jam": "Vurder for {{jam_title}}",
+            "submission_to_jam": "Innsending til {{jam_title}}",
+            "related_games": "Relaterte spill",
+            "related_games_short": "Relatert",
+            "ownership": {
+                "you_own_this": "Du eier dette",
+                "send_gift": "Send gave",
+                "download": "Last ned",
+                "percent_off": "{{percent}}% avslag",
+                "you_havent_sent_this_gift_to_anyone_yet": "Du har ikke sendt denne gaven til noen ennå",
+                "claimed": "Gjort krav på",
+                "you_were_gifted_this": "Du fikk dette i gave",
+                "purchased_in_a_bundle_for_price": "Kjøpt i en pakke for {{price}}",
+                "purchased_for_price": "Kjøpt for {{price}}"
+            },
+            "footer": {
+                "view_all_by_username": "Vis alt av {{username}}",
+                "report": "Rapporter",
+                "embed": "Bygg inn",
+                "updated_date": "Oppdatert {{date}}"
+            },
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "Dette er en innsending til {{jam_title}}",
+                "view_the_submission_page": "Vis innsendingssiden",
+                "you_rated_this_game": "Du har vurdert dette spillet"
+            }
+        },
+        "after_download": {
+            "share_this_project": "Del dette prosjektet",
+            "thanks_for_downloading_title": "Takk for at du lastet ned"
         }
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "Dette emnet er arkivert og kan ikke lenger bli publisert i",
+            "reply": "Svar",
+            "log_in_to_reply": "Logg inn for å svare",
+            "unlisted_topic_notice": "<s>En moderator har skjult dette emnet.</s> Det er ikke synlig i emnelisten, men du kan fortsatt svare og gjøre endringer.",
+            "join_the_discussion": "Bli med i diskusjonen. Logg inn eller opprett en gratis itch.io-konto for å fortsette.",
+            "reply_to_someone_else": "Vil du svare noen andre? Klikk <s>svar</s> under innlegget deres.",
+            "this_reply_will_go_to_yourself": "Dette svaret er til deg selv.",
+            "this_reply_will_go_to_the_topic_author": "Dette svaret er til emnets forfatter, {{username}}.",
+            "new_reply": "Nytt svar",
+            "remove_bookmark": "Fjern bokmerke",
+            "bookmark": "Bokmerke",
+            "unsubscribe": "Slutt å abonnere",
+            "subscribe": "Abonner",
+            "return_to_topic_list": "Tilbake til emneliste",
+            "sticky": "Festet",
+            "locked": "Låst",
+            "replies_count": "Svar: {{count}}",
+            "views_count": "Visninger: {{count}}",
+            "a_topic_by_username_created_time_ago": "Et emne av {{username}}, opprettet {{time_ago}}",
+            "next_page": "Neste side",
+            "previous_page": "Forrige side",
+            "first_page": "Første side",
+            "last_page": "Siste side",
+            "this_topic_is_locked": "Dette emnet er låst",
+            "this_topic_was_locked_by_username": "Dette emnet ble låst av {{username}}"
+        },
+        "post_list": {
+            "deleted_post": "Slettet innlegg"
+        }
+    },
+    "browse": {
+        "view_all_tags": "Se alle merker"
     }
 }
