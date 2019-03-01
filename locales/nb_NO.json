@@ -7,7 +7,8 @@
             "contact_us": "Kontakt oss",
             "privacy": "Personvern",
             "cookies": "Informasjonskapsler",
-            "terms": "Vilkår"
+            "terms": "Vilkår",
+            "faq": "FAQ"
         },
         "header": {
             "upload_game": "Last opp spill",
@@ -34,7 +35,9 @@
             "game_jams": "Game Jams",
             "jams": "Jams",
             "bundles": "Pakker",
-            "feed": "Feed"
+            "feed": "Feed",
+            "browse": "Utforsk",
+            "browse_games": "Utforsk spill"
         },
         "user_menu": {
             "explore": "Utforsk",
@@ -95,7 +98,19 @@
             "empty_results": "Vi har ingen flere anbefalinger akkurat nå. Kom tilbake senere",
             "refresh_button": "Last inn på nytt for mer...",
             "dismiss_tooltip": "Ikke foreslå mer"
-        }
+        },
+        "view_something_random": "Prøv lykken",
+        "from_the_blog": "Fra bloggen",
+        "random_game": "Tilfeldig spill",
+        "get_the_app": "<s>Få mest ut av itch.io!</s> Installer og administrer spillene dine med appen vår",
+        "from_the_itchio_blog": "Fra itch.io-bloggen",
+        "search_games_creators": "Søk etter spill og skapere",
+        "on_sale": "På tilbud",
+        "free_games": "Gratis spill",
+        "with_demo": "Med demo",
+        "recommended_for_you": "Anbefalt for deg",
+        "fresh_games_description": "Oppdateres konstant med de siste spillene på itch.io",
+        "people_to_follow": "Folk å følge"
     },
     "misc": {
         "classifications": {
