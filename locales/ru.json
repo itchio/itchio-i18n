@@ -233,7 +233,8 @@
         "errors": {
             "server_error": "Сервер не отвечает, повторите позже"
         },
-        "more_ellip": "Больше…"
+        "more_ellip": "Больше…",
+        "loading_more_ellip": "Загружаем ещё…"
     },
     "blog": {
         "all_posts": "Все публикации",
@@ -570,7 +571,8 @@
             "title": "Заголовок",
             "body": "Сообщение",
             "topic_tag": "Тег",
-            "your_moderators_are": "itch.io не модерирует этот форум, но модерируют эти пользователи:"
+            "your_moderators_are": "itch.io не модерирует этот форум, но модерируют эти пользователи:",
+            "page_title": "Создать новую тему"
         },
         "misc": {
             "new_topic_button": "Новая тема"
@@ -1051,7 +1053,8 @@
             "payments": "Платежи",
             "views": "Просмотры",
             "downloads": "Скачивания",
-            "followers": "Подписчики"
+            "followers": "Подписчики",
+            "following": "Подписки"
         },
         "follow_itchio": "Подпишитесь на itch.io в {{twitter}} и на {{facebook}}",
         "page_title": "Кабинет создателя",
@@ -1230,5 +1233,68 @@
         "browse_top_past_jams": "Лучшие прошедшие геймджемы",
         "browse_in_progress": "В процессе",
         "count_joined": "{{count}} присоединились"
+    },
+    "feed": {
+        "filter_own_activity_tab": "Моя активность",
+        "filter_everything_tab": "Всё",
+        "filter_new_projects_tab": "Новые проекты",
+        "filter_collections_tab": "Коллекции",
+        "filter_devlogs_tab": "Дневники",
+        "filter_ratings_tab": "Оценки",
+        "latest_featured_games_header": "Последние избранные игры",
+        "featured_tags_header": "Избранные теги",
+        "to_rate": {
+            "projects_to_rate_header": "Проекты для оценки",
+            "to_rate_description": "Вот некоторые проекты, с которыми вы взаимодействовали, но не поставили оценку."
+        },
+        "to_follow": {
+            "people_to_follow_header": "Подпишитесь на создателей",
+            "to_follow_description": "Вам может быть интересно подписаться на эти аккаунты."
+        },
+        "my_feed_tab": "Моя лента",
+        "global_feed_tab": "Глобальная лента",
+        "manage_my_games_button": "Мои игры",
+        "upload_a_game_button": "Загрузить игру",
+        "event_filter_label": "Фильтр:",
+        "email_warning": {
+            "verify_your_email_address": "Подтвердите ваш email"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Добавить картинку профиля",
+            "description": "Не указана картинка профиля, добавьте её, чтобы людям было легче вас найти!"
+        },
+        "event": {
+            "collection_summary_0": "Коллекция из {{count}} проекта.",
+            "collection_summary_1": "Коллекция из {{count}} проектов.",
+            "collection_summary_2": "Коллекция из {{count}} проектов.",
+            "collection_added_count_0": "Добавлен {{count}} проект.",
+            "collection_added_count_1": "Добавлено {{count}} проекта.",
+            "collection_added_count_2": "Добавлено {{count}} проектов."
+        }
+    },
+    "library": {
+        "page_title": "Моя игротека",
+        "things_you_own_header": "Проекты в игротеке",
+        "view_all_link": "Показать все",
+        "show_on_my_profile_toggle": "Отображать на странице профиля",
+        "things_rated_header": "Проекты, которые вы оценили",
+        "permalink": "Пермалинк",
+        "private_toggle": "Приватная",
+        "go_to_collection_link": "К коллекции",
+        "empty_collection_message": "Эта коллекция пуста",
+        "nav_header": "Игротека",
+        "nav": {
+            "my_purchases": "Мои покупки",
+            "recommended_for_you": "Рекомендованные для вас",
+            "things_on_sale": "Со скидками",
+            "things_to_rate": "Без оценок"
+        },
+        "download_button": "Скачать",
+        "gift_button": "Подарить"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Ваш email не подтверждён"
+        }
     }
 }
