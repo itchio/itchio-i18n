@@ -651,6 +651,9 @@
         "remove_confirm": "您确定要从此合集中删除它吗"
     },
     "browse": {
-        "sort_popular": "热门"
+        "sort_popular": "热门",
+        "results_count_plural": "{{count}}项结果",
+        "results_count": "{{count}}项结果",
+        "sort_new_and_popular": "新品 & 人气"
     }
 }
