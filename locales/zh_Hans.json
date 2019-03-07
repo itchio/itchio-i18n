@@ -647,6 +647,10 @@
         "remove_item_button": "删除...",
         "add_a_blurb": "添加简介",
         "edit_blurb": "编辑简介",
-        "blurb_author_says": "{{author}}说"
+        "blurb_author_says": "{{author}} 说",
+        "remove_confirm": "您确定要从此合集中删除它吗"
+    },
+    "browse": {
+        "sort_popular": "热门"
     }
 }
