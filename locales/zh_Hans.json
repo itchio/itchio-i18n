@@ -667,7 +667,7 @@
             "suggest_description_for_this_tag": "建议对此标签的描述",
             "no_description_yet": "尚未添加介绍"
         },
-        "filter_by_tag": "按标签筛选",
+        "filter_by_tag": "标签筛选",
         "filter_group_session_length": "平均时长",
         "filter_group_multiplayer": "多人联机",
         "filter_group_accessibility_features": "辅助功能",
@@ -682,7 +682,7 @@
             "clear_filter": "清空筛选"
         },
         "filter_everything_else": "其他",
-        "filter_results": "过滤结果",
+        "filter_results": "筛选结果",
         "related_collections": "相关合集",
         "filter_group_price": "价格",
         "filter_group_genre": "类型",
@@ -927,7 +927,56 @@
             "filters": {
                 "all_submissions": "所有提交",
                 "browser_playable": "浏览器可玩"
+            },
+            "filter": "筛选",
+            "empty_results": "没有符合筛选条件的作品",
+            "rated": "已评分"
+        },
+        "results": {
+            "results": "结果",
+            "submissions_summary": "<s>共 {{count}} 个作品</s>被提交于{{start_date}}至{{end_date}}期间。",
+            "votes_cast_count": "<s>共 {{count}} 次投票</s>被提交于{{vote_start_date}}至{{vote_end_date}}期间。",
+            "ratings_given_count": "<s>共 {{count}} 个评分</s>被提交于{{vote_start_date}}至{{vote_end_date}}期间。",
+            "ratings_given_submissions_count": "<s>共 {{count}} 个评分</s>对<s>共 {{submission_count}} 个参加作品</s>（{{percent}}）于{{vote_start_date}}至{{vote_end_date}}期间提交。",
+            "average_and_median_results": "参加游戏作品的平均分为<s>{{average_ratings}}</s>，中位数为<s>{{median_ratings}}</s>。",
+            "empty_message": "结果尚未揭晓，请稍后再回来",
+            "empty_page_message": "此页面上没有结果",
+            "no_rankings_available": "没有评分",
+            "sort_by_criteria": "按标准",
+            "sort_overall": "总体",
+            "submissions": {
+                "by_author": "作者 {{author}}",
+                "view_submission_page": "查看提交页面",
+                "ranked": "排名{{ordinal_rank}}",
+                "ranked_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
+                "ranked_rating_count": "以{{count}}评分排名{{ordinal_rank}}",
+                "ranked_criteria": "在{{criteria_name}}中排名{{ordinal_rank}}",
+                "ranked_criteria_vote_count": "在{{criteria_name}}中以{{count}}投票排名{{ordinal_rank}}",
+                "ranked_criteria_rating_count": "在{{criteria_name}}中以{{count}}评分排名{{ordinal_rank}}",
+                "ranked_score": "分数：{{score}}"
             }
+        },
+        "submission": {
+            "results_table_criteria": "标准",
+            "results_table_rank": "名次",
+            "results_table_votes": "投票",
+            "results_table_score": "得分",
+            "results_table_raw_score": "初步评分",
+            "edit_this_submission_button": "编辑此作品提交",
+            "remove_this_submission_button": "删除此作品提交",
+            "a_jam_submission": "Jam 作品提交",
+            "view_game_page": "查看游戏页面",
+            "view_project_page": "查看项目页面",
+            "comments": {
+                "leave_a_comment_header": "发表评论",
+                "post_comment": "发表评论",
+                "empty_message": "还没有人发表评论"
+            },
+            "link_to_itchio_page": "{{game_title}} 在 itch.io 的网页",
+            "downloads": "下载",
+            "play_game": "玩游戏",
+            "run_project": "运行项目",
+            "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。"
         }
     }
 }
