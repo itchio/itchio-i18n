@@ -605,7 +605,7 @@
         "on_sale_notice": "这个商品正在促销",
         "support_message": "通过捐赠支持该项目的开发",
         "percent_off_until": "全部购买都有<s> {{rate}}％</s>优惠直到{{end_date}}。",
-        "also_buy_as_bundle_plural": "您还可以花费{{price}}购买包括本商品在内的共{{count}}件商品的套装",
+        "also_buy_as_bundle_plural": "您还可以以{{price}}的价格购买{{count}}件该商品的捆绑包：",
         "free_pay_what_you_want": "这个作品是免费的，但创作者会接受您支付一个合适的金额作为支持。",
         "no_thanks_just_take_me_to_the_downloads": "不用了，请带我去下载页面",
         "includes_steam_key": "您将在购买时获赠 Steam 序列号。",
@@ -654,6 +654,9 @@
         "sort_popular": "热门",
         "results_count_plural": "{{count}}项结果",
         "results_count": "{{count}}项结果",
-        "sort_new_and_popular": "新品 & 人气"
+        "sort_new_and_popular": "新品 & 热门",
+        "sort_top_sellers": "热卖",
+        "sort_top_rated": "好评",
+        "sort_most_recent": "最新"
     }
 }
