@@ -664,7 +664,8 @@
         "clear_filters": "清除",
         "tag": {
             "suggest_updated_description": "建议更新说明",
-            "suggest_description_for_this_tag": "建议对此标签的描述"
+            "suggest_description_for_this_tag": "建议对此标签的描述",
+            "no_description_yet": "尚未添加介绍"
         },
         "filter_by_tag": "按标签筛选",
         "filter_group_session_length": "平均时长",
@@ -680,7 +681,18 @@
             "toggle_more_options": "切换更多选项",
             "clear_filter": "清空筛选"
         },
-        "filter_everything_else": "其他"
+        "filter_everything_else": "其他",
+        "filter_results": "过滤结果",
+        "related_collections": "相关合集",
+        "filter_group_price": "价格",
+        "filter_group_genre": "类型",
+        "filter_group_platform": "平台",
+        "view_all_tags": "查看所有标签",
+        "filter_group_when": "时间",
+        "filter_group_input_methods": "输入方式",
+        "filter_group_type": "类型",
+        "filter_group_release_status": "发售情况",
+        "filter_group_tools": "工具和引擎"
     },
     "browse_tags": {
         "page_title": "热门标签",
