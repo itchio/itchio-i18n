@@ -627,7 +627,8 @@
         "continue_payment": "继续支付",
         "billing_address": "账单地址",
         "generic_error": "您的支付遇到了一个问题：{{error}}",
-        "contact_support_on_error": "如果问题持续存在，请联系 <a>itch.io support</a> 并提供所有相关细节。"
+        "contact_support_on_error": "如果问题持续存在，请联系 <a>itch.io support</a> 并提供所有相关细节。",
+        "buy_as_bundle_plural": "您可以以{{price}}的价格购买{{count}}件该商品的捆绑包"
     },
     "dashboard": {
         "header": {
@@ -657,6 +658,7 @@
         "sort_new_and_popular": "新品 & 热门",
         "sort_top_sellers": "热卖",
         "sort_top_rated": "好评",
-        "sort_most_recent": "最新"
+        "sort_most_recent": "最新",
+        "sort": "排序"
     }
 }
