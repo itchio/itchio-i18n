@@ -627,11 +627,15 @@
         "continue_payment": "继续支付",
         "billing_address": "账单地址",
         "generic_error": "您的支付遇到了一个问题：{{error}}",
-        "contact_support_on_error": "如果问题持续存在，请联系<a>itch.io support</a>并提供所有相关细节"
+        "contact_support_on_error": "如果问题持续存在，请联系 <a>itch.io support</a> 并提供所有相关细节。"
     },
     "dashboard": {
         "header": {
             "game_jams_link": "Game Jam"
         }
+    },
+    "collection": {
+        "pending_invitation": "您有一个待处理的成为此合集贡献者的邀请。 <a>查看邀请</a>",
+        "a_collection_by_author": "{{author}}集合"
     }
 }
