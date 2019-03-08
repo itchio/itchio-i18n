@@ -990,7 +990,7 @@
                 "private_field": "（私有的）",
                 "not_open_yet": "本次 Jam 的提交时段尚未结束。打分将于{{start_date}}开始。",
                 "owner_message": "这是您自己的作品，因此无法打分。本次 Jam 的其他参加者可以为您的作品打分。",
-                "unavailable_to_rate": "您尚未提交您的作品，因此无权为该项目打分。或许可以试试在下面留言。"
+                "unavailable_to_rate": "您尚未提交自己的作品，因此无权为该项目打分。或许可以试试在下面留言。"
             },
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "rated_by_people_count_plural": "{{count}}位用户已打分",
