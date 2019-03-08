@@ -985,8 +985,14 @@
             "rate_submission": {
                 "sign_up_to_vote": "<a>注册一个 itch.io 帐号</a>来为作品评分及留言。",
                 "vote_for_this_submission": "为本作品投票",
-                "rate_this_submission": "为本作品打分"
-            }
+                "rate_this_submission": "为本作品打分",
+                "vote": "投票",
+                "private_field": "（私有的）",
+                "not_open_yet": "本次 jam 的提交时段尚未结束。评分将于{{start_date}}开始"
+            },
+            "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
+            "rated_by_people_count_plural": "{{count}}位用户已打分",
+            "rated_by_people_count": "{{count}}位用户已打分"
         }
     }
 }
