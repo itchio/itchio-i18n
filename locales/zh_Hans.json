@@ -989,7 +989,7 @@
                 "vote": "投票",
                 "private_field": "（私有的）",
                 "not_open_yet": "本次 Jam 的提交时段尚未结束。打分将于{{start_date}}开始。",
-                "owner_message": "这件作品由您提交，您无权位此作品打分。本次 jam 的其他参赛者可以为您的作品打分。"
+                "owner_message": "这是您自己的作品，因此无法打分。本次 Jam 的其他参加者可以为您的作品打分。"
             },
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "rated_by_people_count_plural": "{{count}}位用户已打分",
