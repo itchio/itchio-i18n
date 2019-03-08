@@ -35,7 +35,7 @@
             "game_assets": "素材",
             "fun_games": "趣味游戏",
             "games": "游戏",
-            "feed_unseen_count": "{{count}}条新消息",
+            "feed_unseen_count": "{{count}} 条新消息",
             "feed": "订阅"
         },
         "user_menu": {
@@ -59,7 +59,7 @@
     "index": {
         "popular_tags": "热门标签",
         "browse": "浏览",
-        "games_by_price": "按价格排序游戏",
+        "games_by_price": "价格",
         "download_app": "下载 App",
         "view_something_random": "浏览随机内容",
         "view_all_games": "浏览所有游戏",
@@ -243,7 +243,7 @@
         "upload_your_indie_game": "上传你的独立游戏",
         "design_your_games_page": "设计你的游戏页面",
         "track_your_game": "追踪你的游戏数据",
-        "host_a_sale": "进行游戏促销活动",
+        "host_a_sale": "发起促销活动",
         "host_a_sale_description": "宣传你的游戏，在任意时间段开展促销活动来获得更高销量。",
         "learn_more": "了解更多内容",
         "browser_game_description": "通过<s>itch.io</s>发布你开发的网页游戏可以让你获得收入。你的游戏将会嵌在网页端，如果玩家喜欢你的游戏，他们可以向你捐赠任意额度的金额。",
@@ -976,7 +976,10 @@
             "downloads": "下载",
             "play_game": "玩游戏",
             "run_project": "运行项目",
-            "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。"
+            "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
+            "ranked_from_count_plural": "排名依据<s>{{count}}个评分</s>。",
+            "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
+            "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}"
         }
     }
 }
