@@ -988,7 +988,7 @@
                 "rate_this_submission": "为本作品打分",
                 "vote": "投票",
                 "private_field": "（私有的）",
-                "not_open_yet": "本次 jam 的提交时段尚未结束。评分将于{{start_date}}开始"
+                "not_open_yet": "本次 Jam 的提交时段尚未结束。打分将于{{start_date}}开始。"
             },
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "rated_by_people_count_plural": "{{count}}位用户已打分",
