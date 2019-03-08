@@ -18,7 +18,7 @@
             "upload_game": "上传游戏",
             "devlogs": "开发日志",
             "community": "社区",
-            "search_placeholder": "搜索游戏或游戏开发者",
+            "search_placeholder": "搜索游戏或开发者",
             "search": "搜索",
             "log_in": "登录",
             "register": "注册",
@@ -41,10 +41,10 @@
         "user_menu": {
             "explore": "探索",
             "create": "新建",
-            "account": "账号",
-            "log_out": "退出登录",
+            "account": "帐号",
+            "log_out": "注销",
             "settings": "设置",
-            "view_profile": "个人信息",
+            "view_profile": "查看个人资料",
             "host_game_jam": "发起 Game Jam",
             "sales_bundles": "促销和捆绑包",
             "new_project": "上传新项目",
@@ -53,7 +53,7 @@
             "recommendations": "推荐",
             "library": "我的库",
             "feed": "我的订阅",
-            "account_menu_tooltip": "帐户菜单"
+            "account_menu_tooltip": "帐号菜单"
         }
     },
     "index": {
@@ -61,7 +61,7 @@
         "browse": "浏览",
         "games_by_price": "价格",
         "download_app": "下载 App",
-        "view_something_random": "浏览随机内容",
+        "view_something_random": "随便看看",
         "view_all_games": "浏览所有游戏",
         "dont_see_anything_you_like": "没有找到感兴趣的内容？",
         "random_game": "随机游戏",
@@ -69,7 +69,7 @@
         "view_all_blog_posts": "浏览全部更新",
         "search_games_creators": "搜索游戏和游戏开发者",
         "browse_all_tags": "浏览所有标签",
-        "on_sale": "特价",
+        "on_sale": "促销商品",
         "free_games": "免费",
         "top_sellers": "热卖",
         "with_demo": "试玩版",
@@ -82,11 +82,11 @@
         "view_all_jams": "查看所有 Jams",
         "fresh_games_description": "最近在平台上持续更新的游戏",
         "people_to_follow": "可以关注的人",
-        "view_all_games_on_sale": "浏览所有打折游戏",
+        "view_all_games_on_sale": "浏览所有促销游戏",
         "more_featured_games": "更多精选游戏",
-        "game_dev_on_sale": "游戏开发资源 <1>特价</1>",
-        "view_all_on_sale": "查看所有打折内容",
-        "people_to_follow_description": "你也许感兴趣关注列下列用户。<a>为什么要关注其他用户？</a>",
+        "game_dev_on_sale": "<1>促销中</1>的游戏开发资源",
+        "view_all_on_sale": "查看所有促销内容",
+        "people_to_follow_description": "您也许感对下列用户感兴趣。<a>为什么要关注其他用户？</a>",
         "latest_featured_games": "最新精选游戏",
         "filtering_platform": "筛选所有游戏内容 {{platform_name}}",
         "view_all_platforms": "浏览所有游戏平台",
@@ -186,7 +186,7 @@
         },
         "filter_price": {
             "free": "免费",
-            "on_sale": "优惠",
+            "on_sale": "促销",
             "paid": "付费"
         },
         "pager": {
@@ -244,7 +244,7 @@
         "design_your_games_page": "设计你的游戏页面",
         "track_your_game": "追踪你的游戏数据",
         "host_a_sale": "发起促销活动",
-        "host_a_sale_description": "宣传你的游戏，在任意时间段开展促销活动来获得更高销量。",
+        "host_a_sale_description": "在任意时间段开展特卖活动，来帮助你推广游戏并获得更高销量。",
         "learn_more": "了解更多内容",
         "browser_game_description": "通过<s>itch.io</s>发布你开发的网页游戏可以让你获得收入。你的游戏将会嵌在网页端，如果玩家喜欢你的游戏，他们可以向你捐赠任意额度的金额。",
         "upload_your_game_description": "你可以在<s>itch.io</s>上免费上传自己的游戏。我们会代为发行你的游戏，展示游戏截图和其他下载内容。我们为你提供可靠且快速的下载途径。",
@@ -979,7 +979,12 @@
             "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
             "ranked_from_count_plural": "排名依据<s>{{count}}个评分</s>。",
             "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
-            "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}"
+            "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
+            "results_header": "结果",
+            "submitted_by_contributors": "由{{contributors}}提交",
+            "rate_submission": {
+                "sign_up_to_vote": "<a>注册一个 itch.io 帐号</a>来为作品评分及留言。"
+            }
         }
     }
 }
