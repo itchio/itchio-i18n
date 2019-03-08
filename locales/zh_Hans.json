@@ -28,7 +28,7 @@
             "no_notifications": "没有新的通知",
             "free_games": "免费游戏",
             "indie_game_store": "独立游戏商店",
-            "game_development": "工具",
+            "game_development": "开发工具",
             "comics": "漫画",
             "sales": "促销",
             "bundles": "捆绑包",
@@ -36,10 +36,10 @@
             "fun_games": "趣味游戏",
             "games": "游戏",
             "feed_unseen_count": "{{count}} 条新消息",
-            "feed": "订阅"
+            "feed": "动态"
         },
         "user_menu": {
-            "explore": "探索",
+            "explore": "发现",
             "create": "新建",
             "account": "帐号",
             "log_out": "注销",
@@ -52,7 +52,7 @@
             "game_jams": "Game Jam",
             "recommendations": "推荐",
             "library": "我的库",
-            "feed": "我的订阅",
+            "feed": "我的动态",
             "account_menu_tooltip": "帐号菜单"
         }
     },
@@ -99,8 +99,8 @@
             "community": "社区"
         },
         "intro": "使用<s>itch.io</s>即可简单快捷地免费寻找和分享独立游戏。",
-        "intro_cta": "<1>添加你的游戏</1> 或 <2>阅读FAQ</2>",
-        "html5_games": "HTML5 游戏",
+        "intro_cta": "<1>添加您的游戏</1> 或 <2>阅读FAQ</2>",
+        "html5_games": "网页游戏",
         "from_the_blog": "来自博客",
         "from_the_itchio_blog": "来自 itch.io 博客",
         "page_title": "下载最新的独立游戏",
@@ -120,7 +120,7 @@
             "physical_game": "单机",
             "soundtrack": "原声",
             "other": "其他",
-            "tool": "工具",
+            "tool": "开发工具",
             "comic": "漫画",
             "book": "书籍"
         },
@@ -234,17 +234,17 @@
     },
     "developers": {
         "upload_or_dashboard": "<1>上传新游戏</1> <em>或</em> <2>前往面板</2>",
-        "page_header": "创建自定义页面，马上发行或者销售你的独立游戏",
-        "product_summary1": "<s>itch.io</s>是一款免费在线平台，让你轻松发行自己的独立游戏。一次性上传游戏文件和截图，为你的游戏建立定制化的宣传页面。",
-        "product_summary2": "你甚至可以为游戏设置最低购买价格，让玩家自行选择支付的价格。",
+        "page_header": "创建自定义页面，马上发行或者销售您的独立游戏",
+        "product_summary1": "<s> itch.io </s>可以免费在线发布独立游戏。将您的游戏文件和屏幕截图全部上传到一个地方。创建一个以游戏为焦点的自定义登录页面。",
+        "product_summary2": "您甚至可以为游戏设置最低购买价格，让玩家自行选择支付的价格。",
         "my_dashboard": "我的面板",
         "upload_a_new_game": "上传新游戏",
         "account_faq_cta": "<1>马上创建账号</1> 或者 <2>阅读常见问题</2>",
-        "upload_your_indie_game": "上传你的独立游戏",
-        "design_your_games_page": "设计你的游戏页面",
-        "track_your_game": "追踪你的游戏数据",
+        "upload_your_indie_game": "上传您的独立游戏",
+        "design_your_games_page": "设计您的游戏页面",
+        "track_your_game": "追踪您的游戏数据",
         "host_a_sale": "发起促销活动",
-        "host_a_sale_description": "在任意时间段开展特卖活动，来帮助你推广游戏并获得更高销量。",
+        "host_a_sale_description": "在任意时间段开展特卖活动，来帮助您推广游戏并获得更高销量。",
         "learn_more": "了解更多内容",
         "browser_game_description": "通过<s>itch.io</s>发布你开发的网页游戏可以让你获得收入。你的游戏将会嵌在网页端，如果玩家喜欢你的游戏，他们可以向你捐赠任意额度的金额。",
         "upload_your_game_description": "你可以在<s>itch.io</s>上免费上传自己的游戏。我们会代为发行你的游戏，展示游戏截图和其他下载内容。我们为你提供可靠且快速的下载途径。",
@@ -293,14 +293,14 @@
             "create_account": "创建账号",
             "already_have_account": "或者已有账号？",
             "log_in": "登录",
-            "link_product": "注册账号后，你所购买的<1>{{product}}</1>将会自动关联到已注册账号。",
+            "link_product": "注册账号后，您所购买的<1>{{product}}</1>将会自动关联到已注册账号。",
             "accept_tos": "我同意并接受 <1>服务条款</1>",
             "digest_signup": "订阅 itch.io 每月两次的文摘简报",
             "interest_gamer": "我希望在itch.io上玩游戏或者下载游戏",
             "interest_developer": "我希望在itch.io上分发内容",
-            "account_preferences_info": "你可以后续修改这些答案，itch.io会根据这些答案向你展示网站内容。",
+            "account_preferences_info": "您可以后续修改这些答案，itch.io会根据这些答案向您展示网站内容。",
             "about_you": "关于您的意向",
-            "your_email_address": "你的邮箱",
+            "your_email_address": "您的邮箱",
             "password": "输入密码",
             "repeat_password": "再次输入密码",
             "url_preview": "您的个人资料页面将是",
@@ -632,7 +632,149 @@
     },
     "dashboard": {
         "header": {
-            "game_jams_link": "Game Jam"
+            "game_jams_link": "Game Jam",
+            "projects_link": "项目",
+            "payments_link": "支付",
+            "analytics_link": "分析",
+            "payouts_link": "支出",
+            "sales_bundles_link": "促销和捆绑包",
+            "coop_bundles_link": "合作捆绑包"
+        },
+        "stats": {
+            "gross_revenue": "收入",
+            "payments": "支付",
+            "views": "浏览量",
+            "downloads": "下载量",
+            "followers": "关注者",
+            "following": "已关注"
+        },
+        "follow_itchio": "在 {{twitter}} 和 {{facebook}} 上关注 itch.io",
+        "page_title": "创作者面板",
+        "create_new_project_button": "创建新项目",
+        "project_list": {
+            "edit": "编辑",
+            "analytics": "分析",
+            "widget": "窗口小部件",
+            "no_image": "没有图像"
+        },
+        "analytics_summary_header": "摘要",
+        "intro_text": "您是开发者吗？上传您的第一个游戏",
+        "not_a_developer_escape": "不，带我去看游戏动态",
+        "recently_updated_pages_header": "最近更新的页面",
+        "new_devlog": "新的开发日志",
+        "hello": "你好！",
+        "dashboard": "控制面板",
+        "edit_project": {
+            "create_a_new_project_title": "创建一个新项目",
+            "edit_project_title": "编辑项目",
+            "title_field": "标题",
+            "project_url_field": "项目 URL",
+            "save_and_view_button": "保存并查看页面",
+            "video_field": "游戏视频或预告片",
+            "video_field_description": "提供 YouTube 或 Vimeo 的链接。",
+            "delete_game_button": "删除游戏",
+            "short_description_field": "简短说明或宣传标语",
+            "short_description_field_description": "会在我们链接到您的项目时显示。避免与项目的标题重复",
+            "classification_field": "分类",
+            "classification_field_description": "您上传的是什么？",
+            "kind_of_project_field": "项目类型",
+            "release_status_field": "发售情况",
+            "details_section_header": "详情",
+            "description_field": "介绍",
+            "custom_noun_field": "自定义名词",
+            "custom_noun_field_description": "您可以通过提供自定义名词来更改 itch.io 对项目的称呼。",
+            "instructions_field": "下载与安装说明",
+            "default_noun": "留空以默认为：'{{default_noun}}'。",
+            "classification_other": "其他",
+            "types": {
+                "downloadable": "可供下载"
+            },
+            "tip_label": "提示",
+            "project_type_help": "您可以添加以上任何类型的可供下载文件",
+            "description_field_description": "这将构成您游戏页面的内容。",
+            "instructions_field_info2": "如果您的游戏需要先安装任何库或程序，请包含该信息",
+            "instructions_field_info1": "通过浏览器下载您的游戏时，此文本将被显示给用户。包括有关如何安装和运行的信息。",
+            "community_field": "社区",
+            "community_disabled": "禁用",
+            "community_comments": "评论",
+            "community_discussion_board": "讨论板",
+            "pricing_header": "价格",
+            "uploads_header": "上传",
+            "upload_files_button": "上传文件",
+            "add_external_file_button": "添加外部文件",
+            "file_size_limit": "文件体积限制：{{filesize}}。 <a>如果您需要更多空间，请与我们联系</a>",
+            "content_guidelines_header": "确保每个人都能找到您的页面",
+            "content_guidelines_info": "在发布项目之前，请查看我们的<a>质量指南</a>",
+            "payment_warning_header": "您还没有设置付款方式",
+            "payment_warning_info": "如果您将最低价格设置为0以上，用户则无法下载您的作品。 <a>修改帐号</a>",
+            "cover_uploader": {
+                "confirm_remove": "您确定要删除封面图片吗？",
+                "cover_description": "当 itch.io 想要从站点的其他部分链接到您的项目，就会使用封面图像。必填（最低：315x250，推荐：630x500）",
+                "replace_image": "替换封面图像",
+                "remove_image": "删除图片",
+                "upload_button": "上传封面图片"
+            },
+            "errors": {
+                "invalid_file": "您选择的文件存在问题",
+                "invalid_image": "请编辑您的图片或尝试其他图片"
+            },
+            "error_dialog": {
+                "confirm_button": "知道了",
+                "title": "保存项目时出现问题"
+            },
+            "visibility_access_header": "可见性和访问权限",
+            "visibility_access_info": "使用草稿在公开之前检查您的页面。 <a>了解有关访问模式的详情</a>",
+            "access_control": {
+                "disable_downloads_option": "禁用新的下载和购买",
+                "unlisted_option": "不在搜索和浏览中列出",
+                "allow_password_option": "允许使用密码查看页面",
+                "password_label": "密码",
+                "public_access_settings": "公开访问的设置",
+                "restricted_access_settings": "受限访问的设置",
+                "access_settings": "访问权限设置"
+            },
+            "embed_options_header": "嵌入选项",
+            "embed_options": {
+                "viewport_dimensions": "视窗尺寸",
+                "width": "宽度",
+                "height": "高度",
+                "frame_options": "框架选项",
+                "mobile_friendly_option": "移动设备支持",
+                "mobile_friendly_info": "您的项目可以在手机上运行（较低的分辨率和触屏支持）",
+                "orientation": "方向",
+                "fullscreen_button_option": "全屏按钮",
+                "enable_scrollbars_option": "启用滚动条",
+                "embed_in_page_option": "嵌入到页面",
+                "launch_fullscreen_option": "点击全屏启动"
+            },
+            "details_genre_header": "类型",
+            "details_tags_header": "标签",
+            "details_genre_info": "选择最能描述您游戏的类别。你可以选择下面带标签的其他类型",
+            "pricing": {
+                "free_or_donate": "{{money}}或捐赠",
+                "paid": "付费",
+                "no_payments": "没有付款",
+                "embed_pricing_info": "设置最低价格只会限制对可下载文件的访问。嵌入式内容可免费获得。",
+                "minimum_price_label": "最低价格",
+                "minimum_price_info": "获得下载游戏权限的最低价格",
+                "free_price_info": "下载您的作品的用户将被询问是否捐赠，然后才能访问。他们仍可免费下载。",
+                "default_donation_amount_info": "默认捐赠金额",
+                "payment_disabled_info": "该项目的文件将免费提供，不能捐赠",
+                "suggest_default_price_label": "建议默认价格",
+                "suggested_donation_label": "建议捐赠金额",
+                "suggested_price_label": "建议售价金额",
+                "default_price_info": "当有人试图购买您的作品时显示的默认价格",
+                "price_too_low_error": "请提供高于项目价格的金额"
+            },
+            "uploads": {
+                "delete_file_button": "删除文件",
+                "play_in_browser_toggle": "该文件将在浏览器中运行",
+                "hide_toggle": "隐藏此文件并阻止其下载",
+                "demo_toggle": "此文件是试玩版，可以免费下载",
+                "preorder_toggle": "此文件是预订占位",
+                "set_price_toggle": "为此文件设置不同的价格",
+                "change_display_name_button": "更改显示名称"
+            }
         }
     },
     "collection": {
@@ -642,7 +784,7 @@
         "last_updated_date": "最后更新于{{date}}",
         "edit_collection": "编辑合集",
         "edit_contributors": "编辑贡献者",
-        "empty_collection_message": "这个合集里没有任何商品",
+        "empty_collection_message": "这个收藏列表里没有任何内容。",
         "private_collection_message": "该合集仅贡献者可见",
         "page_title": "{{collection_title}} - 合集作者 {{author}}",
         "remove_item_button": "删除...",
@@ -761,7 +903,7 @@
             "show_adult_content": "在搜索和浏览中显示标记为成人的内容",
             "disable_animated_gifs": "禁用GIF动画",
             "disable_autoloading_next_page_when_browsing": "浏览时禁用自动加载下一页",
-            "click_to_load_games": "需要点击才能运行HTML5游戏",
+            "click_to_load_games": "需要点击才能运行网页游戏",
             "use_dark_theme": "在可用的地方使用黑色主题",
             "profile": "个人信息",
             "profile_description": "个人页面信息"
@@ -991,11 +1133,118 @@
                 "not_open_yet": "本次 Jam 的提交时段尚未结束。打分将于{{start_date}}开始。",
                 "owner_message": "这是您自己的作品，因此无法打分。本次 Jam 的其他参加者可以为您的作品打分。",
                 "unavailable_to_rate": "您尚未提交自己的作品，因此无权为该项目打分。或许可以试试在下面留言。",
-                "sign_up_to_rate": "<a>注册一个 itch.io 帐号</a>来为作品评分及留言。"
+                "sign_up_to_rate": "<a>注册 itch.io 帐号</a>来为作品打分及评论。",
+                "participate_to_rate_message": "要对此打分，您必须<a>登录 itch.io </a>并提交自己的作品。任何用户都可以发表评论。",
+                "you_will_be_able_to_rate_if_you_submit": "向本次 Jam 提交作品即可对本作品打分。",
+                "other_participants_can_rate": "其他参加本次 Jam 的用户将会对您的作品打分。",
+                "save_vote": "保存投票",
+                "save_rating": "保存打分",
+                "you_havent_rated_this_submission_yet": "您尚未对此作品进行打分。",
+                "you_just_voted": "您已投票。",
+                "you_voted_ago": "你已在{{timestamp}}投票。"
             },
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "rated_by_people_count_plural": "{{count}}位用户已打分",
             "rated_by_people_count": "{{count}}位用户已打分"
+        },
+        "screenshots": {
+            "empty_message": "尚未上传任何屏幕截图",
+            "loading_more": "正在加载更多屏幕截图..."
+        }
+    },
+    "add_to_collection": {
+        "dialog_title": "将 {{project_title}} 添加到收藏中",
+        "add_reason": "将此项目添加到收藏中以以供日后查看。",
+        "already_in_collections": "该项目已在以下收藏中：",
+        "count_items": "{{count}}个",
+        "add_to_existing": "添加到现有收藏",
+        "private_collection_title": "[私有] {{title}}",
+        "add_to_new": "添加到新收藏",
+        "default_title": "{{username}} 的收藏",
+        "add_button": "添加到收藏",
+        "manage_collections_link": "管理收藏",
+        "private_collection_option": "私有收藏 - 只有您可以看到其内容",
+        "about_this_project_label": "关于这个项目"
+    },
+    "game_grid": {
+        "in_bundle": "在捆绑包"
+    },
+    "jams": {
+        "jams_created_header": "你创建的 Jam",
+        "jams_joined_header": "你参加的 Jam",
+        "page_title": "itch.io 上的 Game Jam",
+        "page_summary": "itch.io 是一个在线发起与参与 Game Jam 的地方。任何人都可以立即创建并发起一个 Jam。",
+        "games_created": "<s>共{{count}}个游戏</s>在 itch.io 上发起的 Jam 中被开发出来。",
+        "host_a_jam_button": "发起 Jam",
+        "manage_submissions_link": "管理您的作品和 Jam",
+        "browse_jams_header": "浏览 Jam",
+        "jam_calendar_header": "Jam 日历",
+        "host_your_own_jam_button": "发起你自己的 Jam",
+        "host_or_explore_links": "<1>发起你自己的 Jam</1> 或 <2>浏览全部 Jam</2>",
+        "dont_see_something_you_like_header": "看不到你喜欢的东西？",
+        "browse_upcoming_this_month": "本月即将举办",
+        "brose_featured_jams": "精选 Jam",
+        "browse_top_past_jams": "过去热门 Jam",
+        "browse_in_progress": "进行中",
+        "count_joined": "{{count}}人加入"
+    },
+    "feed": {
+        "filter_own_activity_tab": "我自己的活动",
+        "filter_everything_tab": "全部",
+        "filter_new_projects_tab": "新项目",
+        "filter_collections_tab": "收藏",
+        "filter_devlogs_tab": "开发日志",
+        "filter_ratings_tab": "评分",
+        "latest_featured_games_header": "最新精选游戏",
+        "featured_tags_header": "精选标签",
+        "to_rate": {
+            "projects_to_rate_header": "可打分的项目",
+            "to_rate_description": "这是您体验过的一些内容，但尚未对其进行评分。"
+        },
+        "to_follow": {
+            "people_to_follow_header": "可关注的用户",
+            "to_follow_description": "以下是您可能感兴趣的一些帐号。"
+        },
+        "my_feed_tab": "我的动态",
+        "global_feed_tab": "全部动态",
+        "manage_my_games_button": "管理我的游戏",
+        "upload_a_game_button": "上传游戏",
+        "event_filter_label": "筛选：",
+        "email_warning": {
+            "verify_your_email_address": "验证您的电子邮件地址"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "添加头像",
+            "description": "您的帐号还没有头像，请添加以帮助其他用户清晰地辨识您！"
+        },
+        "event": {
+            "collection_summary": "包含{{count}}项的收藏。",
+            "collection_added_count": "添加了{{count}}项。"
+        }
+    },
+    "library": {
+        "page_title": "我的库",
+        "things_you_own_header": "你拥有的商品",
+        "view_all_link": "查看全部",
+        "show_on_my_profile_toggle": "在我的个人资料上显示",
+        "things_rated_header": "你评价过的商品",
+        "permalink": "永久链接",
+        "private_toggle": "私有的",
+        "go_to_collection_link": "转到收藏",
+        "empty_collection_message": "这个收藏是空的",
+        "nav_header": "库",
+        "nav": {
+            "my_purchases": "我的购买",
+            "recommended_for_you": "为你推荐",
+            "things_on_sale": "促销的商品",
+            "things_to_rate": "打分的商品"
+        },
+        "download_button": "下载",
+        "gift_button": "礼物"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "您的电子邮件地址未通过验证"
         }
     }
 }
