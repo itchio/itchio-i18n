@@ -981,9 +981,11 @@
             "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
             "results_header": "结果",
-            "submitted_by_contributors": "由{{contributors}}提交",
+            "submitted_by_contributors": "由 {{contributors}} 提交",
             "rate_submission": {
-                "sign_up_to_vote": "<a>注册一个 itch.io 帐号</a>来为作品评分及留言。"
+                "sign_up_to_vote": "<a>注册一个 itch.io 帐号</a>来为作品评分及留言。",
+                "vote_for_this_submission": "为本作品投票",
+                "rate_this_submission": "为本作品打分"
             }
         }
     }
