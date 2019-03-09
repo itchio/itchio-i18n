@@ -1,1 +1,15 @@
-{}
+{
+    "tags": {
+        "2d": "2D",
+        "3d": "3D",
+        "4x": "4X",
+        "abstract": "抽象",
+        "action": "动作",
+        "action-adventure": "动作冒险",
+        "action-rpg": "动作角色扮演",
+        "adventure": "冒险",
+        "aliens": "外星人",
+        "animals": "动物",
+        "anime": "动画"
+    }
+}
