@@ -23,6 +23,8 @@
         "board-game": "桌游",
         "boring": "无聊的",
         "breakout": "打砖块",
-        "bullet-hell": "弹幕游戏"
+        "bullet-hell": "弹幕游戏",
+        "altgame": "非主流",
+        "boss-battle": "头目战"
     }
 }
