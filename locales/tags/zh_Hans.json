@@ -25,6 +25,12 @@
         "breakout": "打砖块",
         "bullet-hell": "弹幕游戏",
         "altgame": "非主流",
-        "boss-battle": "头目战"
+        "boss-battle": "头目战",
+        "card-game": "卡牌游戏",
+        "casual": "休闲",
+        "chess": "棋类",
+        "chicken": "鸡",
+        "christmas": "圣诞",
+        "city-builder": "城市建造者"
     }
 }
