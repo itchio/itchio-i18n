@@ -23,7 +23,7 @@
         "board-game": "桌游",
         "boring": "无聊的",
         "breakout": "打砖块",
-        "bullet-hell": "弹幕游戏",
+        "bullet-hell": "弹幕射击",
         "altgame": "非主流",
         "boss-battle": "头目战",
         "card-game": "卡牌游戏",
@@ -31,6 +31,7 @@
         "chess": "棋类",
         "chicken": "鸡",
         "christmas": "圣诞",
-        "city-builder": "城市建造者"
+        "city-builder": "城市建造者",
+        "character-customization": "角色定制"
     }
 }
