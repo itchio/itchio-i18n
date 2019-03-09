@@ -10,6 +10,19 @@
         "adventure": "冒险",
         "aliens": "外星人",
         "animals": "动物",
-        "anime": "动画"
+        "anime": "动画",
+        "alternate-history": "架空历史",
+        "arcade": "街机",
+        "archery": "射箭",
+        "art-book": "艺术设定集",
+        "asteroids": "小行星",
+        "atmospheric": "大气层",
+        "automation": "自动化",
+        "beat-em-up": "清版动作游戏",
+        "black-and-white": "黑白",
+        "board-game": "桌游",
+        "boring": "无聊的",
+        "breakout": "打砖块",
+        "bullet-hell": "弹幕游戏"
     }
 }
