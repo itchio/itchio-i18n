@@ -1009,7 +1009,7 @@
         "purchase": {
             "youve_been_gifted": "您被赠予了 {{product_title}}。",
             "save_this_purchase_to_your_account": "将此次购买保存到您的帐户中",
-            "link_purchase_links": "<1>创建帐户</ 1>或<2>登录 itch.io </ 2>以关联此购买。",
+            "link_purchase_links": "<1>创建帐户</1>或<2>登录 itch.io </2>以关联此购买。",
             "link_purchase_warning": "不要丢失您的购买！",
             "thank_you_for_purchasing": "感谢您购买 {{product_title}}。",
             "thank_you_for_purchasing_author": "感谢您购买 {{author}} 的 {{product_title}}。",
