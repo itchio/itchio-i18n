@@ -859,7 +859,7 @@
             "password": "密码",
             "email_addresses": "邮箱地址",
             "two_factor_auth": "双重认证",
-            "support_email": "客服邮箱",
+            "support_email": "售后邮箱",
             "publisher_get_started": "立即开始",
             "revenue_sharing": "收入分成",
             "payment_processors": "付款受理",
