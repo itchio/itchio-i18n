@@ -9,7 +9,7 @@
             "terms": "이용약관",
             "directory": "목록",
             "cookies": "쿠키",
-            "privacy": "개인정보처리방침"
+            "privacy": "개인정보 처리방침"
         },
         "header": {
             "browse": "탐색",
@@ -35,7 +35,7 @@
             "game_assets": "에셋",
             "fun_games": "재미있는 게임",
             "games": "게임",
-            "feed_unseen_count": "{{count}}개 안 읽음",
+            "feed_unseen_count": "{{count}}개 읽지 않음",
             "feed": "피드"
         },
         "user_menu": {
@@ -45,9 +45,9 @@
             "log_out": "로그아웃",
             "settings": "설정",
             "view_profile": "프로필 보기",
-            "host_game_jam": "게임잼 주최하기",
-            "sales_bundles": "세일 & 묶음",
-            "new_project": "새 프로젝트 업로드하기",
+            "host_game_jam": "게임잼 주최",
+            "sales_bundles": "할인 & 번들",
+            "new_project": "새 프로젝트 업로드",
             "dashboard": "대시보드",
             "game_jams": "게임잼",
             "recommendations": "추천",
@@ -61,50 +61,54 @@
         "browse": "둘러보기",
         "games_by_price": "가격별 게임들",
         "download_app": "앱 다운로드",
-        "view_something_random": "무작위로 뭔가 찾아보기",
-        "view_all_games": "모든 게임들",
-        "dont_see_anything_you_like": "원하는 걸 못찾으셨나요?",
-        "from_the_blog": "블로그에서",
+        "view_something_random": "무작위로 찾기",
+        "view_all_games": "모든 게임",
+        "dont_see_anything_you_like": "원하는 걸 찾지 못했나요?",
+        "from_the_blog": "블로그",
         "random_game": "무작위 게임",
-        "get_the_app": "<s>itch.io를 최대로 활용하세요!</s> 데스크탑 앱을 설치하고 게임들을 관리하세요",
-        "from_the_itchio_blog": "itch.io 블로그에서",
-        "view_all_blog_posts": "모든 업데이트들 보기",
-        "search_games_creators": "게임 & 창작자 검색",
+        "get_the_app": "<s>itch.io를 최대로 활용하세요!</s> 데스크탑 앱으로 게임을 설치하고 관리하세요",
+        "from_the_itchio_blog": "itch.io 블로그",
+        "view_all_blog_posts": "업데이트 모두 보기",
+        "search_games_creators": "게임 & 제작자 검색",
         "browse_all_tags": "모든 태그들 탐색하기",
-        "on_sale": "세일 중",
+        "on_sale": "할인중",
         "free_games": "무료 게임",
-        "top_sellers": "최고 인기 제품",
+        "top_sellers": "최고 인기",
         "with_demo": "데모 포함",
         "view_all": "모두 보기",
-        "recommended_for_you": "추천드립니다",
-        "recommendations_based_on": "당신의 구매, 다운로드, 평가들에 기반함",
-        "fresh_games": "새로운 게임",
+        "recommended_for_you": "추천",
+        "recommendations_based_on": "구매, 다운로드, 평가 기반",
+        "fresh_games": "신작 게임",
         "view_more": "더 보기",
-        "featured_jams": "주목할 만한 잼들",
-        "view_all_jams": "모든 잼들 보기",
-        "fresh_games_description": "itch.io의 새로운 게임들로 항상 업데이트 됩니다",
+        "featured_jams": "인기있는 잼",
+        "view_all_jams": "모든 잼 보기",
+        "fresh_games_description": "itch.io의 신작 게임들로 끊임없이 업데이트",
         "people_to_follow": "팔로우할 만한 사람들",
-        "view_all_games_on_sale": "세일 중인 모든 게임들 보기",
-        "more_featured_games": "주목할 만한 게임들 더 보기",
-        "game_dev_on_sale": "게임 개발 리소스 <1>세일중</1>",
-        "view_all_on_sale": "세일 중 제품 모두 보기",
-        "people_to_follow_description": "팔로우할만한 계정들 몇 개 보여드리겠습니다. <a>왜 팔로우하죠?</a>",
-        "latest_featured_games": "최신 주목할 만한 게임",
+        "view_all_games_on_sale": "할인 중인 모든 게임 보기",
+        "more_featured_games": "인기있는 게임 더 보기",
+        "game_dev_on_sale": "게임 개발 리소스 <1>할인 중</1>",
+        "view_all_on_sale": "할인 중인 모든 게임 보기",
+        "people_to_follow_description": "팔로우하고 싶어지는 계정들입니다. <a>왜 팔로우해야 하나요?</a>",
+        "latest_featured_games": "최신 인기 게임",
         "filtering_platform": "{{platform_name}}로 게임들 필터링 중",
         "view_all_platforms": "모든 플랫폼 보기",
         "browse_content_type": "{{content_type}} 탐색",
         "nav": {
             "all_games": "모든 게임",
             "bundles": "번들",
-            "game_jams": "게임잼",
-            "devlogs": "개발일지",
+            "game_jams": "게임 잼",
+            "devlogs": "개발 일지",
             "community": "커뮤니티"
         },
-        "intro": "<s>itch.io</s>에서는 온라인 상으로 인디게임들을 쉽게 찾고 공유할 수 있습니다.",
-        "intro_cta": "<1>게임을 추가하거나</1> <2>FAQ를 읽으세요</2>",
+        "intro": "<s>itch.io</s>는 온라인을 통해서 무료로 인디 게임들을 쉽게 찾고 공유할 수 있는 방법입니다.",
+        "intro_cta": "<1>게임을 추가</1>하거나 <2>FAQ를 읽으세요</2>",
         "html5_games": "HTML5 게임",
         "page_title": "최신 인디 게임들을 다운로드하세요",
-        "meta_description": "itch.io에서는 인디 게임들을 쉽게 찾고, 다운로드하고, 배포할 수 있습니다. 당신의 게임을 올리려고 하는 개발자이든, 새로운 즐길거리를 찾고 있는 누군가이든, itch.io가 여러분을 위해 있습니다."
+        "meta_description": "itch.io에서는 인디 게임들을 쉽게 찾고, 다운로드하고, 배포할 수 있습니다. 당신의 게임을 올리려고 하는 개발자이든, 새로운 즐길거리를 찾고 있는 누군가이든, itch.io가 여러분을 위해 있습니다.",
+        "to_follow": {
+            "refresh_button": "더 보려면 새로고침해주세요...",
+            "dismiss_tooltip": "더 이상 제안하지 않기"
+        }
     },
     "misc": {
         "classifications": {
@@ -121,9 +125,9 @@
         "accessibility_features": {
             "colorblind": "색맹 지원",
             "subtitles": "자막",
-            "configurable_controls": "컨트롤 재설정 가능",
-            "highcontrast": "색대비 큼",
-            "tutorial": "능동적 튜토리얼",
+            "configurable_controls": "컨트롤 설정 가능",
+            "highcontrast": "고대비",
+            "tutorial": "상호작용 튜토리얼",
             "one_button": "버튼 하나",
             "blind": "맹인 지원",
             "textless": "글 없음"
@@ -139,7 +143,7 @@
             "gamepad": "게임패드 (아무거나)",
             "joystick": "조이스틱",
             "touchscreen": "터치스크린",
-            "voice": "목소리 조종",
+            "voice": "음성 조종",
             "accelerometer": "가속감지기",
             "phone": "스마트폰",
             "dance_pad": "댄스패드",
@@ -148,10 +152,10 @@
         "durations": {
             "seconds": "몇 초",
             "minutes": "몇 분",
-            "half_hour": "약 반 시간",
-            "hour": "약 한 시간",
+            "half_hour": "약 반시간",
+            "hour": "약 한시간",
             "hours": "몇 시간",
-            "days": "며칠 이상"
+            "days": "하루 이상"
         },
         "forms": {
             "required": "필요사항",
@@ -169,7 +173,7 @@
             "on_sale": "할인중",
             "paid": "유료"
         },
-        "page_number": "{{page_number}} 페이지",
+        "page_number": "{{page_number}}페이지",
         "follow_button": {
             "follow_username": "{{username}} 팔로우",
             "follow": "팔로우",
@@ -187,7 +191,7 @@
             "next_page": "다음 페이지",
             "prev": "이전",
             "next": "다음",
-            "current_page_of_total": "{{total_pages}} 페이지 중 {{current_page}} 페이지",
+            "current_page_of_total": "{{total_pages}} 중 {{current_page}} 페이지",
             "previous_page": "이전 페이지",
             "first_page": "첫 페이지"
         },
@@ -208,48 +212,50 @@
         "project_visibility": {
             "restricted": "제한됨",
             "published": "공개됨",
-            "draft": "임시",
+            "draft": "초안",
             "public": "공개"
         },
-        "view_more": "더보기",
+        "view_more": "더 보기",
         "dismiss": "무시",
         "release_statuses": {
-            "in_development": "개발중",
+            "in_development": "개발 중",
             "canceled": "취소됨",
-            "prototype": "프로토타이"
+            "prototype": "프로토타입",
+            "released": "출시됨"
         },
-        "more_ellip": "더보기…"
+        "more_ellip": "더 보기…",
+        "loading_more_ellip": "추가로 로딩 중입니다…"
     },
     "blog": {
-        "all_posts": "모든 포스트들",
+        "all_posts": "모든 글",
         "updates": "업데이트",
         "digest": "다이제스트",
         "empty_message": "아무 글도 없음",
         "tag_filter": "{{tag}}로 필터링 중. <a>태그 지우기</a>"
     },
     "user_login": {
-        "log_in_to_your_itchio_account": "itch.io 계정으로 로그인 하세요",
+        "log_in_to_your_itchio_account": "itch.io 계정으로 로그인",
         "login_form": {
-            "username_or_email": "아이디 혹은 이메일",
-            "password": "패스워드",
-            "forgot_password": "패스워드를 잊었습니다",
+            "username_or_email": "아이디 또는 이메일",
+            "password": "비밀번호",
+            "forgot_password": "비밀번호를 잊어버림",
             "create_account": "계정 만들기",
-            "or_log_in_with_another_site": "아니면 다른 사이트 계정으로 로그인",
-            "or": "아니면",
+            "or_log_in_with_another_site": "다른 사이트를 통해서 로그인",
+            "or": "또는",
             "log_in_button": "로그인"
         },
-        "looking_for_something_you_bought": "예전에 구매하신 걸 찾으시나요?",
+        "looking_for_something_you_bought": "구매하신 걸 찾으시나요?",
         "create_a_new_account": "새 계정 만들기",
         "intent": {
-            "community": "커뮤니티에 참여하려면 로그인을 하셔야 합니다. 계정 만드는 건 무료이고 몇 초밖에 안걸립니다.",
-            "comment": "덧글을 다시려면 itch.io 계정이 필요하십니다.",
+            "community": "itch.io 커뮤니티에 참여하려면 로그인해야 합니다. 계정을 만드는 건 무료이며 잠깐이면 됩니다.",
+            "comment": "댓글을 다시려면 itch.io 계정이 필요합니다.",
             "rate_game": "게임을 평가하려면 itch.io 계정이 필요합니다.",
-            "follow": "누군가를 팔로우하려면 itch.io 계정이 필요하십니다.",
-            "follow_username": "<1>{{username}}</1>을/를 팔로우 하시려면 itch.io 계정이 필요하십니다.",
-            "collection": "컬렉션에 추가하려면 itch.io 계정이 필요하십니다.",
-            "jam_submit": "잼에 제출하시려면 itch.io 계정이 필요하십니다.",
-            "claim_object": "{{noun}}을/를 받으시려면 로그인을 하시거나 계정을 만드세요",
-            "recent_purchases": "로그인해서 최근 구매한 제품들을 연결시키세요."
+            "follow": "누군가를 팔로우하려면 itch.io 계정이 필요합니다.",
+            "follow_username": "<1>{{username}}</1>을(를( 팔로우하려면 itch.io 계정이 필요합니다.",
+            "collection": "모음집에 추가하려면 itch.io 계정이 필요합니다.",
+            "jam_submit": "잼에 제출하시려면 itch.io 계정이 필요합니다.",
+            "claim_object": "{{noun}}을(를) 받기 위해 로그인하시거나 계정을 만들어주세요",
+            "recent_purchases": "로그인해서 최근 구매한 제품들을 연결하세요."
         },
         "no_account_prompt": "계정이 없으신가요? <1>계정 만들기</1>",
         "page_title": "로그인",
@@ -300,7 +306,9 @@
         "learn_more_about": "다음에 대해 더 알아보세요:",
         "share_message": "itch.io는 당신의 인디 게임을 무료로 유통하는 쉬운 방법입니다.",
         "create_account_or_login": "<1>계정 만들기</1> <em>혹은</em> <2>로그인</2>",
-        "upload_or_dashboard": "<1>새 게임 업로드</1> <em>혹은</em> <2>대시보드로 가기</2>"
+        "upload_or_dashboard": "<1>새 게임 업로드</1> <em>혹은</em> <2>대시보드로 가기</2>",
+        "design_your_games_page_description": "게임을 사거나 다운로드 할 수 있는 커스텀 페이지를 만들어보세요. 색, 폰트, 이미지와 비디오를 고를 수 있습니다. 게임 페이지에 뭔가 넣지 않는다면 아무것도 알 수 없습니다.",
+        "track_your_game_description": "자세한 분석을 통한 의견 수렴, 다운로드 및 구매를 통해 사람들이 게임을 보는 방식을 파악할 수 있습니다. 홍보를 하고 싶으신가요? 다운로드 키를 생성해서 사람들이 게임에 접근할 수 있도록 해보세요."
     },
     "search": {
         "creators": "창작자:",
@@ -439,14 +447,134 @@
                 "send_gift": "선물 보내기",
                 "download": "다운로드",
                 "percent_off": "{{percent}}% 할인",
-                "you_havent_sent_this_gift_to_anyone_yet": "이 선물을 아직 아무에게도 보내지 않았습니다"
+                "you_havent_sent_this_gift_to_anyone_yet": "이 선물을 아직 아무에게도 보내지 않았습니다",
+                "claimed": "받음",
+                "purchased_in_a_bundle_for_price": "번들을 {{price}}에 구매함",
+                "purchased_for_price": "{{price}}에 구매함"
             },
-            "devlog": "개발일지"
+            "devlog": "개발일지",
+            "footer": {
+                "view_all_by_username": "{{username}}의 작품 모두 보기",
+                "report": "신고",
+                "embed": "임베드",
+                "updated_date": "{{date}}에 업데이트됨"
+            },
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "{{jam_title}} 제출작",
+                "view_the_submission_page": "제출 페이지 보기",
+                "accepting_ratiings": "이 잼은 제출작에 대한 평가를 받고 있습니다. <a>더 알아보기</a>",
+                "you_rated_this_game": "게임을 평가함",
+                "now_accepting_ratings": "이 잼은 참가자에 대한 평가를 받고 있습니다."
+            }
+        },
+        "after_download": {
+            "share_this_project": "프로젝트 공유하기",
+            "thanks_for_downloading_title": "다운로드해주셔서 감사합니다",
+            "thanks_project_author": "{{author}}의 {{project}}를 다운로드해주셔셔 감사합니다.",
+            "more_from_creator": "동일한 제작자의 페이지에서 더 많은 작품을 찾을 수 있습니다: {{profile}}.",
+            "check_popup_blocker": "곧 다운로드가 시작됩니다. 그렇지 않다면, 팝업 차단이 되어 있는지 확인해보세요.",
+            "check_out_more_from_jam_title": "{{jam_title}}에서 더 확인해보기",
+            "view_all_from_jam": "잼의 모든 작품 보기",
+            "more_from_itchio_header": "itch.io에서 더 많은 것을 확인해보기",
+            "see_everything": "모두 보기",
+            "powered_by": "{{itchio_logo}} <s>제공</s>",
+            "app_learn_more": "<s>신규!</s> itch.io의 데스크톱 앱으로 라이브러리를 다운로드하고 관리하세요. <a>더 알아보기</a>"
         }
     },
     "community": {
         "post_form": {
-            "remove_tag": "태그 제거"
+            "remove_tag": "태그 제거",
+            "add_profile_image": "프로필 사진 추가",
+            "save": "저장",
+            "post": "글",
+            "subscribe": "구독",
+            "subscribe_to_this_topic": "이 주제 구독하기",
+            "subscribe_description": "이 주제에 새 답글이 생기면 알림 받기",
+            "tag_header": "태그"
+        },
+        "topic": {
+            "topic_is_archived": "이 주제는 보관되었으며 더 이상 작성할 수 없음",
+            "reply": "답장",
+            "log_in_to_reply": "답장하려면 로그인",
+            "unlisted_topic_notice": "<s>관리자가 이 주제를 목록에서 내렸습니다.</s> 주제 목록에서 보이지는 않지만 답장과 편집은 가능합니다.",
+            "join_the_discussion": "토론에 참여하세요. 계속하려면 로그인하거나 무료 itch.io 계정을 만드세요.",
+            "reply_to_someone_else": "다른 사람에게 답장하고 싶나요? 글 아래에서 <s>답장</s>을 누르세요.",
+            "this_reply_will_go_to_yourself": "이 답장은 자신에게 전달됩니다.",
+            "this_reply_will_go_to_the_topic_author": "이 답장은 주제 생성자인 {{username}}에게 전달됩니다.",
+            "new_reply": "새 답장",
+            "remove_bookmark": "북마크 제거",
+            "bookmark": "북마크",
+            "unsubscribe": "구독 해제",
+            "subscribe": "구독",
+            "return_to_topic_list": "주제 목록으로 돌아가기",
+            "sticky": "고정",
+            "locked": "잠김",
+            "moderation": "관리자",
+            "replies_count": "답장: {{count}}",
+            "views_count": "조회수: {{count}}",
+            "a_topic_by_username_created_time_ago": "{{time_ago}} 전에 {{username}}이(가) 생성함",
+            "next_page": "다음 페이지",
+            "previous_page": "이전 페이지",
+            "first_page": "첫 페이지",
+            "last_page": "마지막 페이지",
+            "this_topic_is_locked": "잠긴 주제",
+            "this_topic_was_locked_by_username": "{{username}}에 의해 잠김"
+        },
+        "post_list": {
+            "deleted_post": "삭제된 글",
+            "post_from_blocked_account": "차단된 계정의 글",
+            "edit_blocks": "차단 편집",
+            "edits_count_plural": "({{count}}번 편집됨)",
+            "edits_count": "({{count}}번 편집됨)",
+            "reply": "답장",
+            "like": "추천",
+            "edit": "좋아요",
+            "delete_topic": "주제 삭제",
+            "delete": "삭제",
+            "report": "신고",
+            "ban": "차단...",
+            "view_more_in_thread": "스레드에서 더 보기",
+            "vote_up": "공감",
+            "vote_down": "비공감",
+            "deleted_account": "삭제된 계정",
+            "suspended_account": "정지된 계정",
+            "pinned_reply": "고정된 답변",
+            "pinned_post": "고정된 글"
+        },
+        "new_topic": {
+            "moderator_tools": "관리자 도구",
+            "sticky": "고정",
+            "locked": "잠김",
+            "moderation_options": "설정",
+            "i_agree_to_the_rules_above": "아래 규칙에 동의함",
+            "new_topic": "새 주제",
+            "see_community_guidelines": "itch.io 커뮤니티 정책을 준수하기 위해 <a>커뮤니티 가이드라인</a>을 읽어보세요.",
+            "title": "제목",
+            "body": "내용",
+            "topic_tag": "태그",
+            "your_moderators_are": "itch.io는 이 게시판을 관리하지 않으며, 관리자는 다음과 같습니다:",
+            "page_title": "새 주제 생성"
+        },
+        "misc": {
+            "new_topic_button": "새 주제"
+        },
+        "category": {
+            "topics_count": "주제 {{count}}개",
+            "create_first_topic_button": "첫 주제 생성",
+            "empty_message": "주제가 없음",
+            "there_arent_any_topics_yet": "아직 주제가 없음",
+            "search_community_label": "커뮤니티 검색",
+            "subscribe_to_new_topics": "새 주제 구독하기",
+            "unsubscribe_from_topics": "구독 해제",
+            "stats": {
+                "topics": "주제"
+            },
+            "rules_header": "규칙",
+            "recent_posts_header": "최근 글",
+            "list_header_last_topic": "마지막 주제",
+            "new_flag": "신규",
+            "archived_flag": "보관됨",
+            "by_topic_author": "{{username}} 작성"
         }
     }
 }
