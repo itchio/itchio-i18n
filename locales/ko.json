@@ -229,7 +229,7 @@
         "more_ellip": "더 보기…",
         "loading_more_ellip": "추가로 로딩 중입니다…",
         "errors": {
-            "server_error": "서버가 응답하지 않습니다. 나중에 다시 시도해 주세요."
+            "server_error": "서버가 응답하지 않습니다, 나중에 다시 시도해 주세요"
         }
     },
     "blog": {
