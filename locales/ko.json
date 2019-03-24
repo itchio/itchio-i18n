@@ -107,7 +107,9 @@
         "meta_description": "itch.io에서는 인디 게임들을 쉽게 찾고, 다운로드하고, 배포할 수 있습니다. 당신의 게임을 올리려고 하는 개발자이든, 새로운 즐길거리를 찾고 있는 누군가이든, itch.io가 여러분을 위해 있습니다.",
         "to_follow": {
             "refresh_button": "더 보려면 새로고침해주세요...",
-            "dismiss_tooltip": "더 이상 제안하지 않기"
+            "dismiss_tooltip": "더 이상 제안하지 않기",
+            "created_projects": "{{project_list}} 생성함",
+            "empty_results": "지금은 추천해 드릴 게임이 없습니다. 다음에 다시 확인해 주세요."
         }
     },
     "misc": {
@@ -221,10 +223,14 @@
             "in_development": "개발 중",
             "canceled": "취소됨",
             "prototype": "프로토타입",
-            "released": "출시됨"
+            "released": "출시됨",
+            "on_hold": "연기됨"
         },
         "more_ellip": "더 보기…",
-        "loading_more_ellip": "추가로 로딩 중입니다…"
+        "loading_more_ellip": "추가로 로딩 중입니다…",
+        "errors": {
+            "server_error": "서버가 응답하지 않습니다. 나중에 다시 시도해 주세요."
+        }
     },
     "blog": {
         "all_posts": "모든 글",
@@ -450,7 +456,8 @@
                 "you_havent_sent_this_gift_to_anyone_yet": "이 선물을 아직 아무에게도 보내지 않았습니다",
                 "claimed": "받음",
                 "purchased_in_a_bundle_for_price": "번들을 {{price}}에 구매함",
-                "purchased_for_price": "{{price}}에 구매함"
+                "purchased_for_price": "{{price}}에 구매함",
+                "you_were_gifted_this": "선물로 받았습니다"
             },
             "devlog": "개발일지",
             "footer": {
