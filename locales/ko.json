@@ -236,7 +236,7 @@
         "all_posts": "모든 글",
         "updates": "업데이트",
         "digest": "다이제스트",
-        "empty_message": "아무 글도 없음",
+        "empty_message": "포스트가 없어 보입니다",
         "tag_filter": "{{tag}}로 필터링 중. <a>태그 지우기</a>"
     },
     "user_login": {
