@@ -49,7 +49,7 @@
             "sales_bundles": "할인 & 번들",
             "new_project": "새 프로젝트 업로드",
             "dashboard": "대시보드",
-            "game_jams": "게임잼",
+            "game_jams": "게임 잼",
             "recommendations": "추천",
             "library": "내 라이브러리",
             "feed": "내 피드",
@@ -109,7 +109,7 @@
             "refresh_button": "더 보려면 새로고침해주세요...",
             "dismiss_tooltip": "더 이상 제안하지 않기",
             "created_projects": "{{project_list}} 생성함",
-            "empty_results": "지금은 추천해 드릴 게임이 없습니다. 다음에 다시 확인해 주세요."
+            "empty_results": "지금은 추천해 드릴 게임이 없습니다. 다음에 다시 확인해 주세요"
         }
     },
     "misc": {
@@ -236,7 +236,7 @@
         "all_posts": "모든 글",
         "updates": "업데이트",
         "digest": "다이제스트",
-        "empty_message": "포스트가 없어 보입니다",
+        "empty_message": "글이 없는 것 같습니다",
         "tag_filter": "{{tag}}로 필터링 중. <a>태그 지우기</a>"
     },
     "user_login": {
@@ -395,7 +395,7 @@
             "publisher": "배급사",
             "release_date": "출시 날짜",
             "rating": "평점",
-            "authors": "작가",
+            "authors": "작성자",
             "author": "작가",
             "genre": "장르",
             "made_with_tools": "제작 도구",
@@ -471,7 +471,8 @@
                 "view_the_submission_page": "제출 페이지 보기",
                 "accepting_ratiings": "이 잼은 제출작에 대한 평가를 받고 있습니다. <a>더 알아보기</a>",
                 "you_rated_this_game": "게임을 평가함",
-                "now_accepting_ratings": "이 잼은 참가자에 대한 평가를 받고 있습니다."
+                "now_accepting_ratings": "이 잼은 참가자에 대한 평가를 받고 있습니다.",
+                "rating_instructions": "아래 링크를 통해서 잼 제출작의 페이지에 들어가서 평가하고 댓글을 달아주세요."
             }
         },
         "after_download": {
@@ -535,7 +536,7 @@
             "edits_count": "({{count}}번 편집됨)",
             "reply": "답장",
             "like": "추천",
-            "edit": "좋아요",
+            "edit": "편집",
             "delete_topic": "주제 삭제",
             "delete": "삭제",
             "report": "신고",
@@ -560,7 +561,8 @@
             "body": "내용",
             "topic_tag": "태그",
             "your_moderators_are": "itch.io는 이 게시판을 관리하지 않으며, 관리자는 다음과 같습니다:",
-            "page_title": "새 주제 생성"
+            "page_title": "새 주제 생성",
+            "this_a_community_run_message_board": "메시지 게시판을 운영하는 커뮤니티입니다."
         },
         "misc": {
             "new_topic_button": "새 주제"
@@ -582,6 +584,667 @@
             "new_flag": "신규",
             "archived_flag": "보관됨",
             "by_topic_author": "{{username}} 작성"
+        },
+        "topic_list": {
+            "views_count": "조회수 <s>{{count}}</s>",
+            "no_posts_yet": "글 없음",
+            "replies_count": "답글 <s>{{count}}</s>개",
+            "started_by_author": "{{topic_author}}이(가) 시작함",
+            "new_flag": "신규",
+            "sticky_flag": "고정",
+            "locked_flag": "잠김",
+            "list_header_topic_title": "주제",
+            "list_header_last_post": "마지막 글"
+        }
+    },
+    "buy_form": {
+        "download_title": "'{{title}}' 다운로드",
+        "buy_title": "'{{title}}' 구매",
+        "preorder_title": "'{{title}}' 예약 구매",
+        "sold_out_notice": "현재 재고가 없습니다, 다음에 다시 확인해주세요.",
+        "on_sale_notice": "현재 할인 중입니다.",
+        "support_message": "후원함으로써 프로젝트 개발에 도움 주기",
+        "percent_off_until": "{{end_date}}까지 모든 구매는 <s>{{rate}}%</s> 할인합니다.",
+        "also_buy_as_bundle_plural": "{{count}}개가 있는 번들로 {{price}}에도 구매할 수 있습니다:",
+        "buy_as_bundle_plural": "{{count}}개가 있는 번들로 {{price}}에 구매할 수 있습니다:",
+        "free_pay_what_you_want": "이 프로젝트는 무료지만 제작자에게 적절하다고 생각하는 금액으로 결제해서 지원할 수 있습니다.",
+        "no_thanks_just_take_me_to_the_downloads": "괜찮습니다, 다운로드를 하고 싶습니다",
+        "includes_steam_key": "구매하면 Steam 키도 같이 받을 수 있습니다.",
+        "preorder_this_product_by_purchasing_it_for": "{{price}} 이상의 가격으로 예약 구매하세요.",
+        "download_this_product_by_purchasing_it_for": "{{price}} 이상의 가격으로 구매해서 다운로드하세요.",
+        "your_email_address": "내 이메일 주소",
+        "email_address_description": "결제 영수증이 이곳으로 보내집니다",
+        "gift_email_instructions": "결제 이후 이메일을 통해 선물할 수 있습니다",
+        "i_already_paid_for_this": "이미 구매했습니다...",
+        "included_files": "포함 파일",
+        "agree_to_terms": "결제하면 itch.io의 <1>이용약관</1>과 <2> 개인정보 보호방침</2>에 동의하는 것으로 간주합니다.",
+        "this_purchase_is_a_gift": "이 구매는 선물임",
+        "support_the_creator_by_paying_above_the_minimum_price": "아래를 통해 최소 가격 이상으로 제작자를 지원하세요",
+        "support_the_creator_with_an_additional_contribution": "약간의 기여로 제작자를 지원하세요",
+        "pay_with": "결제 수단",
+        "check_out_with": "결제 수단",
+        "credit_card": "카드",
+        "go_back": "되돌아가기",
+        "continue_payment": "결제 계속하기",
+        "billing_address": "주소",
+        "generic_error": "결제 중에 오류가 발생했습니다: {{error}}",
+        "contact_support_on_error": "문제가 계속 생긴다면, <a>itch.io 지원</a>에 모든 관련 정보를 연락해주세요."
+    },
+    "collection": {
+        "authors": "{{author}}의 모음집",
+        "last_updated_date": "마지막 업데이트 {{date}}",
+        "edit_collection": "모음집 편집",
+        "edit_contributors": "기여자 편집",
+        "empty_collection_message": "모음집에 아무것도 없습니다.",
+        "private_collection_message": "이 모음집은 비공개이며, 기여자들만이 내용을 볼 수 있습니다",
+        "pending_invitation": "이 모음집의 기여자 초대 요청이 보류중입니다. <a>초대 보기</a>",
+        "a_collection_by_author": "{{author}}의 모음집",
+        "page_title": "{{collection_title}} - {{author}}의 콜랙션",
+        "remove_item_button": "제거...",
+        "add_a_blurb": "광고 추가",
+        "edit_blurb": "광고 편집",
+        "blurb_author_says": "{{author}}의 말",
+        "remove_confirm": "정말로 이걸 모음집에서 삭제하시겠습니까"
+    },
+    "browse": {
+        "results_count_plural": "결과 {{count}}개",
+        "results_count": "결과 {{count}}개",
+        "sort_popular": "인기",
+        "sort_new_and_popular": "신규 & 인기",
+        "sort_top_sellers": "판매",
+        "sort_top_rated": "높은 평가",
+        "sort_most_recent": "최근",
+        "sort": "정렬",
+        "upload_your_project": "이곳에 보이려면 <a>프로젝트를 업로드</a>해주세요.",
+        "filter_results": "필터 결과",
+        "clear_filters": "초기화",
+        "related_collections": "연관 모음집",
+        "filter_group_price": "가격",
+        "filter_group_genre": "장르",
+        "tag": {
+            "no_description_yet": "설명 없음",
+            "suggest_updated_description": "업데이트된 설명 제안",
+            "suggest_description_for_this_tag": "이 태그 설명 제안하기"
+        },
+        "filter_group_platform": "플랫폼",
+        "view_all_tags": "모든 태그 보기",
+        "filter_by_tag": "필터로 태그",
+        "filter_group_when": "언제",
+        "filter_group_input_methods": "입력 장치",
+        "filter_group_session_length": "평균 세션 길이",
+        "filter_group_multiplayer": "멀티플레이어 기능",
+        "filter_group_accessibility_features": "접근성 기능",
+        "filter_group_type": "종류",
+        "type_downloadable": "다운로드 가능",
+        "filter_group_release_status": "출시 상태",
+        "filter_group_misc": "기타",
+        "filter_group_collection": "모음집",
+        "filter_group_tools": "도구 & 엔진",
+        "fresh_description": "저희들이 선정한 모음집에서 계속 업데이트되는 프로젝트를 탐색해보세요. 새로 추가되는 작품을 찾으신다면 다음에 다시 확인해보세요.",
+        "filter_group": {
+            "more_options": "더 많은 옵션",
+            "fewer_options": "더 적은 옵션",
+            "toggle_more_options": "더 많은 옵션 토글",
+            "clear_filter": "필터 초기화"
+        },
+        "filter_everything_else": "기타 등등"
+    },
+    "browse_tags": {
+        "page_title": "태그순",
+        "find_tag": "태그 찾기",
+        "commonly_tagged_with": "자주 사용되는 태그",
+        "no_description_yet": "설명 없음"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>제작자</1> {{author}}",
+        "powered_by_itchio": "{{itchio}} 제공"
+    },
+    "user_settings": {
+        "account_settings": "계정 설정",
+        "navigation": {
+            "basics_header": "기본",
+            "payment_header": "결제",
+            "publisher_header": "배급사",
+            "contact_header": "연락처",
+            "misc_header": "기타",
+            "developer_header": "개발자",
+            "profile": "프로필",
+            "password": "비밀번호",
+            "email_addresses": "이메일 주소",
+            "two_factor_auth": "이단계 인증",
+            "support_email": "지원 이메일",
+            "publisher_get_started": "지금 시작하기",
+            "revenue_sharing": "매출 분배",
+            "payment_processors": "결제 프로세서",
+            "tax_information": "세금 정보",
+            "payout_mode": "페이아웃 모드",
+            "credit_cards": "신용카드",
+            "billing_address": "주소",
+            "email_notifications": "이메일 알림",
+            "connected_accounts": "연결된 계정",
+            "press_access": "보도 자료",
+            "privacy": "프라이버시",
+            "data_export": "데이터 내보내기",
+            "api_keys": "API 키",
+            "oauth_applications": "OAuth 애플리케이션",
+            "thirdparty_analytics": "제3자 분석"
+        },
+        "profile": {
+            "language_community_translation": "<s>itch.io는 커뮤니티의 맴버들이 번역합니다.</s> 어떤 언어는 부분적으로 사용 가능합니다. itch.io를 원하는 언어로 보고 싶거나 잘못된 번역을 고치고 싶다면 기여할 수 있습니다. <a>더 알아보기</a>",
+            "language": "언어",
+            "language_description": "itch.io 사용자 인터페이스의 언어",
+            "page_header": "프로필",
+            "username": "아이디",
+            "username_description": "계정 페이지 URL에 로그인하는 데에 사용됩니다",
+            "change_username": "아이디/URL 변경",
+            "you_recently_changed_your_username": "최근에 아이디를 바꾼 적이 있습니다",
+            "url_description": "계정의 공개 URL",
+            "profile_image": "프로필 이미지",
+            "profile_image_description": "사이트에서 무언가를 할 때 이름 옆에 노출됨 (정사각형)",
+            "display_name": "게임 출력",
+            "display_name_description": "아이디 대신 표시되는 이름이며, 공백으로 놔두면 아이디 기본값으로 사용함",
+            "website": "웹사이트",
+            "website_description": "프로필에 보이는 추가 URL",
+            "twitter_description": "프로필에 보이는 Twitter 계정",
+            "account_type": "계정 종류",
+            "account_type_description": "계정 사용 방식",
+            "account_type_gamer": "게임 플레이와 다운로드",
+            "account_type_developer": "게임 개발과 업로드",
+            "default_language_option": "기본값 (언어가 베타 상태일때까지는 영어로 설정됨)",
+            "content": "콘텐츠",
+            "content_description": "itch.io의 콘텐츠가 귀하에게 표시되는 방법",
+            "show_adult_content": "검색 & 탐색에서 컨 성인물",
+            "disable_animated_gifs": "애니메이션 GIF 비활성화",
+            "disable_autoloading_next_page_when_browsing": "탐색할 때 다음 페이지 자동으로 불러오지 않기",
+            "click_to_load_games": "임베드 HTML5 게임을 실행하려면 클릭 요구",
+            "use_dark_theme": "다크 테마를 사용할 수 있는 곳에서 사용하기",
+            "profile": "프로필",
+            "profile_description": "프로필 페이지에 들어가는 컨텐츠"
+        },
+        "password": {
+            "reset_password": "비밀번호 초기화",
+            "set_password": "비밀번호 설정",
+            "current_password": "현재 비밀번호",
+            "password": "비밀번호",
+            "new_password": "새 비밀번호",
+            "password_again": "비밀번호 재입력",
+            "new_password_again": "새 비밀번호 재입력"
+        },
+        "email_addresses": {
+            "primary_email_header": "이메일",
+            "your_primary_email_address": "이메일 주소: {{email}}",
+            "change_email_form": {
+                "new_email_address": "새 이메일 주소",
+                "current_password": "현재 비밀번호"
+            },
+            "primary_email_description": "이메일로 itch.io가 알림을 보냅니다.",
+            "change_password_instructions": "이메일을 바꾸고 구매한 게임에 접근하려면 반드시 확인해야합니다. 확인 절차는 메일로 보내집니다. 보안상의 이유로 이메일을 변경하려면 반드시 비밀번호를 알려주셔야 합니다.",
+            "additional_emails_header": "추가 이메일"
+        }
+    },
+    "stripe_checkout": {
+        "payment_error": "결제 중에 오류가 발생했습니다:",
+        "payment_error_help": "확실하지 않다면, <a>itch.io 지원</a>에 연락해서 아래 메시지와 함께 연락 주세요.",
+        "choose_a_card": "카드 선택",
+        "edit_saved_cards": "저장된 카드 편집",
+        "card_ending_last4": "{{last4}}으로 끝남",
+        "new_card": "새 카드",
+        "enter_your_password_to_use_your_card": "카드를 사용하려면 비밀번호를 입력하세요",
+        "password": "비밀번호",
+        "buying_as": "구매 수단",
+        "gift_instructions": "이 결제는 선물입니다. 결제 이후에 받는 사람의 이메일을 입력할 수 있습니다.",
+        "credit_or_debit_card": "신용 또는 직불 카드",
+        "save_credit_card_for_future_purchases": "다음 결제를 위해 신용 카드 저장",
+        "manage_cards_link": "카드는 <a>계정 설정</a>에서 관리할 수 있습니다",
+        "pay_price_button": "{{price}} 결제",
+        "paying_price_for": "{{price}} 결제:",
+        "paying_price_vat_for": "{{price}} 부가가치세 포함 결제:",
+        "donating_price_to": "다음에게 {{price}} 후원:",
+        "donating_price_vat_to": "다음에게 {{price}} 부가가치세 포함 후원:",
+        "you_will_receive_files": "받는 것:",
+        "steam_key": "Steam 키",
+        "linked_to_account": "계정에 연결됨",
+        "email": "이메일",
+        "youll_be_mailed_your_access_link": "접근 링크가 메일로 발송됩니다",
+        "full_name": "전체 이름",
+        "name_as_it_appears_on_card": "카드에 있는 것과 동일해야 함"
+    },
+    "game_download": {
+        "share_and_follow": "공유 % 팔로우",
+        "social_share_message_download": "{{username}}의 {{title}}을(를) 방금 다운로드함",
+        "or_share_on": "공유",
+        "trouble_downloading_link": "다운로드가 시작되지 않고 있나요?",
+        "install_instructions_intro": "{{username}}의 다운로드 및 설치 지침:",
+        "recommendations_title": "관심을 가질만한 더 많은 것들",
+        "check_out_more_from_jam_title": "{{jam_title}}에서 더 확인해보기",
+        "alternate_download": {
+            "enable_alternate_download_mode": "대체 다운로드 모드 활성화",
+            "title": "대체 다운로드 모드",
+            "region_message": "특정 지역에서는 itch.io의 CDN을 차단하는 것으로 확인되었습니다. 다운로드가 시작되지 않는다면 대체 다운로드 모드를 활성화한 후 다시 시도해보세요."
+        },
+        "check_your_email_for_the_confirmation_link": "이메일로 전송된 확인 링크를 확인해보세요.",
+        "preorder_instructions": "이 프로젝트는 출시되지 않은 파일을 가지고 있습니다. 제작자가 다운로드를 할 수 있게 출시한 후에 확인해보세요.",
+        "app_banner": {
+            "get_the_app": "앱 받기",
+            "app_description": "itch.io 데스크톱 앱을 통해 게임을 설치하고 관리하세요"
+        },
+        "play_in_your_browser": "브라우저에서 플레이",
+        "start_project_button": "시작",
+        "version_name": "버전 {{version_name}}",
+        "header": {
+            "invoice": "청구서",
+            "more_menu": "더 보기",
+            "view_rest_in_bundle": "번들에 있는 나머지 확인",
+            "preorder_title": "{{project_title}} 예약 구매",
+            "download_title": "{{project_title}} 다운로드",
+            "view_all_my_purchases": "내 모든 구매 내역 보기",
+            "return_to_project": "프로젝트로 돌아가기",
+            "discussion_board": "토론 게시판"
+        },
+        "linked_user_message": "이 페이지는 {{username}}에 연결되어 있습니다.",
+        "link_my_account": "내 계정 연결하기",
+        "log_in_to_link": "연결하기 위해 로그인",
+        "link_account_header": "다운로드 페이지를 itch.io 계정에 연결",
+        "link_account_description": "이 다운로드 페이지를 itch.io 계정에 연결할 수 있으므로 잃어버릴 걱정은 전혀 하지 않으셔도 됩니다. 가지고 계신 다른 것들과 같이 노출됩니다.",
+        "must_link_account_description": "다운로드하기 전에 반드시 이 페이지를 itch.io 계정을 연결해야 합니다. 계정은 무료이며 모았던 모든 게임을 추적할 수 있습니다.",
+        "already_own": "이미 가지고 계신 것 같습니다",
+        "access_existing_copy": "다른 것에는 접근할 수 없지만, 이미 가지고 계신 것에는 접근할 수 있습니다.",
+        "get_external_key": "{{key_type}} 키 갖기",
+        "claim_external_key": "{{key_type}} 키 받기",
+        "claim_external_key_instructions": "버튼을 눌러서 받으세요.",
+        "payment_comes_with_key": "결제하면 {{key_type}} 키를 줍니다!",
+        "access_comes_with_key": "{{key_type}} 키와 함께 접근할 수 있습니다!",
+        "access_it": "접근하기",
+        "email_capture": {
+            "dont_lose_your_purchase": "구매한 걸 잃어버리지 마세요!",
+            "provide_email_instructions": "이 페이지를 잃어버려도 찾을 수 있도록 이메일 주소를 입력해서 구매 항목에 연결해주세요."
+        },
+        "purchase": {
+            "youve_been_gifted": "{{product_title}}를 선물받았습니다.",
+            "save_this_purchase_to_your_account": "구매한 걸 계정에 저장하기",
+            "link_purchase_links": "<1>계정을 만들거나</1> <2>itch.io에 로그인</2>해서 구매한 걸 즉시 연결하세요.",
+            "link_purchase_warning": "구매한 걸 잃어버리지 마세요!",
+            "thank_you_for_purchasing": "{{product_title}}를 구매해주셔서 감사합니다.",
+            "thank_you_for_purchasing_author": "{{author}}의 {{product_title}}을(를) 구매해주셔서 감사합니다.",
+            "thank_you_for_donating": "{{product_title}}을(를) 후원해주셔서 감사합니다.",
+            "thank_you_for_donating_author": "{{author}}의 {{product_title}}을(를) 후원해주셔서 감사합니다.",
+            "unique_url_for_your_payment": "이 페이지는 결제한 것을 위해 고유한 URL을 가지고 있습니다.",
+            "access_latest_files_from_this_page": "이 페이지에서 항상 최신 파일에 접근할 수 있습니다.",
+            "receipt_support_information": "이 페이지의 링크가 담긴 이메일을 받으셨을겁니다. 만약 URL을 잃어버리셨다면 <a>지원 페이지</a>를 통해 이메일로 요청하실 수 있습니다.",
+            "payment_summary": "이미 {{payment_date}}에 {{payment_price}}을(를) 주고 구매하셨습니다.",
+            "payment_summary_with_email": "이미 이메일 {{email_address}}로 {{payment_date}}에 {{payment_price}}을(를) 주고 구매하셨습니다.",
+            "percent_off": "{{percent}}% 할인",
+            "linked_user_message": "이 구매는 {{username}}에 연결되어 있습니다."
+        }
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "{{hosts}}가 호스트",
+            "links": {
+                "community": "커뮤니티",
+                "results": "결과",
+                "submissions": "제출작",
+                "overview": "개요",
+                "screenshots": "스크린샷",
+                "submission_feed": "제출작 피드",
+                "edit_jam": "잼 편집"
+            }
+        },
+        "stats": {
+            "joined": "참가함",
+            "entries": "제출",
+            "ratings": "평가"
+        },
+        "submitter": {
+            "join_jam": "잼 참가",
+            "submit_button": "프로젝트 제출",
+            "or_leave_jam": "또는 <a>잼 떠나기</a>",
+            "youve_joined": "잼에 참가했습니다.",
+            "joined_instructions": "잼이 프로젝트를 제출받을 수 있을 때 이 페이지에 와주세요.",
+            "leave_jam": "잼 떠나기",
+            "submissions_open_from": "제출 기간은 {{start_date}}부터 {{end_date}}까지 열려 있습니다",
+            "jam_is_now_over": "잼이 끝났습니다. {{start_date}}부터 {{end_date}}까지 진행되었습니다.",
+            "view_results": "결과 보기",
+            "view_entries": "제출작 {{count}}개 보기",
+            "countdown": {
+                "starts_in": "시작일",
+                "submissions_due_in": "제출 시작일",
+                "voting_ends_in": "투표 완료일"
+            },
+            "you_can_now_rate_games": "아래를 통해서 게임을 평가할 수 있습니다",
+            "submission_is_closed_for_voting": "제출 기간이 끝났으며 현재 투표가 진행중입니다"
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "아직 제출작이 없습니다",
+            "there_were_no_submissions": "제출작이 없습니다",
+            "submissions_will_be_available_after_the_jam_has_ended": "잼이 끝난 이후부터 제출이 가능합니다",
+            "help_submissions_in_need_of_ratings": "평가가 얼마 없는 제출작을 평가해주세요: <a>평가가 필요한 제출작</a>",
+            "filters": {
+                "all_submissions": "모든 제출작",
+                "browser_playable": "브라우저로 플레이 가능"
+            },
+            "filter": "필터",
+            "empty_results": "필터와 일치하는 제출작이 없습니다",
+            "rated": "평가함"
+        },
+        "results": {
+            "results": "결과",
+            "submissions_summary": "<s>제출작 {{count}}개</s>가 {{start_date}}와 {{end_date}}사이에 제출되었습니다.",
+            "votes_cast_count": "<s>{{count}}개</s>의 투표가 {{vote_start_date}}와 {{vote_end_date}} 사이에 완료되었습니다.",
+            "ratings_given_count": "<s>{{count}}개의 평가</s>가 {{vote_start_date}}와 {{vote_end_date}} 사이에 주어졌습니다.",
+            "ratings_given_submissions_count": "<s>{{count}}개의 평가</s>가 <s>제출작 {{submission_count}}개</s> ({{percent}}%) 가 {{vote_start_date}}와 {{vote_end_date}} 사이에 주어졌습니다.",
+            "average_and_median_results": "게임 당 평균 평가는 <s>{{average_ratings}}개</s>이며 중앙값은 <s>{{median_ratings}}</s>입니다.",
+            "empty_message": "결과를 아직 확인할 수 없으며, 다음에 다시 확인해주세요",
+            "empty_page_message": "이 페이지에는 결과가 없음",
+            "no_rankings_available": "순위를 사용할 수 없음",
+            "sort_by_criteria": "기준",
+            "sort_overall": "종합",
+            "submissions": {
+                "by_author": "{{author}} 제작",
+                "view_submission_page": "제출작 페이지 보기",
+                "ranked": "{{ordinal_rank}}순위",
+                "ranked_vote_count": "{{ordinal_rank}} 순위와 {{count}}개의 투표",
+                "ranked_rating_count": "{{ordinal_rank}} 순위와 {{count}}개의 평가",
+                "ranked_criteria": "{{criteria_name}} 기준 {{ordinal_rank}} 순위",
+                "ranked_criteria_vote_count": "{{criteria_name}} 기준 {{ordinal_rank}} 순위와 {{count}}개의 투표",
+                "ranked_criteria_rating_count": "{{criteria_name}} 기준 {{ordinal_rank}} 순위와 {{count}}개의 평가",
+                "ranked_score": "점수: {{score}}"
+            }
+        },
+        "submission": {
+            "results_table_criteria": "기준",
+            "results_table_rank": "순위",
+            "results_table_votes": "투표",
+            "results_table_score": "점수",
+            "results_table_raw_score": "원점수",
+            "edit_this_submission_button": "제출작 편집",
+            "remove_this_submission_button": "이 제출작 제거",
+            "a_jam_submission": "잼 제출작",
+            "view_game_page": "게임 페이지 보기",
+            "view_project_page": "프로젝트 페이지 보기",
+            "comments": {
+                "leave_a_comment_header": "댓글 남기기",
+                "post_comment": "댓글 게시",
+                "empty_message": "아무도 댓글을 달지 않았습니다"
+            },
+            "link_to_itchio_page": "{{game_title}}의 itch.io 페이지",
+            "downloads": "다운로드",
+            "play_game": "게임 시작",
+            "run_project": "프로젝트 실행",
+            "score_information": "점수는 원점수에서 잼의 게임 당 중앙값으로 조정합니다.",
+            "ranked_from_count_plural": "<s>{{count}}개</s>의 평가로 순위에 올라갔습니다.",
+            "ranked_from_count": "<s>{{count}}개</s>의 평가로 순위에 올라갔습니다.",
+            "results_header": "결과",
+            "ranked_with_vote_count": "{{ordinal_rank}} 순위와 {{count}}개의 투표",
+            "submitted_by_contributors": "{{contributors}}에 의해 제출됨",
+            "time_remaining_before_deadline": "마감일까지 {{time_duration}} 남음",
+            "rated_by_people_count_plural": "지금까지 {{count}}명이 평가함",
+            "rated_by_people_count": "지금까지 {{count}}명이 평가함",
+            "rate_submission": {
+                "vote": "투표",
+                "private_field": "(비공개)",
+                "vote_for_this_submission": "이 제출작에 투표하기",
+                "rate_this_submission": "이 제출작 평가하기",
+                "not_open_yet": "잼의 제출 기간이 아직 끝나지 않았습니다. 평가는 {{start_date}}에 열립니다.",
+                "owner_message": "자신의 제출작은 평가할 수 없습니다. 잼의 다른 참가자들은 이곳에서 프로젝트를 평가할 수 있습니다.",
+                "unavailable_to_rate": "작품을 제출하지 않았기 때문에 이 작품을 평가할 수 없습니다. 아래에 댓글은 남길 수 있습니다.",
+                "sign_up_to_rate": "<a>itch.io 계정을 만들고</a> 평가하거나 댓글을 남기세요.",
+                "sign_up_to_vote": "<a>itch.io 계정을 만들고</a> 투표하거나 댓글을 남기세요.",
+                "participate_to_rate_message": "제출작에 평가를 남기려면 <a>itch.io에 로그인</a>해야하며 작품을 제출해야 합니다. 계정을 가지고 있는 모든 사람은 댓글을 남길 수 있습니다.",
+                "you_will_be_able_to_rate_if_you_submit": "잼에 제출하면 작품을 평가할 수 있습니다.",
+                "other_participants_can_rate": "이 잼에 참가한 다른 사람들은 당신의 작품을 평가할 수 있습니다.",
+                "save_vote": "투표 저장",
+                "save_rating": "평가 저장",
+                "you_havent_rated_this_submission_yet": "아직 이 제출작을 평가하지 않았습니다.",
+                "you_just_voted": "방금 투표하셨습니다.",
+                "you_voted_ago": "{{timestamp}}에 투표했습니다."
+            }
+        },
+        "screenshots": {
+            "empty_message": "업로드 된 스크린샷이 아직 없습니다",
+            "loading_more": "더 많은 스크린샷을 불러오는 중..."
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "총수입금액",
+            "payments": "결제수단",
+            "views": "조회수",
+            "downloads": "다운로드",
+            "followers": "팔로워",
+            "following": "팔로잉"
+        },
+        "follow_itchio": "{{twitter}}와 {{facebook}}에서 itch.io를 팔로우하세요",
+        "page_title": "제작자 대시보드",
+        "header": {
+            "projects_link": "프로젝트",
+            "payments_link": "결제수단",
+            "analytics_link": "통계",
+            "payouts_link": "페이아웃",
+            "sales_bundles_link": "할인 & 번들",
+            "coop_bundles_link": "코옵 번들",
+            "game_jams_link": "게임 잼"
+        },
+        "create_new_project_button": "새 프로젝트 생성",
+        "project_list": {
+            "edit": "편집",
+            "analytics": "통계",
+            "widget": "위젯",
+            "no_image": "이미지 없음"
+        },
+        "analytics_summary_header": "요약",
+        "intro_text": "개발자이신가요? 첫 게임을 업로드해보세요",
+        "not_a_developer_escape": "아니요, 그냥 게임 피드로 보내주세요",
+        "recently_updated_pages_header": "최근에 업데이트된 페이지",
+        "new_devlog": "새 개발일지",
+        "hello": "안녕하세요!",
+        "dashboard": "대시보드",
+        "edit_project": {
+            "create_a_new_project_title": "새 프로젝트 생성",
+            "edit_project_title": "프로젝트 편집",
+            "title_field": "이름",
+            "project_url_field": "프로젝트 URL",
+            "save_and_view_button": "저장 & 페이지 보기",
+            "video_field": "게임플레이 영상 또는 예고편",
+            "video_field_description": "YouTube 또는 Vimeo 링크를 알려주세요.",
+            "delete_game_button": "게임 삭제",
+            "short_description_field": "짧은 설명 또는 태그라인",
+            "short_description_field_description": "저희가 프로젝트를 링크할 때 나옵니다. 프로젝트 이름과 중복되지 않게 해주세요",
+            "classification_field": "등급",
+            "classification_field_description": "어떤 것을 업로드하시는건가요?",
+            "kind_of_project_field": "프로젝트 종류",
+            "release_status_field": "출시 상태",
+            "details_section_header": "자세한 정보",
+            "description_field": "설명",
+            "custom_noun_field": "고유명사",
+            "custom_noun_field_description": "고유 명사를 제공함으로서 itch.io가 프로젝트를 나타내는 방법을 바꿀 수 있습니다.",
+            "instructions_field": "다운로드 & 설치 설명서",
+            "default_noun": "비워두면 다음 값이 기본값으로 설정됩니다: '{{default_noun}}'.",
+            "classification_other": "기타",
+            "types": {
+                "downloadable": "다운로드 가능"
+            },
+            "tip_label": "팁",
+            "project_type_help": "아래에 해당되는 다운로드 가능한 파일을 추가할 수 있습니다",
+            "description_field_description": "이렇게 하면 게임 페이지에 내용이 만들어집니다.",
+            "instructions_field_info2": "게임이 라이브러리 또는 프로그램 설치를 필요로 한다면 해당 정보도 포함해야 합니다",
+            "instructions_field_info1": "이 텍스트는 사용자가 브라우저를 통해 게임을 다운로드 할 때 표시됩니다. 다운로드 후에 설치하고 실행하는 방법에 대한 정보를 포함해주세요.",
+            "community_field": "커뮤니티",
+            "community_disabled": "비활성화됨",
+            "community_comments": "댓글",
+            "community_discussion_board": "토론 게시판",
+            "pricing_header": "가격",
+            "uploads_header": "업로드",
+            "upload_files_button": "파일 업로드",
+            "add_external_file_button": "파일 추가",
+            "file_size_limit": "파일 크기 제한: {{filesize}}. 더 필요하다면 <a>연락 주세요</a>",
+            "content_guidelines_header": "다른 사람들이 페이지를 찾을 수 있도록 하세요",
+            "content_guidelines_info": "프로젝트를 게시하기 전에 <a>품질 가이드라인</a>을 검토하세요",
+            "payment_warning_header": "설정된 결제수단이 없습니다",
+            "payment_warning_info": "최소 가격을 0 이상으로 설정하면 아무도 프로젝트를 다운로드 할 수 없습니다. <a>계정 수정</a>",
+            "cover_uploader": {
+                "confirm_remove": "정말로 커버 이미지를 삭제하시겠습니까?",
+                "cover_description": "이 커버 이미지는 itch.io가 사이트의 다른 부분에서 당신의 프로젝트로 연결할 때 사용됩니다. 필수 (최소: 315x250, 권장: 630x500)",
+                "replace_image": "커버 이미지 변경",
+                "remove_image": "이미지 삭제",
+                "upload_button": "커버 이미지 업로드"
+            },
+            "errors": {
+                "invalid_file": "선택한 파일에 문제가 있습니다",
+                "invalid_image": "이미지를 편집하거나 다른 걸로 시도해보세요"
+            },
+            "error_dialog": {
+                "confirm_button": "알겠습니다",
+                "title": "프로젝트를 저장하는 중 오류가 발생했습니다"
+            },
+            "visibility_access_header": "공개 & 접근 여부",
+            "visibility_access_info": "초안을 사용하여 페이지를 공개하기 전에 검토하세요. <a>접근 모드에 대해서 더 알아보기</a>",
+            "access_control": {
+                "disable_downloads_option": "새 다운로드 & 구매 비활성화",
+                "unlisted_option": "검색 & 탐색에서 내려감",
+                "allow_password_option": "페이지를 보기 위해서 비밀번호를 요구",
+                "password_label": "비밀번호",
+                "public_access_settings": "공개 접근 설정",
+                "restricted_access_settings": "제한 접근 설정",
+                "access_settings": "접근 설정"
+            },
+            "embed_options_header": "임베드 옵션",
+            "embed_options": {
+                "viewport_dimensions": "뷰포트 크기",
+                "width": "가로",
+                "height": "세로",
+                "frame_options": "프레임 설정",
+                "mobile_friendly_option": "모바일 친화",
+                "mobile_friendly_info": "프로젝트를 모바일에서 실행할 수 있음 (저해상도 및 터치 지원)",
+                "orientation": "안내",
+                "fullscreen_button_option": "전체화면 버튼",
+                "enable_scrollbars_option": "스크롤바 활성화",
+                "embed_in_page_option": "페이지에 임베드",
+                "launch_fullscreen_option": "클릭해서 전체화면으로 실행"
+            },
+            "details_genre_header": "장르",
+            "details_tags_header": "태그",
+            "details_genre_info": "게임을 제일 잘 설명할 수 있는 카테고리를 선택해주세요. 아래에서 추가 장르를 태그와 함께 설정할 수 있습니다",
+            "pricing": {
+                "free_or_donate": "{{money}} 또는 후원",
+                "paid": "구매함",
+                "no_payments": "결제수단 없음",
+                "embed_pricing_info": "최소 가격을 설정하는 것은 다운로드 파일에 대한 접근만 제한합니다. 임베드된 컨텐츠는 자유롭게 이용할 수 있습니다.",
+                "minimum_price_label": "최소 가격",
+                "minimum_price_info": "게임을 다운로드하기 위한 최소 가격 지불",
+                "free_price_info": "프로젝트를 다운로드하기 전에 후원할 지 물어봅니다. 건너뛰고 무료로 받을 수 있습니다.",
+                "default_donation_amount_info": "기본 후원 액수",
+                "payment_disabled_info": "이 프로젝트 파일은 무료로 사용할 수 있으며 후원을 할 수 없습니다",
+                "suggest_default_price_label": "대체된 기본 가격 권장하기",
+                "suggested_donation_label": "후원 권장",
+                "suggested_price_label": "후원 권장액",
+                "default_price_info": "누군가가 프로젝트를 구매하려고 할 때 기본 가격이 보여집니다",
+                "price_too_low_error": "프로젝트 가격보다 큰 금액을 제공해주세요"
+            },
+            "uploads": {
+                "delete_file_button": "파일 삭제",
+                "play_in_browser_toggle": "이 파일은 브라우저에서 플레이됨",
+                "hide_toggle": "이 파일을 숨기고 다운로드하지 못하게 하기",
+                "demo_toggle": "이 파일은 데모이며 무료로 다운로드 할 수 있음",
+                "preorder_toggle": "이 파일은 예약 구매용입니다",
+                "set_price_toggle": "이 파일에 다른 가격 설정",
+                "change_display_name_button": "보여지는 이름 변경"
+            }
+        }
+    },
+    "add_to_collection": {
+        "dialog_title": "{{project_title}}를 모음집에 추가",
+        "add_reason": "나중에 저장하기 위해 이 프로젝트를 모음집에 추가하세요.",
+        "already_in_collections": "이 프로젝트는 이미 해당 모음집에 있습니다:",
+        "count_items": "{{count}}개",
+        "add_to_existing": "이미 있는 모음집에 추가",
+        "private_collection_title": "[비공개] {{title}}",
+        "add_to_new": "이름이 있는 새 모음집에 추가",
+        "default_title": "{{username}}의 모음집",
+        "add_button": "모음집에 추가",
+        "manage_collections_link": "모음집 관리",
+        "private_collection_option": "비공개 모음집 - 당신만이 볼 수 있습니다",
+        "about_this_project_label": "이 프로젝트에 대해서"
+    },
+    "game_grid": {
+        "in_bundle": "번들에 포함됨"
+    },
+    "jams": {
+        "jams_created_header": "생성한 잼",
+        "jams_joined_header": "참가한 잼",
+        "page_title": "itch.io에 있는 게임 잼",
+        "page_summary": "itch.io는 온라인에서 게임 잼을 주최하고 참여할 수 있는 장소입니다. 누구든 잼을 만들고 주최할 수 있습니다.",
+        "games_created": "<s>게임 {{count}}개</s>가 itch.io에서 열린 잼을 위해 제작되었습니다.",
+        "host_a_jam_button": "잼 주최",
+        "manage_submissions_link": "제출작과 잼 설정",
+        "browse_jams_header": "잼 탐색",
+        "jam_calendar_header": "잼 달력",
+        "host_your_own_jam_button": "자신만의 잼 주최하기",
+        "host_or_explore_links": "<1>당신만의 잼을 주최</1>하거나 <2>잼 탐색하기</2>",
+        "dont_see_something_you_like_header": "좋아할 만한 것이 없나요?",
+        "browse_upcoming_this_month": "이번달에 다가오는 것",
+        "brose_featured_jams": "추천 잼",
+        "browse_top_past_jams": "이전에 인기있었던 잼",
+        "browse_in_progress": "진행 중",
+        "count_joined": "{{count}} 참가"
+    },
+    "feed": {
+        "filter_own_activity_tab": "내 활동",
+        "filter_everything_tab": "모두",
+        "filter_new_projects_tab": "새 프로젝트",
+        "filter_collections_tab": "모음집",
+        "filter_devlogs_tab": "개발일지",
+        "filter_ratings_tab": "평가",
+        "latest_featured_games_header": "최신 추천 잼",
+        "featured_tags_header": "추천 태그",
+        "to_rate": {
+            "projects_to_rate_header": "평가해야 할 프로젝트",
+            "to_rate_description": "한 적이 있지만 평가하지는 않은 작품들입니다."
+        },
+        "to_follow": {
+            "people_to_follow_header": "팔로우할만한 사람들",
+            "to_follow_description": "팔로우할 정도로 관심을 가질만한 계정들입니다."
+        },
+        "my_feed_tab": "내 피드",
+        "global_feed_tab": "글로벌 피드",
+        "manage_my_games_button": "게임 관리",
+        "upload_a_game_button": "게임 업로드",
+        "event_filter_label": "필터:",
+        "email_warning": {
+            "verify_your_email_address": "이메일 주소 인증하기"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "프로필 이미지 추가",
+            "description": "프로필 이미지가 없으신 것 같은데, 다른 사람이 쉽게 알아볼 수 있도록 추가해보세요!"
+        },
+        "event": {
+            "collection_summary": "{{count}}개가 있는 모음집입니다.",
+            "collection_added_count": "{{count}}개가 추가되었습니다."
+        }
+    },
+    "library": {
+        "page_title": "내 라이브러리",
+        "things_you_own_header": "소유하고 있는 항목",
+        "view_all_link": "모두 보기",
+        "show_on_my_profile_toggle": "프로필에 표시",
+        "things_rated_header": "평가한 항목",
+        "permalink": "퍼머링크",
+        "private_toggle": "비공개",
+        "go_to_collection_link": "모음집으로 가기",
+        "empty_collection_message": "모음집이 비어있습니다",
+        "nav_header": "라이브러리",
+        "nav": {
+            "my_purchases": "내 구매",
+            "recommended_for_you": "추천합니다",
+            "things_on_sale": "할인중인 항목",
+            "things_to_rate": "평가할 항목"
+        },
+        "download_button": "다운로드",
+        "gift_button": "선물"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "이메일이 인증되지 않았습니다"
         }
     }
 }
