@@ -1,1 +1,16 @@
-{}
+{
+    "tags": {
+        "2d": "2D",
+        "3d": "3D",
+        "3d-platformer": "3D Plattformsspel",
+        "4x": "4X",
+        "8-bit": "8-bitars",
+        "abstract": "Abstrakt",
+        "action": "Action",
+        "action-adventure": "Actionäventyr",
+        "action-rpg": "Actionrollspel",
+        "adventure": "Äventyrsspel",
+        "aliens": "Utomjordingar",
+        "alternate-history": "Alternativ historia"
+    }
+}
