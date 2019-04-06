@@ -261,8 +261,9 @@
             "follow": "Du brauchst einen itch.io-Account, bevor du jemandem folgen kannst.",
             "follow_username": "Du brauchst einen itch.io-Account, bevor du <1>{{username}}</1> folgen kannst.",
             "collection": "Du brauchst einen itch.io-Account, bevor du einer Sammlung etwas hinzufügen kannst.",
-            "jam_submit": "Du brauchst einen itch.io Account bevor du an einem Game Jam teilnehmen kannst.",
-            "claim_object": "Logge dich ein oder erstelle einen Account, um {{noun}} zu beanspruchen"
+            "jam_submit": "Du brauchst einen itch.io-Account, bevor du an einem Game Jam teilnehmen kannst.",
+            "claim_object": "Logge dich ein oder erstelle einen Account, um {{noun}} zu beanspruchen",
+            "recent_purchases": "Logge dich ein, um kürzlich getätigte Einkäufe mit deinem Benutzerkonto zu verknüpfen."
         },
         "no_account_prompt": "Du hast keinen Account? <1>Erstelle einen Account</1>"
     },
