@@ -167,7 +167,8 @@
             "email_address": "Email Address",
             "submit": "Submit",
             "optional": "Optional",
-            "search": "Search"
+            "search": "Search",
+            "form_errors": "Please check the information you provided"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
