@@ -159,28 +159,77 @@
             "half_hour": "Ungefähr eine halbe Stunde",
             "hour": "Ungefähr eine Stunde",
             "hours": "Ein paar Stunden",
-            "days": "mehrere Tage"
-        }
+            "days": "Mehrere Tage"
+        },
+        "forms": {
+            "required": "Pflichtfeld",
+            "email_address": "E-Mail-Adresse",
+            "optional": "Optional",
+            "search": "Suchen"
+        },
+        "page_number": "Seite {{page_number}}",
+        "follow_button": {
+            "follow_username": "{{username}} folgen",
+            "follow": "Folgen",
+            "following_username": "Du folgst {{username}}",
+            "following": "Bereits verfolgt",
+            "unfollow_username": "{{username}} nicht mehr folgen",
+            "unfollow": "Nicht mehr folgen"
+        },
+        "filter_when": {
+            "last_day": "Letzter Tag",
+            "last_7_days": "Letzte 7 Tage",
+            "last_30_days": "Letzte 30 Tage"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Kostenlos",
+            "on_sale": "Im Angebot",
+            "paid": "Kostenpflichtig"
+        },
+        "pager": {
+            "next_page": "Nächste Seite",
+            "prev": "Vorherige",
+            "next": "Nächste",
+            "current_page_of_total": "Seite {{current_page}} von {{total_pages}}",
+            "previous_page": "Vorherige Seite",
+            "first_page": "Erste Seite"
+        },
+        "lightboxes": {
+            "close": "Schließen"
+        },
+        "project_visibility": {
+            "public": "Öffentlich"
+        },
+        "errors": {
+            "server_error": "Server konnte nicht antworten, versuche es später erneut"
+        },
+        "more_ellip": "Mehr...",
+        "loading_more_ellip": "Lädt mehr..."
     },
     "blog": {
-        "all_posts": "Alle Postings",
-        "digest": "Zusammenfassung"
+        "all_posts": "Alle Posts",
+        "digest": "Zusammenfassung",
+        "updates": "Updates",
+        "empty_message": "Hier scheint es keine Posts zu geben"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Logge dich in deinen itch.io account ein",
         "login_form": {
-            "username_or_email": "Benutzername oder Email",
+            "username_or_email": "Benutzername oder E-Mail-Adresse",
             "password": "Passwort",
             "forgot_password": "Passwort vergessen",
             "create_account": "Account erstellen",
-            "or_log_in_with_another_site": "Oder logge dich mit einer anderen Website ein",
+            "or_log_in_with_another_site": "Oder mit einer anderen Seite anmelden",
             "or": "oder",
-            "log_in_button": "Einloggen"
+            "log_in_button": "Anmelden"
         },
-        "looking_for_something_you_bought": "Suchst du nach etwas was du gekauft hast?",
+        "looking_for_something_you_bought": "Suchst du etwas, das du gekauft hast?",
         "create_a_new_account": "Neuen Account erstellen",
         "intent": {
-            "community": "Du musst dich einloggen um an Communities auf itch.io teilzunehmen. Einen Account erstellen ist kostenlos und dauert nur einen Moment.",
+            "community": "Du musst dich anmelden, um auf itch.io an Communities teilzunehmen. Es ist kostenlos, einen Account zu erstellen, und dauert nur ein paar Minuten.",
             "comment": "Du brauchst einen itch.io Account bevor du kommentieren kannst.",
             "rate_game": "Du brauchst einen itch.io-Account, bevor du ein Spiel bewerten kannst.",
             "follow": "Du brauchst einen itch.io Account bevor du jemandem folgen kannst.",
