@@ -283,7 +283,30 @@
             "link_product": "Dein Kauf von <1>{{product}}</1> wird automatisch mit deinem Account verlinkt, nachdem du dich registrierst.",
             "accept_tos": "Ich akzeptiere die <1>Allgemeinen Geschäftsbedingungen</1>",
             "digest_signup": "Registriere mich für den zusammenfassenden itch.io Newsletter (2 pro Monat)",
-            "interest_gamer": "Ich bin daran interessiert Spiele auf itch.io zu spielen oder herunterzuladen"
+            "interest_gamer": "Ich bin daran interessiert, Spiele auf itch.io zu spielen oder herunterzuladen",
+            "interest_developer": "Ich bin daran interessiert, eigene Projekte auf itch.io hochzuladen",
+            "account_preferences_info": "Du kannst deine Antworten später noch ändern. Sie geben itch.io lediglich Hinweise darauf, wie es sich dir am besten darstellen soll.",
+            "about_you": "Über dich",
+            "your_email_address": "Deine E-Mail Adresse",
+            "password": "Passwort",
+            "repeat_password": "Passwort wiederholen",
+            "url_preview": "So wird dein Profil aussehen",
+            "username": "Benutzername",
+            "other_registration_methods": "Andere Registrierungsmethoden"
         }
+    },
+    "developers": {
+        "page_header": "Erstelle deine eigene Seite, um deine Spiele sofort zu veröffentlichen und zu verkaufen",
+        "product_summary1": "<s>itch.io</s> ist ein einfacher Weg, um deine Spiele einfach und kostenlos zu veröffentlichen. Lade dazu einfach die Spieledateien und ein paar Screenshots auf nur eine Seite hoch. Zudem kannst du eine eigene Seite erstellen, die sich nur um dein Spiel dreht.",
+        "product_summary2": "Du kannst auch einen Mindestpreis für dein Spiel festlegen, um deinen Fans die Möglichkeit zu geben, für dein Spiel das zu zahlen, was sie wollen.",
+        "my_dashboard": "Mein Dashboard",
+        "upload_a_new_game": "Neues Spiel hochladen",
+        "account_faq_cta": "<1>Erstelle einen neuen Account</1> oder <2>Lese die FAQ</2>",
+        "upload_your_indie_game": "Lade dein Indie-Spiel hoch",
+        "design_your_games_page": "Erstelle die Seite für dein Spiel",
+        "track_your_game": "Analysiere dein Spiel",
+        "host_a_sale": "Eine Rabattaktion starten",
+        "host_a_sale_description": "Wirb für dein Spiel und erhöhe deine Verkäufe, indem du deine Spiele für einen festgelegten Zeitraum vergünstigt anbietest.",
+        "learn_more": "Erfahre mehr"
     }
 }
