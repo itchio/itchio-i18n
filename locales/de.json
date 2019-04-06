@@ -166,7 +166,8 @@
             "email_address": "E-Mail-Adresse",
             "optional": "Optional",
             "search": "Suchen",
-            "save": "Speichern"
+            "save": "Speichern",
+            "submit": "Absenden"
         },
         "page_number": "Seite {{page_number}}",
         "follow_button": {
@@ -202,7 +203,10 @@
             "close": "Schließen"
         },
         "project_visibility": {
-            "public": "Öffentlich"
+            "public": "Öffentlich",
+            "restricted": "Eingeschränkt",
+            "published": "Veröffentlicht",
+            "draft": "Entwurf"
         },
         "errors": {
             "server_error": "Server konnte nicht antworten, versuche es später erneut"
@@ -211,6 +215,22 @@
         "loading_more_ellip": "Lädt mehr...",
         "collection_button": {
             "add_to_collection": "Zur Sammlung hinzufügen"
+        },
+        "countdown": {
+            "years": "Jahre",
+            "months": "Monate",
+            "days": "Tage",
+            "hours": "Stunden",
+            "minutes": "Minuten",
+            "seconds": "Sekunden"
+        },
+        "view_more": "Mehr anzeigen",
+        "dismiss": "Verwerfen",
+        "release_statuses": {
+            "released": "Veröffentlicht",
+            "in_development": "In Entwicklung",
+            "canceled": "Abgebrochen",
+            "prototype": "Prototyp"
         }
     },
     "blog": {
