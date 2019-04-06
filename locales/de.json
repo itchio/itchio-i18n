@@ -165,7 +165,8 @@
             "required": "Pflichtfeld",
             "email_address": "E-Mail-Adresse",
             "optional": "Optional",
-            "search": "Suchen"
+            "search": "Suchen",
+            "save": "Speichern"
         },
         "page_number": "Seite {{page_number}}",
         "follow_button": {
@@ -207,16 +208,20 @@
             "server_error": "Server konnte nicht antworten, versuche es später erneut"
         },
         "more_ellip": "Mehr...",
-        "loading_more_ellip": "Lädt mehr..."
+        "loading_more_ellip": "Lädt mehr...",
+        "collection_button": {
+            "add_to_collection": "Zur Sammlung hinzufügen"
+        }
     },
     "blog": {
         "all_posts": "Alle Posts",
         "digest": "Zusammenfassung",
         "updates": "Updates",
-        "empty_message": "Hier scheint es keine Posts zu geben"
+        "empty_message": "Hier scheint es keine Posts zu geben",
+        "tag_filter": "Filtere nach {{tag}} <a>Filter löschen</a>"
     },
     "user_login": {
-        "log_in_to_your_itchio_account": "Logge dich in deinen itch.io account ein",
+        "log_in_to_your_itchio_account": "Logge dich in dein itch.io-Konto ein",
         "login_form": {
             "username_or_email": "Benutzername oder E-Mail-Adresse",
             "password": "Passwort",
@@ -230,7 +235,7 @@
         "create_a_new_account": "Neuen Account erstellen",
         "intent": {
             "community": "Du musst dich anmelden, um auf itch.io an Communities teilzunehmen. Es ist kostenlos, einen Account zu erstellen, und dauert nur ein paar Minuten.",
-            "comment": "Du brauchst einen itch.io Account bevor du kommentieren kannst.",
+            "comment": "Du brauchst einen itch.io-Account bevor du kommentieren kannst.",
             "rate_game": "Du brauchst einen itch.io-Account, bevor du ein Spiel bewerten kannst.",
             "follow": "Du brauchst einen itch.io Account bevor du jemandem folgen kannst.",
             "follow_username": "Du brauchst einen itch.io Account bevor du <1>{{username}}</1> folgen kannst.",
