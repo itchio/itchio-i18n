@@ -270,7 +270,9 @@
         "you_are_logged_out": "Du bist abgemeldet",
         "errors": {
             "accept_terms": "Du musst die AGB akzeptieren"
-        }
+        },
+        "welcome_back": "Willkommen zurück!",
+        "welcome_to_itchio": "Willkommen bei itch.io!"
     },
     "user_register": {
         "create_an_account_on_itchio": "Erstelle einen itch.io Account",
@@ -279,7 +281,8 @@
             "already_have_account": "oder hast du bereits einen Account?",
             "log_in": "Einloggen",
             "link_product": "Dein Kauf von <1>{{product}}</1> wird automatisch mit deinem Account verlinkt, nachdem du dich registrierst.",
-            "accept_tos": "Ich akzeptiere die <1>Allgemeinen Geschäftsbedingungen</1>"
+            "accept_tos": "Ich akzeptiere die <1>Allgemeinen Geschäftsbedingungen</1>",
+            "digest_signup": "Registriere mich für den zusammenfassenden itch.io Newsletter (2 pro Monat)"
         }
     }
 }
