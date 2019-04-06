@@ -259,7 +259,7 @@
             "comment": "Du brauchst einen itch.io-Account, bevor du kommentieren kannst.",
             "rate_game": "Du brauchst einen itch.io-Account, bevor du ein Spiel bewerten kannst.",
             "follow": "Du brauchst einen itch.io-Account, bevor du jemandem folgen kannst.",
-            "follow_username": "Du brauchst einen itch.io Account bevor du <1>{{username}}</1> folgen kannst.",
+            "follow_username": "Du brauchst einen itch.io-Account bevor du <1>{{username}}</1> folgen kannst.",
             "collection": "Du brauchst einen itch.io Account bevor du eine Kollektion hinzufügen kannst.",
             "jam_submit": "Du brauchst einen itch.io Account bevor du an einem Game Jam teilnehmen kannst.",
             "claim_object": "Logge dich ein oder erstelle einen Account, um {{noun}} zu beanspruchen"
