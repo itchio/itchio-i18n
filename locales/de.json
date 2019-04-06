@@ -258,7 +258,7 @@
             "community": "Du musst dich anmelden, um auf itch.io an Communities teilzunehmen. Es ist kostenlos, einen Account zu erstellen, und dauert nur ein paar Minuten.",
             "comment": "Du brauchst einen itch.io-Account, bevor du kommentieren kannst.",
             "rate_game": "Du brauchst einen itch.io-Account, bevor du ein Spiel bewerten kannst.",
-            "follow": "Du brauchst einen itch.io-Account bevor du jemandem folgen kannst.",
+            "follow": "Du brauchst einen itch.io-Account, bevor du jemandem folgen kannst.",
             "follow_username": "Du brauchst einen itch.io Account bevor du <1>{{username}}</1> folgen kannst.",
             "collection": "Du brauchst einen itch.io Account bevor du eine Kollektion hinzufügen kannst.",
             "jam_submit": "Du brauchst einen itch.io Account bevor du an einem Game Jam teilnehmen kannst.",
