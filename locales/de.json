@@ -230,7 +230,8 @@
             "released": "Veröffentlicht",
             "in_development": "In Entwicklung",
             "canceled": "Abgebrochen",
-            "prototype": "Prototyp"
+            "prototype": "Prototyp",
+            "on_hold": "Pausiert"
         }
     },
     "blog": {
