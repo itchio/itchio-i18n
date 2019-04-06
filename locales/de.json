@@ -293,7 +293,8 @@
             "url_preview": "So wird dein Profil aussehen",
             "username": "Benutzername",
             "other_registration_methods": "Andere Registrierungsmethoden"
-        }
+        },
+        "page_title": "Account registrieren"
     },
     "developers": {
         "page_header": "Erstelle deine eigene Seite, um deine Spiele sofort zu veröffentlichen und zu verkaufen",
@@ -307,6 +308,7 @@
         "track_your_game": "Analysiere dein Spiel",
         "host_a_sale": "Eine Rabattaktion starten",
         "host_a_sale_description": "Wirb für dein Spiel und erhöhe deine Verkäufe, indem du deine Spiele für einen festgelegten Zeitraum vergünstigt anbietest.",
-        "learn_more": "Erfahre mehr"
+        "learn_more": "Erfahre mehr",
+        "browser_game_description": "Verdiene Geld mit deinem Browser-Spiel, indem du es auf <s>itch.io</s> hoch lädst. Dein Spiel wird im Browser eingebettet und Spieler können einen beliebigen Geldbetrag spenden, wenn sie dein Spiel lieben."
     }
 }
