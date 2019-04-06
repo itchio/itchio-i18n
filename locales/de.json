@@ -106,48 +106,54 @@
         "intro_cta": "<1>Dein Spiel hinzufügen</1> oder <2>die FAQs lesen</2>",
         "html5_games": "HTML5-Spiele",
         "page_title": "Lade die neuesten Indie-Spiele herunter",
-        "meta_description": "itch.io ist der einfachste Weg Indie-Spiele online zu finden, herunterzuladen und zu vertreiben. Egal ob du Entwickler bist, der sein Spiel hochladen möchte oder jemand der nach etwas Neuem sucht, bei itch.io bist du richtig."
+        "meta_description": "itch.io ist der einfachste Weg, Indie-Spiele online zu finden, herunterzuladen und zu vertreiben. Egal ob du ein Entwickler bist, der sein Spiel hochladen möchte, oder jemand, der nach etwas Neuem sucht, bei itch.io bist du richtig.",
+        "to_follow": {
+            "created_projects": "{{project_list}} erstellt",
+            "empty_results": "Wir haben derzeit keine weiteren Vorschläge. Schaue später noch einmal nach"
+        }
     },
     "misc": {
         "classifications": {
             "game": "Spiele",
-            "assets": "Spiel Inhalte",
-            "game_mod": "Spiel Mods",
+            "assets": "Spielressourcen",
+            "game_mod": "Spielemods",
             "physical_game": "Physische Spiele",
             "soundtrack": "Soundtracks",
-            "other": "Anderes",
+            "other": "Sonstiges",
             "tool": "Werkzeuge",
             "comic": "Comics",
             "book": "Bücher"
         },
         "accessibility_features": {
-            "colorblind": "Farbenblind freundlich",
+            "colorblind": "Farbenblindenfreundlich",
             "subtitles": "Untertitel",
-            "configurable_controls": "Konfigurierbare Controls",
-            "highcontrast": "Kontrastreich",
+            "configurable_controls": "Konfigurierbare Steuerung",
+            "highcontrast": "Hoher Kontrast",
             "tutorial": "Interaktives Tutorial",
-            "one_button": "Ein Knopf",
-            "blind": "Für Blinde",
+            "one_button": "Eine Taste",
+            "blind": "Blindenfreundlich",
             "textless": "Ohne Text"
         },
         "multiplayer_features": {
             "local": "Lokaler Mehrspieler",
-            "server": "Server basierender Netzwerk Mehrspieler",
-            "adhoc": "Ad-hoc Netzwerk Mehrspieler"
+            "server": "Server-basierter Netzwerk-Mehrspieler",
+            "adhoc": "Ad-hoc Netzwerk-Mehrspieler"
         },
         "inputs": {
             "keyboard": "Tastatur",
             "mouse": "Maus",
-            "gamepad": "Gamepad (alle)",
+            "gamepad": "Gamepad (beliebig)",
             "joystick": "Joystick",
-            "voice": "Stimmenkontrolliert",
-            "accelerometer": "Tachometer",
-            "dance_pad": "Dance Pad",
-            "midi_controller": "MIDI Controller"
+            "voice": "Sprachsteuerung",
+            "accelerometer": "Beschleunigungssensor",
+            "dance_pad": "Tanzmatte",
+            "midi_controller": "MIDI-Controller",
+            "touchscreen": "Touchscreen",
+            "phone": "Smartphone"
         },
         "durations": {
             "seconds": "Ein paar Sekunden",
-            "minutes": "Ein paar Sekunden",
+            "minutes": "Ein paar Minuten",
             "half_hour": "Ungefähr eine halbe Stunde",
             "hour": "Ungefähr eine Stunde",
             "hours": "Ein paar Stunden",
