@@ -54,7 +54,8 @@
             "sales_bundles": "Angebote & Bündel",
             "dashboard": "Dashboard",
             "game_jams": "Game Jams",
-            "feed": "Mein Feed"
+            "feed": "Mein Feed",
+            "account_menu_tooltip": "Kontoeinstellungen"
         }
     },
     "index": {
