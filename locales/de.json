@@ -265,7 +265,8 @@
             "claim_object": "Logge dich ein oder erstelle einen Account, um {{noun}} zu beanspruchen",
             "recent_purchases": "Logge dich ein, um kürzlich getätigte Einkäufe mit deinem Benutzerkonto zu verknüpfen."
         },
-        "no_account_prompt": "Du hast keinen Account? <1>Erstelle einen Account</1>"
+        "no_account_prompt": "Du hast keinen Account? <1>Erstelle einen Account</1>",
+        "page_title": "Anmelden"
     },
     "user_register": {
         "create_an_account_on_itchio": "Erstelle einen itch.io Account",
