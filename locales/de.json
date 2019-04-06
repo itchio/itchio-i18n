@@ -8,7 +8,8 @@
             "contact_us": "Kontaktiere uns",
             "terms": "AGBs",
             "directory": "Verzeichnis",
-            "privacy": "Privatsphäre"
+            "privacy": "Privatsphäre",
+            "cookies": "Cookies"
         },
         "header": {
             "browse": "Durchsuchen",
@@ -103,7 +104,8 @@
         "intro": "<s>itch.io</s> macht es einfach, Indie-Spiele online kostenlos zu finden und zu teilen.",
         "intro_cta": "<1>Dein Spiel hinzufügen</1> oder <2>die FAQs lesen</2>",
         "html5_games": "HTML5-Spiele",
-        "page_title": "Lade die neuesten Indie-Spiele herunter"
+        "page_title": "Lade die neuesten Indie-Spiele herunter",
+        "meta_description": "itch.io ist der einfachste Weg Indie-Spiele online zu finden, herunterzuladen und zu vertreiben. Egal ob du Entwickler bist, der sein Spiel hochladen möchte oder jemand der nach etwas Neuem sucht, bei itch.io bist du richtig."
     },
     "misc": {
         "classifications": {
