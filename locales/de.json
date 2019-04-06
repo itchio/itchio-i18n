@@ -282,7 +282,8 @@
             "log_in": "Einloggen",
             "link_product": "Dein Kauf von <1>{{product}}</1> wird automatisch mit deinem Account verlinkt, nachdem du dich registrierst.",
             "accept_tos": "Ich akzeptiere die <1>Allgemeinen Geschäftsbedingungen</1>",
-            "digest_signup": "Registriere mich für den zusammenfassenden itch.io Newsletter (2 pro Monat)"
+            "digest_signup": "Registriere mich für den zusammenfassenden itch.io Newsletter (2 pro Monat)",
+            "interest_gamer": "Ich bin daran interessiert Spiele auf itch.io zu spielen oder herunterzuladen"
         }
     }
 }
