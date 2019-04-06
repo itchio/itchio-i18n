@@ -267,7 +267,10 @@
         },
         "no_account_prompt": "Du hast keinen Account? <1>Erstelle einen Account</1>",
         "page_title": "Anmelden",
-        "you_are_logged_out": "Du bist ausgeloggt"
+        "you_are_logged_out": "Du bist abgemeldet",
+        "errors": {
+            "accept_terms": "Du musst die AGB akzeptieren"
+        }
     },
     "user_register": {
         "create_an_account_on_itchio": "Erstelle einen itch.io Account",
