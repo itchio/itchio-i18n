@@ -407,10 +407,30 @@
             "asset_license": "Ressourcen-Lizenz",
             "average_session_duration": "Durchschnittliche Dauer",
             "inputs": "Eingaben",
-            "mentions": "Erwähnungen"
+            "mentions": "Erwähnungen",
+            "languages": "Sprachen",
+            "accessibility": "Barrierefreiheit",
+            "multiplayer": "Mehrspieler",
+            "player_count": "Spieleranzahl",
+            "singleplayer": "Einzelspieler",
+            "links": "Links"
         },
         "post_a_new_topic": "Neues Thema erstellen",
         "post_first_topic": "Erstes Thema erstellen",
-        "community_sticky": "Angepinnt"
+        "community_sticky": "Angepinnt",
+        "community_header": "Community",
+        "join_the_community": "Tritt der Community bei",
+        "community_view_all_posts": "Alle Beiträge anzeigen",
+        "community_post_author": "von {{username}}",
+        "community_posts_count": "{{count}} Beitrag",
+        "community_posts_count_plural": "{{count}} Beiträge",
+        "upload_list": {
+            "preorder": "Vorbestellen",
+            "download": "Herunterladen",
+            "play_in_browser": "Im Browser spielen",
+            "if_you_pay_price_or_more": "wenn du {{price}} oder mehr zahlst",
+            "version_name": "Version {{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Diese Datei wird verfügbar, wenn der Urheber sie hochlädt"
+        }
     }
 }
