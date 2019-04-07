@@ -345,6 +345,7 @@
         "web_games_header": "Browserspiele offline spielen",
         "web_games_description": "Du kannst jedes im Browser hinterlegte Spiel direkt in die App laden, sodass du sie offline spielen kannst, wann immer du willst. Sobald du wieder online bist, kannst du auf jedes Update zugreifen, sollten welche notwendig sein.",
         "languages_header": "In deiner Sprache verfügbar",
-        "languages_description": "Die itch App ist dank unserer itch.io Community in über 20 Sprachen verfügbar! <a>Lerne mehr über das Übersetzen</a>"
+        "languages_description": "Die itch-App ist dank unserer itch.io-Community in über 20 Sprachen verfügbar! <a>Erfahre mehr über das Übersetzen</a>",
+        "community_description": "Lerne mehr über die Entwicklung der App <1>in der Community</1>. Teile künftige Anfragen und allgemeines Feedback mit anderen Nutzern auf itch.io. Wenn du ein Programmierer bist, wird es dich freuen zu hören, dass das komplette Projekt als <2>Open Source auf GitHub ist</2>. Wir freuen uns auf deine Pull Requests."
     }
 }
