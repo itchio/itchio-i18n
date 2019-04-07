@@ -372,6 +372,8 @@
         "buy_now_button": "Jetzt kaufen",
         "name_your_own_price": "Nenne deinen Preis",
         "on_sale": "Im Angebot!",
-        "percent_off": "<s>{{percent}}%</s> günstiger"
+        "percent_off": "<s>{{percent}}%</s> günstiger",
+        "price_or_more": "{{price}} <s>oder mehr</s>",
+        "in_order_to_access": "Um Zugriff auf {{noun}} zu erhalten, musst mindestens {{price}} oder mehr bezahlen."
     }
 }
