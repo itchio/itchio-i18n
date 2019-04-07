@@ -366,6 +366,12 @@
         "available_header": "Verfügbar auf",
         "also_available_header": "Auch verfügbar auf",
         "will_be_available_in": "Wird in {{time_remaining}} erscheinen.",
-        "download_or_claim_button": "Herunterladen oder Einfordern"
+        "download_or_claim_button": "Herunterladen oder Einfordern",
+        "download_now_button": "Jetzt herunterladen",
+        "preorder_button": "Jetzt vorbestellen",
+        "buy_now_button": "Jetzt kaufen",
+        "name_your_own_price": "Nenne deinen Preis",
+        "on_sale": "Im Angebot!",
+        "percent_off": "<s>{{percent}}%</s> Off"
     }
 }
