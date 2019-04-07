@@ -338,6 +338,7 @@
         "updates": "Updates",
         "contribute_link": "Willst du dazu beitragen? <a>Schau dir die Quelle auf GitHub an</a>",
         "read_the_app_guide": "Lies den App-Guide",
-        "browse_header": "Entdecke Spiele, wie vom Ersteller gedacht"
+        "browse_header": "Entdecke Spiele, wie vom Ersteller gedacht",
+        "browse_description": "Auf itch.io legen Ersteller fest, wie die Seiten ihrer Projekte aussehen. Der eingebaute Browser lässt dich Spiele herunterladen und installieren während du einzigartig gestaltete Seiten entdeckst."
     }
 }
