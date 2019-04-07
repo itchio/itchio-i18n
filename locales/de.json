@@ -372,6 +372,6 @@
         "buy_now_button": "Jetzt kaufen",
         "name_your_own_price": "Nenne deinen Preis",
         "on_sale": "Im Angebot!",
-        "percent_off": "<s>{{percent}}%</s> Off"
+        "percent_off": "<s>{{percent}}%</s> günstiger"
     }
 }
