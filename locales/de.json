@@ -317,5 +317,12 @@
         "upload_or_dashboard": "<1>Neues Spiel hochladen</1> <em>oder</em> <2>zum Dashboard gehen</2>",
         "design_your_games_page_description": "Kreiere eine individuelle Seite für dein Spiel, auf der andere dein Spiel kaufen und herunterladen können. Du entscheidest über Farben, Schriftarten, Bilder und Videos. Da es deine Spielseite ist, wird dort nichts sein, was du nicht willst.",
         "track_your_game_description": "Behalte im Blick, wie Leute dein Spiel finden und nutze dafür detaillierte Analysen über die Aufrufe, Downloads und Käufe. Du möchtest Werbung machen? Generiere Download-Keys, um einigen Leuten Zugriff auf dein Spiel zu geben."
+    },
+    "search": {
+        "creators": "Ersteller:",
+        "published_count": "{{count}} Projekt",
+        "published_count_plural": "{{count}} Projekte",
+        "view_all_tags": "Alle Tags anzeigen",
+        "browse_all_games": "Alle Spiele durchstöbern"
     }
 }
