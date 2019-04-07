@@ -404,7 +404,8 @@
             "made_with_tools": "Erstellt mit",
             "code_license": "Lizenz",
             "tags": "Tags",
-            "asset_license": "Ressourcen-Lizenz"
+            "asset_license": "Ressourcen-Lizenz",
+            "average_session_duration": "Durchschnittliche Sitzung"
         }
     }
 }
