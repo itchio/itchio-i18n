@@ -405,7 +405,12 @@
             "code_license": "Lizenz",
             "tags": "Tags",
             "asset_license": "Ressourcen-Lizenz",
-            "average_session_duration": "Durchschnittliche Sitzung"
-        }
+            "average_session_duration": "Durchschnittliche Dauer",
+            "inputs": "Eingaben",
+            "mentions": "Erwähnungen"
+        },
+        "post_a_new_topic": "Neues Thema erstellen",
+        "post_first_topic": "Erstes Thema erstellen",
+        "community_sticky": "Angepinnt"
     }
 }
