@@ -211,8 +211,8 @@
         "errors": {
             "server_error": "Server konnte nicht antworten, versuche es später erneut"
         },
-        "more_ellip": "Mehr...",
-        "loading_more_ellip": "Lädt mehr...",
+        "more_ellip": "Mehr…",
+        "loading_more_ellip": "Lädt mehr…",
         "collection_button": {
             "add_to_collection": "Zur Sammlung hinzufügen"
         },
@@ -287,7 +287,7 @@
             "interest_developer": "Ich bin daran interessiert, eigene Projekte auf itch.io hochzuladen",
             "account_preferences_info": "Du kannst deine Antworten später noch ändern. Sie geben itch.io lediglich Hinweise darauf, wie es sich dir am besten darstellen soll.",
             "about_you": "Über dich",
-            "your_email_address": "Deine E-Mail Adresse",
+            "your_email_address": "Deine E-Mail-Adresse",
             "password": "Passwort",
             "repeat_password": "Passwort wiederholen",
             "url_preview": "So wird dein Profil aussehen",
@@ -358,7 +358,7 @@
         "purchase_header": "Kaufen",
         "more_information": "Mehr Informationen",
         "install_instructions": "Installationsanleitung",
-        "unavailable": "Dieses {{game_noun}} ist gerade nicht verfügbar.",
+        "unavailable": "Dieses {{game_noun}} ist gerade nicht verfügbar",
         "download_access": "Klicke auf \"Jetzt herunterladen\", um Zugriff auf folgende Dateien zu erhalten:",
         "get_access": "Du wirst Zugriff auf folgende Dateien erhalten:",
         "get_access_preorder": "Du wirst Zugriff auf folgende Dateien erhalten, sobald diese erschienen sind:",
@@ -430,7 +430,13 @@
             "play_in_browser": "Im Browser spielen",
             "if_you_pay_price_or_more": "wenn du {{price}} oder mehr zahlst",
             "version_name": "Version {{version_name}}",
-            "this_file_will_be_available_when_the_creator_uploads_it": "Diese Datei wird verfügbar, wenn der Urheber sie hochlädt"
+            "this_file_will_be_available_when_the_creator_uploads_it": "Diese Datei wird verfügbar, wenn der Ersteller sie hochlädt"
+        },
+        "layout": {
+            "view_all_by_name": "Zeige alles von {{name}}",
+            "creator": "Ersteller",
+            "following": "Verfolgt",
+            "following_username": "Du folgst {{username}}"
         }
     }
 }
