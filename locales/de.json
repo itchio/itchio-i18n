@@ -361,6 +361,10 @@
         "unavailable": "Dieses {{game_noun}} ist gerade nicht verfügbar.",
         "download_access": "Klicke auf \"Jetzt herunterladen\", um Zugriff auf folgende Dateien zu erhalten:",
         "get_access": "Du wirst Zugriff auf folgende Dateien erhalten:",
-        "get_access_preorder": "Du wirst Zugriff auf folgende Dateien erhalten, sobald diese erschienen sind:"
+        "get_access_preorder": "Du wirst Zugriff auf folgende Dateien erhalten, sobald diese erschienen sind:",
+        "download_demo_header": "Demo herunterladen",
+        "available_header": "Verfügbar auf",
+        "also_available_header": "Auch verfügbar auf",
+        "will_be_available_in": "Wird in {{time_remaining}} erscheinen."
     }
 }
