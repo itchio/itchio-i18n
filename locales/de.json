@@ -340,6 +340,7 @@
         "read_the_app_guide": "Lies den App-Guide",
         "browse_header": "Entdecke Spiele, wie vom Ersteller gedacht",
         "browse_description": "Auf itch.io legen Ersteller fest, wie die Seiten ihrer Projekte aussehen. Der eingebaute Browser lässt dich Spiele herunterladen und installieren, während du <a>einzigartig gestaltete Seiten</a> entdeckst.",
-        "updates_header": "Immer auf dem neusten Stand"
+        "updates_header": "Immer auf dem neusten Stand",
+        "updates_description": "Deine Spiele, welche du installiert hast, werden nicht nur automatisch auf dem neusten Stand gehalten, sondern die Anwendung wird sich auch automatisch verändern sobald wir neue Funktionalitäten hinzufügen. Spiele, welche unsere neuen Kommandozeilen-Werkzeuge benutzen werden <em>Delta-Patches</em> generieren. Diese stellen sicher dass du nur dies herunterlädst was sich verändert, sobald ein neues Spiel erscheint."
     }
 }
