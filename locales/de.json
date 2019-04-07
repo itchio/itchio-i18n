@@ -353,6 +353,8 @@
         "meta_description": "itch, der beste Weg um Indie-Spiele herunterzuladen und zu spielen. Lade kostenlose Spiele herunter und verwalte deine Bibliothek von deinem Desktop aus. Nun für Windows, macOS und Linux verfügbar."
     },
     "game": {
-        "empty_page": "Es scheint, dass hier nichts ist...."
+        "empty_page": "Es scheint, dass hier nichts ist...",
+        "download_header": "Download",
+        "purchase_header": "Kaufen"
     }
 }
