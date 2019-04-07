@@ -329,6 +329,9 @@
     "app": {
         "open_source": "Open Source",
         "share_message": "itch, die Desktop-App für Indie-Spiele",
-        "start_download": "Download starten"
+        "start_download": "Download starten",
+        "tagline": "Installiere, aktualisiere und spiele Indie-Spiele",
+        "for_platforms": "Für <1>Windows</1>, <2>macOS</2>, und <3>Linux</3>",
+        "summary": "Die itch.io app,<s>itch</s>, lässt dich bequem Spiele von itch.io herunterladen und spielen. Alle deine Downloads sind an einem Platz und werden automatisch aktualisiert. Greife auf deine Kollektionen und Einkäufe zu oder stöbere durch neue Spiele per in-app Browser."
     }
 }
