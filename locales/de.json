@@ -324,6 +324,6 @@
         "published_count_plural": "{{count}} Projekte",
         "view_all_tags": "Alle Tags anzeigen",
         "browse_all_games": "Alle Spiele durchsuchen",
-        "search_results_for_query": "Ergebnisse suchen für '{{query}}'"
+        "search_results_for_query": "Ergebnisse für '{{query}}' suchen"
     }
 }
