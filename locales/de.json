@@ -384,7 +384,8 @@
         "comments": {
             "comments_header": "Kommentare",
             "leave_a_comment_header": "Hinterlasse einen Kommentar",
-            "leave_a_comment": "Hinterlasse einen Kommentar"
+            "leave_a_comment": "Hinterlasse einen Kommentar",
+            "click_to_leave_a_comment": "Klicke um ein Kommentar zu hinterlassen..."
         }
     }
 }
