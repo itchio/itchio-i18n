@@ -378,6 +378,8 @@
         "development_log_header": "Entwicklungslog",
         "devlog_view_all_posts": "Zeige alle Beiträge",
         "your_purchase_comes_with_a_steam_key": "Dein Kauf kommt mit einem Steam-Key.",
-        "steam_key_bundle_disclaimer": "(Hinweis: Ein Steam-Key ist in {{bundle_title}} nicht enthalten)"
+        "steam_key_bundle_disclaimer": "(Hinweis: Ein Steam-Key ist in {{bundle_title}} nicht enthalten)",
+        "donate_button": "Unterstütze dieses {{noun}}",
+        "empty_page_no_uploads": "Der Ersteller hast bisher noch nichts hochgeladen..."
     }
 }
