@@ -380,6 +380,10 @@
         "your_purchase_comes_with_a_steam_key": "Dein Kauf kommt mit einem Steam-Key.",
         "steam_key_bundle_disclaimer": "(Hinweis: Ein Steam-Key ist in {{bundle_title}} nicht enthalten)",
         "donate_button": "Unterstütze dieses {{noun}}",
-        "empty_page_no_uploads": "Der Ersteller hat bisher noch nichts hochgeladen..."
+        "empty_page_no_uploads": "Der Ersteller hat bisher noch nichts hochgeladen...",
+        "comments": {
+            "comments_header": "Kommentare",
+            "leave_a_comment_header": "Hinterlasse ein Kommentar"
+        }
     }
 }
