@@ -374,7 +374,7 @@
         "on_sale": "Im Angebot!",
         "percent_off": "<s>{{percent}}%</s> günstiger",
         "price_or_more": "{{price}} <s>oder mehr</s>",
-        "in_order_to_access": "Um Zugriff auf {{noun}} zu erhalten, musst mindestens {{price}} oder mehr bezahlen.",
+        "in_order_to_access": "Um Zugriff auf dieses {{noun}} zu erhalten, musst du {{price}} oder mehr zahlen.",
         "development_log_header": "Entwicklungslog"
     }
 }
