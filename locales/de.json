@@ -346,6 +346,10 @@
         "web_games_description": "Du kannst jedes im Browser hinterlegte Spiel direkt in die App laden, sodass du sie offline spielen kannst, wann immer du willst. Sobald du wieder online bist, kannst du auf jedes Update zugreifen, sollten welche notwendig sein.",
         "languages_header": "In deiner Sprache verfügbar",
         "languages_description": "Die itch-App ist dank unserer itch.io-Community in über 20 Sprachen verfügbar! <a>Erfahre mehr über das Übersetzen</a>",
-        "community_description": "Lerne mehr über die Entwicklung der App <1>in der Community</1>. Teile künftige Anfragen und allgemeines Feedback mit anderen Nutzern auf itch.io. Wenn du ein Programmierer bist, wird es dich freuen zu hören, dass das komplette Projekt als <2>Open Source auf GitHub ist</2>. Wir freuen uns auf deine Pull Requests."
+        "community_description": "Lerne mehr über die Entwicklung der App <1>in der Community</1>. Teile künftige Anfragen und allgemeines Feedback mit anderen Nutzern auf itch.io. Wenn du ein Programmierer bist, wird es dich freuen zu hören, dass das komplette Projekt als <2>Open Source auf GitHub ist</2>. Wir freuen uns auf deine Pull Requests.",
+        "download_now": "Jetzt herunterladen",
+        "community_header": "Trete der Community bei",
+        "page_title": "Anwendung herunterladen",
+        "meta_description": "itch, der beste Weg um Indie Spiele herunterzuladen und zu spielen. Lade kostenlose Spiele herunter und verwalte deine Bibliothek von deinem Desktop aus. Nun für Windows, macOS und Linux verfügbar."
     }
 }
