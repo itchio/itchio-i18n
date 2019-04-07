@@ -387,7 +387,10 @@
             "leave_a_comment": "Hinterlasse einen Kommentar",
             "click_to_leave_a_comment": "Klicke, um einen Kommentar zu hinterlassen...",
             "log_in_to_leave_comment": "<a>Melde dich auf itch.io an</a>, um einen Kommentar zu hinterlassen.",
-            "post_comment": "Kommentar schreiben"
+            "post_comment": "Kommentar senden"
+        },
+        "info_panel": {
+            "publisher": "Ersteller"
         }
     }
 }
