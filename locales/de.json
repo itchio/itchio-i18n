@@ -396,7 +396,13 @@
             "release_status": "Status",
             "category": "Kategorie",
             "platforms": "Plattform",
-            "release_date": "Erscheinungsdatum"
+            "release_date": "Erscheinungsdatum",
+            "rating": "Bewertung",
+            "authors": "Autoren",
+            "author": "Autor",
+            "genre": "Genre",
+            "made_with_tools": "Erstellt mit",
+            "code_license": "Lizenz"
         }
     }
 }
