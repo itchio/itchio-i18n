@@ -430,13 +430,21 @@
             "play_in_browser": "Im Browser spielen",
             "if_you_pay_price_or_more": "wenn du {{price}} oder mehr zahlst",
             "version_name": "Version {{version_name}}",
-            "this_file_will_be_available_when_the_creator_uploads_it": "Diese Datei wird verfügbar, wenn der Ersteller sie hochlädt"
+            "this_file_will_be_available_when_the_creator_uploads_it": "Diese Datei wird verfügbar, wenn der Ersteller sie hochlädt",
+            "empty_message": "Bisher ist nichts zum Herunterladen verfügbar."
         },
         "layout": {
             "view_all_by_name": "Zeige alles von {{name}}",
             "creator": "Ersteller",
             "following": "Verfolgt",
-            "following_username": "Du folgst {{username}}"
+            "following_username": "Du folgst {{username}}",
+            "follow": "Folgen",
+            "follow_username": "Folge {{username}}",
+            "add_to_collection": "Zur Sammlung hinzufügen",
+            "add_to_collection_short": "Sammlung",
+            "comments": "Kommentare",
+            "community": "Community",
+            "devlog": "Entwicklerlog"
         }
     }
 }
