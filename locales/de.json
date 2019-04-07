@@ -313,6 +313,7 @@
         "upload_your_game_description": "Lade dein Spiel kostenlos auf <s>itch.io</s> hoch. Wir stellen dein Spiel, neben deinen Screenshots und weiteren Downloads, zur Verfügung. Downloads für dein Spiel sind immer verfügbar und schnell.",
         "learn_more_about": "Erfahre mehr über:",
         "share_message": "itch.io is der einfachste Weg, deine Indie-Spiele kostenlos online zu vertreiben.",
-        "create_account_or_login": "<1>Erstelle einen Account</1> <em>oder</em> <2>Log dich ein</2>"
+        "create_account_or_login": "<1>Erstelle einen Account</1> <em>oder</em> <2>Log dich ein</2>",
+        "upload_or_dashboard": "<1>Neues Spiel hochladen</1> <em>oder</em> <2>zur Übersicht gehen</2>"
     }
 }
