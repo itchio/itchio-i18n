@@ -378,6 +378,6 @@
         "development_log_header": "Entwicklungslog",
         "devlog_view_all_posts": "Zeige alle Beiträge",
         "your_purchase_comes_with_a_steam_key": "Dein Kauf kommt mit einem Steam-Key.",
-        "steam_key_bundle_disclaimer": "(Hinweis: Steam Key ist in {{bundle_title}} nicht inbegriffen)"
+        "steam_key_bundle_disclaimer": "(Hinweis: Ein Steam-Key ist in {{bundle_title}} nicht enthalten)"
     }
 }
