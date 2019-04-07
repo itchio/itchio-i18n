@@ -343,6 +343,7 @@
         "updates_header": "Immer auf dem neusten Stand",
         "updates_description": "Deine installierten Spiele werden nicht nur automatisch aktualisiert, sondern die Anwendung wird sich auch automatisch verändern, wenn wir neue Funktionen hinzufügen. Spiele, die unsere neuen Kommandozeilen-Werkzeuge benutzen, werden <em>Delta-Patches</em> generieren, die sicherstellen, dass nur Verändertes heruntergeladen wird, sobald ein neues Spiel erscheint.",
         "web_games_header": "Browserspiele offline spielen",
-        "web_games_description": "Du kannst jedes im Browser hinterlegte Spiel direkt in die App laden, sodass du sie offline spielen kannst, wann immer du willst. Sobald du wieder online bist, kannst du auf jedes Update zugreifen, sollten welche notwendig sein."
+        "web_games_description": "Du kannst jedes im Browser hinterlegte Spiel direkt in die App laden, sodass du sie offline spielen kannst, wann immer du willst. Sobald du wieder online bist, kannst du auf jedes Update zugreifen, sollten welche notwendig sein.",
+        "languages_header": "Verfügbar in deiner Sprache"
     }
 }
