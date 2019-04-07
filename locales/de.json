@@ -323,6 +323,6 @@
         "published_count": "{{count}} Projekt",
         "published_count_plural": "{{count}} Projekte",
         "view_all_tags": "Alle Tags anzeigen",
-        "browse_all_games": "Alle Spiele durchstöbern"
+        "browse_all_games": "Alle Spiele durchsuchen"
     }
 }
