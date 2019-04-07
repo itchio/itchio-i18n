@@ -396,7 +396,7 @@
             "release_status": "Status",
             "category": "Kategorie",
             "platforms": "Plattform",
-            "release_date": "Einscheinungsdatum"
+            "release_date": "Erscheinungsdatum"
         }
     }
 }
