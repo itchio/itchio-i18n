@@ -390,7 +390,13 @@
             "post_comment": "Kommentar senden"
         },
         "info_panel": {
-            "publisher": "Ersteller"
+            "publisher": "Ersteller",
+            "updated_at": "Aktualisiert",
+            "published_at": "Veröffentlicht",
+            "release_status": "Status",
+            "category": "Kategorie",
+            "platforms": "Plattform",
+            "release_date": "Einscheinungsdatum"
         }
     }
 }
