@@ -328,6 +328,7 @@
     },
     "app": {
         "open_source": "Open Source",
-        "share_message": "itch, die Desktop App für Indie-Spiele"
+        "share_message": "itch, die Desktop-App für Indie-Spiele",
+        "start_download": "Download starten"
     }
 }
