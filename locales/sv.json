@@ -7,14 +7,14 @@
             "blog": "Blogg",
             "contact_us": "Kontakta oss",
             "terms": "Villkor",
-            "directory": "Katalogo",
+            "directory": "Katalog",
             "privacy": "Integritet",
             "cookies": "Kakor"
         },
         "header": {
             "browse": "Bläddra",
             "browse_games": "Bläddra bland spel",
-            "game_jams": "Spel Jams",
+            "game_jams": "Speljams",
             "upload_game": "Ladda upp ett spel",
             "devlogs": "Utvecklarbloggar",
             "community": "Forum",
@@ -47,11 +47,11 @@
             "log_out": "Logga ut",
             "settings": "Inställningar",
             "view_profile": "Visa profil",
-            "host_game_jam": "Organisera ett spel jam",
+            "host_game_jam": "Organisera ett speljam",
             "sales_bundles": "Reor & paket",
             "new_project": "Ladda upp ett nytt projekt",
             "dashboard": "Dashboard",
-            "game_jams": "Spel jams",
+            "game_jams": "Speljams",
             "recommendations": "Rekommendationer",
             "library": "Mitt bibliotek",
             "feed": "Mitt flöde",
@@ -62,7 +62,7 @@
         "popular_tags": "Populära taggar",
         "browse": "Sök",
         "games_by_price": "Spel sorterat på pris",
-        "download_app": "Ladda ner app",
+        "download_app": "Ladda ner appen",
         "view_something_random": "Visa något på slump",
         "view_all_games": "Visa alla spel",
         "dont_see_anything_you_like": "Ser inget du gillar?",
@@ -98,7 +98,7 @@
         "nav": {
             "all_games": "Alla spel",
             "bundles": "Paket",
-            "game_jams": "Spel jams",
+            "game_jams": "Speljams",
             "devlogs": "Utvecklarbloggar",
             "community": "Forum"
         },
@@ -189,7 +189,7 @@
         "filter_price": {
             "free": "Gratis",
             "on_sale": "På REA",
-            "paid": "Betal"
+            "paid": "Betalspel"
         },
         "pager": {
             "next_page": "Nästa sida",
