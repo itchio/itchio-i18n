@@ -365,6 +365,7 @@
         "download_demo_header": "Demo herunterladen",
         "available_header": "Verfügbar auf",
         "also_available_header": "Auch verfügbar auf",
-        "will_be_available_in": "Wird in {{time_remaining}} erscheinen."
+        "will_be_available_in": "Wird in {{time_remaining}} erscheinen.",
+        "download_or_claim_button": "Herunterladen oder einfordern"
     }
 }
