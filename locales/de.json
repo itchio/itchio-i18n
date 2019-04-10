@@ -444,7 +444,11 @@
             "add_to_collection_short": "Sammlung",
             "comments": "Kommentare",
             "community": "Community",
-            "devlog": "Entwicklunglog"
+            "devlog": "Entwicklunglog",
+            "edit_your_rating": "Bearbeite deine Bewertung",
+            "edit_rating": "Bewertung bearbeiten",
+            "rate": "Bewerten",
+            "rate_this_noun": "Bewerte diese {{noun}}"
         }
     }
 }
