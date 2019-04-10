@@ -475,7 +475,9 @@
                 "you_rated_this_game": "Du hast das Spiel bewertet",
                 "now_accepting_ratings": "Der Wettbewerb akzeptiert gerade Bewertungen für Einträge.",
                 "rating_instructions": "Bewerte und kommentiere diese Einsendung für den Wettbewerb, indem du die Spielseite über den Link oben aufrufst."
-            }
+            },
+            "rate_for_jam": "Stimme für {{jam_title}}",
+            "submission_to_jam": "Einsendungen zu {{jam_title}}"
         },
         "after_download": {
             "share_this_project": "Teile dieses Projekt",
