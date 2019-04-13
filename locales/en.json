@@ -1167,7 +1167,25 @@
                 "preorder_toggle": "This file is a pre-order placeholder",
                 "set_price_toggle": "Set a different price for this file",
                 "change_display_name_button": "Change display name"
-            }
+            },
+            "community_field_info": "Build a community for your project by letting people post to your page.",
+            "community_comments_info": "Add a nested comment thread to the bottom of the project page",
+            "community_discussion_board_info": "Add a dedicated community page with categories, threads, replies & more",
+            "add_screenshots": "Add screenshots",
+            "screenshots_header": "Screenshots"
+        },
+        "project_header": {
+            "edit_project": "Edit project",
+            "devlog": "Devlog",
+            "metadata": "Metadata",
+            "analytics": "Analytics",
+            "distribute": "Distribute",
+            "interact": "Interact",
+            "edit_comments": "Edit comments",
+            "discussion_board": "Discussion board",
+            "rewards": "Rewards",
+            "admins": "Admins",
+            "more": "More"
         }
     },
     "add_to_collection": {
