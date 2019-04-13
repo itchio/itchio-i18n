@@ -167,7 +167,8 @@
             "email_address": "Adreça de correu electrònic",
             "submit": "Envia",
             "optional": "Opcional",
-            "search": "Cerca"
+            "search": "Cerca",
+            "form_errors": "Comproveu la informació que heu introduït"
         },
         "page_number": "Pàgina {{page_number}}",
         "follow_button": {
@@ -624,7 +625,7 @@
         "gift_email_instructions": "Triareu un correu electrònic al qual enviar-ho com a regal després del pagament",
         "i_already_paid_for_this": "Ja he pagat per això...",
         "included_files": "Fitxers inclosos",
-        "agree_to_terms": "En completar un pagament, accepteu els <1>Termes del servei</1> i la <2>Privacitat</2> d'itch.io.",
+        "agree_to_terms": "En completar un pagament, accepteu els <1>Termes del servei</1> i la <2>Política de privacitat</2> d'itch.io.",
         "this_purchase_is_a_gift": "Aquesta compra és un regal",
         "support_the_creator_by_paying_above_the_minimum_price": "Doneu suport al creador pagant més del preu mínim",
         "support_the_creator_with_an_additional_contribution": "Doneu suport al creador amb una contribució addicional",
