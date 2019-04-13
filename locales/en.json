@@ -230,7 +230,7 @@
             "prototype": "Prototype"
         },
         "errors": {
-            "server_error": "Server failed failed to respond, please try again later"
+            "server_error": "Server failed to respond, please try again later"
         },
         "more_ellip": "More…",
         "loading_more_ellip": "Loading more…"
@@ -499,7 +499,7 @@
             "topic_is_archived": "This topic is archived and can no longer be posted in",
             "reply": "Reply",
             "log_in_to_reply": "Log in to reply",
-            "unlisted_topic_notice": "<s>A moderator has unlisted this topic.</s> Is it not visible on the topic listing but you can still reply and make edits.",
+            "unlisted_topic_notice": "<s>A moderator has unlisted this topic.</s> It is not visible on the topic listing but you can still reply and make edits.",
             "join_the_discussion": "Join the discussion. Log in or create a free itch.io account to continue.",
             "reply_to_someone_else": "Want to reply to someone else? Click <s>reply</s> beneath their post.",
             "this_reply_will_go_to_yourself": "This reply will go to yourself.",
