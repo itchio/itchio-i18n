@@ -169,7 +169,8 @@
             "email_address": "Email адрес",
             "submit": "Отправить",
             "optional": "Необязательно",
-            "search": "Поиск"
+            "search": "Поиск",
+            "form_errors": "Пожалуйста, проверьте введённую информацию"
         },
         "page_number": "Страница {{page_number}}",
         "follow_button": {
@@ -633,7 +634,7 @@
         "gift_email_instructions": "Вы можете выбрать email, на который отправить подарок, после оплаты",
         "i_already_paid_for_this": "Я уже заплатил за это...",
         "included_files": "Включённые файлы",
-        "agree_to_terms": "Выполняя платёж, вы соглашаетесь с <1>Условиями использования</1> и <2>Политикой приватности</2> itch.io.",
+        "agree_to_terms": "Совершая платёж, вы соглашаетесь с <1>Условиями использования</1> и <2>Политикой приватности</2> itch.io.",
         "this_purchase_is_a_gift": "Это приобретение в подарок",
         "support_the_creator_by_paying_above_the_minimum_price": "Поддержите создателя, заплатив выше минимальной цены",
         "support_the_creator_with_an_additional_contribution": "Поддержите создателя дополнительным пожертвованием",
@@ -1191,7 +1192,25 @@
                 "preorder_toggle": "Этот файл - заглушка для предзаказа",
                 "set_price_toggle": "Установить особую цену для этого файла",
                 "change_display_name_button": "Сменить отображаемое название"
-            }
+            },
+            "community_field_info": "Создайте сообщество проекта, разрешив людям писать на его странице.",
+            "community_comments_info": "Добавить возможность оставлять комментарии на странице проекта",
+            "community_discussion_board_info": "Добавить полноценный форум с категориями, темами, ответами и прочим",
+            "add_screenshots": "Добавить скриншоты",
+            "screenshots_header": "Скриншоты"
+        },
+        "project_header": {
+            "edit_project": "Изменить проект",
+            "devlog": "Дневник",
+            "metadata": "Метаданные",
+            "analytics": "Аналитика",
+            "distribute": "Распространение",
+            "interact": "Взаимодействие",
+            "edit_comments": "Изменить комментарии",
+            "discussion_board": "Форум",
+            "rewards": "Вознаграждения",
+            "admins": "Администраторы",
+            "more": "Ещё"
         }
     },
     "add_to_collection": {
