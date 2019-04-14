@@ -643,7 +643,7 @@
         "edit_collection": "Bearbeite Sammlung",
         "edit_contributors": "Bearbeite Beitragende",
         "empty_collection_message": "In dieser Sammlung befindet sich nichts.",
-        "private_collection_message": "Diese Sammlung ist privat, nur Beitragende können ihren Inhalt sehen.",
+        "private_collection_message": "Diese Sammlung ist privat, nur Beitragende können ihren Inhalt sehen",
         "pending_invitation": "Du hast eine ausstehende Einladung, an dieser Sammlung teilzunehmen. <a>Sieh dir die Einladung an</a>",
         "a_collection_by_author": "Eine Sammlung von {{author}}",
         "page_title": "{{collection_title}} - Sammlung von {{author}}",
