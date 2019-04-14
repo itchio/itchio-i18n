@@ -169,7 +169,8 @@
             "email_address": "Adres e-mail",
             "submit": "Wyślij",
             "optional": "Opcjonalny",
-            "search": "Szukaj"
+            "search": "Szukaj",
+            "form_errors": "Sprawdź podane informacje"
         },
         "page_number": "Strona {{page_number}}",
         "follow_button": {
