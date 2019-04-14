@@ -165,7 +165,8 @@
             "email_address": "이메일 주소",
             "submit": "제출",
             "optional": "선택",
-            "search": "검색"
+            "search": "검색",
+            "form_errors": "제공한 정보를 확인해주세요"
         },
         "platforms": {
             "web": "웹"
@@ -1149,7 +1150,25 @@
                 "preorder_toggle": "이 파일은 예약 구매용입니다",
                 "set_price_toggle": "이 파일에 다른 가격 설정",
                 "change_display_name_button": "보여지는 이름 변경"
-            }
+            },
+            "community_field_info": "사람들이 당신의 페이지에 글을 올릴 수 있도록 해서 프로젝트를 위한 커뮤니티를 만들어보세요.",
+            "community_comments_info": "프로젝트 페이지 밑에 중첩된 댓글 스레드를 추가해보세요",
+            "community_discussion_board_info": "카테고리, 스레드, 답급 등 여러가지가 있는 커뮤니티 페이지를 추가해보세요",
+            "add_screenshots": "스크린샷 추가",
+            "screenshots_header": "스크린샷"
+        },
+        "project_header": {
+            "edit_project": "프로젝트 수정",
+            "devlog": "개발일지",
+            "metadata": "메타데이터",
+            "analytics": "통계",
+            "distribute": "배급",
+            "interact": "상호작용",
+            "edit_comments": "댓글 수정",
+            "discussion_board": "토론 게시판",
+            "rewards": "보상",
+            "admins": "관리자",
+            "more": "더보기"
         }
     },
     "add_to_collection": {
