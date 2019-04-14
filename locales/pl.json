@@ -170,7 +170,7 @@
             "submit": "Wyślij",
             "optional": "Opcjonalny",
             "search": "Szukaj",
-            "form_errors": "Sprawdź podane informacje"
+            "form_errors": "Sprawdź wprowadzone informacje"
         },
         "page_number": "Strona {{page_number}}",
         "follow_button": {
@@ -1192,7 +1192,25 @@
                 "preorder_toggle": "Ten plik jest elementem zastępczym zamówienia w przedsprzedaży",
                 "set_price_toggle": "Ustaw inną cenę dla tego pliku",
                 "change_display_name_button": "Zmień wyświetlaną nazwę"
-            }
+            },
+            "community_field_info": "Buduj społeczność dla swojego projektu, pozwalając ludziom komentować na twojej stronie.",
+            "community_comments_info": "Dodaj zagnieżdżony wątek komentarzy na dole strony projektu",
+            "community_discussion_board_info": "Dodaj dedykowaną stronę społeczności z kategoriami, wątkami, odpowiedziami i innymi",
+            "add_screenshots": "Dodaj zrzuty ekranu",
+            "screenshots_header": "Zrzuty ekranu"
+        },
+        "project_header": {
+            "edit_project": "Edytuj projekt",
+            "devlog": "Devlog",
+            "metadata": "Metadane",
+            "analytics": "Analityka",
+            "distribute": "Dystrybucja",
+            "interact": "Interakcja",
+            "edit_comments": "Edytuj komentarze",
+            "discussion_board": "Forum dyskusyjne",
+            "rewards": "Nagrody",
+            "admins": "Administratorzy",
+            "more": "Więcej"
         }
     },
     "add_to_collection": {
