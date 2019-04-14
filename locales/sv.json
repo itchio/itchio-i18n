@@ -167,7 +167,8 @@
             "email_address": "Mejladress",
             "submit": "Skicka",
             "optional": "Frivillig",
-            "search": "Sök"
+            "search": "Sök",
+            "form_errors": "Var god kontrollera informationen du matat in"
         },
         "page_number": "Sida {{page_number}}",
         "follow_button": {
@@ -1166,7 +1167,25 @@
                 "preorder_toggle": "Den här filen är en platshållare för förköp",
                 "set_price_toggle": "Sätt ett annat pris för den här filen",
                 "change_display_name_button": "Ändra visningsnamn"
-            }
+            },
+            "community_field_info": "Bygg en gemenskap kring ditt projekt genom att låta folk kommentera på din sida.",
+            "community_comments_info": "Lägg till en kommentarstråd till botten av projektsidan",
+            "community_discussion_board_info": "Lägg till en dedikerad forumsida med kategorier, trådar, svar & mer",
+            "add_screenshots": "Lägg till skärmdumpar",
+            "screenshots_header": "Skärmdumpar"
+        },
+        "project_header": {
+            "edit_project": "Redigera projekt",
+            "devlog": "Utvecklarblogg",
+            "metadata": "Metadata",
+            "analytics": "Analys",
+            "distribute": "Distribuera",
+            "interact": "Interagera",
+            "edit_comments": "Redigera kommentarer",
+            "discussion_board": "Diskussionsforum",
+            "rewards": "Belöningar",
+            "admins": "Administratörer",
+            "more": "Mer"
         }
     },
     "add_to_collection": {
