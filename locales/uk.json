@@ -1,1 +1,21 @@
-{}
+{
+    "misc": {
+        "project_visibility": {
+            "restricted": "Обмежений"
+        }
+    },
+    "buy_form": {
+        "support_the_creator_with_an_additional_contribution": "Підтримайте творця додатковою пожертвою",
+        "check_out_with": "Сплатити за допомого"
+    },
+    "collection": {
+        "edit_contributors": "Редагувати авторів",
+        "private_collection_message": "Ця колекція є приватною, лише автори можуть бачити її вміст",
+        "pending_invitation": "Ви маєте запрошення стати автором цієї колекції. <a>Переглянути запрошення</a>",
+        "add_a_blurb": "Додати анотацію",
+        "edit_blurb": "Редагувати анотацію"
+    },
+    "browse_tags": {
+        "commonly_tagged_with": "Зазвичай мають теги:"
+    }
+}
