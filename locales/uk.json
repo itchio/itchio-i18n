@@ -184,7 +184,8 @@
             "terms": "Умови",
             "directory": "Каталог",
             "privacy": "Конфіденційність",
-            "cookies": "Куки"
+            "cookies": "Куки",
+            "blog": "Блог"
         },
         "header": {
             "browse": "Огляд",
@@ -199,7 +200,16 @@
             "bundles": "Комплекти",
             "game_assets": "Ассети",
             "fun_games": "Веселі ігри",
-            "feed": "Стрічка"
+            "feed": "Стрічка",
+            "browse_games": "Переглянути ігри",
+            "search": "Пошук",
+            "log_in": "Увійти",
+            "register": "Зареєструватись",
+            "free_games": "Безкоштовні ігри",
+            "indie_game_store": "Магазин інді-ігор",
+            "game_development": "Розробка ігор",
+            "comics": "Комікси",
+            "games": "Ігри"
         },
         "user_menu": {
             "explore": "Досліджуй",
@@ -210,7 +220,12 @@
             "new_project": "Вивантажити новий проект",
             "game_jams": "Ігроджеми",
             "feed": "Моя стрічка",
-            "account_menu_tooltip": "Меню акаунта"
+            "account_menu_tooltip": "Меню акаунта",
+            "log_out": "Вийти",
+            "settings": "Налаштування",
+            "view_profile": "Переглянути профіль",
+            "recommendations": "Рекомендації",
+            "library": "Моя бібліотека"
         }
     },
     "index": {
@@ -266,7 +281,8 @@
             "empty_results": "Ми більше не маємо рекомендацій для вас. Перевірте дещо пізніше",
             "refresh_button": "Перезавантажте, щоб побачити більше...",
             "dismiss_tooltip": "Більше не пропонувати"
-        }
+        },
+        "random_game": "Випадкова гра"
     },
     "blog": {
         "all_posts": "Всі пости",
