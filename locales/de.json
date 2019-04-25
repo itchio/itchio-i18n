@@ -868,7 +868,10 @@
         },
         "purchase": {
             "youve_been_gifted": "Jemand hat dir {{product_title}} geschenkt.",
-            "save_this_purchase_to_your_account": "Speichere diesen Einkauf in deinem Benutzerkonto ab"
+            "save_this_purchase_to_your_account": "Speichere diesen Einkauf in deinem Benutzerkonto ab",
+            "link_purchase_links": "<1>Leg ein Benutzerkonto an</1> oder <2>melde dich bei itch.io an</2>, um diesen Einkauf sofort zu verknüpfen.",
+            "link_purchase_warning": "Verlier nicht deinen Einkauf!",
+            "thank_you_for_purchasing": "Danke für deinen Kauf von {{product_title}}."
         }
     }
 }
