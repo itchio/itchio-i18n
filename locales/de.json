@@ -841,7 +841,13 @@
         "header": {
             "invoice": "Rechnung",
             "more_menu": "Mehr",
-            "view_rest_in_bundle": "Sieh dir den Rest des Bundles an"
-        }
+            "view_rest_in_bundle": "Sieh dir den Rest des Bundles an",
+            "preorder_title": "{{project_title}} vorbestellen",
+            "download_title": "{{project_title}} herunterladen",
+            "view_all_my_purchases": "Alle Käufe anschauen",
+            "return_to_project": "Zurück zum Projekt",
+            "discussion_board": "Diskussionsforum"
+        },
+        "linked_user_message": "Diese Seite mit mit dem Benutzerkonto {{username}} verknüpft."
     }
 }
