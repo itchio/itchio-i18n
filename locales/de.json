@@ -871,7 +871,12 @@
             "save_this_purchase_to_your_account": "Speichere diesen Einkauf in deinem Benutzerkonto ab",
             "link_purchase_links": "<1>Leg ein Benutzerkonto an</1> oder <2>melde dich bei itch.io an</2>, um diesen Einkauf sofort zu verknüpfen.",
             "link_purchase_warning": "Verlier nicht deinen Einkauf!",
-            "thank_you_for_purchasing": "Danke für deinen Kauf von {{product_title}}."
+            "thank_you_for_purchasing": "Danke für deinen Kauf von {{product_title}}.",
+            "thank_you_for_purchasing_author": "Danke, dass du {{product_title}} von {{author}} gekauft hast.",
+            "thank_you_for_donating": "Danke für deine Spende an {{product_title}}.",
+            "thank_you_for_donating_author": "Danke für deine Spende an {{product_title}} von {{author}}.",
+            "unique_url_for_your_payment": "Diese Seite hat eine persönliche URL für deine Bezahlung.",
+            "access_latest_files_from_this_page": "Von dieser Seite aus kannst du immer auf deine neuesten Dateien zugreifen."
         }
     }
 }
