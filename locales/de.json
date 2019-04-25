@@ -855,6 +855,8 @@
         "link_account_description": "Du kannst diese Downloadseite mit deinem itch.io-Benutzerkonto verknüpfen. So verlierst du sie niemals aus den Augen und sie wird zusammen mit den anderen Dingen, die dir gehören, angezeigt.",
         "must_link_account_description": "Du musst diese Seite mit einem itch.io-Benutzerkonto verknüpfen, bevor du etwas herunterladen kannst. Benutzerkonten sind kostenlos und helfen dir, alle Spiele, die du gesammelt hast, im Blick zu behalten.",
         "already_own": "Sieht so aus, als hättest du das schon",
-        "access_existing_copy": "Du kannst keine weitere Kopie beanspruchen, aber du kannst auf die existierende zugreifen."
+        "access_existing_copy": "Du kannst keine weitere Kopie beanspruchen, aber du kannst auf die existierende zugreifen.",
+        "get_external_key": "Gib mir einen {{key_type}}-Key",
+        "claim_external_key": "Löse {{key_type}}-Key ein."
     }
 }
