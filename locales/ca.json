@@ -1167,7 +1167,25 @@
                 "preorder_toggle": "Aquest fitxer és un element genèric de reserva",
                 "set_price_toggle": "Definiu un preu diferent per a aquest fitxer",
                 "change_display_name_button": "Canvia el nom públic"
-            }
+            },
+            "community_field_info": "Construïu una comunitat per al vostre projecte deixant que la gent publiqui a la vostra pàgina.",
+            "community_comments_info": "Afegeix un fil imbricat de comentaris a la part inferior de la pàgina del projecte",
+            "community_discussion_board_info": "Afegeix una pàgina dedicada a la comunitat amb categories, fils, respostes i més",
+            "add_screenshots": "Afegeix captures de pantalla",
+            "screenshots_header": "Captures de pantalla"
+        },
+        "project_header": {
+            "edit_project": "Edita el projecte",
+            "devlog": "Devlog",
+            "metadata": "Metadades",
+            "analytics": "Analítiques",
+            "distribute": "Distribuïu",
+            "interact": "Interaccioneu",
+            "edit_comments": "Edita els comentaris",
+            "discussion_board": "Fòrums de discussió",
+            "rewards": "Recompenses",
+            "admins": "Administradors",
+            "more": "Més"
         }
     },
     "add_to_collection": {
