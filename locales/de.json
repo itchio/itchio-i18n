@@ -859,6 +859,6 @@
         "get_external_key": "Gib mir einen {{key_type}}-Key",
         "claim_external_key": "Beanspruche einen{{key_type}}-Key",
         "claim_external_key_instructions": "Klick hier zum Einlösen.",
-        "payment_comes_with_key": "Du bekommst ausserdem einen {{key_type}}-Key!"
+        "payment_comes_with_key": "Du bekommst einen {{key_type}}-Key!"
     }
 }
