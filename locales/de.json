@@ -859,6 +859,16 @@
         "get_external_key": "Gib mir einen {{key_type}}-Key",
         "claim_external_key": "Beanspruche einen{{key_type}}-Key",
         "claim_external_key_instructions": "Klick hier zum Einlösen.",
-        "payment_comes_with_key": "Du bekommst einen {{key_type}}-Key!"
+        "payment_comes_with_key": "Du bekommst einen {{key_type}}-Key!",
+        "access_comes_with_key": "Dein Zugang kommt mit einem {{key_type}}-Key!",
+        "access_it": "Greif darauf zu",
+        "email_capture": {
+            "dont_lose_your_purchase": "Verlier nicht deinen Einkauf!",
+            "provide_email_instructions": "Gib hier deine Emailadresse ein, um sie mit deinem Einkauf zu verknüpfen. So kannst du jederzeit wieder darauf zugreifen, selbst wenn du den Link zu dieser Seite verlieren solltest."
+        },
+        "purchase": {
+            "youve_been_gifted": "Jemand hat dir {{product_title}} geschenkt.",
+            "save_this_purchase_to_your_account": "Speicher diesen Einkauf in deinem Benutzerkonto ab"
+        }
     }
 }
