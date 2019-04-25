@@ -835,6 +835,13 @@
             "get_the_app": "Hol dir die App",
             "app_description": "Installiere und organisiere deine Spiele mit der itch.io-Desktopanwendung"
         },
-        "play_in_your_browser": "Spiel in deinem Browser"
+        "play_in_your_browser": "Spiel in deinem Browser",
+        "start_project_button": "Start",
+        "version_name": "Version {{version_name}}",
+        "header": {
+            "invoice": "Rechnung",
+            "more_menu": "Mehr",
+            "view_rest_in_bundle": "Schau den Rest des Bundles an"
+        }
     }
 }
