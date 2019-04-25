@@ -877,7 +877,11 @@
             "thank_you_for_donating_author": "Danke für deine Spende an {{product_title}} von {{author}}.",
             "unique_url_for_your_payment": "Diese Seite hat eine persönliche URL für deine Bezahlung.",
             "access_latest_files_from_this_page": "Von dieser Seite aus kannst du immer auf die neuesten Dateien zugreifen.",
-            "receipt_support_information": "Du solltest außerdem eine E-Mail mit einem Link zu dieser Seite bekommen haben. Solltest du die URL zu dieser Seite verlieren, kannst du eine neue E-Mail beim <a>Support</a> anfordern."
+            "receipt_support_information": "Du solltest außerdem eine E-Mail mit einem Link zu dieser Seite bekommen haben. Solltest du die URL zu dieser Seite verlieren, kannst du eine neue E-Mail beim <a>Support</a> anfordern.",
+            "payment_summary": "Du hast hierfür am {{payment_date}} eine Summe von {{payment_price}} bezahlt.",
+            "payment_summary_with_email": "Du hast hierfür am {{payment_date}} eine Summe von {{payment_price}} bezahlt und dabei die Adresse {{email_address}} angegeben.",
+            "percent_off": "{{percent}}% Rabatt",
+            "linked_user_message": "Der Einkauf wurde mit dem Benutzerkonto \"{{username}}\" verknüpft."
         }
     }
 }
