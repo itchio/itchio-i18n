@@ -868,7 +868,7 @@
         },
         "purchase": {
             "youve_been_gifted": "Jemand hat dir {{product_title}} geschenkt.",
-            "save_this_purchase_to_your_account": "Speicher diesen Einkauf in deinem Benutzerkonto ab"
+            "save_this_purchase_to_your_account": "Speichere diesen Einkauf in deinem Benutzerkonto ab"
         }
     }
 }
