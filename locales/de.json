@@ -829,6 +829,6 @@
             "title": "Alternative Download-Methode",
             "region_message": "Einige Länder sind dafür bekannt, itch.ios CDN zu blockieren. Falls deine Downloads nicht starten, kannst du die alternative Download-Methode aktivieren und es erneut versuchen."
         },
-        "check_your_email_for_the_confirmation_link": "Schau in deinen Emails nach dem Bestätigungslink."
+        "check_your_email_for_the_confirmation_link": "Schau in deinem E-Mail-Postfach nach dem Bestätigungslink."
     }
 }
