@@ -791,6 +791,43 @@
     },
     "stripe_checkout": {
         "payment_error": "Es gab bei der Bearbeitung deiner Zahlung einen Fehler:",
-        "payment_error_help": "Solltest du unsicher sein, kontaktiere bitte den <a>itch.io-Support</a> mit der oben gezeigten Nachricht."
+        "payment_error_help": "Solltest du unsicher sein, kontaktiere bitte den <a>itch.io-Support</a> mit der oben gezeigten Nachricht.",
+        "choose_a_card": "Wähle eine Karte",
+        "edit_saved_cards": "Bearbeite die gespeicherten Karten",
+        "card_ending_last4": "Endet auf {{last4}}",
+        "new_card": "Neue Karte",
+        "enter_your_password_to_use_your_card": "Gib dein Passwort ein, um die Karte zu nutzen",
+        "password": "Passwort",
+        "buying_as": "Wird gekauft als",
+        "gift_instructions": "Dieser Kauf ist ein Geschenk. Du kannst die E-Mail-Adresse des Empfängers nach der Zahlung angeben.",
+        "credit_or_debit_card": "Kredit- oder Debitkarte",
+        "save_credit_card_for_future_purchases": "Speichere die Kreditkarte für zukünftige Käufe",
+        "manage_cards_link": "Du kannst deine Karten in den <a>Account-Einstellungen</a> bearbeiten",
+        "pay_price_button": "Bezahle {{price}}",
+        "paying_price_for": "Bezahle {{price}} für:",
+        "paying_price_vat_for": "Bezahle {{price}}, inklusive Mehrwertsteuer, für:",
+        "donating_price_to": "Spende {{price}} an:",
+        "donating_price_vat_to": "Spende {{price}}, inklusive Mehrwertsteuer, an:",
+        "you_will_receive_files": "Du erhältst:",
+        "steam_key": "Steam-Key",
+        "linked_to_account": "Mit Account verbunden",
+        "email": "E-Mail",
+        "youll_be_mailed_your_access_link": "Der Zugangsschlüssel wird dir per Mail geschickt",
+        "full_name": "Voller Name",
+        "name_as_it_appears_on_card": "Wie er auf der Karte steht"
+    },
+    "game_download": {
+        "share_and_follow": "Teilen & Folgen",
+        "social_share_message_download": "Ich habe gerade {{title}} von {{username}} heruntergeladen",
+        "or_share_on": "oder teile auf",
+        "trouble_downloading_link": "Die Downloads starten nicht?",
+        "install_instructions_intro": "Informationen zum Download und der Installation von {{username}}:",
+        "recommendations_title": "Was dir vielleicht auch gefallen könnte",
+        "check_out_more_from_jam_title": "Sieh dir mehr vom {{jam_title}} an",
+        "alternate_download": {
+            "enable_alternate_download_mode": "Aktiviere alternative Download-Methode",
+            "title": "Alternative Download-Methode",
+            "region_message": "Einige Länder sind dafür bekannt, itch.ios CDN zu blockieren. Falls deine Downloads nicht starten, kannst du die alternative Download-Methode aktivieren und es erneut versuchen."
+        }
     }
 }
