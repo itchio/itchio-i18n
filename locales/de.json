@@ -858,6 +858,6 @@
         "access_existing_copy": "Du kannst keine weitere Kopie beanspruchen, aber du kannst auf die existierende zugreifen.",
         "get_external_key": "Gib mir einen {{key_type}}-Key",
         "claim_external_key": "Beanspruche einen{{key_type}}-Key",
-        "claim_external_key_instructions": "Klick hier zum einlösen."
+        "claim_external_key_instructions": "Klick hier zum Einlösen."
     }
 }
