@@ -1082,7 +1082,14 @@
             "types": {
                 "downloadable": "Herunterladbar"
             },
-            "tip_label": "Hinweis"
+            "tip_label": "Hinweis",
+            "community_disabled": "Deaktiviert",
+            "community_comments": "Kommentare",
+            "community_discussion_board": "Diskussionsforum",
+            "pricing_header": "Preis",
+            "uploads_header": "Uploads",
+            "upload_files_button": "Dateien hochladen",
+            "add_external_file_button": "Externe Datei hinzufügen"
         }
     },
     "nags": {
