@@ -848,6 +848,11 @@
             "return_to_project": "Zurück zum Projekt",
             "discussion_board": "Diskussionsforum"
         },
-        "linked_user_message": "Diese Seite ist mit dem Benutzerkonto {{username}} verknüpft."
+        "linked_user_message": "Diese Seite ist mit dem Benutzerkonto {{username}} verknüpft.",
+        "link_my_account": "Verknüpfe mein Benutzerkonto",
+        "log_in_to_link": "Einloggen zum Verknüpfen",
+        "link_account_header": "Verknüpfe diese Downloadseite mit deinem itch.io-Benutzerkonto",
+        "link_account_description": "Du kannst diese Downloadseite mit deinem itch.io-Benutzerkonto verknüpfen. So verlierst du sie niemals aus den Augen und sie wird zusammen mit den anderen Dingen, die dir gehören, angezeigt.",
+        "must_link_account_description": "Du musst diese Seite mit einem itch.io-Benutzerkonto verknüpfen bevor du etwas herunterladen kannst. Benutzerkonten sind umsonst und helfen dir, alle Spiele, die du gesammelt hast, im Blick zu behalten."
     }
 }
