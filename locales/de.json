@@ -167,7 +167,8 @@
             "optional": "Optional",
             "search": "Suchen",
             "save": "Speichern",
-            "submit": "Absenden"
+            "submit": "Absenden",
+            "form_errors": "Bitte überprüfe die Informationen, die du eingegeben hast"
         },
         "page_number": "Seite {{page_number}}",
         "follow_button": {
@@ -881,7 +882,212 @@
             "payment_summary": "Du hast hierfür am {{payment_date}} eine Summe von {{payment_price}} bezahlt.",
             "payment_summary_with_email": "Du hast hierfür am {{payment_date}} eine Summe von {{payment_price}} bezahlt und dabei die Adresse {{email_address}} angegeben.",
             "percent_off": "{{percent}}% Rabatt",
-            "linked_user_message": "Der Einkauf wurde mit dem Benutzerkonto \"{{username}}\" verknüpft."
+            "linked_user_message": "Der Einkauf wurde mit dem Benutzerkonto {{username}} verknüpft."
+        }
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "Veranstaltet von {{hosts}}",
+            "links": {
+                "community": "Community",
+                "results": "Ergebnisse",
+                "submissions": "Einsendungen",
+                "overview": "Übersicht",
+                "screenshots": "Screenshots",
+                "submission_feed": "Einsendungs-Feed",
+                "edit_jam": "Jam bearbeiten"
+            }
+        },
+        "stats": {
+            "joined": "Beigetreten",
+            "entries": "Einträge",
+            "ratings": "Bewertungen"
+        },
+        "submitter": {
+            "join_jam": "Jam beitreten",
+            "submit_button": "Dein Projekt einreichen",
+            "or_leave_jam": "oder <a>Jam verlassen</a>",
+            "youve_joined": "Du bist diesem Jam beigetreten.",
+            "joined_instructions": "Besuche diese Seite, nachdem der Jam gestartet ist, um dein Projekt einzureichen.",
+            "leave_jam": "Jam verlassen",
+            "submissions_open_from": "Einsendungen sind möglich vom {{start_date}} bis zum {{end_date}}",
+            "jam_is_now_over": "Dieser Jam ist vorbei. Er fand vom {{start_date}} bis zum {{end_date}} statt.",
+            "view_results": "Ergebnisse anzeigen",
+            "view_entries": "{{count}} Eintrag ansehen",
+            "view_entries_plural": "{{count}} Einträge ansehen",
+            "countdown": {
+                "starts_in": "Startet in",
+                "submissions_due_in": "Einsendungen sind einzureichen bis",
+                "voting_ends_in": "Abstimmungen enden in"
+            },
+            "you_can_now_rate_games": "Du kannst die Spiele bewerten, indem du unten auf sie klickst",
+            "submission_is_closed_for_voting": "Einsendungen sind geschlossen und die Abstimmungen sind nun im Gange"
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "Es gibt bisher keine Einsendungen",
+            "there_were_no_submissions": "Es gab keine Einsendungen",
+            "submissions_will_be_available_after_the_jam_has_ended": "Einsendungen werden nach dem Ende das Jams verfügbar sein",
+            "help_submissions_in_need_of_ratings": "Hilf beim Bewerten von Einsendungen mit wenigen Abstimmungen: <a>Einsendungen, die weitere Bewertungen brauchen</a>",
+            "filters": {
+                "all_submissions": "Alle Einsendungen",
+                "browser_playable": "Im Browser spielbar"
+            },
+            "filter": "Filter",
+            "empty_results": "Keine Einsendungen entsprechen deinem Filter",
+            "rated": "Bewertet"
+        },
+        "results": {
+            "results": "Ergebnisse",
+            "submissions_summary": "<s>{{count}} Eintrag</s> wurde vom {{start_date}} bis zum {{end_date}} eingereicht.",
+            "submissions_summary_plural": "<s>{{count}} Beiträge</s>  wurden vom {{start_date}} bis zum {{end_date}} eingereicht.",
+            "votes_cast_count": "<s>{{count}}</s> Vote wurde vom {{vote_start_date}} bis zum {{vote_end_date}} abgegeben.",
+            "votes_cast_count_plural": "<s>{{count}}</s> Votes wurden vom {{vote_start_date}} bis zum {{vote_end_date}} abgegeben.",
+            "ratings_given_count": "<s>{{count}} Bewertung</s> wurde vom {{vote_start_date}} bis zum {{vote_end_date}} abgegeben.",
+            "ratings_given_count_plural": "<s>{{count}} Bewertungen</s> wurden vom {{vote_start_date}} bis zum {{vote_end_date}} abgegeben.",
+            "ratings_given_submissions_count": "<s>{{count}} Bewertung</s> wurde für <s>{{submission_count}} Einsendungen</s> ({{percent}}%) zwischen dem {{vote_start_date}} und dem {{vote_end_date}} abgegeben.",
+            "ratings_given_submissions_count_plural": "<s>{{count}} Bewertungen</s> wurden für <s>{{submission_count}} Einsendungen</s> ({{percent}}%) zwischen dem {{vote_start_date}} und dem {{vote_end_date}} abgegeben.",
+            "average_and_median_results": "Die durchschnittliche Anzahl an Bewertungen pro Spiel lag bei <s>{{average_ratings}}</s> und der Median war bei <s>{{median_ratings}}</s>.",
+            "empty_message": "Die Ergebnisse sind noch nicht verfügbar, schau später noch einmal vorbei",
+            "empty_page_message": "Keine Ergebnisse auf dieser Seite",
+            "no_rankings_available": "Keine Ranglisten verfügbar",
+            "sort_by_criteria": "Nach Kriterien",
+            "sort_overall": "Insgesamt",
+            "submissions": {
+                "by_author": "von {{author}}",
+                "view_submission_page": "Zeige die Einsendungsseite",
+                "ranked": "Rang {{ordinal_rank}}",
+                "ranked_vote_count": "Rang {{ordinal_rank}} mit {{count}} Vote",
+                "ranked_vote_count_plural": "Rang {{ordinal_rank}} mit {{count}} Votes",
+                "ranked_rating_count": "Rang {{ordinal_rank}} mit {{count}} Bewertung",
+                "ranked_rating_count_plural": "Rang {{ordinal_rank}} mit {{count}} Bewertungen",
+                "ranked_criteria": "Rang {{ordinal_rank}} in {{criteria_name}}",
+                "ranked_criteria_vote_count": "Rang {{ordinal_rank}} in {{criteria_name}} mit {{count}} Vote",
+                "ranked_criteria_vote_count_plural": "Rang {{ordinal_rank}} in {{criteria_name}} mit {{count}} Votes",
+                "ranked_criteria_rating_count": "Rang {{ordinal_rank}} in {{criteria_name}} mit {{count}} Bewertung",
+                "ranked_criteria_rating_count_plural": "Rang {{ordinal_rank}} in {{criteria_name}} mit {{count}} Bewertungen",
+                "ranked_score": "Punktzahl: {{score}}"
+            }
+        },
+        "submission": {
+            "results_table_criteria": "Kriterien",
+            "results_table_rank": "Rang",
+            "results_table_votes": "Votes",
+            "results_table_score": "Punktzahl",
+            "results_table_raw_score": "Basispunktzahl",
+            "edit_this_submission_button": "Einsendung bearbeiten",
+            "remove_this_submission_button": "Einsendung entfernen",
+            "a_jam_submission": "Eine Jam-Einsendung",
+            "view_game_page": "Zeige Spielseite",
+            "view_project_page": "Zeige Projektseite",
+            "comments": {
+                "leave_a_comment_header": "Hinterlasse einen Kommentar",
+                "post_comment": "Kommentar senden",
+                "empty_message": "Es gibt bisher keine Kommentare"
+            },
+            "link_to_itchio_page": "{{game_title}}s itch.io-Seite",
+            "downloads": "Downloads",
+            "play_game": "Spiel spielen",
+            "run_project": "Projekt starten",
+            "score_information": "Die Punktzahl wird anhand der Basispunktzahl und der durchschnittlichen Anzahl an Bewertungen pro Spiel im Jam berechnet.",
+            "ranked_from_count_plural": "Rang durch <s>{{count}} Bewertungen</s>.",
+            "ranked_from_count": "Rang durch <s>{{count}} Bewertung</s>.",
+            "results_header": "Ergebnisse",
+            "ranked_with_vote_count": "Rang {{ordinal_rank}} mit {{count}} Vote",
+            "ranked_with_vote_count_plural": "Rang {{ordinal_rank}} mit {{count}} Votes",
+            "submitted_by_contributors": "Eingereicht von {{contributors}}",
+            "time_remaining_before_deadline": "{{time_duration}} bis zur Deadline",
+            "rated_by_people_count_plural": "Bisher von {{count}} Personen bewertet",
+            "rated_by_people_count": "Bisher von {{count}} Person bewertet",
+            "rate_submission": {
+                "vote": "Vote",
+                "private_field": "(privat)",
+                "vote_for_this_submission": "Vote für diese Einsendung",
+                "rate_this_submission": "Bewerte diese Einsendung",
+                "not_open_yet": "Die Einsendephase dieses Jams ist noch nicht beendet. Bewertungen starten am {{start_date}}.",
+                "owner_message": "Dies ist deine Einsendung, du kannst sie nicht selbst bewerten. Andere Personen des Jams hingegen werden sie hier bewerten können.",
+                "unavailable_to_rate": "Du kannst dieses Projekt nicht bewerten, da du selbst noch keinen Eintrag eingesendet hast. Du kannst jedoch unten einen Kommentar hinterlassen.",
+                "sign_up_to_rate": "<a>Logge dich in dein itch.io-Konto ein</a>, um zu bewerten und Kommentare zu hinterlassen.",
+                "sign_up_to_vote": "<a>Logge dich in dein itch.io-Konto ein</a>, um zu voten und Kommentare zu hinterlassen.",
+                "participate_to_rate_message": "Um diese Einsendung bewerten zu können, musst du <a>in deinen itch.io-Konto eingeloggt sein</a> und deinen eigenen Eintrag abgesendet haben. Jeder mit einem Account kann einen Kommentar hinterlassen.",
+                "you_will_be_able_to_rate_if_you_submit": "Du kannst diese Eintrag bewerten, wenn du selbst am Jam teilnimmst.",
+                "other_participants_can_rate": "Andere Teilnehmer des Jams werden deinen Eintrag bewerten können.",
+                "save_vote": "Vote speichern",
+                "save_rating": "Bewertung speichern",
+                "you_havent_rated_this_submission_yet": "Du hast diese Eisendung bisher nicht bewertet.",
+                "you_just_voted": "Du hast abgestimmt.",
+                "you_voted_ago": "Du hast am {{timestamp}} abgestimmt."
+            }
+        },
+        "screenshots": {
+            "empty_message": "Es wurden bisher keine Screenshots hochgeladen",
+            "loading_more": "Lade mehr Screenshots..."
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "Bruttoumsatz",
+            "payments": "Zahlungen",
+            "views": "Ansichten",
+            "downloads": "Downloads",
+            "followers": "Follower",
+            "following": "Verfolgt"
+        },
+        "follow_itchio": "Folge itch.io auf {{twitter}} und {{facebook}}",
+        "page_title": "Ersteller-Dashboard",
+        "header": {
+            "projects_link": "Projekte",
+            "payments_link": "Zahlungen",
+            "analytics_link": "Analysen",
+            "payouts_link": "Auszahlungen",
+            "sales_bundles_link": "Verkäufe & Bundles",
+            "coop_bundles_link": "Koop-Bundles",
+            "game_jams_link": "Game Jams"
+        },
+        "create_new_project_button": "Neues Projekt erstellen",
+        "project_list": {
+            "edit": "Bearbeiten",
+            "analytics": "Analysen",
+            "widget": "Widget",
+            "no_image": "Kein Bild"
+        },
+        "analytics_summary_header": "Zusammenfassung",
+        "intro_text": "Bist du Spieleentwickler? Lade dein erstes Spiel hoch",
+        "not_a_developer_escape": "Nö, bring mich zum Spielefeed",
+        "recently_updated_pages_header": "Kürzlich aktualisierte Seiten",
+        "new_devlog": "Neues Entwicklerlog",
+        "hello": "Hallo!",
+        "dashboard": "Dashboard",
+        "edit_project": {
+            "create_a_new_project_title": "Neues Projekt erstellen",
+            "edit_project_title": "Projekt bearbeiten",
+            "title_field": "Titel",
+            "project_url_field": "Projekt-URL",
+            "save_and_view_button": "Speichern & Seite ansehen",
+            "video_field": "Gameplay-Video oder -trailer",
+            "video_field_description": "Stelle einen Link zu YouTube oder Vimeo zur Verfügung.",
+            "delete_game_button": "Spiel löschen",
+            "short_description_field": "Kurze Beschreibung oder Slogan",
+            "short_description_field_description": "Wird gezeigt, wenn zu deinem Projekt verlinkt wird. Vermeide es, deinen Projekttitel doppelt zu verwenden",
+            "classification_field": "Einordnung",
+            "classification_field_description": "Was wird hochgeladen?",
+            "kind_of_project_field": "Art des Projekts",
+            "release_status_field": "Veröffentlichungsstatus",
+            "details_section_header": "Details",
+            "description_field": "Beschreibung",
+            "custom_noun_field": "Benutzerdefiniertes Nomen",
+            "custom_noun_field_description": "Du kannst ändern, wie itch.io sich auf dein Projekt bezieht, indem du ein benutzerdefiniertes Nomen festlegst.",
+            "instructions_field": "Download- & Installationsanleitung",
+            "default_noun": "Lasse es leer, damit der Standard angezeigt wird: '{{default_noun}}'.",
+            "classification_other": "Sontiges",
+            "types": {
+                "downloadable": "Herunterladbar"
+            },
+            "tip_label": "Hinweis"
+        }
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Deine E-Mail-Adresse ist noch nicht bestätigt"
         }
     }
 }
