@@ -848,6 +848,6 @@
             "return_to_project": "Zurück zum Projekt",
             "discussion_board": "Diskussionsforum"
         },
-        "linked_user_message": "Diese Seite mit mit dem Benutzerkonto {{username}} verknüpft."
+        "linked_user_message": "Diese Seite ist mit dem Benutzerkonto {{username}} verknüpft."
     }
 }
