@@ -388,7 +388,8 @@
             "leave_a_comment": "Leave a comment",
             "click_to_leave_a_comment": "Click to leave a comment...",
             "log_in_to_leave_comment": "<a>Log in with itch.io</a> to leave a comment.",
-            "post_comment": "Post comment"
+            "post_comment": "Post comment",
+            "write_your_comment": "Write your comment…"
         },
         "info_panel": {
             "updated_at": "Updated",
