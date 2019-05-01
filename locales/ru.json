@@ -391,7 +391,8 @@
             "leave_a_comment": "Оставить комментарий",
             "click_to_leave_a_comment": "Нажмите, чтобы оставить комментарий…",
             "log_in_to_leave_comment": "<a>Выполните вход на itch.io</a>, чтобы оставить комментарий.",
-            "post_comment": "Прокомментировать"
+            "post_comment": "Прокомментировать",
+            "write_your_comment": "Оставьте комментарий…"
         },
         "info_panel": {
             "updated_at": "Обновлено",
@@ -548,7 +549,8 @@
             "deleted_account": "Удалённый аккаунт",
             "suspended_account": "Приостановленный аккаунт",
             "pinned_reply": "Закреплённый ответ",
-            "pinned_post": "Закреплённый пост"
+            "pinned_post": "Закреплённый пост",
+            "edited": "(правка)"
         },
         "post_form": {
             "add_profile_image": "Добавить картинку профиля",
@@ -558,7 +560,8 @@
             "subscribe_to_this_topic": "Подписаться на эту тему",
             "subscribe_description": "Получать уведомления о новых ответах в этой теме",
             "tag_header": "Тег",
-            "remove_tag": "Удалить тег"
+            "remove_tag": "Удалить тег",
+            "post_reply": "Ответить"
         },
         "new_topic": {
             "moderator_tools": "Инструменты модератора",
