@@ -388,7 +388,8 @@
             "leave_a_comment": "Deixeu un comentari",
             "click_to_leave_a_comment": "Feu clic per a deixar un comentari...",
             "log_in_to_leave_comment": "<a>Inicieu la sessió a itch.io</a> per a deixar un comentari.",
-            "post_comment": "Publica el comentari"
+            "post_comment": "Publica el comentari",
+            "write_your_comment": "Escriviu el comentari…"
         },
         "info_panel": {
             "updated_at": "Actualitzat",
