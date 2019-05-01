@@ -543,7 +543,8 @@
             "deleted_account": "Deleted account",
             "suspended_account": "Suspended account",
             "pinned_reply": "Pinned Reply",
-            "pinned_post": "Pinned Post"
+            "pinned_post": "Pinned Post",
+            "edited": "(edited)"
         },
         "post_form": {
             "add_profile_image": "Add profile image",
@@ -553,7 +554,8 @@
             "subscribe_to_this_topic": "Subscribe to this topic",
             "subscribe_description": "Get notifications of new replies to the topic",
             "tag_header": "Tag",
-            "remove_tag": "Remove tag"
+            "remove_tag": "Remove tag",
+            "post_reply": "Post reply"
         },
         "new_topic": {
             "moderator_tools": "Moderator tools",
