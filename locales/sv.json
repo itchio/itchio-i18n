@@ -36,7 +36,7 @@
             "game_assets": "Spelresurser",
             "fun_games": "Roliga spel",
             "games": "Spel",
-            "feed_unseen_count": "{{count}} nytt",
+            "feed_unseen_count": "{{count}} ny",
             "feed_unseen_count_plural": "{{count}} nya",
             "feed": "Flöde"
         },
@@ -531,7 +531,7 @@
             "edits_count": "({{count}} ändring)",
             "reply": "Svara",
             "like": "Gilla",
-            "edit": "Ändra",
+            "edit": "Redigera",
             "delete_topic": "Ta bort tema",
             "delete": "Ta bort",
             "report": "Rapportera",
@@ -587,7 +587,7 @@
             "rules_header": "Regler",
             "recent_posts_header": "Nya inlägg",
             "list_header_last_topic": "Sista inlägget",
-            "new_flag": "Nytt",
+            "new_flag": "Ny",
             "archived_flag": "Arkiverat",
             "by_topic_author": "av {{username}}"
         },
@@ -598,7 +598,7 @@
             "replies_count": "<s>{{count}}</s> svar",
             "replies_count_plural": "<s>{{count}}</s> svar",
             "started_by_author": "startat av {{topic_author}}",
-            "new_flag": "Nytt",
+            "new_flag": "Ny",
             "sticky_flag": "Längst upp",
             "locked_flag": "Låst",
             "list_header_topic_title": "Tema",
@@ -650,7 +650,7 @@
         "page_title": "{{collection_title}} - En samling av {{author}}",
         "remove_item_button": "Ta bort...",
         "add_a_blurb": "Lägg till reklamtext",
-        "edit_blurb": "Editera reklamtext",
+        "edit_blurb": "Redigera reklamtext",
         "blurb_author_says": "{{author}} säger",
         "remove_confirm": "Är du säker på att du vill ta bort detta från samlingen"
     },
@@ -1175,7 +1175,7 @@
             "screenshots_header": "Skärmdumpar"
         },
         "project_header": {
-            "edit_project": "Redigera projekt",
+            "edit_project": "Redigera",
             "devlog": "Utvecklarblogg",
             "metadata": "Metadata",
             "analytics": "Analys",

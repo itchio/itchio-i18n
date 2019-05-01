@@ -209,7 +209,13 @@
             "indie_game_store": "Магазин інді-ігор",
             "game_development": "Розробка ігор",
             "comics": "Комікси",
-            "games": "Ігри"
+            "games": "Ігри",
+            "notifications_count_0": "{{count}} сповіщення",
+            "notifications_count_1": "{{count}} сповіщення",
+            "notifications_count_2": "{{count}} сповіщень",
+            "feed_unseen_count_0": "{{count}} нова",
+            "feed_unseen_count_1": "{{count}} нові",
+            "feed_unseen_count_2": "{{count}} нових"
         },
         "user_menu": {
             "explore": "Досліджуй",
@@ -369,7 +375,10 @@
         "creators": "Творці:",
         "view_all_tags": "Переглянути всі теги",
         "browse_all_games": "Переглянути всі ігри",
-        "search_results_for_query": "Результати пошуку за '{{query}}'"
+        "search_results_for_query": "Результати пошуку за '{{query}}'",
+        "published_count_0": "{{count}} проект",
+        "published_count_1": "{{count}} проекти",
+        "published_count_2": "{{count}} проектів"
     },
     "app": {
         "open_source": "Відкритий код",
@@ -534,7 +543,10 @@
             "see_everything": "Дивитись все",
             "powered_by": "<s>Працює на</s>{{itchio_logo}}",
             "app_learn_more": "<s>Свіжа новина!</s> Спробуй наш застосунок itch.io для завантаження на управління своєю бібліотекою. <a>Дізнатись більше</a>"
-        }
+        },
+        "community_posts_count_0": "{{count}} пост",
+        "community_posts_count_1": "{{count}} пости",
+        "community_posts_count_2": "{{count}} постів"
     },
     "community": {
         "topic": {
@@ -582,7 +594,10 @@
             "deleted_account": "Видалений акаунт",
             "suspended_account": "Призупинений акаунт",
             "pinned_reply": "Закріплене повідомлення",
-            "pinned_post": "Закріплений пост"
+            "pinned_post": "Закріплений пост",
+            "edits_count_0": "{{count}} редагування)",
+            "edits_count_1": "{{count}} редагування)",
+            "edits_count_2": "{{count}} редагувань)"
         },
         "post_form": {
             "add_profile_image": "Додати зображення профілю",
@@ -627,7 +642,10 @@
             "list_header_last_topic": "Остання тема",
             "new_flag": "Нова",
             "archived_flag": "Архівована",
-            "by_topic_author": "від {{username}}"
+            "by_topic_author": "від {{username}}",
+            "topics_count_0": "{{count}} тема",
+            "topics_count_1": "{{count}} теми",
+            "topics_count_2": "{{count}} тем"
         },
         "topic_list": {
             "no_posts_yet": "Пости ще відсутні",
@@ -636,7 +654,13 @@
             "sticky_flag": "Закріплена",
             "locked_flag": "Замкнена",
             "list_header_topic_title": "Тема",
-            "list_header_last_post": "Останній пост"
+            "list_header_last_post": "Останній пост",
+            "views_count_0": "<s>{{count}}</s> перегляд",
+            "views_count_1": "<s>{{count}}</s> перегляди",
+            "views_count_2": "<s>{{count}}</s> переглядів",
+            "replies_count_0": "<s>{{count}}</s> повідомлення",
+            "replies_count_1": "<s>{{count}}</s> повідомлення",
+            "replies_count_2": "<s>{{count}}</s> повідомлень"
         }
     },
     "browse": {
@@ -679,7 +703,10 @@
             "toggle_more_options": "Тумблер кількості налаштувань",
             "clear_filter": "Прибрати фільтр"
         },
-        "filter_everything_else": "Все інше"
+        "filter_everything_else": "Все інше",
+        "results_count_0": "{{count}} результат",
+        "results_count_1": "{{count}} результати",
+        "results_count_2": "{{count}} результатів"
     },
     "buy_form_popup": {
         "author_line": "<1>від</1> {{author}}",
@@ -897,7 +924,10 @@
                 "voting_ends_in": "Голосування завершується за"
             },
             "you_can_now_rate_games": "Наразі ви можете оцінити ігри, клікаючи на них",
-            "submission_is_closed_for_voting": "Прийом проектів завершено та триває голосування"
+            "submission_is_closed_for_voting": "Прийом проектів завершено та триває голосування",
+            "view_entries_0": "Переглянути {{count}} роботу",
+            "view_entries_1": "Переглянути {{count}} роботи",
+            "view_entries_2": "Переглянути {{count}} робіт"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Заявлені проекти ще відсутні",
@@ -926,7 +956,19 @@
                 "ranked": "{{ordinal_rank}} місце",
                 "ranked_criteria": "{{ordinal_rank}} місце за {{criteria_name}}",
                 "ranked_score": "Кількість балів: {{score}}"
-            }
+            },
+            "submissions_summary_0": "<s>{{count}}робота</s> була подана з {{start_date}} по {{end_date}}.",
+            "submissions_summary_1": "<s>{{count}}роботи</s> були подані з {{start_date}} по {{end_date}}.",
+            "submissions_summary_2": "<s>{{count}}робіт</s> було подано з {{start_date}} по {{end_date}}.",
+            "votes_cast_count_0": "<s>{{count}}</s> голос було віддано з {{vote_start_date}} по {{vote_end_date}}.",
+            "votes_cast_count_1": "<s>{{count}}</s> голоси було віддано з {{vote_start_date}} по {{vote_end_date}}.",
+            "votes_cast_count_2": "<s>{{count}}</s> голосів було віддано з {{vote_start_date}} по {{vote_end_date}}.",
+            "ratings_given_count_0": "<s>{{count}} оцінку</s> було віддано з {{vote_start_date}} по {{vote_end_date}}.",
+            "ratings_given_count_1": "<s>{{count}} оцінки</s> було віддано з {{vote_start_date}} по {{vote_end_date}}.",
+            "ratings_given_count_2": "<s>{{count}} оцінок</s> було віддано з {{vote_start_date}} по {{vote_end_date}}.",
+            "ratings_given_submissions_count_0": "<s>{{count}} оцінку</s> було віддано за <s>{{submission_count}} робіт</s>({{percent}}%)  з {{vote_start_date}} по {{vote_end_date}}.",
+            "ratings_given_submissions_count_1": "<s>{{count}} оцінки</s> було віддано за <s>{{submission_count}} робіт</s>({{percent}}%)  з {{vote_start_date}} по {{vote_end_date}}.",
+            "ratings_given_submissions_count_2": "<s>{{count}} оцінок</s> було віддано за <s>{{submission_count}} робіт</s>({{percent}}%)  з {{vote_start_date}} по {{vote_end_date}}."
         },
         "submission": {
             "results_table_criteria": "Критерій",
@@ -971,7 +1013,10 @@
                 "you_havent_rated_this_submission_yet": "Ви ще не оцінили цей проект.",
                 "you_just_voted": "Ви щойно проголосували.",
                 "you_voted_ago": "Ви проголосували о {{timestamp}}."
-            }
+            },
+            "rated_by_people_count_0": "Наразі оцінила {{count}} персона",
+            "rated_by_people_count_1": "Наразі оцінили {{count}} персони",
+            "rated_by_people_count_2": "Наразі оцінили {{count}} персон"
         },
         "screenshots": {
             "empty_message": "Ще не вивантажено жодного знятка",
@@ -990,7 +1035,196 @@
         "follow_itchio": "Підпишіться на itch.io в {{twitter}} та {{facebook}}",
         "header": {
             "projects_link": "Проекти",
-            "payments_link": "Платежі"
+            "payments_link": "Платежі",
+            "analytics_link": "Аналітика",
+            "payouts_link": "Виплати",
+            "sales_bundles_link": "Знижки і комплекти",
+            "coop_bundles_link": "Кооперативні комплекти",
+            "game_jams_link": "Ігроджеми"
+        },
+        "create_new_project_button": "Створити новий проект",
+        "project_list": {
+            "edit": "Змінити",
+            "analytics": "Аналітика",
+            "widget": "Віджет",
+            "no_image": "Без зображення"
+        },
+        "analytics_summary_header": "Узагальнення",
+        "intro_text": "Ви розробник? Вивантажте свою першу гру",
+        "not_a_developer_escape": "Нє, одразу до переліку ігор",
+        "recently_updated_pages_header": "Нещодавно оновлені сторінки",
+        "new_devlog": "Новий журнал розробки",
+        "hello": "Привіт!",
+        "edit_project": {
+            "create_a_new_project_title": "Створити новий проект",
+            "edit_project_title": "Змінити проект",
+            "title_field": "Назва",
+            "project_url_field": "URL проекту",
+            "save_and_view_button": "Зберегти і переглянути сторінку",
+            "video_field": "Відео ігроладу чи трейлер",
+            "video_field_description": "Вкажіть посилання на Ютуб чи Вімео.",
+            "delete_game_button": "Видалити гру",
+            "classification_field": "Класифікація",
+            "classification_field_description": "Що ви вивантажуєте?",
+            "kind_of_project_field": "Вид проекту",
+            "release_status_field": "Релізний статус",
+            "details_section_header": "Подробиці",
+            "description_field": "Опис",
+            "instructions_field": "Інструкції з завантаження та встановлення",
+            "default_noun": "Залиште порожнім для використання стандартного: '{{default_noun}}'.",
+            "classification_other": "Інше",
+            "types": {
+                "downloadable": "Файл завантаження"
+            },
+            "tip_label": "Підказка",
+            "project_type_help": "Ви можете додавати будь-які файли завантаження для кожного наступного типу",
+            "instructions_field_info2": "Якщо гра потребує попереднього встановлення бібліотек чи програм, ви маєте долучити цю інформацію",
+            "instructions_field_info1": "Цей текст буде показаний коли користувач буде завантажувати вашу гру у браузері. Долучіть будь-яку інформацію про встановлення та запуск того, що вони завантажуть.",
+            "community_field": "Спільнота",
+            "community_disabled": "Вимкнено",
+            "community_comments": "Коментарі",
+            "community_discussion_board": "Форум",
+            "pricing_header": "Ціни",
+            "uploads_header": "Вивантаження",
+            "upload_files_button": "Вивантажити файли",
+            "add_external_file_button": "Додати зовнішній файл",
+            "file_size_limit": "Обмеження розміру файлу:{{filesize}}. Потрібно більше? <a>Зв'яжіться з нами</a>",
+            "content_guidelines_header": "Переконайтесь, що всі можуть знайти вашу сторінку",
+            "content_guidelines_info": "Перегляньте наші <a>рекомендації щодо якості</a> перед публікацією проекту",
+            "payment_warning_header": "Ви не налаштували платежі",
+            "payment_warning_info": "Якщо ви встановите мінімальну ціну вище 0, ніхто не зможе завантажити ваш проект.<a>Змінити акаунт</a>",
+            "cover_uploader": {
+                "confirm_remove": "Впевнені, що бажаєте прибрати обкладинку?",
+                "cover_description": "Обкладинка використовується, коли itch.io посилається на ваш проект в іншій частині сайту. Розмір (Мінімальний: 315x250, Рекомендований: 630x500)",
+                "replace_image": "Замінити обкладинку",
+                "remove_image": "Прибрати зображення",
+                "upload_button": "Вивантажити обкладинку"
+            },
+            "errors": {
+                "invalid_file": "З обраним файлом є проблема",
+                "invalid_image": "Просимо змінити зображення чи спробувати інше"
+            },
+            "error_dialog": {
+                "confirm_button": "Зрозуміло",
+                "title": "Зі збереженням вашого проекту виникла проблема"
+            },
+            "visibility_access_header": "Видимість та доступ",
+            "visibility_access_info": "Скористайтесь чернеткою для перегляду вашої сторінки перед публікацією. <a>Дізнатись більше про режими доступу</a>",
+            "access_control": {
+                "disable_downloads_option": "Вимкнути нові завантаження та придбання",
+                "unlisted_option": "Не відображається в пошуку",
+                "allow_password_option": "Вимагати пароль для перегляду сторінки",
+                "password_label": "Пароль",
+                "public_access_settings": "Налаштування публічного доступу",
+                "restricted_access_settings": "Обмежені налаштування доступу",
+                "access_settings": "Налаштування доступу"
+            },
+            "embed_options": {
+                "width": "Ширина",
+                "height": "Висота",
+                "mobile_friendly_option": "Дружній до мобільних",
+                "mobile_friendly_info": "Ваш проект здатен працювати на мобільних платформах (менша роздільність та підтримка тачскріну)",
+                "orientation": "Орієнтація",
+                "fullscreen_button_option": "Кнопка повноекранного режиму",
+                "enable_scrollbars_option": "Ввімкнути скролбари",
+                "embed_in_page_option": "Вбудовано в сторінку",
+                "launch_fullscreen_option": "Клікніть для запуску на весь екран"
+            },
+            "details_genre_header": "Жанр",
+            "details_tags_header": "Теги",
+            "details_genre_info": "Оберіть категорію, що найкраще характеризує вашу гру. Ви можете обрати додаткові жанри за допомогою тегів",
+            "pricing": {
+                "free_or_donate": "{{money}} або пожертва",
+                "paid": "Платно",
+                "no_payments": "Без платежів",
+                "embed_pricing_info": "Встановлення мінімальної ціни обмежить доступ лише до файлів завантаження. Вбудований контент залишиться доступним.",
+                "minimum_price_label": "Мінімальна ціна",
+                "minimum_price_info": "Мінімальна ціна, яку необхідно сплатити для доступу до завантаження гри",
+                "free_price_info": "Зацікавленим у вашій грі буде запропоновано зробити пожертву перед отриманням доступу. Вони зможуть безкоштовно перейти до завантаження.",
+                "default_donation_amount_info": "Стандартний розмір пожертви",
+                "payment_disabled_info": "Файли проекту будуть у вільному доступі, пожертви зробити неможливо",
+                "suggested_donation_label": "Пропонований розмір пожертви",
+                "suggested_price_label": "Пропонована ціна",
+                "default_price_info": "Стандартна ціна, вказана коли хтось намагається придбати ваш проект",
+                "price_too_low_error": "Прошу обрати суму більшу за ціну проекту"
+            },
+            "uploads": {
+                "delete_file_button": "Видалити файл",
+                "play_in_browser_toggle": "Файл буде виконано в браузері",
+                "hide_toggle": "Сховати цей файл та заблокувати його завантаження",
+                "demo_toggle": "Цей файл - демо версія та може завантажуватись безкоштовно",
+                "set_price_toggle": "Встановіть іншу ціну для цього файлу"
+            },
+            "add_screenshots": "Додати знятки",
+            "screenshots_header": "Знятки"
+        },
+        "project_header": {
+            "edit_project": "Редагувати проект",
+            "devlog": "Журнал розробки",
+            "metadata": "Метадані",
+            "analytics": "Аналітика",
+            "edit_comments": "Редагувати коментарі",
+            "discussion_board": "Форум",
+            "rewards": "Винагороди",
+            "admins": "Адміни",
+            "more": "Ще"
+        }
+    },
+    "add_to_collection": {
+        "dialog_title": "Додати {{project_title}} до колекції",
+        "already_in_collections": "Цей проект вже перебуває в наступних колекціях:",
+        "add_to_existing": "Додати до існуючої колекції",
+        "private_collection_title": "[Особиста]{{title}}",
+        "default_title": "Колекція {{username}}",
+        "add_button": "Додати до колекції",
+        "manage_collections_link": "Керування колекціями",
+        "private_collection_option": "Особиста колекція — тільки ви можете бачити вміст",
+        "about_this_project_label": "Про цей проект"
+    },
+    "game_grid": {
+        "in_bundle": "В комплекті"
+    },
+    "jams": {
+        "jams_created_header": "Джеми створені вами",
+        "jams_joined_header": "Джеми в яких ви брали участь",
+        "page_title": "Ігроджеми на itch.io",
+        "page_summary": "itch.io чудове місце для організації та участі в ігроджемах. Кожен може  миттєво створити та організувати джем.",
+        "host_a_jam_button": "Організувати джем",
+        "jam_calendar_header": "Джем-календар",
+        "host_your_own_jam_button": "Організуйте свій власний джем",
+        "host_or_explore_links": "<1>Організуйте свій власний джем</1>, або <2>Перегляньте існуючі джеми</2>",
+        "dont_see_something_you_like_header": "Не бачите цікавого для вас?",
+        "brose_featured_jams": "Обрані джеми",
+        "browse_top_past_jams": "Найкраші минулі джеми",
+        "browse_in_progress": "Тривають",
+        "count_joined": "{{count}} доєднались"
+    },
+    "feed": {
+        "filter_own_activity_tab": "Моя власна активність",
+        "filter_everything_tab": "Все",
+        "filter_new_projects_tab": "Нові проекти",
+        "filter_collections_tab": "Колекції",
+        "filter_devlogs_tab": "Журнали розробки",
+        "filter_ratings_tab": "Оцінки",
+        "latest_featured_games_header": "Найсвіжіші обрані ігри",
+        "featured_tags_header": "Обрані теги",
+        "to_rate": {
+            "projects_to_rate_header": "Проекти для оцінки",
+            "to_rate_description": "Ось кілька проектів з якими ви взаємодіяли, проте не оцінили."
+        },
+        "to_follow": {
+            "to_follow_description": "Ось кілька акаунтів на яких вам було б цікаво підписатись."
+        },
+        "my_feed_tab": "Моя стрічка",
+        "global_feed_tab": "Глобальна стрічка",
+        "manage_my_games_button": "Керування моїми іграми",
+        "upload_a_game_button": "Вивантажити гру",
+        "event_filter_label": "Фільтр:",
+        "email_warning": {
+            "verify_your_email_address": "Підтвердіть свій mail"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Додайте зображення профілю"
         }
     }
 }
