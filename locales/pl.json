@@ -417,7 +417,8 @@
             "subscribe_to_this_topic": "Subskrybuj ten temat",
             "subscribe_description": "Otrzymuj powiadomienia dla nowych odpowiedzi na ten temat",
             "tag_header": "Tag",
-            "remove_tag": "Usuń tag"
+            "remove_tag": "Usuń tag",
+            "post_reply": "Odpowiedz"
         },
         "new_topic": {
             "moderator_tools": "Narzędzia moderatorskie",
