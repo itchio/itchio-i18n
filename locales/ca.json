@@ -543,7 +543,8 @@
             "deleted_account": "Compte suprimit",
             "suspended_account": "Compte suspès",
             "pinned_reply": "Resposta fixada",
-            "pinned_post": "Missatge fixat"
+            "pinned_post": "Missatge fixat",
+            "edited": "(editat)"
         },
         "post_form": {
             "add_profile_image": "Afegeix una imatge de perfil",
@@ -553,7 +554,8 @@
             "subscribe_to_this_topic": "Subscriu-me a aquest tema",
             "subscribe_description": "Obtingueu notificacions de noves respostes en aquest tema",
             "tag_header": "Etiqueta",
-            "remove_tag": "Suprimeix l'etiqueta"
+            "remove_tag": "Suprimeix l'etiqueta",
+            "post_reply": "Publica una resposta"
         },
         "new_topic": {
             "moderator_tools": "Eines de moderació",
