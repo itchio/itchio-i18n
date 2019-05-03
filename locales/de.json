@@ -1094,7 +1094,81 @@
             "upload_files_button": "Dateien hochladen",
             "add_external_file_button": "Externe Datei hinzufügen",
             "project_type_help": "Du kannst für jede der oben genannten Arten weitere herunterladbare Dateien hinzufügen",
-            "description_field_description": "Dies wird den Inhalt deiner Spielseite ausmachen"
+            "description_field_description": "Dies wird den Inhalt deiner Spieleseite ausmachen.",
+            "instructions_field_info2": "Wenn dein Spiel andere Sammlungen oder Programme benötigt, solltest du diese Information ebenfalls erwähnen",
+            "instructions_field_info1": "Dieser Text wird Benutzern angezeigt, die dein Spiel über einen Browser herunterladen. Gib alle Informationen, wie man das Spiel installiert und es startet, hier an.",
+            "community_field": "Community",
+            "file_size_limit": "Dateigrößenbegrenzung: {{filesize}}. <a>Kontaktiere uns</a>, wenn du mehr Speicher benötigst",
+            "content_guidelines_header": "Stelle sicher, dass jeder deine Seite finden kann",
+            "content_guidelines_info": "Lies unsere <a>Qualitätsrichtlinien</a>, bevor du dein Projekt veröffentlichst",
+            "payment_warning_header": "Du hast keine Zahlungsmöglichkeit eingestellt",
+            "payment_warning_info": "Wenn du einen Mindestpreis über 0 einstellst, wird niemand dein Projekt herunterladen können. <a>Einstellungen ändern</a>",
+            "cover_uploader": {
+                "confirm_remove": "Bist du sicher, dass du das Coverbild entfernen willst?",
+                "cover_description": "Das Coverbild wird immer dann benutzt, wenn itch.io von einer anderen Stelle der Seite auf dein Projekt verlinkt. Notwendig (Minimum: 315x250, Empfohlen: 630x500)",
+                "replace_image": "Coverbild ersetzen",
+                "remove_image": "Bild entfernen",
+                "upload_button": "Coverbild hochladen"
+            },
+            "errors": {
+                "invalid_file": "Es gibt ein Problem mit der Datei, die du ausgewählt hast",
+                "invalid_image": "Bitte editiere dein Bild oder wähle ein anderes"
+            },
+            "error_dialog": {
+                "confirm_button": "Erhalten",
+                "title": "Es gab beim Speichern deines Projekts ein Problem"
+            },
+            "visibility_access_header": "Sicht- & Erreichbarkeit",
+            "visibility_access_info": "Nutze die Vorschau, um dir deine Seite anzusehen, bevor du sie veröffentlichst. <a>Erfahre mehr über die Zugangsmodi</a>",
+            "access_control": {
+                "disable_downloads_option": "Deaktiviere neue Downloads & Käufe",
+                "unlisted_option": "Nicht in der Suche angezeigt",
+                "allow_password_option": "Erstelle ein Passwort, um die Seite anzusehen",
+                "password_label": "Passwort",
+                "public_access_settings": "Öffentliche Zugangseinstellungen",
+                "restricted_access_settings": "Eingeschränkte Zugangseinstellungen",
+                "access_settings": "Zugangseinstellungen"
+            },
+            "embed_options_header": "Einbettungsoptionen",
+            "embed_options": {
+                "viewport_dimensions": "Maße des Ansichtsfensters",
+                "width": "Breite",
+                "height": "Höhe",
+                "frame_options": "Frame-Optionen",
+                "mobile_friendly_option": "Mobilfreundlich",
+                "mobile_friendly_info": "Dein Projekt läuft auch auf Mobiltelefonen (kleinere Auflösung und Touch-Support)",
+                "orientation": "Orientierung",
+                "fullscreen_button_option": "Vollbild-Button",
+                "enable_scrollbars_option": "Scrollbar aktivieren",
+                "embed_in_page_option": "In Seite eingebettet",
+                "launch_fullscreen_option": "Klicke hier, um im Vollbildschirm zu starten"
+            },
+            "details_genre_header": "Genre",
+            "details_tags_header": "Tags",
+            "details_genre_info": "Wähle die Kategorie, die ein Spiel am besten beschreibt. Du kannst weitere Genres unten mit den Tags wählen",
+            "pricing": {
+                "free_or_donate": "{{money}} oder spenden",
+                "paid": "Bezahlt",
+                "no_payments": "Keine Zahlungen",
+                "embed_pricing_info": "Ein Mindestpreis wird nur den Zugang zu herunterladbaren Dateien beeinflussen. Eingebetteter Inhalt ist frei verfügbar.",
+                "minimum_price_label": "Mindestpreis",
+                "minimum_price_info": "Mindestpreis, der bezahlt werden muss, um Zugang zum Spiel zu erhalten",
+                "free_price_info": "Jeder, der ein Spiel herunterlädt, wird nach einer Spende gefragt, bevor er Zugang erhält. Sie können es aber übersprungen, um es kostenlos herunterzuladen.",
+                "default_donation_amount_info": "Vorgegebene Spendensumme",
+                "payment_disabled_info": "Die Projektdateien werden kostenlos verfügbar und Spenden nicht möglich sein",
+                "suggest_default_price_label": "Einen alternativen Standardpreis vorschlagen",
+                "suggested_donation_label": "Vorgeschlagene Spende",
+                "suggested_price_label": "Vorgeschlagener Preis",
+                "default_price_info": "Vorgegebener Preis, der angezeigt wird, wenn jemand dein Spiel kaufen möchte",
+                "price_too_low_error": "Wähle bitte einen Preis, der höher ist als der Projektpreis"
+            },
+            "uploads": {
+                "delete_file_button": "Datei löschen",
+                "play_in_browser_toggle": "Diese Datei wird im Browser gespielt werden",
+                "hide_toggle": "Verstecke diese Datei und verhindere, dass sie heruntergeladen wird",
+                "demo_toggle": "Diese Datei ist eine Demo und kann kostenlos heruntergeladen werden",
+                "preorder_toggle": "Diese Datei ist ein Vorbesteller-Platzhalter"
+            }
         }
     },
     "nags": {
