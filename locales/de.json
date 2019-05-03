@@ -389,7 +389,7 @@
             "click_to_leave_a_comment": "Klicke, um einen Kommentar zu hinterlassen...",
             "log_in_to_leave_comment": "<a>Melde dich auf itch.io an</a>, um einen Kommentar zu hinterlassen.",
             "post_comment": "Kommentar senden",
-            "write_your_comment": "Schreibe deinen Kommentar..."
+            "write_your_comment": "Schreibe einen Kommentar…"
         },
         "info_panel": {
             "publisher": "Ersteller",
@@ -543,7 +543,8 @@
             "deleted_account": "Gelöschter Account",
             "suspended_account": "Geperrter Account",
             "pinned_reply": "Angepinnte Antwort",
-            "pinned_post": "Angepinnter Post"
+            "pinned_post": "Angepinnter Post",
+            "edited": "(bearbeitet)"
         },
         "post_form": {
             "add_profile_image": "Profilbild hinzufügen",
@@ -553,7 +554,8 @@
             "subscribe_to_this_topic": "Folge diesem Thema",
             "subscribe_description": "Erhalte Benachrichtigungen bei neuen Antworten in diesem Thema",
             "tag_header": "Tag",
-            "remove_tag": "Tag entfernen"
+            "remove_tag": "Tag entfernen",
+            "post_reply": "Antwort abschicken"
         },
         "new_topic": {
             "moderator_tools": "Moderator-Werkzeuge",
