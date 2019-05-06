@@ -123,6 +123,9 @@
         "tennis": "Tennis",
         "tetris": "Tetris",
         "text-based": "Textbasiert",
-        "third-person": "Third Person"
+        "third-person": "Third Person",
+        "tilemap": "Tilemap-basierende Tools",
+        "time-travel": "Zeitreise",
+        "turn-based": "Zugbasiert"
     }
 }
