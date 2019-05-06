@@ -94,6 +94,14 @@
         "pirates": "Piraten",
         "pixel-art": "Pixel-Art",
         "platformer": "Plattformer",
-        "post-apocalyptic": "Postapokalyptisch"
+        "post-apocalyptic": "Postapokalyptisch",
+        "puzzle": "Puzzle",
+        "puzzle-platformer": "Puzzle-Plattformer",
+        "racing": "Rennen",
+        "real-time": "Echtzeit",
+        "real-time-strategy": "Echtzeitstrategie",
+        "remake": "Remake",
+        "retro": "Retro",
+        "rhythm": "Rhytmus"
     }
 }
