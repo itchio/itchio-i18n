@@ -112,6 +112,17 @@
         "shadows": "Schatten",
         "short": "Kurz",
         "simulation": "Simulation",
-        "singleplayer": "Einzelspieler"
+        "singleplayer": "Einzelspieler",
+        "skating": "Skating",
+        "soccer": "Fußball",
+        "split-screen": "Splitscreen",
+        "sports": "Sport",
+        "strategy": "Strategie",
+        "superhero": "Superheld",
+        "team-based": "Teambasiert",
+        "tennis": "Tennis",
+        "tetris": "Tetris",
+        "text-based": "Textbasiert",
+        "third-person": "Dritte Person"
     }
 }
