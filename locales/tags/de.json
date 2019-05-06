@@ -79,6 +79,12 @@
         "math": "Mathematik",
         "monsters": "Monster",
         "mountains": "Berge",
-        "multiplayer": "Mehrspieler"
+        "multiplayer": "Mehrspieler",
+        "music": "Musik",
+        "music-production": "Musikproduktion",
+        "mystery": "Mystery",
+        "neon": "Neon",
+        "ninja": "Ninja",
+        "open-world": "Offene Welt"
     }
 }
