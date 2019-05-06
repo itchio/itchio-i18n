@@ -71,6 +71,14 @@
         "isometric": "Isometrisch",
         "level-editor": "Leveleditor",
         "life-simulation": "Lebenssimulation",
-        "local-multiplayer": "Lokaler Mehrspieler"
+        "local-multiplayer": "Lokaler Mehrspieler",
+        "low-poly": "Low-Poly",
+        "magic": "Magisch",
+        "male-protagonist": "Männlicher Protagonist",
+        "management": "Management",
+        "math": "Mathematik",
+        "monsters": "Monster",
+        "mountains": "Berge",
+        "multiplayer": "Multiplayer"
     }
 }
