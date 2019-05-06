@@ -8,6 +8,9 @@
         "beat-em-up": "Beat 'em up",
         "boring": "Langweilig",
         "boss-battle": "Bosskämpfe",
-        "breakout": "Ausbruch"
+        "breakout": "Ausbruch",
+        "2d": "2D",
+        "3d": "3D",
+        "3d-platformer": "3D-Platformer"
     }
 }
