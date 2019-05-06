@@ -127,6 +127,6 @@
         "tilemap": "Tilemap-basierende Tools",
         "time-travel": "Zeitreise",
         "turn-based": "Rundenbasiert",
-        "turn-based-strategy": "Zugbasierte Strategie"
+        "turn-based-strategy": "Rundenbasierte Strategie"
     }
 }
