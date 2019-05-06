@@ -11,6 +11,10 @@
         "breakout": "Ausbruch",
         "2d": "2D",
         "3d": "3D",
-        "3d-platformer": "3D-Plattformer"
+        "3d-platformer": "3D-Plattformer",
+        "8-bit": "8-Bit",
+        "abstract": "Abstrakt",
+        "action": "Action",
+        "action-adventure": "Action-Abenteuer"
     }
 }
