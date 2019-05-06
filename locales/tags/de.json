@@ -127,6 +127,16 @@
         "tilemap": "Tilemap-basierende Tools",
         "time-travel": "Zeitreise",
         "turn-based": "Rundenbasiert",
-        "turn-based-strategy": "Rundenbasierte Strategie"
+        "turn-based-strategy": "Rundenbasierte Strategie",
+        "tycoon": "Tycoon",
+        "vampire": "Vampir",
+        "virtual-pet": "Virtuelles Haustier",
+        "virtual-reality": "Virtuelle Realität (VR)",
+        "visualization": "Visualisierung",
+        "western": "Western",
+        "world-war-i": "Erster Weltkrieg",
+        "world-war-ii": "Zweiter Weltkrieg",
+        "zero-gravity": "Null Schwerkraft",
+        "zombies": "Zombies"
     }
 }
