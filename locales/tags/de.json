@@ -1,1 +1,13 @@
-{}
+{
+    "tags": {
+        "4x": "4X",
+        "action-rpg": "Action-RPG",
+        "altgame": "Altgame",
+        "art-book": "Art Book",
+        "atmospheric": "Atmosphärisch",
+        "beat-em-up": "Beat 'em up",
+        "boring": "Langweilig",
+        "boss-battle": "Bosskämpfe",
+        "breakout": "Ausbruch"
+    }
+}
