@@ -102,6 +102,16 @@
         "real-time-strategy": "Echtzeitstrategie",
         "remake": "Remake",
         "retro": "Retro",
-        "rhythm": "Rhythmus"
+        "rhythm": "Rhythmus",
+        "robots": "Roboter",
+        "rotation": "Rotation",
+        "rpg": "Rollenspiel",
+        "runner": "Runner",
+        "sandbox": "Sandbox",
+        "science-fiction": "Sci-fi",
+        "shadows": "Schatten",
+        "short": "Kurz",
+        "simulation": "Simulation",
+        "singleplayer": "Singleplayer"
     }
 }
