@@ -16,6 +16,9 @@
         "abstract": "Abstrakt",
         "action": "Action",
         "action-adventure": "Action-Adventure",
-        "adventure": "Abenteuer"
+        "adventure": "Adventure",
+        "aliens": "Außerirdische",
+        "alternate-history": "Alternativer Geschichtsverlauf",
+        "archery": "Bogenschießen"
     }
 }
