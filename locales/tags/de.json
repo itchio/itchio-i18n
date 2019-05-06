@@ -15,6 +15,7 @@
         "8-bit": "8-Bit",
         "abstract": "Abstrakt",
         "action": "Action",
-        "action-adventure": "Action-Adventure"
+        "action-adventure": "Action-Adventure",
+        "adventure": "Abenteuer"
     }
 }
