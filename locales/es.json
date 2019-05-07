@@ -233,6 +233,9 @@
     "community": {
         "post_form": {
             "post_reply": "Publicar respuesta"
+        },
+        "new_topic": {
+            "moderator_tools": "Herramientas de moderador"
         }
     }
 }
