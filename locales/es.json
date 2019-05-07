@@ -229,5 +229,10 @@
         "view_all_tags": "Ver todas las etiquetas",
         "browse_all_games": "Ver todos los juegos",
         "search_results_for_query": "Resultados de la búsqueda para '{{query}}'"
+    },
+    "community": {
+        "post_form": {
+            "post_reply": "Publicar respuesta"
+        }
     }
 }
