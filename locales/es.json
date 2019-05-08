@@ -167,7 +167,8 @@
             "search": "Buscar",
             "save": "Guardar",
             "email_address": "Dirección de email",
-            "submit": "Enviar"
+            "submit": "Enviar",
+            "form_errors": "Por favor comprueba la información dada"
         },
         "follow_button": {
             "follow_username": "Seguir a {{username}}",
@@ -215,6 +216,9 @@
             "hours": "horas",
             "minutes": "minutos",
             "seconds": "segundos"
+        },
+        "errors": {
+            "server_error": "El servidor no responde ahora mismo, por favor inténtalo de nuevo más tarde"
         }
     },
     "blog": {
