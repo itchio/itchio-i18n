@@ -38,6 +38,20 @@
         "classes": "Clases",
         "co-op": "Cooperativo",
         "colorful": "Colorido",
-        "comedy": "Comedia"
+        "comedy": "Comedia",
+        "controller": "Mando",
+        "cozy": "Amistoso",
+        "crafting": "Creación de recursos",
+        "creative": "Creativo",
+        "creepy": "Siniestro",
+        "crime": "Crimen",
+        "cult-classic": "Clásico de culto",
+        "cyberpunk": "Cyberpunk",
+        "dark": "Oscuro",
+        "dark-fantasy": "Fantasía oscura",
+        "dark-humor": "Humor negro",
+        "dating-sim": "Simulador de citas",
+        "deck-building": "Construir mazos de cartas",
+        "roguelike": "Roguelike"
     }
 }
