@@ -1,1 +1,27 @@
-{}
+{
+    "tags": {
+        "2d": "2D",
+        "3d": "3D",
+        "4x": "4X",
+        "8-bit": "8-Bit",
+        "abstract": "Abstracto",
+        "action": "Acción",
+        "action-adventure": "Acción-Aventura",
+        "action-rpg": "Acción RPG",
+        "adventure": "Aventura",
+        "aliens": "Aliens",
+        "alternate-history": "Historia Alternativa",
+        "altgame": "Altgame",
+        "animals": "Animales",
+        "anime": "Anime",
+        "arcade": "Arcade",
+        "archery": "Arquería",
+        "art-book": "Libro artístico",
+        "asteroids": "Asteroides",
+        "atmospheric": "Atmosféricos",
+        "black-and-white": "Blanco y Negro",
+        "board-game": "Juego de mesa",
+        "boring": "Aburrido",
+        "boss-battle": "Batalla contra jefe"
+    }
+}
