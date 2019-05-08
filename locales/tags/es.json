@@ -51,8 +51,11 @@
         "dark-fantasy": "Fantasía oscura",
         "dark-humor": "Humor negro",
         "dating-sim": "Simulador de citas",
-        "deck-building": "Construir mazos de cartas",
+        "deck-building": "Constructor de mazos de cartas",
         "roguelike": "Roguelike",
-        "cute": "Adorable"
+        "cute": "Adorable",
+        "demake": "Demake",
+        "educational": "Educativo",
+        "low-poly": "Low poly"
     }
 }
