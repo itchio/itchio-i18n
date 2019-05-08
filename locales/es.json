@@ -259,6 +259,12 @@
     "game": {
         "comments": {
             "write_your_comment": "Escribe tu comentario…"
+        },
+        "info_panel": {
+            "updated_at": "Actualizado",
+            "published_at": "Publicado",
+            "release_status": "Estado",
+            "category": "Categoría"
         }
     },
     "game_download": {
