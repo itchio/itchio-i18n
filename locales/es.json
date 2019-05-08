@@ -164,7 +164,10 @@
         "forms": {
             "required": "Requerido",
             "optional": "Opcional",
-            "search": "Buscar"
+            "search": "Buscar",
+            "save": "Guardar",
+            "email_address": "Dirección de email",
+            "submit": "Enviar"
         },
         "follow_button": {
             "follow_username": "Seguir a {{username}}",
@@ -183,7 +186,8 @@
             "web": "Web"
         },
         "filter_price": {
-            "free": "Gratis"
+            "free": "Gratis",
+            "paid": "Pagado"
         },
         "pager": {
             "next_page": "Página siguiente",
@@ -197,7 +201,21 @@
             "public": "Público"
         },
         "more_ellip": "Más...",
-        "loading_more_ellip": "Cargando más..."
+        "loading_more_ellip": "Cargando más...",
+        "collection_button": {
+            "add_to_collection": "Añadir a colección"
+        },
+        "lightboxes": {
+            "close": "Cerrar"
+        },
+        "countdown": {
+            "years": "años",
+            "months": "meses",
+            "days": "días",
+            "hours": "horas",
+            "minutes": "minutos",
+            "seconds": "segundos"
+        }
     },
     "blog": {
         "all_posts": "Todas las publicaciones",
