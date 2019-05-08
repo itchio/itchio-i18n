@@ -172,7 +172,7 @@
         "intent": {
             "community": "Necesitas iniciar sesión para participar en las comunidades de itch.io. Crear una cuenta es gratis y es sólo un instante.",
             "comment": "Necesitas una cuenta de itch.io para dejar un comentario.",
-            "rate_game": "Necesitas una cuenta en itch.io para valorar un juego.",
+            "rate_game": "Necesitarás una cuenta en itch.io para valorar un juego.",
             "follow": "Necesitas una cuenta de itch.io para seguir a una persona.",
             "follow_username": "Necesitas una cuenta de itch.io para seguir a <1>{{username}}</1>.",
             "collection": "Necesitas una cuenta de itch.io para añadir a una colección.",
@@ -236,6 +236,35 @@
         },
         "new_topic": {
             "moderator_tools": "Herramientas de moderador"
+        },
+        "post_list": {
+            "edited": "(editado)"
+        }
+    },
+    "game": {
+        "comments": {
+            "write_your_comment": "Escribe tu comentario…"
+        }
+    },
+    "game_download": {
+        "claim_external_key": "Reclamar código {{key_type}}",
+        "purchase": {
+            "link_purchase_links": "<1>Crea una cuenta</1> o <2>inicia sesión en itch.io</2> para vincular instantáneamente esta compra.",
+            "link_purchase_warning": "¡No pierdas tu compra!",
+            "thank_you_for_purchasing": "Gracias por comprar {{product_title}}.",
+            "thank_you_for_purchasing_author": "Gracias por comprar {{product_title}} de {{author}}.",
+            "thank_you_for_donating": "Gracias por donar a {{product_title}}.",
+            "thank_you_for_donating_author": "Gracias por donar a {{product_title}} de {{author}}.",
+            "unique_url_for_your_payment": "Esta página tiene una URL única para su pago.",
+            "access_latest_files_from_this_page": "Siempre puedes acceder a los últimos archivos desde esta página."
+        }
+    },
+    "jam": {
+        "submitter": {
+            "join_jam": "Unirse a la jam",
+            "submit_button": "Enviar tu proyecto",
+            "or_leave_jam": "o <a>Salir de la jam</a>",
+            "youve_joined": "Te has unido a esta jam."
         }
     }
 }
