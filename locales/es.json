@@ -266,7 +266,8 @@
             "published_at": "Publicado",
             "release_status": "Estado",
             "category": "Categoría"
-        }
+        },
+        "community_sticky": "Fijado"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
