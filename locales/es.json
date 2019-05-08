@@ -232,10 +232,25 @@
     },
     "community": {
         "post_form": {
-            "post_reply": "Publicar respuesta"
+            "post_reply": "Publicar respuesta",
+            "add_profile_image": "Añadir imagen de perfil",
+            "save": "Guardar",
+            "post": "Comentar",
+            "subscribe": "Suscribirse",
+            "subscribe_to_this_topic": "Suscribirse a este tema",
+            "subscribe_description": "Permitir notificaciones de nuevas respuestas al tema",
+            "tag_header": "Etiqueta",
+            "remove_tag": "Quitar etiqueta"
         },
         "new_topic": {
-            "moderator_tools": "Herramientas de moderador"
+            "moderator_tools": "Herramientas de moderador",
+            "sticky": "Fijado",
+            "locked": "Cerrado",
+            "moderation_options": "Opciones",
+            "i_agree_to_the_rules_above": "Estoy de acuerdo con las normas de arriba",
+            "new_topic": "Nuevo tema",
+            "this_a_community_run_message_board": "Este es un tablero de mensajes llevado por la comunidad.",
+            "see_community_guidelines": "Mirar las <a>Reglas de la Comunidad</a> para las políticas de la comunidad de itch.io."
         },
         "post_list": {
             "edited": "(editado)"
