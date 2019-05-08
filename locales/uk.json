@@ -581,7 +581,7 @@
             "first_page": "Перша сторінка",
             "last_page": "Остання сторінка",
             "this_topic_is_locked": "Ця тема заблокована",
-            "this_topic_was_locked_by_username": "\nЦя тема була заблокована {{username}}\n"
+            "this_topic_was_locked_by_username": "Ця тема була заблокована {{username}}"
         },
         "post_list": {
             "deleted_post": "Видалене повідомлення",
