@@ -414,6 +414,7 @@
         "share_message": "itch, la aplicación de escritorio para juegos indie",
         "tagline": "Instala, actualiza y juega juegos indie",
         "start_download": "Comenzar Descarga",
-        "for_platforms": "Para <1>Windows</1>, <2>macOS</2>, y <3>Linux</3>"
+        "for_platforms": "Para <1>Windows</1>, <2>macOS</2>, y <3>Linux</3>",
+        "open_source": "Código abierto"
     }
 }
