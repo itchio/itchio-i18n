@@ -25,6 +25,19 @@
         "boss-battle": "Batalla contra jefe",
         "3d-platformer": "Plataformas 3D",
         "automation": "Automatización",
-        "beat-em-up": "Beat 'em up"
+        "beat-em-up": "Beat 'em up",
+        "breakout": "Escape",
+        "bullet-hell": "Infierno de balas",
+        "card-game": "Juego de cartas",
+        "casual": "Casual",
+        "character-customization": "Personalización de personaje",
+        "chess": "Ajedrez",
+        "chicken": "Pollo",
+        "christmas": "Navidad",
+        "city-builder": "Constructor de ciudad",
+        "classes": "Clases",
+        "co-op": "Cooperativo",
+        "colorful": "Colorido",
+        "comedy": "Comedia"
     }
 }
