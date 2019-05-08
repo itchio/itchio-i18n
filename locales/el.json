@@ -1,1 +1,47 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "faq": "Συχνές ερωτήσεις",
+            "blog": "Blog",
+            "terms": "Όροι",
+            "privacy": "Απόρρητο",
+            "cookies": "Cookies"
+        },
+        "header": {
+            "browse": "Εξερευνήστε",
+            "browse_games": "Εξερευνήστε παιχνίδια",
+            "game_jams": "Game Jams",
+            "upload_game": "Ανέβασμα Παιχνιδιού",
+            "community": "Κοινότητα",
+            "search": "Αναζήτηση",
+            "log_in": "Είσοδος",
+            "register": "Δημιουργία λογαριασμού",
+            "no_notifications": "Καμία νέα ειδοποίηση",
+            "free_games": "Δωρεάν παιχνίδια",
+            "indie_game_store": "Κατάστημα indie παιχνιδιών",
+            "game_development": "Ανάπτυξη παιχνιδιών",
+            "comics": "Κόμιξ",
+            "sales": "Εκπτώσεις",
+            "bundles": "Πακέτα",
+            "fun_games": "Διασκεδαστικά παιχνίδια",
+            "games": "Παιχνίδια"
+        },
+        "user_menu": {
+            "explore": "Εξερεύνησε",
+            "create": "Δημιούργησε",
+            "account": "Λογαριασμός",
+            "log_out": "Αποσύνδεση",
+            "settings": "Ρυθμίσεις",
+            "view_profile": "Προβολή προφίλ",
+            "sales_bundles": "Εκπτώσεις & πακέτα",
+            "recommendations": "Προτάσεις",
+            "library": "Η συλλογή μου",
+            "account_menu_tooltip": "Μενού Λογαριασμού"
+        }
+    },
+    "index": {
+        "popular_tags": "Δημοφιλείς ετικέτες",
+        "browse": "Εξερεύνησε"
+    }
+}
