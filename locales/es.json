@@ -7,7 +7,9 @@
             "blog": "Blog",
             "contact_us": "Contáctanos",
             "terms": "Términos de Servicio",
-            "directory": "Directorio"
+            "directory": "Directorio",
+            "privacy": "Privacidad",
+            "cookies": "Cookies"
         },
         "header": {
             "browse": "Ver",
@@ -28,7 +30,7 @@
             "free_games": "Juegos gratis",
             "indie_game_store": "Tienda de juegos indie",
             "game_development": "Desarrollo de videojuegos",
-            "comics": "Comics",
+            "comics": "Cómics",
             "sales": "Rebajas",
             "bundles": "Bundles",
             "fun_games": "Juegos divertidos",
@@ -52,7 +54,8 @@
             "host_game_jam": "Organizar una game jam",
             "dashboard": "Dashboard",
             "game_jams": "Game jams",
-            "feed": "Mi feed"
+            "feed": "Mi feed",
+            "account_menu_tooltip": "Menú de Cuenta"
         }
     },
     "index": {
@@ -101,7 +104,12 @@
         },
         "intro": "<s>itch.io</s> es una manera simple de encontrar y compartir juegos indie online de forma gratuita.",
         "intro_cta": "<1>Añade tu juego</1> o <2>Lee las preguntas más frecuentes</2>",
-        "html5_games": "Juegos HTML5"
+        "html5_games": "Juegos HTML5",
+        "page_title": "Descarga los últimos juegos indie",
+        "meta_description": "itch.io es una manera simple de encontrar, descargar y distribuir juegos indies online. Ya seas un desarrollador buscando subir su juego o alguien buscando un juego nuevo, itch.io es el lugar ideal.",
+        "to_follow": {
+            "refresh_button": "Recarga para ver más..."
+        }
     },
     "misc": {
         "classifications": {
@@ -149,12 +157,41 @@
             "hour": "Alrededor de una hora",
             "hours": "Unas pocas horas",
             "days": "Días o más"
+        },
+        "forms": {
+            "required": "Requerido"
+        },
+        "follow_button": {
+            "follow_username": "Seguir a {{username}}",
+            "follow": "Seguir",
+            "following_username": "Siguiendo a {{username}}",
+            "following": "Siguiendo",
+            "unfollow_username": "Dejar de seguir a {{username}}",
+            "unfollow": "Dejar de seguir"
+        },
+        "filter_when": {
+            "last_day": "Último Día",
+            "last_7_days": "Últimos 7 días",
+            "last_30_days": "Últimos 30 días"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Gratis"
+        },
+        "pager": {
+            "next_page": "Página siguiente",
+            "prev": "Anterior",
+            "next": "Siguiente",
+            "current_page_of_total": "Página {{current_page}} de {{total_pages}}"
         }
     },
     "blog": {
         "all_posts": "Todas las publicaciones",
         "updates": "Actualizaciones",
-        "digest": "Resumen"
+        "digest": "Resumen",
+        "empty_message": "Parece que no hay publicaciones aquí"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Inicia sesión en tu cuenta de itch.io",
@@ -177,9 +214,17 @@
             "follow_username": "Necesitas una cuenta de itch.io para seguir a <1>{{username}}</1>.",
             "collection": "Necesitas una cuenta de itch.io para añadir a una colección.",
             "jam_submit": "Necesitas una cuenta de itch.io para participar en una jam.",
-            "claim_object": "Inicia sesión o crea una cuenta para reclamar el {{noun}}"
+            "claim_object": "Inicia sesión o crea una cuenta para reclamar el {{noun}}",
+            "recent_purchases": "Accede para enlazar las compras hechas recientemente."
         },
-        "no_account_prompt": "¿No tienes cuenta? <1>Crear una cuenta</1>"
+        "no_account_prompt": "¿No tienes cuenta? <1>Crear una cuenta</1>",
+        "page_title": "Iniciar sesión",
+        "you_are_logged_out": "Has cerrado sesión",
+        "welcome_back": "¡Bienvenido de nuevo!",
+        "welcome_to_itchio": "¡Bienvenido a itch.io!",
+        "errors": {
+            "accept_terms": "Debe aceptar los Términos de Servicio"
+        }
     },
     "user_register": {
         "create_an_account_on_itchio": "Crear una cuenta en itch.io",
@@ -200,7 +245,8 @@
             "url_preview": "Tu página de perfil será",
             "username": "Usuario",
             "other_registration_methods": "Otros métodos de registro"
-        }
+        },
+        "page_title": "Registrar cuenta"
     },
     "developers": {
         "page_header": "Crea una página personalizada para distribuir o vender tus juegos indie al instante",
@@ -297,7 +343,7 @@
         "header": {
             "discussion_board": "Panel de discusión"
         },
-        "linked_user_message": "Esta página está vinculada a la cuenta de {{username}}",
+        "linked_user_message": "Esta página está vinculada a la cuenta de {{username}}.",
         "link_my_account": "Vincular mi cuenta",
         "log_in_to_link": "Inicia sesión para vincular",
         "link_account_header": "Vincular esta página de descarga a su cuenta de itch.io",
