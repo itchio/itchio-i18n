@@ -22,7 +22,7 @@
             "notifications_count_plural": "{{count}} notificaciones",
             "no_notifications": "No hay nuevas notificaciones",
             "game_jams": "Game Jams",
-            "devlogs": "Devlogs",
+            "devlogs": "Registros de desarrollo",
             "dashboard": "Dashboard",
             "jams": "Jams",
             "free_games": "Juegos gratis",
@@ -292,7 +292,16 @@
         "email_capture": {
             "dont_lose_your_purchase": "¡No pierdas tu compra!",
             "provide_email_instructions": "Ingresa tu dirección de correo electrónico para vincularlo a tu compra para que pueda recuperarla si alguna vez pierde esta página."
-        }
+        },
+        "header": {
+            "discussion_board": "Panel de discusión"
+        },
+        "linked_user_message": "Esta página está vinculada a la cuenta de {{username}}",
+        "link_my_account": "Vincular mi cuenta",
+        "log_in_to_link": "Inicia sesión para vincular",
+        "link_account_header": "Vincular esta página de descarga a su cuenta de itch.io",
+        "link_account_description": "Puede vincular esta página de descarga a una cuenta de itch.io para no tener que preocuparse por perderla. Aparecerá junto con cualquier otra cosa que poseas.",
+        "must_link_account_description": "Debe vincular esta página a una cuenta de itch.io antes de poder descargarla. Las cuentas son gratuitas y te permitirán realizar un seguimiento de los juegos que hayas recopilado."
     },
     "jam": {
         "submitter": {
