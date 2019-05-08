@@ -74,7 +74,8 @@ chunk_to_syntax = do
 
   node_for_value = types.one_of {
     types.string / (s) ->
-      {"string", '"', "%q"\format(s)\sub(2, -2) }
+      raw = "%q"\format(s)\sub(2, -2)\gsub("\\\n", "\n")\gsub([[\n]], "\n")\gsub([[\r]], "\r")
+      {"string", '"', raw}
 
     variable_op_shape / (op) ->
       {
