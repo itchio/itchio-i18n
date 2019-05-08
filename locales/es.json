@@ -188,7 +188,8 @@
         },
         "filter_price": {
             "free": "Gratis",
-            "paid": "Pagado"
+            "paid": "Pagado",
+            "on_sale": "En oferta"
         },
         "pager": {
             "next_page": "Página siguiente",
@@ -199,7 +200,10 @@
             "first_page": "Primera página"
         },
         "project_visibility": {
-            "public": "Público"
+            "public": "Público",
+            "restricted": "Restringido",
+            "published": "Publicado",
+            "draft": "Borrador"
         },
         "more_ellip": "Más...",
         "loading_more_ellip": "Cargando más...",
@@ -219,13 +223,24 @@
         },
         "errors": {
             "server_error": "El servidor no responde ahora mismo, por favor inténtalo de nuevo más tarde"
+        },
+        "page_number": "Página {{page_number}}",
+        "view_more": "Ver más",
+        "dismiss": "Descartar",
+        "release_statuses": {
+            "released": "Publicado",
+            "in_development": "En desarrollo",
+            "on_hold": "En espera",
+            "canceled": "Cancelado",
+            "prototype": "Prototipo"
         }
     },
     "blog": {
         "all_posts": "Todas las publicaciones",
         "updates": "Actualizaciones",
         "digest": "Resumen",
-        "empty_message": "Parece que no hay publicaciones aquí"
+        "empty_message": "Parece que no hay publicaciones aquí",
+        "tag_filter": "Filtrando por {{tag}}. <a>Quitar etiqueta</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Inicia sesión en tu cuenta de itch.io",
