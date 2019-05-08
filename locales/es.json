@@ -250,7 +250,8 @@
             "i_agree_to_the_rules_above": "Estoy de acuerdo con las normas de arriba",
             "new_topic": "Nuevo tema",
             "this_a_community_run_message_board": "Este es un tablero de mensajes llevado por la comunidad.",
-            "see_community_guidelines": "Consulte las <a>Normas de la comunidad</a> para conocer la política de la comunidad de itch.io."
+            "see_community_guidelines": "Consulte las <a>Normas de la comunidad</a> para conocer la política de la comunidad de itch.io.",
+            "title": "Título"
         },
         "post_list": {
             "edited": "(editado)"
