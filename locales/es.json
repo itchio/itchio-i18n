@@ -108,7 +108,10 @@
         "page_title": "Descarga los últimos juegos indie",
         "meta_description": "itch.io es una manera simple de encontrar, descargar y distribuir juegos indies online. Ya seas un desarrollador buscando subir su juego o alguien buscando un juego nuevo, itch.io es el lugar ideal.",
         "to_follow": {
-            "refresh_button": "Recarga para ver más..."
+            "refresh_button": "Recarga para ver más...",
+            "created_projects": "{{project_list}} creado",
+            "empty_results": "Por ahora no tenemos más recomendaciones. Vuelve a comprobarlo más tarde",
+            "dismiss_tooltip": "No sugerir más"
         }
     },
     "misc": {
@@ -159,7 +162,9 @@
             "days": "Días o más"
         },
         "forms": {
-            "required": "Requerido"
+            "required": "Requerido",
+            "optional": "Opcional",
+            "search": "Buscar"
         },
         "follow_button": {
             "follow_username": "Seguir a {{username}}",
@@ -184,8 +189,15 @@
             "next_page": "Página siguiente",
             "prev": "Anterior",
             "next": "Siguiente",
-            "current_page_of_total": "Página {{current_page}} de {{total_pages}}"
-        }
+            "current_page_of_total": "Página {{current_page}} de {{total_pages}}",
+            "previous_page": "Página anterior",
+            "first_page": "Primera página"
+        },
+        "project_visibility": {
+            "public": "Público"
+        },
+        "more_ellip": "Más...",
+        "loading_more_ellip": "Cargando más..."
     },
     "blog": {
         "all_posts": "Todas las publicaciones",
@@ -266,7 +278,8 @@
         "learn_more_about": "Conoce más acerca de:",
         "share_message": "itch.io es una forma sencilla y gratuita de distribuir tus juegos indie en línea.",
         "create_account_or_login": "<1>Crea una cuenta</1> <em>o</em> <2>Inicia Sesión</2>",
-        "upload_or_dashboard": "<1>Subir un juego nuevo</1> <em>o</em> <2>Ir al tablero de control</2>"
+        "upload_or_dashboard": "<1>Subir un juego nuevo</1> <em>o</em> <2>Ir al tablero de control</2>",
+        "design_your_games_page_description": "Crea una página personalizada para tu juego donde la gente podrá comprar o descargar tu juego. Tú eliges los colores, fuentes, imágenes y vídeos. Como es la página de tu juego, no encontrarás nada que no pusieras ahí."
     },
     "search": {
         "creators": "Creadores:",
