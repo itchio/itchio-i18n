@@ -49,14 +49,34 @@
     },
     "index": {
         "popular_tags": "Δημοφιλείς ετικέτες",
-        "browse": "Εξερεύνησε"
+        "browse": "Εξερεύνησε",
+        "dont_see_anything_you_like": "Δεν βλέπεις κάτι που να σου αρέσει;",
+        "random_game": "Τυχαίο παιχνίδι",
+        "on_sale": "Σε Έκπτωση",
+        "free_games": "Δωρεάν παιχνίδια",
+        "with_demo": "Με δοκιμαστική έκδοση(Demo)",
+        "fresh_games": "Φρέσκα Παιχνίδια",
+        "browse_content_type": "Εξερεύνησε {{content_type}}",
+        "nav": {
+            "all_games": "Όλα Τα Παιχνίδια",
+            "bundles": "Πακέτα",
+            "community": "Κοινότητα"
+        },
+        "html5_games": "Παιχνίδια HTML5",
+        "page_title": "Κατέβασε τα πιο πρόσφατα indie παιχνίδια",
+        "to_follow": {
+            "created_projects": "Δημιουργήθηκε {{project_list}}",
+            "refresh_button": "Ανανέωση για περισσότερα...",
+            "dismiss_tooltip": "Μην προτείνεις πια"
+        }
     },
     "misc": {
         "inputs": {
             "mouse": "Ποντίκι",
             "touchscreen": "Οθόνη αφής",
             "voice": "Έλεγχος φωνής",
-            "accelerometer": "Επιταχυντής"
+            "accelerometer": "Επιταχυντής",
+            "keyboard": "Πληκτρολόγιο"
         },
         "durations": {
             "seconds": "Λίγα δεύτερα",
@@ -71,13 +91,18 @@
             "save": "Αποθήκευση",
             "email_address": "Διεύθυνση Ταχυδρομείου",
             "optional": "Προαιρετικό",
-            "search": "Αναζήτησε"
+            "search": "Αναζήτησε",
+            "submit": "Υποβολή",
+            "form_errors": "Παρακαλώ ελέγξτε τις πληροφορίες που δώσατε"
         },
         "page_number": "Σελίδα {{page_number}}",
         "follow_button": {
             "follow_username": "Ακολούθησε {{username}}",
             "follow": "Ακολούθησε",
-            "following_username": "Ακολούθησε {{username}}"
+            "following_username": "Ακολούθησε {{username}}",
+            "following": "Σε ακολούθηση",
+            "unfollow_username": "Άρση ακολούθησης{{username}}",
+            "unfollow": "Άρση ακολούθησης"
         },
         "filter_when": {
             "last_day": "Τελευταία Ημέρα",
@@ -117,7 +142,29 @@
             "prototype": "Πρωτότυπο"
         },
         "more_ellip": "Περισσότερα…",
-        "loading_more_ellip": "Φόρτωση περισσότερων…"
+        "loading_more_ellip": "Φόρτωση περισσότερων…",
+        "classifications": {
+            "game": "Παιχνίδια",
+            "physical_game": "Φυσικά παιχνίδια",
+            "tool": "Εργαλεία",
+            "comic": "Κόμικ",
+            "book": "Βιβλία"
+        },
+        "accessibility_features": {
+            "colorblind": "Φιλικό στη αχρωματοψία",
+            "subtitles": "Υπότιτλοι",
+            "configurable_controls": "Διαμορφώσιμη μοχλοί",
+            "tutorial": "Διαδραστική προπόνηση",
+            "one_button": "Ένα κουμπί",
+            "blind": "Φιλικό στους τυφλούς"
+        },
+        "multiplayer_features": {
+            "local": "Πολλοί παίκτες τοπικά"
+        },
+        "project_visibility": {
+            "restricted": "Περιορισμένο",
+            "public": "Δημόσιο"
+        }
     },
     "blog": {
         "updates": "Ενημερώσεις"
@@ -138,6 +185,14 @@
         "welcome_to_itchio": "Καλώς ήλθες στο itch.io!",
         "errors": {
             "accept_terms": "Πρέπει να αποδεχθείς τους Όρους Χρήσεις"
+        },
+        "intent": {
+            "comment": "Θα χρειαστείς ένα λογαριασμό στο itch.io πριν μπορείς να αφήσεις ένα σχόλιο.",
+            "rate_game": "Θα χρειαστείς ένα λογαριασμό στο itch.io πριν μπορείς να βαθμολογήσεις ένα παιχνίδι.",
+            "follow": "Θα χρειαστείς ένα λογαριασμό στο itch.io πριν μπορείς να ακολουθήσεις κάποιον.",
+            "follow_username": "Θα χρειαστείς ένα λογαριασμό στο itch.io πριν μπορείς να ακολουθήσεις τον χρήστη <1>{{username}}</1>.",
+            "collection": "Θα χρειαστείς ένα λογαριασμό στο itch.io πριν μπορείς να προσθέσεις σε μια συλλογή.",
+            "jam_submit": "Θα χρειαστείς ένα λογαριασμό στο itch.io πριν μπορείς να υποβάλεις σε ένα jam."
         }
     },
     "user_register": {
@@ -154,11 +209,13 @@
             "password": "Κωδικός πρόσβασης",
             "repeat_password": "Επανέλαβε κωδικό πρόσβασης",
             "username": "Όνομα χρήστη"
-        }
+        },
+        "page_title": "Δημιουργία λογαριασμού"
     },
     "developers": {
         "learn_more": "Μάθε περισσότερα",
-        "learn_more_about": "Μάθε περισσότερα σχετικά για:"
+        "learn_more_about": "Μάθε περισσότερα σχετικά για:",
+        "create_account_or_login": "<1>Δημιούργησε ένα λογαριασμό</1> <em>ή</em> <2>Κάνε είσοδο</2>"
     },
     "search": {
         "creators": "Δημιουργοί:",
@@ -175,7 +232,13 @@
         "updates": "Ενημερώσεις",
         "updates_header": "Πάντα ενημερωμένο",
         "languages_header": "Διαθέσιμο στη γλώσσα σου",
-        "page_title": "Κατέβασε Τη Εφαρμογή"
+        "page_title": "Κατέβασε Τη Εφαρμογή",
+        "open_source": "Ανοικτού κώδικα",
+        "tagline": "Εγκατάστησε, ενημέρωσε και παίξε indie παιχνίδια",
+        "more_info_links": "<1>Διάβασε στις Συχνές Ερωτήσεις</1> ή <2>Διάβασε τον οδηγό της εφαρμογής</2>",
+        "contribute_link": "Θες να συνεισφέρεις; <a>Δες το πηγαίο κώδικα στο GitHub</a>",
+        "read_the_app_guide": "Διάβασε τον οδηγό της εφαρμογής",
+        "download_now": "Λήψη Τώρα"
     },
     "game": {
         "more_information": "Περισσότερες πληροφορίες",
@@ -201,7 +264,8 @@
             "leave_a_comment_header": "Άφησε ένα σχόλιο",
             "leave_a_comment": "Άφησε ένα σχόλιο",
             "click_to_leave_a_comment": "Κάνε κλικ για να αφήσεις ένα σχόλιο...",
-            "post_comment": "Ανάρτησε σχόλιο"
+            "post_comment": "Ανάρτησε σχόλιο",
+            "write_your_comment": "Γράψε το σχόλιο σου…"
         },
         "info_panel": {
             "updated_at": "Ενημερωμένο",
@@ -215,12 +279,470 @@
             "languages": "Γλώσσες",
             "inputs": "Είσοδοι",
             "player_count": "Αριθμός παικτών",
-            "mentions": "Αναφορές"
+            "mentions": "Αναφορές",
+            "published_at": "Εκδομένο",
+            "rating": "Βαθμολογία",
+            "authors": "Συγγραφείς",
+            "author": "Συγγραφέας",
+            "genre": "Είδος",
+            "code_license": "Άδεια",
+            "accessibility": "Προσβασιμότητα",
+            "multiplayer": "Πολλοί παίκτες",
+            "singleplayer": "Ένας παίκτης",
+            "links": "Σύνδεσμοι"
         },
         "community_header": "Κοινωνία",
         "community_view_all_posts": "Δες όλες τις αναρτήσεις",
         "community_post_author": "από {{username}}",
         "community_posts_count": "{{count}} ανάρτηση",
-        "community_posts_count_plural": "{{count}} αναρτήσεις"
+        "community_posts_count_plural": "{{count}} αναρτήσεις",
+        "download_demo_header": "Λήψη δοκιμαστικής έκδοσης(Demo)",
+        "available_header": "Διαθέσιμο σε",
+        "also_available_header": "Επίσης διαθέσιμο σε",
+        "empty_page_no_uploads": "Ο δημιουργός δεν έχει ανεβάσει τίποτα ακόμα...",
+        "post_a_new_topic": "Ανάρτησε νέο θέμα",
+        "upload_list": {
+            "preorder": "Προ-παρήγγειλε",
+            "download": "Κατέβασε",
+            "play_in_browser": "Παίξε στον φυλλομετρητή",
+            "if_you_pay_price_or_more": "εάν πληρώσεις {{price}} ή παραπάνω",
+            "version_name": "Έκδοση{{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Αυτό το αρχείο θα είναι διαθέσιμο όταν ο δημιουργός το ανεβάσει",
+            "empty_message": "Τίποτα δεν είναι διαθέσιμο για λήψη ακόμα."
+        },
+        "layout": {
+            "view_all_by_name": "Δες όλα από {{name}}",
+            "creator": "Δημιουργός",
+            "follow": "Ακολούθησε",
+            "following": "Σε ακολούθηση",
+            "follow_username": "Ακολούθησε{{username}}",
+            "following_username": "Σε ακολούθηση {{username}}",
+            "add_to_collection": "Πρόσθεση Σε Συλλογή",
+            "add_to_collection_short": "Συλλογή",
+            "comments": "Σχόλια",
+            "community": "Κοινότητα",
+            "rate": "Βαθμολόγησε",
+            "rate_this_noun": "Βαθμολόγησε αυτό {{noun}}",
+            "rate_for_jam": "Βαθμολόγησε για {{jam_title}}",
+            "related_games": "Σχετικά παιχνίδια",
+            "related_games_short": "Σχετικά",
+            "ownership": {
+                "you_own_this": "Το κατέχεις αυτό",
+                "send_gift": "Στείλε Δώρο",
+                "download": "Κατέβασε",
+                "percent_off": "{{percent}}% έκπτωση",
+                "purchased_in_a_bundle_for_price": "Αγορασμένο σε πακέτο για {{price}}",
+                "purchased_for_price": "Αγοράστηκε για {{price}}"
+            },
+            "footer": {
+                "view_all_by_username": "Δες όλα από {{username}}",
+                "report": "Ανάφερε",
+                "updated_date": "Ενημερωμένο {{date}}"
+            },
+            "jam_submission": {
+                "you_rated_this_game": "Βαθμολόγησες αυτό το παιχνίδι"
+            }
+        },
+        "after_download": {
+            "share_this_project": "Μοίρασε αυτό το πρότζεκτ",
+            "thanks_for_downloading_title": "Ευχαριστούμε για τη λήψη",
+            "thanks_project_author": "Ευχαριστούμε που κατεβάσατε το {{project}} από {{author}}.",
+            "check_out_more_from_jam_title": "Έλεγξε περισσότερα από {{jam_title}}",
+            "see_everything": "Δες τα πάντα"
+        }
+    },
+    "community": {
+        "topic": {
+            "reply": "Απάντησε",
+            "log_in_to_reply": "Κάνε είσοδο για να απαντήσεις",
+            "this_reply_will_go_to_yourself": "Αυτή η απάντηση θα πάει στον εαυτό σου.",
+            "new_reply": "Νέα απάντηση",
+            "remove_bookmark": "Αφαίρεση σελιδοδείκτη",
+            "bookmark": "Σελιδοδείκτης",
+            "subscribe": "Εγγραφή",
+            "return_to_topic_list": "Γύρισε στη λίστα θεμάτων",
+            "locked": "Κλειδωμένο",
+            "replies_count": "Απαντήσεις: {{count}}",
+            "views_count": "Προβολές: {{count}}",
+            "a_topic_by_username_created_time_ago": "Ένα θέμα από {{username}} δημιουργήθηκε {{time_ago}}",
+            "next_page": "Επόμενη σελίδα",
+            "previous_page": "Προηγούμενη σελίδα",
+            "first_page": "Πρώτη σελίδα",
+            "last_page": "Τελευταία σελίδα",
+            "this_topic_is_locked": "Αυτό το θέμα είναι κλειδωμένο",
+            "this_topic_was_locked_by_username": "Αυτό το θέμα κλειδώθηκε από {{username}}"
+        },
+        "post_list": {
+            "deleted_post": "Διαγραμμένη ανάρτηση",
+            "post_from_blocked_account": "Ανάρτηση από μπλοκαρισμένο λογαριασμό",
+            "edits_count_plural": "({{count}} τροποποιήσεις)",
+            "edits_count": "({{count}} τροποποίηση)",
+            "delete_topic": "Διαγραφή θέματος",
+            "delete": "Διαγραφή",
+            "report": "Αναφορά",
+            "ban": "Μπλόκαρε...",
+            "deleted_account": "Διαγραφή λογαριασμού",
+            "edited": "(τροποποιημένο)"
+        },
+        "post_form": {
+            "add_profile_image": "Πρόσθεσε φωτογραφία προφίλ",
+            "save": "Αποθήκευση",
+            "post": "Ανάρτησε",
+            "tag_header": "Ετικέτα",
+            "remove_tag": "Αφαίρεση ετικέτας",
+            "post_reply": "Ανάρτησε απάντηση"
+        },
+        "new_topic": {
+            "locked": "Κλειδωμένο",
+            "moderation_options": "Επιλογές",
+            "i_agree_to_the_rules_above": "Συμφωνώ στους κανόνες παραπάνω",
+            "new_topic": "Νέο θέμα",
+            "title": "Τίτλος",
+            "body": "Σώμα",
+            "topic_tag": "Ετικέτα",
+            "page_title": "Ανάρτησε νέο θέμα"
+        },
+        "misc": {
+            "new_topic_button": "Νέα θέμα"
+        },
+        "category": {
+            "topics_count": "{{count}} θέμα",
+            "topics_count_plural": "{{count}} θέματα",
+            "create_first_topic_button": "Δημιούργησε το πρώτο θέμα",
+            "empty_message": "Δεν υπάρχουν θέματα",
+            "stats": {
+                "topics": "Θέματα"
+            },
+            "rules_header": "Κανόνες",
+            "recent_posts_header": "Πρόσφατες Αναρτήσεις",
+            "list_header_last_topic": "Πρόσφατο θέμα",
+            "new_flag": "Νέα",
+            "by_topic_author": "από {{username}}"
+        },
+        "topic_list": {
+            "views_count": "<s>{{count}}</s> προβολή",
+            "views_count_plural": "<s>{{count}}</s> προβολές",
+            "replies_count": "<s>{{count}}</s> απάντηση",
+            "replies_count_plural": "<s>{{count}}</s> απαντήσεις",
+            "locked_flag": "Κλειδωμένο",
+            "list_header_topic_title": "Θέμα",
+            "list_header_last_post": "Τελευταία ανάρτηση"
+        }
+    },
+    "buy_form": {
+        "download_title": "Κατέβασε '{{title}}'",
+        "buy_title": "Αγόρασε '{{title}}'",
+        "preorder_title": "Προ-παρήγγειλε '{{title}}'",
+        "on_sale_notice": "Αυτό το προϊόν είναι σε έκπτωση.",
+        "percent_off_until": "Όλες οι αγορές είναι <s>{{rate}}%</s> εκτός μέχρι {{end_date}}.",
+        "no_thanks_just_take_me_to_the_downloads": "Όχι ευχαριστώ, πήγαινε με στις λήψεις",
+        "includes_steam_key": "Θα παραλάβεις ένα κλειδί STEAM με την αγορά σου.",
+        "preorder_this_product_by_purchasing_it_for": "Προ-παρήγγειλε αυτό το προϊόν αγοράζοντας το για {{price}} ή περισσότερο.",
+        "download_this_product_by_purchasing_it_for": "Προ-παρήγγειλε αυτό το προϊόν αγοράζοντας το για {{price}} ή περισσότερο.",
+        "your_email_address": "Η διεύθυνση ηλεκτρονικού ταχυδρομείου σου",
+        "email_address_description": "Η επιβεβαίωση αγοράς θα σταλθεί εδώ",
+        "i_already_paid_for_this": "Πλήρωσα ήδη για αυτό...",
+        "included_files": "Περιλαμβανόμενα αρχεία",
+        "agree_to_terms": "Ολοκληρώνοντας την αγορά συμφωνείς με τους <1>Όρους Χρήσεις</1> και τη <2>Πολιτική Απορρήτου</2> του itch.io.",
+        "this_purchase_is_a_gift": "Αυτή η αγορά είναι δώρο",
+        "pay_with": "Πλήρωσε με",
+        "credit_card": "Κάρτα",
+        "go_back": "Πήγαινε πίσω",
+        "generic_error": "Υπήρχε ένα πρόβλημα με την αγορά σου: {{error}}"
+    },
+    "collection": {
+        "authors": "μια συλλογή από {{author}}",
+        "last_updated_date": "τελευταία ενημέρωση {{date}}",
+        "empty_collection_message": "Δεν υπάρχει τίποτα σε αυτή τη συλλογή.",
+        "private_collection_message": "Αυτή η συλλογή είναι ιδιωτική, μόνο οι συνεισφέροντες μπορούν να δουν το περιεχόμενο της",
+        "a_collection_by_author": "Μια συλλογή από {{author}}",
+        "page_title": "{{collection_title}} - Συλλογή από {{author}}",
+        "remove_item_button": "Αφαίρεση...",
+        "blurb_author_says": "{{author}} λέει"
+    },
+    "browse": {
+        "results_count_plural": "{{count}} αποτελέσματα",
+        "results_count": "{{count}} αποτέλεσμα",
+        "sort_popular": "Δημοφιλής",
+        "sort_new_and_popular": "Νέα & Δημοφιλής",
+        "sort_most_recent": "Πιο Πρόσφατα",
+        "sort": "Ταξινόμησε",
+        "filter_results": "Φίλτραρε Αποτελέσματα",
+        "clear_filters": "Καθάρισε",
+        "related_collections": "Σχετικές συλλογές",
+        "filter_group_price": "Τιμή",
+        "filter_group_genre": "Είδος",
+        "tag": {
+            "no_description_yet": "Καμία περιγραφή ακόμα"
+        },
+        "filter_group_platform": "Πλατφόρμα",
+        "view_all_tags": "Δες όλες τις ετικέτες",
+        "filter_by_tag": "Φίλτραρε με ετικέτα",
+        "filter_group_when": "Πότε",
+        "filter_group_input_methods": "Μέθοδοι εισόδου",
+        "filter_group_type": "Τύπος",
+        "filter_group_collection": "Συλλογή",
+        "filter_group_tools": "Εργαλεία & Μηχανές",
+        "filter_group": {
+            "more_options": "Περισσότερες Επιλογές",
+            "fewer_options": "Λιγότερες Επιλογές",
+            "clear_filter": "Καθάρισε φίλτρο"
+        },
+        "filter_everything_else": "Οτιδήποτε άλλο"
+    },
+    "browse_tags": {
+        "page_title": "Κορυφαίες ετικέτες",
+        "find_tag": "Βρες ετικέτα",
+        "no_description_yet": "Καμία περιγραφή ακόμα"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>από</1> {{author}}",
+        "powered_by_itchio": "τροφοδοτείται από {{itchio}}"
+    },
+    "user_settings": {
+        "account_settings": "Ρυθμίσεις λογαριασμού",
+        "navigation": {
+            "basics_header": "Βασικά",
+            "payment_header": "Πληρωμή",
+            "publisher_header": "Εκδότης",
+            "contact_header": "Επικοινωνία",
+            "profile": "Προφίλ",
+            "password": "Κωδικός πρόσβασης",
+            "email_addresses": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
+            "publisher_get_started": "Ξεκίνα",
+            "tax_information": "Φορολογικές πληροφορίες",
+            "credit_cards": "Πιστωτικές κάρτες",
+            "connected_accounts": "Συνδεδεμένοι λογαριασμοί",
+            "press_access": "Πρόσβαση τύπου",
+            "privacy": "Απόρρητο",
+            "api_keys": "Κλειδιά API"
+        },
+        "profile": {
+            "language": "Γλώσσα",
+            "language_description": "Γλώσσα της διεπαφής χρήστη του itch.io",
+            "page_header": "Προφίλ",
+            "username": "Όνομα χρήστη",
+            "change_username": "Άλλαξε το όνομα χρήστη/URL μου",
+            "profile_image": "Εικόνα προφίλ",
+            "display_name": "Εμφανιζόμενο όνομα",
+            "website": "Ιστοσελίδα",
+            "twitter_description": "Λογαριασμό twitter που να εμφανίσει στο προφίλ σου",
+            "account_type": "Τύπος λογαριασμού",
+            "account_type_description": "Πως θα χρησιμοποιήσεις τον λογαριασμό σου",
+            "account_type_gamer": "Παίξιμο και λήψη παιχνιδιών",
+            "account_type_developer": "Ανάπτυξη και ανέβασμα παιχνιδιών",
+            "default_language_option": "Προκαθορισμένο (Όρισε το στα Αγγλικά κατά τη διάρκεια δοκιμή γλωσσών)",
+            "content": "Περιεχόμενο",
+            "content_description": "Πως εμφανίζεται το περιεχόμενο του itch.io σε εσένα",
+            "use_dark_theme": "Χρησιμοποίησε ένα σκοτεινό θέμα όπου διαθέσιμο",
+            "profile": "Προφίλ",
+            "profile_description": "Το περιεχόμενο της ιστοσελίδας του προφίλ σου"
+        },
+        "password": {
+            "reset_password": "Επαναφορά κωδικού πρόσβασης",
+            "current_password": "Τωρινός κωδικός πρόσβασης",
+            "password": "Κωδικός πρόσβασης",
+            "new_password": "Νέος κωδικός πρόσβασης",
+            "password_again": "Κωδικός πρόσβασης ξανά",
+            "new_password_again": "Νέος κωδικός πρόσβασης ξανά"
+        },
+        "email_addresses": {
+            "change_email_form": {
+                "current_password": "Τωρινός κωδικός πρόσβασης"
+            }
+        }
+    },
+    "stripe_checkout": {
+        "payment_error": "Υπήρξε ένα σφάλμα στην επεξεργασία της πληρωμής σας:",
+        "choose_a_card": "Διάλεξε μια κάρτα",
+        "card_ending_last4": "Τελειώνει σε {{last4}}",
+        "new_card": "Νέα κάρτα",
+        "password": "Κωδικός πρόσβασης",
+        "buying_as": "Αγορά ως",
+        "credit_or_debit_card": "Πιστωτική ή χρεωστική κάρτα",
+        "save_credit_card_for_future_purchases": "Αγορά πιστωτικής κάρτας για μελλοντικές αγορές",
+        "pay_price_button": "Πλήρωσε {{price}}",
+        "you_will_receive_files": "Θα λάβεις:",
+        "steam_key": "Κλειδί STEAM",
+        "email": "Ηλεκτρονικό ταχυδρομείο",
+        "full_name": "Πλήρες Όνομα",
+        "name_as_it_appears_on_card": "Όπως εμφανίζεται στη κάρτα"
+    },
+    "game_download": {
+        "share_and_follow": "Μοίρασε & ακολούθησε",
+        "social_share_message_download": "Μόλις κατέβασα {{title}} από {{username}}",
+        "or_share_on": "ή μοίρασε στο",
+        "trouble_downloading_link": "Λήψης δεν αρχίζουν;",
+        "app_banner": {
+            "get_the_app": "Πάρε την εφαρμογή"
+        },
+        "play_in_your_browser": "Παίξε στο φυλλομετρητή",
+        "start_project_button": "Άρχισε",
+        "version_name": "Έκδοση {{version_name}}",
+        "header": {
+            "invoice": "Τιμολόγιο",
+            "more_menu": "Περισσότερα",
+            "download_title": "Κατέβασε {{project_title}}",
+            "return_to_project": "Επιστροφή στο πρότζεκτ"
+        },
+        "link_my_account": "Σύνδεση στο λογαριασμό μου",
+        "already_own": "Φαίνεται πως το κατέχεις ήδη αυτό",
+        "get_external_key": "Πάρε κλειδί {{key_type}}",
+        "claim_external_key": "Διεκδίκησε κλειδί {{key_type}}",
+        "claim_external_key_instructions": "Πάτα το κουμπί για να το διεκδικήσεις.",
+        "payment_comes_with_key": "Η πληρωμή σου έρχεται με ένα κλειδί {{key_type}}!",
+        "email_capture": {
+            "dont_lose_your_purchase": "Μην χάσεις την αγορά σου!"
+        },
+        "purchase": {
+            "save_this_purchase_to_your_account": "Αποθήκευσε αυτή την αγορά στο λογαριασμό σου",
+            "link_purchase_warning": "Μην χάσεις την αγορά σου!",
+            "thank_you_for_purchasing": "Ευχαριστούμε για την αγορά του {{product_title}}.",
+            "thank_you_for_purchasing_author": "Ευχαριστούμε για την αγορά του {{product_title}} από {{author}}.",
+            "payment_summary": "Πλήρωσες για αυτό την {{payment_date}} για {{payment_price}}.",
+            "percent_off": "{{percent}}% εκτός"
+        }
+    },
+    "jam": {
+        "header": {
+            "links": {
+                "community": "Κοινότητα",
+                "results": "Αποτελέσματα"
+            }
+        },
+        "stats": {
+            "entries": "Καταχωρήσεις",
+            "ratings": "Βαθμολογίες"
+        },
+        "submitter": {
+            "view_results": "Δες αποτελέσματα",
+            "view_entries": "Δες {{count}} καταχώρηση",
+            "view_entries_plural": "Δες {{count}} καταχωρήσεις",
+            "countdown": {
+                "starts_in": "Αρχίζει σε"
+            }
+        },
+        "results": {
+            "results": "Αποτελέσματα",
+            "submissions": {
+                "by_author": "από {{author}}"
+            }
+        },
+        "submission": {
+            "results_table_criteria": "Κριτήρια",
+            "results_table_votes": "Ψήφοι",
+            "results_table_score": "Σκορ",
+            "results_table_raw_score": "Καθαρό σκορ",
+            "comments": {
+                "leave_a_comment_header": "Άφησε ένα σχόλιο",
+                "post_comment": "Ανάρτησε σχόλιο"
+            },
+            "downloads": "Λήψεις",
+            "play_game": "Παίξε παιχνίδι",
+            "run_project": "Τρέξε πρότζεκτ",
+            "results_header": "Αποτελέσματα",
+            "rate_submission": {
+                "private_field": "(ιδιωτικό)",
+                "save_rating": "Αποθήκευση βαθμολογίας",
+                "you_just_voted": "Μόλις ψήφισες.",
+                "you_voted_ago": "Ψήφισες {{timestamp}}."
+            }
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "payments": "Πληρωμές",
+            "views": "Προβολές",
+            "downloads": "Λήψεις",
+            "followers": "Ακόλουθοι"
+        },
+        "follow_itchio": "Ακολούθησε το itch.io στο {{twitter}} και {{facebook}}",
+        "header": {
+            "projects_link": "Πρότζεκτ",
+            "payments_link": "Πληρωμές"
+        },
+        "project_list": {
+            "no_image": "Καμία εικόνα"
+        },
+        "hello": "Χαίρεται!",
+        "edit_project": {
+            "title_field": "Τίτλος",
+            "delete_game_button": "Διαγραφή παιχνιδιού",
+            "kind_of_project_field": "Είδος πρότζεκτ",
+            "details_section_header": "Λεπτομέριες",
+            "description_field": "Περιγραφή",
+            "custom_noun_field": "Προσαρμοσμένο ουσιαστικό",
+            "instructions_field": "Οδηγίες λήψης & εγκατάστασης",
+            "community_field": "Κοινότητα",
+            "cover_uploader": {
+                "remove_image": "Αφαίρεση Εικόνας"
+            },
+            "access_control": {
+                "password_label": "Κωδικός Χρήστη"
+            },
+            "embed_options": {
+                "width": "Πλάτος",
+                "height": "Ύψος",
+                "orientation": "Προσανατολισμός"
+            },
+            "details_genre_header": "Είδος",
+            "details_tags_header": "Ετικέτες",
+            "pricing": {
+                "minimum_price_label": "Ελάχιστη τιμή"
+            },
+            "uploads": {
+                "delete_file_button": "Διαγραφή αρχείου"
+            }
+        },
+        "project_header": {
+            "rewards": "Ανταμοιβές",
+            "more": "Περισσότερα"
+        }
+    },
+    "add_to_collection": {
+        "dialog_title": "Πρόσθεσε {{project_title}} στη συλλογή",
+        "count_items": "{{count}} αντικείμενο",
+        "count_items_plural": "{{count}} αντικείμενα",
+        "about_this_project_label": "Σχετικά για αυτό το πρόυζεκτ"
+    },
+    "jams": {
+        "browse_in_progress": "Σε Πρόοδο"
+    },
+    "feed": {
+        "filter_everything_tab": "Τα Πάντα",
+        "filter_collections_tab": "Συλλογές",
+        "filter_ratings_tab": "Βαθμολογίες",
+        "event_filter_label": "Φίλτρο:",
+        "email_warning": {
+            "verify_your_email_address": "Επιβεβαίωσε την ηλεκτρονική διεύθυνση ταχυδρομείου σου"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Πρόσθεσε εικόνα προφίλ"
+        },
+        "event": {
+            "collection_summary": "Μια συλλογή με {{count}} αντικείμενο.",
+            "collection_summary_plural": "Μια συλλογή με {{count}} αντικείμενα.",
+            "collection_added_count": "Προστέθηκε {{count}} αντικείμενο.",
+            "collection_added_count_plural": "Προστέθηκαν {{count}} αντικείμενα."
+        }
+    },
+    "library": {
+        "page_title": "Η Βιβλιοθήκη",
+        "things_you_own_header": "Πράγματα που σου ανήκουν",
+        "view_all_link": "Δες όλα",
+        "go_to_collection_link": "Πήγαινε στη συλλογή",
+        "nav_header": "Βιβλιοθήκη",
+        "nav": {
+            "my_purchases": "Οι αγορές μου",
+            "recommended_for_you": "Προτεινόμενα για εσένα",
+            "things_on_sale": "Πράγματα σε Έκπτωση"
+        },
+        "download_button": "Λήψη",
+        "gift_button": "Δώρο"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Η ηλεκτρονική διεύθυνση ταχυδρομείου σου δεν είναι επαληθευμένη."
+        }
     }
 }
