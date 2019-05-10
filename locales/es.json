@@ -426,6 +426,12 @@
         "web_games_header": "Juegos de navegador offline",
         "web_games_description": "Puede sincronizar cualquier juego basado en navegador directamente en la aplicación, lo que le permite jugar sin conexión cuando lo desees. Una vez que vuelva a estar en línea, podrás actualizar si es necesario.",
         "languages_description": "¡La aplicación de itch está disponible en más de 20 idiomas, gracias a la comunidad de itch.io! <a>Más información sobre la traducción</a>",
-        "download_now": "Descargar ahora"
+        "download_now": "Descargar ahora",
+        "contribute_link": "¿Quieres contribuir? <a>Mira el código en GitHub</a>",
+        "browse_description": "En itch.io los creadores controlan el aspecto de las páginas de sus proyectos. El navegador integrado te permite descargar e instalar juegos mientras explora los <a>diseños de página únicos de nuestros creadores</a>.",
+        "updates_description": "Los juegos que has instalado no solo se actualizarán automáticamente, sino que la aplicación se transformará automáticamente a medida que lancemos nuevas funcionalidades. Los juegos que utilizan nuestras nuevas herramientas de línea de comandos generarán <em>actualizaciones parciales</em>, lo que garantiza que solo descargue lo que haya cambiado cuando se publiquen nuevos juegos.",
+        "languages_header": "Disponible en tu idioma",
+        "community_header": "Únete a la comunidad",
+        "community_description": "Obten más información sobre el desarrollo de la aplicación <1> en nuestra comunidad </1>. Comparte solicitudes de funciones y comentarios generales con otros miembros de itch.io. Si eres programador, te alegrará saber que todo el proyecto es <2> de código abierto en GitHub </2>, esperamos tus solicitudes de mezcla."
     }
 }
