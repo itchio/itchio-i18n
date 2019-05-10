@@ -415,6 +415,17 @@
         "tagline": "Instala, actualiza y juega juegos indie",
         "start_download": "Comenzar Descarga",
         "for_platforms": "Para <1>Windows</1>, <2>macOS</2>, y <3>Linux</3>",
-        "open_source": "Código abierto"
+        "open_source": "Código abierto",
+        "summary": "La aplicación de itch.io, <s>itch</s>, te permite descargar y ejecutar juegos y software de itch.io de forma sencilla. Todas tus descargas se guardan en un solo lugar y se actualizan automáticamente. Accede a tus colecciones y compras, o busca juegos nuevos con el buscador de la app.",
+        "more_info_links": "<1>Lee más en Preguntas frecuentes</1> o <2>Lee la guía de la aplicación</2>",
+        "learn_more_below": "Aprende más abajo",
+        "updates": "Actualizaciones",
+        "read_the_app_guide": "Lee la guía de aplicación",
+        "browse_header": "Busca juegos como el creador pretende",
+        "updates_header": "Siempre actualizado",
+        "web_games_header": "Juegos de navegador offline",
+        "web_games_description": "Puede sincronizar cualquier juego basado en navegador directamente en la aplicación, lo que le permite jugar sin conexión cuando lo desees. Una vez que vuelva a estar en línea, podrás actualizar si es necesario.",
+        "languages_description": "¡La aplicación de itch está disponible en más de 20 idiomas, gracias a la comunidad de itch.io! <a>Más información sobre la traducción</a>",
+        "download_now": "Descargar ahora"
     }
 }
