@@ -382,7 +382,8 @@
         "buy_now_button": "Comprar ahora",
         "download_or_claim_button": "Descargar o reclamar",
         "name_your_own_price": "Nombra tu propio precio",
-        "on_sale": "En oferta!"
+        "on_sale": "En oferta!",
+        "download_now_button": "Descargar Ahora"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
