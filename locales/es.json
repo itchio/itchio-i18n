@@ -379,7 +379,10 @@
         "also_available_header": "También disponible en",
         "will_be_available_in": "Estará disponible {{time_remaining}}.",
         "preorder_button": "Hacer tu pedido ahora",
-        "buy_now_button": "Comprar ahora"
+        "buy_now_button": "Comprar ahora",
+        "download_or_claim_button": "Descargar o reclamar",
+        "name_your_own_price": "Nombra tu propio precio",
+        "on_sale": "En oferta!"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
