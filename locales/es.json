@@ -384,7 +384,8 @@
         "name_your_own_price": "Nombra tu propio precio",
         "on_sale": "¡En oferta!",
         "download_now_button": "Descargar Ahora",
-        "percent_off": "Descuento del <s>{{percent}}%</s>"
+        "percent_off": "Descuento del <s>{{percent}}%</s>",
+        "price_or_more": "{{price}}<s>o más</s>"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
