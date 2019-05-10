@@ -364,7 +364,11 @@
             "release_status": "Estado",
             "category": "Categoría"
         },
-        "community_sticky": "Fijado"
+        "community_sticky": "Fijado",
+        "more_information": "Más información",
+        "install_instructions": "Instrucciones de instalación",
+        "download_header": "Descargar",
+        "unavailable": "Este {{game_noun}}1 no está actualmente disponible."
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
@@ -433,6 +437,7 @@
         "languages_header": "Disponible en tu idioma",
         "community_header": "Únete a la comunidad",
         "community_description": "Obtén más información sobre el desarrollo de la aplicación <1>en nuestra comunidad</1>. Comparte solicitudes de funciones y comentarios generales con otros miembros de itch.io. Si eres programador, te alegrará saber que todo el proyecto es <2>de código abierto en GitHub</2>, esperamos tus solicitudes de mezcla.",
-        "page_title": "Descargar la App"
+        "page_title": "Descargar la App",
+        "meta_description": "itch, la mejor manera de descargar y jugar juegos independientes. Descarga juegos gratis y maneja tu librería desde tu Escritorio. Ya disponible en Windows, macOS y Linux."
     }
 }
