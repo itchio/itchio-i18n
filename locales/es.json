@@ -369,7 +369,15 @@
         "install_instructions": "Instrucciones de instalación",
         "download_header": "Descargar",
         "unavailable": "Este {{game_noun}} no está actualmente disponible.",
-        "empty_page": "Parece que no hay nada aquí..."
+        "empty_page": "Parece que no hay nada aquí...",
+        "purchase_header": "Comprar",
+        "download_access": "Haz click en descargar para tener acceso a los siguientes archivos:",
+        "get_access": "Tendrás acceso a los siguientes archivos:",
+        "get_access_preorder": "Tendrás acceso a los siguientes archivos cuando sean publicados:",
+        "download_demo_header": "Descargar demo",
+        "available_header": "Disponible en",
+        "also_available_header": "También disponible en",
+        "will_be_available_in": "Estará disponible {{time_remaining}}1."
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
