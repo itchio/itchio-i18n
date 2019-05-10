@@ -368,7 +368,7 @@
         "more_information": "Más información",
         "install_instructions": "Instrucciones de instalación",
         "download_header": "Descargar",
-        "unavailable": "Este {{game_noun}}1 no está actualmente disponible.",
+        "unavailable": "Este {{game_noun}} no está actualmente disponible.",
         "empty_page": "Parece que no hay nada aquí..."
     },
     "game_download": {
