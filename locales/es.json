@@ -377,7 +377,9 @@
         "download_demo_header": "Descargar demo",
         "available_header": "Disponible en",
         "also_available_header": "También disponible en",
-        "will_be_available_in": "Estará disponible {{time_remaining}}1."
+        "will_be_available_in": "Estará disponible {{time_remaining}}.",
+        "preorder_button": "Hacer tu pedido ahora",
+        "buy_now_button": "Comprar ahora"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
