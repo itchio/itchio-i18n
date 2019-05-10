@@ -65,7 +65,7 @@
         "follow_button": {
             "follow_username": "Підписатись на {{username}}1",
             "follow": "Підписатись",
-            "following_username": "Підписка на {{username}}",
+            "following_username": "Слідкуєте за {{username}}",
             "following": "Підписані",
             "unfollow_username": "Відписатись від {{username}}",
             "unfollow": "Відписатись"
