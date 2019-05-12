@@ -27,7 +27,8 @@
             "jams": "Jams",
             "dashboard": "Overzicht",
             "notifications_count": "{{count}} notificatie",
-            "no_notifications": "Geen nieuwe notificaties"
+            "no_notifications": "Geen nieuwe notificaties",
+            "indie_game_store": "Indie game winkel"
         }
     }
 }
