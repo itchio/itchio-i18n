@@ -7,11 +7,12 @@
             "blog": "Blog",
             "contact_us": "Contacteer ons",
             "terms": "Gebruiksvoorwaarden",
-            "directory": "Bibliotheek"
+            "directory": "Bibliotheek",
+            "privacy": "Privacy"
         },
         "header": {
-            "upload_game": "Game uploaden",
-            "search_placeholder": "Zoek naar games of ontwikkelaars",
+            "upload_game": "Spel Uploaden",
+            "search_placeholder": "Zoek naar spellen of ontwikkelaars",
             "search": "Zoeken",
             "log_in": "Inloggen",
             "register": "Registreren",
@@ -19,7 +20,9 @@
             "free_games": "Gratis games",
             "bundles": "Bundels",
             "browse": "Bladeren",
-            "browse_games": ""
+            "browse_games": "Door Games bladeren",
+            "game_jams": "Game Jams",
+            "community": "Gemeenschap"
         }
     }
 }
