@@ -18,7 +18,7 @@
             "log_in": "Inloggen",
             "register": "Registreren",
             "notifications_count_plural": "{{count}} notificaties",
-            "free_games": "Gratis games",
+            "free_games": "Gratis spellen",
             "bundles": "Bundels",
             "browse": "Bladeren",
             "browse_games": "Door Games bladeren",
@@ -26,7 +26,8 @@
             "community": "Gemeenschap",
             "jams": "Jams",
             "dashboard": "Overzicht",
-            "notifications_count": "{{count} notificatie"
+            "notifications_count": "{{count}} notificatie",
+            "no_notifications": "Geen nieuwe notificaties"
         }
     }
 }
