@@ -1,1 +1,23 @@
-{}
+{
+    "tags": {
+        "2d": "2D",
+        "3d": "3D",
+        "3d-platformer": "3D Platformer",
+        "4x": "4X",
+        "8-bit": "8-Bit",
+        "abstract": "Abstract",
+        "action": "Actie",
+        "action-adventure": "Actie-Avontuur",
+        "action-rpg": "Actie RPG",
+        "adventure": "Avontuur",
+        "alternate-history": "Alternatieve Geschiedenis",
+        "altgame": "Altgame",
+        "animals": "Dieren",
+        "anime": "Anime",
+        "arcade": "Arcade",
+        "archery": "Boogschieten",
+        "atmospheric": "Atmosferisch",
+        "boring": "Saai",
+        "card-game": "Kaartspel"
+    }
+}
