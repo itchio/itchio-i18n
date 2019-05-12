@@ -29,7 +29,8 @@
             "notifications_count": "{{count}} notificatie",
             "no_notifications": "Geen nieuwe notificaties",
             "indie_game_store": "Indiegame winkel",
-            "game_development": "Spel ontwikkeling"
+            "game_development": "Spel ontwikkeling",
+            "comics": "Strips"
         }
     }
 }
