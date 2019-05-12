@@ -25,7 +25,8 @@
             "game_jams": "Game Jams",
             "community": "Gemeenschap",
             "jams": "Jams",
-            "dashboard": "Overzicht"
+            "dashboard": "Overzicht",
+            "notifications_count": "{{count} notificatie"
         }
     }
 }
