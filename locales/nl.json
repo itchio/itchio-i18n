@@ -8,7 +8,8 @@
             "contact_us": "Contacteer ons",
             "terms": "Gebruiksvoorwaarden",
             "directory": "Bibliotheek",
-            "privacy": "Privacy"
+            "privacy": "Privacy",
+            "cookies": "Cookies"
         },
         "header": {
             "upload_game": "Spel Uploaden",
@@ -22,7 +23,8 @@
             "browse": "Bladeren",
             "browse_games": "Door Games bladeren",
             "game_jams": "Game Jams",
-            "community": "Gemeenschap"
+            "community": "Gemeenschap",
+            "jams": "Jams"
         }
     }
 }
