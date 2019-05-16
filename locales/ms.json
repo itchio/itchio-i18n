@@ -77,6 +77,181 @@
         "with_demo": "Dengan demo",
         "view_all": "Lihat semua",
         "recommended_for_you": "Disyorkan untuk anda",
-        "recommendations_based_on": "Berdasarkan benda yang anda telah membeli, memuat turun, dan menilai"
+        "recommendations_based_on": "Berdasarkan benda yang anda telah membeli, memuat turun, dan menilai",
+        "fresh_games": "Permainan Baharu",
+        "view_more": "Lihat lebih",
+        "featured_jams": "Jam permainan yang ditonjolkan",
+        "view_all_jams": "Lihat semua jam permainan",
+        "fresh_games_description": "Sentiasa mengemaskinikan permainan baharu pada itch.io",
+        "people_to_follow": "Orang Untuk Diikuti",
+        "view_all_games_on_sale": "Lihat semua jualan permainan",
+        "more_featured_games": "Lihat lebih permainan yang ditonjolkan",
+        "game_dev_on_sale": "<1>Jualan Murah</1> Sumber Pencipta Permainan",
+        "view_all_on_sale": "Lihat semua yang dijual murah",
+        "people_to_follow_description": "Ini antara akaun yang anda mungkin berminat mengikuti. <a>Mengapa?</a>",
+        "latest_featured_games": "Tonjolan Permainan Baharu",
+        "filtering_platform": "Menuras semua permainan ke {{platform_name}}",
+        "view_all_platforms": "Lihat semua platform",
+        "browse_content_type": "Layari {{content_type}}",
+        "nav": {
+            "all_games": "Semua Permainan",
+            "bundles": "Bungkusan",
+            "game_jams": "Jam permainan",
+            "devlogs": "Log pencipta",
+            "community": "Komuniti"
+        },
+        "intro": "<s>itch.io</s> adalah cara mudah untuk cari serta kongsi permainan indie atas talian untuk percuma.",
+        "intro_cta": "<1>Tambah permainan anda</1> atau <2>Baca Soalan Lazim</2>",
+        "html5_games": "Permainan HTML5",
+        "page_title": "Muat turun permainan indie baharu",
+        "meta_description": "itch.io adalah cara mudah untuk cari, muat turun dan edar permainan indie atas talian. Sama ada anda seorang pencipta yang ingin memuat naik permainan anda atau seseorang yang mencari sesuatu yang baharu untuk dimainkan, itch.io merangkuminya.",
+        "to_follow": {
+            "created_projects": "{{project_list}} Dicipta",
+            "empty_results": "Kami tiada lagi pengesyoran buat masa ini. Sila balik kemudian",
+            "refresh_button": "Muat semula untuk lebih...",
+            "dismiss_tooltip": "Tolong jangan syorkan lagi"
+        }
+    },
+    "misc": {
+        "classifications": {
+            "game": "Permainan",
+            "assets": "Aset permainan",
+            "game_mod": "Mod-mod permainan",
+            "physical_game": "Permainan fizikal",
+            "soundtrack": "Koleksi muzik",
+            "other": "Lain-lain",
+            "tool": "Alatan",
+            "comic": "Komik",
+            "book": "Buku-buku"
+        },
+        "accessibility_features": {
+            "colorblind": "Mesra rabun warna",
+            "subtitles": "Sarikata",
+            "configurable_controls": "Kawalan yang boleh dikonfigurasi",
+            "highcontrast": "Kontras tinggi",
+            "tutorial": "Tutorial berinteraktif",
+            "one_button": "Satu butang",
+            "blind": "Mesra rabun",
+            "textless": "Tanpa teks"
+        },
+        "multiplayer_features": {
+            "local": "Aneka pemain tempatan",
+            "server": "Aneka pemain berasaskan rangkaian komputer pelayan",
+            "adhoc": "Aneka pemain berasaskan rangkaian ad-hoc"
+        },
+        "inputs": {
+            "keyboard": "Papan kekunci",
+            "mouse": "Tetikus",
+            "gamepad": "Pad permainan (mana-mana)",
+            "joystick": "Kayu bedik",
+            "touchscreen": "Skrin sentuh",
+            "voice": "Kawalan suara",
+            "accelerometer": "Akselerometer",
+            "phone": "Telefon pintar",
+            "dance_pad": "Pad menari",
+            "midi_controller": "Pengawal MIDI"
+        },
+        "durations": {
+            "seconds": "Beberapa saat",
+            "minutes": "Beberapa minit",
+            "half_hour": "Untuk setengah jam",
+            "hour": "Untuk sejam",
+            "hours": "Beberapa jam",
+            "days": "Beberapa hari atau lebih"
+        },
+        "forms": {
+            "required": "Diwajibkan",
+            "save": "Simpan",
+            "email_address": "Alamat Emel",
+            "submit": "Hantar",
+            "optional": "Tidak diwajibkan",
+            "search": "Cari",
+            "form_errors": "Slia semak informasi yang telah anda berikan"
+        },
+        "page_number": "Muka surat {{page_number}}",
+        "follow_button": {
+            "follow_username": "Ikut {{username}}",
+            "follow": "Ikut",
+            "following_username": "Mengikuti {{username}}",
+            "following": "Mengikuti",
+            "unfollow_username": "Jangan mengikuti {{username}} lagi",
+            "unfollow": "Jangan mengikuti lagi"
+        },
+        "filter_when": {
+            "last_day": "Hari Terakhir",
+            "last_7_days": "7 hari sebelumnya",
+            "last_30_days": "30 hari sebelumnya"
+        },
+        "platforms": {
+            "web": "Sesawang"
+        },
+        "filter_price": {
+            "free": "Percuma",
+            "on_sale": "Jualan Murah",
+            "paid": "Dibayar"
+        },
+        "pager": {
+            "next_page": "Muka surat seterusnya",
+            "prev": "Sebelumnya",
+            "next": "Seterusnya",
+            "current_page_of_total": "Muka surat {{current_page}} daripada {{total_pages}}",
+            "previous_page": "Muka surat sebelumnya",
+            "first_page": "Muka surat pertama"
+        },
+        "collection_button": {
+            "add_to_collection": "Tambah pada koleksi"
+        },
+        "lightboxes": {
+            "close": "Tutup"
+        },
+        "countdown": {
+            "years": "tahun",
+            "months": "bulan",
+            "days": "hari",
+            "hours": "jam",
+            "minutes": "minit",
+            "seconds": "saat"
+        },
+        "project_visibility": {
+            "restricted": "Dihadkan",
+            "published": "Diterbitkan",
+            "draft": "Draf",
+            "public": "Awam"
+        },
+        "view_more": "Lihat lebih",
+        "dismiss": "Menolak",
+        "release_statuses": {
+            "released": "Diterbitkan",
+            "in_development": "Dalam pembangunan",
+            "on_hold": "Ditahan sementara",
+            "canceled": "Dibatalkan",
+            "prototype": "Prototaip"
+        },
+        "errors": {
+            "server_error": "Komputer pelayan gagal balas, sila cuba nanti"
+        },
+        "more_ellip": "Lebih…",
+        "loading_more_ellip": "Memuatkan lebih…"
+    },
+    "blog": {
+        "all_posts": "Semua siaran",
+        "updates": "Pengemaskinian",
+        "digest": "Cernaan",
+        "empty_message": "Tiada siaran di sini",
+        "tag_filter": "Tapis ke {{tag}}. <a>Bereskan tag</a>"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Log masuk ke akaun itch.io anda",
+        "login_form": {
+            "username_or_email": "Nama pengguna atau emel",
+            "password": "Kata laluan",
+            "forgot_password": "Lupa kata laluan",
+            "create_account": "Cipta akaun",
+            "or_log_in_with_another_site": "Atau log masuk dengan laman sesawang yang lain",
+            "or": "atau",
+            "log_in_button": "Log masuk"
+        },
+        "looking_for_something_you_bought": "Mencari sesuatu yang anda beli?",
+        "create_a_new_account": "Cipta akaun baru"
     }
 }
