@@ -493,6 +493,18 @@
             "see_everything": "See everything",
             "powered_by": "<s>Powered by</s> {{itchio_logo}}",
             "app_learn_more": "<s>New!</s> Try out itch.io's desktop app to download and manage your library. <a>Learn more</a>"
+        },
+        "report_form": {
+            "form_description": "Please complete this form if you need to contact the itch.io moderation team about the content of this page. Your report may be shared with the creator of the page if necessary.",
+            "support_from_creator": "Are you having trouble, do you need support from the creator?",
+            "support_page_link": "Go to the official support page",
+            "email_creator_link": "Email the creator",
+            "submit_report_button": "Submit report",
+            "title": "Report page '{{page_title}}'",
+            "report_received_header": "Report received",
+            "description_label": "Description",
+            "reason_label": "Reason",
+            "reason_other": "Other"
         }
     },
     "community": {
