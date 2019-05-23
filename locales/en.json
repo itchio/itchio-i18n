@@ -505,6 +505,9 @@
             "description_label": "Description",
             "reason_label": "Reason",
             "reason_other": "Other"
+        },
+        "password_required": {
+            "header": "A password is required to view this page"
         }
     },
     "community": {
