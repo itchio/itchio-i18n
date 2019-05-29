@@ -252,6 +252,22 @@
             "log_in_button": "Log masuk"
         },
         "looking_for_something_you_bought": "Mencari sesuatu yang anda beli?",
-        "create_a_new_account": "Cipta akaun baru"
+        "create_a_new_account": "Cipta akaun baru",
+        "intent": {
+            "community": "Anda perlu log masuk untuk mengambil bahagian dalam komuniti itch.io. Mencipta akaun adalah percuma dan hanya makan beberapa saat.",
+            "comment": "Anda perlu mempunyai akaun itch.io sebelum anda boleh meninggalkan komen.",
+            "rate_game": "Anda perlu mempunyai akaun itch.io sebelum anda boleh menilai permainan.",
+            "follow": "Anda perlu mempunyai akaun itch.io sebelum anda boleh mengikuti seseorang.",
+            "follow_username": "Anda perlu mempunyai akaun itch.io sebelum anda boleh mengikuti <1>{{username}}</1>.",
+            "collection": "Anda perlu mempunyai akaun itch.io sebelum anda boleh tambah kepada koleksi.",
+            "jam_submit": "Anda perlu mempunyai akaun itch.io sebelum anda boleh menghantar ke jam permainan.",
+            "claim_object": "Sila log masuk atau mencipta akaun untuk menuntut {{noun}}",
+            "recent_purchases": "Log masuk untuk memaut mana-mana pembelian yang anda telah baru lakukan."
+        },
+        "no_account_prompt": "Tiada akaun? <1>Cipta akaun</1>",
+        "page_title": "Log masuk",
+        "you_are_logged_out": "Kamu telah log keluar",
+        "welcome_back": "Selamat kembali!",
+        "welcome_to_itchio": "Selamat datang ke itch.io!"
     }
 }
