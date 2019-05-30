@@ -268,6 +268,26 @@
         "page_title": "Log masuk",
         "you_are_logged_out": "Kamu telah log keluar",
         "welcome_back": "Selamat kembali!",
-        "welcome_to_itchio": "Selamat datang ke itch.io!"
+        "welcome_to_itchio": "Selamat datang ke itch.io!",
+        "errors": {
+            "accept_terms": "Anda perlu menerima syarat perkhidmatan"
+        }
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Cipta akaun di itch.io",
+        "register_form": {
+            "create_account": "Cipta akaun",
+            "already_have_account": "atau anda sudah mempunyai akaun?",
+            "log_in": "Log masuk",
+            "link_product": "Pembelian anda, <1>{{product}}</1>, akan dihubung kepada akaun anda secara automatik selepas anda mendaftar.",
+            "accept_tos": "Saya menerima <1>Terma Perkhidmatan</1>",
+            "digest_signup": "Daftarkan saya untuk surat berita bi-bulanan itch.io",
+            "interest_gamer": "Saya berminat bermain atau memuat turun permainan pada itch.io",
+            "interest_developer": "Saya berminat dengan kandungan yang menggangu pada itch.io",
+            "account_preferences_info": "Anda boleh menukar jawapan anda pada bila-bila masa, mereka digunakan untuk memberi petunjuk bagi bagaimana itch.io sepatutnya ditunjukkan kepada anda.",
+            "about_you": "Tentang anda",
+            "your_email_address": "Alamat emel anda",
+            "password": "Kata laluan"
+        }
     }
 }
