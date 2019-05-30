@@ -870,7 +870,7 @@
             "projects_link": "プロジェクト",
             "payments_link": "売上",
             "payouts_link": "売上の振込み",
-            "analytics_link": "分析",
+            "analytics_link": "解析",
             "sales_bundles_link": "セール＆バンドル",
             "coop_bundles_link": "共同バンドル",
             "game_jams_link": "ゲームジャム"
@@ -878,7 +878,7 @@
         "create_new_project_button": "新しいプロジェクトを作成",
         "project_list": {
             "edit": "編集",
-            "analytics": "分析",
+            "analytics": "解析",
             "widget": "ウィジェット",
             "no_image": "画像なし"
         },
