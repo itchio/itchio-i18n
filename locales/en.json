@@ -1298,7 +1298,17 @@
             "things_to_rate": "Things to rate"
         },
         "download_button": "Download",
-        "gift_button": "Gift"
+        "gift_button": "Gift",
+        "rate_game": {
+            "rating_saved_header": "Rating saved",
+            "follow_creator": "Consider following the creator of {{project_title}} to stay up to date on their latest releases.",
+            "rating_removed_header": "Rating removed",
+            "rating_deleted_summary": "Your rating has been deleted.",
+            "delete_button": "Delete rating & review",
+            "choose_stars": "Choose a rating from 1 to 5 stars.",
+            "rate_header": "Rate & Review {{project_title}}",
+            "you_rated_this_project_ago": "You rated this project {{time_ago}}."
+        }
     },
     "nags": {
         "unverified_email": {
