@@ -412,7 +412,8 @@
             "check_out_more_from_jam_title": "Έλεγξε περισσότερα από {{jam_title}}",
             "see_everything": "Δες τα πάντα",
             "more_from_creator": "Μπορείτε να βρείτε περισσότερα από τον ίδιο δημιουργό στην σελίδα τους: {{profile}}.",
-            "powered_by": "<s>Τροφοδοτείται από</s> {{itchio_logo}}"
+            "powered_by": "<s>Τροφοδοτείται από</s> {{itchio_logo}}",
+            "more_from_itchio_header": "Δες και άλλα από το itch.io"
         },
         "empty_page": "Δεν φαίνεται να υπάρχει τίποτα εδώ...",
         "download_access": "Πάτα κατέβασε τώρα για να πάρεις πρόσβαση στα ακόλουθα αρχεία:",
@@ -599,7 +600,8 @@
             "misc_header": "Διάφορα",
             "developer_header": "Προγραμματιστής",
             "support_email": "Ηλεκτρονική διεύθυνση υποστήριξης",
-            "billing_address": "Διεύθυνση χρέωσης"
+            "billing_address": "Διεύθυνση χρέωσης",
+            "data_export": "Εξαγωγή Δεδομένων"
         },
         "profile": {
             "language": "Γλώσσα",
@@ -653,7 +655,8 @@
         "steam_key": "Κλειδί STEAM",
         "email": "Ηλεκτρονικό ταχυδρομείο",
         "full_name": "Πλήρες Όνομα",
-        "name_as_it_appears_on_card": "Όπως εμφανίζεται στη κάρτα"
+        "name_as_it_appears_on_card": "Όπως εμφανίζεται στη κάρτα",
+        "linked_to_account": "Συνδεδεμένο στο λογαριασμό"
     },
     "game_download": {
         "share_and_follow": "Μοίρασε & ακολούθησε",
@@ -671,7 +674,8 @@
             "invoice": "Τιμολόγιο",
             "more_menu": "Περισσότερα",
             "download_title": "Κατέβασε {{project_title}}",
-            "return_to_project": "Επιστροφή στο πρότζεκτ"
+            "return_to_project": "Επιστροφή στο πρότζεκτ",
+            "view_all_my_purchases": "Προβολή όλων των αγορών μου"
         },
         "link_my_account": "Σύνδεση στο λογαριασμό μου",
         "already_own": "Φαίνεται πως το κατέχεις ήδη αυτό",
@@ -690,13 +694,15 @@
             "payment_summary": "Πλήρωσες για αυτό την {{payment_date}} για {{payment_price}}.",
             "percent_off": "{{percent}}% εκτός"
         },
-        "check_your_email_for_the_confirmation_link": "Έλεγξε το ηλεκτρονικό ταχυδρομείο σου για το σύνδεσμο επιβεβαίωσης."
+        "check_your_email_for_the_confirmation_link": "Έλεγξε το ηλεκτρονικό ταχυδρομείο σου για το σύνδεσμο επιβεβαίωσης.",
+        "install_instructions_intro": "Οδηγίες λήψης και εγκατάστασης από {{username}}:"
     },
     "jam": {
         "header": {
             "links": {
                 "community": "Κοινότητα",
-                "results": "Αποτελέσματα"
+                "results": "Αποτελέσματα",
+                "submissions": "Υποβολές"
             }
         },
         "stats": {
@@ -708,14 +714,21 @@
             "view_entries": "Δες {{count}} καταχώρηση",
             "view_entries_plural": "Δες {{count}} καταχωρήσεις",
             "countdown": {
-                "starts_in": "Αρχίζει σε"
-            }
+                "starts_in": "Αρχίζει σε",
+                "voting_ends_in": "Η ψηφοφορία τελειώνει"
+            },
+            "submit_button": "Υποβάλετε το πρότζεκτ σας"
         },
         "results": {
             "results": "Αποτελέσματα",
             "submissions": {
-                "by_author": "από {{author}}"
-            }
+                "by_author": "από {{author}}",
+                "ranked_score": "Σκορ: {{score}}"
+            },
+            "empty_message": "Τα αποτελέσματα δεν είναι διαθέσιμα ακόμα, έλα πάλι αργότερα",
+            "empty_page_message": "Κανένα αποτέλεσμα σε αυτή τη σελίδα",
+            "sort_by_criteria": "Από κριτήρια",
+            "sort_overall": "Συνολικά"
         },
         "submission": {
             "results_table_criteria": "Κριτήρια",
@@ -734,8 +747,30 @@
                 "private_field": "(ιδιωτικό)",
                 "save_rating": "Αποθήκευση βαθμολογίας",
                 "you_just_voted": "Μόλις ψήφισες.",
-                "you_voted_ago": "Ψήφισες {{timestamp}}."
-            }
+                "you_voted_ago": "Ψήφισες {{timestamp}}.",
+                "vote": "Ψήφισε",
+                "vote_for_this_submission": "Ψήφισε για αυτή τη υποβολή",
+                "rate_this_submission": "Βαθμολόγησε αυτή την υποβολή",
+                "owner_message": "Αυτή είναι η υποβολή σου, δεν σου επιτρέπεται να τη βαθμολογήσεις. Άλλοι συμμετέχοντες τους jam θα μπορούν να βαθμολογήσουν το πρότζεκτ σας εδώ.",
+                "save_vote": "Αποθήκευση ψήφου",
+                "you_havent_rated_this_submission_yet": "Δεν έχετε βαθμολογήσει αυτή την υποβολή ακόμα."
+            },
+            "remove_this_submission_button": "Αφαίρεση αυτής της υποβολής",
+            "view_game_page": "Προβολή σελίδας παιχνιδιού",
+            "view_project_page": "Προβολή σελίδα πρότζεκτ",
+            "time_remaining_before_deadline": "{{time_duration}} πριν τη προθεσμία",
+            "rated_by_people_count_plural": "Βαθμολογήθηκε από {{count}} άτομα έως τώρα",
+            "rated_by_people_count": "Βαθμολογήθηκε από {{count}} άτομο έως τώρα"
+        },
+        "submissions": {
+            "there_were_no_submissions": "Δεν υπήρχε καμία υποβολή",
+            "submissions_will_be_available_after_the_jam_has_ended": "Υποβολές θα είναι διαθέσιμες αφού το jam έχει τελειώσει",
+            "filters": {
+                "all_submissions": "Όλες οι υποβολές"
+            },
+            "filter": "Φίλτρο",
+            "empty_results": "Καμία υποβολή δεν ταιριάζει με το φίλτρο σου",
+            "rated": "Βαθμολογήθηκε"
         }
     },
     "dashboard": {
@@ -748,10 +783,13 @@
         "follow_itchio": "Ακολούθησε το itch.io στο {{twitter}} και {{facebook}}",
         "header": {
             "projects_link": "Πρότζεκτ",
-            "payments_link": "Πληρωμές"
+            "payments_link": "Πληρωμές",
+            "analytics_link": "Στατιστικά",
+            "payouts_link": "Πληρωμές"
         },
         "project_list": {
-            "no_image": "Καμία εικόνα"
+            "no_image": "Καμία εικόνα",
+            "edit": "Επεξεργασία"
         },
         "hello": "Χαίρεται!",
         "edit_project": {
@@ -781,12 +819,23 @@
             },
             "uploads": {
                 "delete_file_button": "Διαγραφή αρχείου"
-            }
+            },
+            "create_a_new_project_title": "Δημιουργία νέου πρότζεκτ",
+            "edit_project_title": "Επεξεργασία πρότζεκτ",
+            "save_and_view_button": "Αποθήκευση & προβολή σελίδας",
+            "classification_field_description": "Τι ανεβάζεις;",
+            "classification_other": "Άλλο",
+            "tip_label": "Φιλοδώρημα"
         },
         "project_header": {
             "rewards": "Ανταμοιβές",
             "more": "Περισσότερα"
-        }
+        },
+        "page_title": "Ταμπλό Δημιουργού",
+        "create_new_project_button": "Δημιουργία νέου πρότζεκτ",
+        "analytics_summary_header": "Σύνοψη",
+        "intro_text": "Είσαι δημιουργός; Ανέβασε το πρώτο σου παιχνίδι",
+        "dashboard": "Ταμπλό"
     },
     "add_to_collection": {
         "dialog_title": "Πρόσθεσε {{project_title}} στη συλλογή",
