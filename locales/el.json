@@ -862,6 +862,9 @@
             "collection_summary_plural": "Μια συλλογή με {{count}} αντικείμενα.",
             "collection_added_count": "Προστέθηκε {{count}} αντικείμενο.",
             "collection_added_count_plural": "Προστέθηκαν {{count}} αντικείμενα."
+        },
+        "to_rate": {
+            "projects_to_rate_header": "Πρότζεκτ για βαθμολόγηση"
         }
     },
     "library": {
@@ -873,10 +876,12 @@
         "nav": {
             "my_purchases": "Οι αγορές μου",
             "recommended_for_you": "Προτεινόμενα για εσένα",
-            "things_on_sale": "Πράγματα σε Έκπτωση"
+            "things_on_sale": "Πράγματα σε Έκπτωση",
+            "things_to_rate": "Πράγματα για βαθμολόγηση"
         },
         "download_button": "Λήψη",
-        "gift_button": "Δώρο"
+        "gift_button": "Δώρο",
+        "empty_collection_message": "Αυτή η συλλογή είναι άδεια"
     },
     "nags": {
         "unverified_email": {
