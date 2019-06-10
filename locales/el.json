@@ -63,7 +63,8 @@
         "nav": {
             "all_games": "Όλα Τα Παιχνίδια",
             "bundles": "Πακέτα",
-            "community": "Κοινότητα"
+            "community": "Κοινότητα",
+            "game_jams": ""
         },
         "html5_games": "Παιχνίδια HTML5",
         "page_title": "Κατέβασε τα πιο πρόσφατα indie παιχνίδια",
@@ -91,7 +92,8 @@
         "view_all_on_sale": "Δες όλα σε έκπτωση",
         "filtering_platform": "Φιλτράρισμα όλων των παιχνιδιών σε {{platform_name}}",
         "view_all_platforms": "Δες όλες τις πλατφόρμες",
-        "intro_cta": "<1>Πρόσθεσε το παιχνίδι σου</1> ή <2>Διάβασε τις Συχνές Ερωτήσεις</2>"
+        "intro_cta": "<1>Πρόσθεσε το παιχνίδι σου</1> ή <2>Διάβασε τις Συχνές Ερωτήσεις</2>",
+        "view_all_jams": "Δες όλα τα jams"
     },
     "misc": {
         "inputs": {
@@ -437,7 +439,8 @@
             "first_page": "Πρώτη σελίδα",
             "last_page": "Τελευταία σελίδα",
             "this_topic_is_locked": "Αυτό το θέμα είναι κλειδωμένο",
-            "this_topic_was_locked_by_username": "Αυτό το θέμα κλειδώθηκε από {{username}}"
+            "this_topic_was_locked_by_username": "Αυτό το θέμα κλειδώθηκε από {{username}}",
+            "unsubscribe": "Απεγγραφή"
         },
         "post_list": {
             "deleted_post": "Διαγραμμένη ανάρτηση",
@@ -449,7 +452,8 @@
             "report": "Αναφορά",
             "ban": "Μπλόκαρε...",
             "deleted_account": "Διαγραφή λογαριασμού",
-            "edited": "(τροποποιημένο)"
+            "edited": "(τροποποιημένο)",
+            "reply": "Απάντησε"
         },
         "post_form": {
             "add_profile_image": "Πρόσθεσε φωτογραφία προφίλ",
@@ -457,7 +461,8 @@
             "post": "Ανάρτησε",
             "tag_header": "Ετικέτα",
             "remove_tag": "Αφαίρεση ετικέτας",
-            "post_reply": "Ανάρτησε απάντηση"
+            "post_reply": "Ανάρτησε απάντηση",
+            "subscribe": "Εγγραφή"
         },
         "new_topic": {
             "locked": "Κλειδωμένο",
@@ -484,7 +489,8 @@
             "recent_posts_header": "Πρόσφατες Αναρτήσεις",
             "list_header_last_topic": "Πρόσφατο θέμα",
             "new_flag": "Νέα",
-            "by_topic_author": "από {{username}}"
+            "by_topic_author": "από {{username}}",
+            "unsubscribe_from_topics": "Απεγγραφή"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> προβολή",
@@ -493,7 +499,8 @@
             "replies_count_plural": "<s>{{count}}</s> απαντήσεις",
             "locked_flag": "Κλειδωμένο",
             "list_header_topic_title": "Θέμα",
-            "list_header_last_post": "Τελευταία ανάρτηση"
+            "list_header_last_post": "Τελευταία ανάρτηση",
+            "new_flag": "Νέο"
         }
     },
     "buy_form": {
@@ -515,7 +522,13 @@
         "pay_with": "Πλήρωσε με",
         "credit_card": "Κάρτα",
         "go_back": "Πήγαινε πίσω",
-        "generic_error": "Υπήρχε ένα πρόβλημα με την αγορά σου: {{error}}"
+        "generic_error": "Υπήρχε ένα πρόβλημα με την αγορά σου: {{error}}",
+        "support_message": "Υποστηρίξτε την ανάπτυξη αυτού του πρότζεκτ κάνοντας μια δωρεά",
+        "free_pay_what_you_want": "Αυτό το πρότζεκτ είναι δωρεάν αλλά ο δημιουργός αποδέχεται την υποστήριξη σας επιτρέποντας σας να πληρώσετε ότι θεωρείτε πως είναι δίκαιο.",
+        "support_the_creator_by_paying_above_the_minimum_price": "Υποστηρίξτε τον δημιουργό πληρώνοντας τη παραπάνω ελάχιστη τιμή",
+        "support_the_creator_with_an_additional_contribution": "Υποστηρίξτε τον δημιουργό με μια επιπλέον συνεισφορά",
+        "continue_payment": "Συνεχίστε τη πληρωμή",
+        "billing_address": "Διεύθυνση χρέωσης"
     },
     "collection": {
         "authors": "μια συλλογή από {{author}}",
@@ -582,7 +595,11 @@
             "connected_accounts": "Συνδεδεμένοι λογαριασμοί",
             "press_access": "Πρόσβαση τύπου",
             "privacy": "Απόρρητο",
-            "api_keys": "Κλειδιά API"
+            "api_keys": "Κλειδιά API",
+            "misc_header": "Διάφορα",
+            "developer_header": "Προγραμματιστής",
+            "support_email": "Ηλεκτρονική διεύθυνση υποστήριξης",
+            "billing_address": "Διεύθυνση χρέωσης"
         },
         "profile": {
             "language": "Γλώσσα",
@@ -611,12 +628,15 @@
             "password": "Κωδικός πρόσβασης",
             "new_password": "Νέος κωδικός πρόσβασης",
             "password_again": "Κωδικός πρόσβασης ξανά",
-            "new_password_again": "Νέος κωδικός πρόσβασης ξανά"
+            "new_password_again": "Νέος κωδικός πρόσβασης ξανά",
+            "set_password": "Όρισε κωδικό πρόσβασης"
         },
         "email_addresses": {
             "change_email_form": {
                 "current_password": "Τωρινός κωδικός πρόσβασης"
-            }
+            },
+            "primary_email_header": "Πρωτεύον ηλεκτρονική διεύθυνση",
+            "your_primary_email_address": "Η πρωτεύον ηλεκτρονική διεύθυνση σας: {{email}}"
         }
     },
     "stripe_checkout": {
