@@ -805,7 +805,21 @@
             },
             "primary_email_description": "Your primary email is where itch.io will send any notifications to you.",
             "change_password_instructions": "When you change your email address you must verify it to access any games you have purchased. You will be mailed the verification instructions. For security reasons you must also provide your current password to make any changes to your email address.",
-            "additional_emails_header": "Additional emails"
+            "additional_emails_header": "Additional emails",
+            "additional_emails_summary": "You can link additional email addresses to your itch.io account in order to get access to anything purchased under those email addresses. For example, your PayPal email address might be different than your regular email address so you'd want to add it as an additional email.",
+            "additional_emails_instructions": "You will be mailed verification instructions after adding an additional email.",
+            "add_email_form": {
+                "additional_email_address_label": "Additional Email Address",
+                "add_email_button": "Add Email"
+            },
+            "additional_emails": {
+                "emails_added_header": "Emails added",
+                "email_column": "Email",
+                "verified_column": "Verified",
+                "resend_verification_email_button": "resend verification email",
+                "email_sent_status": "email sent",
+                "detach_email": "Detach email"
+            }
         }
     },
     "stripe_checkout": {
