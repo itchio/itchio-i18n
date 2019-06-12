@@ -1,1 +1,23 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Hakkında",
+            "faq": "SSS",
+            "blog": "Blog",
+            "contact_us": "Bizimle iletişime geç",
+            "terms": "Koşullar",
+            "directory": "Rehber",
+            "privacy": "Gizlilik",
+            "cookies": "Çerezler"
+        },
+        "header": {
+            "browse": "Gezin",
+            "browse_games": "Oyunları Gez",
+            "upload_game": "Oyun Yükle",
+            "devlogs": "Geliştirici Günlükleri",
+            "community": "Topluluk",
+            "search_placeholder": "Oyunları veya yaratıcıları ara"
+        }
+    }
+}
