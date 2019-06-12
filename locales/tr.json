@@ -14,7 +14,10 @@
         "header": {
             "browse": "Gezin",
             "browse_games": "Oyunları Gez",
-            "upload_game": "Oyun Yükle"
+            "upload_game": "Oyun Yükle",
+            "devlogs": "Geliştirici Günlükleri",
+            "community": "Topluluk",
+            "search_placeholder": "Oyunları veya yaratıcıları ara"
         }
     }
 }
