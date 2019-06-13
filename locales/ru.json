@@ -497,6 +497,21 @@
             "see_everything": "Показать всё",
             "powered_by": "<s>Хостинг</s> {{itchio_logo}}",
             "app_learn_more": "<s>Новинка!</s> Попробуйте загружать игры с десктопным приложением itch.io. <a>Узнать больше</a>"
+        },
+        "report_form": {
+            "form_description": "Пожалуйста, заполните форму, чтобы сообщить команде модерации itch.io о контенте на этой странице. В случае необходимости ваше сообщение может быть переслано создателю страницы.",
+            "support_from_creator": "У вас возникают неполадки, вам нужна техническая поддержка от создателя?",
+            "support_page_link": "Перейти на официальную страницу поддержки",
+            "email_creator_link": "Написать на почту создателю",
+            "submit_report_button": "Отправить сообщение",
+            "title": "Пожаловаться на страницу '{{page_title}}'",
+            "report_received_header": "Сообщение отправлено",
+            "description_label": "Описание",
+            "reason_label": "Причина",
+            "reason_other": "Другое"
+        },
+        "password_required": {
+            "header": "Для просмотра этой страницы необходим пароль"
         }
     },
     "community": {
@@ -801,7 +816,21 @@
             },
             "primary_email_description": "Ваш основной email - тот, на который itch.io будет посылать уведомления.",
             "change_password_instructions": "Когда вы изменяете ваш email адрес, вы должны его верифицировать, чтобы получить доступ к купленным играм. Вам будет отправлено письмо с инструкциями. В целях безопасности вам также придётся указать текущий пароль, чтобы изменить email адрес.",
-            "additional_emails_header": "Дополнительные email"
+            "additional_emails_header": "Дополнительные email",
+            "additional_emails_summary": "Вы можете привязать дополнительные email адреса к аккаунту itch.io, чтобы получить доступ к играм, которые были куплены на эти адреса. Например, вы использовали другой email адрес для PayPal: теперь вы можете добавить его как дополнительный email.",
+            "additional_emails_instructions": "После добавления дополнительного email вам будут высланы инструкции по верификации.",
+            "add_email_form": {
+                "additional_email_address_label": "Дополнительный email адрес",
+                "add_email_button": "Добавить email"
+            },
+            "additional_emails": {
+                "emails_added_header": "Адреса добавлены",
+                "email_column": "Email",
+                "verified_column": "Верифицирован",
+                "resend_verification_email_button": "переотправить верификационное письмо",
+                "email_sent_status": "письмо отправлено",
+                "detach_email": "Отвязать email"
+            }
         }
     },
     "stripe_checkout": {
@@ -1312,7 +1341,17 @@
             "things_to_rate": "Без оценок"
         },
         "download_button": "Скачать",
-        "gift_button": "Подарить"
+        "gift_button": "Подарить",
+        "rate_game": {
+            "rating_saved_header": "Оценка сохранена",
+            "follow_creator": "Возможно, вы захотите подписаться на создателя {{project_title}}, чтобы быть в курсе новых релизов.",
+            "rating_removed_header": "Оценка удалена",
+            "rating_deleted_summary": "Ваша оценка была удалена.",
+            "delete_button": "Удалить оценку и отзыв",
+            "choose_stars": "Выставите оценку от 1 до 5 звёзд.",
+            "rate_header": "Оцените и напишите отзыв о {{project_title}}",
+            "you_rated_this_project_ago": "Вы оценили этот проект {{time_ago}}."
+        }
     },
     "nags": {
         "unverified_email": {
