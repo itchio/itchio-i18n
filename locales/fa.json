@@ -23,7 +23,21 @@
             "register": "ثبت نام",
             "dashboard": "داشبورد",
             "notifications_count": "{{count}} آگاهی",
-            "notifications_count_plural": "{{count}} آگاهی"
+            "notifications_count_plural": "{{count}} آگاهی",
+            "game_jams": "گردهمایی‌های ساخت بازی",
+            "jams": "گردهمایی‌ها",
+            "no_notifications": "آگاهی جدیدی ندارید",
+            "free_games": "بازی‌های رایگان",
+            "indie_game_store": "فروشگاه بازی‌های مستقل",
+            "game_development": "ساخت بازی",
+            "comics": "کمیک‌ها",
+            "sales": "حراج‌ها",
+            "bundles": "مجموعه‌ها",
+            "game_assets": "امکانات",
+            "fun_games": "بازی‌های جذاب",
+            "games": "بازی‌ها",
+            "feed_unseen_count": "{{count}} جدید",
+            "feed_unseen_count_plural": "{{count}} جدید"
         }
     },
     "misc": {
