@@ -493,6 +493,21 @@
             "see_everything": "Vegeu-ho tot",
             "powered_by": "<s>Fet amb</s> {{itchio_logo}}",
             "app_learn_more": "<s>Novetat!</s> Proveu l'aplicació d'escriptori d'itch.io per a descarregar i gestionar la vostra biblioteca. <a>Més informació</a>"
+        },
+        "report_form": {
+            "form_description": "Ompliu aquest formulari si us cal contactar amb l'equip de moderació d'itch.io pel que fa al contingut d'aquesta pàgina. El vostre informe es compartirà amb el creador de la pàgina, si cal.",
+            "support_from_creator": "Teniu problemes? Us cal ajuda del creador?",
+            "support_page_link": "Vés a la pàgina de suport oficial",
+            "email_creator_link": "Envia un correu electrònic al creador",
+            "submit_report_button": "Envia l'informe",
+            "title": "Informa de la pàgina '{{page_title}}'",
+            "report_received_header": "S'ha rebut un informe",
+            "description_label": "Descripció",
+            "reason_label": "Motiu",
+            "reason_other": "Altres"
+        },
+        "password_required": {
+            "header": "Cal una contrasenya per a veure aquesta pàgina"
         }
     },
     "community": {
@@ -790,7 +805,21 @@
             },
             "primary_email_description": "El vostre correu electrònic principal és on s'enviaran les notificacions d'itch.io.",
             "change_password_instructions": "Quan canvieu la vostra adreça de correu electrònic, cal que la verifiqueu per a poder accedir als jocs que hàgiu comprat. Us enviarem les instruccions de verificació per correu. Per motius de seguretat, cal que també proporcioneu la contrasenya actual per a fer cap canvi a la vostra adreça de correu electrònic.",
-            "additional_emails_header": "Correus electrònics addicionals"
+            "additional_emails_header": "Correus electrònics addicionals",
+            "additional_emails_summary": "Podeu enllaçar adreces de correu electrònic addicionals al vostre compte d'itch.io per a obtenir accés al que hàgiu adquirit amb aquelles adreces de correu electrònic. Per exemple, la vostra adreça de correu electrònic de PayPal pot ser diferent de la vostra adreça de correu electrònic normal, de manera que podeu voler afegir-la com a correu electrònic addicional.",
+            "additional_emails_instructions": "Després d'afegir un correu electrònic addicional, us hi enviarem instruccions de verificació.",
+            "add_email_form": {
+                "additional_email_address_label": "Adreça de correu electrònic addicional",
+                "add_email_button": "Afegeix un correu electrònic"
+            },
+            "additional_emails": {
+                "emails_added_header": "Correus electrònics afegits",
+                "email_column": "Correu electrònic",
+                "verified_column": "Verificat",
+                "resend_verification_email_button": "reenvia el correu electrònic de verificació",
+                "email_sent_status": "s'ha enviat el correu electrònic",
+                "detach_email": "Desacobla el correu electrònic"
+            }
         }
     },
     "stripe_checkout": {
@@ -1283,7 +1312,17 @@
             "things_to_rate": "Coses per a puntuar"
         },
         "download_button": "Descarrega",
-        "gift_button": "Regala"
+        "gift_button": "Regala",
+        "rate_game": {
+            "rating_saved_header": "S'ha desat la puntuació",
+            "follow_creator": "Considereu seguir el creador de {{project_title}} per a estar al dia dels seus darreres llançaments.",
+            "rating_removed_header": "S'ha eliminat la puntuació",
+            "rating_deleted_summary": "S'ha suprimit la vostra puntuació.",
+            "delete_button": "Suprimeix la puntuació i la ressenya",
+            "choose_stars": "Trieu una puntuació entre 1 i 5 estrelles.",
+            "rate_header": "Puntua i ressenya {{project_title}}",
+            "you_rated_this_project_ago": "Vau puntuar aquest projecte {{time_ago}}."
+        }
     },
     "nags": {
         "unverified_email": {
