@@ -64,6 +64,9 @@
         }
     },
     "index": {
-        "popular_tags": "برچسب‌های محبوب"
+        "popular_tags": "برچسب‌های محبوب",
+        "browse": "مرور",
+        "games_by_price": "بازی‌های بر اساس قیمت",
+        "download_app": "دانلود اپ"
     }
 }
