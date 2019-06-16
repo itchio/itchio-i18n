@@ -249,7 +249,9 @@
             "password": "Senha",
             "or_log_in_with_another_site": "Ou entre com outro site",
             "or": "ou",
-            "log_in_button": "Entrar"
+            "log_in_button": "Entrar",
+            "forgot_password": "Esqueci minha senha",
+            "create_account": "Criar conta"
         },
         "looking_for_something_you_bought": "Procurando por algo que você comprou?",
         "create_a_new_account": "Criar uma nova conta",
