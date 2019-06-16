@@ -37,12 +37,33 @@
             "fun_games": "بازی‌های جذاب",
             "games": "بازی‌ها",
             "feed_unseen_count": "{{count}} جدید",
-            "feed_unseen_count_plural": "{{count}} جدید"
+            "feed_unseen_count_plural": "{{count}} جدید",
+            "feed": "خوراک"
+        },
+        "user_menu": {
+            "explore": "گردش",
+            "create": "ساخت",
+            "account": "حساب کاربری",
+            "log_out": "خروج",
+            "settings": "تنظیمات",
+            "view_profile": "نمایش پروفایل",
+            "host_game_jam": "میزبانی گردهمایی ساخت بازی",
+            "sales_bundles": "حراج‌ها و مجموعه‌ها",
+            "new_project": "آپلود پروژه‌ی جدید",
+            "dashboard": "داشبورد",
+            "game_jams": "گردهمایی‌های ساخت بازی",
+            "recommendations": "پیشنهادها",
+            "library": "کتابخانه‌ی من",
+            "feed": "خوراک من",
+            "account_menu_tooltip": "منوی حساب کاربری"
         }
     },
     "misc": {
         "classifications": {
             "game": "بازی‌ها"
         }
+    },
+    "index": {
+        "popular_tags": "برچسب‌های محبوب"
     }
 }
