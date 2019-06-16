@@ -110,7 +110,8 @@
         "to_follow": {
             "empty_results": "Não temos mais recomendações agora. Volte mais tarde",
             "refresh_button": "Atualize para mais...",
-            "dismiss_tooltip": "Não sugerir mais"
+            "dismiss_tooltip": "Não sugerir mais",
+            "created_projects": "Criou {{project_list}}"
         }
     },
     "misc": {
