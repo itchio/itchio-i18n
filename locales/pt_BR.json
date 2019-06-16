@@ -302,6 +302,13 @@
         "product_summary1": "<s>itch.io</s> é uma maneira simples de distribuir seus jogos indie online gratuitamente. Envie seus arquivos e capturas de tela do jogo para um só lugar. Crie uma página personalizada onde o seu jogo é o foco.",
         "product_summary2": "Você pode até definir um preço mínimo para o seu jogo, dando aos fãs a oportunidade de pagar o que eles querem pelo seu jogo.",
         "my_dashboard": "Meu painel",
-        "upload_a_new_game": "Enviar um novo jogo"
+        "upload_a_new_game": "Enviar um novo jogo",
+        "account_faq_cta": "<1>Crie uma conta agora</1> ou <2>Leia o FAQ</2>",
+        "upload_your_indie_game": "Envie Seu Jogo Indie",
+        "track_your_game": "Monitore Seu Jogo",
+        "host_a_sale": "Organize Uma Promoção",
+        "host_a_sale_description": "Promova seus jogos e obtenha mais compras oferecendo seus jogos por um preço com desconto durante qualquer período de tempo.",
+        "learn_more": "Leia Mais",
+        "browser_game_description": "Faça dinheiro com seu jogo de navegador hospedando-o em <s>itch.io</s>. Seu jogo é embutido no navegador e os jogadores podem doar qualquer quantia que desejarem se gostarem do seu jogo."
     }
 }
