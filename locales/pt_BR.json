@@ -239,7 +239,8 @@
         "all_posts": "Todas as publicações",
         "updates": "Atualizações",
         "empty_message": "Não parece haver posts aqui",
-        "tag_filter": "Filtrando para {{tag}}. <a> Limpar tag </a>"
+        "tag_filter": "Filtrando para {{tag}}. <a> Limpar tag </a>",
+        "digest": "Resumo"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Faça login na sua conta itch.io",
