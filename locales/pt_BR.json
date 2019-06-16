@@ -301,6 +301,7 @@
         "page_header": "Crie uma página personalizada para distribuir ou vender seus jogos indie",
         "product_summary1": "<s>itch.io</s> é uma maneira simples de distribuir seus jogos indie online gratuitamente. Envie seus arquivos e capturas de tela do jogo para um só lugar. Crie uma página personalizada onde o seu jogo é o foco.",
         "product_summary2": "Você pode até definir um preço mínimo para o seu jogo, dando aos fãs a oportunidade de pagar o que eles querem pelo seu jogo.",
-        "my_dashboard": "Meu painel"
+        "my_dashboard": "Meu painel",
+        "upload_a_new_game": "Enviar um novo jogo"
     }
 }
