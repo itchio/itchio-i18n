@@ -311,6 +311,8 @@
         "learn_more": "Leia Mais",
         "browser_game_description": "Ganhe dinheiro com seu jogo de navegador hospedando-o em <s>itch.io</s>. Seu jogo é embutido no navegador e os jogadores podem doar qualquer quantia que desejarem se gostarem do seu jogo.",
         "design_your_games_page": "Customize a Página do Seu Jogo",
-        "upload_your_game_description": "Envie seu jogo indie para <s>itch.io</s> de graça. Nós hospedamos seu jogo, junto com screenshots deles e outros downloads. Seus downloads estão sempre disponíveis e sempre de rápidamente."
+        "upload_your_game_description": "Envie seu jogo indie para <s>itch.io</s> de graça. Nós hospedamos seu jogo, junto com screenshots e outros downloads. Seus downloads estão sempre disponíveis e sempre rapidamente.",
+        "learn_more_about": "Mais informações sobre:",
+        "share_message": "itch.io é uma maneira simples de distribuir seus jogos indie online gratuitamente."
     }
 }
