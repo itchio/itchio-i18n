@@ -8,7 +8,8 @@
             "contact_us": "Contato",
             "terms": "Termos",
             "directory": "Diretório",
-            "privacy": "Privacidade"
+            "privacy": "Privacidade",
+            "cookies": "Cookies"
         },
         "header": {
             "browse": "Navegar",
@@ -33,7 +34,11 @@
             "games": "Jogos",
             "feed_unseen_count": "{{count}} novo",
             "feed_unseen_count_plural": "{{count}} novo",
-            "feed": "Feed"
+            "feed": "Feed",
+            "dashboard": "Painel",
+            "jams": "Jams",
+            "notifications_count": "{{count}} notificação",
+            "notifications_count_plural": "{{count}} notificações"
         },
         "user_menu": {
             "explore": "Explorar",
@@ -101,7 +106,12 @@
         "intro_cta": "<1>Adicione seu jogo</1> or <2>Leia o FAQ</2>",
         "html5_games": "Jogos em HTML5",
         "page_title": "Baixe os últimos jogos indie",
-        "meta_description": "itch.io é uma maneira simples de encontrar, baixar e distribuir jogos indie online. Quer seja um desenvolvedor a tentar carregar o seu jogo ou apenas alguém à procura de algo novo para jogar, o itch.io tem tudo o que você precisa."
+        "meta_description": "itch.io é uma maneira simples de encontrar, baixar e distribuir jogos indie online. Quer seja um desenvolvedor a tentar carregar o seu jogo ou apenas alguém à procura de algo novo para jogar, o itch.io tem tudo o que você precisa.",
+        "to_follow": {
+            "empty_results": "Não temos mais recomendações agora. Volte mais tarde",
+            "refresh_button": "Atualize para mais...",
+            "dismiss_tooltip": "Não sugerir mais"
+        }
     },
     "misc": {
         "classifications": {
@@ -154,7 +164,10 @@
             "required": "Requerido",
             "save": "Salvar",
             "email_address": "Endereço de Email",
-            "submit": "Enviar"
+            "submit": "Enviar",
+            "optional": "Opcional",
+            "search": "Procurar",
+            "form_errors": "Por favor, verifique as informações que você forneceu"
         },
         "page_number": "Página {{page_number}}",
         "follow_button": {
@@ -182,7 +195,9 @@
             "next_page": "Próxima página",
             "prev": "Voltar",
             "next": "Próxima",
-            "current_page_of_total": "Página {{current_page}} de {{total_pages}}"
+            "current_page_of_total": "Página {{current_page}} de {{total_pages}}",
+            "previous_page": "Página anterior",
+            "first_page": "Primeira página"
         },
         "collection_button": {
             "add_to_collection": "Adicionar a coleção"
@@ -201,7 +216,8 @@
         "project_visibility": {
             "restricted": "Restrito",
             "published": "Publicado",
-            "draft": "Rascunho"
+            "draft": "Rascunho",
+            "public": "Público"
         },
         "view_more": "Ver mais",
         "dismiss": "Dispensar",
@@ -211,6 +227,70 @@
             "on_hold": "Em espera",
             "canceled": "Cancelado",
             "prototype": "Protótipo"
+        },
+        "errors": {
+            "server_error": "O servidor não respondeu, tente novamente mais tarde"
+        },
+        "more_ellip": "Mais…",
+        "loading_more_ellip": "Carregando mais…"
+    },
+    "blog": {
+        "all_posts": "Todas as publicações",
+        "updates": "Atualizações",
+        "empty_message": "Não parece haver posts aqui",
+        "tag_filter": "Filtrando para {{tag}}. <a> Limpar tag </a>"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Faça login na sua conta itch.io",
+        "login_form": {
+            "username_or_email": "Nome de usuário ou email",
+            "password": "Senha",
+            "or_log_in_with_another_site": "Ou entre com outro site",
+            "or": "ou",
+            "log_in_button": "Entrar"
+        },
+        "looking_for_something_you_bought": "Procurando por algo que você comprou?",
+        "create_a_new_account": "Criar uma nova conta",
+        "intent": {
+            "community": "Você precisará fazer login para participar das comunidades no itch.io. Criar uma conta é gratuito e leva apenas alguns instantes.",
+            "comment": "Você precisará de uma conta no itch.io antes de poder deixar um comentário.",
+            "rate_game": "Você precisará de uma conta no itch.io antes de poder classificar um jogo.",
+            "follow": "Você precisará de uma conta no itch.io antes de seguir alguém.",
+            "follow_username": "Você precisará de uma conta no itch.io antes de poder seguir <1> {{username}} </1>.",
+            "collection": "Você precisará de uma conta no itch.io antes de poder adicionar a uma coleção.",
+            "jam_submit": "Você precisará de uma conta no itch.io antes de poder enviar uma jam.",
+            "claim_object": "Por favor, faça o login ou crie uma conta para reivindicar {{noun}}",
+            "recent_purchases": "Faça login para vincular as compras que você fez recentemente."
+        },
+        "no_account_prompt": "Não tem uma conta? <1>Crie uma conta</1>",
+        "page_title": "Entrar",
+        "you_are_logged_out": "Você está desconectado",
+        "welcome_back": "Bem vindo(a) de volta!",
+        "welcome_to_itchio": "Bem vindo(a) ao itch.io!",
+        "errors": {
+            "accept_terms": "Você deve aceitar os Termos de Serviço"
         }
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Crie uma conta no itch.io",
+        "register_form": {
+            "create_account": "Criar conta",
+            "already_have_account": "ou já tem uma conta?",
+            "log_in": "Entrar",
+            "link_product": "Sua compra de <1>{{product}}</1> será vinculada à sua conta automaticamente depois que você se registrar.",
+            "accept_tos": "Eu aceito os <1>Termos de Serviço</1>",
+            "digest_signup": "Inscreva-me no boletim bimensal do itch.io",
+            "interest_gamer": "Estou interessado(a) em jogar ou baixar jogos no itch.io",
+            "interest_developer": "Estou interessado(a) em distribuir conteúdo no itch.io",
+            "account_preferences_info": "Você pode alterar suas respostas a essas perguntas mais tarde, elas são usadas para sugerir ao itch.io em como ele deve se apresentar para você.",
+            "about_you": "Sobre você",
+            "your_email_address": "Seu endereço de email",
+            "password": "Senha",
+            "repeat_password": "Repita a senha",
+            "url_preview": "Sua página de perfil será",
+            "username": "Nome de usuário(a)",
+            "other_registration_methods": "Outros métodos de registro"
+        },
+        "page_title": "Registrar conta"
     }
 }
