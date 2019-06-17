@@ -363,6 +363,30 @@
         "download_access": "Clique em baixar agora para obter acesso aos seguintes arquivos:",
         "get_access": "Você terá acesso aos seguintes arquivos:",
         "get_access_preorder": "Você terá acesso aos seguintes arquivos quando forem liberados:",
-        "download_demo_header": "Baixar demo"
+        "download_demo_header": "Baixar demo",
+        "available_header": "Disponível para",
+        "also_available_header": "Também disponível para",
+        "will_be_available_in": "Estará disponível {{time_remaining}}.",
+        "download_or_claim_button": "Baixe ou reivindique",
+        "download_now_button": "Baixe Agora",
+        "preorder_button": "Reserve agora",
+        "buy_now_button": "Compre Agora",
+        "name_your_own_price": "Dê seu próprio preço",
+        "on_sale": "Em Promoção!",
+        "percent_off": "<s>{{percent}}%</s> de desconto",
+        "price_or_more": "{{price}} <s>ou mais</s>",
+        "development_log_header": "Log de desenvolvimento",
+        "in_order_to_access": "Para acessar este {{noun}} é necessário adquiri-lo ao preço mínimo de {{price}}.",
+        "devlog_view_all_posts": "Ver todas as postagens",
+        "your_purchase_comes_with_a_steam_key": "Sua compra vem com uma chave Steam.",
+        "steam_key_bundle_disclaimer": "(Nota: chave do Steam não incluída no {{bundle_title}})",
+        "donate_button": "Apoie este {{noun}}",
+        "empty_page_no_uploads": "O criador não enviou nada ainda...",
+        "comments": {
+            "comments_header": "Comentários",
+            "leave_a_comment_header": "Deixe um comentário",
+            "leave_a_comment": "Deixe um comentário",
+            "click_to_leave_a_comment": "Clique para deixar um comentário..."
+        }
     }
 }
