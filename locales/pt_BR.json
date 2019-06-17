@@ -313,6 +313,56 @@
         "design_your_games_page": "Customize a Página do Seu Jogo",
         "upload_your_game_description": "Envie seu jogo indie para <s>itch.io</s> de graça. Nós hospedamos seu jogo, junto com screenshots e outros downloads. Seus downloads estão sempre disponíveis e sempre rapidamente.",
         "learn_more_about": "Mais informações sobre:",
-        "share_message": "itch.io é uma maneira simples de distribuir seus jogos indie online gratuitamente."
+        "share_message": "itch.io é uma maneira simples de distribuir seus jogos indie online gratuitamente.",
+        "create_account_or_login": "<1>Crie uma conta</1> <em>ou</em> <2> Faça o login </2>",
+        "upload_or_dashboard": "<1>Envie um novo jogo</1> <em>ou</em> <2>Vá para o painel</2>",
+        "design_your_games_page_description": "Crie uma página personalizada onde as pessoas compram ou baixam seu jogo. Você escolhe as cores, fontes, imagens e vídeos. Porque é a página do seu jogo, você não encontrará nada nela que você não tenha colocado lá.",
+        "track_your_game_description": "Acompanhe como as pessoas estão visualizando seu jogo com análises detalhadas sobre visualizações, downloads e compras. Quer fazer uma promoção? Gere chaves de download para dar acesso ao seu jogo."
+    },
+    "search": {
+        "creators": "Criadores:",
+        "published_count": "{{count}} projeto",
+        "published_count_plural": "{{count}} projetos",
+        "view_all_tags": "Ver todas as tags",
+        "browse_all_games": "Ver todos os jogos",
+        "search_results_for_query": "Resultados de pesquisa por '{{query}}'"
+    },
+    "app": {
+        "open_source": "Código aberto",
+        "share_message": "itch, o aplicativo de desktop para jogos indie",
+        "tagline": "Instale, atualize e jogue jogos independentes",
+        "start_download": "Iniciar Download",
+        "for_platforms": "Para <1>Windows</1>, <2>macOS</2> e <3>Linux</3>",
+        "summary": "O aplicativo itch.io, <s>itch</s>, permite que você baixe e execute facilmente jogos e softwares do itch.io. Todos os seus downloads são mantidos em um único local e são atualizados automaticamente. Acesse suas coleções e compras ou procure novos jogos por meio do navegador no aplicativo.",
+        "more_info_links": "<1>Leia mais no FAQ</1> ou <2>Leia o guia do aplicativo</2>",
+        "learn_more_below": "Saiba mais abaixo",
+        "contribute_link": "Quer contribuir? <a>Veja o código-fonte no GitHub</a>",
+        "updates": "Atualizações",
+        "read_the_app_guide": "Leia o guia do aplicativo",
+        "browse_header": "Procure por jogos que são como o criador pretendeu",
+        "browse_description": "No itch.io, os criadores controlam a aparência das páginas do projeto. O navegador incorporado permite transferir e instalar jogos enquanto explora os <a>designs de página únicos dos nossos criadores</a>.",
+        "updates_header": "Sempre atualizado",
+        "updates_description": "Os jogos que você instalou não apenas serão atualizados automaticamente, como o aplicativo em si será automaticamente transformado à medida que lançarmos novas funcionalidades e recursos. Os jogos que usam nossas novas ferramentas de linha de comando gerarão <em>delta patches</em>, garantindo que você faça o download apenas do que mudou quando novos jogos forem lançados.",
+        "web_games_header": "Jogos de navegador offline",
+        "web_games_description": "Você pode sincronizar todos os jogos baseados em navegador diretamente no aplicativo, permitindo que você os jogue offline quando quiser. Quando estiver online novamente, você poderá pegar qualquer atualização, se necessário.",
+        "languages_header": "Disponível no seu idioma",
+        "languages_description": "O aplicativo itch está disponível em mais de 20 idiomas, graças à comunidade itch.io! <a>Saiba mais sobre como traduzir</a>",
+        "download_now": "Baixe Agora",
+        "community_header": "Junte-se à comunidade",
+        "community_description": "Saiba mais sobre o desenvolvimento do aplicativo <1>em nossa comunidade</1>. Compartilhe solicitações de recursos e feedback geral com outros membros do itch.io. Se você é um programador, então ficará feliz em saber que todo o projeto é de <2>código aberto no GitHub </ 2>, estamos ansiosos para receber suas sugestões.",
+        "page_title": "Baixar aplicativo",
+        "meta_description": "itch, a melhor maneira de baixar e jogar jogos indie. Baixe jogos grátis e gerencie sua biblioteca a partir de sua área de trabalho. Agora disponível para Windows, macOS e Linux."
+    },
+    "game": {
+        "empty_page": "Não parece haver nada aqui...",
+        "more_information": "Mais Informações",
+        "install_instructions": "Instruções de instalação",
+        "download_header": "Baixar",
+        "unavailable": "Este {{game_noun}} está indisponível no momento",
+        "purchase_header": "Comprar",
+        "download_access": "Clique em baixar agora para obter acesso aos seguintes arquivos:",
+        "get_access": "Você terá acesso aos seguintes arquivos:",
+        "get_access_preorder": "Você terá acesso aos seguintes arquivos quando forem liberados:",
+        "download_demo_header": "Baixar demo"
     }
 }
