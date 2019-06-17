@@ -493,6 +493,21 @@
             "see_everything": "Alles ansehen",
             "powered_by": "<s>Unterstützt von</s> {{itchio_logo}}",
             "app_learn_more": "<s>Neu!</s> Teste itch.ios Desktop-App zum Downloaden und Verwalten deiner Sammlung. <a>Erfahre mehr</a>"
+        },
+        "report_form": {
+            "form_description": "Bitte benutze das Formula, wenn du dem itch.io-Moderationsteam wegen des Inhalts dieser Seite kontaktieren willst. Deine Nachricht wird eventuell mit dem Ersteller dieser Seite geteilt, wenn es notwendig ist.",
+            "support_from_creator": "Hast du Probleme, benötigst du Hilfe vom Ersteller?",
+            "support_page_link": "Geh zur offiziellen Support-Seite",
+            "email_creator_link": "Kontaktiere den Ersteller",
+            "submit_report_button": "Bericht abschicken",
+            "title": "'{{page_title}}' melden",
+            "report_received_header": "Bericht erhalten",
+            "description_label": "Beschreibung",
+            "reason_label": "Grund",
+            "reason_other": "Anderes"
+        },
+        "password_required": {
+            "header": "Ein Passwort wird benötigt, um diese Seite zu sehen"
         }
     },
     "community": {
@@ -790,7 +805,21 @@
             },
             "primary_email_description": "Deine primäre E-Mail-Adresse wird von itch.io benutzt, um dir Mitteilungen zu schicken.",
             "change_password_instructions": "Wenn du deine E-Mail-Adresse änderst, musst du diese bestätigen, um Zugriff auf all die Spiele zu haben, die du gekauft hast. Die Bestätigungs-Anleitung wird dir per Mail geschickt. Aus Sicherheitsgründen musst du für Änderungen an der E-Mail-Adresse dein aktuelles Passwort angeben.",
-            "additional_emails_header": "Zusätzliche E-Mail-Adressen"
+            "additional_emails_header": "Zusätzliche E-Mail-Adressen",
+            "additional_emails_summary": "Du kannst weitere E-Mail-Adressen mit deinem itch.io-Account verbinden, um auch von diesen Adressen auf alles zugreifen zu können. Deine PayPal-Adresse ist beispielsweise vielleicht eine andere als deine normale, daher wäre es klug, diese als zusätzliche Mailadresse einzutragen.",
+            "additional_emails_instructions": "Dir werden Verifizierungsanweiseungen per Mail geschickt, nachdem du eine zusätzliche Mailadresse hinzugefügt hast.",
+            "add_email_form": {
+                "additional_email_address_label": "Zusätzliche E-Mail-Adressen",
+                "add_email_button": "E-Mail-Adresse hinzufügen"
+            },
+            "additional_emails": {
+                "emails_added_header": "Hinzugefügte E-Mail-Adressen",
+                "email_column": "E-Mail-Adresse",
+                "verified_column": "Verifiziert",
+                "resend_verification_email_button": "Verifizierungs-Mail erneut schicken",
+                "email_sent_status": "Mail gesendet",
+                "detach_email": "E-Mail-Adresse entfernen"
+            }
         }
     },
     "stripe_checkout": {
@@ -1288,6 +1317,16 @@
             "things_to_rate": "Dinge zum Bewerten"
         },
         "download_button": "Download",
-        "gift_button": "Geschenk"
+        "gift_button": "Geschenk",
+        "rate_game": {
+            "rating_saved_header": "Bewertung gespeichert",
+            "follow_creator": "Du könntest dem Ersteller von {{project_title}} folgen, um immer up-to-date mit seinen neuesten Veröffentlichungen zu sein.",
+            "rating_removed_header": "Bewertung entfernt",
+            "rating_deleted_summary": "Deine Bewertung wurde gelöscht.",
+            "delete_button": "Bewertung & Review entfernen",
+            "choose_stars": "Wähle eine Bewertung von 1 bis 5 Sternen.",
+            "rate_header": "Bewerte & Reviewe {{project_title}}",
+            "you_rated_this_project_ago": "Du hast dieses Projekt vor {{time_ago}} bewertet."
+        }
     }
 }
