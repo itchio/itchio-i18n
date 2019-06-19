@@ -8,7 +8,8 @@
             "privacy": "Personvern",
             "cookies": "Informasjonskapsler",
             "terms": "Vilkår",
-            "faq": "FAQ"
+            "faq": "FAQ",
+            "directory": "Katalog"
         },
         "header": {
             "upload_game": "Last opp spill",
@@ -165,7 +166,8 @@
             "email_address": "Epost-adresse",
             "submit": "Send inn",
             "optional": "Valgfri",
-            "search": "Søk"
+            "search": "Søk",
+            "form_errors": "Vennligst dobbeltsjekk informasjonen du skrev inn"
         },
         "page_number": "Side {{page_number}}",
         "follow_button": {
@@ -227,7 +229,7 @@
             "prototype": "Prototype"
         },
         "errors": {
-            "server_error": "Serveren kunne ikke svare, prøv igjen senere"
+            "server_error": "Serveren sendte ikke et svar, prøv igjen senere"
         },
         "more_ellip": "Mer…",
         "loading_more_ellip": "Laster mer…"
@@ -384,7 +386,8 @@
             "leave_a_comment": "Legg igjen en kommentar",
             "click_to_leave_a_comment": "Klikk for å legge igjen en kommentar...",
             "log_in_to_leave_comment": "<a>Logg inn med itch.io</a> for å legge igjen en kommentar.",
-            "post_comment": "Publiser kommentar"
+            "post_comment": "Publiser kommentar",
+            "write_your_comment": "Skriv din kommentar…"
         },
         "info_panel": {
             "updated_at": "Oppdatert",
@@ -474,7 +477,30 @@
         },
         "after_download": {
             "share_this_project": "Del dette prosjektet",
-            "thanks_for_downloading_title": "Takk for at du lastet ned"
+            "thanks_for_downloading_title": "Takk for at du lastet ned",
+            "thanks_project_author": "Takk for at du laster ned {{project}} av {{author}}.",
+            "more_from_creator": "Du kan finne mer fra denne skaperen på profilen: {{profile}}.",
+            "check_popup_blocker": "Nedlastningen starter straks. Hvis ikke, sjekk om sprettoppvinduer er blokkert.",
+            "check_out_more_from_jam_title": "Sjekk ut mer fra {{jam_title}}",
+            "more_from_itchio_header": "Sjekk ut mer fra itch.io",
+            "see_everything": "Se alt",
+            "powered_by": "<s>Drevet av</s> {{itchio_logo}}",
+            "app_learn_more": "<s>Nytt!</s> Prøv itch.io sin skrivebordapp for å laste ned og håndtere biblioteket ditt. <a>Lær mer</a>"
+        },
+        "report_form": {
+            "form_description": "Vennligst fyll ut dette skjemaet hvis du trenger å kontakte itch.io sitt moderatorteam vedrørende innholdet på denne siden. Din rapport kan bli delt med sidens skaper om nødvendig.",
+            "support_from_creator": "Har du problemer og trenger hjelp fra skaperen?",
+            "support_page_link": "Gå til den offisielle brukerstøttesiden",
+            "email_creator_link": "Send epost til skaperen",
+            "submit_report_button": "Send inn rapport",
+            "title": "Rapporter siden '{{page_title}}'",
+            "report_received_header": "Rapport mottatt",
+            "description_label": "Beskrivelse",
+            "reason_label": "Årsak",
+            "reason_other": "Annet"
+        },
+        "password_required": {
+            "header": "Et passord kreves for å vise denne siden"
         }
     },
     "community": {
@@ -503,13 +529,99 @@
             "first_page": "Første side",
             "last_page": "Siste side",
             "this_topic_is_locked": "Dette emnet er låst",
-            "this_topic_was_locked_by_username": "Dette emnet ble låst av {{username}}"
+            "this_topic_was_locked_by_username": "Dette emnet ble låst av {{username}}",
+            "moderation": "Moderering"
         },
         "post_list": {
-            "deleted_post": "Slettet innlegg"
+            "deleted_post": "Slettet innlegg",
+            "post_from_blocked_account": "Innlegg fra blokkert konto",
+            "edit_blocks": "Rediger blokkeringer",
+            "edits_count_plural": "({{count}} endringer)",
+            "edits_count": "({{count}} endring)",
+            "reply": "Svar",
+            "like": "Lik",
+            "edit": "Rediger",
+            "delete_topic": "Slett emne",
+            "delete": "Slett",
+            "report": "Rapporter",
+            "ban": "Bannlys...",
+            "view_more_in_thread": "Vis mer i tråden",
+            "vote_up": "Stem opp",
+            "vote_down": "Stem ned",
+            "deleted_account": "Slettet konto",
+            "suspended_account": "Suspendert konto",
+            "pinned_reply": "Festet svar",
+            "pinned_post": "Festet innlegg",
+            "edited": "(redigert)"
+        },
+        "post_form": {
+            "add_profile_image": "Legg til profilbilde",
+            "save": "Lagre",
+            "post": "Innlegg",
+            "subscribe": "Abonner",
+            "subscribe_to_this_topic": "Abonner på dette emnet",
+            "subscribe_description": "Få varsler om nye svar på dette emnet",
+            "tag_header": "Merk",
+            "remove_tag": "Fjern merke",
+            "post_reply": "Publiser svar"
+        },
+        "new_topic": {
+            "moderator_tools": "Moderatorverktøy",
+            "sticky": "Festet",
+            "locked": "Låst",
+            "moderation_options": "Valg",
+            "i_agree_to_the_rules_above": "Jeg godtar reglene over",
+            "new_topic": "Nytt emne",
+            "this_a_community_run_message_board": "Dette er et forum drevet av fellesskapet.",
+            "see_community_guidelines": "Se<a>Retningslinjer for fellesskap</a> for itch.io sine retningslinjer rundt fellesskap.",
+            "title": "Tittel",
+            "body": "Brødtekst",
+            "topic_tag": "Merke",
+            "your_moderators_are": "itch.io modererer ikke disse forumene, dine moderatorer er:",
+            "page_title": "Publiser et nytt emne"
+        },
+        "misc": {
+            "new_topic_button": "Nytt emne"
+        },
+        "category": {
+            "topics_count": "{{count}} emne",
+            "topics_count_plural": "{{count}} emner",
+            "create_first_topic_button": "Opprett det første emnet",
+            "empty_message": "Det finnes ingen emner",
+            "there_arent_any_topics_yet": "Det er ingen emner ennå",
+            "search_community_label": "Søk i fellesskapet",
+            "subscribe_to_new_topics": "Abonner på nye emner",
+            "unsubscribe_from_topics": "Avslutt abonnement",
+            "stats": {
+                "topics": "Emner"
+            },
+            "rules_header": "Regler",
+            "recent_posts_header": "Nylige innlegg",
+            "list_header_last_topic": "Siste emne",
+            "new_flag": "Ny",
+            "archived_flag": "Arkivert",
+            "by_topic_author": "av {{username}}"
+        },
+        "topic_list": {
+            "views_count": "<s>{{count}}</s> visning",
+            "views_count_plural": "<s>{{count}}</s> visninger",
+            "no_posts_yet": "Ingen innlegg ennå",
+            "replies_count": "<s>{{count}}</s> svar",
+            "replies_count_plural": "<s>{{count}}</s> svar",
+            "started_by_author": "startet av {{topic_author}}",
+            "new_flag": "Ny",
+            "sticky_flag": "Festet",
+            "locked_flag": "Låst",
+            "list_header_topic_title": "Emne",
+            "list_header_last_post": "Siste innlegg"
         }
     },
     "browse": {
         "view_all_tags": "Se alle merker"
+    },
+    "buy_form": {
+        "download_title": "Last ned '{{title}}'",
+        "buy_title": "Kjøp '{{title}}'",
+        "preorder_title": "Forhåndsbestill '{{title}}'"
     }
 }
