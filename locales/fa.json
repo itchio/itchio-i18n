@@ -86,6 +86,14 @@
         "recommended_for_you": "پیشنهاد شده برای شما",
         "recommendations_based_on": "بر اساس چیزهایی که خریده، دانلود کرده، و امیتاز داده‌اید",
         "fresh_games": "بازی‌های تازه",
-        "view_more": "نمایش بیشتر"
+        "view_more": "نمایش بیشتر",
+        "featured_jams": "گردهمایی‌های ویژه",
+        "view_all_jams": "نمایش همه‌ی گردهمایی‌ها",
+        "fresh_games_description": "آخرین بازی‌های itch.io را بررسی کنید",
+        "people_to_follow": "افرادی که می‌توانید دنبال کنید",
+        "view_all_games_on_sale": "نمایش همه‌ی بازی‌های تخفیف خورده",
+        "more_featured_games": "بازی‌های ویژه‌ی بیشتر",
+        "game_dev_on_sale": "منابع ساخت بازی <1>تخفیف خورده</1>",
+        "view_all_on_sale": "نمایش همه‌ی تخفیف خورده‌ها"
     }
 }
