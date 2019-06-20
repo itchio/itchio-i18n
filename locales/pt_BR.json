@@ -349,7 +349,7 @@
         "languages_description": "O aplicativo itch está disponível em mais de 20 idiomas, graças à comunidade itch.io! <a>Saiba mais sobre como traduzir</a>",
         "download_now": "Baixe Agora",
         "community_header": "Junte-se à comunidade",
-        "community_description": "Saiba mais sobre o desenvolvimento do aplicativo <1>em nossa comunidade</1>. Compartilhe solicitações de recursos e feedback geral com outros membros do itch.io. Se você é um programador, então ficará feliz em saber que todo o projeto é de <2>código aberto no GitHub </ 2>, estamos ansiosos para receber suas sugestões.",
+        "community_description": "Saiba mais sobre o desenvolvimento do aplicativo <1>em nossa comunidade</1>. Compartilhe solicitações de recursos e feedback geral com outros membros do itch.io. Se você é um programador, então ficará feliz em saber que todo o projeto é de <2>código aberto no GitHub </2>, estamos ansiosos para receber suas sugestões.",
         "page_title": "Baixar aplicativo",
         "meta_description": "itch, a melhor maneira de baixar e jogar jogos indie. Baixe jogos grátis e gerencie sua biblioteca a partir de sua área de trabalho. Agora disponível para Windows, macOS e Linux."
     },
@@ -643,7 +643,7 @@
         "gift_email_instructions": "Você vai escolher um e-mail para enviar o presente depois de pagar",
         "i_already_paid_for_this": "Eu já paguei por isso...",
         "included_files": "Arquivos incluídos",
-        "agree_to_terms": "Ao concluir um pagamento, você concorda com os <1>Termos de Serviço</ 1> e a <2>Política de Privacidade</ 2> do itch.io.",
+        "agree_to_terms": "Ao concluir um pagamento, você concorda com os <1>Termos de Serviço</1> e a <2>Política de Privacidade</2> do itch.io.",
         "this_purchase_is_a_gift": "Esta compra é um presente",
         "support_the_creator_by_paying_above_the_minimum_price": "Apoie o criador pagando acima do preço mínimo",
         "support_the_creator_with_an_additional_contribution": "Apoie o criador com uma contribuição adicional",
