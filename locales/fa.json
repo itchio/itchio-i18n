@@ -33,7 +33,7 @@
             "comics": "کمیک‌ها",
             "sales": "حراج‌ها",
             "bundles": "مجموعه‌ها",
-            "game_assets": "امکانات",
+            "game_assets": "پکیج‌ها",
             "fun_games": "بازی‌های جذاب",
             "games": "بازی‌ها",
             "feed_unseen_count": "{{count}} جدید",
@@ -61,7 +61,7 @@
     "misc": {
         "classifications": {
             "game": "بازی‌ها",
-            "assets": "منابع ساخت بازی",
+            "assets": "پکیج‌ای ساخت بازی",
             "game_mod": "تغییرات مخصوص بازی‌ها",
             "physical_game": "بازی‌های فیزیکی",
             "soundtrack": "موسیقی بازی‌ها"
@@ -121,6 +121,11 @@
             "empty_results": "در حال حاضر پیشنهادی برای شما نداریم. بعدا دوباره سر بزنید",
             "refresh_button": "برای نتایج بیشتر صفحه را ریفرش کنید...",
             "dismiss_tooltip": "دیگه پیشنهاد نده"
+        }
+    },
+    "game": {
+        "info_panel": {
+            "asset_license": "مجوز پکیج"
         }
     }
 }
