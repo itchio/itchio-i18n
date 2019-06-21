@@ -885,6 +885,114 @@
         "link_my_account": "Vincular minha conta",
         "log_in_to_link": "Faça o login para vincular",
         "link_account_header": "Vincule esta página de download à sua conta itch.io",
-        "link_account_description": "Você pode vincular esta página de download a uma conta itch.io para nunca mais precisar se preocupar em perdê-la. Ele vai aparecer junto das outras coisas que você possui."
+        "link_account_description": "Você pode vincular esta página de download a uma conta itch.io para nunca mais precisar se preocupar em perdê-la. Ele vai aparecer junto das outras coisas que você possui.",
+        "must_link_account_description": "Você deve vincular esta página a uma conta itch.io antes de fazer o download. As contas são gratuitas e permitem acompanhar todos os jogos que você coletou.",
+        "already_own": "Parece que você já possui isto",
+        "access_existing_copy": "Você não pode reivindicar outra cópia, mas pode acessar sua existente.",
+        "get_external_key": "Obtenha a chave {{key_type}}",
+        "claim_external_key": "Reivindicar a chave {{key_type}}",
+        "claim_external_key_instructions": "Clique no botão para reivindicar.",
+        "payment_comes_with_key": "Seu pagamento vem com uma chave {{key_type}}!",
+        "access_comes_with_key": "Seu acesso vem com uma chave {{key_type}}!",
+        "access_it": "Acesse",
+        "email_capture": {
+            "dont_lose_your_purchase": "Não perca sua compra!",
+            "provide_email_instructions": "Digite seu endereço de e-mail para vinculá-lo à sua compra para que você possa recuperá-lo se perder essa página."
+        },
+        "purchase": {
+            "youve_been_gifted": "Você foi presenteado com {{product_title}}.",
+            "save_this_purchase_to_your_account": "Guarde esta compra na sua conta",
+            "link_purchase_links": "<1>Crie uma conta</1> ou <2>faça login no itch.io</2> para vincular instantaneamente esta compra.",
+            "link_purchase_warning": "Não perca sua compra!",
+            "thank_you_for_purchasing": "Obrigado por comprar {{product_title}}.",
+            "thank_you_for_purchasing_author": "Obrigado por comprar {{product_title}} de {{author}}.",
+            "thank_you_for_donating": "Obrigado por doar para {{product_title}}.",
+            "thank_you_for_donating_author": "Obrigado por doar para {{product_title}} de {{author}}.",
+            "unique_url_for_your_payment": "Esta página tem um URL exclusivo para o seu pagamento.",
+            "access_latest_files_from_this_page": "Você sempre pode acessar os arquivos mais recentes nesta página.",
+            "receipt_support_information": "Você também deve ter recebido um email com um link para esta página. Se você perder o URL dessa página, poderá solicitar que ele seja enviado por e-mail para você na <a>página de suporte</a>.",
+            "payment_summary": "Você pagou {{payment_price}} por isso em {{payment_date}}.",
+            "payment_summary_with_email": "Você pagou {{payment_price}} por isso em {{payment_date}} com o e-mail {{email_address}}.",
+            "percent_off": "{{percent}}% de desconto",
+            "linked_user_message": "Esta compra está vinculada à conta de {{username}}."
+        }
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "Hospedado por {{hosts}}",
+            "links": {
+                "community": "Comunidade",
+                "results": "Resultados",
+                "submissions": "Submissões",
+                "overview": "Apresentação",
+                "screenshots": "Screenshots",
+                "submission_feed": "Feed de envio",
+                "edit_jam": "Editar jam"
+            }
+        },
+        "stats": {
+            "joined": "Entrou",
+            "entries": "Entradas",
+            "ratings": "Avaliações"
+        },
+        "submitter": {
+            "join_jam": "Junte-se a jam",
+            "submit_button": "Envie seu projeto",
+            "or_leave_jam": "ou <a>deixar jam</a>",
+            "youve_joined": "Você está nessa jam.",
+            "joined_instructions": "Venha para esta página depois que a jam começar para enviar seu projeto.",
+            "leave_jam": "Sair da jam",
+            "submissions_open_from": "As inscrições estão abertas de {{start_date}} a {{end_date}}",
+            "jam_is_now_over": "Esta jam acabou. Ela ocorreu de {{start_date}} a {{end_date}}.",
+            "view_results": "Ver resultados",
+            "view_entries": "Ver {{count}} entrada",
+            "view_entries_plural": "Ver {{count}} entradas",
+            "countdown": {
+                "starts_in": "Começa em",
+                "submissions_due_in": "Envios acabam em",
+                "voting_ends_in": "A votação termina em"
+            },
+            "you_can_now_rate_games": "Agora você pode avaliar os jogos clicando neles abaixo",
+            "submission_is_closed_for_voting": "O envio está encerrado e a votação está em andamento"
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "Ainda não há submissões",
+            "there_were_no_submissions": "Não houve envios",
+            "submissions_will_be_available_after_the_jam_has_ended": "As inscrições estarão disponíveis após o término da jam",
+            "help_submissions_in_need_of_ratings": "Ajude a avaliar envios com poucas avaliações: <a>Envios que precisam de avaliações</a>",
+            "filters": {
+                "all_submissions": "Todos os envios",
+                "browser_playable": "Jogável no navegador"
+            },
+            "filter": "Filtro",
+            "empty_results": "Nenhum envio corresponde ao seu filtro",
+            "rated": "Avaliado"
+        },
+        "results": {
+            "results": "Resultados",
+            "submissions_summary": "<s>{{count}} entrada</s> foi enviada entre {{start_date}} e {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} entradas</s> foram enviadas entre {{start_date}} e {{end_date}}.",
+            "votes_cast_count": "<s>{{count}}</s> voto foi dado entre {{vote_start_date}} e {{vote_end_date}}.",
+            "votes_cast_count_plural": "<s>{{count}}</s> votos foram dados entre {{vote_start_date}} e {{vote_end_date}}.",
+            "ratings_given_count": "<s>{{count}} avaliação</s> foi dada entre {{vote_start_date}} e {{vote_end_date}}.",
+            "ratings_given_count_plural": "<s>{{count}} avaliações</s> foram dadas entre {{vote_start_date}} e {{vote_end_date}}.",
+            "ratings_given_submissions_count": "<s>{{count}} avaliação</s> foi dada para <s>{{submission_count}} entradas</s> ({{percent}}%) entre {{vote_start_date}} e {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "<s>{{count}} avaliações</s> foram dadas para <s>{{submission_count}} entradas</s> ({{percent}}%) entre {{vote_start_date}} e {{vote_end_date}}.",
+            "average_and_median_results": "O número médio de avaliações por jogo foi <s>{{average_ratings}}</s> e a mediana foi <s>{{median_ratings}}</s>.",
+            "empty_message": "Os resultados ainda não estão disponíveis, volte mais tarde",
+            "empty_page_message": "Nenhum resultado nesta página",
+            "no_rankings_available": "Nenhum ranking disponível",
+            "sort_by_criteria": "Por critérios",
+            "sort_overall": "No geral",
+            "submissions": {
+                "by_author": "de {{author}}",
+                "view_submission_page": "Visualizar página de envio",
+                "ranked": "{{ordinal_rank}} classificado",
+                "ranked_vote_count": "Classificado em {{ordinal_rank}} com {{count}} voto",
+                "ranked_vote_count_plural": "Classificado em {{ordinal_rank}} com {{count}} votos",
+                "ranked_rating_count": "Classificado em {{ordinal_rank}} com {{count}} avaliação",
+                "ranked_rating_count_plural": "Classificado em {{ordinal_rank}} com {{count}} avaliações"
+            }
+        }
     }
 }
