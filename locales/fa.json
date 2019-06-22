@@ -64,7 +64,62 @@
             "assets": "پکیج‌ای ساخت بازی",
             "game_mod": "تغییرات مخصوص بازی‌ها",
             "physical_game": "بازی‌های فیزیکی",
-            "soundtrack": "موسیقی بازی‌ها"
+            "soundtrack": "موسیقی بازی‌ها",
+            "other": "متفرقه",
+            "tool": "ابزارها",
+            "comic": "کمیک‌ها",
+            "book": "کتاب‌ها"
+        },
+        "accessibility_features": {
+            "colorblind": "مخصوص افراد کوررنگ",
+            "subtitles": "زیرنویس‌ها",
+            "configurable_controls": "کنترل‌های قابل پیکربندی",
+            "highcontrast": "کنتراست بالا",
+            "tutorial": "آموزش تعاملی",
+            "one_button": "تک دکمه",
+            "blind": "مخصوص افراد نابینا",
+            "textless": "بدون متن"
+        },
+        "multiplayer_features": {
+            "local": "چند نفره‌ی محلی",
+            "server": "چند نفره‌ی شبکه‌ای تحت سرور",
+            "adhoc": "چند نفره‌ی شبکه‌ای با Ad-hoc"
+        },
+        "inputs": {
+            "keyboard": "کیبورد",
+            "mouse": "موس",
+            "gamepad": "گیم‌پد (هر نوعی)",
+            "joystick": "جوی‌استیک",
+            "touchscreen": "صفحه لمسی",
+            "voice": "کنترل با صدا",
+            "accelerometer": "شتاب سنج",
+            "phone": "گوشی هوشمند",
+            "dance_pad": "صفحه رقص",
+            "midi_controller": "کنترل با MIDI"
+        },
+        "durations": {
+            "seconds": "چند ثانیه",
+            "minutes": "چند دقیقه",
+            "half_hour": "حدود نیم ساعت",
+            "hour": "حدود یک ساعت",
+            "hours": "چند ساعت",
+            "days": "چند روز یا بیشتر"
+        },
+        "forms": {
+            "required": "الزامی",
+            "save": "ذخیره",
+            "email_address": "آدرس ایمیل",
+            "submit": "ثبت",
+            "optional": "اختیاری",
+            "search": "جستجو",
+            "form_errors": "لطفا اطلاعاتی که وارد کردید را کنترل کنید"
+        },
+        "page_number": "صفحه‌ی {{page_number}}",
+        "follow_button": {
+            "follow_username": "دنبال کردن {{username}}",
+            "follow": "دنبال کردن",
+            "following_username": "در حال دنبال کردن {{username}}",
+            "following": "در حال دنبال کردن"
         }
     },
     "index": {
