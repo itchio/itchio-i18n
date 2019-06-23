@@ -18,12 +18,12 @@
             "devlogs": "Geliştirici günlükleri",
             "community": "Topluluk",
             "search_placeholder": "Oyunları ya da geliştiricileri ara",
-            "game_jams": "Game Jamler",
+            "game_jams": "Oyun Maratonları",
             "search": "Ara",
             "log_in": "Giriş yap",
             "register": "Kayıt ol",
             "dashboard": "Kontrol paneli",
-            "jams": "Jamler",
+            "jams": "Maratonlar",
             "notifications_count": "{{count}} bildirim",
             "notifications_count_plural": "{{count}} bildirim",
             "no_notifications": "Yeni bildirim yok",
@@ -33,7 +33,7 @@
             "comics": "Çizgi romanlar",
             "sales": "İndirimler",
             "bundles": "Paketler",
-            "game_assets": "Assetler",
+            "game_assets": "Kaynaklar",
             "fun_games": "Eğlencelik oyunlar",
             "games": "Oyunlar",
             "feed_unseen_count": "{{count}} yeni",
@@ -51,7 +51,7 @@
             "sales_bundles": "İndirimler ve paketler",
             "new_project": "Yeni proje yükle",
             "dashboard": "Kontrol paneli",
-            "game_jams": "Game jamler",
+            "game_jams": "Oyun Maratonları",
             "recommendations": "Önerilenler",
             "library": "Kütüphanem",
             "feed": "Akışım",
@@ -61,7 +61,7 @@
     "index": {
         "popular_tags": "Popüler Etiketler",
         "browse": "Gözat",
-        "games_by_price": "Fiyata göre oyunlar",
+        "games_by_price": "Fiyata göre Oyunlar",
         "download_app": "Uygulamayı indir",
         "view_something_random": "Rasgele bir şey göster",
         "view_all_games": "Tüm oyunları göster",
@@ -76,19 +76,50 @@
         "on_sale": "İndirimdekiler",
         "free_games": "Ücretsiz oyunlar",
         "top_sellers": "En iyi satıcılar",
-        "with_demo": "Demosu olanlar",
+        "with_demo": "Demo'lu oyunlar",
         "view_all": "Tümünü göster",
         "recommended_for_you": "Sizin için önerilenler",
         "recommendations_based_on": "Satın aldığınız, indirdiğiniz ve oyladığınız şeylere göre",
         "fresh_games": "Yeni Oyunlar",
         "view_more": "Daha fazla göster",
-        "featured_jams": "Öne çıkan jamler",
+        "featured_jams": "Öne çıkan maratonlar",
         "view_all_jams": "Tüm jamleri göster",
         "fresh_games_description": "itch.io da ki en son oyunlarla beraber sürekli olarak yenilenir",
         "people_to_follow": "Takip Edebileceğiniz Kişiler",
         "view_all_games_on_sale": "İndirimdeki tüm oyunları göster",
         "more_featured_games": "Daha Fazla Öne Çıkan Oyunlar",
         "game_dev_on_sale": "<1>İndirimdeki</1> Oyun Geliştirme Kaynakları",
-        "view_all_on_sale": "İndirim de ki lerin tümünü göster"
+        "view_all_on_sale": "İndirim de ki lerin tümünü göster",
+        "people_to_follow_description": "İşte ilginizi çekebilecek bazı kişiler.<a>Neden takip etmeli?</a>",
+        "view_all_platforms": "Tüm platformları görüntüle",
+        "nav": {
+            "all_games": "Tüm Oyunlar",
+            "bundles": "Paketler",
+            "game_jams": "Oyun Maratonları",
+            "community": "Topluluk"
+        },
+        "intro": "<s>itch.io</s>, çevrimiçi bağımsız oyunlar bulmanın ve paylaşmanın kolay bir yoludur.",
+        "html5_games": "HTML5 oyunları"
+    },
+    "misc": {
+        "classifications": {
+            "physical_game": "Fiziksel oyunlar",
+            "soundtrack": "Oyun Müzikleri",
+            "tool": "Araçlar",
+            "book": "Kitaplar"
+        },
+        "accessibility_features": {
+            "subtitles": "Altyazılar",
+            "configurable_controls": "Yapılandırılabilir kontroller",
+            "highcontrast": "Yüksek kontrast",
+            "one_button": "Tek tuş",
+            "textless": "Yazısız"
+        },
+        "multiplayer_features": {
+            "server": "Sunucu tabanlı çok oyunculu"
+        },
+        "inputs": {
+            "keyboard": "Klavye"
+        }
     }
 }
