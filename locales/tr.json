@@ -173,6 +173,12 @@
             "seconds": "Birkaç saniye",
             "minutes": "Birkaç dakika"
         },
-        "page_number": "Sayfa {{page_number}}"
+        "page_number": "Sayfa {{page_number}}",
+        "lightboxes": {
+            "close": "Kapat"
+        }
+    },
+    "user_login": {
+        "create_a_new_account": "Yeni bir hesap oluştur"
     }
 }
