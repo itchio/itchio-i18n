@@ -34,7 +34,7 @@
             "sales": "İndirimler",
             "bundles": "Paketler",
             "game_assets": "Kaynaklar",
-            "fun_games": "Eğlencelik oyunlar",
+            "fun_games": "Eğlenceli oyunlar",
             "games": "Oyunlar",
             "feed_unseen_count": "{{count}} yeni",
             "feed_unseen_count_plural": "{{count}} yeni",
@@ -47,7 +47,7 @@
             "log_out": "Çıkış yap",
             "settings": "Ayarlar",
             "view_profile": "Profili görüntüle",
-            "host_game_jam": "Game jam kur",
+            "host_game_jam": "Oyun maratonu başlat",
             "sales_bundles": "İndirimler ve paketler",
             "new_project": "Yeni proje yükle",
             "dashboard": "Kontrol paneli",
@@ -83,7 +83,7 @@
         "fresh_games": "Yeni Oyunlar",
         "view_more": "Daha fazla göster",
         "featured_jams": "Öne çıkan maratonlar",
-        "view_all_jams": "Tüm jamleri göster",
+        "view_all_jams": "Bütün maratonları göster",
         "fresh_games_description": "itch.io da ki en son oyunlarla beraber sürekli olarak yenilenir",
         "people_to_follow": "Takip Edebileceğiniz Kişiler",
         "view_all_games_on_sale": "İndirimdeki tüm oyunları göster",
@@ -99,14 +99,18 @@
             "community": "Topluluk"
         },
         "intro": "<s>itch.io</s>, çevrimiçi bağımsız oyunlar bulmanın ve paylaşmanın kolay bir yoludur.",
-        "html5_games": "HTML5 oyunları"
+        "html5_games": "HTML5 oyunları",
+        "to_follow": {
+            "dismiss_tooltip": "Daha fazla önerme"
+        }
     },
     "misc": {
         "classifications": {
             "physical_game": "Fiziksel oyunlar",
             "soundtrack": "Oyun Müzikleri",
             "tool": "Araçlar",
-            "book": "Kitaplar"
+            "book": "Kitaplar",
+            "game": "Oyunlar"
         },
         "accessibility_features": {
             "subtitles": "Altyazılar",
@@ -120,6 +124,9 @@
         },
         "inputs": {
             "keyboard": "Klavye"
+        },
+        "forms": {
+            "form_errors": "Lütfen girmiş olduğunuz bilgileri kontrol edin"
         }
     }
 }
