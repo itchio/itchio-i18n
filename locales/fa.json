@@ -119,7 +119,30 @@
             "follow_username": "دنبال کردن {{username}}",
             "follow": "دنبال کردن",
             "following_username": "در حال دنبال کردن {{username}}",
-            "following": "در حال دنبال کردن"
+            "following": "در حال دنبال کردن",
+            "unfollow_username": "لغو دنبال کردن {{username}}",
+            "unfollow": "لغو دنبال کردن"
+        },
+        "filter_when": {
+            "last_day": "روز گذشته",
+            "last_7_days": "7 روز گذشته",
+            "last_30_days": "30 روز گذشته"
+        },
+        "platforms": {
+            "web": "وب"
+        },
+        "filter_price": {
+            "free": "رایگان",
+            "on_sale": "تخفیف خورده",
+            "paid": "پولی"
+        },
+        "pager": {
+            "next_page": "صفحه‌ی بعدی",
+            "prev": "قبلی",
+            "next": "بعدی",
+            "current_page_of_total": "صفحه‌ی {{current_page}} از {{total_pages}}",
+            "previous_page": "صفحه‌ی قبلی",
+            "first_page": "صفحه‌ی اول"
         }
     },
     "index": {
