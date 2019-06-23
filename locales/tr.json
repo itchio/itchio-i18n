@@ -54,7 +54,7 @@
             "game_jams": "Oyun Maratonları",
             "recommendations": "Önerilenler",
             "library": "Kütüphanem",
-            "feed": "Akışım",
+            "feed": "Benim Akışım",
             "account_menu_tooltip": "Hesap Menüsü"
         }
     },
@@ -96,13 +96,18 @@
             "all_games": "Tüm Oyunlar",
             "bundles": "Paketler",
             "game_jams": "Oyun Maratonları",
-            "community": "Topluluk"
+            "community": "Topluluk",
+            "devlogs": "Geliştirici günlükleri"
         },
         "intro": "<s>itch.io</s>, çevrimiçi bağımsız oyunlar bulmanın ve paylaşmanın kolay bir yoludur.",
         "html5_games": "HTML5 oyunları",
         "to_follow": {
-            "dismiss_tooltip": "Daha fazla önerme"
-        }
+            "dismiss_tooltip": "Daha fazla önerme",
+            "empty_results": "Şimdilik başka bir önerimiz yok. Daha sonra yeniden uğrayın."
+        },
+        "filtering_platform": "{{platform_name}} için bütün oyunları göster",
+        "intro_cta": "<1>Oyununuzu ekleyin</1> ya da <2>S.S.S.'ı okuyun</2>",
+        "page_title": "En yeni bağımsız oyunları indirin"
     },
     "misc": {
         "classifications": {
@@ -110,7 +115,8 @@
             "soundtrack": "Oyun Müzikleri",
             "tool": "Araçlar",
             "book": "Kitaplar",
-            "game": "Oyunlar"
+            "game": "Oyunlar",
+            "comic": "Çizgi Romanlar"
         },
         "accessibility_features": {
             "subtitles": "Altyazılar",
@@ -120,13 +126,30 @@
             "textless": "Yazısız"
         },
         "multiplayer_features": {
-            "server": "Sunucu tabanlı çok oyunculu"
+            "server": "Sunucu tabanlı çok oyunculu",
+            "local": "Yerel çok oyunculu"
         },
         "inputs": {
             "keyboard": "Klavye"
         },
         "forms": {
-            "form_errors": "Lütfen girmiş olduğunuz bilgileri kontrol edin"
+            "form_errors": "Lütfen girmiş olduğunuz bilgileri kontrol edin",
+            "optional": "Opsiyonel",
+            "search": "Arama"
+        },
+        "follow_button": {
+            "following_username": "{{username}} takip ediliyor"
+        },
+        "filter_when": {
+            "last_day": "Son gün"
+        },
+        "filter_price": {
+            "on_sale": "İndirimli",
+            "paid": "Ücretli"
+        },
+        "pager": {
+            "previous_page": "Önceki sayfa",
+            "first_page": "Birinci sayfa"
         }
     }
 }
