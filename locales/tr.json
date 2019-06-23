@@ -5,7 +5,7 @@
             "about": "Hakkında",
             "faq": "SSS",
             "blog": "Blog",
-            "contact_us": "Bizimle iletişime geç",
+            "contact_us": "İletişim",
             "terms": "Koşullar",
             "directory": "Dizin",
             "privacy": "Gizlilik",
@@ -103,7 +103,7 @@
         "html5_games": "HTML5 oyunları",
         "to_follow": {
             "dismiss_tooltip": "Daha fazla önerme",
-            "empty_results": "Şimdilik başka bir önerimiz yok. Daha sonra yeniden uğrayın."
+            "empty_results": "Şimdilik başka bir önerimiz yok. Daha sonra yeniden uğrayın"
         },
         "filtering_platform": "{{platform_name}} için bütün oyunları göster",
         "intro_cta": "<1>Oyununuzu ekleyin</1> ya da <2>S.S.S.'ı okuyun</2>",
