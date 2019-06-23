@@ -107,7 +107,8 @@
         },
         "filtering_platform": "{{platform_name}} için bütün oyunları göster",
         "intro_cta": "<1>Oyununuzu ekleyin</1> ya da <2>S.S.S.'ı okuyun</2>",
-        "page_title": "En yeni bağımsız oyunları indirin"
+        "page_title": "En yeni bağımsız oyunları indirin",
+        "browse_content_type": "Gözat {{content_type}}"
     },
     "misc": {
         "classifications": {
@@ -130,26 +131,48 @@
             "local": "Yerel çok oyunculu"
         },
         "inputs": {
-            "keyboard": "Klavye"
+            "keyboard": "Klavye",
+            "mouse": "Fare",
+            "touchscreen": "Dokunmatik ekran",
+            "voice": "Ses kontrolü",
+            "accelerometer": "İvmeölçer",
+            "phone": "Akıllı telefon"
         },
         "forms": {
             "form_errors": "Lütfen girmiş olduğunuz bilgileri kontrol edin",
             "optional": "Opsiyonel",
-            "search": "Arama"
+            "search": "Arama",
+            "required": "Gerekli",
+            "save": "Kaydet",
+            "email_address": "E-Posta Adresi",
+            "submit": "Gönder"
         },
         "follow_button": {
-            "following_username": "{{username}} takip ediliyor"
+            "following_username": "{{username}} takip ediliyor",
+            "following": "Takip ediliyor"
         },
         "filter_when": {
-            "last_day": "Son gün"
+            "last_day": "Son gün",
+            "last_7_days": "Son 7 gün",
+            "last_30_days": "Son 30 gün"
         },
         "filter_price": {
             "on_sale": "İndirimli",
-            "paid": "Ücretli"
+            "paid": "Ücretli",
+            "free": "Ücretsiz"
         },
         "pager": {
             "previous_page": "Önceki sayfa",
-            "first_page": "Birinci sayfa"
-        }
+            "first_page": "Birinci sayfa",
+            "next_page": "Sonraki sayfa",
+            "prev": "Önceki",
+            "next": "Sonraki",
+            "current_page_of_total": "{{total_pages}} sayfadan {{current_page}}. sayfa"
+        },
+        "durations": {
+            "seconds": "Birkaç saniye",
+            "minutes": "Birkaç dakika"
+        },
+        "page_number": "Sayfa {{page_number}}"
     }
 }
