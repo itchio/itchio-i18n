@@ -1034,8 +1034,46 @@
                 "vote": "Votar",
                 "private_field": "(privado)",
                 "vote_for_this_submission": "Votar nesta submissão",
-                "rate_this_submission": "Avalie esta submissão"
+                "rate_this_submission": "Avalie esta submissão",
+                "not_open_yet": "O período de envio dessa jam ainda não terminou. A avaliação começa {{start_date}}.",
+                "owner_message": "Este é o seu envio, você não tem permissão para avaliá-lo. Outros participantes da jam poderão avaliar seu projeto aqui.",
+                "unavailable_to_rate": "Você não pode avaliar este projeto porque não enviou sua própria entrada. Você pode deixar um comentário abaixo.",
+                "sign_up_to_rate": "<a>Inscreva-se com uma conta itch.io</a> para avaliar e deixar comentários.",
+                "sign_up_to_vote": "<a>Inscreva-se com uma conta itch.io</a> para votar e deixar comentários.",
+                "participate_to_rate_message": "Para avaliar este envio, você deve estar <a>conectado ao itch.io</a> e ter enviado sua própria entrada. Qualquer pessoa com uma conta pode deixar um comentário.",
+                "you_will_be_able_to_rate_if_you_submit": "Você poderá avaliar essa entrada se enviar para essa jam.",
+                "other_participants_can_rate": "Outros que entraram na jam poderão avaliar sua entrada.",
+                "save_vote": "Salvar voto",
+                "save_rating": "Salvar avaliação",
+                "you_havent_rated_this_submission_yet": "Você ainda não avaliou este envio.",
+                "you_just_voted": "Você acabou de votar.",
+                "you_voted_ago": "Você votou em {{timestamp}}."
             }
+        },
+        "screenshots": {
+            "empty_message": "Não há screenshots enviadas ainda",
+            "loading_more": "Carregando mais screenshots..."
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "Receita bruta",
+            "payments": "Pagamentos",
+            "views": "Visualizações",
+            "downloads": "Downloads",
+            "followers": "Seguidores",
+            "following": "Seguindo"
+        },
+        "follow_itchio": "Siga itch.io no {{twitter}} e {{facebook}}",
+        "page_title": "Painel do criador",
+        "header": {
+            "projects_link": "Projetos",
+            "payments_link": "Pagamentos",
+            "analytics_link": "Dados",
+            "payouts_link": "Saídas",
+            "sales_bundles_link": "Vendas e bundles",
+            "coop_bundles_link": "Bundles cooperativos",
+            "game_jams_link": "Game jams"
         }
     }
 }
