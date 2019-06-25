@@ -991,7 +991,50 @@
                 "ranked_vote_count": "Classificado em {{ordinal_rank}} com {{count}} voto",
                 "ranked_vote_count_plural": "Classificado em {{ordinal_rank}} com {{count}} votos",
                 "ranked_rating_count": "Classificado em {{ordinal_rank}} com {{count}} avaliação",
-                "ranked_rating_count_plural": "Classificado em {{ordinal_rank}} com {{count}} avaliações"
+                "ranked_rating_count_plural": "Classificado em {{ordinal_rank}} com {{count}} avaliações",
+                "ranked_criteria": "Classificado em {{ordinal_rank}} em {{criteria_name}}",
+                "ranked_criteria_vote_count": "Classificado em {{ordinal_rank}} em {{criteria_name}} com {{count}} voto",
+                "ranked_criteria_vote_count_plural": "Classificado em {{ordinal_rank}} em {{criteria_name}} com {{count}} votos",
+                "ranked_criteria_rating_count": "Classificado em {{ordinal_rank}} em {{criteria_name}} com {{count}} avaliação",
+                "ranked_criteria_rating_count_plural": "Classificado em {{ordinal_rank}} em {{criteria_name}} com {{count}} avaliações",
+                "ranked_score": "Pontuação: {{score}}"
+            }
+        },
+        "submission": {
+            "results_table_criteria": "Critério",
+            "results_table_rank": "Classificação",
+            "results_table_votes": "Votos",
+            "results_table_score": "Pontuação",
+            "results_table_raw_score": "Pontuação bruta",
+            "edit_this_submission_button": "Edite esta submissão",
+            "remove_this_submission_button": "Remover esta submissão",
+            "a_jam_submission": "Participante de jam",
+            "view_game_page": "Ver página do jogo",
+            "view_project_page": "Ver página do projeto",
+            "comments": {
+                "leave_a_comment_header": "Deixar um comentário",
+                "post_comment": "Postar comentário",
+                "empty_message": "Ninguém postou comentários ainda"
+            },
+            "link_to_itchio_page": "Página do itch.io de {{game_title}}",
+            "downloads": "Downloads",
+            "play_game": "Jogar",
+            "run_project": "Executar projeto",
+            "score_information": "A pontuação é ajustada a partir da pontuação bruta pelo número mediano de avaliações por jogo na jam.",
+            "ranked_from_count_plural": "Classificado de <s>{{count}} avaliações</s>.",
+            "ranked_from_count": "Classificado de <s>{{count}} avaliação</s>.",
+            "results_header": "Resultados",
+            "ranked_with_vote_count": "Classificado em {{ordinal_rank}} com {{count}} voto",
+            "ranked_with_vote_count_plural": "Classificado em {{ordinal_rank}} com {{count}} votos",
+            "submitted_by_contributors": "Enviado por {{contributors}}",
+            "time_remaining_before_deadline": "{{time_duration}} antes do prazo final",
+            "rated_by_people_count_plural": "Avaliado por {{count}} pessoas até agora",
+            "rated_by_people_count": "Avaliado por {{count}} pessoa até agora",
+            "rate_submission": {
+                "vote": "Votar",
+                "private_field": "(privado)",
+                "vote_for_this_submission": "Votar nesta submissão",
+                "rate_this_submission": "Avalie esta submissão"
             }
         }
     }
