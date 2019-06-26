@@ -236,5 +236,14 @@
             "change_password_instructions": "E-posta adresinizi değiştirdiğinizde satın almış olduğunuz oyunlara ulaşabilmek için onu doğrulamanız gerekiyor. Doğrulama için gerekli adımları size e-posta yolu bildireceğiz. Güvenliğiniz için e-posta adresiniz ile ilgili herhangi bir değişiklik yapmadan şu anda kullandığınız şifreyi girmeniz istenecektir.",
             "additional_emails_header": "EK e-posta adresleri"
         }
+    },
+    "browse": {
+        "clear_filters": "Temizle",
+        "related_collections": "Benzer koleksiyonlar",
+        "filter_group_genre": "Tür",
+        "tag": {
+            "no_description_yet": "Henüz açıklama yok",
+            "suggest_updated_description": "Açıklama güncellemesi öner"
+        }
     }
 }
