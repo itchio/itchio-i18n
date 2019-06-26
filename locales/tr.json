@@ -180,5 +180,61 @@
     },
     "user_login": {
         "create_a_new_account": "Yeni bir hesap oluştur"
+    },
+    "user_settings": {
+        "navigation": {
+            "privacy": "Gizlilik",
+            "data_export": "Veri çıktısı",
+            "api_keys": "API anahtarları",
+            "oauth_applications": "OAuth uygulamaları",
+            "thirdparty_analytics": "Üçüncü-taraf analitiği"
+        },
+        "profile": {
+            "language_community_translation": "<s>itch.io topluluk üyeleri tarafından çevirildi</s> Bazı diller sadece kısmen hazır. Eğer itch.io'yu dilinize çevirmek ya da hata düzeltmek isterseniz, siz de katkıda bulunabilirsinizç <a>Daha fazla öğrenin</a>",
+            "language": "Dil",
+            "language_description": "itch.io kullanıcı arayüzü dili",
+            "page_header": "Profil",
+            "username": "Kullanıcı adı",
+            "username_description": "Hesabınıza giriş yapmak için ve sayfanızın URL adresi olarak kullanılıyor",
+            "change_username": "Kullanıcı adımı/URL adresimi değiştir",
+            "you_recently_changed_your_username": "Kullanıcı adınızı yeni değiştirdiniz",
+            "url_description": "Hesabınızın herkese açık URL adresi",
+            "profile_image": "Profil resmi",
+            "profile_image_description": "Bir eylem gerçekleştiridğiniz zaman, isminizin yanında çıkar (boyutları kare şeklindedir)",
+            "display_name": "Görünen isim",
+            "display_name_description": "Kullanıcı adınızın yerine gösterilecek isim. Varsayılan olarak kullanıcı adınızın kullanılması için boş bırakın",
+            "website": "Site",
+            "website_description": "Profil sayfanızda gösterilecek opsiyonel URL",
+            "twitter_description": "Profilinizde gösterilecek Twitter hesabı",
+            "account_type": "Hesap tipi",
+            "account_type_description": "Hesabınızı nasıl kullanacaksınız",
+            "account_type_gamer": "Oyun oynamak ve indirmek",
+            "account_type_developer": "Oyun geliştirmek ve yayınlamak",
+            "default_language_option": "Varsayılan (çeviri için beta testi devam ettiği sürece İngilizceye ayarlı)",
+            "content": "İçerik",
+            "content_description": "Itch.io içeriğinin size gösterilme şekli",
+            "show_adult_content": "Arama yaparken ve göz gezdirirken yetişkinlere yönelik içeriği göster",
+            "disable_autoloading_next_page_when_browsing": "Göz atarken sonraki sayfanın otomatik yüklenmesini devre dışı bırak",
+            "click_to_load_games": "Gömülü HTML5 oyunlarını oynamak için tıklamayı gerektir",
+            "use_dark_theme": "Mümkün olduğunda karanlık temayı kullan",
+            "profile": "Profil"
+        },
+        "password": {
+            "password": "Şifre",
+            "new_password": "Yeni şifre",
+            "password_again": "Şifreyi tekrarlayın",
+            "new_password_again": "Yeni şifreyi tekrarlayın"
+        },
+        "email_addresses": {
+            "primary_email_header": "Ana e-posta adresi",
+            "your_primary_email_address": "Ana e-posta adresiniz: {{email}}",
+            "change_email_form": {
+                "new_email_address": "Yeni e-posta adresi",
+                "current_password": "Şu anki şifre"
+            },
+            "primary_email_description": "Itch.io'nun bildirim göndereceği adres ana e-posta adresinizdir.",
+            "change_password_instructions": "E-posta adresinizi değiştirdiğinizde satın almış olduğunuz oyunlara ulaşabilmek için onu doğrulamanız gerekiyor. Doğrulama için gerekli adımları size e-posta yolu bildireceğiz. Güvenliğiniz için e-posta adresiniz ile ilgili herhangi bir değişiklik yapmadan şu anda kullandığınız şifreyi girmeniz istenecektir.",
+            "additional_emails_header": "EK e-posta adresleri"
+        }
     }
 }
