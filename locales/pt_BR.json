@@ -1126,7 +1126,44 @@
             "pricing_header": "Preços",
             "uploads_header": "Uploads",
             "upload_files_button": "Fazer upload de arquivos",
-            "add_external_file_button": "Adicionar arquivo externo"
+            "add_external_file_button": "Adicionar arquivo externo",
+            "file_size_limit": "Limite de tamanho do arquivo: {{filesize}}. <a>Entre em contato</a> se precisar de mais espaço",
+            "content_guidelines_header": "Certifique-se de que todos possam encontrar sua página",
+            "content_guidelines_info": "Revise nossas <a>diretrizes de qualidade</a> antes de postar seu projeto",
+            "payment_warning_header": "Você não tem pagamento configurado",
+            "payment_warning_info": "Se você definir um preço mínimo acima de 0, ninguém poderá fazer o download do seu projeto sem pagar. <a>Editar conta</a>",
+            "cover_uploader": {
+                "confirm_remove": "Tem certeza de que deseja remover a imagem de capa?",
+                "cover_description": "A imagem de capa é usada sempre que o itch.io quiser vincular seu projeto a outra parte do site. Requerido (Mínimo: 315x250, Recomendado: 630x500)",
+                "replace_image": "Substituir imagem de capa",
+                "remove_image": "Remover Imagem",
+                "upload_button": "Carregar Imagem de Capa"
+            },
+            "errors": {
+                "invalid_file": "Há um problema com o arquivo selecionado",
+                "invalid_image": "Por favor, edite sua imagem ou tente outra"
+            },
+            "error_dialog": {
+                "confirm_button": "Entendido",
+                "title": "Houve um problema ao salvar seu projeto"
+            },
+            "visibility_access_header": "Visibilidade e acesso",
+            "visibility_access_info": "Use Rascunho para revisar sua página antes de torná-la pública. <a>Saiba mais sobre os modos de acesso</a>",
+            "access_control": {
+                "disable_downloads_option": "Desativar novos downloads e compras",
+                "unlisted_option": "Não listado na pesquisa e navegação",
+                "allow_password_option": "Permitir também uma senha para visualizar a página",
+                "password_label": "Senha",
+                "public_access_settings": "Configurações de acesso público",
+                "restricted_access_settings": "Configurações de acesso restrito",
+                "access_settings": "Acessar configurações"
+            },
+            "embed_options_header": "Opções de incorporação",
+            "embed_options": {
+                "viewport_dimensions": "Dimensões da janela de visualização",
+                "width": "Largura",
+                "height": "Altura"
+            }
         }
     }
 }
