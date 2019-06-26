@@ -1162,7 +1162,9 @@
             "embed_options": {
                 "viewport_dimensions": "Dimensões da janela de visualização",
                 "width": "Largura",
-                "height": "Altura"
+                "height": "Altura",
+                "frame_options": "Opções de frame",
+                "mobile_friendly_option": "Amigável para dispositivos móveis"
             }
         }
     }
