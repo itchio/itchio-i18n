@@ -1164,8 +1164,69 @@
                 "width": "Largura",
                 "height": "Altura",
                 "frame_options": "Opções de frame",
-                "mobile_friendly_option": "Amigável para dispositivos móveis"
-            }
+                "mobile_friendly_option": "Amigável para dispositivos móveis",
+                "mobile_friendly_info": "Seu projeto pode ser executado em telefones celulares (resolução menor e suporte a toque)",
+                "orientation": "Orientação",
+                "fullscreen_button_option": "Botão de tela cheia",
+                "enable_scrollbars_option": "Ativar barras de rolagem",
+                "embed_in_page_option": "Incorporar na página",
+                "launch_fullscreen_option": "Clique para iniciar em tela cheia"
+            },
+            "details_genre_header": "Gênero",
+            "details_tags_header": "Tags",
+            "details_genre_info": "Selecione a categoria que melhor descreve seu jogo. Você pode escolher gêneros adicionais com tags abaixo",
+            "pricing": {
+                "free_or_donate": "{{money}} ou doar",
+                "paid": "Pago",
+                "no_payments": "Sem pagamentos",
+                "embed_pricing_info": "Definir um preço mínimo só restringirá o acesso a arquivos para download. O conteúdo incorporado está disponível gratuitamente.",
+                "minimum_price_label": "Preço minimo",
+                "minimum_price_info": "Preço mínimo a pagar para obter acesso ao download do jogo",
+                "free_price_info": "Alguém fazendo download do seu projeto receberá um pedido de doação antes de obter acesso. Eles podem pular para baixar gratuitamente.",
+                "default_donation_amount_info": "Valor padrão de doação",
+                "payment_disabled_info": "Os arquivos do projeto estarão disponíveis gratuitamente e nenhuma doação poderá ser feita",
+                "suggest_default_price_label": "Sugira um preço padrão alternativo",
+                "suggested_donation_label": "Doação sugerida",
+                "suggested_price_label": "Preço sugerido",
+                "default_price_info": "Preço padrão é mostrado quando alguém tenta comprar seu projeto",
+                "price_too_low_error": "Por favor, forneça um valor maior que o preço do projeto"
+            },
+            "uploads": {
+                "delete_file_button": "Excluir arquivo",
+                "play_in_browser_toggle": "Este arquivo será jogado no navegador",
+                "hide_toggle": "Esconder este arquivo e impedir que ele seja baixado",
+                "demo_toggle": "Este arquivo é uma demonstração e pode ser baixado gratuitamente",
+                "preorder_toggle": "Este arquivo é um espaço reservado para pré-encomenda",
+                "set_price_toggle": "Definir um preço diferente para este arquivo",
+                "change_display_name_button": "Mudar nome de exibição"
+            },
+            "community_field_info": "Crie uma comunidade para o seu projeto, permitindo que as pessoas publiquem na sua página.",
+            "community_comments_info": "Adicione um tópico de comentário aninhado na parte inferior da página do projeto",
+            "community_discussion_board_info": "Adicione uma página da comunidade com categorias, tópicos, respostas e mais",
+            "add_screenshots": "Adicionar screenshots",
+            "screenshots_header": "Screenshots"
+        },
+        "project_header": {
+            "edit_project": "Editar projeto",
+            "devlog": "Devlog",
+            "metadata": "Metadados",
+            "analytics": "Dados",
+            "distribute": "Distribuir",
+            "interact": "Interagir",
+            "edit_comments": "Editar comentários",
+            "discussion_board": "Fórum de discussão",
+            "rewards": "Recompensas",
+            "admins": "Admins",
+            "more": "Mais"
         }
+    },
+    "add_to_collection": {
+        "dialog_title": "Adicionar {{project_title}} à coleção",
+        "add_reason": "Adicione este projeto a uma coleção para salvá-lo para mais tarde.",
+        "already_in_collections": "Este projeto já está nas seguintes coleções:",
+        "count_items": "{{count}} item",
+        "count_items_plural": "{{count}} itens",
+        "add_to_existing": "Adicionar à coleção existente",
+        "private_collection_title": "[Privado] {{title}}"
     }
 }
