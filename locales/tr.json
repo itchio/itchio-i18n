@@ -187,7 +187,27 @@
             "data_export": "Veri çıktısı",
             "api_keys": "API anahtarları",
             "oauth_applications": "OAuth uygulamaları",
-            "thirdparty_analytics": "Üçüncü-taraf analitiği"
+            "thirdparty_analytics": "Üçüncü-taraf analitiği",
+            "basics_header": "Temel",
+            "payment_header": "Ödeme",
+            "publisher_header": "Yayıncı",
+            "contact_header": "İletişim",
+            "misc_header": "Diğer",
+            "developer_header": "Geliştirici",
+            "profile": "Profil",
+            "password": "Şifre",
+            "email_addresses": "E-Posta adresleri",
+            "two_factor_auth": "İki aşamalı doğrulama",
+            "support_email": "Destek e-posta adresi",
+            "publisher_get_started": "Başla",
+            "revenue_sharing": "Gelir paylaşımı",
+            "payment_processors": "Ödeme işlemleri birimi",
+            "tax_information": "Vergi bilgileri",
+            "payout_mode": "Ödeme şekli",
+            "credit_cards": "Kredi kartları",
+            "billing_address": "Fatura adresi",
+            "email_notifications": "E-Posta bildirimleri",
+            "connected_accounts": "Bağlı hesaplar"
         },
         "profile": {
             "language_community_translation": "<s>itch.io topluluk üyeleri tarafından çevirildi</s> Bazı diller sadece kısmen hazır. Eğer itch.io'yu dilinize çevirmek ya da hata düzeltmek isterseniz, siz de katkıda bulunabilirsinizç <a>Daha fazla öğrenin</a>",
@@ -217,13 +237,18 @@
             "disable_autoloading_next_page_when_browsing": "Göz atarken sonraki sayfanın otomatik yüklenmesini devre dışı bırak",
             "click_to_load_games": "Gömülü HTML5 oyunlarını oynamak için tıklamayı gerektir",
             "use_dark_theme": "Mümkün olduğunda karanlık temayı kullan",
-            "profile": "Profil"
+            "profile": "Profil",
+            "disable_animated_gifs": "Hareketli gif'leri devre dışı bırak",
+            "profile_description": "Profil sayfanızın içeriği"
         },
         "password": {
             "password": "Şifre",
             "new_password": "Yeni şifre",
             "password_again": "Şifreyi tekrarlayın",
-            "new_password_again": "Yeni şifreyi tekrarlayın"
+            "new_password_again": "Yeni şifreyi tekrarlayın",
+            "reset_password": "Şifreyi sıfırla",
+            "set_password": "Şifre ayarla",
+            "current_password": "Şu anki şifre"
         },
         "email_addresses": {
             "primary_email_header": "Ana e-posta adresi",
@@ -235,7 +260,8 @@
             "primary_email_description": "Itch.io'nun bildirim göndereceği adres ana e-posta adresinizdir.",
             "change_password_instructions": "E-posta adresinizi değiştirdiğinizde satın almış olduğunuz oyunlara ulaşabilmek için onu doğrulamanız gerekiyor. Doğrulama için gerekli adımları size e-posta yolu bildireceğiz. Güvenliğiniz için e-posta adresiniz ile ilgili herhangi bir değişiklik yapmadan şu anda kullandığınız şifreyi girmeniz istenecektir.",
             "additional_emails_header": "EK e-posta adresleri"
-        }
+        },
+        "account_settings": "Hesap ayarları"
     },
     "browse": {
         "clear_filters": "Temizle",
@@ -243,7 +269,29 @@
         "filter_group_genre": "Tür",
         "tag": {
             "no_description_yet": "Henüz açıklama yok",
-            "suggest_updated_description": "Açıklama güncellemesi öner"
-        }
+            "suggest_updated_description": "Güncel açıklama öner"
+        },
+        "filter_group_release_status": "Yayınlanma durumu",
+        "filter_group_misc": "Diğer",
+        "filter_group_collection": "Koleksiyon",
+        "filter_group_tools": "Araçlar ve Motorlar",
+        "fresh_description": "Üyelerimiz tarafından öne çıkarılan ve sık sık güncellenen proje listesine göz atın. Yeni eklenen projeleri görmek için burayı daha sonra tekrar kontrol edin.",
+        "filter_group": {
+            "more_options": "Daha Fazla Seçenek",
+            "fewer_options": "Daha Az Seçenek",
+            "toggle_more_options": "Daha Fazla Seçenek Göster/Gizle",
+            "clear_filter": "Filtreyi temizle"
+        },
+        "filter_everything_else": "Diğer her şey"
+    },
+    "browse_tags": {
+        "page_title": "Popüeler etiketler",
+        "find_tag": "Etiket bul",
+        "commonly_tagged_with": "Genelde şununla etiketlenmiş: ",
+        "no_description_yet": "Henüz bir açıklama yok"
+    },
+    "buy_form_popup": {
+        "author_line": "{{author}} <1> isimli geliştiriciden</1>",
+        "powered_by_itchio": "{{itchio}} tarafından destekleniyor"
     }
 }
