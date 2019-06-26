@@ -25,7 +25,7 @@
             "dashboard": "Kontrol paneli",
             "jams": "Maratonlar",
             "notifications_count": "{{count}} bildirim",
-            "notifications_count_plural": "{{count}} bildirim",
+            "notifications_count_plural": "{{count}} bildirimler",
             "no_notifications": "Yeni bildirim yok",
             "free_games": "Ücretsiz oyunlar",
             "indie_game_store": "Bağımsız oyun mağazası",
