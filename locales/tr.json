@@ -269,7 +269,8 @@
         "filter_group_genre": "Tür",
         "tag": {
             "no_description_yet": "Henüz açıklama yok",
-            "suggest_updated_description": "Güncel açıklama öner"
+            "suggest_updated_description": "Güncel açıklama öner",
+            "suggest_description_for_this_tag": "Bu etiket için bir açıklama öner"
         },
         "filter_group_release_status": "Yayınlanma durumu",
         "filter_group_misc": "Diğer",
@@ -282,7 +283,10 @@
             "toggle_more_options": "Daha Fazla Seçenek Göster/Gizle",
             "clear_filter": "Filtreyi temizle"
         },
-        "filter_everything_else": "Diğer her şey"
+        "filter_everything_else": "Diğer her şey",
+        "filter_group_platform": "Platform",
+        "view_all_tags": "Tüm etiketleri gör",
+        "filter_by_tag": "Etikete göre filtrele"
     },
     "browse_tags": {
         "page_title": "Popüeler etiketler",
