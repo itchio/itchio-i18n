@@ -489,6 +489,21 @@
             "see_everything": "모두 보기",
             "powered_by": "{{itchio_logo}} <s>제공</s>",
             "app_learn_more": "<s>신규!</s> itch.io의 데스크톱 앱으로 라이브러리를 다운로드하고 관리하세요. <a>더 알아보기</a>"
+        },
+        "report_form": {
+            "form_description": "itch.io 관리팀에 연락하려면 이 페이지에 있는 양식을 작성해 주셔야 합니다. 필요한 경우 제작자에게 신고를 공유합니다.",
+            "support_from_creator": "문제가 있다면, 제작자에게서 도움을 원하시나요?",
+            "support_page_link": "공식 지원 페이지로 가기",
+            "email_creator_link": "제작자에게 이메일 보내기",
+            "submit_report_button": "신고 전송",
+            "title": "'{{page_title}}' 페이지 신고",
+            "report_received_header": "신고 접수됨",
+            "description_label": "설명",
+            "reason_label": "이유",
+            "reason_other": "기타"
+        },
+        "password_required": {
+            "header": "이 페이지를 보려면 비밀번호가 필요함"
         }
     },
     "community": {
@@ -783,7 +798,21 @@
             },
             "primary_email_description": "이메일로 itch.io가 알림을 보냅니다.",
             "change_password_instructions": "이메일을 바꾸고 구매한 게임에 접근하려면 반드시 확인해야합니다. 확인 절차는 메일로 보내집니다. 보안상의 이유로 이메일을 변경하려면 반드시 비밀번호를 알려주셔야 합니다.",
-            "additional_emails_header": "추가 이메일"
+            "additional_emails_header": "추가 이메일",
+            "additional_emails_summary": "itch.io에 다른 이메일을 추가해서 해당 이메일로 구매한 것들에 대해 접근 권한을 가질 수 있습니다. 예를 들어, PayPal 이메일이 자주 쓰는 이메일 주소와 다르다면 추가할 수도 있습니다.",
+            "additional_emails_instructions": "다른 이메일을 추가하면 인증 절차와 관련된 메일을 받으실 수 있습니다.",
+            "add_email_form": {
+                "additional_email_address_label": "다른 이메일 주소",
+                "add_email_button": "이메일 추가"
+            },
+            "additional_emails": {
+                "emails_added_header": "이메일 추가됨",
+                "email_column": "이메일",
+                "verified_column": "인증됨",
+                "resend_verification_email_button": "인증 이메일 재전송",
+                "email_sent_status": "이메일 전송됨",
+                "detach_email": "이메일 제거"
+            }
         }
     },
     "stripe_checkout": {
@@ -1262,7 +1291,17 @@
             "things_to_rate": "평가할 항목"
         },
         "download_button": "다운로드",
-        "gift_button": "선물"
+        "gift_button": "선물",
+        "rate_game": {
+            "rating_saved_header": "평점 저장됨",
+            "follow_creator": "{{project_title}}의 제작자를 팔로우해서 항상 최신 릴리즈를 받아보세요.",
+            "rating_removed_header": "평점 삭제됨",
+            "rating_deleted_summary": "귀하의 평점이 삭제되었습니다.",
+            "delete_button": "평점 & 평가 삭제",
+            "choose_stars": "평점을 매기기 위해 1에서 5개의 별을 골라주세요.",
+            "rate_header": "{{project_title}} 평점 & 평가하기",
+            "you_rated_this_project_ago": "{{time_ago}}전에 이 프로젝트에 평점을 남겼습니다."
+        }
     },
     "nags": {
         "unverified_email": {
