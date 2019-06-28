@@ -405,6 +405,6 @@
         "edit_collection": "Kütüphanenizi düzenleyin",
         "edit_contributors": "Katkıda bulunanları düzenle",
         "empty_collection_message": "Bu koleksiyon boş.",
-        "private_collection_message": "Bu koleksiyon özel, içeriğini yalnızca katılımcılar görebilir."
+        "private_collection_message": "Bu koleksiyon özel, içeriğini yalnızca katkıda bulunanlar görebilir."
     }
 }
