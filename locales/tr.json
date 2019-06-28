@@ -373,7 +373,8 @@
         "sort_most_recent": "En Yeniler",
         "sort": "Sırala",
         "upload_your_project": "Burada görünmesini istiyorsanız itch.io'ya <a>Projenizi yükleyin</a>.",
-        "filter_group_price": "Fiyat"
+        "filter_group_price": "Fiyat",
+        "filter_results": "Sonuçları Filtrele"
     },
     "browse_tags": {
         "page_title": "Popüeler etiketler",
