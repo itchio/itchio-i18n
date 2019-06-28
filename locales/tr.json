@@ -54,7 +54,7 @@
             "game_jams": "Oyun Maratonları",
             "recommendations": "Öneriler",
             "library": "Kütüphanem",
-            "feed": "Benim Akışım",
+            "feed": "Akışım",
             "account_menu_tooltip": "Hesap Menüsü"
         }
     },
@@ -242,7 +242,12 @@
         },
         "intent": {
             "community": "itch.io'daki topluluklara katılmak için giriş yapmanız gerekecek. Hesap açmak ücretsizdir ve yalnızca birkaç dakikanızı alır.",
-            "comment": "itch.io'da yorum yapmak için bir hesap açmanız gerekecek."
+            "comment": "itch.io'da yorum yapmak için bir hesap açmanız gerekecek.",
+            "rate_game": "Bir oyunu puanlamadan önce itch.io'da hesap açmanız gerekiyor.",
+            "follow": "Birisini takip etmeden önce itch.io'da hesap açmanız gerekiyor.",
+            "follow_username": "{{username}} isimli kullanıcıyı takip etmeden önce itch.io'da bir hesap açmanız gerekiyor.",
+            "collection": "Kütüphanenize ekleyebilmeniz için hesap açmanız gerekiyor.",
+            "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor."
         },
         "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?"
     },
