@@ -87,10 +87,10 @@
         "fresh_games_description": "Itch.io'daki en yeni oyunlar ile sürekli güncellenir",
         "people_to_follow": "Takip edebileceğiniz kişiler",
         "view_all_games_on_sale": "İndirimdeki tüm oyunları görüntüle",
-        "more_featured_games": "Daha fazla öne çıkan oyunlar",
+        "more_featured_games": "Daha fazla öne çıkan oyun",
         "game_dev_on_sale": "<1>İndirimdeki</1> Oyun Geliştirme Kaynakları",
-        "view_all_on_sale": "İndirim de ki lerin tümünü göster",
-        "people_to_follow_description": "İşte ilginizi çekebilecek bazı kişiler.<a>Neden takip etmeli?</a>",
+        "view_all_on_sale": "İndirimdekilerin hepsini göster",
+        "people_to_follow_description": "İlginizi çebebilecek kişiler. <a>Neden takip etmeli?</a>",
         "view_all_platforms": "Tüm platformları görüntüle",
         "nav": {
             "all_games": "Tüm Oyunlar",
@@ -108,7 +108,8 @@
         "filtering_platform": "{{platform_name}} için bütün oyunları göster",
         "intro_cta": "<1>Oyununuzu ekleyin</1> ya da <2>S.S.S.'ı okuyun</2>",
         "page_title": "En yeni bağımsız oyunları indirin",
-        "browse_content_type": "Gözat {{content_type}}"
+        "browse_content_type": "Gözat {{content_type}}",
+        "latest_featured_games": "Öne Çıkan En Yeni Oyunlar"
     },
     "misc": {
         "classifications": {
