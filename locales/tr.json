@@ -367,7 +367,11 @@
         "results_count": "{{count}} sonuç",
         "sort_popular": "Popüler",
         "sort_new_and_popular": "Yeni ve Popüler",
-        "sort_top_rated": "En yüksek oy alanlar"
+        "sort_top_rated": "En yüksek oy alanlar",
+        "sort_top_sellers": "Çok satanlar",
+        "sort_most_recent": "En Yeniler",
+        "sort": "Sırala",
+        "upload_your_project": "Burada görünmesini istiyorsanız itch.io'ya <a>Projenizi yükleyin</a>"
     },
     "browse_tags": {
         "page_title": "Popüeler etiketler",
