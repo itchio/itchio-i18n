@@ -248,7 +248,7 @@
             "follow_username": "{{username}} isimli kullanıcıyı takip etmeden önce itch.io'da bir hesap açmanız gerekiyor.",
             "collection": "Kütüphanenize ekleyebilmeniz için hesap açmanız gerekiyor.",
             "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor.",
-            "claim_object": "{{noun}} elde etmek için giriş yapın ya da yeni bir hesap oluşturun."
+            "claim_object": "{{noun}} oyununu sahiplenmek için giriş yapın ya da yeni bir hesap oluşturun."
         },
         "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?"
     },
