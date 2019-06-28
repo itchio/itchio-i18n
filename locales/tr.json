@@ -254,7 +254,8 @@
         "no_account_prompt": "Bir hesabınız yok mu? <1>Hesap oluştur</1>",
         "page_title": "Giriş yap",
         "you_are_logged_out": "Çıkış yaptınız",
-        "welcome_back": "Tekrar hoş geldiniz!"
+        "welcome_back": "Tekrar hoş geldiniz!",
+        "welcome_to_itchio": "Itch.io'ya hoş geldiniz!"
     },
     "user_settings": {
         "navigation": {
