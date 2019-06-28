@@ -362,7 +362,11 @@
         "filter_everything_else": "Diğer her şey",
         "filter_group_platform": "Platform",
         "view_all_tags": "Tüm etiketleri gör",
-        "filter_by_tag": "Etikete göre filtrele"
+        "filter_by_tag": "Etikete göre filtrele",
+        "results_count_plural": "{{count}} sonuç",
+        "results_count": "{{count}} sonuç",
+        "sort_popular": "Popüler",
+        "sort_new_and_popular": "Yeni & Popüler"
     },
     "browse_tags": {
         "page_title": "Popüeler etiketler",
@@ -405,6 +409,10 @@
         "edit_collection": "Kütüphanenizi düzenleyin",
         "edit_contributors": "Katkıda bulunanları düzenle",
         "empty_collection_message": "Bu koleksiyon boş.",
-        "private_collection_message": "Bu koleksiyon özel, içeriğini yalnızca katkıda bulunanlar görebilir."
+        "private_collection_message": "Bu koleksiyon özel, içeriğini yalnızca katkıda bulunanlar görebilir.",
+        "a_collection_by_author": "{{author}} kullanıcısına ait bir koleksiyon",
+        "page_title": "{{collection_title}} - {{author}} kullanıcısına ait bir koleksiyon",
+        "remove_item_button": "Kaldır...",
+        "remove_confirm": "Bunu koleksiyondan kaldırmak istediğine emin misin"
     }
 }
