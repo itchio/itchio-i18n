@@ -250,7 +250,8 @@
             "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor.",
             "claim_object": "{{noun}} oyununu sahiplenmek için giriş yapın ya da yeni bir hesap oluşturun."
         },
-        "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?"
+        "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?",
+        "no_account_prompt": "Bir hesabın yok mu? <1>Hesap oluştur</1>"
     },
     "user_settings": {
         "navigation": {
