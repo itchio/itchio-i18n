@@ -207,7 +207,8 @@
             "add_to_collection": "Kütüphaneye ekle"
         },
         "countdown": {
-            "years": "Yıl"
+            "years": "Yıl",
+            "months": "ay"
         }
     },
     "user_login": {
