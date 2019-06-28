@@ -105,7 +105,7 @@
             "dismiss_tooltip": "Daha fazla önerme",
             "empty_results": "Şimdilik başka bir önerimiz yok. Daha sonra yeniden uğrayın"
         },
-        "filtering_platform": "{{platform_name}} için bütün oyunları göster",
+        "filtering_platform": "{{platform_name}} için tüm oyunlar filtreleniyor",
         "intro_cta": "<1>Oyununuzu ekleyin</1> ya da <2>S.S.S.'ı okuyun</2>",
         "page_title": "En yeni bağımsız oyunları indirin",
         "browse_content_type": "Gözat {{content_type}}",
