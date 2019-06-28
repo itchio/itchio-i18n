@@ -366,7 +366,8 @@
         "results_count_plural": "{{count}} sonuç",
         "results_count": "{{count}} sonuç",
         "sort_popular": "Popüler",
-        "sort_new_and_popular": "Yeni & Popüler"
+        "sort_new_and_popular": "Yeni ve Popüler",
+        "sort_top_rated": "En yüksek oy alanlar"
     },
     "browse_tags": {
         "page_title": "Popüeler etiketler",
