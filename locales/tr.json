@@ -208,7 +208,11 @@
         },
         "countdown": {
             "years": "Yıl",
-            "months": "ay"
+            "months": "ay",
+            "days": "gün",
+            "hours": "saat",
+            "minutes": "dakika",
+            "seconds": "saniye"
         }
     },
     "user_login": {
