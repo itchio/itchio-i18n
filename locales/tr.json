@@ -252,7 +252,9 @@
         },
         "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?",
         "no_account_prompt": "Bir hesabınız yok mu? <1>Hesap oluştur</1>",
-        "page_title": "Giriş yap"
+        "page_title": "Giriş yap",
+        "you_are_logged_out": "Çıkış yaptınız",
+        "welcome_back": "Tekrar hoş geldin!"
     },
     "user_settings": {
         "navigation": {
