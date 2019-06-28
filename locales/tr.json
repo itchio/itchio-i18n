@@ -103,13 +103,16 @@
         "html5_games": "HTML5 oyunları",
         "to_follow": {
             "dismiss_tooltip": "Daha fazla önerme",
-            "empty_results": "Şimdilik başka bir önerimiz yok. Daha sonra yeniden uğrayın"
+            "empty_results": "Şimdilik başka bir önerimiz yok. Daha sonra yeniden uğrayın",
+            "created_projects": "Geliştirdikleri {{project_list}}",
+            "refresh_button": "Daha fazla göster..."
         },
-        "filtering_platform": "{{platform_name}} için tüm oyunlar filtreleniyor",
+        "filtering_platform": "{{platform_name}} için tüm oyunlar gösteriliyor",
         "intro_cta": "<1>Oyununuzu ekleyin</1> ya da <2>S.S.S.'ı okuyun</2>",
         "page_title": "En yeni bağımsız oyunları indirin",
         "browse_content_type": "Gözat {{content_type}}",
-        "latest_featured_games": "Öne Çıkan En Yeni Oyunlar"
+        "latest_featured_games": "Öne Çıkan En Yeni Oyunlar",
+        "meta_description": "itch.io bağımsız oyunları indirmenin ve çevrimiçi dağıtmanın kolay bir yoludur. Oyununu yüklemek isteyen bir geliştiriciyseniz veya sadece yeni bir şeyler oynamak istiyorsanız itch.io size göre bir yerdir."
     },
     "misc": {
         "classifications": {
@@ -118,14 +121,17 @@
             "tool": "Araçlar",
             "book": "Kitaplar",
             "game": "Oyunlar",
-            "comic": "Çizgi Romanlar"
+            "comic": "Çizgi Romanlar",
+            "assets": "Oyun kaynak dosyaları",
+            "game_mod": "Oyun tarzları"
         },
         "accessibility_features": {
             "subtitles": "Altyazılar",
             "configurable_controls": "Yapılandırılabilir kontroller",
             "highcontrast": "Yüksek kontrast",
             "one_button": "Tek tuş",
-            "textless": "Yazısız"
+            "textless": "Yazısız",
+            "tutorial": "Etkileşimli eğitim"
         },
         "multiplayer_features": {
             "server": "Sunucu tabanlı çok oyunculu",
@@ -137,7 +143,11 @@
             "touchscreen": "Dokunmatik ekran",
             "voice": "Ses kontrolü",
             "accelerometer": "İvmeölçer",
-            "phone": "Akıllı telefon"
+            "phone": "Akıllı telefon",
+            "gamepad": "Oyun Kolu (herhangi biri)",
+            "joystick": "Kumanda kolu",
+            "dance_pad": "Dans yüzeyi",
+            "midi_controller": "MIDI Kontrolcüsü"
         },
         "forms": {
             "form_errors": "Lütfen girmiş olduğunuz bilgileri kontrol edin",
@@ -150,7 +160,11 @@
         },
         "follow_button": {
             "following_username": "{{username}} takip ediliyor",
-            "following": "Takip ediliyor"
+            "following": "Takip ediliyor",
+            "follow_username": "{{username}} Takip et",
+            "follow": "Takip et",
+            "unfollow_username": "{{username}} takibi bırak",
+            "unfollow": "Takibi bırak"
         },
         "filter_when": {
             "last_day": "Son gün",
@@ -158,7 +172,7 @@
             "last_30_days": "Son 30 gün"
         },
         "filter_price": {
-            "on_sale": "İndirimli",
+            "on_sale": "İndirimde",
             "paid": "Ücretli",
             "free": "Ücretsiz"
         },
@@ -172,11 +186,24 @@
         },
         "durations": {
             "seconds": "Birkaç saniye",
-            "minutes": "Birkaç dakika"
+            "minutes": "Birkaç dakika",
+            "half_hour": "Yaklaşık yarım saat",
+            "hour": "Yaklaşık bir saat",
+            "hours": "Birkaç saat",
+            "days": "Günler ya da daha uzun"
         },
         "page_number": "Sayfa {{page_number}}",
         "lightboxes": {
             "close": "Kapat"
+        },
+        "platforms": {
+            "web": "İnternet"
+        },
+        "collection_button": {
+            "add_to_collection": "Kütüphaneye ekle"
+        },
+        "countdown": {
+            "years": "Yıl"
         }
     },
     "user_login": {
