@@ -381,6 +381,15 @@
         "empty_message": "Burada hiç yayın görünmüyor"
     },
     "buy_form": {
-        "preorder_this_product_by_purchasing_it_for": "{{price}} veya daha fazla ödeyerek ön sipariş verin."
+        "preorder_this_product_by_purchasing_it_for": "{{price}} veya daha fazla ödeyerek ön sipariş verin.",
+        "download_this_product_by_purchasing_it_for": "{{price}} veya daha fazla ödeyerek bu ürünü indirin.",
+        "your_email_address": "E-Posta adresiniz",
+        "email_address_description": "Ödeme onayınız buraya gönderilecek",
+        "gift_email_instructions": "Hediye göndereceğiniz e-posta adresini ödeme sonrasında seçeceksiniz",
+        "i_already_paid_for_this": "Bunun için zaten ödeme yaptım...",
+        "included_files": "İçindeki dosyalar",
+        "agree_to_terms": "Ödemeyi tamamlayarak itch.io <1>Kullanım Şartları</1>'nı ve <2>Gizlilik Politikası</2>'nı kabul etmiş olacaksınız.",
+        "this_purchase_is_a_gift": "Bu bir hediyedir",
+        "support_the_creator_by_paying_above_the_minimum_price": "Minimum ücretten daha yüksek bir ödeme yaparak kreatörü destekleyin"
     }
 }
