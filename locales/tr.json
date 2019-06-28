@@ -391,6 +391,16 @@
         "agree_to_terms": "Ödemeyi tamamlayarak itch.io <1>Kullanım Şartları</1>'nı ve <2>Gizlilik Politikası</2>'nı kabul etmiş olacaksınız.",
         "this_purchase_is_a_gift": "Bu bir hediyedir",
         "support_the_creator_by_paying_above_the_minimum_price": "Minimum ücretten daha yüksek bir ödeme yaparak geliştiriciyi destekleyin",
-        "support_the_creator_with_an_additional_contribution": "Ek katkı ile geliştiriciyi destekleyin"
+        "support_the_creator_with_an_additional_contribution": "Ek katkı ile geliştiriciyi destekleyin",
+        "pay_with": "Ödeme şekli",
+        "credit_card": "Kart",
+        "go_back": "Geri dön",
+        "continue_payment": "Ödemeyi sürdür",
+        "billing_address": "Fatura adresi",
+        "generic_error": "Satın alımınızla ilgili bir hata oluştu: {{error}}",
+        "contact_support_on_error": "Eğer problem devam ederse, lütfen ilgili detaylarla birlikte <a>itch.io Destek</a> ekibiyle irtibata geçin."
+    },
+    "collection": {
+        "last_updated_date": "Son güncelleme: {{date}}"
     }
 }
