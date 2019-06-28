@@ -254,7 +254,7 @@
         "no_account_prompt": "Bir hesabınız yok mu? <1>Hesap oluştur</1>",
         "page_title": "Giriş yap",
         "you_are_logged_out": "Çıkış yaptınız",
-        "welcome_back": "Tekrar hoş geldin!"
+        "welcome_back": "Tekrar hoş geldiniz!"
     },
     "user_settings": {
         "navigation": {
@@ -378,5 +378,8 @@
         "updates": "Güncellemeler",
         "digest": "Özet",
         "empty_message": "Burada hiç yayın görünmüyor"
+    },
+    "buy_form": {
+        "preorder_this_product_by_purchasing_it_for": "{{price}} veya daha fazla ödeyerek ön sipariş verin."
     }
 }
