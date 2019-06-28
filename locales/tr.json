@@ -77,11 +77,11 @@
         "free_games": "Ücretsiz oyunlar",
         "top_sellers": "En iyi satıcılar",
         "with_demo": "Demo'lu oyunlar",
-        "view_all": "Tümünü göster",
-        "recommended_for_you": "Sizin için önerilenler",
+        "view_all": "Tümünü görüntüle",
+        "recommended_for_you": "Size önerilenler",
         "recommendations_based_on": "Satın aldığınız, indirdiğiniz ve oyladıklarınıza benzer şeyler",
         "fresh_games": "Yeni Oyunlar",
-        "view_more": "Daha fazla göster",
+        "view_more": "Daha fazla görüntüle",
         "featured_jams": "Öne çıkan maratonlar",
         "view_all_jams": "Tüm maratonları görüntüle",
         "fresh_games_description": "Itch.io'daki en yeni oyunlar ile sürekli güncellenir",
@@ -247,7 +247,8 @@
             "follow": "Birisini takip etmeden önce itch.io'da hesap açmanız gerekiyor.",
             "follow_username": "{{username}} isimli kullanıcıyı takip etmeden önce itch.io'da bir hesap açmanız gerekiyor.",
             "collection": "Kütüphanenize ekleyebilmeniz için hesap açmanız gerekiyor.",
-            "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor."
+            "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor.",
+            "claim_object": "{{noun}} elde etmek için giriş yapın ya da yeni bir hesap oluşturun."
         },
         "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?"
     },
