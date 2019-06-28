@@ -283,7 +283,8 @@
             "credit_cards": "Kredi kartları",
             "billing_address": "Fatura adresi",
             "email_notifications": "E-Posta bildirimleri",
-            "connected_accounts": "Bağlı hesaplar"
+            "connected_accounts": "Bağlı hesaplar",
+            "press_access": "Basın erişimi"
         },
         "profile": {
             "language_community_translation": "<s>itch.io topluluk üyeleri tarafından çevirildi</s> Bazı diller sadece kısmen hazır. Eğer itch.io'yu dilinize çevirmek ya da hata düzeltmek isterseniz, siz de katkıda bulunabilirsinizç <a>Daha fazla öğrenin</a>",
@@ -371,7 +372,8 @@
         "sort_top_sellers": "Çok satanlar",
         "sort_most_recent": "En Yeniler",
         "sort": "Sırala",
-        "upload_your_project": "Burada görünmesini istiyorsanız itch.io'ya <a>Projenizi yükleyin</a>"
+        "upload_your_project": "Burada görünmesini istiyorsanız itch.io'ya <a>Projenizi yükleyin</a>.",
+        "filter_group_price": "Fiyat"
     },
     "browse_tags": {
         "page_title": "Popüeler etiketler",
