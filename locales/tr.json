@@ -123,7 +123,8 @@
             "game": "Oyunlar",
             "comic": "Çizgi Romanlar",
             "assets": "Oyun kaynak dosyaları",
-            "game_mod": "Oyun tarzları"
+            "game_mod": "Oyun tarzları",
+            "other": "Çeşitli"
         },
         "accessibility_features": {
             "subtitles": "Altyazılar",
@@ -131,11 +132,14 @@
             "highcontrast": "Yüksek kontrast",
             "one_button": "Tek tuş",
             "textless": "Yazısız",
-            "tutorial": "Etkileşimli eğitim"
+            "tutorial": "Etkileşimli eğitim",
+            "colorblind": "Renk körü dostu",
+            "blind": "Kör dostu"
         },
         "multiplayer_features": {
             "server": "Sunucu tabanlı çok oyunculu",
-            "local": "Yerel çok oyunculu"
+            "local": "Yerel çok oyunculu",
+            "adhoc": "Geçici ağ bağlantılı çok oyunculu"
         },
         "inputs": {
             "keyboard": "Klavye",
