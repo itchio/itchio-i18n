@@ -401,6 +401,8 @@
         "contact_support_on_error": "Eğer problem devam ederse, lütfen ilgili detaylarla birlikte <a>itch.io Destek</a> ekibiyle irtibata geçin."
     },
     "collection": {
-        "last_updated_date": "Son güncelleme: {{date}}"
+        "last_updated_date": "Son güncelleme {{date}}",
+        "edit_collection": "Kütüphanenizi düzenleyin",
+        "edit_contributors": "Katkıda bulunanları düzenle"
     }
 }
