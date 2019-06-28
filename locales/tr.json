@@ -232,12 +232,19 @@
         "create_a_new_account": "Yeni bir hesap oluştur",
         "log_in_to_your_itchio_account": "Itch.io hesabına giriş yap",
         "login_form": {
-            "username_or_email": "Kullanıcı adı ya da E-Posta adresi"
+            "username_or_email": "Kullanıcı adı ya da E-Posta adresi",
+            "password": "Şifre",
+            "forgot_password": "Şifremi unuttum",
+            "create_account": "Hesap oluştur",
+            "or_log_in_with_another_site": "Başka bir site ile giriş yap",
+            "or": "ya da",
+            "log_in_button": "Giriş yap"
         },
         "intent": {
             "community": "itch.io'daki topluluklara katılmak için giriş yapmanız gerekecek. Hesap açmak ücretsizdir ve yalnızca birkaç dakikanızı alır.",
             "comment": "itch.io'da yorum yapmak için bir hesap açmanız gerekecek."
-        }
+        },
+        "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?"
     },
     "user_settings": {
         "navigation": {
