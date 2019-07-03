@@ -615,6 +615,21 @@
             "see_everything": "Zobacz wszystko",
             "powered_by": "<s>Obsługiwane przez</s> {{itchio_logo}}",
             "app_learn_more": "<s>Nowość!</s> Wypróbuj naszą aplikację desktopową od itch.io, aby pobrać i zarządzać swoją biblioteką. <a>Dowiedz się więcej</a>"
+        },
+        "report_form": {
+            "form_description": "Wypełnij ten formularz, jeśli chcesz skontaktować się z zespołem moderacyjnym itch.io na temat zawartości tej strony. W razie potrzeby, raport może zostać udostępniony twórcy strony.",
+            "support_from_creator": "Czy masz problemy, czy potrzebujesz wsparcia od twórcy?",
+            "support_page_link": "Przejdź do oficjalnej strony wsparcia",
+            "email_creator_link": "Wyślij wiadomość e-mail do twórcy",
+            "submit_report_button": "Wyślij raport",
+            "title": "Zgłoś stronę '{{page_title}}'",
+            "report_received_header": "Raport został odebrany",
+            "description_label": "Opis",
+            "reason_label": "Powód",
+            "reason_other": "Inne"
+        },
+        "password_required": {
+            "header": "Do wyświetlenia tej strony wymagane jest hasło"
         }
     },
     "buy_form": {
@@ -801,7 +816,21 @@
             },
             "primary_email_description": "Na twój główny e-mail itch.io będzie wysyłać powiadomienia.",
             "additional_emails_header": "Dodatkowe adresy e-mail",
-            "change_password_instructions": "Po zmianie adresu e-mail, musisz go zweryfikować, żeby mieć dostęp do zakupionych przez ciebie gier. Zostaną ci wysłane instrukcje do weryfikacji. Dla wymogów bezpieczeństwa, musisz również podać bieżące hasło, żeby dokonać jakichkolwiek zmian przy adresie e-mail."
+            "change_password_instructions": "Po zmianie adresu e-mail, musisz go zweryfikować, żeby mieć dostęp do zakupionych przez ciebie gier. Zostaną ci wysłane instrukcje do weryfikacji. Dla wymogów bezpieczeństwa, musisz również podać bieżące hasło, żeby dokonać jakichkolwiek zmian przy adresie e-mail.",
+            "additional_emails_summary": "Możesz połączyć dodatkowe adresy e-mail z kontem itch.io, aby uzyskać dostęp do czegokolwiek zakupionego pod tymi adresami e-mail. Na przykład Twój adres e-mail PayPal może być inny niż zwykły adres e-mail, więc możesz chcieć go dodać jako dodatkowy adres e-mail.",
+            "additional_emails_instructions": "Po dodaniu dodatkowego adresu e-mail, wyślemy Ci instrukcje odnośnie weryfikacji.",
+            "add_email_form": {
+                "additional_email_address_label": "Dodatkowy adres e-mail",
+                "add_email_button": "Dodaj e-mail"
+            },
+            "additional_emails": {
+                "emails_added_header": "Adresy e-mail zostały dodane",
+                "email_column": "E-mail",
+                "verified_column": "Zweryfikowany",
+                "resend_verification_email_button": "wyślij ponownie e-mail weryfikacyjny",
+                "email_sent_status": "e-mail wysłany",
+                "detach_email": "Odłącz adres e-mail"
+            }
         }
     },
     "game_download": {
@@ -1312,7 +1341,17 @@
         },
         "download_button": "Pobierz",
         "gift_button": "Prezent",
-        "things_rated_header": "Rzeczy ocenione"
+        "things_rated_header": "Rzeczy ocenione",
+        "rate_game": {
+            "rating_saved_header": "Zapisano ocenę",
+            "follow_creator": "Rozważ śledzenie twórcy {{project_title}}, aby być na bieżąco z najnowszymi wydaniami.",
+            "rating_removed_header": "Usunięto ocenę",
+            "rating_deleted_summary": "Twoja ocena została usunięta.",
+            "delete_button": "Usuń ocenę i recenzję",
+            "choose_stars": "Wybierz ocenę od 1 do 5 gwiazdek.",
+            "rate_header": "Oceń i zrecenzuj {{project_title}}",
+            "you_rated_this_project_ago": "Oceniłeś ten projekt {{time_ago}}."
+        }
     },
     "nags": {
         "unverified_email": {
