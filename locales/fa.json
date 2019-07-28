@@ -143,6 +143,31 @@
             "current_page_of_total": "صفحه‌ی {{current_page}} از {{total_pages}}",
             "previous_page": "صفحه‌ی قبلی",
             "first_page": "صفحه‌ی اول"
+        },
+        "collection_button": {
+            "add_to_collection": "افزودن به کالکشن"
+        },
+        "lightboxes": {
+            "close": "بستن"
+        },
+        "countdown": {
+            "years": "سال",
+            "months": "ماه",
+            "days": "روز",
+            "hours": "ساعت",
+            "minutes": "دقیقه",
+            "seconds": "ثانیه"
+        },
+        "project_visibility": {
+            "restricted": "محدود شده",
+            "published": "منتشر شده",
+            "draft": "پیش‌نویس",
+            "public": "عمومی"
+        },
+        "view_more": "نمایش بیشتر",
+        "dismiss": "رد",
+        "release_statuses": {
+            "released": "منتشر شده"
         }
     },
     "index": {
