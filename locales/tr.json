@@ -233,7 +233,7 @@
         "errors": {
             "server_error": "Sunucu yanıt vermedi, lütfen sonra tekrar deneyin"
         },
-        "more_ellip": "Daha Fazla..."
+        "more_ellip": "Daha Fazla…"
     },
     "user_login": {
         "create_a_new_account": "Yeni bir hesap oluştur",
@@ -458,6 +458,6 @@
         "page_title": "Hesabı kaydet"
     },
     "developers": {
-        "page_header": "Size özel bir sayfa oluşturun ve indie oyunlarınızı satmaya veya dağıtmaya hemen başlayın"
+        "page_header": "Size özel bir sayfa oluşturun ve bağımsız oyunlarınızı satmaya veya dağıtmaya hemen başlayın"
     }
 }
