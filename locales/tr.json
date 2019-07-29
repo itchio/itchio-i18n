@@ -436,6 +436,17 @@
         "remove_confirm": "Bunu koleksiyondan kaldırmak istediğine emin misin"
     },
     "user_register": {
-        "create_an_account_on_itchio": "Itch.io'da hesap oluşturun"
+        "create_an_account_on_itchio": "Itch.io'da hesap oluşturun",
+        "register_form": {
+            "create_account": "Hesap oluşturun",
+            "already_have_account": "zaten hesabınız mı var?",
+            "log_in": "Giriş yapın",
+            "link_product": "<1>{{product}}</1> satın alma işleminiz, kayıt yaptıktan sonra otomatik olarak hesabınıza bağlanacak.",
+            "accept_tos": "<1>Hizmet Koşullarını</1> kabul ediyorum",
+            "digest_signup": "İki ayda bir yayınlanan itch.io kısa haber bültenine kaydolmak istiyorum",
+            "interest_gamer": "itch.io üzerinden oyun indirmek veya oynamak istiyorum",
+            "interest_developer": "itch.io üzerinden içerik dağıtımı yapmakla ilgileniyorum",
+            "account_preferences_info": "Bu sorulara verdiğiniz yanıtları daha sonra tekrar değiştirebilirsiniz, verdiğiniz yanıtlar itch.io sistemini size nasıl bir hizmet sunulacağı hakkında bilgilendirir."
+        }
     }
 }
