@@ -217,7 +217,8 @@
         "project_visibility": {
             "restricted": "Kısıtlı",
             "published": "Yayınlanmış",
-            "draft": "Taslak"
+            "draft": "Taslak",
+            "public": "Herkese Açık"
         },
         "view_more": "Daha fazla görüntüle",
         "release_statuses": {
@@ -227,7 +228,12 @@
             "canceled": "İptal olmuş",
             "prototype": "Prototip"
         },
-        "loading_more_ellip": "Daha fazlası yükleniyor…"
+        "loading_more_ellip": "Daha fazlası yükleniyor…",
+        "dismiss": "Es Geç",
+        "errors": {
+            "server_error": "Sunucu yanıt vermedi, lütfen sonra tekrar deneyin"
+        },
+        "more_ellip": "Daha Fazla..."
     },
     "user_login": {
         "create_a_new_account": "Yeni bir hesap oluştur",
@@ -249,14 +255,18 @@
             "follow_username": "{{username}} isimli kullanıcıyı takip etmeden önce itch.io'da bir hesap açmanız gerekiyor.",
             "collection": "Kütüphanenize ekleyebilmeniz için hesap açmanız gerekiyor.",
             "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor.",
-            "claim_object": "{{noun}} oyununu sahiplenmek için giriş yapın ya da yeni bir hesap oluşturun"
+            "claim_object": "{{noun}} oyununu sahiplenmek için giriş yapın ya da yeni bir hesap oluşturun",
+            "recent_purchases": "Yakın zamanda satın aldıklarınızı hesabınıza bağlamak için giriş yapın."
         },
         "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?",
         "no_account_prompt": "Bir hesabınız yok mu? <1>Hesap oluştur</1>",
         "page_title": "Giriş yap",
         "you_are_logged_out": "Çıkış yaptınız",
         "welcome_back": "Tekrar hoş geldiniz!",
-        "welcome_to_itchio": "Itch.io'ya hoş geldiniz!"
+        "welcome_to_itchio": "Itch.io'ya hoş geldiniz!",
+        "errors": {
+            "accept_terms": "Hizmet Koşullarını kabul etmelisiniz"
+        }
     },
     "user_settings": {
         "navigation": {
@@ -391,7 +401,8 @@
         "all_posts": "Tüm gönderiler",
         "updates": "Güncellemeler",
         "digest": "Özet",
-        "empty_message": "Burada hiç yayın görünmüyor"
+        "empty_message": "Burada hiç yayın görünmüyor",
+        "tag_filter": "Filtre ayarı {{tag}}.<a>Etiketi temizle</a>"
     },
     "buy_form": {
         "preorder_this_product_by_purchasing_it_for": "{{price}} veya daha fazla ödeyerek ön sipariş verin.",
@@ -423,5 +434,8 @@
         "page_title": "{{collection_title}} - {{author}} kullanıcısına ait bir koleksiyon",
         "remove_item_button": "Kaldır...",
         "remove_confirm": "Bunu koleksiyondan kaldırmak istediğine emin misin"
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "itch.io adresinde hesap oluşturun"
     }
 }
