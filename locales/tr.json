@@ -446,7 +446,9 @@
             "digest_signup": "İki ayda bir yayınlanan itch.io kısa haber bültenine kaydolmak istiyorum",
             "interest_gamer": "itch.io üzerinden oyun indirmek veya oynamak istiyorum",
             "interest_developer": "itch.io üzerinden içerik dağıtımı yapmakla ilgileniyorum",
-            "account_preferences_info": "Bu sorulara verdiğiniz yanıtları daha sonra değiştirebilirsiniz. Verdiğiniz yanıtlar itch.io sistemini size nasıl bir hizmet sunulacağı hakkında bilgilendirir."
+            "account_preferences_info": "Bu sorulara verdiğiniz yanıtları daha sonra değiştirebilirsiniz. Verdiğiniz yanıtlar itch.io sistemini size nasıl bir hizmet sunulacağı hakkında bilgilendirir.",
+            "about_you": "Hakkınızda",
+            "your_email_address": "e-posta adresiniz"
         }
     }
 }
