@@ -68,7 +68,7 @@
         "dont_see_anything_you_like": "İlginizi çeken bir şey yok mu?",
         "from_the_blog": "Blog'dan",
         "random_game": "Rastgele oyun",
-        "get_the_app": "<s>Itch.io'dan en iyi şekilde yararlanın!</s> Oyunlarınızı masaüstü uygulaması ile kurun ve yönetin!",
+        "get_the_app": "<s>Itch.io'dan en iyi şekilde yararlanın!</s> Oyunlarınızı masaüstü uygulaması ile kurun ve yönetin",
         "from_the_itchio_blog": "Itch.io Blog'undan",
         "view_all_blog_posts": "Tüm güncellemeleri görüntüle",
         "search_games_creators": "Oyunları ve geliştiricileri ara",
@@ -248,7 +248,7 @@
             "follow_username": "{{username}} isimli kullanıcıyı takip etmeden önce itch.io'da bir hesap açmanız gerekiyor.",
             "collection": "Kütüphanenize ekleyebilmeniz için hesap açmanız gerekiyor.",
             "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor.",
-            "claim_object": "{{noun}} oyununu sahiplenmek için giriş yapın ya da yeni bir hesap oluşturun."
+            "claim_object": "{{noun}} oyununu sahiplenmek için giriş yapın ya da yeni bir hesap oluşturun"
         },
         "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?",
         "no_account_prompt": "Bir hesabınız yok mu? <1>Hesap oluştur</1>",
@@ -379,7 +379,7 @@
     "browse_tags": {
         "page_title": "Popüeler etiketler",
         "find_tag": "Etiket bul",
-        "commonly_tagged_with": "Genelde şununla etiketlenmiş: ",
+        "commonly_tagged_with": "Genelde şununla etiketlenmiş:",
         "no_description_yet": "Henüz bir açıklama yok"
     },
     "buy_form_popup": {
@@ -417,7 +417,7 @@
         "edit_collection": "Kütüphanenizi düzenleyin",
         "edit_contributors": "Katkıda bulunanları düzenle",
         "empty_collection_message": "Bu koleksiyon boş.",
-        "private_collection_message": "Bu koleksiyon özel, içeriğini yalnızca katkıda bulunanlar görebilir.",
+        "private_collection_message": "Bu koleksiyon özel, içeriğini yalnızca katkıda bulunanlar görebilir",
         "a_collection_by_author": "{{author}} kullanıcısına ait bir koleksiyon",
         "page_title": "{{collection_title}} - {{author}} kullanıcısına ait bir koleksiyon",
         "remove_item_button": "Kaldır...",
