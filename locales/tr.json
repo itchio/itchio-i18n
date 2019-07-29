@@ -448,7 +448,16 @@
             "interest_developer": "itch.io üzerinden içerik dağıtımı yapmakla ilgileniyorum",
             "account_preferences_info": "Bu sorulara verdiğiniz yanıtları daha sonra değiştirebilirsiniz. Verdiğiniz yanıtlar itch.io sistemini size nasıl bir hizmet sunulacağı hakkında bilgilendirir.",
             "about_you": "Hakkınızda",
-            "your_email_address": "E-posta adresiniz"
-        }
+            "your_email_address": "E-posta adresiniz",
+            "password": "Şifre",
+            "repeat_password": "Şifreyi tekrar girin",
+            "url_preview": "Profil sayfanız şu adreste yer alacak",
+            "username": "Kullanıcı Adı",
+            "other_registration_methods": "Diğer kayıt yöntemleri"
+        },
+        "page_title": "Hesabı kaydet"
+    },
+    "developers": {
+        "page_header": "Size özel bir sayfa oluşturun ve indie oyunlarınızı satmaya veya dağıtmaya hemen başlayın"
     }
 }
