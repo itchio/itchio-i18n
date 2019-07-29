@@ -422,7 +422,8 @@
         "continue_payment": "Ödemeyi sürdür",
         "billing_address": "Fatura adresi",
         "generic_error": "Satın alımınızla ilgili bir hata oluştu: {{error}}",
-        "contact_support_on_error": "Eğer problem devam ederse, lütfen ilgili detaylarla birlikte <a>itch.io Destek</a> ekibiyle irtibata geçin."
+        "contact_support_on_error": "Eğer problem devam ederse, lütfen ilgili detaylarla birlikte <a>itch.io Destek</a> ekibiyle irtibata geçin.",
+        "includes_steam_key": "Satın aldığınızda bir Steam kodu edineceksiniz."
     },
     "collection": {
         "last_updated_date": "Son güncelleme {{date}}",
