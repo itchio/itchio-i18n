@@ -26,7 +26,7 @@
             "jams": "Maratonlar",
             "notifications_count": "{{count}} bildirim",
             "notifications_count_plural": "{{count}} bildirim",
-            "no_notifications": "Yeni bildirim yok",
+            "no_notifications": "Hiç yeni bildiriminiz yok",
             "free_games": "Ücretsiz oyunlar",
             "indie_game_store": "Bağımsız oyun mağazası",
             "game_development": "Oyun geliştirme",
