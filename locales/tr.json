@@ -502,6 +502,8 @@
         "read_the_app_guide": "Uygulama rehberini okuyun",
         "browse_header": "Oyunları geliştiricilerin planladığı gibi görüntüleyin",
         "browse_description": "itch.io'da projelerin sayfaları geliştiricilerin kontrolü altında. Gömülü tarayıcı, <a>yaratıcıların özgün tasarımlarına sahip sayfalarında</a> gezinip yeni oyunları keşfetmenize ve indirmenize olanak sağlar.",
-        "updates_header": "Her zaman güncel"
+        "updates_header": "Her zaman güncel",
+        "updates_description": "Uygulama sadece yüklü oyunları otomatik olarak güncellemek ile kalmayacak, yeni özellikler fonksiyonlar eklendikçe kendisini de güncelleyecektir. Yeni komut satırı aracımızı kullanan oyunlar <em>delta yama</em> oluşturarak, bütün oyunu indirmek yerine sadece değişen kısmını indirip kuracaktır.",
+        "web_games_header": "Tarayıcı oyunları çevrim dışı çalışır"
     }
 }
