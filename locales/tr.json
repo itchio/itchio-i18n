@@ -459,6 +459,49 @@
         "page_title": "Hesabı kaydet"
     },
     "developers": {
-        "page_header": "Size özel bir sayfa oluşturun ve bağımsız oyunlarınızı satmaya veya dağıtmaya hemen başlayın"
+        "page_header": "Size özel bir sayfa oluşturun ve bağımsız oyunlarınızı satmaya veya dağıtmaya hemen başlayın",
+        "product_summary1": "<s>itch.io</s> bağımsız oyunları bedavaya dağıtmanın basit bir yoludur. Oyun dosyalarını ve ekran görüntülerini tek bir yere yükleyin ve oyununza özel bir sayfa oluşturun.",
+        "product_summary2": "Oyununuz için asgari ücret belirleyip, hayranlarınıza oyununuzu istedikleri bir fiyata satın alma fırsatı tanıyabilirsiniz.",
+        "my_dashboard": "Kontrol panelim",
+        "upload_a_new_game": "Yeni bir oyun yükle",
+        "account_faq_cta": "<1>Yeni bir hesap oluşturun</1> veya <2>S.S.S. okuyun</2>",
+        "upload_your_indie_game": "Bağımsız Oyununuzu Yükleyin",
+        "design_your_games_page": "Oyununuzun Sayfasını Tasarlayın",
+        "track_your_game": "Oyununuzu Takip Edin",
+        "host_a_sale": "İndirim Başlatın",
+        "host_a_sale_description": "Oyununuzu belirli bir süreliğine indirimli fiyata satıp öne çıkarın, ve daha çok satış elde edin.",
+        "learn_more": "Daha Fazla Öğrenin",
+        "browser_game_description": "Tarayıcıda çalışanı oyununuzu <s>itch.io</s>'da barındırarak para kazanın. Oyununuz tarayıcıda gömülü olarak çalışır ve oyuncular oyunu beğendikleri taktirde diledikleri kadar bağış yapar.",
+        "upload_your_game_description": "Bağımsız oyununuzu <s>itch.io</s>'ya bedava yükleyin. Oyununuzu, ekran görüntülerini ve diğer indirilebilir dosyaları sizin için sunucularımızda barındırıyoruz. Oyunu ve dosyalarını yüksek hızda indirmek her zaman mümkün.",
+        "learn_more_about": "Daha fazla bilgi:",
+        "share_message": "itch.io oyunlarınızı dağıtmanın basit ve ücretsiz bir yolu.",
+        "create_account_or_login": "<1>Bir hesap oluşturun</> <em>veya</em><2>Giriş yapın</>",
+        "upload_or_dashboard": "<1>Yeni bir oyun yükleyin</1> <em>veya</em> <2>Kontrol panelini açın</2>",
+        "design_your_games_page_description": "İnsanların oyununuzu indirebilecekleri veya satın alabilecekleri özelleştirilmiş bir sayfa yaratın. Renkleri, yazı tiplerini, resimleri ve videoları siz seçin. Bu sizin oyununuzun sayfası olacağı için, sayfada sizin koymadığınız hiçbir şey yer almayacaktır.",
+        "track_your_game_description": "İnsanların oyununuzun sayfasını nasıl incelediğini, görüntüleme sayısı, indirmeler ve satın almaların da dahil olduğu detaylı analizler ile takip edin. Oyununuzu promosyon olarak dağıtmak mı istiyorsunuz?İnsanların oyununuza erişip onu indirebilmeleri için indirme anahtarı oluşturup dağıtın."
+    },
+    "search": {
+        "creators": "Geliştiriciler:",
+        "published_count": "{{count}} proje",
+        "published_count_plural": "{{count}} proje",
+        "view_all_tags": "Bütün etiketleri görüntüle",
+        "browse_all_games": "Bütün oyunlara göz at",
+        "search_results_for_query": "{{query}} için arama sonuçları"
+    },
+    "app": {
+        "open_source": "Açık kaynak",
+        "share_message": "itch, bağımsız oyunlar iiçn masaüstü uygulaması",
+        "tagline": "Bağımısz oyunları yükleyin, güncelleyin ve oynayın",
+        "start_download": "İndir",
+        "for_platforms": "<1>Windows</1>, <2>macOS</2> ve <3>Linux</3> için",
+        "summary": "itch.io uygulaması, <s>itch</s>, oyunları ve yazılımları itch.io'dan kolaylıkla indirip çalıştırmanızı sağlar. Bütün indirmeleriniz tek bir yerde tutulup otomatik olarak güncellenir. Uygulama içi tarayıcıdan kütühanenize ve satın aldığınız ürünlere kolayca ulaşın veya yeni oyunlara göz gezdirin.",
+        "more_info_links": "<1>Daha fazla bilgi için S.S.S. </1> veya <2>Uygulama rehberini</2> okuyun",
+        "learn_more_below": "Daha fazla bilgi için aşağıya bakın",
+        "contribute_link": "Katkıda bulunmak mı istiyorsunuz? <a>GitHub üzerinden kaynak kodlarına ulaşın</a>",
+        "updates": "Güncellemeler",
+        "read_the_app_guide": "Uygulama rehberini okuyun",
+        "browse_header": "Oyunları geliştiricilerin planladığı gibi görüntüleyin",
+        "browse_description": "itch.io'da projelerin sayfaları geliştiricilerin kontrolü altında. Gömülü tarayıcı, <a>yaratıcıların özgün tasarımlarına sahip sayfalarında</a> gezinip yeni oyunları keşfetmenize ve indirmenize olanak sağlar.",
+        "updates_header": "Her zaman güncel"
     }
 }
