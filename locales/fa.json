@@ -167,8 +167,13 @@
         "view_more": "نمایش بیشتر",
         "dismiss": "رد",
         "release_statuses": {
-            "released": "منتشر شده"
-        }
+            "released": "منتشر شده",
+            "in_development": "در دست ساخت",
+            "on_hold": "در انتظار",
+            "canceled": "لغو شده",
+            "prototype": "نمونه‌ی اولیه"
+        },
+        "more_ellip": "بیشتر…"
     },
     "index": {
         "popular_tags": "برچسب‌های محبوب",
