@@ -173,7 +173,11 @@
             "canceled": "لغو شده",
             "prototype": "نمونه‌ی اولیه"
         },
-        "more_ellip": "بیشتر…"
+        "more_ellip": "بیشتر…",
+        "errors": {
+            "server_error": "پاسخی از سرور دریافت نشد، بعدا دوباره امتحان کنید"
+        },
+        "loading_more_ellip": "در حال بارگیری بیشتر…"
     },
     "index": {
         "popular_tags": "برچسب‌های محبوب",
@@ -235,5 +239,9 @@
         "info_panel": {
             "asset_license": "مجوز پکیج"
         }
+    },
+    "blog": {
+        "all_posts": "همه‌ی پست‌ها",
+        "updates": "به‌روزرسانی‌ها"
     }
 }
