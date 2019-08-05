@@ -243,6 +243,22 @@
     "blog": {
         "all_posts": "همه‌ی پست‌ها",
         "updates": "به‌روزرسانی‌ها",
-        "empty_message": "به نظر هیچ پستی در اینجا وجود ندارد"
+        "empty_message": "به نظر هیچ پستی در اینجا وجود ندارد",
+        "digest": "مجله",
+        "tag_filter": "در حال فیلتر به {{tag}}. <a>پاک کردن برچسب</a>"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "وارد حساب itch.io خود شوید",
+        "login_form": {
+            "username_or_email": "نام کاربری یا ایمیل",
+            "password": "گذرواژه",
+            "forgot_password": "گذرواژه را فراموش کردم",
+            "create_account": "ساخت حساب کاربری",
+            "or_log_in_with_another_site": "یا با سایت دیگری وارد شوید",
+            "or": "یا",
+            "log_in_button": "ورود"
+        },
+        "looking_for_something_you_bought": "دنبال چیزی که قبلا خریده‌اید هستید؟",
+        "create_a_new_account": "ساخت یک حساب کاربری جدید"
     }
 }
