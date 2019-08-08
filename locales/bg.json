@@ -249,5 +249,28 @@
     "dashboard": {
         "intro_text": "Вие сте разработчик? Качете първата си игра",
         "new_devlog": "Нов дневник на разработчика"
+    },
+    "stripe_checkout": {
+        "you_will_receive_files": "Ще получите:",
+        "steam_key": "Ключ за Стийм",
+        "email": "Е-поща",
+        "youll_be_mailed_your_access_link": "Ще получите е-писмо с връзка за достъп",
+        "full_name": "Пълно име",
+        "name_as_it_appears_on_card": "Както е изписано на картата"
+    },
+    "game_download": {
+        "share_and_follow": "Споделяне и следване",
+        "social_share_message_download": "Току-що свалих „{{title}}“ от {{username}}",
+        "or_share_on": "или споделете в",
+        "trouble_downloading_link": "Свалянията не могат да започнат?",
+        "install_instructions_intro": "Инструкции за сваляне и инсталиране от {{username}}:",
+        "recommendations_title": "Ето още какво може да Ви заинтересува",
+        "check_out_more_from_jam_title": "Вижте още от „{{jam_title}}“",
+        "alternate_download": {
+            "enable_alternate_download_mode": "Включване на алтернативния режим на сваляне",
+            "title": "Алтернативен режим на сваляне",
+            "region_message": "Някои региони може да блокират системата за разпространение на съдържание на itch.io. Ако свалянето не може да започне, опитайте да включите алтернативния режим на сваляне и опитайте да свалите файла отново."
+        },
+        "check_your_email_for_the_confirmation_link": "Проверете е-пощата си – там трябва да намерите връзката за потвърждение."
     }
 }
