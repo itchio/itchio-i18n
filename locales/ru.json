@@ -965,7 +965,8 @@
                 "voting_ends_in": "Голосование идёт до"
             },
             "you_can_now_rate_games": "Вы можете выставлять оценки играм, кликая по ним ниже",
-            "submission_is_closed_for_voting": "Отправка проектов закрыта, идёт голосование"
+            "submission_is_closed_for_voting": "Отправка проектов закрыта, идёт голосование",
+            "you_can_now_rate_entries": "Вы можете ставить оценки на <a>странице проектов</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Пока что проектов нет",
@@ -1072,7 +1073,8 @@
                 "save_rating": "Сохранить оценку",
                 "you_havent_rated_this_submission_yet": "Вы ещё не оценили этот проект.",
                 "you_just_voted": "Вы только что проголосовали.",
-                "you_voted_ago": "Вы голосовали {{timestamp}}."
+                "you_voted_ago": "Вы голосовали {{timestamp}}.",
+                "disqualified_message": "Этот проект дисквалифицирован, оценки не принимаются."
             }
         },
         "screenshots": {
