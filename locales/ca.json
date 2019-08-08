@@ -953,7 +953,8 @@
                 "voting_ends_in": "Les votacions s'acabaran en"
             },
             "you_can_now_rate_games": "Ara podeu puntuar jocs fent-hi clic a continuació",
-            "submission_is_closed_for_voting": "Les participacions s'han tancat i ara s'efectua la votació"
+            "submission_is_closed_for_voting": "Les participacions s'han tancat i ara s'efectua la votació",
+            "you_can_now_rate_entries": "Ara podeu puntuar entrades a la <a>pàgina de participacions</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Encara no hi ha cap participació",
@@ -1047,7 +1048,8 @@
                 "save_rating": "Desa la puntuació",
                 "you_havent_rated_this_submission_yet": "Encara no heu puntuat aquesta participació.",
                 "you_just_voted": "Acabeu de votar.",
-                "you_voted_ago": "Vau votar {{timestamp}}."
+                "you_voted_ago": "Vau votar {{timestamp}}.",
+                "disqualified_message": "Aquesta entrada ha estat desqualificada i no es pot puntuar."
             }
         },
         "screenshots": {
