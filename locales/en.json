@@ -952,8 +952,8 @@
                 "submissions_due_in": "Submissions due in",
                 "voting_ends_in": "Voting ends in"
             },
-            "you_can_now_rate_games": "You can now rate games by clicking on them below",
-            "submission_is_closed_for_voting": "Submission is closed and voting is now in progress"
+            "submission_is_closed_for_voting": "Submission is closed and voting is now in progress",
+            "you_can_now_rate_entries": "You can now rate entries from the <a>submissions page</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "There are no submissions yet",
