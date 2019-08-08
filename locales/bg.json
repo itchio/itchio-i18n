@@ -285,7 +285,12 @@
             "more_menu": "Още",
             "view_rest_in_bundle": "Вижте останалите неща в пакета",
             "preorder_title": "Предплащане на „{{project_title}}“",
-            "download_title": "Сваляне на „{{project_title}}“"
-        }
+            "download_title": "Сваляне на „{{project_title}}“",
+            "view_all_my_purchases": "Преглед на всичките ми покупки",
+            "return_to_project": "Назад към проекта"
+        },
+        "linked_user_message": "Тази страница е свързана с акаунта {{username}}.",
+        "link_my_account": "Свързване на акаунта ми",
+        "link_account_description": "Можете да свържете тази страница за сваляне с акаунт в itch.io, за да не се притеснявате, че ще я изгубите. Тя ще се показва заедно с другите неща, които притежавате."
     }
 }
