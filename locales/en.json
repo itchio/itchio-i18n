@@ -1047,7 +1047,8 @@
                 "save_rating": "Save rating",
                 "you_havent_rated_this_submission_yet": "You haven't rated this submission yet.",
                 "you_just_voted": "You just voted.",
-                "you_voted_ago": "You voted {{timestamp}}."
+                "you_voted_ago": "You voted {{timestamp}}.",
+                "disqualified_message": "This entry is disqualified and not eligible for ratings."
             }
         },
         "screenshots": {
