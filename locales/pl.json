@@ -964,7 +964,8 @@
                 "submissions_due_in": "Zgłoszenia trwają do",
                 "voting_ends_in": "Głosowanie kończy się za"
             },
-            "submission_is_closed_for_voting": "Zgłaszanie się zakończyło, głosowanie jest w toku"
+            "submission_is_closed_for_voting": "Zgłaszanie się zakończyło, głosowanie jest w toku",
+            "you_can_now_rate_entries": "Możesz teraz oceniać pozycje ze <a>strony zgłoszeń</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Nie ma na razie zgłoszeń",
@@ -1071,7 +1072,8 @@
                 "save_rating": "Zapisz ocenę",
                 "you_havent_rated_this_submission_yet": "Jeszcze nie oceniłeś tego zgłoszenia.",
                 "you_just_voted": "Właśnie oddałeś głos.",
-                "you_voted_ago": "Oddano głos {{timestamp}}."
+                "you_voted_ago": "Oddano głos {{timestamp}}.",
+                "disqualified_message": "Ta pozycja jest zdyskwalifikowana i nie można jej oceniać."
             }
         },
         "screenshots": {
