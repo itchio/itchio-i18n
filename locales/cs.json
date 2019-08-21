@@ -7,7 +7,8 @@
             "blog": "Blog",
             "contact_us": "Kontakt",
             "terms": "Podmínky",
-            "directory": "Adresář"
+            "directory": "Adresář",
+            "privacy": "Soukromí"
         },
         "header": {
             "browse": "Prohlížet",
@@ -18,7 +19,20 @@
             "search": "Hledat",
             "log_in": "Přihlásit se",
             "register": "Registrovat se",
-            "notifications_count_2": "Oznámení: {{count}}"
+            "notifications_count_2": "{{count}} notifikaci",
+            "devlogs": "Devlogy",
+            "notifications_count_0": "{{count}} notifikace",
+            "notifications_count_1": "{{count}} notifikace",
+            "game_assets": "Assety"
+        },
+        "user_menu": {
+            "explore": "Prozkoumat",
+            "log_out": "Odhlásit se"
         }
+    },
+    "index": {
+        "view_something_random": "Zobrazit něco náhodně",
+        "view_all_games": "Zobrazit všechny hry",
+        "fresh_games_description": "Neustále se aktualizuje s nejnovějšími hrami na itch.io"
     }
 }
