@@ -39,7 +39,8 @@
             "games": "Hry",
             "feed_unseen_count_0": "{{count}} nový",
             "feed_unseen_count_1": "{{count}} nové",
-            "feed_unseen_count_2": "{{count}} nových"
+            "feed_unseen_count_2": "{{count}} nových",
+            "jams": "Jamy"
         },
         "user_menu": {
             "explore": "Prozkoumat",
@@ -55,7 +56,8 @@
             "library": "Moje knihovna",
             "feed": "Moje příspěvky",
             "host_game_jam": "pořádat game jam",
-            "game_jams": "game jamy"
+            "game_jams": "game jamy",
+            "account_menu_tooltip": "Menu účtu"
         }
     },
     "index": {
@@ -85,6 +87,15 @@
         "fresh_games": "Čerstvé hry",
         "view_more": "Více",
         "people_to_follow": "(Doporučení) Lidé na sledování",
-        "view_all_games_on_sale": "Zobrazit všechny hry ve slevě"
+        "view_all_games_on_sale": "Zobrazit všechny hry ve slevě",
+        "featured_jams": "Doporučený Jamy",
+        "view_all_jams": "zobrazit všechny jamy",
+        "more_featured_games": "Více doporučených her",
+        "game_dev_on_sale": "Vývojářské materiály <1>Sleva</1>"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Tvoje e-mailová adresa není ověřená"
+        }
     }
 }
