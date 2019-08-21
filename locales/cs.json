@@ -37,9 +37,9 @@
             "sales": "Slevy",
             "bundles": "Balíčky",
             "games": "Hry",
-            "feed_unseen_count_0": "{{count}} nový",
+            "feed_unseen_count_0": "{{count}} nové",
             "feed_unseen_count_1": "{{count}} nové",
-            "feed_unseen_count_2": "{{count}} nových",
+            "feed_unseen_count_2": "",
             "jams": "Jamy"
         },
         "user_menu": {
