@@ -20,10 +20,10 @@
             "search": "Hledat",
             "log_in": "Přihlásit se",
             "register": "Registrovat se",
-            "notifications_count_2": "{{count}} notifikaci",
-            "devlogs": "Devlogy",
             "notifications_count_0": "{{count}} notifikace",
             "notifications_count_1": "{{count}} notifikace",
+            "notifications_count_2": "{{count}} notifikací",
+            "devlogs": "Devlogy",
             "game_assets": "Assety",
             "community": "Komunita",
             "dashboard": "Hlavní panel",
@@ -53,7 +53,9 @@
             "new_project": "Nahrát nový projekt",
             "recommendations": "Doporučené",
             "library": "Moje knihovna",
-            "feed": "Moje příspěvky"
+            "feed": "Moje příspěvky",
+            "host_game_jam": "pořádat game jam",
+            "game_jams": "game jamy"
         }
     },
     "index": {
