@@ -29,12 +29,31 @@
             "dashboard": "Hlavní panel",
             "indie_game_store": "Obchod Indie her",
             "fun_games": "Zábavné hry",
-            "feed": "Novinky"
+            "feed": "Novinky",
+            "no_notifications": "Žádná nová oznámení",
+            "free_games": "Hry zdarma",
+            "game_development": "Vývoj her",
+            "comics": "Komiks",
+            "sales": "Slevy",
+            "bundles": "Balíčky",
+            "games": "Hry",
+            "feed_unseen_count_0": "{{count}} nový",
+            "feed_unseen_count_1": "{{count}} nové",
+            "feed_unseen_count_2": "{{count}} nových"
         },
         "user_menu": {
             "explore": "Prozkoumat",
             "log_out": "Odhlásit se",
-            "dashboard": "Hlavní panel"
+            "dashboard": "Hlavní panel",
+            "create": "Tvorba",
+            "account": "Účet",
+            "settings": "Nastavení",
+            "view_profile": "Zobrazit profil",
+            "sales_bundles": "Slevy a balíčky",
+            "new_project": "Nahrát nový projekt",
+            "recommendations": "Doporučené",
+            "library": "Moje knihovna",
+            "feed": "Moje příspěvky"
         }
     },
     "index": {
@@ -42,6 +61,28 @@
         "view_all_games": "Zobrazit všechny hry",
         "fresh_games_description": "Neustále se aktualizuje s nejnovějšími hrami na itch.io",
         "recommendations_based_on": "Zakládá na tom, co jste koupili, stáhli a ohodnotili",
-        "view_all_on_sale": "Zobrazit vše ve slevě"
+        "view_all_on_sale": "Zobrazit vše ve slevě",
+        "popular_tags": "Oblíbené tagy",
+        "browse": "Procházet",
+        "games_by_price": "Hry podle ceny",
+        "download_app": "Stáhnout aplikaci",
+        "dont_see_anything_you_like": "Není tu nic, co by se ti líbilo?",
+        "from_the_blog": "Z blogu",
+        "random_game": "Náhodná hra",
+        "get_the_app": "<s>Využijte itch.io naplno!</s> Instalujte a spravujte hry pomocí naší desktopové aplikace",
+        "from_the_itchio_blog": "Z blogu itch.io",
+        "view_all_blog_posts": "Zobrazit všechny aktualizace",
+        "search_games_creators": "Hledat hry a autory",
+        "browse_all_tags": "Procházet všechny tagy",
+        "on_sale": "Ve slevě",
+        "free_games": "Hry zdarma",
+        "top_sellers": "Nejprodávanější",
+        "with_demo": "Má demo",
+        "view_all": "Zobrazit vše",
+        "recommended_for_you": "Doporučené pro tebe",
+        "fresh_games": "Čerstvé hry",
+        "view_more": "Více",
+        "people_to_follow": "(Doporučení) Lidé na sledování",
+        "view_all_games_on_sale": "Zobrazit všechny hry ve slevě"
     }
 }
