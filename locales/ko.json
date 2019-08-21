@@ -944,7 +944,6 @@
                 "submissions_due_in": "제출 시작일",
                 "voting_ends_in": "투표 완료일"
             },
-            "you_can_now_rate_games": "아래를 통해서 게임을 평가할 수 있습니다",
             "submission_is_closed_for_voting": "제출 기간이 끝났으며 현재 투표가 진행중입니다"
         },
         "submissions": {
