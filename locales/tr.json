@@ -252,7 +252,7 @@
             "comment": "itch.io'da yorum yapmak için bir hesap açmanız gerekecek.",
             "rate_game": "Bir oyunu puanlamadan önce itch.io'da hesap açmanız gerekiyor.",
             "follow": "Birisini takip etmeden önce itch.io'da hesap açmanız gerekiyor.",
-            "follow_username": "{{username}} isimli kullanıcıyı takip etmeden önce itch.io'da bir hesap açmanız gerekiyor.",
+            "follow_username": "<1>{{username}}</1> isimli kullanıcıyı takip etmeden önce itch.io'da bir hesap açmanız gerekiyor.",
             "collection": "Kütüphanenize ekleyebilmeniz için hesap açmanız gerekiyor.",
             "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor.",
             "claim_object": "{{noun}} oyununu sahiplenmek için giriş yapın ya da yeni bir hesap oluşturun",
