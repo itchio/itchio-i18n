@@ -24,16 +24,24 @@
             "devlogs": "Devlogy",
             "notifications_count_0": "{{count}} notifikace",
             "notifications_count_1": "{{count}} notifikace",
-            "game_assets": "Assety"
+            "game_assets": "Assety",
+            "community": "Komunita",
+            "dashboard": "Hlavní panel",
+            "indie_game_store": "Obchod Indie her",
+            "fun_games": "Zábavné hry",
+            "feed": "Novinky"
         },
         "user_menu": {
             "explore": "Prozkoumat",
-            "log_out": "Odhlásit se"
+            "log_out": "Odhlásit se",
+            "dashboard": "Hlavní panel"
         }
     },
     "index": {
         "view_something_random": "Zobrazit něco náhodně",
         "view_all_games": "Zobrazit všechny hry",
-        "fresh_games_description": "Neustále se aktualizuje s nejnovějšími hrami na itch.io"
+        "fresh_games_description": "Neustále se aktualizuje s nejnovějšími hrami na itch.io",
+        "recommendations_based_on": "Zakládá na tom, co jste koupili, stáhli a ohodnotili",
+        "view_all_on_sale": "Zobrazit vše ve slevě"
     }
 }
