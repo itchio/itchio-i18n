@@ -61,7 +61,7 @@
         }
     },
     "index": {
-        "view_something_random": "Zobrazit náhodné",
+        "view_something_random": "Zobrazit něco náhodně",
         "view_all_games": "Všechny hry",
         "fresh_games_description": "Stále obnovované nejnovějšími hrami na itch.io",
         "recommendations_based_on": "Zakládá na tom, co jste koupili, stáhli a ohodnotili",
@@ -106,7 +106,8 @@
         },
         "intro": "<s>itch.io</s>je jednoduchá cesta jak najít a sdílet indie hry online a zadarmo.",
         "intro_cta": "<1>Přidej svoji hru</1> nebo <2>Si přečti FAQ </2>",
-        "html5_games": "HTML5 hry"
+        "html5_games": "HTML5 hry",
+        "page_title": "Stahuj nejnovější indie hry"
     },
     "nags": {
         "unverified_email": {
