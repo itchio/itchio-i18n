@@ -238,7 +238,8 @@
         "all_posts": "Alle innlegg",
         "updates": "Oppdateringer",
         "empty_message": "Det ser ikke ut til å være noen innlegg her",
-        "tag_filter": "Filtrerer etter {{tag}} <a>Fjern merke</a>"
+        "tag_filter": "Filtrerer etter {{tag}} <a>Fjern merke</a>",
+        "digest": "Oppsummering"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Logg inn på din itch.io-konto",
@@ -268,7 +269,7 @@
         "page_title": "Logg inn",
         "you_are_logged_out": "Du er logget ut",
         "welcome_back": "Velkommen tilbake!",
-        "welcome_to_itchio": "Velkommen til itch.io",
+        "welcome_to_itchio": "Velkommen til itch.io!",
         "errors": {
             "accept_terms": "Du må akseptere Bruksvilkårene"
         }
@@ -359,7 +360,7 @@
         "unavailable": "Denne gjenstanden av typen {{game_noun}} er ikke tilgjengelig for øyeblikket",
         "purchase_header": "Kjøp",
         "download_access": "Klikk last ned nå for å få tilgang til følgende filer:",
-        "get_access": "Du vil få tilgang til følgende filer",
+        "get_access": "Du vil få tilgang til følgende filer:",
         "get_access_preorder": "Du vil få tilgang til følgene filer når de blir utgitt:",
         "download_demo_header": "Last ned demo",
         "available_header": "Tilgjengelig for",
@@ -617,11 +618,130 @@
         }
     },
     "browse": {
-        "view_all_tags": "Se alle merker"
+        "view_all_tags": "Se alle merker",
+        "results_count_plural": "{{count}} resultater",
+        "results_count": "{{count}} resultat",
+        "sort_popular": "Populært",
+        "sort_new_and_popular": "Nytt og populært",
+        "sort_top_sellers": "Toppselgere",
+        "sort_most_recent": "Nyeste",
+        "sort": "Sorter",
+        "upload_your_project": "<a>Last opp ditt prosjekt</a> til itch.io for å vise det her.",
+        "filter_results": "Filtrer resultater",
+        "related_collections": "Relaterte samlinger",
+        "filter_group_price": "Pris",
+        "filter_group_genre": "Sjanger",
+        "tag": {
+            "no_description_yet": "Ingen beskrivelse ennå",
+            "suggest_updated_description": "Foreslå oppdatert beskrivelse"
+        },
+        "filter_group_platform": "Plattform",
+        "filter_group_when": "Når",
+        "filter_group_input_methods": "Inndatametoder",
+        "filter_group_session_length": "Gjennomsnittlig øktlengde",
+        "filter_group_multiplayer": "Flespillerfunksjoner",
+        "filter_group_accessibility_features": "Tilgjengelighetsfunksjoner",
+        "filter_group_type": "Type",
+        "type_downloadable": "Nedlastbar",
+        "filter_group_release_status": "Utgivelsesstatus",
+        "filter_group_misc": "Diverse",
+        "filter_group_collection": "Samling",
+        "filter_group_tools": "Verktøy og spillmotorer",
+        "filter_group": {
+            "more_options": "Flere valg",
+            "fewer_options": "Færre valg"
+        },
+        "filter_everything_else": "Alt annet"
     },
     "buy_form": {
         "download_title": "Last ned '{{title}}'",
         "buy_title": "Kjøp '{{title}}'",
-        "preorder_title": "Forhåndsbestill '{{title}}'"
+        "preorder_title": "Forhåndsbestill '{{title}}'",
+        "sold_out_notice": "Dette produktet er foreløpig utsolgt, kom tilbake senere.",
+        "on_sale_notice": "Dette produktet er på salg.",
+        "support_message": "Støtt utviklingen av dette prosjektet ved å donere",
+        "percent_off_until": "Alle kjøp har <s>{{rate}}%</s>rabatt fram til{{end_date}}.",
+        "free_pay_what_you_want": "Dette produktet er gratis, men skaperen lar deg vise din støtte ved å betale det du mener er rettferdig.",
+        "no_thanks_just_take_me_to_the_downloads": "Nei takk, bare ta meg til nedlastingene",
+        "includes_steam_key": "Du vil motta en Steam-nøkkel med ditt kjøp.",
+        "preorder_this_product_by_purchasing_it_for": "Forhåndsbestill dette produktet ved å kjøpe det for {{price}} eller mer.",
+        "download_this_product_by_purchasing_it_for": "Last ned dette produktet ved å kjøpe det for {{price}} eller mer.",
+        "your_email_address": "Din epostadresse",
+        "email_address_description": "Din kvittering sendes til denne adressen",
+        "gift_email_instructions": "Du velger hvilken epostadresse gaven skal sendes til etter at du har betalt",
+        "i_already_paid_for_this": "Jeg har allerede betalt for dette...",
+        "included_files": "Inkluderte filer",
+        "agree_to_terms": "Ved å gjennomføre kjøpet godtar du itch.io sine <1>Tjenestevilkår</1> og <2>Personvernretningslinjer</2>.",
+        "this_purchase_is_a_gift": "Dette kjøpet er en gave",
+        "support_the_creator_by_paying_above_the_minimum_price": "Støtt skaperen ved å betale minsteprisen over",
+        "support_the_creator_with_an_additional_contribution": "Støtt skaperen med et ekstra bidrag",
+        "pay_with": "Betal med",
+        "check_out_with": "Fulfør betalingen med",
+        "credit_card": "Kort",
+        "go_back": "Gå tilbake",
+        "continue_payment": "Gå videre til betaling",
+        "billing_address": "Betalingsadresse",
+        "generic_error": "Det oppstod er problem med kjøpet ditt: {{error}}",
+        "contact_support_on_error": "Om problemet fortsetter, kontakt <a>itch.io-kundestøtten</a> med alle relevante detaljer."
+    },
+    "collection": {
+        "authors": "en samling av {{author}}",
+        "last_updated_date": "sist oppdatert {{date}}",
+        "edit_collection": "Rediger samling",
+        "edit_contributors": "Rediger bidragsytere",
+        "empty_collection_message": "Denne samlingen er tom.",
+        "private_collection_message": "Denne samlingen er privat, bare bidragsytere kan se innholdet",
+        "pending_invitation": "Du har en ventende invitasjon til å bli bidragsyter for denne samlingen. <a>Se invitasjon</a>",
+        "a_collection_by_author": "En samling av {{author}}",
+        "page_title": "{{collection_title}} - Samling av {{author}}",
+        "remove_item_button": "Fjern...",
+        "blurb_author_says": "{{author}} sier",
+        "remove_confirm": "Er du sikker på at du vil fjerne dette fra samlingen"
+    },
+    "browse_tags": {
+        "no_description_yet": "Ingen beskrivelse ennå"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>av</1> {{author}}",
+        "powered_by_itchio": "drevet av {{itchio}}"
+    },
+    "user_settings": {
+        "account_settings": "Kontoinnstillinger",
+        "navigation": {
+            "basics_header": "Grunnleggende",
+            "payment_header": "Betaling",
+            "publisher_header": "Utgiver",
+            "contact_header": "Kontakt",
+            "misc_header": "Diverse",
+            "developer_header": "Utvikler",
+            "profile": "Profil",
+            "password": "Passord",
+            "email_addresses": "Epostadresser",
+            "two_factor_auth": "Totrinns-autentisering",
+            "publisher_get_started": "Kom i gang",
+            "tax_information": "Skatteinformasjon",
+            "payout_mode": "Utbetalingsmodus",
+            "credit_cards": "Kredittkort",
+            "connected_accounts": "Tilkoblede kontoer",
+            "press_access": "Pressetilgang",
+            "privacy": "Personvern",
+            "data_export": "Dataeksport",
+            "api_keys": "API-nøkler",
+            "oauth_applications": "OAuth-applikasjoner"
+        },
+        "profile": {
+            "language": "Språk",
+            "page_header": "Profil",
+            "username": "Brukernavn",
+            "profile_image": "Profilbilde",
+            "display_name": "Visningsnavn",
+            "website": "Nettside",
+            "account_type": "Kontotype"
+        }
+    },
+    "game_download": {
+        "social_share_message_download": "Jeg lastet akkurat ned {{title}} av {{username}}",
+        "or_share_on": "eller del på",
+        "trouble_downloading_link": "Starter ikke nedlastingen?"
     }
 }
