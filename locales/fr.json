@@ -216,7 +216,9 @@
         },
         "errors": {
             "server_error": "Échec de la communication avec le serveur, veuillez réessayer plus tard"
-        }
+        },
+        "dismiss": "Ignorer",
+        "more_ellip": "Plus..."
     },
     "blog": {
         "all_posts": "Tous les articles",
@@ -612,7 +614,22 @@
             "add_external_file_button": "Ajouter un fichier externe",
             "file_size_limit": "Taille limite de fichier : {{filesize}}. <a>Contactez-nous</a> si vous avez besoin de plus d'espace",
             "content_guidelines_header": "Assurez-vous que tout le monde peut trouver votre page",
-            "payment_warning_header": "Vous n'avez aucun moyen de paiement configuré"
+            "payment_warning_header": "Vous n'avez aucun moyen de paiement configuré",
+            "payment_warning_info": "Si vous définissez un prix minimum supérieur à 0, personne ne pourra télécharger votre projet. <a>Modifier le compte</a>",
+            "cover_uploader": {
+                "confirm_remove": "Êtes-vous sûr de vouloir supprimer l'image de couverture ?",
+                "cover_description": "L'image de couverture est utilisée quand itch.io lie votre projet depuis une autre partie du site. Requis (minimum : 315x250, recommandé : 630x500)",
+                "replace_image": "Changer l'image de couverture",
+                "remove_image": "Supprimer l'image",
+                "upload_button": "Charger une image de couverture"
+            },
+            "errors": {
+                "invalid_file": "Il y a un problème avec le fichier sélectionné"
+            },
+            "error_dialog": {
+                "confirm_button": "J'ai compris",
+                "title": "Il y a eu un problème pendant la sauvegarde de votre projet"
+            }
         }
     }
 }
