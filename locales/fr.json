@@ -462,6 +462,10 @@
             "check_popup_blocker": "Le téléchargement devrait démarrer dans un instant. Si ce n'est pas le cas, vérifiez votre bloqueur de popup.",
             "share_this_project": "Partager ce projet",
             "thanks_for_downloading_title": "Merci d'avoir téléchargé"
+        },
+        "report_form": {
+            "support_from_creator": "Un problème, besoin de contacter le créateur ?",
+            "email_creator_link": "Envoyer un mail au créateur"
         }
     },
     "community": {
