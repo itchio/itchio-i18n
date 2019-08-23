@@ -186,7 +186,9 @@
             "next_page": "Page suivante",
             "prev": "Précédent",
             "next": "Suivant",
-            "current_page_of_total": "Page {{current_page}} sur {{total_pages}}"
+            "current_page_of_total": "Page {{current_page}} sur {{total_pages}}",
+            "previous_page": "Page précédente",
+            "first_page": "Première page"
         },
         "collection_button": {
             "add_to_collection": "Ajoute à la collection"
@@ -200,6 +202,16 @@
             "hours": "heures",
             "minutes": "minutes",
             "seconds": "secondes"
+        },
+        "project_visibility": {
+            "published": "Publié",
+            "draft": "Brouillon",
+            "public": "Publique"
+        },
+        "release_statuses": {
+            "on_hold": "En pause",
+            "canceled": "Annulé",
+            "prototype": "Prototype"
         }
     },
     "blog": {
@@ -444,6 +456,9 @@
                 "now_accepting_ratings": "Les soumissions de cette jam sont en cours d'évaluation.",
                 "rating_instructions": "Notez et commentez cette soumission en visitant sa page à partir du lien ci-dessus."
             }
+        },
+        "after_download": {
+            "check_popup_blocker": "Le téléchargement devrait démarrer dans un instant. Sinon, vérifiez votre bloqueur de popup."
         }
     },
     "community": {
