@@ -592,7 +592,23 @@
             "description_field": "Description",
             "custom_noun_field": "Nom personnalisé",
             "uploads_header": "Fichiers mis en ligne",
-            "upload_files_button": "Mettre en ligne des fichiers"
+            "upload_files_button": "Mettre en ligne des fichiers",
+            "instructions_field": "Instructions de téléchargement & d'installation",
+            "classification_other": "Autre",
+            "types": {
+                "downloadable": "Téléchargeable"
+            },
+            "tip_label": "Astuce",
+            "description_field_description": "Cela constituera le contenu de votre page de jeu.",
+            "instructions_field_info2": "Si votre jeu requiert l'installation préalable de librairies ou de programmes, vous devriez inclure cette information",
+            "instructions_field_info1": "Ce texte est affiché lorsque quelqu'un télécharge votre jeu depuis un navigateur. Incluez toute information nécessaire pour l'installer et le lancer.",
+            "community_field": "Communauté",
+            "community_comments": "Commentaires",
+            "community_discussion_board": "Discussion",
+            "add_external_file_button": "Ajouter un fichier externe",
+            "file_size_limit": "Taille limite de fichier : {{filesize}}. <a>Contactez-nous</a> si vous avez besoin de plus d'espace",
+            "content_guidelines_header": "Assurez-vous que tout le monde peut trouver votre page",
+            "payment_warning_header": "Vous n'avez aucun paiement configuré"
         }
     }
 }
