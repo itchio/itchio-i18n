@@ -17,7 +17,8 @@
             "game_jams": "كوم الألعاب",
             "upload_game": "إرفع لعبة",
             "devlogs": "سجلات المطور",
-            "community": "المجتمع"
+            "community": "المجتمع",
+            "search_placeholder": "إبحث عن العاب أو مطورون"
         }
     }
 }
