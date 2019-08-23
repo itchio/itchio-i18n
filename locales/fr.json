@@ -38,7 +38,7 @@
             "games": "Jeux",
             "feed_unseen_count": "{{count}} non lu",
             "feed_unseen_count_plural": "{{count}} non lues",
-            "feed": "Fil"
+            "feed": "Flux"
         },
         "user_menu": {
             "explore": "Explorer",
@@ -193,6 +193,13 @@
         },
         "lightboxes": {
             "close": "Fermer"
+        },
+        "countdown": {
+            "months": "mois",
+            "days": "jours",
+            "hours": "heures",
+            "minutes": "minutes",
+            "seconds": "secondes"
         }
     },
     "blog": {
