@@ -459,7 +459,7 @@
             }
         },
         "after_download": {
-            "check_popup_blocker": "Le téléchargement devrait démarrer dans un instant. Sinon, vérifiez votre bloqueur de popup.",
+            "check_popup_blocker": "Le téléchargement devrait démarrer dans un instant. Si ce n'est pas le cas, vérifiez votre bloqueur de popup.",
             "share_this_project": "Partager ce projet",
             "thanks_for_downloading_title": "Merci d'avoir téléchargé"
         }
