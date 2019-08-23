@@ -586,7 +586,11 @@
             "short_description_field": "Courte description ou accroche",
             "short_description_field_description": "Montré lorsqu'un lien mène à votre projet. Cela évite de dupliquer le titre de votre projet",
             "classification_field_description": "Qu'êtes vous en train de proposer ?",
-            "custom_noun_field_description": "Vous pouvez modifier la façon dont itch.io réfère à votre projet en fournissant un nom personnalisé."
+            "custom_noun_field_description": "Vous pouvez modifier la façon dont itch.io réfère à votre projet en fournissant un nom personnalisé.",
+            "kind_of_project_field": "Type de projet",
+            "details_section_header": "Détails",
+            "description_field": "Description",
+            "custom_noun_field": "Nom personnalisé"
         }
     }
 }
