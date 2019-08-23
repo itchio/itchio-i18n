@@ -211,7 +211,11 @@
         "release_statuses": {
             "on_hold": "En pause",
             "canceled": "Annulé",
-            "prototype": "Prototype"
+            "prototype": "Prototype",
+            "released": "Publié"
+        },
+        "errors": {
+            "server_error": "Échec de la communication avec le serveur, veuillez réessayer plus tard"
         }
     },
     "blog": {
@@ -608,7 +612,7 @@
             "add_external_file_button": "Ajouter un fichier externe",
             "file_size_limit": "Taille limite de fichier : {{filesize}}. <a>Contactez-nous</a> si vous avez besoin de plus d'espace",
             "content_guidelines_header": "Assurez-vous que tout le monde peut trouver votre page",
-            "payment_warning_header": "Vous n'avez aucun paiement configuré"
+            "payment_warning_header": "Vous n'avez aucun moyen de paiement configuré"
         }
     }
 }
