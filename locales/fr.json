@@ -583,7 +583,8 @@
     },
     "dashboard": {
         "edit_project": {
-            "short_description_field": "Courte description ou accroche"
+            "short_description_field": "Courte description ou accroche",
+            "short_description_field_description": "Montré lorsque l'on fait le lien vers votre projet. Cela évite de dupliquer le titre de votre projet"
         }
     }
 }
