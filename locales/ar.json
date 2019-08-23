@@ -33,19 +33,19 @@
             "bundles": "العروض",
             "game_assets": "الأصول",
             "fun_games": "العاب ممتعة",
-            "games": "العاب",
+            "games": "الألعاب",
             "feed": "التغذية"
         },
         "user_menu": {
             "explore": "تصفح",
             "create": "أنشئ",
-            "account": "حساب",
+            "account": "الحساب",
             "log_out": "تسجيل الخروج",
             "settings": "الاعدادات",
             "view_profile": "عرض الحساب",
             "host_game_jam": "قم بإستضافة كوم الالعاب",
             "sales_bundles": "المبيعات والعروض",
-            "new_project": "ارفع مشروعا جديدا",
+            "new_project": "ارفع مشروعًا جديدًا",
             "dashboard": "لوحة المراقبة",
             "game_jams": "كوم الالعاب",
             "recommendations": "المرشح",
@@ -74,7 +74,7 @@
         "with_demo": "مع تجربة",
         "view_all": "عرض الكل",
         "recommended_for_you": "مرشح لك",
-        "recommendations_based_on": "تبعاً للأشياء التي اشتريتها وحملتها وقيمتها",
+        "recommendations_based_on": "طبقاً للأشياء التي اشتريتها وحملتها وقيمتها",
         "fresh_games": "العاب طازجة",
         "view_more": "عرض المزيد",
         "featured_jams": "الكوم المميزة",
@@ -84,6 +84,57 @@
         "view_all_games_on_sale": "عرض كل الألعاب المباعة",
         "more_featured_games": "مزيد من الألعاب المميزة",
         "game_dev_on_sale": "موارد مطوري الألعاب <1>المباعة</1>",
-        "view_all_on_sale": "عرض كل المباع"
+        "view_all_on_sale": "عرض كل المباع",
+        "get_the_app": "<s>أحصل على أفضل ما في itch.io!</s> ثبت وأدر ألعابك مع تطبيقنا",
+        "people_to_follow_description": "هاهي بعض  الحسابات التي ربما تكون مهتماً بمتابعتها. <a>لماذا تتابع؟</a>",
+        "latest_featured_games": "أخر الألعاب المميزة",
+        "filtering_platform": "فلتر كل الألعاب الي {{platform_name}}",
+        "view_all_platforms": "عرض كل المنصات",
+        "browse_content_type": "تصفح {{content_type}}",
+        "nav": {
+            "all_games": "كل الألعاب",
+            "bundles": "العروض",
+            "game_jams": "كوم الألعاب",
+            "devlogs": "سجلات المطور",
+            "community": "المجتمع"
+        },
+        "intro": "<s>itch.io</s> هو طريقة بسيطة لإيجاد ومشاركة الألعاب المستقلة أونلاين مجاناً.",
+        "intro_cta": "<1>أضف لعبتك</1> أو <2>اقرأ الأسئلة الشائعة</2>",
+        "html5_games": "ألعاب HTML5",
+        "page_title": "تحميل أخر الألعاب المستقلة",
+        "to_follow": {
+            "refresh_button": "تحديث للمزيد...",
+            "dismiss_tooltip": "لا تقترح المزيد"
+        }
+    },
+    "misc": {
+        "classifications": {
+            "game": "الألعاب",
+            "assets": "أصول الألعاب",
+            "game_mod": "مودات الألعاب",
+            "soundtrack": "الموسيقى التصويرية",
+            "other": "متنوع",
+            "tool": "الأدوات",
+            "comic": "القصص المصورة",
+            "book": "الكتب"
+        },
+        "accessibility_features": {
+            "colorblind": "مناسب لعمى الألوان",
+            "subtitles": "الترجمات",
+            "configurable_controls": "تحكم ممكن تعديله",
+            "highcontrast": "تباين عالي",
+            "tutorial": "برنامج تعليمي تفاعلي",
+            "one_button": "زر واحد",
+            "blind": "مناسب للعمي",
+            "textless": "من غير كلام"
+        },
+        "inputs": {
+            "keyboard": "لوحة المفاتيح",
+            "mouse": "الفأرة"
+        },
+        "forms": {
+            "required": "مطلوب",
+            "save": "حفظ"
+        }
     }
 }
