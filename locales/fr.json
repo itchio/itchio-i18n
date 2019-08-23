@@ -46,8 +46,8 @@
             "account": "Compte",
             "log_out": "Se déconnecter",
             "settings": "Paramètres",
-            "view_profile": "Voir profil",
-            "host_game_jam": "Héberger une game jam",
+            "view_profile": "Voir mon profil",
+            "host_game_jam": "Créer une jam",
             "sales_bundles": "Soldes & bundles",
             "new_project": "Créer un nouveau projet",
             "dashboard": "Tableau de bord",
@@ -68,7 +68,7 @@
         "dont_see_anything_you_like": "Rien n'est à votre goût ?",
         "from_the_blog": "En direct du blog",
         "random_game": "Jeu au hasard",
-        "get_the_app": "<s>Profitez pleinement d'itch.io!</s> Installez et gérez vos jeux avec l'app",
+        "get_the_app": "<s>Profitez pleinement d'itch.io !</s> Installez et gérez vos jeux avec l'app",
         "from_the_itchio_blog": "En direct du blog Itch.io",
         "view_all_blog_posts": "Voir toutes les Mises à jour",
         "on_sale": "En solde",
@@ -83,15 +83,15 @@
         "search_games_creators": "Chercher des jeux et des créateurs",
         "view_more": "Voir plus",
         "featured_jams": "Jams sélectionnées",
-        "view_all_jams": "Voir toute les Jams",
-        "fresh_games_description": "Enrichie constamment avec les derniers jeux itch.io",
+        "view_all_jams": "Voir toutes les jams",
+        "fresh_games_description": "Constamment mis à jour avec les derniers jeux sur itch.io",
         "people_to_follow": "Personnes à suivre",
         "view_all_games_on_sale": "Voir tout les jeux soldés",
         "more_featured_games": "Plus de jeux sélectionnés",
         "game_dev_on_sale": "Ressources pour Game Dev <1>En Solde</1>",
         "view_all_on_sale": "Voir toutes les soldes",
         "people_to_follow_description": "Voici des utilisateurs auxquels vous pourriez vouloir vous abonner. <a>Pourquoi s'abonner?</a>",
-        "latest_featured_games": "Derniers Jeux Sélectionnés",
+        "latest_featured_games": "Derniers jeux sélectionnés",
         "filtering_platform": "N'affiche que les jeux compatible {{platform_name}}",
         "view_all_platforms": "Voir toutes les plateformes",
         "browse_content_type": "Naviguer {{content_type}}",
@@ -103,7 +103,7 @@
             "community": "Communauté"
         },
         "intro": "<s>itch.io</s> est un moyen simple de trouver et partager des jeux indés gratuitement.",
-        "intro_cta": "<1>Ajoutez vos jeux</1> ou <2>Lisez la FAQ</2>",
+        "intro_cta": "<1>Ajoutez votre jeu</1> ou <2>Lisez la FAQ</2>",
         "html5_games": "Jeux HTML5",
         "page_title": "Téléchargez les derniers jeux indépendants",
         "meta_description": "itch.io est un moyen simple de rechercher, télécharger et distribuer des jeux indés en ligne. Que vous vouliez mettre un jeu en ligne ou juste trouver quelque-chose de nouveau auquel jouer, vous êtes au bon endroit."
@@ -157,7 +157,7 @@
         },
         "forms": {
             "required": "Champ obligatoire",
-            "save": "Sauvegarder",
+            "save": "Enregistrer",
             "email_address": "Adresse e-mail"
         },
         "page_number": "Page {{page_number}}",
@@ -170,7 +170,7 @@
             "unfollow": "Se désabonner"
         },
         "filter_when": {
-            "last_day": "Dernières 24h",
+            "last_day": "Dernier jour",
             "last_7_days": "Les 7 derniers jours",
             "last_30_days": "Les 30 derniers jours"
         },
@@ -189,7 +189,7 @@
             "current_page_of_total": "Page {{current_page}} sur {{total_pages}}"
         },
         "collection_button": {
-            "add_to_collection": "Ajouter à une collection"
+            "add_to_collection": "Ajoute à la collection"
         },
         "lightboxes": {
             "close": "Fermer"
@@ -227,7 +227,7 @@
             "claim_object": "Connectez-vous ou créez un compte pour réclamer le {{noun}}",
             "recent_purchases": "Connectez-vous pour ajouter à votre compte vos derniers achats."
         },
-        "page_title": "Se connecter",
+        "page_title": " Se connecter",
         "you_are_logged_out": "Vous êtes maintenant déconnecté(e)",
         "welcome_back": "Re-bienvenue !",
         "welcome_to_itchio": "Bienvenue sur itch.io !",
@@ -549,6 +549,7 @@
         "empty_collection_message": "Il n'y a rien dans cette collection.",
         "private_collection_message": "Cette collection est privée, seuls les contributeurs peuvent y accéder",
         "pending_invitation": "Acceptez <a>cette invitation</a> pour contribuer à cette collection.",
-        "a_collection_by_author": "Une collection de {{author}}"
+        "a_collection_by_author": "Une collection de {{author}}",
+        "add_a_blurb": "Ajouter une description"
     }
 }
