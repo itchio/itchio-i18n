@@ -365,7 +365,8 @@
             "leave_a_comment": "Ajouter un commentaire",
             "click_to_leave_a_comment": "Cliquez pour laisser un commentaire ...",
             "log_in_to_leave_comment": "<a>Connectez-vous avec itch.io</a> pour laisser un commentaire.",
-            "post_comment": "Poster un commentaire"
+            "post_comment": "Poster un commentaire",
+            "write_your_comment": "Écrivez votre commentaire..."
         },
         "info_panel": {
             "updated_at": "Mis à jour",
@@ -458,7 +459,9 @@
             }
         },
         "after_download": {
-            "check_popup_blocker": "Le téléchargement devrait démarrer dans un instant. Sinon, vérifiez votre bloqueur de popup."
+            "check_popup_blocker": "Le téléchargement devrait démarrer dans un instant. Sinon, vérifiez votre bloqueur de popup.",
+            "share_this_project": "Partager ce projet",
+            "thanks_for_downloading_title": "Merci d'avoir téléchargé"
         }
     },
     "community": {
