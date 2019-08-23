@@ -580,5 +580,10 @@
         "pending_invitation": "Acceptez <a>cette invitation</a> pour contribuer à cette collection.",
         "a_collection_by_author": "Une collection de {{author}}",
         "add_a_blurb": "Ajouter une description"
+    },
+    "dashboard": {
+        "edit_project": {
+            "short_description_field": "Courte description ou accroche"
+        }
     }
 }
