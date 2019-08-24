@@ -218,7 +218,7 @@
             "server_error": "Échec de la communication avec le serveur, veuillez réessayer plus tard"
         },
         "dismiss": "Ignorer",
-        "more_ellip": "Plus..."
+        "more_ellip": "Plus…"
     },
     "blog": {
         "all_posts": "Tous les articles",
@@ -252,7 +252,7 @@
             "claim_object": "Connectez-vous ou créez un compte pour réclamer le {{noun}}",
             "recent_purchases": "Connectez-vous pour ajouter à votre compte vos derniers achats."
         },
-        "page_title": " Se connecter",
+        "page_title": "Se connecter",
         "you_are_logged_out": "Vous êtes maintenant déconnecté(e)",
         "welcome_back": "Re-bienvenue !",
         "welcome_to_itchio": "Bienvenue sur itch.io !",
@@ -372,7 +372,7 @@
             "click_to_leave_a_comment": "Cliquez pour laisser un commentaire ...",
             "log_in_to_leave_comment": "<a>Connectez-vous avec itch.io</a> pour laisser un commentaire.",
             "post_comment": "Poster un commentaire",
-            "write_your_comment": "Écrivez votre commentaire..."
+            "write_your_comment": "Écrivez votre commentaire…"
         },
         "info_panel": {
             "updated_at": "Mis à jour",
@@ -677,13 +677,28 @@
         "show_on_my_profile_toggle": "Afficher sur mon profil",
         "nav": {
             "recommended_for_you": "Rien que pour vous",
-            "things_on_sale": "En solde",
-            "my_purchases": "Mes achats"
+            "things_on_sale": "En soldes",
+            "my_purchases": "Mes achats",
+            "things_to_rate": "À évoluer"
         },
         "things_rated_header": "Ce que vous avez noté",
         "permalink": "Permalien",
         "go_to_collection_link": "Accéder à la collection",
         "empty_collection_message": "Cette collection est vide",
         "nav_header": "Bibliothèque"
+    },
+    "user_settings": {
+        "email_addresses": {
+            "additional_emails": {
+                "email_sent_status": "mail envoyé"
+            }
+        }
+    },
+    "jam": {
+        "submitter": {
+            "countdown": {
+                "voting_ends_in": "Fin des votes dans"
+            }
+        }
     }
 }
