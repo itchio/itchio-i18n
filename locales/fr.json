@@ -686,7 +686,8 @@
         "go_to_collection_link": "Accéder à la collection",
         "empty_collection_message": "Cette collection est vide",
         "nav_header": "Bibliothèque",
-        "download_button": "Télécharger"
+        "download_button": "Télécharger",
+        "gift_button": "Offrir"
     },
     "user_settings": {
         "email_addresses": {
