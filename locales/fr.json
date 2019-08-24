@@ -636,6 +636,20 @@
         "manage_submissions_link": "Gérez vos contributions et jams",
         "browse_jams_header": "Parcourir les jams",
         "jam_calendar_header": "Calendrier des jams",
-        "host_your_own_jam_button": "Hébergez votre propre jam"
+        "host_your_own_jam_button": "Hébergez votre propre jam",
+        "host_or_explore_links": "<1>Hébergez votre propre jam</1> ou <2>Explorez toutes les jams</2>",
+        "dont_see_something_you_like_header": "Vous ne trouvez rien à votre goût ?",
+        "browse_in_progress": "En cours"
+    },
+    "feed": {
+        "filter_own_activity_tab": "Ma propre activité",
+        "filter_everything_tab": "Tout",
+        "filter_new_projects_tab": "Nouveaux projets",
+        "filter_collections_tab": "Collections",
+        "filter_ratings_tab": "Évaluations",
+        "to_rate": {
+            "projects_to_rate_header": "Projets à évaluer",
+            "to_rate_description": "Voici quelques trucs avec lesquels vous avez interagi sans les avoir évalués."
+        }
     }
 }
