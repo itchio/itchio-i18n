@@ -650,6 +650,29 @@
         "to_rate": {
             "projects_to_rate_header": "Projets à évaluer",
             "to_rate_description": "Voici quelques projets avec lesquels vous avez interagi sans les avoir évalués."
+        },
+        "to_follow": {
+            "to_follow_description": "Voici quelques comptes qui pourraient vous intéresser."
+        },
+        "manage_my_games_button": "Gérer mes jeux",
+        "event_filter_label": "Filtre :",
+        "email_warning": {
+            "verify_your_email_address": "Vérifiez votre adresse e-mail"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Ajouter une image de profil",
+            "description": "Votre compte n'a pas d'image de profil. Ajoutez-en une pour que les autres vous identifient en un coup d'œil !"
+        },
+        "event": {
+            "collection_summary": "Une collection avec {{count}} élément.",
+            "collection_summary_plural": "Une collection avec {{count}} éléments.",
+            "collection_added_count": "{{count}} élément ajouté.",
+            "collection_added_count_plural": "{{count}} éléments ajoutés."
         }
+    },
+    "library": {
+        "page_title": "Ma bibliothèque",
+        "view_all_link": "Tout voir",
+        "show_on_my_profile_toggle": "Affiché sur mon profil"
     }
 }
