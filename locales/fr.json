@@ -707,7 +707,8 @@
         "submissions": {
             "there_are_no_submissions_yet": "Il n'y a pas encore de participations",
             "submissions_will_be_available_after_the_jam_has_ended": "Les contributions seront disponibles quand la jam sera terminée",
-            "help_submissions_in_need_of_ratings": "Aidez les contributions qui n'ont pas beaucoup d'évaluations : <a>Contributions en besoin d'évaluations</a>"
+            "help_submissions_in_need_of_ratings": "Aidez les contributions qui n'ont pas beaucoup d'évaluations : <a>Contributions en attente d'évaluations</a>",
+            "filter": "Filtre"
         }
     },
     "nags": {
