@@ -639,7 +639,8 @@
         "filter_group_genre": "Sjanger",
         "tag": {
             "no_description_yet": "Ingen beskrivelse ennå",
-            "suggest_updated_description": "Foreslå oppdatert beskrivelse"
+            "suggest_updated_description": "Foreslå oppdatert beskrivelse",
+            "suggest_description_for_this_tag": "Foreslå beskrivelse for dette merket"
         },
         "filter_group_platform": "Plattform",
         "filter_group_when": "Når",
@@ -656,12 +657,14 @@
         "filter_group": {
             "more_options": "Flere valg",
             "fewer_options": "Færre valg",
-            "clear_filter": "Fjern filter"
+            "clear_filter": "Fjern filter",
+            "toggle_more_options": "Vis/skjul flere innstillinger"
         },
         "filter_everything_else": "Alt annet",
         "sort_top_rated": "Høyest rangert",
         "clear_filters": "Fjern",
-        "fresh_description": "Bla gjennom en kontinuerlig oppdatert samling av prosjekter fra en rekke samlinger, håndplukket av våre medlemmer. Kom tilbake senere for mer nytt."
+        "fresh_description": "Bla gjennom en kontinuerlig oppdatert samling av prosjekter fra en rekke samlinger, håndplukket av våre medlemmer. Kom tilbake senere for mer nytt.",
+        "filter_by_tag": "Fitrer etter merke"
     },
     "buy_form": {
         "download_title": "Last ned '{{title}}'",
@@ -693,7 +696,8 @@
         "billing_address": "Betalingsadresse",
         "generic_error": "Det oppstod er problem med kjøpet ditt: {{error}}",
         "contact_support_on_error": "Om problemet fortsetter, kontakt <a>itch.io-kundestøtten</a> med alle relevante detaljer.",
-        "also_buy_as_bundle_plural": "Du kan også kjøpe dette produktet i en pakke som består av {{count}} ting for {{price}}:"
+        "also_buy_as_bundle_plural": "Du kan også kjøpe dette produktet i en pakke som består av {{count}} gjenstander for {{price}}:",
+        "buy_as_bundle_plural": "Du kan kjøpe dette produktet som del av en pakke med {{count}} gjenstander for {{price}}:"
     },
     "collection": {
         "authors": "en samling av {{author}}",
@@ -707,10 +711,15 @@
         "page_title": "{{collection_title}} - Samling av {{author}}",
         "remove_item_button": "Fjern...",
         "blurb_author_says": "{{author}} sier",
-        "remove_confirm": "Er du sikker på at du vil fjerne dette fra samlingen"
+        "remove_confirm": "Er du sikker på at du vil fjerne dette fra samlingen",
+        "add_a_blurb": "Legg til reklametekst",
+        "edit_blurb": "Rediger reklametekst"
     },
     "browse_tags": {
-        "no_description_yet": "Ingen beskrivelse ennå"
+        "no_description_yet": "Ingen beskrivelse ennå",
+        "page_title": "Populære merker",
+        "find_tag": "Finn merke",
+        "commonly_tagged_with": "Ofte merket med"
     },
     "buy_form_popup": {
         "author_line": "<1>av</1> {{author}}",
@@ -842,7 +851,8 @@
             "download_title": "Last ned {{project_title}}",
             "view_all_my_purchases": "Vis alle mine kjøp",
             "return_to_project": "Tilbake til prosjekt",
-            "discussion_board": "Diskusjonsforum"
+            "discussion_board": "Diskusjonsforum",
+            "view_rest_in_bundle": "Vis resten i pakken"
         },
         "linked_user_message": "Denne siden er knyttet til kontoen {{username}}.",
         "link_my_account": "Knytt til min konto",
@@ -916,7 +926,8 @@
                 "overview": "Oversikt",
                 "screenshots": "Skjermbilder",
                 "edit_jam": "Rediger jam",
-                "submission_feed": "Bidrags-feed"
+                "submission_feed": "Bidrags-feed",
+                "community": "Fellesskap"
             }
         },
         "stats": {
@@ -938,9 +949,11 @@
             "view_entries_plural": "Viser {{count}} bidrag",
             "countdown": {
                 "starts_in": "Starter om",
-                "submissions_due_in": "Innsendingsfrist"
+                "submissions_due_in": "Innsendingsfrist",
+                "voting_ends_in": "Stemmegivning starter om"
             },
-            "you_can_now_rate_entries": "Du kan nå vurdere bidrag fra <a>bidrags-siden</a>"
+            "you_can_now_rate_entries": "Du kan nå vurdere bidrag fra <a>bidrags-siden</a>",
+            "submission_is_closed_for_voting": "Stengt for bidrag, men stemmegivningen er åpen"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Det er ikke noen bidrag ennå",
@@ -952,7 +965,8 @@
             "submissions_will_be_available_after_the_jam_has_ended": "Bidrag vil være tilgjengelig etter at jammet er avsluttet",
             "help_submissions_in_need_of_ratings": "Hjelp til med å vurdere bidrag som har få vurderinger: <a>Bidrag som trenger vurderinger</a>",
             "empty_results": "Ingen bidrag passer til ditt filter",
-            "rated": "Vurdert"
+            "rated": "Vurdert",
+            "filter": "Filter"
         },
         "results": {
             "results": "Resultater",
@@ -971,8 +985,20 @@
             "submissions": {
                 "by_author": "av {{author}}",
                 "view_submission_page": "Vis bidragsside",
-                "ranked_score": "Poengsum: {{score}}"
-            }
+                "ranked_score": "Poengsum: {{score}}",
+                "ranked": "Rangert som {{ordinal_rank}}",
+                "ranked_vote_count": "Rangert som {{ordinal_rank}} med {{count}} stemme",
+                "ranked_vote_count_plural": "Rangert som {{ordinal_rank}} med {{count}} stemmer",
+                "ranked_rating_count": "Rangert som {{ordinal_rank}} med {{count}} vurdering",
+                "ranked_rating_count_plural": "Rangert som {{ordinal_rank}} med {{count}} vurderinger",
+                "ranked_criteria": "Rangert som {{ordinal_rank}} etter {{criteria_name}}",
+                "ranked_criteria_vote_count": "Rangert som {{ordinal_rank}} etter {{criteria_name}} med {{count}} stemme",
+                "ranked_criteria_vote_count_plural": "Rangert som {{ordinal_rank}} etter {{criteria_name}} med {{count}} stemmer",
+                "ranked_criteria_rating_count": "Rangert som {{ordinal_rank}} etter {{criteria_name}} med {{count}} vurdering",
+                "ranked_criteria_rating_count_plural": "Rangert som {{ordinal_rank}} etter {{criteria_name}} med {{count}} vurderinger"
+            },
+            "no_rankings_available": "Ingen rangeringer tilgjengelig",
+            "sort_overall": "Totalt"
         },
         "submission": {
             "results_table_criteria": "Kriterier",
@@ -1018,7 +1044,12 @@
                 "you_just_voted": "Du har akkurat avgitt din stemme.",
                 "you_voted_ago": "Du stemte {{timestamp}}.",
                 "disqualified_message": "Dette bidraget er diskvalifisert og derfor ikke kvalifisert til å få vurderinger."
-            }
+            },
+            "results_table_rank": "Rang",
+            "ranked_from_count_plural": "Rangert basert på <s>{{count}} vurderinger</s>.",
+            "ranked_from_count": "Rangert basert på <s>{{count}} vurdering</s>.",
+            "ranked_with_vote_count": "Rangert som {{ordinal_rank}} med {{count}} stemme",
+            "ranked_with_vote_count_plural": "Rangert som {{ordinal_rank}} med {{count}} stemmer"
         },
         "screenshots": {
             "empty_message": "Det er ikke lastet opp noen skjermbilder ennå",
@@ -1040,7 +1071,9 @@
             "payments_link": "Betalinger",
             "analytics_link": "Statistikk",
             "payouts_link": "Utbetalinger",
-            "game_jams_link": "Game jams"
+            "game_jams_link": "Game jams",
+            "sales_bundles_link": "Salg og pakker",
+            "coop_bundles_link": "Samarbeidspakker"
         },
         "create_new_project_button": "Opprett et nytt prosjekt",
         "project_list": {
@@ -1090,7 +1123,211 @@
             "pricing_header": "Prissetting",
             "uploads_header": "Opplastinger",
             "upload_files_button": "Last opp files",
-            "add_external_file_button": "Legg til ekstern fil"
+            "add_external_file_button": "Legg til ekstern fil",
+            "community_field": "Fellesskap",
+            "file_size_limit": "Maks filstørrelse: {{filesize}}. <a>Kontakt oss</a> om du trenger mer",
+            "content_guidelines_header": "Forsikre deg om at alle kan finne siden din",
+            "content_guidelines_info": "Les gjennom våre <a>retningslinjer for kvalitet</a> før du publiserer prosjektet",
+            "payment_warning_header": "Du har ikke konfigurert en betalingsmetode",
+            "payment_warning_info": "Hvis du setter en minimumspris over 0 vil ingen kunne laste ned prosjektet ditt. <a>Rediger konto</a>",
+            "cover_uploader": {
+                "confirm_remove": "Er du sikker på at du vil fjerne forsidebildet?",
+                "cover_description": "Forsidebildet brukes når itch.io lenker til ditt prosjekt fra en annen del av siden. Påkrevd (minimum: 315x250, anbefalt 630x500)",
+                "replace_image": "Bytt ut forsidebilde",
+                "remove_image": "Fjern bilde",
+                "upload_button": "Last opp forsidebilde"
+            },
+            "errors": {
+                "invalid_file": "Det oppstod en feil med filen du valgte",
+                "invalid_image": "Vennligst rediger bildet ditt eller prøv et annet"
+            },
+            "error_dialog": {
+                "confirm_button": "Ok",
+                "title": "Det oppstod et problem under lagring av prosjektet"
+            },
+            "visibility_access_header": "Synlighet og tilgang",
+            "visibility_access_info": "Bruk Utkast for å gå gjennom siden din uten å gjøre den offentlig. <a>Lær mer om tilgangsmoduser</a>",
+            "access_control": {
+                "disable_downloads_option": "Deaktiver nye nedlastninger og kjøp",
+                "unlisted_option": "Ikke oppført når du søker og blar gjennom",
+                "allow_password_option": "Også tillat å bruke passord for å vise siden",
+                "password_label": "Passord",
+                "public_access_settings": "Instillinger for offentlig tilgang",
+                "restricted_access_settings": "Innstillinger for begrenset tilgang",
+                "access_settings": "Tilgangsinnstillinger"
+            },
+            "embed_options_header": "Innbyggingsinnstillinger",
+            "embed_options": {
+                "viewport_dimensions": "Størrelse for visningsområdet",
+                "width": "Bredde",
+                "height": "Høyde",
+                "frame_options": "Rammeinnstillinger",
+                "mobile_friendly_option": "Mobilvennlig",
+                "mobile_friendly_info": "Prosjektet ditt kan kjøres på mobiltelefoner (mindre oppløsning og touch-støtte)",
+                "orientation": "Skjermretning",
+                "fullscreen_button_option": "Fullskjermsknapp",
+                "enable_scrollbars_option": "Aktiver rullefelt",
+                "embed_in_page_option": "Bygg inn i siden",
+                "launch_fullscreen_option": "Klikk for å kjøre i fullskjerm"
+            },
+            "details_genre_header": "Sjanger",
+            "details_tags_header": "Merker",
+            "details_genre_info": "Velg kategorien som best beskriver ditt spill. Du kan velge flere sjangre med merkene under",
+            "pricing": {
+                "free_or_donate": "{{money}} eller doner",
+                "paid": "Betalt",
+                "no_payments": "Ingen betaling",
+                "embed_pricing_info": "Ved å sette en minimumspris begrenses tilgangen for nedlastbare files. Innbygget innhold vil fortsatt være fritt tilgjengelig.",
+                "minimum_price_label": "Minimumspris",
+                "minimum_price_info": "Minimum pris som må betales for å få tilgang til spillet",
+                "free_price_info": "De som laster ned prosjekter vil bli bedt om de ønsker å donene før de får tilgang. De kan gå videre til nedlastingen uten ekstra kostnad.",
+                "default_donation_amount_info": "Standardstørrelse på donasjoner",
+                "payment_disabled_info": "Prosjektets filer vil være fritt tilgjengelig, og donasjoner er ikke mulig",
+                "suggest_default_price_label": "Foreslå en alternativ standardpris",
+                "suggested_donation_label": "Foreslått donasjonsbeløp",
+                "suggested_price_label": "Foreslått pris",
+                "default_price_info": "Standardprisen vises når noen forsøker å kjøpe prosjektet ditt",
+                "price_too_low_error": "Vennligst angi et beløp høyere enn prosjektprisen"
+            },
+            "uploads": {
+                "delete_file_button": "Slett fil",
+                "play_in_browser_toggle": "Denne filen vil kjøres i nettleseren",
+                "hide_toggle": "Skjul denne filen og forhindre nedlastninger",
+                "demo_toggle": "Denne filen er en demo, og kan lastes ned gratis",
+                "preorder_toggle": "Denne filen er en plassholder for forhåndsbestillinger",
+                "set_price_toggle": "Set en egen pris for denne filen",
+                "change_display_name_button": "Endre visningsnavn"
+            },
+            "community_field_info": "Bygg opp et samfunn rundt prosjektet ved å la folk publisere til siden din.",
+            "community_comments_info": "Legg til en kommentartråd nederst på prosjektsiden",
+            "community_discussion_board_info": "Legg til en dedikert forumside med kategorier, tråder, svar og mer",
+            "add_screenshots": "Legg til skjermbilder",
+            "screenshots_header": "Skjermbilder"
+        },
+        "page_title": "Skaper-kontrollpanel",
+        "new_devlog": "Ny devlog",
+        "dashboard": "Kontrollpanel",
+        "project_header": {
+            "edit_project": "Rediger prosjekt",
+            "devlog": "Devlog",
+            "metadata": "Metadata",
+            "analytics": "Analyse",
+            "distribute": "Distribuer",
+            "interact": "Samhandle",
+            "edit_comments": "Rediger kommentarer",
+            "discussion_board": "Diskusjonsforum",
+            "rewards": "Belønninger",
+            "admins": "Administratorer",
+            "more": "Mer"
+        }
+    },
+    "add_to_collection": {
+        "dialog_title": "Legg til {{project_title}} i samling",
+        "add_reason": "Legg til dette prosjektet i en samling for å lagre det til senere.",
+        "already_in_collections": "Dette prosjektet are allerede i følgende samlinger:",
+        "count_items": "{{count}} gjenstand",
+        "count_items_plural": "{{count}} gjenstander",
+        "add_to_existing": "Legg til i en eksisterende samling",
+        "private_collection_title": "[Privat] {{title}}",
+        "add_to_new": "Legg til i en samling med navn",
+        "default_title": "{{username}} sin samling",
+        "add_button": "Legg til i samling",
+        "manage_collections_link": "Håndter samlinger",
+        "private_collection_option": "Privat samling – Bare du kan se innholdet",
+        "about_this_project_label": "Om dette prosjektet"
+    },
+    "game_grid": {
+        "in_bundle": "I pakken"
+    },
+    "jams": {
+        "jams_created_header": "Jams du har opprettet",
+        "jams_joined_header": "Jams du har deltatt i",
+        "page_title": "Game Jams på itch.io",
+        "page_summary": "itch.io er et sted du kan arrangere og delta i game jams online. Hvem som helst kan enkelt skape og arrangere et jam.",
+        "games_created": "<s>{{count}} spill</s> har blitt lagret for jams arrangert på itch.io.",
+        "games_created_plural": "<s>{{count}} spill</s> har blitt lagret for jams arrangert på itch.io.",
+        "host_a_jam_button": "Arranger et game jam",
+        "manage_submissions_link": "Håndter dine bidrag og jams",
+        "browse_jams_header": "Bla gjennom jams",
+        "jam_calendar_header": "Jam-kalender",
+        "host_your_own_jam_button": "Arranger ditt eget jam",
+        "host_or_explore_links": "<1>Arranger dit eget jam</1> eller <2>Utforsk alle jams</2>",
+        "dont_see_something_you_like_header": "Ser du ikke noe du liker?",
+        "browse_upcoming_this_month": "Kommende denne måneden",
+        "brose_featured_jams": "Fremhevede jams",
+        "browse_top_past_jams": "Populære tidligere jams",
+        "browse_in_progress": "Pågående",
+        "count_joined": "{{count}} deltagere"
+    },
+    "feed": {
+        "filter_own_activity_tab": "Min egen aktivitet",
+        "filter_everything_tab": "Alt",
+        "filter_new_projects_tab": "Nye prosjekter",
+        "filter_collections_tab": "Samlinger",
+        "filter_devlogs_tab": "Devlogs",
+        "filter_ratings_tab": "Vurderinger",
+        "latest_featured_games_header": "Nyeste fremhevede spill",
+        "featured_tags_header": "Fremhevede merker",
+        "to_rate": {
+            "projects_to_rate_header": "Prosjekter å vurdere",
+            "to_rate_description": "Her er noen ting du har samhandlet med, men ikke vurdert."
+        },
+        "to_follow": {
+            "people_to_follow_header": "Folk å følge",
+            "to_follow_description": "Her er noen kontoer du kanskje er interessert i å følge."
+        },
+        "my_feed_tab": "Min feed",
+        "global_feed_tab": "Global feed",
+        "manage_my_games_button": "Håndter mine spill",
+        "upload_a_game_button": "Last opp et spill",
+        "event_filter_label": "Filter:",
+        "email_warning": {
+            "verify_your_email_address": "Verifiser din epost-adresse"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Legg til et profilbilde",
+            "description": "Kontoen din har ikke et profilbilde. Legg til et så det blir lettere for andre å kjenne deg igjen!"
+        },
+        "event": {
+            "collection_summary": "En samling med {{count}} gjenstand.",
+            "collection_summary_plural": "En samling med {{count}} gjenstander.",
+            "collection_added_count": "La til {{count}} gjenstand.",
+            "collection_added_count_plural": "La til {{count}} gjenstander."
+        }
+    },
+    "library": {
+        "page_title": "Mitt bibliotek",
+        "things_you_own_header": "Ting du eier",
+        "view_all_link": "Vis alt",
+        "show_on_my_profile_toggle": "Vis på min profil",
+        "things_rated_header": "Ting du har vurdert",
+        "permalink": "Permalenke",
+        "private_toggle": "Privat",
+        "go_to_collection_link": "Gå til samling",
+        "empty_collection_message": "Denne samlingen er tom",
+        "nav_header": "Bibliotek",
+        "nav": {
+            "my_purchases": "Mine kjøp",
+            "recommended_for_you": "Anbefalt for deg",
+            "things_on_sale": "Ting på salg",
+            "things_to_rate": "Ting å vurdere"
+        },
+        "download_button": "Last ned",
+        "gift_button": "Gi som gave",
+        "rate_game": {
+            "rating_saved_header": "Vurdering lagret",
+            "follow_creator": "Vurder å følge skaperen av {{project_title}} for å holde deg oppdatert på nye utgivelser.",
+            "rating_removed_header": "Vurdering fjernet",
+            "rating_deleted_summary": "Vurderingen din har blitt slettet.",
+            "delete_button": "Slett vurdering og omtale",
+            "choose_stars": "Velg en vurdering fra 1 til 5 stjerner.",
+            "rate_header": "Vurder og omtal {{project_title}}",
+            "you_rated_this_project_ago": "Du vurderte dette prosjekte {{time_ago}}."
+        }
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Din epost-adresse er ikke verifisert"
         }
     }
 }
