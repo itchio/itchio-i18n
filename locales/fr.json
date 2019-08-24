@@ -699,7 +699,8 @@
     "jam": {
         "submitter": {
             "countdown": {
-                "voting_ends_in": "Fin des votes dans"
+                "voting_ends_in": "Fin des votes dans",
+                "starts_in": "Commence dans"
             }
         }
     },
