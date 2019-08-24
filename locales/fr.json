@@ -685,7 +685,8 @@
         "permalink": "Permalien",
         "go_to_collection_link": "Accéder à la collection",
         "empty_collection_message": "Cette collection est vide",
-        "nav_header": "Bibliothèque"
+        "nav_header": "Bibliothèque",
+        "download_button": "Télécharger"
     },
     "user_settings": {
         "email_addresses": {
@@ -699,6 +700,11 @@
             "countdown": {
                 "voting_ends_in": "Fin des votes dans"
             }
+        }
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Votre adresse e-mail n'est pas vérifiée"
         }
     }
 }
