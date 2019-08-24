@@ -692,7 +692,8 @@
         "continue_payment": "Gå videre til betaling",
         "billing_address": "Betalingsadresse",
         "generic_error": "Det oppstod er problem med kjøpet ditt: {{error}}",
-        "contact_support_on_error": "Om problemet fortsetter, kontakt <a>itch.io-kundestøtten</a> med alle relevante detaljer."
+        "contact_support_on_error": "Om problemet fortsetter, kontakt <a>itch.io-kundestøtten</a> med alle relevante detaljer.",
+        "also_buy_as_bundle_plural": "Du kan også kjøpe dette produktet i en pakke som består av {{count}} ting for {{price}}:"
     },
     "collection": {
         "authors": "en samling av {{author}}",
