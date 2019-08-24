@@ -89,7 +89,8 @@
             "all_games": "Alle spill",
             "bundles": "Pakker",
             "game_jams": "Game jams",
-            "community": "Fellesskap"
+            "community": "Fellesskap",
+            "devlogs": "Devlogs"
         },
         "intro": "<s>itch.io</s> er en enkel måte å finne og dele indie-spill på, online og gratis.",
         "intro_cta": "<1>Legg til ditt spill</1> eller <2>Les FAQ-en</2>",
@@ -474,10 +475,11 @@
                 "this_is_a_submission_to_jam_title": "Dette er en innsending til {{jam_title}}",
                 "view_the_submission_page": "Vis innsendingssiden",
                 "you_rated_this_game": "Du har vurdert dette spillet",
-                "accepting_ratiings": "Dette jammet er åpent for vurdering av innsendte bidrag. <a>Lær mer",
+                "accepting_ratiings": "Dette jammet er åpent for vurdering av innsendte bidrag. <a>Lær mer</a>",
                 "now_accepting_ratings": "Dette jammet er åpent for vurdering innsendte bidrag.",
                 "rating_instructions": "Vurder og kommenter på dette jam-bidraget ved å gå til innsendings-siden med lenken over."
-            }
+            },
+            "devlog": "Devlog"
         },
         "after_download": {
             "share_this_project": "Del dette prosjektet",
@@ -740,7 +742,8 @@
             "revenue_sharing": "Inntektsdeling",
             "payment_processors": "Betalingsbehandler",
             "billing_address": "Fakturaadresse",
-            "email_notifications": "Epostvarsler"
+            "email_notifications": "Epostvarsler",
+            "thirdparty_analytics": "Analyseverktøy fra tredjepart"
         },
         "profile": {
             "language": "Språk",
@@ -750,7 +753,7 @@
             "display_name": "Visningsnavn",
             "website": "Nettside",
             "account_type": "Kontotype",
-            "language_community_translation": "<s>itch.io er oversatt av medlemmer av vårt fellesskap.</s> Noen språk er bare delvis tilgjengelige. Hvis du vil at itch.io skal bli tilgjengelig i ditt språk, eller hjelpe til å fikse oversettelsesfeil, kan du bli med å bidra. <a>Lær mer",
+            "language_community_translation": "<s>itch.io er oversatt av medlemmer av vårt fellesskap.</s> Noen språk er bare delvis tilgjengelige. Hvis du vil at itch.io skal bli tilgjengelig i ditt språk, eller hjelpe til å fikse oversettelsesfeil, kan du bli med å bidra. <a>Lær mer</a>",
             "language_description": "Språk for itch.io sitt brukergrensesnitt",
             "username_description": "Bruker for å logge inn på kontoen og som URL til din personlige side",
             "change_username": "Endre brukernavn/URL",
@@ -785,7 +788,7 @@
         },
         "email_addresses": {
             "primary_email_header": "Primær-epost",
-            "your_primary_email_address": "Din primære epost-adresse:",
+            "your_primary_email_address": "Din primære epost-adresse: {{email}}",
             "change_email_form": {
                 "new_email_address": "Ny epost-adresse",
                 "current_password": "Gjeldende passord"
@@ -816,13 +819,13 @@
         "share_and_follow": "Del og følg",
         "install_instructions_intro": "Insteruksjoner for nedlasting og installasjon fra {{username}}:",
         "recommendations_title": "Mer du kanskje er interessert i",
-        "check_out_more_from_jam_title": "Sjekk ut mer fra",
+        "check_out_more_from_jam_title": "Sjekk ut mer fra {{jam_title}}",
         "alternate_download": {
             "enable_alternate_download_mode": "Aktiver alternativ nedlastingsmodus",
             "title": "Alternativ nedlastingsmodus",
             "region_message": "Noen regioner har tidligere blokkert itch.io sin CDN. Hvis nedlastingene dine ikke starter, kan du prøve å aktivere alternativ nedlastingsmodus og prøve igjen."
         },
-        "check_your_email_for_the_confirmation_link": "Sjekk din epost for bekreftelseslenke",
+        "check_your_email_for_the_confirmation_link": "Sjekk din epost for bekreftelseslenke.",
         "preorder_instructions": "Dette prosjektet har filer som ikke er gitt ut ennå. Kom tilbake når skaperen har frigitt filene for å laste dem ned.",
         "app_banner": {
             "get_the_app": "Last ned appen",
@@ -830,12 +833,12 @@
         },
         "play_in_your_browser": "Spill i nettleseren",
         "start_project_button": "Start",
-        "version_name": "Versjon",
+        "version_name": "Versjon {{version_name}}",
         "header": {
             "invoice": "Faktura",
             "more_menu": "Mer",
-            "preorder_title": "Forhåndsbestill",
-            "download_title": "Last ned",
+            "preorder_title": "Forhåndsbestill {{project_title}}",
+            "download_title": "Last ned {{project_title}}",
             "view_all_my_purchases": "Vis alle mine kjøp",
             "return_to_project": "Tilbake til prosjekt",
             "discussion_board": "Diskusjonsforum"
@@ -850,7 +853,7 @@
         "access_existing_copy": "Du kan ikke gjøre krav på en til kopi, men du kan gå til den du allerede eier.",
         "get_external_key": "Få {{key_type}}-nøkkel",
         "claim_external_key": "Gjør krav på {{key_type}}-nøkkel",
-        "claim_external_key_instructions": "Klikk på knappen for å gjøre krav på nøkkelen",
+        "claim_external_key_instructions": "Klikk på knappen for å gjøre krav på nøkkelen.",
         "payment_comes_with_key": "Din betaling kommer med en {{key_type}}-nøkkel!",
         "access_comes_with_key": "Din tilgang kommer med en {{key_type}}-nøkkel!",
         "access_it": "Få tilgang",
@@ -881,7 +884,7 @@
         "payment_error_help": "Hvis du er usikker, vennligst kontakt <a>itch.io sin kundestøtte</a> og vis til beskjeden ovenfor.",
         "choose_a_card": "Velg et kort",
         "edit_saved_cards": "Endre lagrede kort",
-        "card_ending_last4": "Slutter på",
+        "card_ending_last4": "Slutter på {{last4}}",
         "new_card": "Nytt kort",
         "enter_your_password_to_use_your_card": "Skriv inn passordet for å bruke kortet ditt",
         "password": "Passord",
@@ -889,8 +892,8 @@
         "gift_instructions": "Dette kjøpet er en gave. Du kan velge mottakerens epost-adresse etter betaling.",
         "credit_or_debit_card": "Kreditt- eller debetkort",
         "save_credit_card_for_future_purchases": "Lagre kortinfo for fremtidige kjøp",
-        "manage_cards_link": "Du kan administrere kortene dine fra <a>Kontoinnstillingene",
-        "pay_price_button": "Betal",
+        "manage_cards_link": "Du kan administrere kortene dine fra <a>Kontoinnstillingene</a>",
+        "pay_price_button": "Betal {{price}}",
         "paying_price_for": "Betaler {{price}} for:",
         "paying_price_vat_for": "Betaler {{price}} (inkl. MVA) for:",
         "donating_price_to": "Donerer {{price}} til:",
@@ -905,13 +908,14 @@
     },
     "jam": {
         "header": {
-            "hosted_by": "Arrangert av",
+            "hosted_by": "Arrangert av {{hosts}}",
             "links": {
                 "results": "Resultater",
                 "submissions": "Bidrag",
                 "overview": "Oversikt",
                 "screenshots": "Skjermbilder",
-                "edit_jam": "Rediger jam"
+                "edit_jam": "Rediger jam",
+                "submission_feed": "Bidrags-feed"
             }
         },
         "stats": {
@@ -922,7 +926,7 @@
         "submitter": {
             "join_jam": "Bli med i jammet",
             "submit_button": "Send inn ditt prosjekt",
-            "or_leave_jam": "eller <a>Forlat jammet",
+            "or_leave_jam": "eller <a>Forlat jammet</a>",
             "youve_joined": "Du har blitt med i dette jammet.",
             "joined_instructions": "Kom tilbake til denne siden etter at jammet har startet for å sende inn ditt prosjekt.",
             "leave_jam": "Forlat jammet",
@@ -934,7 +938,8 @@
             "countdown": {
                 "starts_in": "Starter om",
                 "submissions_due_in": "Innsendingsfrist"
-            }
+            },
+            "you_can_now_rate_entries": "Du kan nå vurdere bidrag fra <a>bidrags-siden</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Det er ikke noen bidrag ennå",
@@ -942,7 +947,149 @@
             "filters": {
                 "all_submissions": "Alle bidrag",
                 "browser_playable": "Spillbare i nettleseren"
+            },
+            "submissions_will_be_available_after_the_jam_has_ended": "Bidrag vil være tilgjengelig etter at jammet er avsluttet",
+            "help_submissions_in_need_of_ratings": "Hjelp til med å vurdere bidrag som har få vurderinger: <a>Bidrag som trenger vurderinger</a>",
+            "empty_results": "Ingen bidrag passer til ditt filter",
+            "rated": "Vurdert"
+        },
+        "results": {
+            "results": "Resultater",
+            "submissions_summary": "<s>{{count}} bidrag</s> ble sendt inn mellom {{start_date}} og {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} bidrag</s> ble sendt inn mellom {{start_date}} og {{end_date}}.",
+            "votes_cast_count": "<s>{{count}} stemme</s> avgitt mellom {{vote_start_date}} og {{vote_end_date}}.",
+            "votes_cast_count_plural": "<s>{{count}} stemmer</s> avgitt {{vote_start_date}} og {{vote_end_date}}.",
+            "ratings_given_count": "<s>{{count}} vurdering</s> ble gitt mellom {{vote_start_date}} og {{vote_end_date}}.",
+            "ratings_given_count_plural": "<s>{{count}} vurderinger</s> ble gitt mellom {{vote_start_date}} og {{vote_end_date}}.",
+            "ratings_given_submissions_count": "<s>{{count}} vurdering</s> ble gitt til <s>{{submission_count}} bidrag</s> ({{percent}}%) mellom {{vote_start_date}} og {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "<s>{{count}} vurderinger</s> ble gitt til <s>{{submission_count}} bidrag</s> ({{percent}}%) mellom {{vote_start_date}} og {{vote_end_date}}.",
+            "average_and_median_results": "Gjennomsnittlig antall vurderinger per spill var <s>{{average_ratings}}</s> og medianen var <s>{{median_ratings}}</s>.",
+            "empty_message": "Resultatene er ikke tilgjengelig ennå, kom tilbake senere",
+            "empty_page_message": "Ingen resultater på denne siden",
+            "sort_by_criteria": "Etter kriterier",
+            "submissions": {
+                "by_author": "av {{author}}",
+                "view_submission_page": "Vis bidragsside",
+                "ranked_score": "Poengsum: {{score}}"
             }
+        },
+        "submission": {
+            "results_table_criteria": "Kriterier",
+            "results_table_votes": "Stemmer",
+            "results_table_score": "Poengsum",
+            "results_table_raw_score": "Ubehandlet poengsum",
+            "edit_this_submission_button": "Rediger dette bidraget",
+            "remove_this_submission_button": "Fjern dette bidraget",
+            "a_jam_submission": "Et jam-bidrag",
+            "view_game_page": "Vis spillside",
+            "view_project_page": "Vis prosjektside",
+            "comments": {
+                "leave_a_comment_header": "Legg igjen en kommentar",
+                "post_comment": "Publiser kommentar",
+                "empty_message": "Ingen har publisert en kommentar ennå"
+            },
+            "link_to_itchio_page": "{{game_title}} sin itch.io-side",
+            "downloads": "Nedlastninger",
+            "play_game": "Spill spill",
+            "run_project": "Kjør prosjekt",
+            "score_information": "Poengsummen blir justert basert på den ubehandlede poengsummen basert på medianantallet vurderinger per spill i jammet.",
+            "results_header": "Resultater",
+            "submitted_by_contributors": "Send inn av {{contributors}}",
+            "time_remaining_before_deadline": "{{time_duration}} igjen til fristen",
+            "rated_by_people_count_plural": "Vurdert av {{count}} personer så langt",
+            "rated_by_people_count": "Vurdert av {{count}} person så langt",
+            "rate_submission": {
+                "vote": "Stem",
+                "private_field": "(privat)",
+                "vote_for_this_submission": "Stem på dette bidraget",
+                "rate_this_submission": "Vurder dette bidraget",
+                "not_open_yet": "Bidragsperioden for jammet er ikke over ennå. Vurdering åpner {{start_date}}.",
+                "owner_message": "Dette er ditt bidrag, og du kan derfor ikke vurdere det. Andre deltakere kan vurdere ditt bidrag her.",
+                "unavailable_to_rate": "Du kan ikke vurdere dette prosjektet fordi du ikke har sendt inn ditt eget bidrag. Du kan imidlertid legge igjen en kommentar.",
+                "sign_up_to_rate": "<a>Opprett en itch.io-konto</a> for å vurdere og legge igjen kommentarer.",
+                "sign_up_to_vote": "<a>Opprett en itch.io-konto</a> for å stemme og legge igjen kommentarer.",
+                "participate_to_rate_message": "For å vurdere dette bidraget må du være <a>logget inn på itch.io</a> og ha sendt inn ditt eget bidrag. Alle med en konto kan legge igjen en kommentar.",
+                "you_will_be_able_to_rate_if_you_submit": "Du vil kunne vurdere dette bidraget om du sender inn ditt eget bidrag til jammet.",
+                "other_participants_can_rate": "Andre som har send inn til jammet kan vurdere ditt bidrag.",
+                "save_vote": "Lagre stemme",
+                "save_rating": "Lagre vurdering",
+                "you_havent_rated_this_submission_yet": "Du har ikke vurdert dette bidraget ennå.",
+                "you_just_voted": "Du har akkurat avgitt din stemme.",
+                "you_voted_ago": "Du stemte {{timestamp}}.",
+                "disqualified_message": "Dette bidraget er diskvalifisert og derfor ikke kvalifisert til å få vurderinger."
+            }
+        },
+        "screenshots": {
+            "empty_message": "Det er ikke lastet opp noen skjermbilder ennå",
+            "loading_more": "Laster inn flere skjermbilder..."
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "Bruttoinntekt",
+            "payments": "Betalinger",
+            "views": "Visninger",
+            "downloads": "Nedlastninger",
+            "followers": "Følgere",
+            "following": "Følger"
+        },
+        "follow_itchio": "Følg itch.io på {{twitter}} og {{facebook}}",
+        "header": {
+            "projects_link": "Prosjekter",
+            "payments_link": "Betalinger",
+            "analytics_link": "Statistikk",
+            "payouts_link": "Utbetalinger",
+            "game_jams_link": "Game jams"
+        },
+        "create_new_project_button": "Opprett et nytt prosjekt",
+        "project_list": {
+            "edit": "Rediger",
+            "analytics": "Statistikk",
+            "widget": "Widget",
+            "no_image": "Ikke noe bilde"
+        },
+        "analytics_summary_header": "Oppsummering",
+        "intro_text": "Er du en utvikler? Last opp dit første spill",
+        "not_a_developer_escape": "Niks, ta meg tilbake til spill-feeden",
+        "recently_updated_pages_header": "Nylige oppdaterte sider",
+        "hello": "Hallo!",
+        "edit_project": {
+            "create_a_new_project_title": "Opprett et nytt prosjekt",
+            "edit_project_title": "Rediger prosjekt",
+            "title_field": "Tittel",
+            "project_url_field": "Prosjekt-URL",
+            "save_and_view_button": "Lagre og vis siden",
+            "video_field": "Gameplay-video eller trailer",
+            "video_field_description": "Oppgi en lenke til en video på YouTube eller Vimeo.",
+            "delete_game_button": "Slett spill",
+            "short_description_field": "Kort beskrivelse eller slagord",
+            "short_description_field_description": "Viser når vi lenker til ditt prosjekt. Unngå å gjenta prosjektets tittel",
+            "classification_field": "Klassifisering",
+            "classification_field_description": "Hva laster du opp?",
+            "kind_of_project_field": "Type prosjekt",
+            "release_status_field": "Utgivelsesstatus",
+            "details_section_header": "Detaljer",
+            "description_field": "Beskrivelse",
+            "custom_noun_field": "Beskrivende substantiv",
+            "custom_noun_field_description": "Du kan endre hvordan itch.io refererer til ditt prosjekt ved å oppgi et egendefinert substantiv.",
+            "instructions_field": "Instrukser for nedlasting og installasjon",
+            "default_noun": "La stå tomt for å bruke standardsubstantivet: \"{{default_noun}}\".",
+            "classification_other": "Annet",
+            "types": {
+                "downloadable": "Nedlastbar"
+            },
+            "tip_label": "Tips",
+            "project_type_help": "Du kan legge til ekstra nedlastbare filer for alle typene over",
+            "description_field_description": "Dette vil være innholdet på spillets side.",
+            "instructions_field_info2": "Hvis spillet ditt har spesielle krav til biblioteker eller programmer som må installeres først, bør du inkludere denne informasjonen",
+            "instructions_field_info1": "Denne teksten vises til alle som laster ned spillet gjennom nettleseren. Inkluder informasjon om hvordan brukeren skal installerer og kjøre det som blir lastet ned.",
+            "community_disabled": "Deaktivert",
+            "community_comments": "Kommentarer",
+            "community_discussion_board": "Diskusjonsforum",
+            "pricing_header": "Prissetting",
+            "uploads_header": "Opplastinger",
+            "upload_files_button": "Last opp files",
+            "add_external_file_button": "Legg til ekstern fil"
         }
     }
 }
