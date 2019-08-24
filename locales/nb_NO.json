@@ -473,7 +473,10 @@
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "Dette er en innsending til {{jam_title}}",
                 "view_the_submission_page": "Vis innsendingssiden",
-                "you_rated_this_game": "Du har vurdert dette spillet"
+                "you_rated_this_game": "Du har vurdert dette spillet",
+                "accepting_ratiings": "Dette jammet er åpent for vurdering av innsendte bidrag. <a>Lær mer",
+                "now_accepting_ratings": "Dette jammet er åpent for vurdering innsendte bidrag.",
+                "rating_instructions": "Vurder og kommenter på dette jam-bidraget ved å gå til innsendings-siden med lenken over."
             }
         },
         "after_download": {
@@ -486,7 +489,8 @@
             "more_from_itchio_header": "Sjekk ut mer fra itch.io",
             "see_everything": "Se alt",
             "powered_by": "<s>Drevet av</s> {{itchio_logo}}",
-            "app_learn_more": "<s>Nytt!</s> Prøv itch.io sin skrivebordapp for å laste ned og håndtere biblioteket ditt. <a>Lær mer</a>"
+            "app_learn_more": "<s>Nytt!</s> Prøv itch.io sin skrivebordapp for å laste ned og håndtere biblioteket ditt. <a>Lær mer</a>",
+            "view_all_from_jam": "Vis alt fra jammet"
         },
         "report_form": {
             "form_description": "Vennligst fyll ut dette skjemaet hvis du trenger å kontakte itch.io sitt moderatorteam vedrørende innholdet på denne siden. Din rapport kan bli delt med sidens skaper om nødvendig.",
@@ -649,9 +653,13 @@
         "filter_group_tools": "Verktøy og spillmotorer",
         "filter_group": {
             "more_options": "Flere valg",
-            "fewer_options": "Færre valg"
+            "fewer_options": "Færre valg",
+            "clear_filter": "Fjern filter"
         },
-        "filter_everything_else": "Alt annet"
+        "filter_everything_else": "Alt annet",
+        "sort_top_rated": "Høyest rangert",
+        "clear_filters": "Fjern",
+        "fresh_description": "Bla gjennom en kontinuerlig oppdatert samling av prosjekter fra en rekke samlinger, håndplukket av våre medlemmer. Kom tilbake senere for mer nytt."
     },
     "buy_form": {
         "download_title": "Last ned '{{title}}'",
@@ -727,7 +735,12 @@
             "privacy": "Personvern",
             "data_export": "Dataeksport",
             "api_keys": "API-nøkler",
-            "oauth_applications": "OAuth-applikasjoner"
+            "oauth_applications": "OAuth-applikasjoner",
+            "support_email": "Kundestøtte-epost",
+            "revenue_sharing": "Inntektsdeling",
+            "payment_processors": "Betalingsbehandler",
+            "billing_address": "Fakturaadresse",
+            "email_notifications": "Epostvarsler"
         },
         "profile": {
             "language": "Språk",
@@ -736,12 +749,200 @@
             "profile_image": "Profilbilde",
             "display_name": "Visningsnavn",
             "website": "Nettside",
-            "account_type": "Kontotype"
+            "account_type": "Kontotype",
+            "language_community_translation": "<s>itch.io er oversatt av medlemmer av vårt fellesskap.</s> Noen språk er bare delvis tilgjengelige. Hvis du vil at itch.io skal bli tilgjengelig i ditt språk, eller hjelpe til å fikse oversettelsesfeil, kan du bli med å bidra. <a>Lær mer",
+            "language_description": "Språk for itch.io sitt brukergrensesnitt",
+            "username_description": "Bruker for å logge inn på kontoen og som URL til din personlige side",
+            "change_username": "Endre brukernavn/URL",
+            "you_recently_changed_your_username": "Du har nylig endret ditt brukernavn",
+            "url_description": "Den offentlige URL-en for din konto",
+            "profile_image_description": "Vises ved siden av navnet ditt når du utfører en handling på siden (kvadratisk størrelse)",
+            "display_name_description": "Navn som skal vises i stedet for brukernavnet ditt. Lå stå tomt for å vise brukernavn",
+            "website_description": "Alternativ URL som skal vises på din profilsides",
+            "twitter_description": "Twitter-konto som skal vises på din profil",
+            "account_type_description": "Hvordan vil du bruke din konto",
+            "account_type_gamer": "Til å spille og laste ned spill",
+            "account_type_developer": "Til å utvikle og laste opp spill",
+            "default_language_option": "Standard (satt til engelsk så lenge språkstøtten er i beta)",
+            "content": "Innhold",
+            "content_description": "Hvordan innhold på itch.io vises til deg",
+            "show_adult_content": "Vis innhold markert som kun for voksne når du blar gjennom og søker",
+            "disable_animated_gifs": "Deaktiver animerte GIF-er",
+            "disable_autoloading_next_page_when_browsing": "Deaktiver automatisk innlasting av neste side når du blar gjennom",
+            "click_to_load_games": "Krev et klikk før kjøring av innbygde HTML5-spill",
+            "use_dark_theme": "Bruk et mørkt tema når tilgjengelig",
+            "profile": "Profil",
+            "profile_description": "Innholdet på profilsiden din"
+        },
+        "password": {
+            "reset_password": "Nullstill passord",
+            "set_password": "Sett passord",
+            "current_password": "Gjeldende passord",
+            "password": "Passord",
+            "new_password": "Nytt passord",
+            "password_again": "Gjenta passord",
+            "new_password_again": "Gjenta nytt passord"
+        },
+        "email_addresses": {
+            "primary_email_header": "Primær-epost",
+            "your_primary_email_address": "Din primære epost-adresse:",
+            "change_email_form": {
+                "new_email_address": "Ny epost-adresse",
+                "current_password": "Gjeldende passord"
+            },
+            "primary_email_description": "Din primære epost er der itch.io vil sende deg varslinger.",
+            "change_password_instructions": "Når du endrer epost-adressen din må du bekrefte den før du får tilgang til spill du har kjøpt. Vi sender deg instruksjoner på epost. Av sikkerhetsmessige grunner må du også oppgi passordet ditt når du endrer epost-adressen din.",
+            "additional_emails_header": "Ytterligere epost-adresser",
+            "additional_emails_summary": "Du kan knytte ekstra epost-adresser til din itch.io-konto for å få tilgang til kjøp du har knyttet til disse adressene. For eksempel, er kanskje epost-adressen knyttet til PayPal-kontoen din annerledes enn den du vanligvis bruker, og derfor vil du kanskje knytte denne adressen til kontoen din i tillegg.",
+            "additional_emails_instructions": "Du vil bli sendt bekreftelsesinstrukser på epost etter å ha lagt til en ekstra adresse.",
+            "add_email_form": {
+                "additional_email_address_label": "Ekstra epost-adresse",
+                "add_email_button": "Legg til epost"
+            },
+            "additional_emails": {
+                "emails_added_header": "Epost-adresser lagt til",
+                "email_column": "Epost",
+                "verified_column": "Bekreftet",
+                "resend_verification_email_button": "send bekreftelsesepost på nytt",
+                "email_sent_status": "epost sendt",
+                "detach_email": "Fjern tilknytning"
+            }
         }
     },
     "game_download": {
         "social_share_message_download": "Jeg lastet akkurat ned {{title}} av {{username}}",
         "or_share_on": "eller del på",
-        "trouble_downloading_link": "Starter ikke nedlastingen?"
+        "trouble_downloading_link": "Starter ikke nedlastingen?",
+        "share_and_follow": "Del og følg",
+        "install_instructions_intro": "Insteruksjoner for nedlasting og installasjon fra {{username}}:",
+        "recommendations_title": "Mer du kanskje er interessert i",
+        "check_out_more_from_jam_title": "Sjekk ut mer fra",
+        "alternate_download": {
+            "enable_alternate_download_mode": "Aktiver alternativ nedlastingsmodus",
+            "title": "Alternativ nedlastingsmodus",
+            "region_message": "Noen regioner har tidligere blokkert itch.io sin CDN. Hvis nedlastingene dine ikke starter, kan du prøve å aktivere alternativ nedlastingsmodus og prøve igjen."
+        },
+        "check_your_email_for_the_confirmation_link": "Sjekk din epost for bekreftelseslenke",
+        "preorder_instructions": "Dette prosjektet har filer som ikke er gitt ut ennå. Kom tilbake når skaperen har frigitt filene for å laste dem ned.",
+        "app_banner": {
+            "get_the_app": "Last ned appen",
+            "app_description": "Installer og håndter dine spill gjennom itch.io sin skrivebordsapp"
+        },
+        "play_in_your_browser": "Spill i nettleseren",
+        "start_project_button": "Start",
+        "version_name": "Versjon",
+        "header": {
+            "invoice": "Faktura",
+            "more_menu": "Mer",
+            "preorder_title": "Forhåndsbestill",
+            "download_title": "Last ned",
+            "view_all_my_purchases": "Vis alle mine kjøp",
+            "return_to_project": "Tilbake til prosjekt",
+            "discussion_board": "Diskusjonsforum"
+        },
+        "linked_user_message": "Denne siden er knyttet til kontoen {{username}}.",
+        "link_my_account": "Knytt til min konto",
+        "log_in_to_link": "Logg inn for å tilknytte",
+        "link_account_header": "Knytt denne nedlastingssiden til din itch.io-konto",
+        "link_account_description": "Du kan knytte denne nedlastingssiden til en itch.io-konto, så trenger du ikke være bekymret for å miste den. Den vil vises på lik linje med alle andre produkter du eier på itch.io.",
+        "must_link_account_description": "Du må knytte denne siden til en itch.io-konto før du kan laste ned. Kontoer er gratis og vil hjelpe deg med å holde styr på din spillsamling.",
+        "already_own": "Det ser ut som eier dette produktet allerede",
+        "access_existing_copy": "Du kan ikke gjøre krav på en til kopi, men du kan gå til den du allerede eier.",
+        "get_external_key": "Få {{key_type}}-nøkkel",
+        "claim_external_key": "Gjør krav på {{key_type}}-nøkkel",
+        "claim_external_key_instructions": "Klikk på knappen for å gjøre krav på nøkkelen",
+        "payment_comes_with_key": "Din betaling kommer med en {{key_type}}-nøkkel!",
+        "access_comes_with_key": "Din tilgang kommer med en {{key_type}}-nøkkel!",
+        "access_it": "Få tilgang",
+        "email_capture": {
+            "dont_lose_your_purchase": "Ikke mist kjøpet ditt!",
+            "provide_email_instructions": "Skriv inn din epost-adresse for å knytte den til kjøpet ditt. Da har du fortsatt tilgang selv om du mister denne siden."
+        },
+        "purchase": {
+            "youve_been_gifted": "Du har fått {{product_title}} i gave.",
+            "save_this_purchase_to_your_account": "Lagre dette kjøpet på din konto",
+            "link_purchase_links": "<1>Opprett en konto</1> eller <2>logg inn på itch.io</2> for å knytte kjøpet til en konto.",
+            "link_purchase_warning": "Ikke mist kjøpet ditt!",
+            "thank_you_for_purchasing": "Takk for at du kjøper {{product_title}}.",
+            "thank_you_for_purchasing_author": "Takk for at du kjøper {{product_title}} av {{author}}.",
+            "thank_you_for_donating": "Takk for at du donerer til {{product_title}}.",
+            "thank_you_for_donating_author": "Takk for at du donerer til {{product_title}} av {{author}}.",
+            "unique_url_for_your_payment": "Denne siden har en unik URL knyttet til ditt kjøp.",
+            "access_latest_files_from_this_page": "Du kan alltid få tak i de nyeste filene fra denne siden.",
+            "receipt_support_information": "Du skal også ha mottatt en epost med en lenke til denne siden. Hvis du mister URL-en til denne siden, kan du be om å få den tilsendt på nytt ved å <a>kontakte kundestøtte</a>.",
+            "payment_summary": "Du betalte {{payment_price}} for dette den {{payment_date}}.",
+            "payment_summary_with_email": "Du betalte {{payment_price}} for dette den{{payment_date}}, med epost-adressen {{email_address}}.",
+            "percent_off": "{{percent}}% rabatt",
+            "linked_user_message": "Dette kjøpet er knyttet til kontoen {{username}}."
+        }
+    },
+    "stripe_checkout": {
+        "payment_error": "Det oppstod en feil under behandling av din betaling:",
+        "payment_error_help": "Hvis du er usikker, vennligst kontakt <a>itch.io sin kundestøtte</a> og vis til beskjeden ovenfor.",
+        "choose_a_card": "Velg et kort",
+        "edit_saved_cards": "Endre lagrede kort",
+        "card_ending_last4": "Slutter på",
+        "new_card": "Nytt kort",
+        "enter_your_password_to_use_your_card": "Skriv inn passordet for å bruke kortet ditt",
+        "password": "Passord",
+        "buying_as": "Kjøper som",
+        "gift_instructions": "Dette kjøpet er en gave. Du kan velge mottakerens epost-adresse etter betaling.",
+        "credit_or_debit_card": "Kreditt- eller debetkort",
+        "save_credit_card_for_future_purchases": "Lagre kortinfo for fremtidige kjøp",
+        "manage_cards_link": "Du kan administrere kortene dine fra <a>Kontoinnstillingene",
+        "pay_price_button": "Betal",
+        "paying_price_for": "Betaler {{price}} for:",
+        "paying_price_vat_for": "Betaler {{price}} (inkl. MVA) for:",
+        "donating_price_to": "Donerer {{price}} til:",
+        "donating_price_vat_to": "Donerer {{price}} (inkl. MVA) til:",
+        "you_will_receive_files": "Du vil motta:",
+        "steam_key": "Steam-nøkkel",
+        "linked_to_account": "Knyttet til konto",
+        "email": "Epost",
+        "youll_be_mailed_your_access_link": "Du vil bli sendt tilgangslenken på epost",
+        "full_name": "Fullt navn",
+        "name_as_it_appears_on_card": "Som det står på kortet"
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "Arrangert av",
+            "links": {
+                "results": "Resultater",
+                "submissions": "Bidrag",
+                "overview": "Oversikt",
+                "screenshots": "Skjermbilder",
+                "edit_jam": "Rediger jam"
+            }
+        },
+        "stats": {
+            "joined": "Deltakere",
+            "entries": "Bidrag",
+            "ratings": "Vurderinger"
+        },
+        "submitter": {
+            "join_jam": "Bli med i jammet",
+            "submit_button": "Send inn ditt prosjekt",
+            "or_leave_jam": "eller <a>Forlat jammet",
+            "youve_joined": "Du har blitt med i dette jammet.",
+            "joined_instructions": "Kom tilbake til denne siden etter at jammet har startet for å sende inn ditt prosjekt.",
+            "leave_jam": "Forlat jammet",
+            "submissions_open_from": "Bidrag kan sendes inn fra {{start_date}} til {{end_date}}",
+            "jam_is_now_over": "Dette jammet er avsluttet. Det varte fra {{start_date}} til {{end_date}}.",
+            "view_results": "Vis resultat",
+            "view_entries": "Viser {{count}} bidrag",
+            "view_entries_plural": "Viser {{count}} bidrag",
+            "countdown": {
+                "starts_in": "Starter om",
+                "submissions_due_in": "Innsendingsfrist"
+            }
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "Det er ikke noen bidrag ennå",
+            "there_were_no_submissions": "Det ble ingen bidrag",
+            "filters": {
+                "all_submissions": "Alle bidrag",
+                "browser_playable": "Spillbare i nettleseren"
+            }
+        }
     }
 }
