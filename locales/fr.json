@@ -677,8 +677,13 @@
         "show_on_my_profile_toggle": "Afficher sur mon profil",
         "nav": {
             "recommended_for_you": "Rien que pour vous",
-            "things_on_sale": "En solde"
+            "things_on_sale": "En solde",
+            "my_purchases": "Mes achats"
         },
-        "things_rated_header": "Ce que vous avez noté"
+        "things_rated_header": "Ce que vous avez noté",
+        "permalink": "Permalien",
+        "go_to_collection_link": "Accéder à la collection",
+        "empty_collection_message": "Cette collection est vide",
+        "nav_header": "Bibliothèque"
     }
 }
