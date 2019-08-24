@@ -705,7 +705,9 @@
             "you_can_now_rate_entries": "Vous pouvez maintenant noter les projets participants depuis <a>la page des contributions</a>"
         },
         "submissions": {
-            "there_are_no_submissions_yet": "Il n'y a pas encore de participations"
+            "there_are_no_submissions_yet": "Il n'y a pas encore de participations",
+            "submissions_will_be_available_after_the_jam_has_ended": "Les contributions seront disponibles quand la jam sera terminée",
+            "help_submissions_in_need_of_ratings": "Aidez les contributions qui n'ont pas beaucoup d'évaluations : <a>Contributions en besoin d'évaluations</a>"
         }
     },
     "nags": {
