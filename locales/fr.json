@@ -676,7 +676,9 @@
         "view_all_link": "Tout voir",
         "show_on_my_profile_toggle": "Afficher sur mon profil",
         "nav": {
-            "recommended_for_you": "Rien que pour vous"
-        }
+            "recommended_for_you": "Rien que pour vous",
+            "things_on_sale": "En solde"
+        },
+        "things_rated_header": "Ce que vous avez noté"
     }
 }
