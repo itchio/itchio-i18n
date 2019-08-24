@@ -668,7 +668,8 @@
             "collection_summary_plural": "Une collection avec {{count}} éléments.",
             "collection_added_count": "{{count}} élément ajouté.",
             "collection_added_count_plural": "{{count}} éléments ajoutés."
-        }
+        },
+        "my_feed_tab": "Mon flux"
     },
     "library": {
         "page_title": "Ma bibliothèque",
