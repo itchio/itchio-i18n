@@ -701,7 +701,8 @@
             "countdown": {
                 "voting_ends_in": "Fin des votes dans",
                 "starts_in": "Commence dans"
-            }
+            },
+            "you_can_now_rate_entries": "Vous pouvez maintenant noter des participations depuis <a>la page des soumissions</a>"
         }
     },
     "nags": {
