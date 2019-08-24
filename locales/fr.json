@@ -649,7 +649,7 @@
         "filter_ratings_tab": "Évaluations",
         "to_rate": {
             "projects_to_rate_header": "Projets à évaluer",
-            "to_rate_description": "Voici quelques trucs avec lesquels vous avez interagi sans les avoir évalués."
+            "to_rate_description": "Voici quelques projets avec lesquels vous avez interagi sans les avoir évalués."
         }
     }
 }
