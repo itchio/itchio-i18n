@@ -631,5 +631,11 @@
                 "title": "Il y a eu un problème pendant la sauvegarde de votre projet"
             }
         }
+    },
+    "jams": {
+        "manage_submissions_link": "Gérer vos contributions et jams",
+        "browse_jams_header": "Parcourir les jams",
+        "jam_calendar_header": "Calendrier des jams",
+        "host_your_own_jam_button": "Hébergez votre propre jam"
     }
 }
