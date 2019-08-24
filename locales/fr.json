@@ -674,6 +674,9 @@
     "library": {
         "page_title": "Ma bibliothèque",
         "view_all_link": "Tout voir",
-        "show_on_my_profile_toggle": "Affiché sur mon profil"
+        "show_on_my_profile_toggle": "Afficher sur mon profil",
+        "nav": {
+            "recommended_for_you": "Rien que pour vous"
+        }
     }
 }
