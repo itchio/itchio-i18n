@@ -513,7 +513,11 @@
             "moderation": "Modération",
             "replies_count": "Réponses: {{count}}",
             "views_count": "Vues: {{count}}",
-            "a_topic_by_username_created_time_ago": "Un sujet de {{username}} créé {{time_ago}}"
+            "a_topic_by_username_created_time_ago": "Un sujet de {{username}} créé {{time_ago}}",
+            "next_page": "Page suivante",
+            "previous_page": "Page précédente",
+            "first_page": "Première page",
+            "last_page": "Dernière page"
         },
         "post_list": {
             "deleted_post": "Message supprimé",
@@ -740,5 +744,8 @@
         "unverified_email": {
             "title": "Votre adresse e-mail n'est pas vérifiée"
         }
+    },
+    "browse": {
+        "filter_group_multiplayer": "Fonctionnalités multi-joueur"
     }
 }
