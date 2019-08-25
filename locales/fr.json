@@ -489,7 +489,7 @@
             "reason_other": "Autre"
         },
         "password_required": {
-            "header": "Un mot de passe est requis pour voir cette page"
+            "header": "Un mot de passe est requis pour accéder à cette page"
         }
     },
     "community": {
@@ -497,7 +497,7 @@
             "topic_is_archived": "Ce sujet est archivé, il est impossible d'y poster",
             "reply": "Répondre",
             "log_in_to_reply": "Connectez-vous pour répondre",
-            "unlisted_topic_notice": "<s>Un modérateur a délisté ce sujet.</s> Il n'est plus visible dans la liste des sujets, mais vous pouvez toujours y répondre et y apporter des modifications.",
+            "unlisted_topic_notice": "<s>Un modérateur a modifié le répertoriage de ce sujet.</s> Il n'est plus visible dans la liste des sujets, mais vous pouvez toujours y répondre et y apporter des modifications.",
             "join_the_discussion": "Rejoignez la discussion. Connectez-vous ou créez un compte gratuit itch.io pour continuer.",
             "reply_to_someone_else": "Voulez-vous répondre à quelqu'un d'autre? Cliquez sur <s>répondre</s> sous leur message.",
             "this_reply_will_go_to_yourself": "Cette réponse ira à vous-même.",
