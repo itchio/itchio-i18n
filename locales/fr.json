@@ -475,7 +475,7 @@
             "more_from_itchio_header": "En voir plus sur itch.io",
             "see_everything": "Tout voir",
             "powered_by": "<s>Propulsé par</s> {{itchio_logo}}",
-            "app_learn_more": "<s>Nouveau !</s> Essayez l'app de bureau d'itch.io pour télécharger et gérer votre bibliothèque. <a>En savoir plus</a>"
+            "app_learn_more": "<s>Nouveau !</s> Essayez l'app de bureau itch.io pour télécharger et gérer votre bibliothèque. <a>En savoir plus</a>"
         },
         "report_form": {
             "support_from_creator": "Un problème, besoin de contacter le créateur ?",
