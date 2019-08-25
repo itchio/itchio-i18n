@@ -757,7 +757,7 @@
             "url_description": "L'URL publique de votre compte",
             "profile_image": "Image de profil",
             "profile_image_description": "Affiché à côté de votre nom quand vous faites une action sur le site (dimensions carrées)",
-            "display_name": "Nom d'affichage"
+            "display_name": "Pseudonyme affiché"
         }
     },
     "jam": {
