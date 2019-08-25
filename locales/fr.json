@@ -728,7 +728,16 @@
             "add_email_form": {
                 "additional_email_address_label": "Adresses e-mail additionnelles",
                 "add_email_button": "Ajouter l'adresse e-mail"
-            }
+            },
+            "primary_email_header": "E-mail principal",
+            "your_primary_email_address": "Votre adresse e-mail principale : {{email}}",
+            "change_email_form": {
+                "new_email_address": "Nouvelle adresse e-mail",
+                "current_password": "Mot de passe actuel"
+            },
+            "primary_email_description": "itch.io enverra les notifications vers votre adresse e-mail principale.",
+            "change_password_instructions": "Lorsque vous changez votre adresse e-mail, vous devez la vérifier pour accéder aux jeux achetés. Vous allez recevoir les instructions de vérification. Pour des raisons de sécurité, vous devez également entrer votre mot de passe actuel pour tout changement de votre adresse e-mail.",
+            "additional_emails_header": "E-mails additionnels"
         },
         "navigation": {
             "support_email": "Support email",
@@ -789,7 +798,12 @@
         },
         "password": {
             "password_again": "Écrivez de nouveau le mot de passe",
-            "new_password_again": "Écrivez encore le nouveau mot de passe"
+            "new_password_again": "Écrivez encore le nouveau mot de passe",
+            "reset_password": "Réinitialiser le mot de passe",
+            "set_password": "Définir un mot de passe",
+            "current_password": "Mot de passe actuel",
+            "password": "Mot de passe",
+            "new_password": "Nouveau mot de passe"
         }
     },
     "jam": {
