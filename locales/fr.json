@@ -752,7 +752,12 @@
             "page_header": "Profil",
             "username": "Nom d'utilisateur",
             "username_description": "Utilisé pour vous connecter à votre compte et pour l'URL de votre page",
-            "change_username": "Changer mon nom d'utilisateur/URL"
+            "change_username": "Changer mon nom d'utilisateur/URL",
+            "you_recently_changed_your_username": "Vous avez récemment changé votre nom d'utilisateur",
+            "url_description": "L'URL publique de votre compte",
+            "profile_image": "Image de profil",
+            "profile_image_description": "Affiché à côté de votre nom quand vous faites une action sur le site (dimensions carrées)",
+            "display_name": "Nom d'affichage"
         }
     },
     "jam": {
