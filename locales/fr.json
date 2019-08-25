@@ -884,6 +884,10 @@
         "password": "Mot de passe"
     },
     "game_download": {
-        "share_and_follow": "Partager & Suivre"
+        "share_and_follow": "Partager & Suivre",
+        "social_share_message_download": "Je viens juste de télécharger {{title}} par {{username}}",
+        "trouble_downloading_link": "Les téléchargements ne se lancent pas ?",
+        "install_instructions_intro": "Instructions de téléchargement et d'installation de {{username}} :",
+        "recommendations_title": "Vous pourriez aussi être intéressé par"
     }
 }
