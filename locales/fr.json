@@ -726,8 +726,22 @@
             "payout_mode": "Mode de paiement",
             "connected_accounts": "Comptes liés",
             "press_access": "Accès presse",
-            "data_export": "Exportation des données"
-        }
+            "data_export": "Exportation des données",
+            "payment_header": "Paiement",
+            "publisher_header": "Éditeur",
+            "contact_header": "Contact",
+            "developer_header": "Développeur",
+            "profile": "Profil",
+            "password": "Mot de passe",
+            "email_addresses": "Adresses email",
+            "two_factor_auth": "Authentification à deux facteurs",
+            "credit_cards": "Cartes de crédit",
+            "billing_address": "Adresse de facturation",
+            "email_notifications": "Notifications par email",
+            "privacy": "Confidentialité",
+            "api_keys": "Clés d'API"
+        },
+        "account_settings": "Paramètres du compte"
     },
     "jam": {
         "submitter": {
@@ -761,11 +775,21 @@
         "filter_group_session_length": "Durée moyenne d'une session",
         "filter_group_accessibility_features": "Fonctionnalités d'accessibilité",
         "filter_group_release_status": "Statut de publication",
-        "fresh_description": "Découvrez un répertoire constamment actualisé de projets issus de collections sélectionnées par nos membres. Revenez de temps en temps pour voir les derniers ajouts."
+        "fresh_description": "Découvrez un répertoire constamment actualisé de projets issus de collections sélectionnées par nos membres. Revenez de temps en temps pour voir les derniers ajouts.",
+        "type_downloadable": "Téléchargeable",
+        "filter_group_collection": "Collection",
+        "filter_group": {
+            "more_options": "Plus d'options",
+            "fewer_options": "Moins d'options"
+        }
     },
     "browse_tags": {
         "page_title": "Tags populaires",
         "find_tag": "Trouver un tag",
         "no_description_yet": "Aucune description pour le moment"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>par</1> {{author}}",
+        "powered_by_itchio": "propulsé par {{itchio}}"
     }
 }
