@@ -517,7 +517,9 @@
             "next_page": "Page suivante",
             "previous_page": "Page précédente",
             "first_page": "Première page",
-            "last_page": "Dernière page"
+            "last_page": "Dernière page",
+            "this_topic_is_locked": "Ce sujet est verrouillé",
+            "this_topic_was_locked_by_username": "Ce sujet a été verrouillé par {{username}}"
         },
         "post_list": {
             "deleted_post": "Message supprimé",
@@ -538,7 +540,8 @@
             "deleted_account": "Compte supprimé",
             "suspended_account": "Compte suspendu",
             "pinned_reply": "Réponse épinglée",
-            "pinned_post": "Post épinglé"
+            "pinned_post": "Post épinglé",
+            "edited": "(édité)"
         },
         "post_form": {
             "add_profile_image": "Ajouter une image de profil",
@@ -746,6 +749,7 @@
         }
     },
     "browse": {
-        "filter_group_multiplayer": "Fonctionnalités multi-joueur"
+        "filter_group_multiplayer": "Fonctionnalités multi-joueur",
+        "filter_group_session_length": "Durée moyenne d'une session"
     }
 }
