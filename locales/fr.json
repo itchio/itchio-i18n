@@ -719,6 +719,14 @@
             "additional_emails": {
                 "email_sent_status": "mail envoyé"
             }
+        },
+        "navigation": {
+            "support_email": "Support email",
+            "tax_information": "Informations sur les taxes",
+            "payout_mode": "Mode de paiement",
+            "connected_accounts": "Comptes liés",
+            "press_access": "Accès presse",
+            "data_export": "Exportation des données"
         }
     },
     "jam": {
@@ -749,7 +757,15 @@
         }
     },
     "browse": {
-        "filter_group_multiplayer": "Fonctionnalités multi-joueur",
-        "filter_group_session_length": "Durée moyenne d'une session"
+        "filter_group_multiplayer": "Fonctionnalités multijoueurs",
+        "filter_group_session_length": "Durée moyenne d'une session",
+        "filter_group_accessibility_features": "Fonctionnalités d'accessibilité",
+        "filter_group_release_status": "Statut de publication",
+        "fresh_description": "Découvrez un répertoire constamment actualisé de projets issus de collections sélectionnées par nos membres. Revenez de temps en temps pour voir les derniers ajouts."
+    },
+    "browse_tags": {
+        "page_title": "Tags populaires",
+        "find_tag": "Trouver un tag",
+        "no_description_yet": "Aucune description pour le moment"
     }
 }
