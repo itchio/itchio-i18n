@@ -479,7 +479,17 @@
         },
         "report_form": {
             "support_from_creator": "Un problème, besoin de contacter le créateur ?",
-            "email_creator_link": "Envoyer un mail au créateur"
+            "email_creator_link": "Envoyer un mail au créateur",
+            "support_page_link": "Aller à la page de support officielle",
+            "submit_report_button": "Envoyer le signalement",
+            "title": "Signaler la page '{{page_title}}'",
+            "report_received_header": "Signalement reçu",
+            "description_label": "Description",
+            "reason_label": "Raison",
+            "reason_other": "Autre"
+        },
+        "password_required": {
+            "header": "Un mot de passe est requis pour voir cette page"
         }
     },
     "community": {
