@@ -739,8 +739,9 @@
             "billing_address": "Adresse de facturation",
             "email_notifications": "Notifications par email",
             "privacy": "Confidentialité",
-            "api_keys": "Clés d'API",
-            "payment_processors": "Gestionnaires de paiement"
+            "api_keys": "Clés API",
+            "payment_processors": "Gestionnaires de paiement",
+            "thirdparty_analytics": "Analyses tierces"
         },
         "account_settings": "Paramètres du compte"
     },
