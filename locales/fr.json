@@ -717,7 +717,17 @@
     "user_settings": {
         "email_addresses": {
             "additional_emails": {
-                "email_sent_status": "mail envoyé"
+                "email_sent_status": "mail envoyé",
+                "emails_added_header": "Adresses e-mail ajoutées",
+                "email_column": "Adresse e-mail",
+                "verified_column": "Vérifiée",
+                "resend_verification_email_button": "Renvoyer le mail de vérification"
+            },
+            "additional_emails_summary": "Vous pouvez lier des adresses e-mail additionnelles à votre compte itch.io pour pouvoir accéder à vos achats sous ces e-mail. Par exemple, votre adresse Paypal pourrait être différente de votre adresse courante donc vous voudrez l'ajouter en adresse additionnelle",
+            "additional_emails_instructions": "Vous recevrez les instructions de vérification par mail une fois une adresse additionnelle ajoutée.",
+            "add_email_form": {
+                "additional_email_address_label": "Adresses e-mail additionnelles",
+                "add_email_button": "Ajouter l'adresse e-mail"
             }
         },
         "navigation": {
@@ -773,7 +783,11 @@
             "disable_animated_gifs": "Désactiver les gifs animés",
             "disable_autoloading_next_page_when_browsing": "Désactiver le chargement automatique de la page suivante lors de la navigation",
             "click_to_load_games": "Exiger un clic pour exécuter les jeux HTML5 intégrés au navigateur",
-            "use_dark_theme": "Utiliser le mode sombre quand c'est possible"
+            "use_dark_theme": "Utiliser le thème sombre quand c'est possible"
+        },
+        "password": {
+            "password_again": "Écrivez de nouveau le mot de passe",
+            "new_password_again": "Écrivez encore le nouveau mot de passe"
         }
     },
     "jam": {
@@ -826,5 +840,24 @@
     "buy_form_popup": {
         "author_line": "<1>par</1> {{author}}",
         "powered_by_itchio": "propulsé par {{itchio}}"
+    },
+    "stripe_checkout": {
+        "buying_as": "Achat en tant que",
+        "gift_instructions": "Cet achat est un cadeau. Vous pourrez préciser l'e-mail du destinataire une fois le paiement effectué.",
+        "credit_or_debit_card": "Carte bleue ou carte bancaire",
+        "save_credit_card_for_future_purchases": "Enregistrer la carte de crédit pour de futurs achats",
+        "manage_cards_link": "Vous pouvez gérer vos cartes depuis les <a>Paramètres du compte</a>",
+        "pay_price_button": "Payer {{price}}",
+        "paying_price_for": "Paiement de {{price}} pour :",
+        "paying_price_vat_for": "Paiement de {{price}} TVA comp. pour :",
+        "donating_price_to": "Don de {{price}} à :",
+        "donating_price_vat_to": "Don de {{price}} TVA comp. à :",
+        "you_will_receive_files": "Vous allez recevoir :",
+        "steam_key": "Clé Steam",
+        "linked_to_account": "Lié au compte",
+        "email": "E-mail",
+        "youll_be_mailed_your_access_link": "Vous allez recevoir votre lien d'accès par mail",
+        "full_name": "Nom complet",
+        "name_as_it_appears_on_card": "Tel qu'indiqué sur la carte"
     }
 }
