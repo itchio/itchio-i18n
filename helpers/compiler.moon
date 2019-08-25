@@ -12,7 +12,7 @@ parse_tags = do
 
   -- support {{x}} and %{x} syntax
   variable = P"{{" * C((1 - P"}}")^1) * P"}}" / (v) -> { variable: trim(v) }
-  variable += P"%{" * C((1 - P"}")^1) * P"}" / (v) -> { variable: trim(v) }
+  -- variable += P"%{" * C((1 - P"}")^1) * P"}" / (v) -> { variable: trim(v) }
 
   tag = Cmt Ct(open_tag), (s, pos, opts) ->
     rest = s\sub pos
