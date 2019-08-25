@@ -467,7 +467,15 @@
         "after_download": {
             "check_popup_blocker": "Le téléchargement devrait démarrer dans un instant. Si ce n'est pas le cas, vérifiez votre bloqueur de popup.",
             "share_this_project": "Partager ce projet",
-            "thanks_for_downloading_title": "Merci d'avoir téléchargé"
+            "thanks_for_downloading_title": "Merci d'avoir téléchargé",
+            "thanks_project_author": "Merci d'avoir téléchargé {{project}} de {{author}}.",
+            "more_from_creator": "Vous pouvez trouver plus de contenu produit par ce créateur, sur sa page : {{profile}}.",
+            "check_out_more_from_jam_title": "En voir plus de {{jam_title}}",
+            "view_all_from_jam": "Tout voir de la jam",
+            "more_from_itchio_header": "En voir plus sur itch.io",
+            "see_everything": "Tout voir",
+            "powered_by": "<s>Propulsé par</s> {{itchio_logo}}",
+            "app_learn_more": "<s>Nouveau !</s> Essayez l'app de bureau itch.io pour télécharger et gérer votre bibliothèque. <a>En savoir plus</a>"
         },
         "report_form": {
             "support_from_creator": "Un problème, besoin de contacter le créateur ?",
