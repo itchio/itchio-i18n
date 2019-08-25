@@ -249,6 +249,20 @@
         "voxel": "Voksel",
         "walking-simulator": "Gåsimulator",
         "yaoi": "Yaoi",
-        "yuri": "Yuri"
+        "yuri": "Yuri",
+        "breakout": "Breakout",
+        "coming-of-age": "Oppvekst",
+        "creepy": "Creepy",
+        "deck-building": "Deck Building",
+        "feel-good": "Feel Good",
+        "flight": "Flygning",
+        "fmv": "FMV",
+        "management": "Administrasjon",
+        "metroidvania": "Metroidvania",
+        "score-attack": "Score Attack",
+        "slice-of-life": "Slice Of Life",
+        "spoopy": "Spoopy",
+        "stealth": "Stealth",
+        "time-attack": "Time Attack"
     }
 }
