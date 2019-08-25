@@ -566,6 +566,9 @@
             "body": "Corps",
             "topic_tag": "Tag",
             "your_moderators_are": "itch.io ne modère pas ces forums, vos modérateurs sont :"
+        },
+        "topic_list": {
+            "list_header_last_post": "Dernier message"
         }
     },
     "buy_form": {
@@ -588,7 +591,7 @@
         "gift_email_instructions": "Vous pourrez entrer l'e-mail du bénéficiaire après paiement",
         "i_already_paid_for_this": "Déjà payé pour ce contenu ?",
         "included_files": "Fichiers inclus",
-        "agree_to_terms": "En effectuant un paiement, vous acceptez les <1>Conditions d'utilisation</1> et l'<2>Avis de confidentialité</2> d'itch.io.",
+        "agree_to_terms": "En effectuant un paiement, vous acceptez les <1>Conditions d'utilisation</1> et la <2>Politique de respect de la vie privée</2> d'itch.io.",
         "this_purchase_is_a_gift": "Cet achat est un cadeau",
         "support_the_creator_by_paying_above_the_minimum_price": "Soutenez le créateur en augmentant le prix d'achat",
         "support_the_creator_with_an_additional_contribution": "Montrer votre soutien avec une contribution supplémentaire",
@@ -610,7 +613,11 @@
         "private_collection_message": "Cette collection est privée, seuls les contributeurs peuvent y accéder",
         "pending_invitation": "Acceptez <a>cette invitation</a> pour contribuer à cette collection.",
         "a_collection_by_author": "Une collection de {{author}}",
-        "add_a_blurb": "Ajouter une description"
+        "add_a_blurb": "Ajouter un commentaire",
+        "remove_item_button": "Retirer...",
+        "edit_blurb": "Modifier le commentaire",
+        "blurb_author_says": "{{author}} a dit",
+        "remove_confirm": "Souhaitez-vous vraiment le retirer de la collection"
     },
     "dashboard": {
         "edit_project": {
@@ -888,6 +895,11 @@
         "social_share_message_download": "Je viens juste de télécharger {{title}} par {{username}}",
         "trouble_downloading_link": "Les téléchargements ne se lancent pas ?",
         "install_instructions_intro": "Instructions de téléchargement et d'installation de {{username}} :",
-        "recommendations_title": "Vous pourriez aussi être intéressé par"
+        "recommendations_title": "Vous pourriez aussi être intéressé·e par",
+        "check_out_more_from_jam_title": "En voir plus de {{jam_title}}",
+        "alternate_download": {
+            "enable_alternate_download_mode": "Activer le mode de téléchargement alternatif",
+            "title": "Mode de téléchargement alternatif"
+        }
     }
 }
