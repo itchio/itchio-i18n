@@ -783,7 +783,9 @@
             "disable_animated_gifs": "Désactiver les gifs animés",
             "disable_autoloading_next_page_when_browsing": "Désactiver le chargement automatique de la page suivante lors de la navigation",
             "click_to_load_games": "Exiger un clic pour exécuter les jeux HTML5 intégrés au navigateur",
-            "use_dark_theme": "Utiliser le thème sombre quand c'est possible"
+            "use_dark_theme": "Utiliser le thème sombre quand c'est possible",
+            "profile": "Profil",
+            "profile_description": "Le contenu de votre page de profil"
         },
         "password": {
             "password_again": "Écrivez de nouveau le mot de passe",
@@ -858,6 +860,16 @@
         "email": "E-mail",
         "youll_be_mailed_your_access_link": "Vous allez recevoir votre lien d'accès par mail",
         "full_name": "Nom complet",
-        "name_as_it_appears_on_card": "Tel qu'indiqué sur la carte"
+        "name_as_it_appears_on_card": "Tel qu'indiqué sur la carte",
+        "payment_error": "Une erreur s'est produite lors du traitement de votre paiement :",
+        "payment_error_help": "En cas de doute, contactez le <a>support itch.io</a> avec le message ci-dessus.",
+        "choose_a_card": "Choisissez une carte",
+        "edit_saved_cards": "Modifier les cartes enregistrées",
+        "new_card": "Nouvelle carte",
+        "enter_your_password_to_use_your_card": "Veuillez saisir votre mot de passe pour utiliser votre carte",
+        "password": "Mot de passe"
+    },
+    "game_download": {
+        "share_and_follow": "Partager & suivre"
     }
 }
