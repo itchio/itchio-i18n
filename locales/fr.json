@@ -752,7 +752,7 @@
             "page_header": "Profil",
             "username": "Nom d'utilisateur",
             "username_description": "Utilisé pour vous connecter à votre compte et pour l'URL de votre page",
-            "change_username": "Changer mon nom d'utilisateur / URL"
+            "change_username": "Changer mon nom d'utilisateur/URL"
         }
     },
     "jam": {
