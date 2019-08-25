@@ -741,9 +741,19 @@
             "privacy": "Confidentialité",
             "api_keys": "Clés API",
             "payment_processors": "Gestionnaires de paiement",
-            "thirdparty_analytics": "Analyses tierces"
+            "thirdparty_analytics": "Analyses tierces",
+            "oauth_applications": "Applications OAuth"
         },
-        "account_settings": "Paramètres du compte"
+        "account_settings": "Paramètres du compte",
+        "profile": {
+            "language_community_translation": "<s>itch.io est traduit par les membres de notre communauté.</s> Certaines langues ne sont que partiellement traduites. Si vous souhaitez voir itch.io dans votre langue ou souhaitez aider à corriger des fautes, vous pouvez y contribuer. <a>En savoir plus</a>",
+            "language": "Langue",
+            "language_description": "Langue de l'interface utilisateur de itch.io",
+            "page_header": "Profil",
+            "username": "Nom d'utilisateur",
+            "username_description": "Utilisé pour vous connecter à votre compte et pour l'URL de votre page",
+            "change_username": "Changer mon nom d'utilisateur / URL"
+        }
     },
     "jam": {
         "submitter": {
