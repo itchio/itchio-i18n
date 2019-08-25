@@ -772,7 +772,7 @@
             "show_adult_content": "Afficher le contenu pour adultes dans la recherche et la navigation",
             "disable_animated_gifs": "Désactiver les gifs animés",
             "disable_autoloading_next_page_when_browsing": "Désactiver le chargement automatique de la page suivante lors de la navigation",
-            "click_to_load_games": "Exiger un clic pour exécuter les jeux HTML5 intégrés"
+            "click_to_load_games": "Exiger un clic pour exécuter les jeux HTML5 intégrés au navigateur"
         }
     },
     "jam": {
