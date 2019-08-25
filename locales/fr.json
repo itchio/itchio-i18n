@@ -760,7 +760,19 @@
             "display_name": "Pseudonyme affiché",
             "display_name_description": "Nom à afficher à la place de votre nom d'utilisateur, laissez vide pour utiliser votre nom d'utilisateur",
             "website": "Site internet",
-            "website_description": "Une adresse URL optionnelle à afficher sur votre page de profil"
+            "website_description": "Une adresse URL optionnelle à afficher sur votre page de profil",
+            "twitter_description": "Compte Twitter à afficher sur votre profil",
+            "account_type": "Type de compte",
+            "account_type_description": "Comment vous allez utiliser votre compte",
+            "account_type_gamer": "Jouer et télécharger des jeux",
+            "account_type_developer": "Développer et mettre en ligne des jeux",
+            "default_language_option": "Défaut (Anglais durant la bêta des langues)",
+            "content": "Contenu",
+            "content_description": "Comment le contenu de itch.io vous est présenté",
+            "show_adult_content": "Afficher le contenu pour adultes dans la recherche et la navigation",
+            "disable_animated_gifs": "Désactiver les gifs animés",
+            "disable_autoloading_next_page_when_browsing": "Désactiver le chargement automatique de la page suivante lors de la navigation",
+            "click_to_load_games": "Exiger un clic pour exécuter les jeux HTML5 intégrés"
         }
     },
     "jam": {
