@@ -677,7 +677,10 @@
             "error_dialog": {
                 "confirm_button": "J'ai compris",
                 "title": "Il y a eu un problème pendant la sauvegarde de votre projet"
-            }
+            },
+            "classification_field": "Catégorisation",
+            "release_status_field": "Statut de publication",
+            "pricing_header": "Prix"
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -703,7 +706,7 @@
         },
         "create_new_project_button": "Créer un nouveau projet",
         "analytics_summary_header": "Résumé",
-        "not_a_developer_escape": "Non, emmène-moi au flux des jeux."
+        "not_a_developer_escape": "Non, emmènez-moi au flux des jeux."
     },
     "jams": {
         "manage_submissions_link": "Gérez vos contributions et jams",
