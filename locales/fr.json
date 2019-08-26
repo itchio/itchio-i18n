@@ -704,14 +704,16 @@
             "community_disabled": "Désactivé",
             "visibility_access_header": "Visibilité & accès",
             "default_noun": "Laisser blanc par défaut à : '{{default_noun}}'.",
-            "content_guidelines_info": "Prenez connaissance de nos <a>Recommandations de bonne pratique</a> avant de publier votre projet"
+            "content_guidelines_info": "Prenez connaissance de nos <a>Recommandations de bonne pratique</a> avant de publier votre projet",
+            "visibility_access_info": "Utilisez Brouillon pour vérifier votre page avant de la rendre publique. <a>En savoir plus sur les modes d'accès</a>"
         },
         "stats": {
             "downloads": "Téléchargements",
             "payments": "Paiements",
             "views": "Vues",
             "followers": "Abonné·es",
-            "following": "Abonnements"
+            "following": "Abonnements",
+            "gross_revenue": "Revenu brut"
         },
         "follow_itchio": "Suivre itch.io sur {{twitter}} et {{facebook}}",
         "page_title": "Tableau de bord de création",
