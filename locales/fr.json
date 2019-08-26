@@ -935,8 +935,12 @@
             "link_to_itchio_page": "Page itch.io de {{game_title}}",
             "downloads": "Téléchargements",
             "play_game": "Jouer",
-            "ranked_from_count_plural": "Classé à partir de <s>{{count}} évaluations</s>.",
-            "ranked_from_count": "Classé à partir d'<s>{{count}} évaluation</s>."
+            "ranked_from_count_plural": "Classé sur la base de <s>{{count}} évaluations</s>.",
+            "ranked_from_count": "Classé sur la base d'<s>{{count}} évaluation</s>.",
+            "rate_submission": {
+                "you_just_voted": "Vous venez de voter.",
+                "you_voted_ago": "Vous avez voté il y a {{timestamp}}."
+            }
         }
     },
     "nags": {
