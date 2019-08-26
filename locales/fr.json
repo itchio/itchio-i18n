@@ -787,7 +787,8 @@
             "oauth_applications": "Applications OAuth",
             "basics_header": "Compte",
             "misc_header": "Divers",
-            "revenue_sharing": "Partage des revenus"
+            "revenue_sharing": "Partage des revenus",
+            "publisher_get_started": "Démarrer"
         },
         "account_settings": "Paramètres du compte",
         "profile": {
@@ -863,7 +864,8 @@
                 "results": "Résultats",
                 "submissions": "Participations",
                 "screenshots": "Captures d'écran",
-                "edit_jam": "Modifier la jam"
+                "edit_jam": "Modifier la jam",
+                "overview": "Vue d'ensemble"
             }
         },
         "stats": {
