@@ -885,7 +885,9 @@
                 "view_submission_page": "Voir la page de participation",
                 "ranked": "Classé {{ordinal_rank}}",
                 "ranked_vote_count": "Classé {{ordinal_rank}} avec {{count}} vote",
-                "ranked_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes"
+                "ranked_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes",
+                "ranked_rating_count": "Classé {{ordinal_rank}} avec {{count}} évalutation",
+                "ranked_rating_count_plural": "Classé {{ordinal_rank}} avec {{count}} évaluations"
             }
         },
         "header": {
