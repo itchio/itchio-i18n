@@ -1,1 +1,5 @@
-{}
+{
+    "documents": {
+        "user_register": "## Qui est censé·e s'inscrire sur itch.io ?\n\n**itch.io** est à l'origine une plateforme pour les jeux vidéo indépendants, mais le site héberge un large éventail de jeux vidéo\net de contenu numérique original. Si vous achetez quelque chose, avoir un compte est\nfacultatif, mais recommandé.\n\n#### Je veux jouer à des jeux !\n\nBien qu'il ne soit pas nécessaire de s'inscrire, la création d'un compte vous\npermettra de créer des collections regroupant vos contenus favoris et favoris en devenir. Si\nvous avez acheté quelque chose sur **itch.io**, vous pouvez même lier ces achats à votre\ncompte pour les retrouver aisément.\n\n#### Je suis un·e développeur·se/créateur·trice !\n\nSuper ! **itch.io** est conçu pour les créatifs de toutes sortes afin de rapidement\ndiffuser leur travail, aussi facilement que possible. Si vous avez une production à vendre, vous\npouvez démarrer dès votre compte créé. Un compte vous permet également de présenter des productions lors de divers\ndéfis (jams) hébergés sur **itch.io**."
+    }
+}
