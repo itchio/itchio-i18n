@@ -942,6 +942,9 @@
                 "you_voted_ago": "Vous avez voté il y a {{timestamp}}.",
                 "disqualified_message": "Cette participation est disqualifiée et non éligible pour les votes."
             }
+        },
+        "screenshots": {
+            "empty_message": "Aucune capture d'écran n'a encore été téléchargée"
         }
     },
     "nags": {
