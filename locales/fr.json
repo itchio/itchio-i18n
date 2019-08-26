@@ -343,14 +343,14 @@
         "download_header": "Télécharger",
         "unavailable": "Ce {{game_noun}} est actuellement indisponible",
         "purchase_header": "Acheter",
-        "download_access": "Cliquez sur télécharger pour accéder aux fichiers suivants :",
+        "download_access": "Cliquez sur Télécharger pour accéder aux fichiers suivants :",
         "get_access": "Vous aurez accès aux fichiers suivants :",
         "get_access_preorder": "Vous aurez accès aux fichiers suivants lors de leur publication :",
         "download_demo_header": "Télécharger la démo",
         "available_header": "Disponible sur",
         "also_available_header": "Aussi disponible sur",
         "will_be_available_in": "Sera disponible {{time_remaining}}.",
-        "download_or_claim_button": "Télécharger ou ajouter au compte",
+        "download_or_claim_button": "Télécharger ou Ajouter au compte",
         "download_now_button": "Télécharger",
         "preorder_button": "Pré-commander",
         "buy_now_button": "Acheter",
@@ -690,7 +690,7 @@
             "video_field_description": "Fournissez un lien YouTube ou Vimeo.",
             "delete_game_button": "Supprimer le jeu",
             "community_disabled": "Désactivé",
-            "visibility_access_header": "Visibilité et accès",
+            "visibility_access_header": "Visibilité & accès",
             "default_noun": "Laisser blanc par défaut à : '{{default_noun}}'."
         },
         "stats": {
@@ -1081,6 +1081,9 @@
         "alternate_download": {
             "enable_alternate_download_mode": "Activer le mode de téléchargement alternatif",
             "title": "Mode de téléchargement alternatif"
+        },
+        "purchase": {
+            "link_purchase_links": "<1>Créer un compte</1> ou <2>Se connecter à itch.io</2> pour lier cet achat instantanément."
         }
     }
 }
