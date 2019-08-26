@@ -680,7 +680,17 @@
             },
             "classification_field": "Catégorisation",
             "release_status_field": "Statut de publication",
-            "pricing_header": "Prix"
+            "pricing_header": "Prix",
+            "create_a_new_project_title": "Créer un nouveau projet",
+            "edit_project_title": "Modifier le projet",
+            "title_field": "Titre",
+            "project_url_field": "URL du projet",
+            "save_and_view_button": "Sauvegarder & voir la page",
+            "video_field": "Vidéo de gameplay ou trailer",
+            "video_field_description": "Fournissez un lien YouTube ou Vimeo.",
+            "delete_game_button": "Supprimer le jeu",
+            "community_disabled": "Désactivé",
+            "visibility_access_header": "Visibilité et accès"
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -706,7 +716,11 @@
         },
         "create_new_project_button": "Créer un nouveau projet",
         "analytics_summary_header": "Résumé",
-        "not_a_developer_escape": "Non, emmènez-moi au flux des jeux."
+        "not_a_developer_escape": "Non, emmènez-moi au flux des jeux.",
+        "recently_updated_pages_header": "Pages mises à jour récemment",
+        "new_devlog": "Nouveau devlog",
+        "hello": "Salut !",
+        "dashboard": "Tableau de bord"
     },
     "jams": {
         "manage_submissions_link": "Gérez vos contributions et jams",
