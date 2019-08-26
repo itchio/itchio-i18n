@@ -680,7 +680,10 @@
             }
         },
         "stats": {
-            "downloads": "Téléchargements"
+            "downloads": "Téléchargements",
+            "payments": "Paiements",
+            "views": "Vues",
+            "followers": "Abonnés"
         }
     },
     "jams": {
