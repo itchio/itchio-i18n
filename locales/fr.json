@@ -882,7 +882,10 @@
             "sort_by_criteria": "Trier par critère",
             "submissions": {
                 "by_author": "par {{author}}",
-                "view_submission_page": "Voir la page de contribution"
+                "view_submission_page": "Voir la page de participation",
+                "ranked": "Classé {{ordinal_rank}}",
+                "ranked_vote_count": "Classé {{ordinal_rank}} avec {{count}} vote",
+                "ranked_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes"
             }
         },
         "header": {
