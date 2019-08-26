@@ -785,7 +785,9 @@
             "payment_processors": "Gestionnaires de paiement",
             "thirdparty_analytics": "Analyses tierces",
             "oauth_applications": "Applications OAuth",
-            "basics_header": "Compte"
+            "basics_header": "Compte",
+            "misc_header": "Divers",
+            "revenue_sharing": "Partage des revenus"
         },
         "account_settings": "Paramètres du compte",
         "profile": {
@@ -836,7 +838,9 @@
                 "voting_ends_in": "Fin des votes dans",
                 "starts_in": "Commence dans"
             },
-            "you_can_now_rate_entries": "Vous pouvez maintenant noter les projets participants depuis <a>la page des contributions</a>"
+            "you_can_now_rate_entries": "Vous pouvez maintenant noter les projets participants depuis <a>la page des contributions</a>",
+            "join_jam": "Rejoindre la jam",
+            "submit_button": "Soumettre votre projet"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Il n'y a pas encore de participations",
@@ -854,7 +858,12 @@
         "header": {
             "hosted_by": "Hébergée par {{hosts}}",
             "links": {
-                "submission_feed": "Flux des participations"
+                "submission_feed": "Flux des participations",
+                "community": "Communauté",
+                "results": "Résultats",
+                "submissions": "Participations",
+                "screenshots": "Captures d'écran",
+                "edit_jam": "Modifier la jam"
             }
         },
         "stats": {
@@ -901,7 +910,14 @@
         },
         "filter_group_when": "Date de sortie",
         "filter_group_input_methods": "Périphérique de jeu",
-        "filter_everything_else": "Tout le reste"
+        "filter_everything_else": "Tout le reste",
+        "filter_group_price": "Prix",
+        "filter_group_genre": "Genre",
+        "filter_group_platform": "Plateforme",
+        "view_all_tags": "Voir tous les tags",
+        "filter_by_tag": "Filtrer par tag",
+        "filter_group_type": "Type",
+        "filter_group_misc": "Divers"
     },
     "browse_tags": {
         "page_title": "Tags populaires",
