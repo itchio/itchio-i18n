@@ -881,7 +881,8 @@
             "no_rankings_available": "Il n'y a pas de classement disponible",
             "sort_by_criteria": "Trier par critère",
             "submissions": {
-                "by_author": "par {{author}}"
+                "by_author": "par {{author}}",
+                "view_submission_page": "Voir la page de contribution"
             }
         },
         "header": {
