@@ -106,7 +106,11 @@
         "intro_cta": "<1>Ajoutez votre jeu</1> ou <2>Lisez la FAQ</2>",
         "html5_games": "Jeux HTML5",
         "page_title": "Téléchargez les derniers jeux indépendants",
-        "meta_description": "itch.io est un moyen simple de rechercher, télécharger et distribuer des jeux indés en ligne. Que vous vouliez mettre un jeu en ligne ou juste trouver quelque-chose de nouveau auquel jouer, vous êtes au bon endroit."
+        "meta_description": "itch.io est un moyen simple de rechercher, télécharger et distribuer des jeux indés en ligne. Que vous vouliez mettre un jeu en ligne ou juste trouver quelque-chose de nouveau auquel jouer, vous êtes au bon endroit.",
+        "to_follow": {
+            "empty_results": "Nous n'avons plus rien à vous recommander pour le moment. Revenez plus tard",
+            "refresh_button": "Actualisez pour plus de contenu..."
+        }
     },
     "misc": {
         "classifications": {
@@ -158,7 +162,9 @@
         "forms": {
             "required": "Champ obligatoire",
             "save": "Enregistrer",
-            "email_address": "Adresse e-mail"
+            "email_address": "Adresse e-mail",
+            "submit": "Mettre en ligne",
+            "form_errors": "Merci de vérifier les informations que vous avez fournies"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -218,7 +224,8 @@
             "server_error": "Échec de la communication avec le serveur, veuillez réessayer plus tard"
         },
         "dismiss": "Ignorer",
-        "more_ellip": "Plus…"
+        "more_ellip": "Plus…",
+        "view_more": "Voir plus"
     },
     "blog": {
         "all_posts": "Tous les articles",
@@ -717,7 +724,7 @@
         },
         "create_new_project_button": "Créer un nouveau projet",
         "analytics_summary_header": "Résumé",
-        "not_a_developer_escape": "Non, emmènez-moi au flux des jeux.",
+        "not_a_developer_escape": "Non, emmenez-moi au flux des jeux",
         "recently_updated_pages_header": "Pages mises à jour récemment",
         "new_devlog": "Nouveau devlog",
         "hello": "Salut !",
@@ -789,7 +796,7 @@
                 "verified_column": "Vérifiée",
                 "resend_verification_email_button": "Renvoyer le mail de vérification"
             },
-            "additional_emails_summary": "Vous pouvez lier des adresses e-mail additionnelles à votre compte itch.io pour pouvoir accéder à vos achats sous ces e-mail. Par exemple, votre adresse Paypal pourrait être différente de votre adresse courante donc vous voudrez l'ajouter en adresse additionnelle",
+            "additional_emails_summary": "Vous pouvez lier des adresses e-mail additionnelles à votre compte itch.io pour pouvoir accéder à vos achats sous ces adresses. Par exemple, votre adresse Paypal pourrait être différente de votre adresse courante donc vous pourriez l'ajouter en adresse additionnelle.",
             "additional_emails_instructions": "Vous recevrez les instructions de vérification par mail une fois une adresse additionnelle ajoutée.",
             "add_email_form": {
                 "additional_email_address_label": "Adresses e-mail additionnelles",
@@ -980,8 +987,13 @@
             "rate_submission": {
                 "you_just_voted": "Vous venez de voter.",
                 "you_voted_ago": "Vous avez voté il y a {{timestamp}}.",
-                "disqualified_message": "Cette participation est disqualifiée et non éligible pour les votes."
-            }
+                "disqualified_message": "Cette participation est disqualifiée et non éligible pour les votes.",
+                "vote": "Vote",
+                "private_field": "(privé)",
+                "vote_for_this_submission": "Voter pour cette participation",
+                "rate_this_submission": "Noter cette participation"
+            },
+            "time_remaining_before_deadline": "{{time_duration}} avant l'échéance"
         },
         "screenshots": {
             "empty_message": "Aucune capture d'écran n'a encore été mise en ligne",
@@ -1087,7 +1099,7 @@
             "thank_you_for_purchasing": "Merci d'avoir acheté {{product_title}}.",
             "thank_you_for_purchasing_author": "Merci d'avoir acheté {{product_title}} de {{author}}.",
             "thank_you_for_donating": "Merci d'avoir fait un don pour {{product_title}}.",
-            "thank_you_for_donating_author": "Merci d'avoir donné à {{product_title}} de {{author}}."
+            "thank_you_for_donating_author": "Merci d'avoir donné pour {{product_title}} de {{author}}."
         }
     }
 }
