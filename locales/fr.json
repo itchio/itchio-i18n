@@ -784,7 +784,8 @@
             "api_keys": "Clés API",
             "payment_processors": "Gestionnaires de paiement",
             "thirdparty_analytics": "Analyses tierces",
-            "oauth_applications": "Applications OAuth"
+            "oauth_applications": "Applications OAuth",
+            "basics_header": "Compte"
         },
         "account_settings": "Paramètres du compte",
         "profile": {
@@ -849,6 +850,17 @@
         },
         "results": {
             "results": "Résultats"
+        },
+        "header": {
+            "hosted_by": "Hébergée par {{hosts}}",
+            "links": {
+                "submission_feed": "Flux des participations"
+            }
+        },
+        "stats": {
+            "joined": "inscrit·es",
+            "entries": "projets",
+            "ratings": "Notes"
         }
     },
     "nags": {
@@ -867,7 +879,8 @@
         "filter_group": {
             "more_options": "Plus d'options",
             "fewer_options": "Moins d'options",
-            "toggle_more_options": "Afficher/Masquer plus d'options"
+            "toggle_more_options": "Montrer plus d'options",
+            "clear_filter": "Supprimer le filtre"
         },
         "filter_group_tools": "Outils & Moteurs",
         "results_count_plural": "{{count}} résultats",
@@ -881,7 +894,14 @@
         "sort_top_rated": "Les mieux notés",
         "sort": "Trier",
         "filter_results": "Filtrer les résultats",
-        "related_collections": "Collections suggérées"
+        "related_collections": "Collections recommandées",
+        "tag": {
+            "no_description_yet": "Aucune description pour le moment",
+            "suggest_description_for_this_tag": "Suggérer une description pour ce tag"
+        },
+        "filter_group_when": "Date de sortie",
+        "filter_group_input_methods": "Périphérique de jeu",
+        "filter_everything_else": "Tout le reste"
     },
     "browse_tags": {
         "page_title": "Tags populaires",
