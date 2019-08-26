@@ -678,6 +678,9 @@
                 "confirm_button": "J'ai compris",
                 "title": "Il y a eu un problème pendant la sauvegarde de votre projet"
             }
+        },
+        "stats": {
+            "downloads": "Téléchargements"
         }
     },
     "jams": {
@@ -891,8 +894,9 @@
                 "ranked_criteria": "Classé {{ordinal_rank}} dans {{criteria_name}}",
                 "ranked_criteria_vote_count": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} vote",
                 "ranked_criteria_vote_count_plural": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} votes",
-                "ranked_criteria_rating_count": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} évaluation",
-                "ranked_criteria_rating_count_plural": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} évaluations"
+                "ranked_criteria_rating_count": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} note",
+                "ranked_criteria_rating_count_plural": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} notes",
+                "ranked_score": "Score : {{score}}"
             }
         },
         "header": {
@@ -911,6 +915,26 @@
             "joined": "inscrit·es",
             "entries": "projets",
             "ratings": "Notes"
+        },
+        "submission": {
+            "results_table_criteria": "Critère",
+            "results_table_rank": "Rang",
+            "results_table_votes": "Votes",
+            "results_table_score": "Score",
+            "results_table_raw_score": "Score brut",
+            "edit_this_submission_button": "Éditer cette participation",
+            "remove_this_submission_button": "Supprimer cette participation",
+            "a_jam_submission": "Participation à une jam",
+            "view_game_page": "Voir la page du jeu",
+            "view_project_page": "Voir la page du projet",
+            "comments": {
+                "leave_a_comment_header": "Laisser un commentaire",
+                "post_comment": "Poster un commentaire",
+                "empty_message": "La section des commentaires est vide pour l'instant"
+            },
+            "link_to_itchio_page": "Page itch.io de {{game_title}}",
+            "downloads": "Téléchargements",
+            "play_game": "Jouer"
         }
     },
     "nags": {
