@@ -875,7 +875,14 @@
             "ratings_given_submissions_count_plural": "<s>{{count}} notes</s> ont été données à <s>{{submission_count}} participations</s> ({{percent}}%) entre le {{vote_start_date}} et le {{vote_end_date}}.",
             "submissions_summary": "<s>{{count}} participation</s> a été soumise entre {{start_date}} et {{end_date}}.",
             "submissions_summary_plural": "<s>{{count}} participations</s> ont été soumises entre {{start_date}} et {{end_date}}.",
-            "average_and_median_results": "Le nombre moyen d'évaluations par jeu était de <s>{{average_ratings}}</s> et le nombre médian était de <s>{{median_ratings}}</s>."
+            "average_and_median_results": "Le nombre moyen de notes reçues par jeu était de <s>{{average_ratings}}</s> et le nombre médian était de <s>{{median_ratings}}</s>.",
+            "empty_message": "Les résultats ne sont pas encore disponibles, revenez plus tard",
+            "empty_page_message": "Il n'y a aucun résultat sur cette page",
+            "no_rankings_available": "Il n'y a pas de classement disponible",
+            "sort_by_criteria": "Trier par critère",
+            "submissions": {
+                "by_author": "par {{author}}"
+            }
         },
         "header": {
             "hosted_by": "Hébergée par {{hosts}}",
