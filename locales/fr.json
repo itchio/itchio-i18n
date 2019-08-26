@@ -165,7 +165,8 @@
             "email_address": "Adresse e-mail",
             "submit": "Mettre en ligne",
             "form_errors": "Merci de vérifier les informations que vous avez fournies",
-            "search": "Rechercher"
+            "search": "Rechercher",
+            "optional": "Facultatif"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
