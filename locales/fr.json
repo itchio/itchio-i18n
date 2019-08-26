@@ -698,8 +698,11 @@
         },
         "project_list": {
             "edit": "Modifier",
-            "analytics": "Analyses de données"
-        }
+            "analytics": "Analyses de données",
+            "no_image": "Pas d'image"
+        },
+        "create_new_project_button": "Créer un nouveau projet",
+        "analytics_summary_header": "Résumé"
     },
     "jams": {
         "manage_submissions_link": "Gérez vos contributions et jams",
