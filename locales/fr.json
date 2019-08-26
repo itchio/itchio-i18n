@@ -944,7 +944,8 @@
             }
         },
         "screenshots": {
-            "empty_message": "Aucune capture d'écran n'a encore été téléchargée"
+            "empty_message": "Aucune capture d'écran n'a encore été mise en ligne",
+            "loading_more": "Chargement de plus de captures d'écran..."
         }
     },
     "nags": {
