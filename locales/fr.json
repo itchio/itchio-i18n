@@ -1085,7 +1085,8 @@
         "purchase": {
             "link_purchase_links": "<1>Créer un compte</1> ou <2>Se connecter à itch.io</2> pour lier cet achat instantanément.",
             "thank_you_for_purchasing": "Merci d'avoir acheté {{product_title}}.",
-            "thank_you_for_purchasing_author": "Merci d'avoir acheté {{product_title}} de {{author}}."
+            "thank_you_for_purchasing_author": "Merci d'avoir acheté {{product_title}} de {{author}}.",
+            "thank_you_for_donating": "Merci d'avoir donné à {{product_title}}."
         }
     }
 }
