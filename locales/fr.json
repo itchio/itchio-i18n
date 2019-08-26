@@ -209,12 +209,14 @@
             "days": "jours",
             "hours": "heures",
             "minutes": "minutes",
-            "seconds": "secondes"
+            "seconds": "secondes",
+            "years": "ans"
         },
         "project_visibility": {
             "published": "Publié",
             "draft": "Brouillon",
-            "public": "Publique"
+            "public": "Publique",
+            "restricted": "Privé"
         },
         "release_statuses": {
             "on_hold": "En pause",
