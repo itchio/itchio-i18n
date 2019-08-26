@@ -888,7 +888,11 @@
                 "ranked_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes",
                 "ranked_rating_count": "Classé {{ordinal_rank}} avec {{count}} note",
                 "ranked_rating_count_plural": "Classé {{ordinal_rank}} avec {{count}} notes",
-                "ranked_criteria": "Classé {{ordinal_rank}} dans {{criteria_name}}"
+                "ranked_criteria": "Classé {{ordinal_rank}} dans {{criteria_name}}",
+                "ranked_criteria_vote_count": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} vote",
+                "ranked_criteria_vote_count_plural": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} votes",
+                "ranked_criteria_rating_count": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} évaluation",
+                "ranked_criteria_rating_count_plural": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} évaluations"
             }
         },
         "header": {
