@@ -850,7 +850,9 @@
             "submission_is_closed_for_voting": "La phase d'envoi des projets est terminée et les votes sont désormais ouverts",
             "youve_joined": "Vous avez rejoint cette jam.",
             "submissions_open_from": "Les participations sont ouvertes du {{start_date}} au {{end_date}}",
-            "view_results": "Voir les résultats"
+            "view_results": "Voir les résultats",
+            "view_entries": "Voir {{count}} contribution",
+            "view_entries_plural": "Voir {{count}} contributions"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Il n'y a pas encore de participations",
@@ -870,7 +872,10 @@
             "ratings_given_count": "<s>{{count}} note</s> a été donnée entre le {{vote_start_date}} et le {{vote_end_date}}.",
             "ratings_given_count_plural": "<s>{{count}} notes</s> ont été données entre le {{vote_start_date}} et le {{vote_end_date}}.",
             "ratings_given_submissions_count": "<s>{{count}} note</s> a été donnée à <s>{{submission_count}} participations</s> ({{percent}}%) entre le {{vote_start_date}} et le {{vote_end_date}}.",
-            "ratings_given_submissions_count_plural": "<s>{{count}} notes</s> ont été données à <s>{{submission_count}} participations</s> ({{percent}}%) entre le {{vote_start_date}} et le {{vote_end_date}}."
+            "ratings_given_submissions_count_plural": "<s>{{count}} notes</s> ont été données à <s>{{submission_count}} participations</s> ({{percent}}%) entre le {{vote_start_date}} et le {{vote_end_date}}.",
+            "submissions_summary": "<s>{{count}} participation</s> a été soumise entre {{start_date}} et {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} participations</s> ont été soumises entre {{start_date}} et {{end_date}}.",
+            "average_and_median_results": "Le nombre moyen d'évaluations par jeu était de <s>{{average_ratings}}</s> et le nombre médian était de <s>{{median_ratings}}</s>."
         },
         "header": {
             "hosted_by": "Hébergée par {{hosts}}",
