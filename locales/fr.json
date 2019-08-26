@@ -685,7 +685,9 @@
             "views": "Vues",
             "followers": "Abonné·es",
             "following": "Abonnements"
-        }
+        },
+        "follow_itchio": "Suivre itch.io sur {{twitter}} et {{facebook}}",
+        "page_title": "Tableau de bord du créateur"
     },
     "jams": {
         "manage_submissions_link": "Gérez vos contributions et jams",
