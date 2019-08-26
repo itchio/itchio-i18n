@@ -164,7 +164,8 @@
             "save": "Enregistrer",
             "email_address": "Adresse e-mail",
             "submit": "Mettre en ligne",
-            "form_errors": "Merci de vérifier les informations que vous avez fournies"
+            "form_errors": "Merci de vérifier les informations que vous avez fournies",
+            "search": "Rechercher"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -225,7 +226,8 @@
         },
         "dismiss": "Ignorer",
         "more_ellip": "Plus…",
-        "view_more": "Voir plus"
+        "view_more": "Voir plus",
+        "loading_more_ellip": "Chargement..."
     },
     "blog": {
         "all_posts": "Tous les articles",
@@ -993,7 +995,9 @@
                 "vote_for_this_submission": "Voter pour cette participation",
                 "rate_this_submission": "Noter cette participation"
             },
-            "time_remaining_before_deadline": "{{time_duration}} avant l'échéance"
+            "time_remaining_before_deadline": "{{time_duration}} avant l'échéance",
+            "rated_by_people_count_plural": "Évalué par {{count}} personnes pour l'instant",
+            "rated_by_people_count": "Évalué par {{count}} personne pour l'instant"
         },
         "screenshots": {
             "empty_message": "Aucune capture d'écran n'a encore été mise en ligne",
@@ -1099,7 +1103,8 @@
             "thank_you_for_purchasing": "Merci d'avoir acheté {{product_title}}.",
             "thank_you_for_purchasing_author": "Merci d'avoir acheté {{product_title}} de {{author}}.",
             "thank_you_for_donating": "Merci d'avoir fait un don pour {{product_title}}.",
-            "thank_you_for_donating_author": "Merci d'avoir donné pour {{product_title}} de {{author}}."
+            "thank_you_for_donating_author": "Merci d'avoir donné pour {{product_title}} de {{author}}.",
+            "unique_url_for_your_payment": "Cette page a un URL unique pour votre paiement."
         }
     }
 }
