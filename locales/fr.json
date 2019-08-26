@@ -886,8 +886,9 @@
                 "ranked": "Classé {{ordinal_rank}}",
                 "ranked_vote_count": "Classé {{ordinal_rank}} avec {{count}} vote",
                 "ranked_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes",
-                "ranked_rating_count": "Classé {{ordinal_rank}} avec {{count}} évalutation",
-                "ranked_rating_count_plural": "Classé {{ordinal_rank}} avec {{count}} évaluations"
+                "ranked_rating_count": "Classé {{ordinal_rank}} avec {{count}} note",
+                "ranked_rating_count_plural": "Classé {{ordinal_rank}} avec {{count}} notes",
+                "ranked_criteria": "Classé {{ordinal_rank}} dans {{criteria_name}}"
             }
         },
         "header": {
