@@ -906,7 +906,8 @@
         "related_collections": "Collections recommandées",
         "tag": {
             "no_description_yet": "Aucune description pour le moment",
-            "suggest_description_for_this_tag": "Suggérer une description pour ce tag"
+            "suggest_description_for_this_tag": "Suggérer une description pour ce tag",
+            "suggest_updated_description": "Proposer une nouvelle description"
         },
         "filter_group_when": "Date de sortie",
         "filter_group_input_methods": "Périphérique de jeu",
