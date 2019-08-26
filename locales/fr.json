@@ -939,7 +939,8 @@
             "ranked_from_count": "Classé sur la base d'<s>{{count}} évaluation</s>.",
             "rate_submission": {
                 "you_just_voted": "Vous venez de voter.",
-                "you_voted_ago": "Vous avez voté il y a {{timestamp}}."
+                "you_voted_ago": "Vous avez voté il y a {{timestamp}}.",
+                "disqualified_message": "Cette participation est disqualifiée et non éligible pour les votes."
             }
         }
     },
