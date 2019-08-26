@@ -877,7 +877,10 @@
         "sort_top_sellers": "Les mieux vendus",
         "sort_most_recent": "Les derniers sortis",
         "upload_your_project": "<a>Mettez en ligne votre projet</a> sur itch.io pour qu'il apparaisse ici.",
-        "clear_filters": "Supprimer"
+        "clear_filters": "Supprimer",
+        "sort_top_rated": "Les mieux notés",
+        "sort": "Trier",
+        "filter_results": "Filtrer les résultats"
     },
     "browse_tags": {
         "page_title": "Tags populaires",
