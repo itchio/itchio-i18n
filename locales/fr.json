@@ -609,7 +609,7 @@
         "agree_to_terms": "En effectuant un paiement, vous acceptez les <1>Conditions d'utilisation</1> et la <2>Politique de respect de la vie privée</2> d'itch.io.",
         "this_purchase_is_a_gift": "Cet achat est un cadeau",
         "support_the_creator_by_paying_above_the_minimum_price": "Soutenez le créateur en augmentant le prix d'achat",
-        "support_the_creator_with_an_additional_contribution": "Montrer votre soutien avec une contribution supplémentaire",
+        "support_the_creator_with_an_additional_contribution": "Montrez votre soutien avec une contribution supplémentaire",
         "pay_with": "Payer avec",
         "check_out_with": "Payer avec",
         "credit_card": "Carte de crédit",
@@ -623,7 +623,7 @@
         "authors": "une collection de {{author}}",
         "last_updated_date": "mise à jour le {{date}}",
         "edit_collection": "Éditer la collection",
-        "edit_contributors": "Editer les contributeurs",
+        "edit_contributors": "Éditer les contributeurs",
         "empty_collection_message": "Il n'y a rien dans cette collection.",
         "private_collection_message": "Cette collection est privée, seuls les contributeurs peuvent y accéder",
         "pending_invitation": "Acceptez <a>cette invitation</a> pour contribuer à cette collection.",
@@ -868,7 +868,11 @@
             "fewer_options": "Moins d'options",
             "toggle_more_options": "Afficher/Masquer plus d'options"
         },
-        "filter_group_tools": "Outils & Moteurs"
+        "filter_group_tools": "Outils & Moteurs",
+        "results_count_plural": "{{count}} résultats",
+        "results_count": "{{count}} résultat",
+        "sort_popular": "Populaire",
+        "sort_new_and_popular": "Nouveau & populaire"
     },
     "browse_tags": {
         "page_title": "Tags populaires",
