@@ -705,7 +705,15 @@
             "visibility_access_header": "Visibilité & accès",
             "default_noun": "Laisser blanc par défaut à : '{{default_noun}}'.",
             "content_guidelines_info": "Prenez connaissance de nos <a>Recommandations de bonne pratique</a> avant de publier votre projet",
-            "visibility_access_info": "Utilisez Brouillon pour vérifier votre page avant de la rendre publique. <a>En savoir plus sur les modes d'accès</a>"
+            "visibility_access_info": "Utilisez Brouillon pour vérifier votre page avant de la rendre publique. <a>En savoir plus sur les modes d'accès</a>",
+            "access_control": {
+                "disable_downloads_option": "Désactiver les nouveaux téléchargements et achats",
+                "password_label": "Mot de passe",
+                "public_access_settings": "Paramètres d'accès publique",
+                "restricted_access_settings": "Paramètres d'accès restreint",
+                "access_settings": "Paramètres d'accès"
+            },
+            "embed_options_header": "Options d'intégration"
         },
         "stats": {
             "downloads": "Téléchargements",
