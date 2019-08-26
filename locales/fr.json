@@ -568,7 +568,22 @@
             "your_moderators_are": "itch.io ne modère pas ces forums, vos modérateurs sont :"
         },
         "topic_list": {
-            "list_header_last_post": "Dernier message"
+            "list_header_last_post": "Dernier message",
+            "views_count": "<s>{{count}}</s> vue",
+            "views_count_plural": "<s>{{count}}</s> vues",
+            "no_posts_yet": "Pas encore de publications",
+            "replies_count": "<s>{{count}}</s> réponse",
+            "replies_count_plural": "<s>{{count}}</s> réponses",
+            "started_by_author": "Lancé par {{topic_author}}",
+            "new_flag": "Nouveau",
+            "sticky_flag": "Épinglé",
+            "locked_flag": "Verrouillé",
+            "list_header_topic_title": "Sujet"
+        },
+        "category": {
+            "new_flag": "Nouveau",
+            "archived_flag": "Archivé",
+            "by_topic_author": "par {{username}}"
         }
     },
     "buy_form": {
