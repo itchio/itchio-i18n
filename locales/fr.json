@@ -837,11 +837,17 @@
         "submitter": {
             "countdown": {
                 "voting_ends_in": "Fin des votes dans",
-                "starts_in": "Commence dans"
+                "starts_in": "Commence dans",
+                "submissions_due_in": "Échéance des participations dans"
             },
             "you_can_now_rate_entries": "Vous pouvez maintenant noter les projets participants depuis <a>la page des contributions</a>",
             "join_jam": "Rejoindre la jam",
-            "submit_button": "Soumettre votre projet"
+            "submit_button": "Envoyer mon projet",
+            "or_leave_jam": "ou <a>Quitter la Jam</a>",
+            "joined_instructions": "Revenez sur cette page quand la jam aura commencée, pour envoyer votre projet.",
+            "leave_jam": "Quitter la Jam",
+            "jam_is_now_over": "Cette jam est à présent terminée. Elle s'est tenue du {{start_date}} au {{end_date}}.",
+            "submission_is_closed_for_voting": "La phase d'envoi des projets est terminée et les votes sont désormais ouverts"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Il n'y a pas encore de participations",
@@ -851,10 +857,16 @@
             "filters": {
                 "browser_playable": "Jouable dans un navigateur"
             },
-            "empty_results": "Aucune contribution ne correspond à ce filtre"
+            "empty_results": "Aucune contribution ne correspond à ce filtre",
+            "there_were_no_submissions": "Il n'y a eu aucune participation",
+            "rated": "Évalué"
         },
         "results": {
-            "results": "Résultats"
+            "results": "Résultats",
+            "ratings_given_count": "<s>{{count}} note</s> a été donnée entre le {{vote_start_date}} et le {{vote_end_date}}.",
+            "ratings_given_count_plural": "<s>{{count}} notes</s> ont été données entre le {{vote_start_date}} et le {{vote_end_date}}.",
+            "ratings_given_submissions_count": "<s>{{count}} note</s> a été donnée à <s>{{submission_count}} participations</s> ({{percent}}%) entre le {{vote_start_date}} et le {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "<s>{{count}} notes</s> ont été données à <s>{{submission_count}} participations</s> ({{percent}}%) entre le {{vote_start_date}} et le {{vote_end_date}}."
         },
         "header": {
             "hosted_by": "Hébergée par {{hosts}}",
