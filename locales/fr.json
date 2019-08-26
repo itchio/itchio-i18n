@@ -872,9 +872,12 @@
         "filter_group_tools": "Outils & Moteurs",
         "results_count_plural": "{{count}} résultats",
         "results_count": "{{count}} résultat",
-        "sort_popular": "Populaire",
-        "sort_new_and_popular": "Nouveau & Populaire",
-        "sort_top_sellers": "Meilleures ventes"
+        "sort_popular": "Popularité",
+        "sort_new_and_popular": "Nouveaux & Populaires",
+        "sort_top_sellers": "Les mieux vendus",
+        "sort_most_recent": "Les derniers sortis",
+        "upload_your_project": "<a>Mettez en ligne votre projet</a> sur itch.io pour qu'il apparaisse ici.",
+        "clear_filters": "Supprimer"
     },
     "browse_tags": {
         "page_title": "Tags populaires",
