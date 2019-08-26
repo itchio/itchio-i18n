@@ -693,7 +693,12 @@
             "payments_link": "Paiements",
             "analytics_link": "Analyses de données",
             "payouts_link": "Paiements",
-            "sales_bundles_link": "Soldes & bundles"
+            "sales_bundles_link": "Soldes & Bundles",
+            "game_jams_link": "Game Jams"
+        },
+        "project_list": {
+            "edit": "Modifier",
+            "analytics": "Analyses de données"
         }
     },
     "jams": {
