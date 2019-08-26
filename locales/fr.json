@@ -632,7 +632,8 @@
         "remove_item_button": "Retirer...",
         "edit_blurb": "Modifier le commentaire",
         "blurb_author_says": "{{author}} a dit",
-        "remove_confirm": "Souhaitez-vous vraiment le retirer de la collection"
+        "remove_confirm": "Souhaitez-vous vraiment le retirer de la collection",
+        "page_title": "{{collection_title}} - Collection de {{author}}"
     },
     "dashboard": {
         "edit_project": {
