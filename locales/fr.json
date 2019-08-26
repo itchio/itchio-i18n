@@ -690,7 +690,8 @@
             "video_field_description": "Fournissez un lien YouTube ou Vimeo.",
             "delete_game_button": "Supprimer le jeu",
             "community_disabled": "Désactivé",
-            "visibility_access_header": "Visibilité et accès"
+            "visibility_access_header": "Visibilité et accès",
+            "default_noun": "Laisser blanc par défaut à : '{{default_noun}}'."
         },
         "stats": {
             "downloads": "Téléchargements",
