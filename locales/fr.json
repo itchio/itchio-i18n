@@ -703,7 +703,8 @@
             "delete_game_button": "Supprimer le jeu",
             "community_disabled": "Désactivé",
             "visibility_access_header": "Visibilité & accès",
-            "default_noun": "Laisser blanc par défaut à : '{{default_noun}}'."
+            "default_noun": "Laisser blanc par défaut à : '{{default_noun}}'.",
+            "content_guidelines_info": "Prenez connaissance de nos <a>Recommandations de bonne pratique</a> avant de publier votre projet"
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -720,7 +721,8 @@
             "analytics_link": "Analyses de données",
             "payouts_link": "Paiements",
             "sales_bundles_link": "Soldes & Bundles",
-            "game_jams_link": "Game Jams"
+            "game_jams_link": "Game Jams",
+            "coop_bundles_link": "Bundles collectifs"
         },
         "project_list": {
             "edit": "Modifier",
@@ -733,7 +735,8 @@
         "recently_updated_pages_header": "Pages mises à jour récemment",
         "new_devlog": "Nouveau devlog",
         "hello": "Salut !",
-        "dashboard": "Tableau de bord"
+        "dashboard": "Tableau de bord",
+        "intro_text": "Êtes-vous créateur·trice ? Mettez en ligne votre premier jeu"
     },
     "jams": {
         "manage_submissions_link": "Gérez vos contributions et jams",
@@ -996,11 +999,22 @@
                 "vote": "Vote",
                 "private_field": "(privé)",
                 "vote_for_this_submission": "Voter pour cette participation",
-                "rate_this_submission": "Noter cette participation"
+                "rate_this_submission": "Noter cette participation",
+                "not_open_yet": "Cette Jam est encore ouverte aux participations. Les votes ouvriront le {{start_date}}.",
+                "owner_message": "C'est votre participation, vous ne pouvez pas la noter. Les autres participant·es de la jam pourront noter votre projet ici.",
+                "unavailable_to_rate": "Vous ne pouvez pas noter ce projet parce que vous n'avez pas encore soumis le vôtre. Vous pouvez quand même laisser un commentaire ci-dessous.",
+                "sign_up_to_rate": "<a>Créez un compte itch.io</a> pour noter et laisser des commentaires.",
+                "sign_up_to_vote": "<a>Créez un compte itch.io</a> pour voter et laisser des commentaires.",
+                "participate_to_rate_message": "Pour noter cette participation vous devez être <a>connecté·e à itch.io</a> et avoir également participé. Toute personne ayant un compte peut laisser un commentaire.",
+                "you_will_be_able_to_rate_if_you_submit": "Vous pourrez noter cette participation si vous contribuez à cette jam.",
+                "other_participants_can_rate": "Les autres participant·es pourront noter votre participation.",
+                "save_vote": "Enregistrer votre vote",
+                "save_rating": "Enregistrer votre note",
+                "you_havent_rated_this_submission_yet": "Vous n'avez pas encore noté cette participation."
             },
             "time_remaining_before_deadline": "{{time_duration}} avant l'échéance",
-            "rated_by_people_count_plural": "Évalué par {{count}} personnes pour l'instant",
-            "rated_by_people_count": "Évalué par {{count}} personne pour l'instant"
+            "rated_by_people_count_plural": "Noté par {{count}} personnes pour l'instant",
+            "rated_by_people_count": "Noté par {{count}} personne pour l'instant"
         },
         "screenshots": {
             "empty_message": "Aucune capture d'écran n'a encore été mise en ligne",
