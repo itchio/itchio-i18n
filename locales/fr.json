@@ -847,7 +847,10 @@
             "joined_instructions": "Revenez sur cette page quand la jam aura commencée, pour envoyer votre projet.",
             "leave_jam": "Quitter la Jam",
             "jam_is_now_over": "Cette jam est à présent terminée. Elle s'est tenue du {{start_date}} au {{end_date}}.",
-            "submission_is_closed_for_voting": "La phase d'envoi des projets est terminée et les votes sont désormais ouverts"
+            "submission_is_closed_for_voting": "La phase d'envoi des projets est terminée et les votes sont désormais ouverts",
+            "youve_joined": "Vous avez rejoint cette jam.",
+            "submissions_open_from": "Les participations sont ouvertes du {{start_date}} au {{end_date}}",
+            "view_results": "Voir les résultats"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Il n'y a pas encore de participations",
@@ -855,7 +858,8 @@
             "help_submissions_in_need_of_ratings": "Aidez les contributions qui n'ont pas beaucoup d'évaluations : <a>Contributions en attente d'évaluations</a>",
             "filter": "Filtre",
             "filters": {
-                "browser_playable": "Jouable dans un navigateur"
+                "browser_playable": "Jouable dans un navigateur",
+                "all_submissions": "Toutes les participations"
             },
             "empty_results": "Aucune contribution ne correspond à ce filtre",
             "there_were_no_submissions": "Il n'y a eu aucune participation",
