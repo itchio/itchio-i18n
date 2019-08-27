@@ -222,7 +222,8 @@
             "on_hold": "En pause",
             "canceled": "Annulé",
             "prototype": "Prototype",
-            "released": "Publié"
+            "released": "Publié",
+            "in_development": "En développement"
         },
         "errors": {
             "server_error": "Échec de la communication avec le serveur, veuillez réessayer plus tard"
@@ -595,7 +596,13 @@
         "category": {
             "new_flag": "Nouveau",
             "archived_flag": "Archivé",
-            "by_topic_author": "par {{username}}"
+            "by_topic_author": "par {{username}}",
+            "subscribe_to_new_topics": "S'abonner aux nouveaux sujets",
+            "unsubscribe_from_topics": "Se désabonner",
+            "stats": {
+                "topics": "Sujets"
+            },
+            "list_header_last_topic": "Dernier sujet"
         }
     },
     "buy_form": {
@@ -1024,7 +1031,9 @@
             },
             "time_remaining_before_deadline": "{{time_duration}} avant l'échéance",
             "rated_by_people_count_plural": "Noté par {{count}} personnes pour l'instant",
-            "rated_by_people_count": "Noté par {{count}} personne pour l'instant"
+            "rated_by_people_count": "Noté par {{count}} personne pour l'instant",
+            "ranked_with_vote_count": "Classé {{ordinal_rank}} avec {{count}} vote",
+            "ranked_with_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes"
         },
         "screenshots": {
             "empty_message": "Aucune capture d'écran n'a encore été mise en ligne",
