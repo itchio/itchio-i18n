@@ -109,7 +109,8 @@
         "meta_description": "itch.io est un moyen simple de rechercher, télécharger et distribuer des jeux indés en ligne. Que vous vouliez mettre un jeu en ligne ou juste trouver quelque-chose de nouveau auquel jouer, vous êtes au bon endroit.",
         "to_follow": {
             "empty_results": "Nous n'avons plus rien à vous recommander pour le moment. Revenez plus tard",
-            "refresh_button": "Actualisez pour plus de contenu..."
+            "refresh_button": "Actualisez pour plus de contenu...",
+            "created_projects": "{{project_list}} vient d'être créé"
         }
     },
     "misc": {
@@ -199,7 +200,7 @@
             "first_page": "Première page"
         },
         "collection_button": {
-            "add_to_collection": "Ajoute à la collection"
+            "add_to_collection": "Ajouter à la collection"
         },
         "lightboxes": {
             "close": "Fermer"
@@ -734,7 +735,7 @@
         "page_title": "Tableau de bord de création",
         "header": {
             "projects_link": "Projets",
-            "payments_link": "Paiements",
+            "payments_link": "Versements",
             "analytics_link": "Analyses de données",
             "payouts_link": "Paiements",
             "sales_bundles_link": "Soldes & Bundles",
@@ -743,7 +744,7 @@
         },
         "project_list": {
             "edit": "Modifier",
-            "analytics": "Analyses de données",
+            "analytics": "Analyses",
             "no_image": "Pas d'image"
         },
         "create_new_project_button": "Créer un nouveau projet",
@@ -753,7 +754,10 @@
         "new_devlog": "Nouveau devlog",
         "hello": "Salut !",
         "dashboard": "Tableau de bord",
-        "intro_text": "Êtes-vous créateur·trice ? Mettez en ligne votre premier jeu"
+        "intro_text": "Êtes-vous créateur·trice ? Mettez en ligne votre premier jeu",
+        "project_header": {
+            "analytics": "Analyses de données"
+        }
     },
     "jams": {
         "manage_submissions_link": "Gérez vos contributions et jams",
@@ -802,7 +806,7 @@
             "recommended_for_you": "Rien que pour vous",
             "things_on_sale": "En soldes",
             "my_purchases": "Mes achats",
-            "things_to_rate": "À évoluer"
+            "things_to_rate": "À évaluer"
         },
         "things_rated_header": "Ce que vous avez noté",
         "permalink": "Permalien",
@@ -1033,7 +1037,8 @@
             "rated_by_people_count_plural": "Noté par {{count}} personnes pour l'instant",
             "rated_by_people_count": "Noté par {{count}} personne pour l'instant",
             "ranked_with_vote_count": "Classé {{ordinal_rank}} avec {{count}} vote",
-            "ranked_with_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes"
+            "ranked_with_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes",
+            "results_header": "Résultats"
         },
         "screenshots": {
             "empty_message": "Aucune capture d'écran n'a encore été mise en ligne",
