@@ -587,7 +587,7 @@
             "no_posts_yet": "Pas encore de publications",
             "replies_count": "<s>{{count}}</s> réponse",
             "replies_count_plural": "<s>{{count}}</s> réponses",
-            "started_by_author": "Lancé par {{topic_author}}",
+            "started_by_author": "créé par {{topic_author}}",
             "new_flag": "Nouveau",
             "sticky_flag": "Épinglé",
             "locked_flag": "Verrouillé",
