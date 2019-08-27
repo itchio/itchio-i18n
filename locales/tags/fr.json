@@ -76,6 +76,9 @@
         "experimental": "Expérimental",
         "exploration": "Exploration",
         "explosions": "Explosions",
-        "fairy-tale": "Conte de fée"
+        "fairy-tale": "Conte de fées",
+        "feel-good": "Détente",
+        "local-multiplayer": "Multi-joueurs local",
+        "multiplayer": "Multijoueur"
     }
 }
