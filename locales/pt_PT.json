@@ -1,1 +1,129 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Sobre",
+            "blog": "Blogue",
+            "contact_us": "Contacte-nos",
+            "terms": "Termos",
+            "directory": "Diretório",
+            "privacy": "Privacidade",
+            "cookies": "Cookies"
+        },
+        "header": {
+            "browse": "Navegar",
+            "browse_games": "Pesquisar Jogos",
+            "game_jams": "Concursos Jogos",
+            "upload_game": "Submeter Jogo",
+            "devlogs": "Relatorios Criador",
+            "community": "Comunidade",
+            "search_placeholder": "Pesquisar jogos ou criadores",
+            "search": "Pesquisar",
+            "log_in": "Entrar",
+            "register": "Registar",
+            "dashboard": "Painel de Controle",
+            "jams": "Concursos",
+            "notifications_count": "Notificacão",
+            "notifications_count_plural": "Notificacões",
+            "no_notifications": "Sem novas notificações",
+            "free_games": "Jogos gratuitos",
+            "indie_game_store": "Loja de jogos Indie",
+            "game_development": "Desenvolvimento de Jogos",
+            "comics": "Banda-Desenhada",
+            "sales": "Saldos",
+            "bundles": "Pacotes",
+            "game_assets": "Materiais",
+            "fun_games": "Jogos divertidos",
+            "games": "Jogos",
+            "feed_unseen_count": "Novo",
+            "feed_unseen_count_plural": "Novos",
+            "feed": "Novidades"
+        },
+        "user_menu": {
+            "explore": "Explorar",
+            "create": "Criar",
+            "account": "Conta",
+            "log_out": "Sair",
+            "settings": "Configurações",
+            "view_profile": "Vêr perfil",
+            "host_game_jam": "Hospedar game jam",
+            "sales_bundles": "Saldos e Pacotes",
+            "new_project": "Submeter novo projeto",
+            "dashboard": "Painel de Controlo",
+            "game_jams": "Concursos Jogo",
+            "recommendations": "Recomendações"
+        }
+    },
+    "index": {
+        "nav": {
+            "community": "Comunidade"
+        },
+        "intro": "<s>itch.io</s> é uma maneira simples de encontrar e partilhar jogos indie online gratuitamente.",
+        "intro_cta": "<1>Adicione o seu jogo</1> ou <2>Leia o FAQ</2>",
+        "html5_games": "Jogos de HTML5\n",
+        "page_title": "Descarregue os jogos indie mais recentes",
+        "meta_description": "itch.io é uma maneira simples de encontrar, descarregar e distribuir jogos indie online. Quer seja um desenvolvedor à procura de submeter o seu jogo ou apenas alguém à procura de algo novo para jogar, o itch.io têm-no coberto.",
+        "to_follow": {
+            "created_projects": "Criou {{project_list}}",
+            "empty_results": "Não temos mais recomendações neste momento. Verifique mais tarde.",
+            "refresh_button": "Atualize a página para mais...",
+            "dismiss_tooltip": "Não sugerir mais"
+        }
+    },
+    "misc": {
+        "classifications": {
+            "game": "Jogos",
+            "assets": "Assets para jogos",
+            "game_mod": "Modificações para jogos",
+            "physical_game": "Jogos físicos",
+            "soundtrack": "Bandas-Sonoras",
+            "other": "Variados",
+            "tool": "Ferramentas",
+            "comic": "Banda-Desenhada",
+            "book": "Livros"
+        },
+        "accessibility_features": {
+            "colorblind": "Amigáveis para daltonismo",
+            "subtitles": "Legendas",
+            "configurable_controls": "Controlos configuráveis",
+            "highcontrast": "Alto-contraste",
+            "tutorial": "Tutorial interativo",
+            "one_button": "Um botão",
+            "blind": "Amigável para cegos",
+            "textless": "Sem texto"
+        },
+        "multiplayer_features": {
+            "local": "Multi-jogador local",
+            "server": "Multi-jogador em rede com Servidor",
+            "adhoc": "Multi-jogador em rede Ad-hoc"
+        },
+        "inputs": {
+            "keyboard": "Teclado",
+            "mouse": "Rato",
+            "gamepad": "Controlador (qualquer)",
+            "joystick": "Joystick",
+            "touchscreen": "Ecrã tátil",
+            "voice": "Controlo por voz",
+            "accelerometer": "Acelerómetro",
+            "phone": "Smartphone",
+            "dance_pad": "Painel de dança",
+            "midi_controller": "Controlador MIDI"
+        },
+        "durations": {
+            "seconds": "Alguns segundos",
+            "minutes": "Alguns segundos",
+            "half_hour": "À volta de meia-hora",
+            "hour": "Á volta de uma hora",
+            "hours": "Algumas horas",
+            "days": "Dias ou mais"
+        },
+        "forms": {
+            "required": "Requerido",
+            "save": "Guardar",
+            "email_address": "Endereço de Email",
+            "submit": "Submeter",
+            "optional": "Opcional",
+            "search": "Pesquisar"
+        }
+    }
+}
