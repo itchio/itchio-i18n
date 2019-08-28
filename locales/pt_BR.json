@@ -14,9 +14,9 @@
         "header": {
             "browse": "Navegar",
             "browse_games": "Ver Jogos",
-            "game_jams": "Game Jams",
+            "game_jams": "Concursos Jogos",
             "upload_game": "Carregar Jogo",
-            "devlogs": "Devlogs",
+            "devlogs": "Logs de Dev",
             "community": "Comunidade",
             "search_placeholder": "Procure por jogos ou criadores",
             "search": "Procura",
@@ -34,9 +34,9 @@
             "games": "Jogos",
             "feed_unseen_count": "{{count}} novo",
             "feed_unseen_count_plural": "{{count}} novos",
-            "feed": "Feed",
+            "feed": "Novidades",
             "dashboard": "Painel",
-            "jams": "Jams",
+            "jams": "Concursos",
             "notifications_count": "{{count}} notificação",
             "notifications_count_plural": "{{count}} notificações"
         },
@@ -51,7 +51,7 @@
             "sales_bundles": "Vendas e pacotes",
             "new_project": "Carregar novo projeto",
             "dashboard": "Painel de controle",
-            "game_jams": "Game jams",
+            "game_jams": "Concursos de Jogos",
             "recommendations": "Recomendações",
             "library": "Minha biblioteca",
             "feed": "Meu feed",
@@ -98,8 +98,8 @@
         "nav": {
             "all_games": "Todos os Jogos",
             "bundles": "Pacotes",
-            "game_jams": "Game jams",
-            "devlogs": "Devlogs",
+            "game_jams": "Concursos de Jogos",
+            "devlogs": "Logs de Devs",
             "community": "Comunidade"
         },
         "intro": "<s>itch.io</s> é uma maneira simples de encontrar e compartilhar jogos indie online gratuitamente.",
@@ -121,7 +121,7 @@
             "game_mod": "Mods de jogo",
             "physical_game": "Jogos físicos",
             "soundtrack": "Trilhas sonoras",
-            "other": "Misc",
+            "other": "Miscelanea",
             "tool": "Ferramentas",
             "comic": "Histórias em quadrinhos",
             "book": "Livros"
@@ -149,8 +149,8 @@
             "touchscreen": "Tela sensível ao toque",
             "voice": "Controle de voz",
             "accelerometer": "Acelerômetro",
-            "phone": "Smartphone",
-            "dance_pad": "Dance pad",
+            "phone": "Celular",
+            "dance_pad": "Pad de Dança",
             "midi_controller": "Controlador MIDI"
         },
         "durations": {
@@ -413,7 +413,7 @@
             "accessibility": "Acessibilidade",
             "multiplayer": "Multijogador",
             "player_count": "Contagem de jogadores",
-            "singleplayer": "Singleplayer",
+            "singleplayer": "Jogador Unico",
             "links": "Links",
             "mentions": "Menções"
         },
@@ -446,7 +446,7 @@
             "add_to_collection_short": "Coleção",
             "comments": "Comentários",
             "community": "Comunidade",
-            "devlog": "Devlog",
+            "devlog": "Log de Dev",
             "edit_your_rating": "Edite Sua Avaliação",
             "edit_rating": "Editar Avaliação",
             "rate": "Avaliar",
@@ -675,7 +675,7 @@
     "browse": {
         "results_count_plural": "{{count}} resultados",
         "results_count": "{{count}} resultado",
-        "sort_popular": "Popular",
+        "sort_popular": "Jogos Populares",
         "sort_new_and_popular": "Novo e Popular",
         "sort_top_sellers": "Mais vendidos",
         "sort_top_rated": "Melhor avaliados",
@@ -925,7 +925,7 @@
                 "results": "Resultados",
                 "submissions": "Submissões",
                 "overview": "Apresentação",
-                "screenshots": "Screenshots",
+                "screenshots": "Fotos",
                 "submission_feed": "Feed de envio",
                 "edit_jam": "Editar jam"
             }
@@ -952,7 +952,8 @@
                 "submissions_due_in": "Envios acabam em",
                 "voting_ends_in": "A votação termina em"
             },
-            "submission_is_closed_for_voting": "O envio está encerrado e a votação está em andamento"
+            "submission_is_closed_for_voting": "O envio está encerrado e a votação está em andamento",
+            "you_can_now_rate_entries": "Agora pode avaliar entradas atraves da <a>pagina de submissoes</a>2"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Ainda não há submissões",
@@ -1046,7 +1047,8 @@
                 "save_rating": "Salvar avaliação",
                 "you_havent_rated_this_submission_yet": "Você ainda não avaliou este envio.",
                 "you_just_voted": "Você acabou de votar.",
-                "you_voted_ago": "Você votou em {{timestamp}}."
+                "you_voted_ago": "Você votou em {{timestamp}}.",
+                "disqualified_message": "Esta entrada foi desqualificada e nao legivel para avaliaçoes."
             }
         },
         "screenshots": {
@@ -1072,7 +1074,7 @@
             "payouts_link": "Saídas",
             "sales_bundles_link": "Vendas e bundles",
             "coop_bundles_link": "Bundles cooperativos",
-            "game_jams_link": "Game jams"
+            "game_jams_link": "Concursos de Jogos"
         },
         "create_new_project_button": "Criar um novo projecto",
         "project_list": {
@@ -1123,7 +1125,7 @@
             "community_comments": "Comentários",
             "community_discussion_board": "Fórum de discussão",
             "pricing_header": "Preços",
-            "uploads_header": "Uploads",
+            "uploads_header": "Carregamentos",
             "upload_files_button": "Fazer upload de arquivos",
             "add_external_file_button": "Adicionar arquivo externo",
             "file_size_limit": "Limite de tamanho do arquivo: {{filesize}}. <a>Entre em contato</a> se precisar de mais espaço",
@@ -1203,11 +1205,11 @@
             "community_comments_info": "Adicione um tópico de comentário aninhado na parte inferior da página do projeto",
             "community_discussion_board_info": "Adicione uma página da comunidade com categorias, tópicos, respostas e mais",
             "add_screenshots": "Adicionar screenshots",
-            "screenshots_header": "Screenshots"
+            "screenshots_header": "Fotos"
         },
         "project_header": {
             "edit_project": "Editar projeto",
-            "devlog": "Devlog",
+            "devlog": "Logs de Dev",
             "metadata": "Metadados",
             "analytics": "Dados",
             "distribute": "Distribuir",
@@ -1215,7 +1217,7 @@
             "edit_comments": "Editar comentários",
             "discussion_board": "Fórum de discussão",
             "rewards": "Recompensas",
-            "admins": "Admins",
+            "admins": "Administradores",
             "more": "Mais"
         }
     },
@@ -1262,7 +1264,7 @@
         "filter_everything_tab": "Tudo",
         "filter_new_projects_tab": "Novos projetos",
         "filter_collections_tab": "Coleções",
-        "filter_devlogs_tab": "Devlogs",
+        "filter_devlogs_tab": "Logs de Dev",
         "filter_ratings_tab": "Avaliações",
         "latest_featured_games_header": "Últimos jogos em destaque",
         "featured_tags_header": "Tags em destaque",
