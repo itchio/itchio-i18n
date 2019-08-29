@@ -34,7 +34,19 @@
             "game_assets": "الأصول",
             "fun_games": "العاب ممتعة",
             "games": "الألعاب",
-            "feed": "التغذية"
+            "feed": "التغذية",
+            "notifications_count_0": "{{count}} إشعار",
+            "notifications_count_1": "{{count}} إشعار",
+            "notifications_count_2": "{{count}} إشعار",
+            "notifications_count_3": "{{count}} إشعارت",
+            "notifications_count_4": "{{count}} إشعارات",
+            "notifications_count_5": "{{count}} إشعار",
+            "feed_unseen_count_0": "{{count}} حديث",
+            "feed_unseen_count_1": "{{count}} حديث",
+            "feed_unseen_count_2": "{{count}} حديثان",
+            "feed_unseen_count_3": "{{count}} حديثون",
+            "feed_unseen_count_4": "{{count}} حديثون",
+            "feed_unseen_count_5": "{{count}} حديثة"
         },
         "user_menu": {
             "explore": "تصفح",
@@ -104,8 +116,11 @@
         "page_title": "تحميل أخر الألعاب المستقلة",
         "to_follow": {
             "refresh_button": "تحديث للمزيد...",
-            "dismiss_tooltip": "لا تقترح المزيد"
-        }
+            "dismiss_tooltip": "لا تقترح المزيد",
+            "created_projects": "أنشئت {{project_list}}",
+            "empty_results": "ليس لدينا أي إقتراحات حالياً. تحقق لاحقاً"
+        },
+        "meta_description": "itch.io طريقة سهل لإيجاد وتحميل وتوزيع الألعاب المستقلة أونلاين. حتى إذا كنت مطوراً تريد رفع لعبتك أو مجرد شخص ما يُريد شيئاً جديد لتجربته، itch.io يوفره لك."
     },
     "misc": {
         "classifications": {
@@ -116,7 +131,8 @@
             "other": "متنوع",
             "tool": "الأدوات",
             "comic": "القصص المصورة",
-            "book": "الكتب"
+            "book": "الكتب",
+            "physical_game": "الألعاب الجسدية"
         },
         "accessibility_features": {
             "colorblind": "مناسب لعمى الألوان",
@@ -130,11 +146,149 @@
         },
         "inputs": {
             "keyboard": "لوحة المفاتيح",
-            "mouse": "الفأرة"
+            "mouse": "الفأرة",
+            "gamepad": "ذراع التحكم (آي شئ)",
+            "joystick": "عصا التحكم",
+            "touchscreen": "شاشة لمسية",
+            "voice": "تحكم صوتي",
+            "accelerometer": "المُسارع",
+            "phone": "هاتف ذكي",
+            "dance_pad": "لوح الرقص",
+            "midi_controller": "متحكم ميدي"
         },
         "forms": {
             "required": "مطلوب",
-            "save": "حفظ"
+            "save": "حفظ",
+            "email_address": "البريد الإلكتروني",
+            "submit": "تقديم",
+            "optional": "إختياري",
+            "search": "البحث",
+            "form_errors": "من فضلك تحقق من المعلومات المُقدمة"
+        },
+        "multiplayer_features": {
+            "local": "اللعب المتعدد المحلي",
+            "server": "اللعب المتعدد المعتمد علي السيرفر",
+            "adhoc": "اللعب المتعدد المخصص شبكياً"
+        },
+        "durations": {
+            "seconds": "ثواني قليلة",
+            "minutes": "عدة دقائق",
+            "half_hour": "حوالى نصف ساعة",
+            "hour": "حوالى ساعة",
+            "hours": "عدة ساعات",
+            "days": "أيام أو أكثر"
+        },
+        "page_number": "الصفحة {{page_number}}",
+        "follow_button": {
+            "follow_username": "تابع {{username}}",
+            "follow": "تابع",
+            "following_username": "تتابع {{username}}",
+            "following": "تتابعه",
+            "unfollow_username": "إلغاء متابعة {{username}}",
+            "unfollow": "إلغاء المتابعة"
+        },
+        "filter_when": {
+            "last_day": "أخر يوم",
+            "last_7_days": "آخر 7 أيام",
+            "last_30_days": "آخر 30 يومًا"
+        },
+        "platforms": {
+            "web": "الويب"
+        },
+        "filter_price": {
+            "free": "مجانية",
+            "on_sale": "يباع",
+            "paid": "مدفوع"
+        },
+        "pager": {
+            "next_page": "الصفحة التالية",
+            "prev": "السابقة",
+            "next": "التالية",
+            "current_page_of_total": "الصفحة {{current_page}} من {{total_pages}}",
+            "previous_page": "الصفحة السابقة",
+            "first_page": "الصفحة الأولي"
+        },
+        "collection_button": {
+            "add_to_collection": "أضف إلي مجموعة"
+        },
+        "lightboxes": {
+            "close": "اغلاق"
+        },
+        "countdown": {
+            "years": "سنين",
+            "months": "شهور",
+            "days": "أيام",
+            "hours": "ساعات",
+            "minutes": "دقائق",
+            "seconds": "ثواني"
+        },
+        "project_visibility": {
+            "restricted": "محظور",
+            "published": "نشرت",
+            "draft": "مسودة",
+            "public": "للعامة"
+        },
+        "view_more": "عرض المزيد",
+        "dismiss": "رفض",
+        "release_statuses": {
+            "released": "تم إصداره",
+            "in_development": "قيد التطوير",
+            "on_hold": "قيد اﻹنتظار",
+            "canceled": "ملغي",
+            "prototype": "نموذج مبدئي"
+        },
+        "errors": {
+            "server_error": "فشل السرفر في الرد، من فضلك حاول مرة أخري لاحقا"
+        },
+        "more_ellip": "المزيد…",
+        "loading_more_ellip": "تحميل المزيد…"
+    },
+    "blog": {
+        "all_posts": "كل المنشورات",
+        "updates": "التحديثات",
+        "digest": "ملخص",
+        "empty_message": "لا يبدو انه يوجد اية منشورات هنا",
+        "tag_filter": "التصفية إلى {{tag}}. <a>محو العلامة</a>"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "سجل الدخول إلي حساب itch.io",
+        "login_form": {
+            "username_or_email": "اسم المستخدم أو البريد الالكتروني",
+            "password": "كلمة المرور",
+            "forgot_password": "نسيت كلمة المرور",
+            "create_account": "إنشاء حساب",
+            "or_log_in_with_another_site": "او سجل الدخول من موقع أخر",
+            "or": "أو",
+            "log_in_button": "تسجيل الدخول"
+        },
+        "looking_for_something_you_bought": "هل تبحث عن شئ أشتريته؟",
+        "create_a_new_account": "إنشاء حساب جديد",
+        "intent": {
+            "community": "تحتاج لتسجيل الدخول لكي تشارك في مجتمعات itch.io. انشاء الحساب الجديد لا يستغرق سوي بضع دقائق.",
+            "comment": "تحتاج إلي حساب علي itch.io قبل امكانية تركك لتعليق.",
+            "rate_game": "ستحتاج إلي حساب علي itch.io قبل أن تتمكن من تقيم اللعبة.",
+            "follow": "تحتاج إلي حساب علي itch.io قبل أستطاعتك متابعة شخص ما.",
+            "follow_username": "ستحتاج حساب علي itch.io قبل متابعتك ل<1>{{username}}</1>.",
+            "collection": "تحتاج إلي حساب علي itch.io قبل إمكانية الإضافة إلي مجموعة.",
+            "jam_submit": "تحتاج إلي حساب علي itch.io قبل إمكانية التقديم إلي إحدي الكوم.",
+            "claim_object": "من فضلك سجل الدخول أو قم بإنشاء حساب لكي تحصل علي {{noun}}",
+            "recent_purchases": "سجل الدخول لكي تربط إي مشتريات قمت بطلبها."
+        },
+        "no_account_prompt": "ليس لديك حساب؟ <1>أنشئ حسابًا</1>",
+        "page_title": "تسجيل الدخول",
+        "you_are_logged_out": "لقد سجلت الخروج",
+        "welcome_back": "مرحباً بعودتك!",
+        "welcome_to_itchio": "مرحبا بك في itch.io!",
+        "errors": {
+            "accept_terms": "يجب عليك قبول شروط الخدمة"
+        }
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "إنشاء حساب علي itch.io",
+        "register_form": {
+            "create_account": "إنشاء الحساب",
+            "already_have_account": "أو لديك بالفعل حساب؟",
+            "log_in": "تسجيل الدخول"
         }
     }
 }
