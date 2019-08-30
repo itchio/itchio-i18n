@@ -952,7 +952,8 @@
                 "submissions_due_in": "Einsendungen sind einzureichen bis",
                 "voting_ends_in": "Abstimmungen enden in"
             },
-            "submission_is_closed_for_voting": "Einsendungen sind geschlossen und die Abstimmungen sind nun im Gange"
+            "submission_is_closed_for_voting": "Einsendungen sind geschlossen und die Abstimmungen sind nun im Gange",
+            "you_can_now_rate_entries": "Du kannst jetzt Einträge auf der <a>Einsendungen-Seite</a> bewerten"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Es gibt bisher keine Einsendungen",
@@ -1046,7 +1047,8 @@
                 "save_rating": "Bewertung speichern",
                 "you_havent_rated_this_submission_yet": "Du hast diese Eisendung bisher nicht bewertet.",
                 "you_just_voted": "Du hast abgestimmt.",
-                "you_voted_ago": "Du hast am {{timestamp}} abgestimmt."
+                "you_voted_ago": "Du hast am {{timestamp}} abgestimmt.",
+                "disqualified_message": "Dieser Eintrag ist disqualifiziert und kann deswegen nicht bewertet werden."
             }
         },
         "screenshots": {
