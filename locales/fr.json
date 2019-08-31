@@ -579,7 +579,8 @@
             "title": "Titre",
             "body": "Corps",
             "topic_tag": "Tag",
-            "your_moderators_are": "itch.io ne modère pas ces forums, vos modérateurs sont :"
+            "your_moderators_are": "itch.io ne modère pas ces forums, vos modérateurs sont :",
+            "page_title": "Poster un nouveau sujet"
         },
         "topic_list": {
             "list_header_last_post": "Dernier message",
@@ -603,7 +604,12 @@
             "stats": {
                 "topics": "Sujets"
             },
-            "list_header_last_topic": "Dernier sujet"
+            "list_header_last_topic": "Dernier sujet",
+            "search_community_label": "Rechercher",
+            "recent_posts_header": "Derniers messages"
+        },
+        "misc": {
+            "new_topic_button": "Nouveau sujet"
         }
     },
     "buy_form": {
@@ -756,7 +762,7 @@
         "dashboard": "Tableau de bord",
         "intro_text": "Êtes-vous créateur·trice ? Mettez en ligne votre premier jeu",
         "project_header": {
-            "analytics": "Analyses de données"
+            "analytics": "Analyses"
         }
     },
     "jams": {
@@ -1126,7 +1132,8 @@
         "edit_saved_cards": "Modifier les cartes enregistrées",
         "new_card": "Nouvelle carte",
         "enter_your_password_to_use_your_card": "Veuillez saisir votre mot de passe pour utiliser votre carte",
-        "password": "Mot de passe"
+        "password": "Mot de passe",
+        "card_ending_last4": "Termine dans {{last4}}"
     },
     "game_download": {
         "share_and_follow": "Partager & Suivre",
