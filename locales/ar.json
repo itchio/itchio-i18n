@@ -288,7 +288,21 @@
         "register_form": {
             "create_account": "إنشاء الحساب",
             "already_have_account": "أو لديك بالفعل حساب؟",
-            "log_in": "تسجيل الدخول"
-        }
+            "log_in": "تسجيل الدخول",
+            "link_product": "شرائك لـ<1>{{product}}</1> سيرتبط بحسابك تلقائيًا بعد تسجيلك.",
+            "accept_tos": "أنا أقبل <1>شروط الخدمة</1>",
+            "digest_signup": "سجلني في نشرة أخبار itch.io النصف شهرية",
+            "interest_gamer": "أنا مهتم بتحميل ولعب الألعاب علي itch.io",
+            "interest_developer": "أنا مهتم بنشر المحتوي علي itch.io",
+            "account_preferences_info": "يمكنك تغيير ردك على تلك الأسئلة لاحقاً، تُستخدم تلك الأسئلة لكي يعرف itch.io كيف يعرض نفسه لك.",
+            "about_you": "عنك",
+            "your_email_address": "بريدك الإلكتروني",
+            "password": "كلمة المرور",
+            "repeat_password": "تأكيد كلمة المرور",
+            "url_preview": "ستكون صفحتك الشخصية كالتالي",
+            "username": "أسم المستخدم",
+            "other_registration_methods": "طرق أخري لإنشاء حساب"
+        },
+        "page_title": "تسجيل الحساب"
     }
 }
