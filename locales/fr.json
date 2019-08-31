@@ -607,7 +607,11 @@
             },
             "list_header_last_topic": "Dernier sujet",
             "search_community_label": "Rechercher",
-            "recent_posts_header": "Derniers messages"
+            "recent_posts_header": "Derniers messages",
+            "topics_count": "{{count}} sujet",
+            "topics_count_plural": "{{count}} sujets",
+            "create_first_topic_button": "Créer le premier sujet",
+            "empty_message": "Il n'y a aucun sujet"
         },
         "misc": {
             "new_topic_button": "Nouveau sujet"
