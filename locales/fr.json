@@ -352,7 +352,7 @@
     },
     "game": {
         "empty_page": "C'est bien vide par ici ...",
-        "more_information": "Plus d'information",
+        "more_information": "Plus d'informations",
         "install_instructions": "Instructions d'installation",
         "download_header": "Télécharger",
         "unavailable": "Ce {{game_noun}} est actuellement indisponible",
@@ -449,7 +449,7 @@
             "rate": "Noter",
             "rate_this_noun": "Noter ce {{noun}}",
             "rate_for_jam": "Noter pour {{jam_title}}",
-            "submission_to_jam": "Soumission à {{jam_title}}",
+            "submission_to_jam": "Participation à {{jam_title}}",
             "related_games": "Vous aimerez aussi",
             "related_games_short": "Voir aussi",
             "ownership": {
