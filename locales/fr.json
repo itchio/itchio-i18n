@@ -500,7 +500,8 @@
             "report_received_header": "Signalement reçu",
             "description_label": "Description",
             "reason_label": "Raison",
-            "reason_other": "Autre"
+            "reason_other": "Autre",
+            "form_description": "Merci de completer ce formulaire si vous voulez contacter l'équipe de modération itch.io à propos du contenu de cette page. Votre signalement peut être partagé avec le créateur de la page si nécessaire."
         },
         "password_required": {
             "header": "Un mot de passe est requis pour accéder à cette page"
