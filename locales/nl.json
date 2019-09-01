@@ -286,6 +286,12 @@
         "tag_filter": "Gefilterd op {{tag}}. <a>Verwijder tag</a>"
     },
     "user_login": {
-        "log_in_to_your_itchio_account": "Op je itch.io account inloggen"
+        "log_in_to_your_itchio_account": "Op je itch.io account inloggen",
+        "login_form": {
+            "username_or_email": "Gebruikersnaam of email",
+            "password": "Wachtwoord",
+            "forgot_password": "Wachtwoord vergeten",
+            "create_account": "Account aanmaken"
+        }
     }
 }
