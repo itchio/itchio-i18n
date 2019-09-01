@@ -174,10 +174,14 @@
             "tutorial": "Interactieve tutorial",
             "blind": "Blind-vriendelijk",
             "subtitles": "Ondertiteling",
-            "configurable_controls": "Aanpasbare besturing"
+            "configurable_controls": "Aanpasbare besturing",
+            "highcontrast": "Hoog contrast",
+            "one_button": "Eén knop",
+            "textless": "Zonder tekst"
         },
         "multiplayer_features": {
-            "local": "Lokale multiplayer"
+            "local": "Lokale multiplayer",
+            "server": "Server gebaseerde netwerk multiplayer"
         }
     }
 }
