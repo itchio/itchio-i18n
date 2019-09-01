@@ -308,6 +308,7 @@
             "jam_submit": "Je hebt een account op itch.io nodig zodat je een spel voor een jam in kan sturen.",
             "claim_object": "Log alsjeblieft in of maak een account om de {{noun}} te claimen",
             "recent_purchases": "Log in om aankopen die je recent hebt gemaakt te kunnen koppelen."
-        }
+        },
+        "no_account_prompt": "Heb je nog geen account? <1>Maak een account</1>"
     }
 }
