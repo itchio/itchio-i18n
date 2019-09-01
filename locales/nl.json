@@ -192,8 +192,16 @@
             "accelerometer": "Accelerometer",
             "phone": "Smartphone",
             "joystick": "Joystick",
-            "dance_pad": "Dans mat",
+            "dance_pad": "Dansmat",
             "touchscreen": "Touchscreen"
+        },
+        "forms": {
+            "save": "Opslaan",
+            "email_address": "Email-adres",
+            "submit": "Verzenden",
+            "optional": "Optioneel",
+            "search": "Zoeken",
+            "form_errors": "Controleer alsjeblieft de informatie die je hebt ingevuld"
         }
     }
 }
