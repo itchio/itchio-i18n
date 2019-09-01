@@ -218,7 +218,9 @@
             "follow_username": "Volg {{username}}",
             "follow": "Volg",
             "unfollow_username": "Ontvolg {{username}}",
-            "unfollow": "Ontvolg"
+            "unfollow": "Ontvolg",
+            "following_username": "{{username}} gevolgd",
+            "following": "Gevolgd"
         },
         "filter_when": {
             "last_day": "Afgelopen Dag",
@@ -234,10 +236,53 @@
             "next_page": "Volgende pagina",
             "prev": "Vorige",
             "next": "Volgende",
-            "current_page_of_total": "Pagina {{current_page}} van {{total_pages}}"
-        }
+            "current_page_of_total": "Pagina {{current_page}} van {{total_pages}}",
+            "previous_page": "Vorige pagina",
+            "first_page": "Eerste pagina"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "collection_button": {
+            "add_to_collection": "Toevoegen aan verzameling"
+        },
+        "lightboxes": {
+            "close": "Sluiten"
+        },
+        "countdown": {
+            "years": "jaren",
+            "months": "maanden",
+            "days": "dagen",
+            "hours": "uren",
+            "minutes": "minuten",
+            "seconds": "seconden"
+        },
+        "project_visibility": {
+            "restricted": "Afgeschermd",
+            "published": "Gepubliceerd",
+            "draft": "Concept",
+            "public": "Openbaar"
+        },
+        "view_more": "Meer zien",
+        "dismiss": "Negeren",
+        "release_statuses": {
+            "released": "Uitgegeven",
+            "in_development": "In ontwikkeling",
+            "on_hold": "Gepauzeerd",
+            "canceled": "Stopgezet",
+            "prototype": "Prototype"
+        },
+        "errors": {
+            "server_error": "Server heeft niet gereageerd, probeer het later opnieuw"
+        },
+        "more_ellip": "Meer…",
+        "loading_more_ellip": "Meer aan het laden…"
     },
     "blog": {
-        "all_posts": "Alle berichten"
+        "all_posts": "Alle berichten",
+        "updates": "Updates",
+        "digest": "Samenvatting",
+        "empty_message": "Er lijken hier geen berichten te zijn",
+        "tag_filter": "Gefilterd op {{tag}}. <a>Verwijder tag</a>"
     }
 }
