@@ -821,7 +821,11 @@
         "dont_see_something_you_like_header": "Vous ne trouvez rien à votre goût ?",
         "browse_in_progress": "En cours",
         "browse_top_past_jams": "Jams populaires terminées",
-        "count_joined": "{{count}} inscrit·es"
+        "count_joined": "{{count}} inscrit·es",
+        "games_created": "<s>{{count}} jeu</s> a été créé pour des jams hébergées sur itch.io.",
+        "games_created_plural": "<s>{{count}} jeux</s> ont été créés pour des jams hébergées sur itch.io.",
+        "host_a_jam_button": "Héberger une jam",
+        "browse_upcoming_this_month": "À venir ce mois-ci"
     },
     "feed": {
         "filter_own_activity_tab": "Ma propre activité",
