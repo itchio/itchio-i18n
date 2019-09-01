@@ -765,7 +765,7 @@
                 "hide_toggle": "Masquer ce fichier et empêcher son téléchargement",
                 "demo_toggle": "Ce fichier est une démo et peut être téléchargé gratuitement",
                 "set_price_toggle": "Définir un prix différent pour ce fichier",
-                "change_display_name_button": "Changer le nom d'affichage"
+                "change_display_name_button": "Changer le nom affiché"
             }
         },
         "stats": {
