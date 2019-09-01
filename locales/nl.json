@@ -302,7 +302,8 @@
             "community": "Je moet inloggen om deel te nemen in communities op itch.io. Een account maken is gratis en zo gedaan.",
             "comment": "Je hebt een account op itch.io nodig voordat je een reactie achter kan laten.",
             "rate_game": "Je hebt een account op itch.io nodig voordat je een spel kan beoordelen.",
-            "follow": "Je hebt een account op itch.io nodig voordat je iemand kan volgen."
+            "follow": "Je hebt een account op itch.io nodig voordat je iemand kan volgen.",
+            "follow_username": "Je hebt een account op itch.io nodig om {{username}} te kunnen  volgen."
         }
     }
 }
