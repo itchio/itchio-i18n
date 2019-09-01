@@ -766,7 +766,8 @@
                 "demo_toggle": "Ce fichier est une démo et peut être téléchargé gratuitement",
                 "set_price_toggle": "Définir un prix différent pour ce fichier",
                 "change_display_name_button": "Changer le nom affiché"
-            }
+            },
+            "community_field_info": "Construisez une communauté autour de votre projet en laissant des gens poster sur votre page."
         },
         "stats": {
             "downloads": "Téléchargements",
