@@ -767,7 +767,9 @@
                 "set_price_toggle": "Définir un prix différent pour ce fichier",
                 "change_display_name_button": "Changer le nom affiché"
             },
-            "community_field_info": "Développez une communauté autour de votre projet en laissant des gens poster sur votre page."
+            "community_field_info": "Développez une communauté autour de votre projet en laissant des gens poster sur votre page.",
+            "community_comments_info": "Ajouter un fil de commentaires imbriqué au bas de la page du projet",
+            "community_discussion_board_info": "Ajouter une page de communauté délicate présentant des catégories, des articles, des réponses et d'avantage"
         },
         "stats": {
             "downloads": "Téléchargements",
