@@ -1149,7 +1149,8 @@
         "check_out_more_from_jam_title": "En voir plus de {{jam_title}}",
         "alternate_download": {
             "enable_alternate_download_mode": "Activer le mode de téléchargement alternatif",
-            "title": "Mode de téléchargement alternatif"
+            "title": "Mode de téléchargement alternatif",
+            "region_message": "Certaines régions sont connues pour bloquer le CDN de itch.io. Si vos téléchargements ne démarrent pas, vous pouvez essayer d'activer le mode de téléchargement alternatif avant de réessayer."
         },
         "purchase": {
             "link_purchase_links": "<1>Créer un compte</1> ou <2>Se connecter à itch.io</2> pour lier cet achat instantanément.",
