@@ -319,6 +319,12 @@
         }
     },
     "user_register": {
-        "create_an_account_on_itchio": "Maak een account op itch.io"
+        "create_an_account_on_itchio": "Maak een account op itch.io",
+        "register_form": {
+            "create_account": "Maak een account",
+            "already_have_account": "of heb je al een account?",
+            "log_in": "Inloggen",
+            "link_product": "Jouw aankoop van {{product}} zal automatish aan je account worden gekoppeld nadat je registreerd."
+        }
     }
 }
