@@ -202,7 +202,8 @@
             "submit": "Verzenden",
             "optional": "Optioneel",
             "search": "Zoeken",
-            "form_errors": "Controleer alsjeblieft de informatie die je hebt ingevuld"
+            "form_errors": "Controleer alsjeblieft de informatie die je hebt ingevuld",
+            "required": "Vereist"
         },
         "durations": {
             "seconds": "Een paar seconden",
@@ -211,6 +212,10 @@
             "hour": "Ongeveer een uur",
             "hours": "Een paar uur",
             "days": "Dagen of meer"
+        },
+        "page_number": "Pagina {{page_number}}",
+        "follow_button": {
+            "follow_username": "Volg {{username}}"
         }
     }
 }
