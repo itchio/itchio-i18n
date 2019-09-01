@@ -1159,7 +1159,8 @@
             "thank_you_for_donating": "Merci d'avoir fait un don pour {{product_title}}.",
             "thank_you_for_donating_author": "Merci d'avoir donné pour {{product_title}} de {{author}}.",
             "unique_url_for_your_payment": "Cette page a un URL unique pour votre paiement.",
-            "save_this_purchase_to_your_account": "Enregistrez cet achat dans votre compte"
+            "save_this_purchase_to_your_account": "Enregistrez cet achat dans votre compte",
+            "receipt_support_information": "Vous devriez aussi recevoir un e-mail avec un lien vers cette page. Si vous perdez ce lien, vous pouvez demandez à le recevoir depuis la <a>page de support</a>."
         },
         "preorder_instructions": "Ce projet comprend des fichiers qui ne sont pas encore publiés. Revenez sur cette page quand le créateur aura publié les fichiers pour pouvoir les télécharger.",
         "app_banner": {
@@ -1184,6 +1185,9 @@
         "already_own": "Il semblerait que vous possédiez déjà ceci",
         "access_existing_copy": "Vous ne pouvez pas réclamer une autre copie, mais vous pouvez accéder à celle déjà existante.",
         "claim_external_key": "Demander une clé {{key_type}}",
-        "claim_external_key_instructions": "Cliquez sur le bouton pour la demander."
+        "claim_external_key_instructions": "Cliquez sur le bouton pour la demander.",
+        "email_capture": {
+            "provide_email_instructions": "Entrez votre adresse e-mail pour la lier à votre achat, afin de le retrouver si jamais vous perdez cette page."
+        }
     }
 }
