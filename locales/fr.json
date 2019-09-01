@@ -1052,7 +1052,7 @@
             "ranked_with_vote_count": "Classé {{ordinal_rank}} avec {{count}} vote",
             "ranked_with_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes",
             "results_header": "Résultats",
-            "score_information": "Le score est ajusté du score brut par le nombre médian d'évaluations par jeux dans la jam."
+            "score_information": "Le score est le score brut ajusté sur le nombre médian de notes par jeux de cette jam."
         },
         "screenshots": {
             "empty_message": "Aucune capture d'écran n'a encore été mise en ligne",
