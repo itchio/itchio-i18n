@@ -1165,7 +1165,8 @@
             "access_latest_files_from_this_page": "Vous pouvez toujours accéder aux derniers fichiers depuis cette page.",
             "payment_summary": "Vous avez acheté ce produit le {{payment_date}} pour {{payment_price}}.",
             "payment_summary_with_email": "Vous l'avez acheté le {{payment_date}} pour {{payment_price}} avec l'adresse email {{email_address}}.",
-            "percent_off": "{{percent}} % de réduction"
+            "percent_off": "{{percent}} % de réduction",
+            "linked_user_message": "Cet achat est lié au compte {{username}}."
         },
         "preorder_instructions": "Ce projet comprend des fichiers qui ne sont pas encore publiés. Revenez sur cette page quand le créateur aura publié les fichiers pour pouvoir les télécharger.",
         "app_banner": {
