@@ -181,7 +181,7 @@
         },
         "multiplayer_features": {
             "local": "Lokale multiplayer",
-            "server": "Server gebaseerde netwerk multiplayer"
+            "server": "Server-gebaseerde netwerkmultiplayer"
         }
     }
 }
