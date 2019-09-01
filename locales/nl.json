@@ -23,7 +23,7 @@
             "browse": "Bladeren",
             "browse_games": "Door Games bladeren",
             "game_jams": "Game Jams",
-            "community": "Gemeenschap",
+            "community": "Community",
             "jams": "Jams",
             "dashboard": "Overzicht",
             "notifications_count": "{{count}} notificatie",
@@ -71,14 +71,14 @@
         "top_sellers": "Best verkocht",
         "recommendations_based_on": "Gebaseerd op dingen die je gekocht, gedownload en beoordeeld hebt",
         "view_more": "Meer bekijken",
-        "fresh_games_description": "Wordt voortdurend bijgewerkt met de laatste games op itch.io",
+        "fresh_games_description": "Wordt voortdurend bijgewerkt met de recentste games op itch.io",
         "people_to_follow": "Te Volgen Personen",
         "view_all_games_on_sale": "Bekijk alle spellen in de aanbieding",
         "more_featured_games": "Meer Uitgelichte Spellen",
         "game_dev_on_sale": "Spelontwikkeling-hulpmiddelen <1>in de aanbieding</1>",
         "view_all_on_sale": "Bekijk alles in de aanbieding",
         "download_app": "Download app",
-        "people_to_follow_description": "Hier zijn een paar gebruikers die misschien interessant zijn om te volgen. <a>Waarom volgen?</a>",
+        "people_to_follow_description": "Hier zijn een paar accounts die je misschien interessant vindt om te volgen. <a>Waarom volgen?</a>",
         "browse": "Bladeren",
         "view_something_random": "Bekijk iets willekeurigs",
         "view_all_games": "Bekijk alle spellen",
@@ -90,7 +90,14 @@
         "recommended_for_you": "Aanbevolen voor jou",
         "fresh_games": "Nieuwe spellen",
         "featured_jams": "Uitgelichte jams",
-        "view_all_jams": "Bekijk alle jams"
+        "view_all_jams": "Bekijk alle jams",
+        "latest_featured_games": "Recent Uitgelichte Spellen",
+        "filtering_platform": "Alle spellen gefilterd op {{platform_name}}",
+        "view_all_platforms": "Bekijk alle platformen",
+        "nav": {
+            "devlogs": "Devlogs",
+            "community": "Community"
+        }
     },
     "game": {
         "name_your_own_price": "Noem je eigen prijs",
