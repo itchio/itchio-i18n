@@ -291,7 +291,8 @@
             "username_or_email": "Gebruikersnaam of email",
             "password": "Wachtwoord",
             "forgot_password": "Wachtwoord vergeten",
-            "create_account": "Account maken"
+            "create_account": "Account maken",
+            "or_log_in_with_another_site": "Inloggen via een andere website"
         }
     }
 }
