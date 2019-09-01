@@ -97,7 +97,8 @@
         "nav": {
             "devlogs": "Devlogs",
             "community": "Community"
-        }
+        },
+        "browse_content_type": "Blader door {{content_type}}"
     },
     "game": {
         "name_your_own_price": "Noem je eigen prijs",
