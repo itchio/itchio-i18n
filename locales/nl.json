@@ -170,7 +170,12 @@
             "tool": "Hulpmiddelen"
         },
         "accessibility_features": {
-            "colorblind": "Kleurenblind vriendelijk"
+            "colorblind": "Kleurenblind-vriendelijk",
+            "tutorial": "Interactieve tutorial",
+            "blind": "Blind-vriendelijk"
+        },
+        "multiplayer_features": {
+            "local": "Lokale multiplayer"
         }
     }
 }
