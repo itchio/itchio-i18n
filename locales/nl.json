@@ -105,7 +105,8 @@
         "intro": "<s>itch.io</s> is een eenvoudige manier om indie-spellen gratis online te vinden en te delen.",
         "intro_cta": "<1>Voeg je spel toe</1> of <2>Lees the FAQ</2>",
         "html5_games": "HTML5-spellen",
-        "page_title": "Download de recentste indie-spellen"
+        "page_title": "Download de recentste indie-spellen",
+        "meta_description": "itch.io is een eenvoudige manier om games online te vinden, te downloaden, en te verspreiden. Of je nou een ontwikkelaar bent die zijn spel wil uploaden of gewoon iemand die op zoek is naar iets nieuws om te spelen, itch.io heeft het."
     },
     "game": {
         "name_your_own_price": "Noem je eigen prijs",
