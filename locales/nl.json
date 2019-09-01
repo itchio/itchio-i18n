@@ -303,7 +303,7 @@
             "comment": "Je hebt een account op itch.io nodig voordat je een reactie achter kan laten.",
             "rate_game": "Je hebt een account op itch.io nodig voordat je een spel kan beoordelen.",
             "follow": "Je hebt een account op itch.io nodig voordat je iemand kan volgen.",
-            "follow_username": "Je hebt een account op itch.io nodig om {{username}} te kunnen  volgen."
+            "follow_username": "Je hebt een account op itch.io nodig om {{username}} te kunnen volgen."
         }
     }
 }
