@@ -751,7 +751,7 @@
                 "embed_pricing_info": "Paramétrer un prix minimum restreindra seulement l'accès aux fichiers téléchargeables. Le contenu intégré reste disponible gratuitement.",
                 "minimum_price_label": "Prix minimum",
                 "minimum_price_info": "Prix minimum à payer pour accéder au téléchargement du jeu",
-                "default_donation_amount_info": "Montant de don par défaut"
+                "default_donation_amount_info": "Montant par défaut du don"
             }
         },
         "stats": {
