@@ -54,7 +54,8 @@
             "library": "Mijn verzameling",
             "feed": "Mijn feed",
             "account_menu_tooltip": "Account-menu",
-            "view_profile": "Profiel bekijken"
+            "view_profile": "Profiel bekijken",
+            "game_jams": "Game jams"
         }
     },
     "index": {
@@ -75,7 +76,9 @@
         "view_all_games_on_sale": "Bekijk alle spellen in de aanbieding",
         "more_featured_games": "Meer Uitgelichte Spellen",
         "game_dev_on_sale": "Spelontwikkeling-hulpmiddelen <1>in de aanbieding</1>",
-        "view_all_on_sale": "Bekijk alles in de aanbieding"
+        "view_all_on_sale": "Bekijk alles in de aanbieding",
+        "download_app": "Download app",
+        "people_to_follow_description": "Hier zijn een paar gebruikers die misschien interessant zijn om te volgen. <a>Waarom volgen?</a>"
     },
     "game": {
         "name_your_own_price": "Noem je eigen prijs",
