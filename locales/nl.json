@@ -190,7 +190,9 @@
             "mouse": "Muis",
             "voice": "Stembesturing",
             "accelerometer": "Accelerometer",
-            "phone": "Smartphone"
+            "phone": "Smartphone",
+            "joystick": "Joystick",
+            "dance_pad": "Dans mat"
         }
     }
 }
