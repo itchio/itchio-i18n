@@ -172,7 +172,9 @@
         "accessibility_features": {
             "colorblind": "Kleurenblind-vriendelijk",
             "tutorial": "Interactieve tutorial",
-            "blind": "Blind-vriendelijk"
+            "blind": "Blind-vriendelijk",
+            "subtitles": "Ondertiteling",
+            "configurable_controls": "Aanpasbare besturing"
         },
         "multiplayer_features": {
             "local": "Lokale multiplayer"
