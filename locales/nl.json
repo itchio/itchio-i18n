@@ -193,7 +193,8 @@
             "phone": "Smartphone",
             "joystick": "Joystick",
             "dance_pad": "Dansmat",
-            "touchscreen": "Touchscreen"
+            "touchscreen": "Touchscreen",
+            "midi_controller": "MIDI-controller"
         },
         "forms": {
             "save": "Opslaan",
@@ -202,6 +203,14 @@
             "optional": "Optioneel",
             "search": "Zoeken",
             "form_errors": "Controleer alsjeblieft de informatie die je hebt ingevuld"
+        },
+        "durations": {
+            "seconds": "Een paar seconden",
+            "minutes": "Een paar minuten",
+            "half_hour": "Ongeveer een halfuur",
+            "hour": "Ongeveer een uur",
+            "hours": "Een paar uur",
+            "days": "Dagen of meer"
         }
     }
 }
