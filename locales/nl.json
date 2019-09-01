@@ -304,7 +304,8 @@
             "rate_game": "Je hebt een account op itch.io nodig voordat je een spel kan beoordelen.",
             "follow": "Je hebt een account op itch.io nodig voordat je iemand kan volgen.",
             "follow_username": "Je hebt een account op itch.io nodig om {{username}} te kunnen volgen.",
-            "collection": "Je hebt een account op itch.io nodig voordat je iets aan een collectie toe kan voegen."
+            "collection": "Je hebt een account op itch.io nodig voordat je iets aan een collectie toe kan voegen.",
+            "jam_submit": "Je hebt een account op itch.io nodig om een spel in te leveren voor een jam."
         }
     }
 }
