@@ -156,5 +156,10 @@
             "multiplayer": "Multiplayer",
             "player_count": "Aantal spelers"
         }
+    },
+    "misc": {
+        "classifications": {
+            "game": "Spellen"
+        }
     }
 }
