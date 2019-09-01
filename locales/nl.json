@@ -166,7 +166,8 @@
             "comic": "Stripverhalen",
             "book": "Boeken",
             "physical_game": "Fysieke spellen",
-            "soundtrack": "Soundtracks"
+            "soundtrack": "Soundtracks",
+            "tool": "Hulpmiddelen"
         },
         "accessibility_features": {
             "colorblind": "Kleurenblind vriendelijk"
