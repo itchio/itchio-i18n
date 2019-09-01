@@ -326,7 +326,8 @@
             "log_in": "Inloggen",
             "link_product": "Jouw aankoop van {{product}} zal automatisch aan je account worden gekoppeld nadat je geregistreerd bent.",
             "accept_tos": "Ik accepteer de <1>Gebruikersvoorwaarden</1>",
-            "digest_signup": "Meld me aan voor de tweemaandelijkse itch.io-nieuwsbrief"
+            "digest_signup": "Meld me aan voor de tweemaandelijkse itch.io-nieuwsbrief",
+            "interest_gamer": "Ik ben geinteresseerd  in het spelen of downloaden van games op itch.io"
         }
     }
 }
