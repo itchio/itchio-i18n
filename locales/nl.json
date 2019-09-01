@@ -292,14 +292,17 @@
             "password": "Wachtwoord",
             "forgot_password": "Wachtwoord vergeten",
             "create_account": "Account maken",
-            "or_log_in_with_another_site": "Of log in via een andere website"
+            "or_log_in_with_another_site": "Of log in via een andere website",
+            "or": "of",
+            "log_in_button": "Inloggen"
         },
         "looking_for_something_you_bought": "Zoek je iets wat je gekocht hebt?",
         "create_a_new_account": "Maak een nieuw account",
         "intent": {
             "community": "Je moet inloggen om deel te nemen in communities op itch.io. Een account maken is gratis en zo gedaan.",
             "comment": "Je hebt een account op itch.io nodig voordat je een reactie achter kan laten.",
-            "rate_game": "Je hebt een account op itch.io nodig voordat je een spel kan beoordelen."
+            "rate_game": "Je hebt een account op itch.io nodig voordat je een spel kan beoordelen.",
+            "follow": "Je hebt een account op itch.io nodig om iemand te volgen."
         }
     }
 }
