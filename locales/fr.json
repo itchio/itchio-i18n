@@ -173,7 +173,7 @@
         "follow_button": {
             "follow_username": "S'abonner à {{username}}",
             "follow": "S'abonner",
-            "following_username": "Abonné à {{username}}",
+            "following_username": "Abonné·e à {{username}}",
             "following": "Abonnements",
             "unfollow_username": "Se désabonner de {{username}}",
             "unfollow": "Se désabonner"
@@ -438,7 +438,7 @@
             "follow": "S'abonner",
             "following": "Abonnements",
             "follow_username": "S'abonner à {{username}}",
-            "following_username": "Abonné à {{username}}",
+            "following_username": "Abonné·e à {{username}}",
             "add_to_collection": "Ajouter à la collection",
             "add_to_collection_short": "Collection",
             "comments": "Commentaires",
@@ -769,7 +769,7 @@
             },
             "community_field_info": "Développez une communauté autour de votre projet en laissant des gens poster sur votre page.",
             "community_comments_info": "Ajouter un fil de commentaires imbriqué au bas de la page du projet",
-            "community_discussion_board_info": "Ajouter une page de communauté délicate présentant des catégories, des articles, des réponses et d'avantage"
+            "community_discussion_board_info": "Ajouter une page de communauté dédiée avec des catégories, des articles, des réponses et bien plus"
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -805,7 +805,8 @@
         "dashboard": "Tableau de bord",
         "intro_text": "Êtes-vous créateur·trice ? Mettez en ligne votre premier jeu",
         "project_header": {
-            "analytics": "Analyses"
+            "analytics": "Analyses",
+            "edit_project": "Modifier le projet"
         }
     },
     "jams": {
@@ -815,7 +816,9 @@
         "host_your_own_jam_button": "Hébergez votre propre jam",
         "host_or_explore_links": "<1>Hébergez votre propre jam</1> ou <2>Explorez toutes les jams</2>",
         "dont_see_something_you_like_header": "Vous ne trouvez rien à votre goût ?",
-        "browse_in_progress": "En cours"
+        "browse_in_progress": "En cours",
+        "browse_top_past_jams": "Jams populaires terminées",
+        "count_joined": "{{count}} inscrit·es"
     },
     "feed": {
         "filter_own_activity_tab": "Ma propre activité",
@@ -930,7 +933,7 @@
             "you_recently_changed_your_username": "Vous avez récemment changé votre nom d'utilisateur",
             "url_description": "L'URL publique de votre compte",
             "profile_image": "Image de profil",
-            "profile_image_description": "Affiché à côté de votre nom quand vous faites une action sur le site (dimensions carrées)",
+            "profile_image_description": "Affichée à côté de votre nom quand vous faites une action sur le site (dimensions carrées)",
             "display_name": "Pseudonyme affiché",
             "display_name_description": "Nom à afficher à la place de votre nom d'utilisateur, laissez vide pour utiliser votre nom d'utilisateur",
             "website": "Site internet",
