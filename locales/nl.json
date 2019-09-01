@@ -324,7 +324,9 @@
             "create_account": "Maak een account",
             "already_have_account": "of heb je al een account?",
             "log_in": "Inloggen",
-            "link_product": "Jouw aankoop van {{product}} zal automatish aan je account worden gekoppeld nadat je registreerd."
+            "link_product": "Jouw aankoop van {{product}} zal automatisch aan je account worden gekoppeld nadat je geregistreerd bent.",
+            "accept_tos": "Ik accepteer de <1>Gebruikersvoorwaarden</1>",
+            "digest_signup": "Meld me aan voor de tweemaandelijkse itch.io-nieuwsbrief"
         }
     }
 }
