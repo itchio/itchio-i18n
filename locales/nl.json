@@ -284,5 +284,8 @@
         "digest": "Samenvatting",
         "empty_message": "Er lijken hier geen berichten te zijn",
         "tag_filter": "Gefilterd op {{tag}}. <a>Verwijder tag</a>"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Inloggen op je itch.io account"
     }
 }
