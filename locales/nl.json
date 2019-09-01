@@ -37,7 +37,8 @@
             "games": "Spellen",
             "feed_unseen_count": "{{count}} nieuwe",
             "feed_unseen_count_plural": "{{count}} nieuwe",
-            "feed": "Feed"
+            "feed": "Feed",
+            "game_assets": "Assets"
         },
         "user_menu": {
             "explore": "Verkennen",
@@ -52,7 +53,8 @@
             "recommendations": "Aanbevelingen",
             "library": "Mijn verzameling",
             "feed": "Mijn feed",
-            "account_menu_tooltip": "Account-menu"
+            "account_menu_tooltip": "Account-menu",
+            "view_profile": "Profiel bekijken"
         }
     },
     "index": {
