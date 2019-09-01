@@ -215,7 +215,29 @@
         },
         "page_number": "Pagina {{page_number}}",
         "follow_button": {
-            "follow_username": "Volg {{username}}"
+            "follow_username": "Volg {{username}}",
+            "follow": "Volg",
+            "unfollow_username": "Ontvolg {{username}}",
+            "unfollow": "Ontvolg"
+        },
+        "filter_when": {
+            "last_day": "Afgelopen Dag",
+            "last_7_days": "Afgelopen 7 dagen",
+            "last_30_days": "Afgelopen 30 dagen"
+        },
+        "filter_price": {
+            "free": "Gratis",
+            "on_sale": "In de aanbieding",
+            "paid": "Betaald"
+        },
+        "pager": {
+            "next_page": "Volgende pagina",
+            "prev": "Vorige",
+            "next": "Volgende",
+            "current_page_of_total": "Pagina {{current_page}} van {{total_pages}}"
         }
+    },
+    "blog": {
+        "all_posts": "Alle berichten"
     }
 }
