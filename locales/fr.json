@@ -747,7 +747,7 @@
             },
             "pricing": {
                 "no_payments": "Aucun paiement",
-                "free_price_info": "Toutes personnes téléchargeant votre projet recevra une demande de donation avant d'en avoir l'accès. Elles peuvent l'ignorer gratuitement.",
+                "free_price_info": "Toute personne téléchargeant votre projet recevra une demande de donation avant d'en avoir l'accès. Elles peuvent l'ignorer gratuitement.",
                 "embed_pricing_info": "Paramétrer un prix minimum restreindra seulement l'accès aux fichiers téléchargeables. Le contenu intégré reste disponible gratuitement.",
                 "minimum_price_label": "Prix minimum",
                 "minimum_price_info": "Prix minimum à payer pour accéder au téléchargement du jeu"
