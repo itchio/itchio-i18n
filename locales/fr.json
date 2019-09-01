@@ -1180,6 +1180,9 @@
         "link_account_description": "Vous pouvez lier cette page de téléchargement à un compte itch.io pour ne jamais la perdre. Elle s'affichera aux côtés des autres fichiers que vous possédez.",
         "must_link_account_description": "Vous devez lier cette page à un compte itch.io pour pouvoir lancer le téléchargement. Les comptes sont gratuits et permettent de garder une trace des jeux collectés.",
         "get_external_key": "Obtenir une clé {{key_type}}",
-        "already_own": "Il semblerait que vous possédiez déjà ceci"
+        "already_own": "Il semblerait que vous possédiez déjà ceci",
+        "access_existing_copy": "Vous ne pouvez pas réclamer une autre copie, mais vous pouvez accéder à celle déjà existante.",
+        "claim_external_key": "Réclamer une clé {{key_type}}",
+        "claim_external_key_instructions": "Cliquez sur le bouton pour le réclamer."
     }
 }
