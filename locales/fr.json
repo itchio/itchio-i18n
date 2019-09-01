@@ -769,7 +769,9 @@
             },
             "community_field_info": "Développez une communauté autour de votre projet en laissant des gens poster sur votre page.",
             "community_comments_info": "Ajouter un fil de commentaires imbriqué au bas de la page du projet",
-            "community_discussion_board_info": "Ajouter une page de communauté dédiée avec des catégories, des articles, des réponses et bien plus"
+            "community_discussion_board_info": "Ajouter une page de communauté dédiée avec des catégories, des articles, des réponses et bien plus",
+            "add_screenshots": "Ajouter des captures d'écran",
+            "screenshots_header": "Captures d'écran"
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -806,7 +808,8 @@
         "intro_text": "Êtes-vous créateur·trice ? Mettez en ligne votre premier jeu",
         "project_header": {
             "analytics": "Analyses",
-            "edit_project": "Modifier le projet"
+            "edit_project": "Modifier le projet",
+            "metadata": "Métadonnées"
         }
     },
     "jams": {
