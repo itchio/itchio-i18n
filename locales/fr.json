@@ -756,7 +756,8 @@
                 "suggest_default_price_label": "Suggérer un prix alternatif par défaut",
                 "suggested_donation_label": "Don suggéré",
                 "suggested_price_label": "Prix suggéré",
-                "default_price_info": "Prix par défaut affiché lorsque quelqu'un souhaite acheter votre projet"
+                "default_price_info": "Prix par défaut affiché lorsque quelqu'un souhaite acheter votre projet",
+                "price_too_low_error": "Merci de donner un montant supérieur au prix du produit"
             },
             "uploads": {
                 "delete_file_button": "Supprimer le fichier",
