@@ -78,7 +78,19 @@
         "game_dev_on_sale": "Spelontwikkeling-hulpmiddelen <1>in de aanbieding</1>",
         "view_all_on_sale": "Bekijk alles in de aanbieding",
         "download_app": "Download app",
-        "people_to_follow_description": "Hier zijn een paar gebruikers die misschien interessant zijn om te volgen. <a>Waarom volgen?</a>"
+        "people_to_follow_description": "Hier zijn een paar gebruikers die misschien interessant zijn om te volgen. <a>Waarom volgen?</a>",
+        "browse": "Bladeren",
+        "view_something_random": "Bekijk iets willekeurigs",
+        "view_all_games": "Bekijk alle spellen",
+        "random_game": "Willekeurig spel",
+        "view_all_blog_posts": "Bekijk alle updates",
+        "free_games": "Gratis spellen",
+        "with_demo": "Met demo",
+        "view_all": "Bekijk alles",
+        "recommended_for_you": "Aanbevolen voor jou",
+        "fresh_games": "Nieuwe spellen",
+        "featured_jams": "Uitgelichte jams",
+        "view_all_jams": "Bekijk alle jams"
     },
     "game": {
         "name_your_own_price": "Noem je eigen prijs",
