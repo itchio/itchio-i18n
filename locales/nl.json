@@ -310,6 +310,9 @@
             "recent_purchases": "Log in om aankopen die je recent hebt gemaakt te kunnen koppelen."
         },
         "no_account_prompt": "Heb je geen account? <1>Maak een account</1>",
-        "you_are_logged_out": "Je bent uitgelogd"
+        "you_are_logged_out": "Je bent uitgelogd",
+        "page_title": "Inloggen",
+        "welcome_back": "Welkom terug!",
+        "welcome_to_itchio": "Welkom op itch.io!"
     }
 }
