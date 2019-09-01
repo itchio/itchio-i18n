@@ -313,6 +313,9 @@
         "you_are_logged_out": "Je bent uitgelogd",
         "page_title": "Inloggen",
         "welcome_back": "Welkom terug!",
-        "welcome_to_itchio": "Welkom op itch.io!"
+        "welcome_to_itchio": "Welkom bij itch.io!",
+        "errors": {
+            "accept_terms": "Je moet de Gebruikersvoorwaarden accepteren"
+        }
     }
 }
