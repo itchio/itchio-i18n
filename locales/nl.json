@@ -185,7 +185,12 @@
             "adhoc": "Ad-hoc netwerkmultiplayer"
         },
         "inputs": {
-            "gamepad": "Gamepad (iedere)"
+            "gamepad": "Gamepad (iedere)",
+            "keyboard": "Toetsenbord",
+            "mouse": "Muis",
+            "voice": "Stembesturing",
+            "accelerometer": "Accelerometer",
+            "phone": "Smartphone"
         }
     }
 }
