@@ -703,7 +703,8 @@
                 "upload_button": "Charger une image de couverture"
             },
             "errors": {
-                "invalid_file": "Il y a un problème avec le fichier sélectionné"
+                "invalid_file": "Il y a un problème avec le fichier sélectionné",
+                "invalid_image": "Éditez votre image ou essayez-en une autre"
             },
             "error_dialog": {
                 "confirm_button": "J'ai compris",
@@ -732,7 +733,18 @@
                 "restricted_access_settings": "Paramètres d'accès restreint",
                 "access_settings": "Paramètres d'accès"
             },
-            "embed_options_header": "Options d'intégration"
+            "embed_options_header": "Options d'intégration",
+            "embed_options": {
+                "width": "Largeur",
+                "height": "Hauteur",
+                "mobile_friendly_option": "Optimisation mobile",
+                "mobile_friendly_info": "Votre projet peut fonctionner sur téléphones mobiles (plus petite résolution et support tactile)",
+                "orientation": "Orientation",
+                "fullscreen_button_option": "Bouton Plein écran",
+                "enable_scrollbars_option": "Activer les barres de défilement",
+                "embed_in_page_option": "Intégrer dans une page",
+                "launch_fullscreen_option": "Cliquez pour lancer en plein écran"
+            }
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -756,7 +768,8 @@
         "project_list": {
             "edit": "Modifier",
             "analytics": "Analyses",
-            "no_image": "Pas d'image"
+            "no_image": "Pas d'image",
+            "widget": "Widget"
         },
         "create_new_project_button": "Créer un nouveau projet",
         "analytics_summary_header": "Résumé",
