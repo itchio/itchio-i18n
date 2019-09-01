@@ -456,7 +456,7 @@
                 "you_own_this": "Vous possédez ceci",
                 "send_gift": "Envoyer un cadeau",
                 "download": "Télécharger",
-                "percent_off": "{{percent}}% de réduc",
+                "percent_off": "{{percent}} % de réduction",
                 "you_havent_sent_this_gift_to_anyone_yet": "Vous n'avez encore envoyé ce cadeau à personne",
                 "claimed": "Ajouté",
                 "you_were_gifted_this": "Reçu comme cadeau",
@@ -1164,7 +1164,8 @@
             "youve_been_gifted": "Vous avez reçu {{product_title}}.",
             "access_latest_files_from_this_page": "Vous pouvez toujours accéder aux derniers fichiers depuis cette page.",
             "payment_summary": "Vous avez acheté ce produit le {{payment_date}} pour {{payment_price}}.",
-            "payment_summary_with_email": "Vous avez acheté ça le {{payment_date}} pour {{payment_price}} avec l'adresse email {{email_address}}."
+            "payment_summary_with_email": "Vous l'avez acheté le {{payment_date}} pour {{payment_price}} avec l'adresse email {{email_address}}.",
+            "percent_off": "{{percent}} % de réduction"
         },
         "preorder_instructions": "Ce projet comprend des fichiers qui ne sont pas encore publiés. Revenez sur cette page quand le créateur aura publié les fichiers pour pouvoir les télécharger.",
         "app_banner": {
