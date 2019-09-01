@@ -744,6 +744,10 @@
                 "enable_scrollbars_option": "Activer les barres de défilement",
                 "embed_in_page_option": "Intégrer dans une page",
                 "launch_fullscreen_option": "Cliquer pour lancer en plein écran"
+            },
+            "pricing": {
+                "no_payments": "Aucun paiement",
+                "free_price_info": "Toutes personnes téléchargeant votre projet recevra une demande de donation avant d'en avoir l'accès. Elles peuvent l'ignorer gratuitement."
             }
         },
         "stats": {
