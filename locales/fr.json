@@ -1162,7 +1162,8 @@
         },
         "preorder_instructions": "Ce projet comprend des fichiers qui ne sont pas encore publiés. Revenez sur cette page quand le créateur aura publié les fichiers pour pouvoir les télécharger.",
         "app_banner": {
-            "get_the_app": "Télécharger l'application"
+            "get_the_app": "Télécharger l'application",
+            "app_description": "Installez et gérez vos jeux avec l'application desktop itch.io"
         }
     }
 }
