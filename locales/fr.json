@@ -1166,6 +1166,17 @@
             "app_description": "Installez et gérez vos jeux avec l'application de bureau itch.io"
         },
         "link_my_account": "Lier mon compte",
-        "log_in_to_link": "Se connecter pour lier"
+        "log_in_to_link": "Se connecter pour lier",
+        "play_in_your_browser": "Jouer dans votre navigateur",
+        "version_name": "Version {{version_name}}",
+        "header": {
+            "more_menu": "Plus",
+            "download_title": "Télécharger {{project_title}}",
+            "view_all_my_purchases": "Voir tous mes achats",
+            "return_to_project": "Retourner au projet"
+        },
+        "linked_user_message": "Cette page est liée au compte {{username}}.",
+        "link_account_header": "Lier cette page de téléchargement à votre compte itch.io",
+        "link_account_description": "Vous pouvez lier cette page de téléchargement à un compte itch.io pour ne jamais la perdre. Elle s'affichera aux côtés des autres choses que vous possédez."
     }
 }
