@@ -106,7 +106,13 @@
         "intro_cta": "<1>Voeg je spel toe</1> of <2>Lees the FAQ</2>",
         "html5_games": "HTML5-spellen",
         "page_title": "Download de recentste indie-spellen",
-        "meta_description": "itch.io is een eenvoudige manier om games online te vinden, te downloaden, en te verspreiden. Of je nou een ontwikkelaar bent die zijn spel wil uploaden of gewoon iemand die op zoek is naar iets nieuws om te spelen, itch.io heeft het."
+        "meta_description": "itch.io is een eenvoudige manier om games online te vinden, downloaden, en distribueren. Of je nou een ontwikkelaar bent die zijn spel wil uploaden of gewoon iemand die op zoek is naar iets nieuws om te spelen, itch.io heeft het voor je.",
+        "to_follow": {
+            "created_projects": "{{project_list}} aangemaakt",
+            "empty_results": "We hebben voor nu even geen aanbevelingen meer. Kijk later weer",
+            "refresh_button": "Vernieuw voor meer...",
+            "dismiss_tooltip": "Niet meer aanbevelen"
+        }
     },
     "game": {
         "name_your_own_price": "Noem je eigen prijs",
