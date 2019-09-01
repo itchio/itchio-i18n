@@ -761,7 +761,7 @@
             },
             "uploads": {
                 "delete_file_button": "Supprimer le fichier",
-                "play_in_browser_toggle": "Ce fichier sera joué dans le navigateur"
+                "play_in_browser_toggle": "Ce fichier sera lu dans le navigateur"
             }
         },
         "stats": {
