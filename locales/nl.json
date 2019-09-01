@@ -102,7 +102,9 @@
             "game_jams": "Game jams"
         },
         "browse_content_type": "Blader door {{content_type}}",
-        "intro": "<s>itch.io</s> is een eenvoudige manier om indie-spellen gratis online te vinden en te delen."
+        "intro": "<s>itch.io</s> is een eenvoudige manier om indie-spellen gratis online te vinden en te delen.",
+        "intro_cta": "<1>Voeg je spel toe</1> of <2>Lees the FAQ</2>",
+        "html5_games": "HTML5 spellen"
     },
     "game": {
         "name_your_own_price": "Noem je eigen prijs",
