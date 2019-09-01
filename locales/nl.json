@@ -309,6 +309,7 @@
             "claim_object": "Log alsjeblieft in of maak een account om de {{noun}} te claimen",
             "recent_purchases": "Log in om aankopen die je recent hebt gemaakt te kunnen koppelen."
         },
-        "no_account_prompt": "Heb je nog geen account? <1>Maak een account</1>"
+        "no_account_prompt": "Heb je geen account? <1>Maak een account</1>",
+        "you_are_logged_out": "Je bent uitgelogd"
     }
 }
