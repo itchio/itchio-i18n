@@ -160,7 +160,11 @@
     "misc": {
         "classifications": {
             "game": "Spellen",
-            "assets": "Spel assets"
+            "assets": "Spel-assets",
+            "game_mod": "Spel-mods",
+            "other": "Overige",
+            "comic": "Stripverhalen",
+            "book": "Boeken"
         }
     }
 }
