@@ -1177,6 +1177,8 @@
         },
         "linked_user_message": "Cette page est liée au compte {{username}}.",
         "link_account_header": "Lier cette page de téléchargement à votre compte itch.io",
-        "link_account_description": "Vous pouvez lier cette page de téléchargement à un compte itch.io pour ne jamais la perdre. Elle s'affichera aux côtés des autres choses que vous possédez."
+        "link_account_description": "Vous pouvez lier cette page de téléchargement à un compte itch.io pour ne jamais la perdre. Elle s'affichera aux côtés des autres fichiers que vous possédez.",
+        "must_link_account_description": "Vous devez lier cette page à un compte itch.io pour pouvoir lancer le téléchargement. Les comptes sont gratuits et permettent de garder une trace des jeux collectés.",
+        "get_external_key": "Obtenir une clé {{key_type}}"
     }
 }
