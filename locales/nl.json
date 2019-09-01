@@ -181,7 +181,8 @@
         },
         "multiplayer_features": {
             "local": "Lokale multiplayer",
-            "server": "Server-gebaseerde netwerkmultiplayer"
+            "server": "Server-gebaseerde netwerkmultiplayer",
+            "adhoc": "Ad-hoc netwerk multiplayer"
         }
     }
 }
