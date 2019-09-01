@@ -291,7 +291,7 @@
             "username_or_email": "Gebruikersnaam of email",
             "password": "Wachtwoord",
             "forgot_password": "Wachtwoord vergeten",
-            "create_account": "Account aanmaken"
+            "create_account": "Account maken"
         }
     }
 }
