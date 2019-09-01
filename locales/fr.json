@@ -1160,7 +1160,11 @@
             "thank_you_for_donating_author": "Merci d'avoir donné pour {{product_title}} de {{author}}.",
             "unique_url_for_your_payment": "Cette page a un URL unique pour votre paiement.",
             "save_this_purchase_to_your_account": "Enregistrez cet achat dans votre compte",
-            "receipt_support_information": "Vous devriez aussi recevoir un e-mail avec un lien vers cette page. Si vous perdez ce lien, vous pouvez demandez à le recevoir depuis la <a>page de support</a>."
+            "receipt_support_information": "Vous devriez aussi recevoir un e-mail avec un lien vers cette page. Si vous perdez ce lien, vous pouvez demandez à le recevoir depuis la <a>page de support</a>.",
+            "youve_been_gifted": "Vous avez reçu {{product_title}}.",
+            "access_latest_files_from_this_page": "Vous pouvez toujours accéder aux derniers fichiers depuis cette page.",
+            "payment_summary": "Vous avez acheté ce produit le {{payment_date}} pour {{payment_price}}.",
+            "payment_summary_with_email": "Vous avez acheté ça le {{payment_date}} pour {{payment_price}} avec l'adresse email {{email_address}}."
         },
         "preorder_instructions": "Ce projet comprend des fichiers qui ne sont pas encore publiés. Revenez sur cette page quand le créateur aura publié les fichiers pour pouvoir les télécharger.",
         "app_banner": {
