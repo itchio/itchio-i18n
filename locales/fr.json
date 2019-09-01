@@ -751,7 +751,16 @@
                 "embed_pricing_info": "Paramétrer un prix minimum restreindra seulement l'accès aux fichiers téléchargeables. Le contenu intégré reste disponible gratuitement.",
                 "minimum_price_label": "Prix minimum",
                 "minimum_price_info": "Prix minimum à payer pour accéder au téléchargement du jeu",
-                "default_donation_amount_info": "Montant par défaut du don"
+                "default_donation_amount_info": "Montant par défaut du don",
+                "payment_disabled_info": "Les fichiers du projet seront disponibles gratuitement et aucun don ne sera possible",
+                "suggest_default_price_label": "Suggérer un prix alternatif par défaut",
+                "suggested_donation_label": "Don suggéré",
+                "suggested_price_label": "Prix suggéré",
+                "default_price_info": "Prix par défaut affiché lorsque quelqu'un souhaite acheter votre projet"
+            },
+            "uploads": {
+                "delete_file_button": "Supprimer le fichier",
+                "play_in_browser_toggle": "Ce fichier sera joué dans le navigateur"
             }
         },
         "stats": {
