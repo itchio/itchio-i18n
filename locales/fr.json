@@ -984,7 +984,9 @@
                 "ranked_criteria_rating_count": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} note",
                 "ranked_criteria_rating_count_plural": "Classé {{ordinal_rank}} dans {{criteria_name}} avec {{count}} notes",
                 "ranked_score": "Score : {{score}}"
-            }
+            },
+            "votes_cast_count": "<s>{{count}}</s> le vote a été effectué entre le {{vote_start_date}} et le {{vote_end_date}}.",
+            "votes_cast_count_plural": "<s>{{count}}</s> les votes ont été effectués entre le {{vote_start_date}} et le {{vote_end_date}}."
         },
         "header": {
             "hosted_by": "Hébergée par {{hosts}}",
