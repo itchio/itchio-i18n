@@ -944,7 +944,8 @@
                 "submissions_due_in": "제출 시작일",
                 "voting_ends_in": "투표 완료일"
             },
-            "submission_is_closed_for_voting": "제출 기간이 끝났으며 현재 투표가 진행중입니다"
+            "submission_is_closed_for_voting": "제출 기간이 끝났으며 현재 투표가 진행중입니다",
+            "you_can_now_rate_entries": "이제 <a>제출 페이지</a>에서 제출작들을 평가할 수 있습니다"
         },
         "submissions": {
             "there_are_no_submissions_yet": "아직 제출작이 없습니다",
@@ -1029,7 +1030,8 @@
                 "save_rating": "평가 저장",
                 "you_havent_rated_this_submission_yet": "아직 이 제출작을 평가하지 않았습니다.",
                 "you_just_voted": "방금 투표하셨습니다.",
-                "you_voted_ago": "{{timestamp}}에 투표했습니다."
+                "you_voted_ago": "{{timestamp}}에 투표했습니다.",
+                "disqualified_message": "이 출품작은 실격되었으며 평가할 수 없습니다."
             }
         },
         "screenshots": {
