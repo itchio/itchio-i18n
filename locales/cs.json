@@ -122,7 +122,8 @@
         }
     },
     "game": {
-        "unavailable": "{{game_noun}} je momentálně nedostupný"
+        "unavailable": "{{game_noun}} je momentálně nedostupný",
+        "download_access": "Kliknutím na \"Stáhnout nyní\" získáš přístup k následujícím souborům:"
     },
     "misc": {
         "classifications": {
