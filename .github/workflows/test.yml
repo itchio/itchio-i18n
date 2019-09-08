@@ -1,0 +1,37 @@
+name: test
+
+on: [push]
+
+jobs:
+  test:
+    strategy:
+      matrix:
+        luaVersion: ["luajit"]
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+
+    - uses: leafo/gh-actions-lua@v2
+      with:
+        luaVersion: ${{ matrix.luaVersion }}
+
+    - uses: leafo/gh-actions-luarocks@v2
+
+    - name: install dependencies
+      run: |
+        luarocks install argparse
+        luarocks install busted
+        luarocks install moonscript
+        luarocks install tableshape
+        luarocks install luafilesystem
+
+    - name: build translations
+      run: |
+        moon build_translations.moon
+
+    - name: test
+      run: |
+        busted -o utfTerminal
+
