@@ -20,9 +20,9 @@
             "search": "Hledat",
             "log_in": "Přihlásit se",
             "register": "Registrovat se",
-            "notifications_count_0": "notifikace",
-            "notifications_count_1": "notifikace",
-            "notifications_count_2": "notifikací",
+            "notifications_count_0": "{{count}} notifikace",
+            "notifications_count_1": "{{count}} notifikace",
+            "notifications_count_2": "{{count}} notifikací",
             "devlogs": "Devlogy",
             "game_assets": "Assety",
             "community": "Komunita",
@@ -159,7 +159,8 @@
             "touchscreen": "Dotykový display",
             "voice": "Zvukové ovládání",
             "phone": "Chytrý telefon",
-            "dance_pad": "Tancovací podložka"
+            "dance_pad": "Tancovací podložka",
+            "accelerometer": "Akcelerometr"
         },
         "durations": {
             "seconds": "Pár sekund",
@@ -265,7 +266,9 @@
         "intent": {
             "community": "K tomu aby jsi se mohl účastnit v itch.io komunitách potřebuješ itch.io účet. Tvorba účtu je zdarma a trvá jen pár minut.",
             "comment": "Budeš potřebovat itch.io účet k tomu aby jsi mohl komentovat.",
-            "rate_game": "Budeš potřebovat itch.io účet před tím než budeš moct hodnotit."
+            "rate_game": "Budeš potřebovat itch.io účet před tím než budeš moct hodnotit.",
+            "follow": "Potřebuješ účet na itch.io aby jsi mohl někoho sledovat.",
+            "follow_username": "Potřebuješ účet na itch.io aby jsi mohl sledovat <1>{{username}}</1>."
         }
     }
 }
