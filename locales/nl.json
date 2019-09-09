@@ -230,7 +230,7 @@
                 "view_all_by_username": "Bekijk alles van {{username}}",
                 "report": "Melden",
                 "embed": "Insluiten",
-                "updated_date": "{{date}} geüpdatet"
+                "updated_date": "{{date}} bijgewerkt"
             },
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "Dit is een inzending voor {{jam_title}}",
