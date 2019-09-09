@@ -202,7 +202,7 @@
             "following": "Volgend",
             "follow_username": "Volg {{username}}",
             "following_username": "{{username}} gevolgd",
-            "add_to_collection": "Aan Collectie Toevoegen",
+            "add_to_collection": "Aan collectie toevoegen",
             "add_to_collection_short": "Collectie",
             "comments": "Reacties",
             "community": "Community",
@@ -372,8 +372,8 @@
             "seconds": "seconden"
         },
         "project_visibility": {
-            "restricted": "Afgeschermd",
-            "published": "Gepubliceerd",
+            "restricted": "Begrensd",
+            "published": "Openbaar",
             "draft": "Concept",
             "public": "Openbaar"
         },
