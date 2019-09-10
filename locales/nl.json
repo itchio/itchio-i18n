@@ -870,6 +870,24 @@
         },
         "play_in_your_browser": "Speel in je browser",
         "start_project_button": "Start",
-        "version_name": "Versie {{version_name}}"
+        "version_name": "Versie {{version_name}}",
+        "header": {
+            "invoice": "Factuur",
+            "more_menu": "Meer",
+            "view_rest_in_bundle": "Bekijk de rest van bundel",
+            "preorder_title": "Voorbestelling voor {{project_title}}",
+            "download_title": "Download {{project_title}}",
+            "view_all_my_purchases": "Bekijk al mijn aankopen",
+            "return_to_project": "Terug naar project",
+            "discussion_board": "Discussiebord"
+        },
+        "linked_user_message": "Deze pagina is gekoppeld aan het account {{username}}.",
+        "link_my_account": "Koppel mijn account",
+        "log_in_to_link": "Log in om te koppelen",
+        "link_account_header": "Koppel deze downloadpagina aan je itch.io-account",
+        "link_account_description": "Je kunt deze downloadpagina koppelen aan een itch.io-account zodat je je geen zorgen hoeft te maken dat je deze kwijtraakt. Het zal weergegeven worden samen met andere dingen die je bezit.",
+        "must_link_account_description": "Je moet deze pagina aan een itch.io-account koppelen voordat je mag downloaden. Accounts zijn gratis, en laten je alle spellen bijhouden die je verzameld hebt.",
+        "already_own": "Het lijkt erop dat je dit al bezit",
+        "access_existing_copy": "Je kunt niet nog een exemplaar claimen, maar je kunt je bestaande exemplaar inzien."
     }
 }
