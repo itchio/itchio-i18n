@@ -723,7 +723,7 @@
     },
     "buy_form_popup": {
         "author_line": "<1>door</1> {{author}}",
-        "powered_by_itchio": "<s>Mogelijk gemaakt door</s> {{itchio}}"
+        "powered_by_itchio": "Mogelijk gemaakt door {{itchio}}"
     },
     "user_settings": {
         "account_settings": "Accountinstellingen",
