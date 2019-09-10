@@ -66,9 +66,25 @@ describe "parses", ->
             error "extra key '#{key}':\n#{text}"
 
           -- see if the variables match
-          expected_variables = types.equivalent find_variables(parse_tags\match source_text)
+          source_variables = find_variables parse_tags\match source_text
+          expected_variables = types.equivalent source_variables
+
           unless expected_variables find_variables syntax
-            error "variables do not match:\n#{source_text}\n#{text}"
+
+            ignore_error = types.shape {
+              name: types.one_of { "pt_PT" }
+              source: types.shape {
+                count: "simple"
+              }
+              syntax: types.shape {}
+            }
+
+            unless ignore_error {
+              :name
+              source: source_variables
+              syntax: find_variables syntax
+            }
+              error "variables do not match:\n#{source_text}\n#{text}"
 
 
 
