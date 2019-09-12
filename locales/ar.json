@@ -41,10 +41,10 @@
             "notifications_count_3": "{{count}} إشعارت",
             "notifications_count_4": "{{count}} إشعارات",
             "notifications_count_5": "{{count}} إشعار",
-            "feed_unseen_count_0": "{{count}} حديث",
+            "feed_unseen_count_0": "{{count}} جديد",
             "feed_unseen_count_1": "{{count}} حديث",
             "feed_unseen_count_2": "{{count}} حديثان",
-            "feed_unseen_count_3": "{{count}} حديثون",
+            "feed_unseen_count_3": "{{count}} حديثين",
             "feed_unseen_count_4": "{{count}} حديثون",
             "feed_unseen_count_5": "{{count}} حديثة"
         },
