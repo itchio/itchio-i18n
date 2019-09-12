@@ -375,6 +375,9 @@
         "download_access": "انقر فوق تنزيل الآن للوصول إلى الملفات التالية:",
         "get_access": "سوف تحصل على أذن الوصول إلى الملفات التالية:",
         "get_access_preorder": "ستحصل على إذن الوصول إلى الملفات التالية عند إصدارها:",
-        "download_demo_header": "تنزيل النسخة التجريبية"
+        "download_demo_header": "تنزيل النسخة التجريبية",
+        "available_header": "متوفر على",
+        "also_available_header": "متوفر أيضًا على",
+        "will_be_available_in": "سيكون متوفر خلال {{time_remaining}}."
     }
 }
