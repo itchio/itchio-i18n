@@ -122,7 +122,7 @@
         "development_log_header": "Ontwikkelingslog",
         "your_purchase_comes_with_a_steam_key": "Je aankoop wordt geleverd met een Steam-sleutel.",
         "steam_key_bundle_disclaimer": "(Let op: Steam-sleutel niet inbegrepen in {{bundle_title}})",
-        "donate_button": "Steun Dit {{noun}}",
+        "donate_button": "{{noun}} ondersteunen",
         "empty_page_no_uploads": "Deze maker heeft nog niets geüpload...",
         "comments": {
             "comments_header": "Reacties",
@@ -164,7 +164,7 @@
         "download_header": "Downloaden",
         "unavailable": "Deze {{game_noun}} is momenteel niet beschikbaar",
         "purchase_header": "Kopen",
-        "download_access": "Als je op nu downloaden klikt, krijg je toegang tot de volgende bestanden:",
+        "download_access": "Als je nu downloaden aanklikt, krijg je toegang tot de volgende bestanden:",
         "get_access": "Je zult toegang krijgen tot deze bestanden:",
         "get_access_preorder": "Je zult toegang krijgen tot deze bestanden zodra ze worden uitgebracht:",
         "download_demo_header": "Download demo",
@@ -172,7 +172,7 @@
         "also_available_header": "Ook beschikbaar op",
         "will_be_available_in": "Wordt beschikbaar in {{time_remaining}}.",
         "download_or_claim_button": "Downloaden of claimen",
-        "download_now_button": "Nu Downloaden",
+        "download_now_button": "Nu downloaden",
         "preorder_button": "Nu Voorbestellen",
         "buy_now_button": "Nu Kopen",
         "in_order_to_access": "Om toegang tot deze {{noun}} te krijgen, moet je het eerst kopen voor de minimumprijs van {{price}} of meer.",
@@ -504,7 +504,7 @@
         "web_games_description": "Je kunt iedere browsergame ook in de app laden, waardoor je ze ook offline kan spelen wanneer je wilt. Zodra je terug online bent, kun je indien nodig nieuwe updates krijgen.",
         "languages_header": "Beschikbaar in jouw taal",
         "languages_description": "De itch app is vertaald in meer dan 20 talen, met dank aan de itch.io-gemeenschap! <a>Leer meer over vertalen</a>",
-        "download_now": "Nu Downloaden",
+        "download_now": "Nu downloaden",
         "community_header": "Sluit je aan bij de community",
         "community_description": "Leer meer over de ontwikkeling van onze app <1>in onze gemeenschap</1>. Deel je verzoeken voor nieuwe functies en algemene feedback met andere leden van itch.io. Als je een programmeur bent, zal je het leuk vinden dat het hele project <2>open source is op GitHub</2>, we kijken uit naar je pull requests.",
         "page_title": "Download App",
@@ -888,6 +888,106 @@
         "link_account_description": "Je kunt deze downloadpagina koppelen aan een itch.io-account zodat je je geen zorgen hoeft te maken dat je deze kwijtraakt. Het zal weergegeven worden samen met andere dingen die je bezit.",
         "must_link_account_description": "Je moet deze pagina aan een itch.io-account koppelen voordat je mag downloaden. Accounts zijn gratis, en laten je alle spellen bijhouden die je verzameld hebt.",
         "already_own": "Het lijkt erop dat je dit al bezit",
-        "access_existing_copy": "Je kunt niet nog een exemplaar claimen, maar je kunt je bestaande exemplaar inzien."
+        "access_existing_copy": "Je kunt niet nog een exemplaar claimen, maar je kunt je bestaande exemplaar inzien.",
+        "get_external_key": "Krijg een {{key_type}}-sleutel",
+        "claim_external_key": "Claim {{key_type}}-sleutel",
+        "claim_external_key_instructions": "Klik op de knop om dit te claimen.",
+        "payment_comes_with_key": "Je aankoop is inclusief een {{key_type}}-sleutel!",
+        "access_comes_with_key": "Je toegang is inclusief een {{key_type}}-sleutel!",
+        "access_it": "Toegang nemen",
+        "email_capture": {
+            "dont_lose_your_purchase": "Raak je aankoop niet kwijt!",
+            "provide_email_instructions": "Vul hier je email-adres in om met je aankoop te koppelen, zodat je die terug kan halen mocht je ooit deze pagina kwijtraken."
+        },
+        "purchase": {
+            "youve_been_gifted": "Je hebt {{product_title}} cadeau gekregen.",
+            "save_this_purchase_to_your_account": "Sla deze aankoop op naar je account",
+            "link_purchase_links": "<1>Maak een account</1> of <2>log in op itch.io</2> om direct deze aankoop te koppelen.",
+            "link_purchase_warning": "Raak je aankoop niet kwijt!",
+            "thank_you_for_purchasing": "Dank je wel voor het kopen van {{product_title}}.",
+            "thank_you_for_purchasing_author": "Dank je wel voor het kopen van {{product_title}} door {{author}}.",
+            "thank_you_for_donating": "Dank je wel voor het doneren naar {{product_title}}.",
+            "thank_you_for_donating_author": "Dank je wel voor het doneren naar {{product_title}} van {{author}}.",
+            "unique_url_for_your_payment": "Deze pagina heeft een unieke URL voor jouw aankoop.",
+            "access_latest_files_from_this_page": "Je kunt altijd bij de recentste bestanden vanaf deze pagina.",
+            "receipt_support_information": "Je zou ook een email ontvangen moeten hebben met een link naar deze pagina. Als je ooit de URL voor deze pagina kwijtraakt, kun je verzoeken om ze naar je te laten mailen vanaf de <a>ondersteunings-pagina</a>.",
+            "payment_summary": "Je hebt hiervoor betaald op {{payment_date}} voor {{payment_price}}.",
+            "payment_summary_with_email": "Je hebt hiervoor betaald op {{payment_date}} voor {{payment_price}} met email-adres {{email_address}}.",
+            "percent_off": "{{percent}}% korting",
+            "linked_user_message": "Deze aankoop is gekoppeld aan account {{username}}."
+        }
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "Georganiseerd door {{hosts}}",
+            "links": {
+                "community": "Community",
+                "results": "Resultaten",
+                "submissions": "Inzendingen",
+                "overview": "Overzicht",
+                "screenshots": "Screenshots",
+                "submission_feed": "Inzendings-feed",
+                "edit_jam": "Jam bewerken"
+            }
+        },
+        "stats": {
+            "joined": "deelnemers",
+            "entries": "Inzendingen",
+            "ratings": "Beoordelingen"
+        },
+        "submitter": {
+            "join_jam": "Meedoen",
+            "submit_button": "Project inzenden",
+            "or_leave_jam": "of <a>jam verlaten</a>",
+            "youve_joined": "Je doet nu mee met deze jam.",
+            "joined_instructions": "Kom terug naar deze pagina als de jam start om je projecten in te sturen.",
+            "leave_jam": "Jam verlaten",
+            "submissions_open_from": "Inzendingen open vanaf {{start_date}} tot {{end_date}}",
+            "jam_is_now_over": "Deze jam is nu voorbij. Deze duurde van {{start_date}} tot {{end_date}}.",
+            "view_results": "Bekijk resultaten",
+            "view_entries": "Bekijk {{count}} deelname",
+            "view_entries_plural": "Bekijk {{count}} deelnames",
+            "countdown": {
+                "starts_in": "Begint over",
+                "submissions_due_in": "Deadline voor inzendingen over",
+                "voting_ends_in": "Stemmen eindigt over"
+            },
+            "submission_is_closed_for_voting": "Inzendingen zijn gesloten en het stemmen is nu bezig",
+            "you_can_now_rate_entries": "Je kunt nu inzendingen beoordelen vanaf de <a>inzendings-pagina</a>"
+        },
+        "submissions": {
+            "there_are_no_submissions_yet": "Er zijn nog geen inzendingen",
+            "there_were_no_submissions": "Er waren geen inzendingen",
+            "submissions_will_be_available_after_the_jam_has_ended": "Inzendingen zullen beschikbaar zijn nadat de jam is afgelopen",
+            "help_submissions_in_need_of_ratings": "Help ons door de inzendingen te beoordelen die de minste stemmen hebben: <a>Inzendingen die beoordelingen nodig hebben</a>",
+            "filters": {
+                "all_submissions": "Alle inzendingen",
+                "browser_playable": "Speelbaar in browsers"
+            },
+            "filter": "Filteren",
+            "empty_results": "Geen inzendingen matchen je filter",
+            "rated": "Beoordeeld"
+        },
+        "results": {
+            "results": "Resultaten",
+            "submissions_summary": "<s>{{count}} inzending</s>werd ingestuurd tussen {{start_date}} en {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} inzendingen</s>werden ingestuurd tussen {{start_date}} en {{end_date}}.",
+            "votes_cast_count": "<s>{{count}}</s> stem werd gegeven tussen {{vote_start_date}} en {{vote_end_date}}.",
+            "votes_cast_count_plural": "<s>{{count}}</s> stemmen werden gegeven tussen {{vote_start_date}} en {{vote_end_date}}.",
+            "ratings_given_count": "<s>{{count}} beoordeling</s> werd gegeven tussen {{vote_start_date}} en {{vote_end_date}}.",
+            "ratings_given_count_plural": "<s>{{count}} beoordelingen</s> werden gegeven tussen {{vote_start_date}} en {{vote_end_date}}.",
+            "ratings_given_submissions_count": "<s>{{count}} beoordeling</s> werd gegeven aan <s>{{submission_count}} inzendingen</s> ({{percent}}%) tussen {{vote_start_date}} en {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "<s>{{count}} beoordelingen</s> werden gegeven aan <s>{{submission_count}} inzendingen</s> ({{percent}}%) tussen {{vote_start_date}} en {{vote_end_date}}.",
+            "average_and_median_results": "Het gemiddelde nummer waarderingen per spel was <s>{{average_ratings}}</s>, en de mediaan was <s>{{median_ratings}}</s>.",
+            "empty_message": "De resultaten zijn nog niet bekend gemaakt, kom later terug",
+            "empty_page_message": "Geen resultaten op deze pagina",
+            "no_rankings_available": "Geen resultaten beschikbaar",
+            "sort_by_criteria": "Op criteria",
+            "sort_overall": "Algemeen",
+            "submissions": {
+                "by_author": "op {{author}}",
+                "view_submission_page": "Bekijk"
+            }
+        }
     }
 }
