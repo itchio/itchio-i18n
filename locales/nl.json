@@ -71,7 +71,7 @@
         "top_sellers": "Best verkocht",
         "recommendations_based_on": "Gebaseerd op dingen die je gekocht, gedownload en beoordeeld hebt",
         "view_more": "Meer bekijken",
-        "fresh_games_description": "Wordt voortdurend bijgewerkt met de recentste games op itch.io",
+        "fresh_games_description": "Wordt voortdurend bijgewerkt met de nieuwste games op itch.io",
         "people_to_follow": "Personen om te volgen",
         "view_all_games_on_sale": "Bekijk alle spellen in de aanbieding",
         "more_featured_games": "Meer uitgelichte spellen",
@@ -105,7 +105,7 @@
         "intro": "<s>itch.io</s> is een eenvoudige manier om indie-spellen gratis online te vinden en te delen.",
         "intro_cta": "<1>Voeg je spel toe</1> of <2>Lees the FAQ</2>",
         "html5_games": "HTML5-spellen",
-        "page_title": "Download de recentste indie-spellen",
+        "page_title": "Download de nieuwste indie-spellen",
         "meta_description": "itch.io is een eenvoudige manier om games online te vinden, downloaden, en distribueren. Of je nou een ontwikkelaar bent die zijn spel wil uploaden of gewoon iemand die op zoek is naar iets nieuws om te spelen, itch.io heeft het voor je.",
         "to_follow": {
             "created_projects": "{{project_list}} aangemaakt",
@@ -604,7 +604,7 @@
             },
             "rules_header": "Regels",
             "recent_posts_header": "Recente Berichten",
-            "list_header_last_topic": "Recentste topic",
+            "list_header_last_topic": "Nieuwste topic",
             "new_flag": "Nieuw",
             "archived_flag": "Gearchiveerd",
             "by_topic_author": "door {{username}}"
@@ -620,7 +620,7 @@
             "sticky_flag": "Sticky",
             "locked_flag": "Vergrendeld",
             "list_header_topic_title": "Topic",
-            "list_header_last_post": "Recentste bericht"
+            "list_header_last_post": "Nieuwste bericht"
         }
     },
     "buy_form": {
@@ -909,7 +909,7 @@
             "thank_you_for_donating": "Dank je wel voor het doneren naar {{product_title}}.",
             "thank_you_for_donating_author": "Dank je wel voor het doneren naar {{product_title}} van {{author}}.",
             "unique_url_for_your_payment": "Deze pagina heeft een unieke URL voor jouw aankoop.",
-            "access_latest_files_from_this_page": "Je kunt altijd bij de recentste bestanden vanaf deze pagina.",
+            "access_latest_files_from_this_page": "Je kunt altijd bij de meest recente bestanden vanaf deze pagina.",
             "receipt_support_information": "Je zou ook een email ontvangen moeten hebben met een link naar deze pagina. Als je ooit de URL voor deze pagina kwijtraakt, kun je verzoeken om ze naar je te laten mailen vanaf de <a>ondersteunings-pagina</a>.",
             "payment_summary": "Je hebt hiervoor betaald op {{payment_date}} voor {{payment_price}}.",
             "payment_summary_with_email": "Je hebt hiervoor betaald op {{payment_date}} voor {{payment_price}} met email-adres {{email_address}}.",
