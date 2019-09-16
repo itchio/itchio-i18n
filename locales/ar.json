@@ -378,6 +378,15 @@
         "download_demo_header": "تنزيل النسخة التجريبية",
         "available_header": "متوفر على",
         "also_available_header": "متوفر أيضًا على",
-        "will_be_available_in": "سيكون متوفر خلال {{time_remaining}}."
+        "will_be_available_in": "سيكون متوفر خلال {{time_remaining}}.",
+        "download_or_claim_button": "تحميل أو تحصيل",
+        "download_now_button": "تحميل الأن",
+        "preorder_button": "أطلبه مسبقًا الآن",
+        "buy_now_button": "إشتري الآن",
+        "name_your_own_price": "ضع سعرك",
+        "on_sale": "يُباع!",
+        "percent_off": "خصم <s>%{{percent}}</s>",
+        "price_or_more": "{{price}} <s>أو أكثر</s>",
+        "development_log_header": "سجل التطوير"
     }
 }
