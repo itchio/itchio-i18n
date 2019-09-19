@@ -175,7 +175,8 @@
         "romance": "Romance",
         "runner": "Runner",
         "sandbox": "Bac à sable",
-        "science-fiction": "Science fiction",
-        "on-rails-shooter": "Rail shooter"
+        "science-fiction": "Science-fiction",
+        "on-rails-shooter": "Rail shooter",
+        "singleplayer": "Jeu solo"
     }
 }
