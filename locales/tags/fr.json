@@ -177,6 +177,10 @@
         "sandbox": "Bac à sable",
         "science-fiction": "Science-fiction",
         "on-rails-shooter": "Rail shooter",
-        "singleplayer": "Jeu solo"
+        "singleplayer": "Jeu solo",
+        "shoot-em-up": "Shoot 'Em Up",
+        "shooter": "Shooter",
+        "short": "Court",
+        "simulation": "Simulation"
     }
 }
