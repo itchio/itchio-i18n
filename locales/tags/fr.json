@@ -137,6 +137,22 @@
         "pixel-art": "Pixel Art",
         "platformer": "Plateforme",
         "point-and-click": "Point & Click",
-        "puzzle": "Puzzle"
+        "puzzle": "Puzzle",
+        "fangame": "Fangame",
+        "female-protagonist": "Protagoniste féminin",
+        "futuristic": "Futuriste",
+        "generator": "Générateur",
+        "gravity": "Gravité",
+        "hand-drawn": "Dessiné à la main",
+        "high-score": "High Score",
+        "horrible": "Horrible",
+        "instrument": "Instrument",
+        "level-editor": "Éditeur de niveaux",
+        "libgdx": "libGDX",
+        "life-simulation": "Simulation de vie",
+        "lo-fi": "Lo-fi",
+        "male-protagonist": "Protagoniste masculin",
+        "massively-multiplayer": "Massivement multijoueur",
+        "math": "Math"
     }
 }
