@@ -155,6 +155,26 @@
         "massively-multiplayer": "Massivement multijoueur",
         "math": "Maths",
         "grayscale": "Niveaux de gris",
-        "mechs": "Mecha"
+        "mechs": "Mecha",
+        "mouse-only": "Seulement à la souris",
+        "music-production": "Production musicale",
+        "otome": "Otome",
+        "photorealistic": "Photoréaliste",
+        "post-apocalyptic": "Post-apocalyptique",
+        "procedural": "Génération procédurale",
+        "pvp": "PvP",
+        "racing": "Course",
+        "real-time": "Temps réel",
+        "real-time-strategy": "Stratégie en temps réel",
+        "remake": "Remake",
+        "retro": "Rétro",
+        "rhythm": "Rythme",
+        "robots": "Robots",
+        "roguelike": "Roguelike",
+        "roguelite": "Roguelite",
+        "romance": "Romance",
+        "runner": "Runner",
+        "sandbox": "Bac à sable",
+        "science-fiction": "Science fiction"
     }
 }
