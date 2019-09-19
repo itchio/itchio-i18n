@@ -387,6 +387,91 @@
         "on_sale": "يُباع!",
         "percent_off": "خصم <s>%{{percent}}</s>",
         "price_or_more": "{{price}} <s>أو أكثر</s>",
-        "development_log_header": "سجل التطوير"
+        "development_log_header": "سجل التطوير",
+        "devlog_view_all_posts": "عرض كل المنشورات",
+        "your_purchase_comes_with_a_steam_key": "تأتي مشترياتك مع كود لمنصة Steam.",
+        "donate_button": "أدعم {{noun}}",
+        "empty_page_no_uploads": "هذا المطور لم يرفع آي شئ بعد...",
+        "comments": {
+            "comments_header": "التعليقات",
+            "leave_a_comment_header": "اترك تعليقا",
+            "leave_a_comment": "اترك تعليقا",
+            "click_to_leave_a_comment": "اضغط لتضع تعليقا...",
+            "post_comment": "ضع التعليق",
+            "write_your_comment": "اكتب تعليقك…"
+        },
+        "info_panel": {
+            "updated_at": "محدث",
+            "published_at": "نشر",
+            "release_status": "الحالة",
+            "category": "الفئة",
+            "platforms": "المنصة",
+            "publisher": "الناشر",
+            "release_date": "ميعاد الاصدار",
+            "rating": "التقييم",
+            "authors": "المالكون",
+            "author": "المالك",
+            "made_with_tools": "أنشئ بواسطة",
+            "code_license": "الترخيص",
+            "asset_license": "ترخيص المورد",
+            "languages": "اللغات",
+            "singleplayer": "اللعب الفردي",
+            "links": "الروابط"
+        },
+        "community_header": "المجتمع",
+        "join_the_community": "انضم للمجتمع",
+        "community_view_all_posts": "عرض كل المنشورات",
+        "community_post_author": "ب {{username}}",
+        "post_a_new_topic": "انشر موضوع جديد",
+        "post_first_topic": "ضع الموضوع الاول",
+        "community_sticky": "مثبت",
+        "upload_list": {
+            "preorder": "شراء مسبق",
+            "download": "تنزيل",
+            "play_in_browser": "اللعب بداخل المتصفح",
+            "version_name": "الاصدار {{version_name}}",
+            "empty_message": "لا يتوفر شئ للتحميل حاليا."
+        },
+        "layout": {
+            "follow": "تابع",
+            "following": "تتابعه",
+            "follow_username": "تابع {{username}}",
+            "following_username": "تتابع {{username}}",
+            "add_to_collection": "اضف إلي مجموعة",
+            "add_to_collection_short": "مجموعة",
+            "comments": "التعليقات",
+            "community": "المجتمع",
+            "related_games": "الالعاب المتعلقة",
+            "related_games_short": "متعلقة",
+            "ownership": {
+                "you_own_this": "انت تمتلك هذا"
+            },
+            "footer": {
+                "report": "إبلاغ"
+            },
+            "jam_submission": {
+                "you_rated_this_game": "لقد قيمت هذه اللعبة"
+            }
+        },
+        "after_download": {
+            "share_this_project": "انشر هذا المشروع",
+            "thanks_for_downloading_title": "شكرا للتحميل"
+        },
+        "report_form": {
+            "description_label": "الوصف",
+            "reason_label": "السبب",
+            "reason_other": "أخري"
+        }
+    },
+    "community": {
+        "topic": {
+            "new_reply": "رد جديد",
+            "sticky": "مثبت",
+            "locked": "مغلق",
+            "next_page": "الصفحة التالية",
+            "previous_page": "الصفحة السابقة",
+            "first_page": "الصفحة الأولي",
+            "last_page": "الصفحة الأخيرة"
+        }
     }
 }
