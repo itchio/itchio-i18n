@@ -624,6 +624,13 @@
         },
         "results": {
             "results": "النتائج"
+        },
+        "submission": {
+            "comments": {
+                "post_comment": "ضع التعليق"
+            },
+            "downloads": "التحميلات",
+            "results_header": "النتائج"
         }
     }
 }
