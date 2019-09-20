@@ -398,14 +398,15 @@
             "leave_a_comment": "اترك تعليقا",
             "click_to_leave_a_comment": "اضغط لتضع تعليقا...",
             "post_comment": "ضع التعليق",
-            "write_your_comment": "اكتب تعليقك…"
+            "write_your_comment": "اكتب تعليقك…",
+            "log_in_to_leave_comment": "<a>سجل الدخول في itch.io</a> لكي تضع تعليق."
         },
         "info_panel": {
             "updated_at": "محدث",
             "published_at": "نشر",
             "release_status": "الحالة",
             "category": "الفئة",
-            "platforms": "المنصة",
+            "platforms": "المنصات",
             "publisher": "الناشر",
             "release_date": "ميعاد الاصدار",
             "rating": "التقييم",
@@ -416,7 +417,15 @@
             "asset_license": "ترخيص المورد",
             "languages": "اللغات",
             "singleplayer": "اللعب الفردي",
-            "links": "الروابط"
+            "links": "الروابط",
+            "genre": "النوع",
+            "tags": "العلامات",
+            "average_session_duration": "متوسط الوقت",
+            "inputs": "اجهزة الإدخال",
+            "accessibility": "إمكانية الوصول",
+            "multiplayer": "اللعب الجماعي",
+            "player_count": "عدد اللاعبين",
+            "mentions": "الإشارات"
         },
         "community_header": "المجتمع",
         "join_the_community": "انضم للمجتمع",
@@ -430,7 +439,9 @@
             "download": "تنزيل",
             "play_in_browser": "اللعب بداخل المتصفح",
             "version_name": "الاصدار {{version_name}}",
-            "empty_message": "لا يتوفر شئ للتحميل حاليا."
+            "empty_message": "لا يتوفر شئ للتحميل حاليا.",
+            "if_you_pay_price_or_more": "إذا دفعت {{price}} أو أكثر",
+            "this_file_will_be_available_when_the_creator_uploads_it": "سيتوفر الملف حينما يرفعه المطور"
         },
         "layout": {
             "follow": "تابع",
@@ -444,23 +455,53 @@
             "related_games": "الالعاب المتعلقة",
             "related_games_short": "متعلقة",
             "ownership": {
-                "you_own_this": "انت تمتلك هذا"
+                "you_own_this": "انت تمتلك هذا",
+                "send_gift": "أرسل كهدية",
+                "download": "تنزيل",
+                "percent_off": "خصم {{percent}}%",
+                "you_havent_sent_this_gift_to_anyone_yet": "لم ترسل هدايا لأي شخص بعد",
+                "claimed": "ملكك",
+                "you_were_gifted_this": "لقد تم إهدائك هذا",
+                "purchased_in_a_bundle_for_price": "تم شرائها مع عرض مقابل {{price}}",
+                "purchased_for_price": "تم شرائها مقابل {{price}}"
             },
             "footer": {
-                "report": "إبلاغ"
+                "report": "إبلاغ",
+                "view_all_by_username": "اظهر الكل بواسطة {{username}}",
+                "embed": "مدمج",
+                "updated_date": "حدث {{date}}"
             },
             "jam_submission": {
                 "you_rated_this_game": "لقد قيمت هذه اللعبة"
-            }
+            },
+            "view_all_by_name": "اظهر الكل بواسطة {{name}}",
+            "creator": "المطور",
+            "devlog": "سجل التطوير",
+            "edit_your_rating": "عدل تقييمك",
+            "edit_rating": "عدل التقييم",
+            "rate": "التقييم",
+            "rate_this_noun": "قيم {{noun}}",
+            "rate_for_jam": "تقييم ل{{jam_title}}"
         },
         "after_download": {
             "share_this_project": "انشر هذا المشروع",
-            "thanks_for_downloading_title": "شكرا للتحميل"
+            "thanks_for_downloading_title": "شكرا للتحميل",
+            "thanks_project_author": "نشكرك لتنزيل {{project}} من {{author}}.",
+            "more_from_creator": "يمكنك إيجاد المزيد من المطور نفسه علي صفحتة: {{profile}}.",
+            "see_everything": "أعرض كل شئ"
         },
         "report_form": {
             "description_label": "الوصف",
             "reason_label": "السبب",
-            "reason_other": "أخري"
+            "reason_other": "أخري",
+            "support_from_creator": "هل تواجهك مشكلة، هل تحتاج دعماً من المطور؟",
+            "submit_report_button": "قدم البلاغ",
+            "report_received_header": "أستقبل البلاغ"
+        },
+        "in_order_to_access": "من أجل الوصول إلي {{noun}} يجب عليك شرائها ب{{price}} او أكثر.",
+        "steam_key_bundle_disclaimer": "(ملحوظة:كود منصة Steam غير مرفق مع {{bundle_title}})",
+        "password_required": {
+            "header": "كلمة سر مطلوبة لعرض هذه الصفحة"
         }
     },
     "community": {
@@ -471,7 +512,59 @@
             "next_page": "الصفحة التالية",
             "previous_page": "الصفحة السابقة",
             "first_page": "الصفحة الأولي",
-            "last_page": "الصفحة الأخيرة"
+            "last_page": "الصفحة الأخيرة",
+            "reply": "رد",
+            "log_in_to_reply": "سجل الدخول لكي ترد",
+            "remove_bookmark": "حذف العلامة المرجعية",
+            "bookmark": "علامة مرجعية",
+            "unsubscribe": "إلغاء الاشتراك",
+            "subscribe": "اشتراك",
+            "replies_count": "الردود:{{count}}",
+            "views_count": "المشاهدات:{{count}}"
+        },
+        "post_list": {
+            "edits_count_plural": "({{count}} تعديل)",
+            "reply": "رد",
+            "like": "إعجاب",
+            "edit": "تعديل"
+        },
+        "post_form": {
+            "save": "حفظ",
+            "post": "نشر",
+            "post_reply": "نشر الرد"
+        },
+        "new_topic": {
+            "title": "العنوان",
+            "body": "الجسم"
+        },
+        "category": {
+            "new_flag": "جديد"
+        },
+        "topic_list": {
+            "new_flag": "جديد",
+            "sticky_flag": "مثبت",
+            "locked_flag": "مغلق"
         }
+    },
+    "buy_form": {
+        "buy_title": "شراء '{{title}}'",
+        "preorder_title": "شباب مسبق ل'{{title}}'"
+    },
+    "browse": {
+        "sort_popular": "مشهور",
+        "sort_new_and_popular": "جديد ومفضل",
+        "sort_top_sellers": "الأعلي مبيعًا",
+        "sort_top_rated": "الأعلي تقييماً",
+        "sort_most_recent": "الأحدث",
+        "sort": "رتب",
+        "filter_results": "تصفية النتائج",
+        "clear_filters": "إخلاء",
+        "filter_group_price": "السعر",
+        "filter_group_genre": "النوع",
+        "tag": {
+            "no_description_yet": "لا وصف"
+        },
+        "filter_group_platform": "المنصة",
+        "view_all_tags": "عرض جميع العلامات"
     }
 }
