@@ -565,6 +565,7 @@
             "no_description_yet": "لا وصف"
         },
         "filter_group_platform": "المنصة",
-        "view_all_tags": "عرض جميع العلامات"
+        "view_all_tags": "عرض جميع العلامات",
+        "filter_group_type": "نوع"
     }
 }
