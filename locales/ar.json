@@ -566,6 +566,9 @@
         },
         "filter_group_platform": "المنصة",
         "view_all_tags": "عرض جميع العلامات",
-        "filter_group_type": "النوع"
+        "filter_group_type": "النوع",
+        "filter_group": {
+            "more_options": "المزيد من الاعدادات"
+        }
     }
 }
