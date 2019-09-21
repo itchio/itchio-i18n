@@ -423,7 +423,16 @@
         "billing_address": "Fatura adresi",
         "generic_error": "Satın alımınızla ilgili bir hata oluştu: {{error}}",
         "contact_support_on_error": "Eğer problem devam ederse, lütfen ilgili detaylarla birlikte <a>itch.io Destek</a> ekibiyle irtibata geçin.",
-        "includes_steam_key": "Satın aldığınızda bir Steam kodu edineceksiniz."
+        "includes_steam_key": "Satın aldığınızda bir Steam kodu edineceksiniz.",
+        "download_title": "'{{title}}' İndir",
+        "buy_title": "'{{title}}' Satın al",
+        "preorder_title": "'{{title}}' Ön siparişi ver",
+        "sold_out_notice": "Bu ürünün stokları tükendi, daha sonra tekrar kontrol edin.",
+        "on_sale_notice": "Bu ürün indirimde.",
+        "support_message": "Bağışta bulunarak bu projenin geliştirilmesini destekleyin",
+        "percent_off_until": "{{end_date}} tarihine kadar bütün ürünler <s>%{{rate}}</s>indirimli.",
+        "also_buy_as_bundle_plural": "Bu ürünü bir paketin içinde {{count}} ürün ile birlikte {{price}} fiyatına satın alabilirsiniz:",
+        "buy_as_bundle_plural": "Bu ürünü bir paketin içinde {{count}} ürün ile birlikte {{price}} fiyatına satın alabilirsiniz:"
     },
     "collection": {
         "last_updated_date": "Son güncelleme {{date}}",
@@ -709,7 +718,76 @@
             "edit": "Düzenle",
             "delete_topic": "Başlığı sil",
             "delete": "Sil",
-            "report": "Şikayet et"
+            "report": "Şikayet et",
+            "ban": "Engelle...",
+            "vote_up": "Artı oy ver",
+            "vote_down": "Eksi oy ver",
+            "deleted_account": "Hesabı sil",
+            "suspended_account": "Hesabı askıya al",
+            "pinned_reply": "Sabitlenmiş Yanıt",
+            "pinned_post": "Sabitlenmiş Gönderi",
+            "edited": "(düzenlenmiş)"
+        },
+        "post_form": {
+            "add_profile_image": "Profil resmi ekle",
+            "save": "Kaydet",
+            "post": "Gönderi",
+            "subscribe": "Abone ol",
+            "subscribe_to_this_topic": "Bu başlığa abone ol",
+            "subscribe_description": "Konuya gelen yanıtlardan bildirim al",
+            "tag_header": "Etiket",
+            "remove_tag": "Etiketi kaldır",
+            "post_reply": "Yanıt gönder"
+        },
+        "new_topic": {
+            "moderator_tools": "Yönetici araçları",
+            "sticky": "Yapışık",
+            "locked": "Kilitli",
+            "moderation_options": "Seçenekler",
+            "i_agree_to_the_rules_above": "Yukarıdaki kuralları kabul ediyorum",
+            "new_topic": "Yeni başlık",
+            "this_a_community_run_message_board": "Bu, topluluk tarafından yönetilen bir mesaj panosu.",
+            "see_community_guidelines": "itch.io topluluk kuralları için <a>Topluluk Kılavuzunu</a> okuyun.",
+            "title": "Başlık",
+            "body": "İleti",
+            "topic_tag": "Etiket",
+            "your_moderators_are": "itch.io bu panoları denetlemiyor. Yöneticileriniz:",
+            "page_title": "Yeni bir başlık aç"
+        },
+        "misc": {
+            "new_topic_button": "Yeni başlık"
+        },
+        "category": {
+            "topics_count": "{{count}} başlık",
+            "topics_count_plural": "{{count}} başlık",
+            "create_first_topic_button": "İlk başlığı aç",
+            "empty_message": "Hiç konu başlığı yok",
+            "there_arent_any_topics_yet": "Henüz bir konu başlığı yok",
+            "search_community_label": "Toplulukta ara",
+            "subscribe_to_new_topics": "Yeni başlıklardan haberdar ol",
+            "unsubscribe_from_topics": "Abonelikten çık",
+            "stats": {
+                "topics": "Başlıklar"
+            },
+            "rules_header": "Kurallar",
+            "recent_posts_header": "Yeni İletiler",
+            "list_header_last_topic": "Son başlık",
+            "new_flag": "Yeni",
+            "archived_flag": "Arşivdekiler",
+            "by_topic_author": "yazar: {{username}}"
+        },
+        "topic_list": {
+            "views_count": "<s>{{count}}</s> görüntüleme",
+            "views_count_plural": "<s>{{count}}</s> görüntüleme",
+            "no_posts_yet": "Henüz hiç göneri yok",
+            "replies_count": "<s>{{count}}</s> cevap",
+            "replies_count_plural": "<s>{{count}}</s> cevap",
+            "started_by_author": "{{topic_author}} tarafından başlatıldı",
+            "new_flag": "Yeni",
+            "sticky_flag": "Yapışık",
+            "locked_flag": "Kilitli",
+            "list_header_topic_title": "Başlık",
+            "list_header_last_post": "Son ileti"
         }
     }
 }
