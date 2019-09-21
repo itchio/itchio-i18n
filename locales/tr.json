@@ -511,7 +511,8 @@
         "community_header": "Topluluğa katılın",
         "page_title": "Uygulamayı indirin",
         "meta_description": "itch, bağımsız oyunları indirmenin ve oynamanın en iyi yoludur. Ücretsiz oyunları indirin ve kütüphanenizi masaüstünüzden yönetin. Windows, macOS ve Linux'te mevcut.",
-        "web_games_description": "Tarayıcı tabanlı her oyunu uygulamayla eşleştirebilir, böylece istediğiniz zaman onları çevrim dışı oynayabilirsiniz. Tekrar çevrim içi olduğunuzda gerekirse herhangi bir güncellemeyi alabilirsiniz."
+        "web_games_description": "Tarayıcı tabanlı oyunları uygulamayla eşleştirebilir, istediğiniz zaman çevrim dışı oynayabilirsiniz. Tekrar çevrim içi olduğunuzda güncel sürümleri indirebilirsiniz.",
+        "community_description": "Uygulamanın geliştirme süreci ile ilgili daha fazla bilgiye <1>topluluğumuzdan</1> ulaşabilirsiniz. Eklenmesini istediğiniz yeni özellikleri ve geribildirimlerinizi itch.io üyeleri ile paylaşın. Yazılımcıysanız projenin kaynak kodlarına <2>GitHub üzerinden</2> ulaşabilirsiniz. Yapacağınız katkıları heyecan ile bekliyoruz."
     },
     "game": {
         "empty_page": "Görünüşe göre burada hiçbir şey yok...",
@@ -574,7 +575,8 @@
             "multiplayer": "Çoklu oyuncu",
             "player_count": "Oyuncu sayısı",
             "singleplayer": "Tek kişilik",
-            "links": "Bağlantılar"
+            "links": "Bağlantılar",
+            "mentions": "Anılma"
         },
         "community_header": "Topluluk",
         "join_the_community": "Topluluğa katıl",
@@ -626,7 +628,8 @@
             "footer": {
                 "report": "Şikayet et",
                 "embed": "Yerleştir",
-                "updated_date": "{{date}} tarihinde güncellendi"
+                "updated_date": "{{date}} tarihinde güncellendi",
+                "view_all_by_username": "{{username}} tarafından geliştirilenler"
             },
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "{{jam_title}} oyun maratonu için bir gönderi",
@@ -635,14 +638,37 @@
                 "you_rated_this_game": "Bu oyuna puan verdiniz",
                 "now_accepting_ratings": "Oyun maratonu gönderiler için puanlamayı kabul ediyor.",
                 "rating_instructions": "Yukarıdaki bağlantı ile gönderinin sayfasını ziyaret ederek yorum yazabilir ve puan verebilirsiniz."
-            }
+            },
+            "view_all_by_name": "{{name}} tarafından geliştirilenler",
+            "submission_to_jam": "{{jam_title}} gönderisi"
         },
         "after_download": {
             "share_this_project": "Bu projeyi paylaş",
             "thanks_for_downloading_title": "İndirdiğiniz için teşekkürler",
             "thanks_project_author": "{{author}} geliştiricisinin {{project}} projesini indirdiğiniz için teşekkürler.",
             "more_from_creator": "Geliştiricinin başka projelerine profil sayfasından ulaşabilirsiniz: {{profile}}.",
-            "check_popup_blocker": "İndirme işlemi hemen başlamalı. Başlamadığı taktirde pencere engellemesini kontrol edin."
+            "check_popup_blocker": "İndirme işlemi hemen başlamalı. Başlamadığı taktirde pencere engellemesini kontrol edin.",
+            "check_out_more_from_jam_title": "{{jam_title}} maratonundan daha fazla gönderi",
+            "view_all_from_jam": "Maratonun bütün girdileri",
+            "more_from_itchio_header": "itch.io'da daha fazlasını keşfedin",
+            "see_everything": "Her şeyi görüntüle",
+            "powered_by": "{{itchio_logo}} <s>tarafından destekleniyor</s>",
+            "app_learn_more": "<s>Yeni!</s> Kütüphanenizi indirmek ve yönetmek için itch.io masaüstü uygulamasını deneyin. <a>Daha fazla bilgi edinin</a>"
+        },
+        "report_form": {
+            "form_description": "Bu sayfanın içeriği hakkında itch.io yöneticileri ile iletişime geçmek istiyorsanız lütfen bu formu doldurun. Gerektiği taktirde raporunuz sayfanın sahibine iletilecektir.",
+            "support_from_creator": "Sorun yaşıyor ve sayfanın sahibi ile iletişime mi geçmek istiyorsunuz?",
+            "support_page_link": "Resmi destek sayfasına gidin",
+            "email_creator_link": "Geliştiriciye e-posta ile ulaşın",
+            "submit_report_button": "Raporu gönderin",
+            "title": "'{{page_title}}' rapor sayfası",
+            "report_received_header": "Rapor iletildi",
+            "description_label": "Açıklama",
+            "reason_label": "Sebep",
+            "reason_other": "Diğer"
+        },
+        "password_required": {
+            "header": "Sayfayı görüntülemek için şifre gerekiyor"
         }
     }
 }
