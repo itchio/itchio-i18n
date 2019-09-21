@@ -510,7 +510,8 @@
         "download_now": "Şimdi indirin",
         "community_header": "Topluluğa katılın",
         "page_title": "Uygulamayı indirin",
-        "meta_description": "itch, bağımsız oyunları indirmenin ve oynamanın en iyi yoludur. Ücretsiz oyunları indirin ve kütüphanenizi masaüstünüzden yönetin. Windows, macOS ve Linux'te mevcut."
+        "meta_description": "itch, bağımsız oyunları indirmenin ve oynamanın en iyi yoludur. Ücretsiz oyunları indirin ve kütüphanenizi masaüstünüzden yönetin. Windows, macOS ve Linux'te mevcut.",
+        "web_games_description": "Tarayıcı tabanlı her oyunu uygulamayla eşleştirebilir, böylece istediğiniz zaman onları çevrim dışı oynayabilirsiniz. Tekrar çevrim içi olduğunuzda gerekirse herhangi bir güncellemeyi alabilirsiniz."
     },
     "game": {
         "empty_page": "Görünüşe göre burada hiçbir şey yok...",
