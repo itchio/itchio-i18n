@@ -670,5 +670,46 @@
         "password_required": {
             "header": "Sayfayı görüntülemek için şifre gerekiyor"
         }
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "Bu konu arşivlere taşındı ve altına yorum yapılamıyor",
+            "reply": "Yanıtla",
+            "log_in_to_reply": "Yanıt vermek için giriş yap",
+            "unlisted_topic_notice": "<s>Yönetici bu konuyu listeden kaldırdı.</s> Bu konu, konular listesinde görünmüyor fakat yine de cevap yazabilir ve düzenleme yapabilirsiniz.",
+            "join_the_discussion": "Sohbede dahil olun. Devam etmek için giriş yapın ya da ücretsiz bir itch.io hesabı açın.",
+            "reply_to_someone_else": "Birisine cevap vermek için bu gönderinin altındaki <s>cevap</s> butonuna tıklayın.",
+            "new_reply": "Yeni cevap",
+            "remove_bookmark": "Yer imini kaldır",
+            "bookmark": "Yer imi",
+            "unsubscribe": "Takipten çık",
+            "subscribe": "Takip et",
+            "return_to_topic_list": "Gönderiler listesine dön",
+            "sticky": "Yapışık",
+            "locked": "Kilitli",
+            "moderation": "Yönetim",
+            "replies_count": "Cevaplar: {{count}}",
+            "views_count": "Görüntüleme: {{count}}",
+            "a_topic_by_username_created_time_ago": "{{username}} tarafından {{time_ago}} önce açılmış başlık",
+            "next_page": "Sonraki sayfa",
+            "previous_page": "Önceki sayfa",
+            "first_page": "Birinci sayfa",
+            "last_page": "Son sayfa",
+            "this_topic_is_locked": "Başlık kilitli",
+            "this_topic_was_locked_by_username": "Bu başlık {{username}} tarafından kilitlendi"
+        },
+        "post_list": {
+            "deleted_post": "Silinmiş gönderi",
+            "post_from_blocked_account": "Engelleniş hesaptan gönderi",
+            "edit_blocks": "Engellenenleri düzenle",
+            "edits_count_plural": "({{count}} düzenleme)",
+            "edits_count": "({{count}} düzenleme)",
+            "reply": "Yanıtla",
+            "like": "Beğen",
+            "edit": "Düzenle",
+            "delete_topic": "Başlığı sil",
+            "delete": "Sil",
+            "report": "Şikayet et"
+        }
     }
 }
