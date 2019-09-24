@@ -1323,7 +1323,8 @@
             "choose_stars": "Choose a rating from 1 to 5 stars.",
             "rate_header": "Rate & Review {{project_title}}",
             "you_rated_this_project_ago": "You rated this project {{time_ago}}."
-        }
+        },
+        "redeem_button": "Redeem"
     },
     "nags": {
         "unverified_email": {
