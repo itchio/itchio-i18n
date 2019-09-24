@@ -1323,7 +1323,8 @@
             "choose_stars": "Trieu una puntuació entre 1 i 5 estrelles.",
             "rate_header": "Puntua i ressenya {{project_title}}",
             "you_rated_this_project_ago": "Vau puntuar aquest projecte {{time_ago}}."
-        }
+        },
+        "redeem_button": "Bescanvia"
     },
     "nags": {
         "unverified_email": {
