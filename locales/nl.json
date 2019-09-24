@@ -183,8 +183,8 @@
         "community_post_author": "van {{username}}",
         "community_posts_count": "{{count}} bericht",
         "community_posts_count_plural": "{{count}} berichten",
-        "post_a_new_topic": "Plaats een nieuw topic",
-        "post_first_topic": "Plaats het eerste topic",
+        "post_a_new_topic": "Plaats een nieuw onderwerp",
+        "post_first_topic": "Plaats het eerste onderwerp",
         "community_sticky": "Gepind",
         "upload_list": {
             "preorder": "Voorbestellen",
@@ -512,32 +512,32 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Dit topic is gearchiveerd en er kan niet meer in gereageerd worden",
+            "topic_is_archived": "Dit onderwerp is gearchiveerd en er kan niet meer in gereageerd worden",
             "reply": "Reageren",
             "log_in_to_reply": "Log in om te reageren",
-            "unlisted_topic_notice": "<s>Een moderator heeft dit topic onzichtbaar gemaakt.</s>Je kunt het niet zien op de lijst met topics maar je kunt er nog steeds in reageren en bewerkingen maken.",
+            "unlisted_topic_notice": "<s>Een moderator heeft dit onderwerp onzichtbaar gemaakt.</s>Je kunt het niet zien op de lijst met onderwerpen, maar je kunt er nog steeds in reageren en bewerkingen maken.",
             "join_the_discussion": "Doe mee met de discussie. Log in of maak een gratis itch.io-account om verder te gaan.",
-            "reply_to_someone_else": "Wil je op iemand anders reageren. Klik op <s>reageren</s> onder hun bericht.",
+            "reply_to_someone_else": "Wil je op iemand anders reageren? Klik op <s>reageren</s> onder hun bericht.",
             "this_reply_will_go_to_yourself": "Deze reactie zal naar jezelf toe gaan.",
-            "this_reply_will_go_to_the_topic_author": "Deze reactie zal naar de topic-auteur, {{username}}, gaan.",
+            "this_reply_will_go_to_the_topic_author": "Deze reactie zal naar de auteur van dit onderwerp, {{username}}, gaan.",
             "new_reply": "Nieuwe reactie",
             "remove_bookmark": "Bladwijzer verwijderen",
             "bookmark": "Bladwijzer toevoegen",
             "unsubscribe": "Uitschrijven",
             "subscribe": "Inschrijven",
-            "return_to_topic_list": "Terug naar topic-lijst",
+            "return_to_topic_list": "Terug naar lijst met onderwerpen",
             "sticky": "Gepind",
             "locked": "Op slot",
             "moderation": "Moderatie",
             "replies_count": "Reacties: {{count}}",
             "views_count": "Views: {{count}}",
-            "a_topic_by_username_created_time_ago": "Een topic door {{username}}, {{time_ago}} aangemaakt",
+            "a_topic_by_username_created_time_ago": "Een onderwerp door {{username}}, {{time_ago}} aangemaakt",
             "next_page": "Volgende pagina",
             "previous_page": "Vorige pagina",
             "first_page": "Eerste pagina",
             "last_page": "Laatste pagina",
-            "this_topic_is_locked": "Dit topic is vergrendeld",
-            "this_topic_was_locked_by_username": "Dit topic werd vergrendeld door {{username}}"
+            "this_topic_is_locked": "Dit onderwerp is vergrendeld",
+            "this_topic_was_locked_by_username": "Dit onderwerp werd vergrendeld door {{username}}"
         },
         "post_list": {
             "deleted_post": "Verwijderd bericht",
@@ -548,7 +548,7 @@
             "reply": "Reageren",
             "like": "Leuk vinden",
             "edit": "Aanpassen",
-            "delete_topic": "Topic verwijderen",
+            "delete_topic": "Onderwerp verwijderen",
             "delete": "Verwijderen",
             "report": "Rapporteren",
             "ban": "Verbannen...",
@@ -566,8 +566,8 @@
             "save": "Opslaan",
             "post": "Plaatsen",
             "subscribe": "Inschrijven",
-            "subscribe_to_this_topic": "Inschrijven voor dit topic",
-            "subscribe_description": "Krijg een melding van nieuwe reacties op dit topic",
+            "subscribe_to_this_topic": "Inschrijven voor dit onderwerp",
+            "subscribe_description": "Krijg een melding van nieuwe reacties op dit onderwerp",
             "tag_header": "Label",
             "remove_tag": "Label verwijderen",
             "post_reply": "Reactie plaatsen"
@@ -578,22 +578,22 @@
             "locked": "Vergrendeld",
             "moderation_options": "Instellingen",
             "i_agree_to_the_rules_above": "Ik ga akkoord met de regels hierboven",
-            "new_topic": "Nieuw topic",
+            "new_topic": "Nieuw onderwerp",
             "this_a_community_run_message_board": "Dit is een mededelingenbord die door de community wordt beheerd.",
             "see_community_guidelines": "Zie de <a>Community-richtlijnen</a> voor itch.io's communitybeleid.",
             "title": "Titel",
             "body": "Hoofdtekst",
             "topic_tag": "Label",
             "your_moderators_are": "itch.io modereert deze borden niet, je moderators zijn:",
-            "page_title": "Plaats een nieuw topic"
+            "page_title": "Plaats een nieuw onderwerp"
         },
         "misc": {
-            "new_topic_button": "Nieuw topic"
+            "new_topic_button": "Nieuw onderwerp"
         },
         "category": {
-            "topics_count": "{{count}} topic",
-            "topics_count_plural": "{{count}} topics",
-            "create_first_topic_button": "Maak het eerste topic",
+            "topics_count": "{{count}} onderwerp",
+            "topics_count_plural": "{{count}} onderwerpen",
+            "create_first_topic_button": "Maak het eerste onderwerp",
             "empty_message": "Er zijn geen topics",
             "there_arent_any_topics_yet": "Er zijn nog geen topics",
             "search_community_label": "Doorzoek community",
@@ -604,7 +604,7 @@
             },
             "rules_header": "Regels",
             "recent_posts_header": "Recente Berichten",
-            "list_header_last_topic": "Nieuwste topic",
+            "list_header_last_topic": "Nieuwste onderwerp",
             "new_flag": "Nieuw",
             "archived_flag": "Gearchiveerd",
             "by_topic_author": "door {{username}}"
@@ -619,7 +619,7 @@
             "new_flag": "Nieuw",
             "sticky_flag": "Sticky",
             "locked_flag": "Vergrendeld",
-            "list_header_topic_title": "Topic",
+            "list_header_topic_title": "Onderwerp",
             "list_header_last_post": "Nieuwste bericht"
         }
     },
@@ -970,8 +970,8 @@
         },
         "results": {
             "results": "Resultaten",
-            "submissions_summary": "<s>{{count}} inzending</s>werd ingestuurd tussen {{start_date}} en {{end_date}}.",
-            "submissions_summary_plural": "<s>{{count}} inzendingen</s>werden ingestuurd tussen {{start_date}} en {{end_date}}.",
+            "submissions_summary": "<s>{{count}} inzending</s> werd ingestuurd tussen {{start_date}} en {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} inzendingen</s> werden ingestuurd tussen {{start_date}} en {{end_date}}.",
             "votes_cast_count": "<s>{{count}}</s> stem werd gegeven tussen {{vote_start_date}} en {{vote_end_date}}.",
             "votes_cast_count_plural": "<s>{{count}}</s> stemmen werden gegeven tussen {{vote_start_date}} en {{vote_end_date}}.",
             "ratings_given_count": "<s>{{count}} beoordeling</s> werd gegeven tussen {{vote_start_date}} en {{vote_end_date}}.",
@@ -986,7 +986,13 @@
             "sort_overall": "Algemeen",
             "submissions": {
                 "by_author": "op {{author}}",
-                "view_submission_page": "Bekijk"
+                "view_submission_page": "Bekijk inzendingspagina",
+                "ranked": "Als {{ordinal_rank}} beoordeeld",
+                "ranked_vote_count": "Als {{ordinal_rank}} beoordeeld met {{count}} stem",
+                "ranked_vote_count_plural": "Als {{ordinal_rank}} beoordeeld met {{count}} stemmen",
+                "ranked_rating_count": "Als {{ordinal_rank}} beoordeeld met {{count}} beoordeling",
+                "ranked_rating_count_plural": "Als {{ordinal_rank}} beoordeeld met {{count}} beoordelingen",
+                "ranked_criteria": "Als {{ordinal_rank}} beoordeeld in {{criteria_name}}"
             }
         }
     }
