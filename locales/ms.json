@@ -284,10 +284,11 @@
             "digest_signup": "Daftarkan saya untuk surat berita bi-bulanan itch.io",
             "interest_gamer": "Saya berminat bermain atau memuat turun permainan pada itch.io",
             "interest_developer": "Saya berminat dengan kandungan yang menggangu pada itch.io",
-            "account_preferences_info": "Anda boleh menukar jawapan anda pada bila-bila masa, mereka digunakan untuk memberi petunjuk bagi bagaimana itch.io sepatutnya ditunjukkan kepada anda.",
+            "account_preferences_info": "Anda boleh menukar jawapan anda pada bila-bila masa, jawapan anda digunakan untuk memberikan petunjuk kepada itch.io supaya paparan lamannya kepada anda sesuai.",
             "about_you": "Tentang anda",
             "your_email_address": "Alamat emel anda",
-            "password": "Kata laluan"
+            "password": "Kata laluan",
+            "repeat_password": "Ulangi kata laluan"
         }
     }
 }
