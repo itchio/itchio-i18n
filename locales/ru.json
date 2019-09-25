@@ -1352,7 +1352,8 @@
             "choose_stars": "Выставите оценку от 1 до 5 звёзд.",
             "rate_header": "Оцените и напишите отзыв о {{project_title}}",
             "you_rated_this_project_ago": "Вы оценили этот проект {{time_ago}}."
-        }
+        },
+        "redeem_button": "Восстановить"
     },
     "nags": {
         "unverified_email": {
