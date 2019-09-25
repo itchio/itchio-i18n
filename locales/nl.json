@@ -22,7 +22,7 @@
             "bundles": "Bundels",
             "browse": "Bladeren",
             "browse_games": "Door Games bladeren",
-            "game_jams": "Game Jams",
+            "game_jams": "Game-jams",
             "community": "Community",
             "jams": "Jams",
             "dashboard": "Dashboard",
@@ -38,7 +38,7 @@
             "feed_unseen_count": "{{count}} nieuwe",
             "feed_unseen_count_plural": "{{count}} nieuwe",
             "feed": "Feed",
-            "game_assets": "Assets"
+            "game_assets": "Hulpmiddelen"
         },
         "user_menu": {
             "explore": "Verkennen",
@@ -55,7 +55,7 @@
             "feed": "Mijn feed",
             "account_menu_tooltip": "Account-menu",
             "view_profile": "Profiel bekijken",
-            "game_jams": "Game jams"
+            "game_jams": "Game-jams"
         }
     },
     "index": {
@@ -77,7 +77,7 @@
         "more_featured_games": "Meer uitgelichte spellen",
         "game_dev_on_sale": "Spelontwikkeling-hulpmiddelen <1>in de aanbieding</1>",
         "view_all_on_sale": "Bekijk alles in de aanbieding",
-        "download_app": "Download app",
+        "download_app": "App downloaden",
         "people_to_follow_description": "Hier zijn een paar accounts die je misschien interessant vindt om te volgen. <a>Waarom volgen?</a>",
         "browse": "Bladeren",
         "view_something_random": "Bekijk iets willekeurigs",
@@ -99,7 +99,7 @@
             "community": "Community",
             "all_games": "Alle spellen",
             "bundles": "Bundels",
-            "game_jams": "Game jams"
+            "game_jams": "Game-jams"
         },
         "browse_content_type": "Blader door {{content_type}}",
         "intro": "<s>itch.io</s> is een eenvoudige manier om indie-spellen gratis online te vinden en te delen.",
@@ -155,7 +155,7 @@
             "accessibility": "Toegankelijkheid",
             "multiplayer": "Multiplayer",
             "player_count": "Aantal spelers",
-            "singleplayer": "Singleplayer",
+            "singleplayer": "Alleen spelen",
             "links": "Links",
             "mentions": "Vermeldingen"
         },
@@ -280,7 +280,7 @@
             "comic": "Stripverhalen",
             "book": "Boeken",
             "physical_game": "Fysieke spellen",
-            "soundtrack": "Soundtracks",
+            "soundtrack": "Muziekalbums",
             "tool": "Hulpmiddelen"
         },
         "accessibility_features": {
@@ -303,11 +303,11 @@
             "keyboard": "Toetsenbord",
             "mouse": "Muis",
             "voice": "Stembesturing",
-            "accelerometer": "Accelerometer",
+            "accelerometer": "Versnellingsmeter",
             "phone": "Smartphone",
             "joystick": "Joystick",
             "dance_pad": "Dansmat",
-            "touchscreen": "Touchscreen",
+            "touchscreen": "Aanraakscherm",
             "midi_controller": "MIDI-controller"
         },
         "forms": {
@@ -358,7 +358,7 @@
             "web": "Web"
         },
         "collection_button": {
-            "add_to_collection": "Toevoegen aan verzameling"
+            "add_to_collection": "Toevoegen aan collectie"
         },
         "lightboxes": {
             "close": "Sluiten"
@@ -507,7 +507,7 @@
         "download_now": "Nu downloaden",
         "community_header": "Sluit je aan bij de community",
         "community_description": "Leer meer over de ontwikkeling van onze app <1>in onze gemeenschap</1>. Deel je verzoeken voor nieuwe functies en algemene feedback met andere leden van itch.io. Als je een programmeur bent, zal je het leuk vinden dat het hele project <2>open source is op GitHub</2>, we kijken uit naar je pull requests.",
-        "page_title": "Download App",
+        "page_title": "App downloaden",
         "meta_description": "itch, de beste manier om indiegames te downloaden en te spelen. Download gratis games en beheer je verzameling op je desktop. Nu beschikbaar voor Windows, macOS en Linux."
     },
     "community": {
@@ -557,8 +557,8 @@
             "vote_down": "Omlaag stemmen",
             "deleted_account": "Verwijderd account",
             "suspended_account": "Geschorst account",
-            "pinned_reply": "Vastgeprikte reactie",
-            "pinned_post": "Vastgeprikt bericht",
+            "pinned_reply": "Vastgepinde reactie",
+            "pinned_post": "Vastgepind bericht",
             "edited": "(aangepast)"
         },
         "post_form": {
@@ -574,7 +574,7 @@
         },
         "new_topic": {
             "moderator_tools": "Moderator-hulpmiddelen",
-            "sticky": "Sticky",
+            "sticky": "Vastgeprikt",
             "locked": "Vergrendeld",
             "moderation_options": "Instellingen",
             "i_agree_to_the_rules_above": "Ik ga akkoord met de regels hierboven",
@@ -600,7 +600,7 @@
             "subscribe_to_new_topics": "Inschrijven voor nieuwe topics",
             "unsubscribe_from_topics": "Uitschrijven",
             "stats": {
-                "topics": "Topics"
+                "topics": "Onderwerpen"
             },
             "rules_header": "Regels",
             "recent_posts_header": "Recente Berichten",
@@ -617,7 +617,7 @@
             "replies_count_plural": "<s>{{count}}</s> reacties",
             "started_by_author": "begonnen door {{topic_author}}",
             "new_flag": "Nieuw",
-            "sticky_flag": "Sticky",
+            "sticky_flag": "Vastgeprikt",
             "locked_flag": "Vergrendeld",
             "list_header_topic_title": "Onderwerp",
             "list_header_last_post": "Nieuwste bericht"
@@ -676,7 +676,7 @@
         "results_count_plural": "{{count}} resultaten",
         "results_count": "{{count}} resultaat",
         "sort_popular": "Populair",
-        "sort_new_and_popular": "Nieuw & Populair",
+        "sort_new_and_popular": "Nieuw & populair",
         "sort_top_sellers": "Best verkopend",
         "sort_top_rated": "Beste beoordeeld",
         "sort_most_recent": "Meest recent",
@@ -716,7 +716,7 @@
         "filter_everything_else": "De rest"
     },
     "browse_tags": {
-        "page_title": "Top labels",
+        "page_title": "Top-labels",
         "find_tag": "Vind een label",
         "commonly_tagged_with": "Vaak gelabeld met",
         "no_description_yet": "Nog geen omschrijving"
@@ -925,7 +925,7 @@
                 "results": "Resultaten",
                 "submissions": "Inzendingen",
                 "overview": "Overzicht",
-                "screenshots": "Screenshots",
+                "screenshots": "Schermafbeeldingen",
                 "submission_feed": "Inzendings-feed",
                 "edit_jam": "Jam bewerken"
             }
@@ -1074,7 +1074,7 @@
             "payouts_link": "Uitbetalingen",
             "sales_bundles_link": "Aanbiedingen & bundels",
             "coop_bundles_link": "Co-op-bundels",
-            "game_jams_link": "Game jams"
+            "game_jams_link": "Game-jams"
         },
         "create_new_project_button": "Maak een nieuw project",
         "project_list": {
@@ -1191,7 +1191,144 @@
                 "suggested_price_label": "Voorgestelde prijs",
                 "default_price_info": "Standaardprijs die wordt weergegeven als iemand je project probeert te kopen",
                 "price_too_low_error": "Gelieve een waarde op te geven die groter is dan de projectprijs"
-            }
+            },
+            "uploads": {
+                "delete_file_button": "Bestand verwijderen",
+                "play_in_browser_toggle": "Dit bestand zal in de browser gespeeld worden",
+                "hide_toggle": "Verberg dit bestand & voorkom dat het gedownload wordt",
+                "demo_toggle": "Dit bestand is een demo en kan gratis gedownload worden",
+                "preorder_toggle": "Dit bestand is een placeholder van een voorbestelling",
+                "set_price_toggle": "Stel een ander bedrag in voor dit bestand",
+                "change_display_name_button": "Verander weergavenaam"
+            },
+            "community_field_info": "Bouw een community rondom je project door mensen berichten op je pagina te laten plaatsen.",
+            "community_comments_info": "Voeg een ingebed discussieveld toe aan de onderkant van de pagina",
+            "community_discussion_board_info": "Voeg een speciale community-pagina toe met categorieën, onderwerpen, reacties & meer",
+            "add_screenshots": "Schermafbeeldingen toevoegen",
+            "screenshots_header": "Schermafbeeldingen"
+        },
+        "project_header": {
+            "edit_project": "Project bewerken",
+            "devlog": "Devlog",
+            "metadata": "Metadata",
+            "analytics": "Statistieken",
+            "distribute": "Distruberen",
+            "interact": "Interactie",
+            "edit_comments": "Reacties bewerken",
+            "discussion_board": "Discussiebord",
+            "rewards": "Beloningen",
+            "admins": "Admins",
+            "more": "Meer"
+        }
+    },
+    "add_to_collection": {
+        "dialog_title": "Voeg {{project_title}} toe aan collectie",
+        "add_reason": "Voeg dit project toe aan een collectie om het voor later te bewaren.",
+        "already_in_collections": "Dit project zit al in de volgende collecties:",
+        "count_items": "{{count}} voorwerp",
+        "count_items_plural": "{{count}} voorwerpen",
+        "add_to_existing": "Toevoegen aan bestaande collectie",
+        "private_collection_title": "[Privé] {{title}}",
+        "add_to_new": "Toevoegen aan een nieuwe collectie genaamd",
+        "default_title": "{{username}}'s Collectie",
+        "add_button": "Toevoegen aan collectie",
+        "manage_collections_link": "Collecties beheren",
+        "private_collection_option": "Privécollectie — Alleen jij kan de inhoud zien",
+        "about_this_project_label": "Over dit project"
+    },
+    "game_grid": {
+        "in_bundle": "In bundel"
+    },
+    "jams": {
+        "jams_created_header": "Jams die jij hebt gemaakt",
+        "jams_joined_header": "Jams waar je aan hebt meegedaan",
+        "page_title": "Game jams op itch.io",
+        "page_summary": "itch.io is een plek om game jams online te organiseren en erin deel te nemen. Iedereen kan meteen een jam maken of meedoen.",
+        "games_created": "<s>{{count}} spel</s> is gemaakt voor op itch.io georganiseerde game jams.",
+        "games_created_plural": "<s>{{count}} spellen</s> zijn gemaakt voor op itch.io georganiseerde game jams.",
+        "host_a_jam_button": "Organiseer een jam",
+        "manage_submissions_link": "Beheer je inschrijvingen en jams",
+        "browse_jams_header": "Blader door jams",
+        "jam_calendar_header": "Jam-kalender",
+        "host_your_own_jam_button": "Organiseer je eigen jam",
+        "host_or_explore_links": "<1>Organiseer je eigen jam</1> of <2>Verken alle jams</2>",
+        "dont_see_something_you_like_header": "Zie je niets wat je leuk lijkt?",
+        "browse_upcoming_this_month": "Begint deze maand",
+        "brose_featured_jams": "Uitgelichte jams",
+        "browse_top_past_jams": "Populairste afgelopen jams",
+        "browse_in_progress": "Nu bezig",
+        "count_joined": "{{count}} doen mee"
+    },
+    "feed": {
+        "filter_own_activity_tab": "Mijn eigen activiteit",
+        "filter_everything_tab": "Alles",
+        "filter_new_projects_tab": "Nieuwe projecten",
+        "filter_collections_tab": "Collecties",
+        "filter_devlogs_tab": "Devlogs",
+        "filter_ratings_tab": "Beoordelingen",
+        "latest_featured_games_header": "Recent uitgelichte spellen",
+        "featured_tags_header": "Uitgelichte labels",
+        "to_rate": {
+            "projects_to_rate_header": "Projecten om te beoordelen",
+            "to_rate_description": "Hier zijn wat projecten waar je iets mee hebt gedaan, maar die je nog niet beoordeeld hebt."
+        },
+        "to_follow": {
+            "people_to_follow_header": "Mensen om te volgen",
+            "to_follow_description": "Hier zijn wat accounts die je misschien interessant vindt om te volgen."
+        },
+        "my_feed_tab": "Mijn feed",
+        "global_feed_tab": "Globale feed",
+        "manage_my_games_button": "Beheer mijn games",
+        "upload_a_game_button": "Upload een game",
+        "event_filter_label": "Filter:",
+        "email_warning": {
+            "verify_your_email_address": "Bevestig je email-adres"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Voeg een profielafbeelding toe",
+            "description": "Je account heeft geen profielafbeelding, voeg er eentje toe zodat het voor anderen makkelijker word om je te identificeren!"
+        },
+        "event": {
+            "collection_summary": "Een collectie met {{count}} voorwerp.",
+            "collection_summary_plural": "Een collectie met {{count}} voorwerpen.",
+            "collection_added_count": "{{count}} voorwerp toegevoegd.",
+            "collection_added_count_plural": "{{count}} voorwerpen toegevoegd."
+        }
+    },
+    "library": {
+        "page_title": "Mijn bibliotheek",
+        "things_you_own_header": "Dingen die je bezit",
+        "view_all_link": "Bekijk alles",
+        "show_on_my_profile_toggle": "Op mijn profiel weergeven",
+        "things_rated_header": "Dingen die je beoordeeld hebt",
+        "permalink": "Permanente link",
+        "private_toggle": "Privé",
+        "go_to_collection_link": "Ga naar collectie",
+        "empty_collection_message": "Deze collectie is leeg",
+        "nav_header": "Verzameling",
+        "nav": {
+            "my_purchases": "Mijn aankopen",
+            "recommended_for_you": "Aanbevolen voor jou",
+            "things_on_sale": "Voorwerpen in de aanbieding",
+            "things_to_rate": "Voorwerpen om te beoordelen"
+        },
+        "download_button": "Downloaden",
+        "gift_button": "Cadeau geven",
+        "rate_game": {
+            "rating_saved_header": "Beoordeling opgeslagen",
+            "follow_creator": "Overweeg de maker van {{project_title}} te volgen om op de hoogte te blijven van nieuwe uitgaves.",
+            "rating_removed_header": "Beoordeling verwijderd",
+            "rating_deleted_summary": "Je beoordeling is verwijderd.",
+            "delete_button": "Verwijder beoordeling & recensie",
+            "choose_stars": "Kies een beoordeling van 1 tot 5 sterren.",
+            "rate_header": "Beoordeel & recenseer {{project_title}}",
+            "you_rated_this_project_ago": "Je hebt dit project {{time_ago}} beoordeeld."
+        },
+        "redeem_button": "Inwisselen"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Je email-adres is niet geverifieerd"
         }
     }
 }
