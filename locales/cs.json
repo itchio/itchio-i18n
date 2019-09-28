@@ -149,7 +149,8 @@
         },
         "multiplayer_features": {
             "local": "Lokální hra pro více hráčů",
-            "server": "Hra pro více hráčů na serveru"
+            "server": "Hra pro více hráčů na serveru",
+            "adhoc": "Ad-hoc síťový multiplayer"
         },
         "inputs": {
             "keyboard": "Klávesnice",
@@ -160,7 +161,8 @@
             "voice": "Zvukové ovládání",
             "phone": "Chytrý telefon",
             "dance_pad": "Tancovací podložka",
-            "accelerometer": "Akcelerometr"
+            "accelerometer": "Akcelerometr",
+            "midi_controller": "MIDI kontrolér"
         },
         "durations": {
             "seconds": "Pár sekund",
@@ -268,7 +270,27 @@
             "comment": "Budeš potřebovat itch.io účet k tomu aby jsi mohl komentovat.",
             "rate_game": "Budeš potřebovat itch.io účet před tím než budeš moct hodnotit.",
             "follow": "Potřebuješ účet na itch.io aby jsi mohl někoho sledovat.",
-            "follow_username": "Potřebuješ účet na itch.io aby jsi mohl sledovat <1>{{username}}</1>."
+            "follow_username": "Potřebuješ účet na itch.io aby jsi mohl sledovat <1>{{username}}</1>.",
+            "collection": "Potřebuješ itch.io účet abys mohl přidávat do kolekce.",
+            "recent_purchases": "Přihlaste se a propojte všechny nedávné nákupy."
+        },
+        "no_account_prompt": "Nemáš účet? <1>Vytvořit účet</1>",
+        "page_title": "Přihlásit se",
+        "you_are_logged_out": "Jsi odhlášen",
+        "welcome_back": "Vítej zpět!",
+        "welcome_to_itchio": "Vítej na itch.io!",
+        "errors": {
+            "accept_terms": "Musíš přijmout smluvní podmínky"
+        }
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Vytvořte si účet na itch.io",
+        "register_form": {
+            "create_account": "Vytvořit účet",
+            "already_have_account": "nebo již máte účet?",
+            "log_in": "Přihlásit se",
+            "link_product": "Váš nákup {{product}} bude po registraci automaticky propojen s vaším účtem.",
+            "accept_tos": "Přijímám <1>smluvní podmínky</1>"
         }
     }
 }
