@@ -1328,6 +1328,7 @@
             "choose_stars": "Wähle eine Bewertung von 1 bis 5 Sternen.",
             "rate_header": "Bewerte & Reviewe {{project_title}}",
             "you_rated_this_project_ago": "Du hast dieses Projekt vor {{time_ago}} bewertet."
-        }
+        },
+        "redeem_button": "Einlösen"
     }
 }
