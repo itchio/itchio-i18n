@@ -1,1 +1,40 @@
-{}
+{
+    "itchio": "इत्चइओ",
+    "layout": {
+        "footer": {
+            "about": "हमारे बारे में",
+            "faq": "अक्सर पूछे जाने वाले प्रश्न",
+            "blog": "ब्लॉग",
+            "contact_us": "हमसे संपर्क करें",
+            "terms": "शर्तें",
+            "directory": "दिरेक्तोर्य",
+            "privacy": "एकांत",
+            "cookies": "कुकीज़"
+        },
+        "header": {
+            "browse": "ब्राउज",
+            "browse_games": "गेम ब्राउज़ करें",
+            "game_jams": "गेम जैम",
+            "upload_game": "गेम उप्लॉद करें",
+            "devlogs": "विकास लॉगस",
+            "community": "समुदाय",
+            "search_placeholder": "गेम्स या रचनाकारों की खोज करें",
+            "search": "खोजें",
+            "log_in": "लॉग इन करें",
+            "register": "रजिस्टर करें",
+            "dashboard": "डैशबोर्ड",
+            "jams": "जेम्स",
+            "notifications_count": "{{count}} सूचना",
+            "notifications_count_plural": "{{count}} सूचना",
+            "no_notifications": "कोई नई सूचनाएं नहीं है",
+            "free_games": "मुफ्त गेम्स",
+            "indie_game_store": "इंडी इंडी स्टोरगेम",
+            "game_development": "गेम निर्माण",
+            "comics": "कॉमिक्स",
+            "sales": "बिक्री",
+            "bundles": "बंडलस",
+            "game_assets": "साधन",
+            "fun_games": "मजेदार गेमस"
+        }
+    }
+}
