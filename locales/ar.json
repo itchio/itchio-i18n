@@ -361,7 +361,7 @@
         "languages_description": "تطبيق itch متوفر بأكثر من 20 لغة، والشكر موصول لمجتمع itch.io! <a>أعرف المزيد عن الترجمة</a>",
         "download_now": "قم بتحميله الآن",
         "community_header": "انضم للمجتمع",
-        "community_description": "تعرف على المزيد حول تطوير التطبيق <1>في مجتمعنا</1>. مشاركة طلبات الميزات والتعليقات العامة مع الأعضاء الآخرين في itch.io. إذا كنت مبرمجًا، فسيسعدك أن تسمع أن المشروع بأكمله <2>مفتوح المصدر على جيت هاب</2>، ونحن نتطلع إلى طلبات السحب الخاصة بك.",
+        "community_description": "تعرف على المزيد حول تطوير التطبيق <1>في مجتمعنا</1>. شارك طلبات الميزات والتعليقات العامة مع الأعضاء الآخرين في itch.io. إذا كنت مبرمجًا، فسيسعدك أن تسمع أن المشروع بأكمله <2>مفتوح المصدر على جيت هاب</2>، ونحن نتطلع إلى طلبات السحب الخاصة بك.",
         "page_title": "حمل التطبيق",
         "meta_description": "itch هو أفضل طريقة لتحميل ولعب الألعاب المستقلة. قم بتنزيل الألعاب المجانية وأدر مكتبتك من سطح مكتبك. متوفر الآن لنظام التشغيل ويندوز وماك أو إس ولينكس."
     },
@@ -372,8 +372,8 @@
         "download_header": "تنزيل",
         "unavailable": "{{game_noun}} غير متوفرة",
         "purchase_header": "شراء",
-        "download_access": "انقر فوق تنزيل الآن للوصول إلى الملفات التالية:",
-        "get_access": "سوف تحصل على أذن الوصول إلى الملفات التالية:",
+        "download_access": "انقر فوق تحميل الآن للوصول إلى الملفات التالية:",
+        "get_access": "سوف تحصل على إذن الوصول إلى الملفات التالية:",
         "get_access_preorder": "ستحصل على إذن الوصول إلى الملفات التالية عند إصدارها:",
         "download_demo_header": "تنزيل النسخة التجريبية",
         "available_header": "متوفر على",
@@ -391,19 +391,19 @@
         "devlog_view_all_posts": "عرض كل المنشورات",
         "your_purchase_comes_with_a_steam_key": "تأتي مشترياتك مع كود لمنصة Steam.",
         "donate_button": "أدعم {{noun}}",
-        "empty_page_no_uploads": "هذا المطور لم يرفع آي شئ بعد...",
+        "empty_page_no_uploads": "هذا المطور لم يرفع أي شئ بعد...",
         "comments": {
             "comments_header": "التعليقات",
-            "leave_a_comment_header": "اترك تعليقا",
-            "leave_a_comment": "اترك تعليقا",
-            "click_to_leave_a_comment": "اضغط لتضع تعليقا...",
+            "leave_a_comment_header": "ضع تعليقًا",
+            "leave_a_comment": "ضع تعليقًا",
+            "click_to_leave_a_comment": "اضغط لتضع تعليقًا...",
             "post_comment": "ضع التعليق",
             "write_your_comment": "اكتب تعليقك…",
             "log_in_to_leave_comment": "<a>سجل الدخول في itch.io</a> لكي تضع تعليق."
         },
         "info_panel": {
-            "updated_at": "محدث",
-            "published_at": "نشر",
+            "updated_at": "حُدث منذ",
+            "published_at": "نُشر فى",
             "release_status": "الحالة",
             "category": "الفئة",
             "platforms": "المنصات",
@@ -432,32 +432,32 @@
         "community_view_all_posts": "عرض كل المنشورات",
         "community_post_author": "ب {{username}}",
         "post_a_new_topic": "انشر موضوع جديد",
-        "post_first_topic": "ضع الموضوع الاول",
-        "community_sticky": "مثبت",
+        "post_first_topic": "ضع موضوعك الأول",
+        "community_sticky": "مُثبت",
         "upload_list": {
             "preorder": "شراء مسبق",
-            "download": "تنزيل",
+            "download": "تحميل",
             "play_in_browser": "اللعب بداخل المتصفح",
             "version_name": "الاصدار {{version_name}}",
-            "empty_message": "لا يتوفر شئ للتحميل حاليا.",
+            "empty_message": "لا يتوفر شئ للتحميل حاليًا.",
             "if_you_pay_price_or_more": "إذا دفعت {{price}} أو أكثر",
             "this_file_will_be_available_when_the_creator_uploads_it": "سيتوفر الملف حينما يرفعه المطور"
         },
         "layout": {
             "follow": "تابع",
-            "following": "تتابعه",
+            "following": "تُتابعه",
             "follow_username": "تابع {{username}}",
-            "following_username": "تتابع {{username}}",
-            "add_to_collection": "اضف إلي مجموعة",
+            "following_username": "تُتابع {{username}}",
+            "add_to_collection": "أضف إلي مجموعة",
             "add_to_collection_short": "مجموعة",
             "comments": "التعليقات",
             "community": "المجتمع",
-            "related_games": "الالعاب المتعلقة",
-            "related_games_short": "متعلقة",
+            "related_games": "الألعاب المشابهة",
+            "related_games_short": "مشابهة",
             "ownership": {
                 "you_own_this": "انت تمتلك هذا",
                 "send_gift": "أرسل كهدية",
-                "download": "تنزيل",
+                "download": "تحميل",
                 "percent_off": "خصم {{percent}}%",
                 "you_havent_sent_this_gift_to_anyone_yet": "لم ترسل هدايا لأي شخص بعد",
                 "claimed": "ملكك",
@@ -468,11 +468,16 @@
             "footer": {
                 "report": "إبلاغ",
                 "view_all_by_username": "اظهر الكل بواسطة {{username}}",
-                "embed": "مدمج",
-                "updated_date": "حدث {{date}}"
+                "embed": "مُدمج",
+                "updated_date": "حُدث منذ {{date}}"
             },
             "jam_submission": {
-                "you_rated_this_game": "لقد قيمت هذه اللعبة"
+                "you_rated_this_game": "لقد قيمت هذه اللعبة",
+                "this_is_a_submission_to_jam_title": "هذا تقديم إلى {{jam_title}}",
+                "view_the_submission_page": "عرض صفحة التقديمات",
+                "accepting_ratiings": "هذا الكوم يقبل حاليًا التقييمات علي التقديمات. <a>أعرف المزيد</a>",
+                "now_accepting_ratings": "هذا الكوم يقبل حاليًا التقييمات علي التسجيلات.",
+                "rating_instructions": "قيم وعلق على هذا الدخول في الكوم من خلال زيارة صفحة التقديم من الرابط أعلاه."
             },
             "view_all_by_name": "اظهر الكل بواسطة {{name}}",
             "creator": "المطور",
@@ -481,28 +486,45 @@
             "edit_rating": "عدل التقييم",
             "rate": "التقييم",
             "rate_this_noun": "قيم {{noun}}",
-            "rate_for_jam": "تقييم ل{{jam_title}}"
+            "rate_for_jam": "تقييم ل{{jam_title}}",
+            "submission_to_jam": "تقديم إلى {{jam_title}}"
         },
         "after_download": {
             "share_this_project": "انشر هذا المشروع",
-            "thanks_for_downloading_title": "شكرا للتحميل",
+            "thanks_for_downloading_title": "شكرًا للتحميل",
             "thanks_project_author": "نشكرك لتنزيل {{project}} من {{author}}.",
-            "more_from_creator": "يمكنك إيجاد المزيد من المطور نفسه علي صفحتة: {{profile}}.",
-            "see_everything": "أعرض كل شئ"
+            "more_from_creator": "يمكنك إيجاد المزيد من المطور نفسه على صفحته: {{profile}}.",
+            "see_everything": "شاهد كل شئ",
+            "check_popup_blocker": "يجب أن يبدأ الحميل بعد لحظات. إذا لم يحدث ذلك، فتحقق من مانع ظهور النوافذ المنبثقة.",
+            "check_out_more_from_jam_title": "شاهد المزيد من {{jam_title}}",
+            "view_all_from_jam": "شاهد الكل من هذا الكوم",
+            "more_from_itchio_header": "شاهد المزيد من itch.io",
+            "powered_by": "<s>مدعوم بواسطة</s> {{itchio_logo}}",
+            "app_learn_more": "<s>جديد!</s> جرب تطبيق itch.io لسطح المكتب لتحميل وإدارة مكتبتك. <a>أعرف المزيد</a>"
         },
         "report_form": {
             "description_label": "الوصف",
             "reason_label": "السبب",
             "reason_other": "أخري",
-            "support_from_creator": "هل تواجهك مشكلة، هل تحتاج دعماً من المطور؟",
-            "submit_report_button": "قدم البلاغ",
-            "report_received_header": "أستقبل البلاغ"
+            "support_from_creator": "هل تواجه مشكلة، هل تحتاج دعمًا من المطور؟",
+            "submit_report_button": "قدم التقرير",
+            "report_received_header": "أستقبل البلاغ",
+            "form_description": "يرجى ملء هذا النموذج إذا كنت بحاجة إلى الاتصال بفريق تعديل itch.io حول محتوى هذه الصفحة. يمكن مشاركة تقريرك مع منشئ الصفحة إذا لزم الأمر.",
+            "support_page_link": "اذهب إلى صفحة الدعم الرسمية",
+            "email_creator_link": "راسل المطور",
+            "title": "إبلاغ عن {{page_title}}"
         },
         "in_order_to_access": "من أجل الوصول إلي {{noun}} يجب عليك شرائها ب{{price}} او أكثر.",
         "steam_key_bundle_disclaimer": "(ملحوظة:كود منصة Steam غير مرفق مع {{bundle_title}})",
         "password_required": {
             "header": "كلمة سر مطلوبة لعرض هذه الصفحة"
-        }
+        },
+        "community_posts_count_0": "{{count}}",
+        "community_posts_count_1": "موضوع {{count}}",
+        "community_posts_count_2": "{{count}} موضوع",
+        "community_posts_count_3": "{{count}} مواضيع",
+        "community_posts_count_4": "{{count}} مواضيع",
+        "community_posts_count_5": "{{count}} موضوع"
     },
     "community": {
         "topic": {
