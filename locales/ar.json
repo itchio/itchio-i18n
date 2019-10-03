@@ -701,7 +701,8 @@
         "type_downloadable": "يمكن تحميله",
         "filter_group_release_status": "حالة الإصدار",
         "filter_group_misc": "متنوع",
-        "filter_group_collection": "مجموعة"
+        "filter_group_collection": "مجموعة",
+        "filter_group_tools": "الأدوات و محركات الالعاب"
     },
     "user_settings": {
         "profile": {
