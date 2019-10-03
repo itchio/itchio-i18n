@@ -430,7 +430,7 @@
         "community_header": "المجتمع",
         "join_the_community": "انضم للمجتمع",
         "community_view_all_posts": "عرض كل المنشورات",
-        "community_post_author": "ب {{username}}",
+        "community_post_author": "بواسطة {{username}}",
         "post_a_new_topic": "انشر موضوع جديد",
         "post_first_topic": "ضع موضوعك الأول",
         "community_sticky": "مُثبت",
@@ -508,7 +508,7 @@
             "reason_other": "أخري",
             "support_from_creator": "هل تواجه مشكلة، هل تحتاج دعمًا من المطور؟",
             "submit_report_button": "قدم التقرير",
-            "report_received_header": "أستقبل البلاغ",
+            "report_received_header": "أرسل التقرير",
             "form_description": "يرجى ملء هذا النموذج إذا كنت بحاجة إلى الاتصال بفريق تعديل itch.io حول محتوى هذه الصفحة. يمكن مشاركة تقريرك مع منشئ الصفحة إذا لزم الأمر.",
             "support_page_link": "اذهب إلى صفحة الدعم الرسمية",
             "email_creator_link": "راسل المطور",
@@ -517,7 +517,7 @@
         "in_order_to_access": "من أجل الوصول إلي {{noun}} يجب عليك شرائها ب{{price}} او أكثر.",
         "steam_key_bundle_disclaimer": "(ملحوظة:كود منصة Steam غير مرفق مع {{bundle_title}})",
         "password_required": {
-            "header": "كلمة سر مطلوبة لعرض هذه الصفحة"
+            "header": "كلمة مرور مطلوبة لعرض هذه الصفحة"
         },
         "community_posts_count_0": "{{count}}",
         "community_posts_count_1": "موضوع {{count}}",
@@ -529,8 +529,8 @@
     "community": {
         "topic": {
             "new_reply": "رد جديد",
-            "sticky": "مثبت",
-            "locked": "مغلق",
+            "sticky": "مُثبت",
+            "locked": "مُغلق",
             "next_page": "الصفحة التالية",
             "previous_page": "الصفحة السابقة",
             "first_page": "الصفحة الأولي",
@@ -539,44 +539,137 @@
             "log_in_to_reply": "سجل الدخول لكي ترد",
             "remove_bookmark": "حذف العلامة المرجعية",
             "bookmark": "علامة مرجعية",
-            "unsubscribe": "إلغاء الاشتراك",
-            "subscribe": "اشتراك",
+            "unsubscribe": "إلغاء الإشتراك",
+            "subscribe": "إشتراك",
             "replies_count": "الردود:{{count}}",
-            "views_count": "المشاهدات:{{count}}"
+            "views_count": "المشاهدات:{{count}}",
+            "topic_is_archived": "تم أرشفة هذا الموضوع ولم يعد بالإمكان المشاركة به",
+            "unlisted_topic_notice": "<s>قام أحد المشرفين بإلغاء إدراج هذا الموضوع.</s> إنه غير مرئي في قائمة الموضوعات ولكن لا يزال بإمكانك الرد وإجراء التعديلات.",
+            "join_the_discussion": "اشترك في النقاش. سجل الدخول أو انشئ حساب itch.io مجانًا للمتابعة.",
+            "reply_to_someone_else": "هل تريد الرد على شخص آخر؟ أضغط <s>رد</s> تحت منشوره.",
+            "this_reply_will_go_to_yourself": "هذا الرد سيوجه إليك.",
+            "this_reply_will_go_to_the_topic_author": "هذا الرد سيوجه إلى ناشر الموضوع، {{username}}.",
+            "return_to_topic_list": "أرجع إلى قائمة المواضيع",
+            "moderation": "المُراقب",
+            "a_topic_by_username_created_time_ago": "موضوع من قبل {{username}} أنشئ منذ {{time_ago}}",
+            "this_topic_is_locked": "الموضوع مُغلق",
+            "this_topic_was_locked_by_username": "أغلق الموضوع بواسطة {{username}}"
         },
         "post_list": {
             "edits_count_plural": "({{count}} تعديل)",
             "reply": "رد",
             "like": "إعجاب",
-            "edit": "تعديل"
+            "edit": "تعديل",
+            "deleted_post": "موضوع محذوف",
+            "post_from_blocked_account": "منشور من حساب محظور",
+            "edit_blocks": "تعديل الحظورات",
+            "delete_topic": "حذف الموضوع",
+            "delete": "حذف",
+            "report": "إبلاغ",
+            "ban": "حظر...",
+            "view_more_in_thread": "عرض المزيد في الموضوع",
+            "vote_up": "صوت له",
+            "vote_down": "صوت ضده",
+            "deleted_account": "حساب محذوف",
+            "suspended_account": "حساب موقوف",
+            "pinned_reply": "تعليق مُثبت",
+            "pinned_post": "منشور مُثبت",
+            "edited": "(مُعدل)"
         },
         "post_form": {
             "save": "حفظ",
             "post": "نشر",
-            "post_reply": "نشر الرد"
+            "post_reply": "نشر الرد",
+            "add_profile_image": "أضف صورة حساب",
+            "subscribe": "إشتراك",
+            "subscribe_to_this_topic": "إشترك بهذا الموضوع",
+            "subscribe_description": "سيظهر لك إشعار حالما يوضع رد جديد",
+            "tag_header": "علامة",
+            "remove_tag": "حذف العلامة"
         },
         "new_topic": {
             "title": "العنوان",
-            "body": "الجسم"
+            "body": "المحتوى",
+            "moderator_tools": "أدوات المراقب",
+            "sticky": "مُثبت",
+            "locked": "مُغلق",
+            "moderation_options": "إعدادات",
+            "i_agree_to_the_rules_above": "أنا أوافق على الشروط أعلاه",
+            "new_topic": "موضوع جديد",
+            "this_a_community_run_message_board": "مجتمع تشغيل لوحة الرسائل.",
+            "see_community_guidelines": "راجع <a>إرشادات المنتدى</a> لسياسة مجتمع itch.io.",
+            "topic_tag": "علامة",
+            "your_moderators_are": "لا يقوم itch.io بإدارة هذه اللوحات، فالمشرفون هم:",
+            "page_title": "انشر موضوع جديد"
         },
         "category": {
-            "new_flag": "جديد"
+            "new_flag": "جديد",
+            "create_first_topic_button": "أنشئ الموضوع الأول",
+            "empty_message": "ليس هناك مواضيع",
+            "there_arent_any_topics_yet": "لم يتم نشر اي مواضيع بعد",
+            "search_community_label": "بحث في المجتمع",
+            "subscribe_to_new_topics": "إشترك بالمواضيع الجديدة",
+            "unsubscribe_from_topics": "إلغاء الإشتراك",
+            "stats": {
+                "topics": "المنشورات"
+            },
+            "rules_header": "القواعد",
+            "recent_posts_header": "المنشورات الحالية",
+            "list_header_last_topic": "الموضوع الأخير",
+            "archived_flag": "تم أرشفته",
+            "by_topic_author": "بواسطة {{username}}"
         },
         "topic_list": {
             "new_flag": "جديد",
-            "sticky_flag": "مثبت",
-            "locked_flag": "مغلق"
+            "sticky_flag": "مُثبت",
+            "locked_flag": "مُغلق",
+            "no_posts_yet": "لا منشورات بعد",
+            "started_by_author": "بدأ بواسطة {{topic_author}}",
+            "list_header_topic_title": "الموضوع",
+            "list_header_last_post": "المنشور الأخير"
+        },
+        "misc": {
+            "new_topic_button": "موضوع جديد"
         }
     },
     "buy_form": {
         "buy_title": "شراء '{{title}}'",
-        "preorder_title": "شباب مسبق ل'{{title}}'"
+        "preorder_title": "شراء مُسبق ل'{{title}}'",
+        "download_title": "تحميل '{{title}}'",
+        "sold_out_notice": "نفذ المنتج حاليًا، تحقق مرة أخرى لاحقًا.",
+        "on_sale_notice": "يباع المنتج حاليًا.",
+        "support_message": "أدعم تطوير هذا المشروع عن طريق التبرع",
+        "percent_off_until": "كل المشتريات تحصل على خصم ب<s>{{rate}}%</s> حتي {{end_date}}.",
+        "also_buy_as_bundle_plural": "يمكنك أيضًا شراء هذا المنتج كجزء من عرض مكون من {{count}} عنصر مقابل {{price}}:",
+        "buy_as_bundle_plural": "يمكنك شراء هذا المنتج كجزء من عرض مكون من {{count}} عنصر مقابل {{price}}:",
+        "free_pay_what_you_want": "هذا المشروع مجاني لكن المُنشئ يقبل دعمك من خلال السماح لك بدفع ما تعتقد أنه يُناسبك.",
+        "no_thanks_just_take_me_to_the_downloads": "لا شكرًا، فقط خذني إلى التحميلات",
+        "includes_steam_key": "ستحصل على كود لمنصة Steam عند الشراء.",
+        "preorder_this_product_by_purchasing_it_for": "قم بشراء هذا المنتج بشكل مُسبق ب{{price}} أو أكثر.",
+        "download_this_product_by_purchasing_it_for": "حمل هذا المُنتج بشراءه ب{{price}} أو أكثر.",
+        "your_email_address": "بريدك الإلكتروني",
+        "email_address_description": "سيتم إرسال تأكيد الدفع الخاص بك هنا",
+        "gift_email_instructions": "ستختار بريدًا إلكترونيًا لإرسال الهدية إليه بعد الدفع",
+        "i_already_paid_for_this": "لقد دفعت بالفعل لهذا...",
+        "included_files": "الملفات المُرفقة",
+        "agree_to_terms": "بإكمال الدفع، فإنك توافق على <1>شروط الخدمة</1> و <2>سياسة الخصوصية</2>.",
+        "this_purchase_is_a_gift": "هذا الشراء هدية",
+        "support_the_creator_by_paying_above_the_minimum_price": "ادعم المطور عن طريق الدفع أكثر من الحد الأدنى للسعر",
+        "support_the_creator_with_an_additional_contribution": "ادعم المطور بمساهمة إضافية",
+        "pay_with": "ادفع بواسطة",
+        "check_out_with": "أكمل الشراء مع",
+        "credit_card": "كارت",
+        "go_back": "أرجع",
+        "continue_payment": "إكمال الدفع",
+        "billing_address": "عنوان الفواتير",
+        "generic_error": "حدثت مشكلة في عملية الشراء: {{error}}",
+        "contact_support_on_error": "إذا استمرت المشكلة، فيرجى الاتصال بـ<a>دعم itch.io</a> مع كل التفاصيل ذات الصلة."
     },
     "browse": {
-        "sort_popular": "مشهور",
-        "sort_new_and_popular": "جديد ومفضل",
-        "sort_top_sellers": "الأعلي مبيعًا",
-        "sort_top_rated": "الأعلي تقييماً",
+        "sort_popular": "الأكثر شعبية",
+        "sort_new_and_popular": "جديد وشعبى",
+        "sort_top_sellers": "الأعلى مبيعًا",
+        "sort_top_rated": "الأعلى تقييمًا",
         "sort_most_recent": "الأحدث",
         "sort": "رتب",
         "filter_results": "تصفية النتائج",
@@ -584,7 +677,9 @@
         "filter_group_price": "السعر",
         "filter_group_genre": "النوع",
         "tag": {
-            "no_description_yet": "لا وصف"
+            "no_description_yet": "لا وصف",
+            "suggest_updated_description": "اقترح وصف مُحدث",
+            "suggest_description_for_this_tag": "اقترح وصف لهذه العلامة"
         },
         "filter_group_platform": "المنصة",
         "view_all_tags": "عرض جميع العلامات",
@@ -593,7 +688,20 @@
             "more_options": "إعدادات أكثر",
             "fewer_options": "إعدادات أقل",
             "clear_filter": "إخلاء المصفي"
-        }
+        },
+        "results_count_plural": "{{count}} نتيجة",
+        "upload_your_project": "<a>حمّل مشروعك</a> إلى itch.io لعرضه هنا.",
+        "related_collections": "المجموعات المتعلقة",
+        "filter_by_tag": "تصفية عن طريق العلامة",
+        "filter_group_when": "الوقت",
+        "filter_group_input_methods": "طريقة الإدخال",
+        "filter_group_session_length": "متوسط طول الجلسة",
+        "filter_group_multiplayer": "خصائص اللعب الجماعي",
+        "filter_group_accessibility_features": "خصائص الوصول",
+        "type_downloadable": "يمكن تحميله",
+        "filter_group_release_status": "حالة الإصدار",
+        "filter_group_misc": "متنوع",
+        "filter_group_collection": "مجموعة"
     },
     "user_settings": {
         "profile": {
@@ -654,5 +762,21 @@
             "downloads": "التحميلات",
             "results_header": "النتائج"
         }
+    },
+    "collection": {
+        "authors": "مجموعة بواسطة {{author}}",
+        "last_updated_date": "آخر تحديث منذ {{date}}",
+        "edit_collection": "تعديل المجموعة",
+        "edit_contributors": "تعديل المُساهمين",
+        "empty_collection_message": "لا يوجد شيء في هذه المجموعة.",
+        "private_collection_message": "هذه المجموعة خاصة، ويمكن للمساهمين فقط رؤية محتوياتها",
+        "pending_invitation": "لديك دعوة معلقة لتكون مساهمًا في هذه المجموعة. <a>عرض الدعوة</a>",
+        "a_collection_by_author": "مجموعة بواسطة {{author}}",
+        "page_title": "{{collection_title}} - مجموعة من {{author}}",
+        "remove_item_button": "حذف...",
+        "add_a_blurb": "أضف إعلان",
+        "edit_blurb": "تعديل إعلان",
+        "blurb_author_says": "الناشر {{author}} يقول",
+        "remove_confirm": "هل أنت متأكد من أنك تريد إزالة هذا من المجموعة"
     }
 }
