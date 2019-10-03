@@ -289,7 +289,7 @@
             "create_account": "Vytvořit účet",
             "already_have_account": "nebo již máte účet?",
             "log_in": "Přihlásit se",
-            "link_product": "Váš nákup {{product}} bude po registraci automaticky propojen s vaším účtem.",
+            "link_product": "Váš nákup <1>{{product}}</1> bude po registraci automaticky propojen s vaším účtem.",
             "accept_tos": "Přijímám <1>smluvní podmínky</1>"
         }
     }
