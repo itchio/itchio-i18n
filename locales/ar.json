@@ -687,7 +687,8 @@
         "filter_group": {
             "more_options": "إعدادات أكثر",
             "fewer_options": "إعدادات أقل",
-            "clear_filter": "إخلاء المصفي"
+            "clear_filter": "إخلاء المصفي",
+            "toggle_more_options": "إظهار إعدادات أكثر"
         },
         "results_count_plural": "{{count}} نتيجة",
         "upload_your_project": "<a>حمّل مشروعك</a> إلى itch.io لعرضه هنا.",
@@ -702,7 +703,9 @@
         "filter_group_release_status": "حالة الإصدار",
         "filter_group_misc": "متنوع",
         "filter_group_collection": "مجموعة",
-        "filter_group_tools": "الأدوات و محركات الالعاب"
+        "filter_group_tools": "الأدوات ومحركات الالعاب",
+        "fresh_description": "تصفح مجموعة من المشاريع التي يتم تحديثها باستمرار والتي يتم الحصول عليها من مجموعات منسقة من قبل أعضائنا. تحقق مرة أخرى لاحقًا للحصول على إضافات جديدة.",
+        "filter_everything_else": "كل شئ آخر"
     },
     "user_settings": {
         "profile": {
@@ -712,11 +715,30 @@
             "username": "أسم المستخدم",
             "profile_image": "صورة الحساب",
             "display_name": "الاسم المعروض",
-            "website": "الموقع الالكتروني",
+            "website": "الموقع الإلكتروني",
             "account_type": "نوع الحساب",
-            "content": "المحتوي",
+            "content": "المحتوى",
             "profile": "الحساب",
-            "profile_description": "محتوى صفحة حسابك"
+            "profile_description": "محتوى صفحة حسابك",
+            "language_community_translation": "<s>يتم ترجمة itch.io من قبل أعضاء مجتمعنا.</s> بعض اللغات متوفرة جزئيًا فقط. إذا كنت ترغب في رؤية itch.io بلغتك أو المساعدة في إصلاح أي أخطاء يمكنك المساهمة. <a>أعرف المزيد</a>",
+            "username_description": "يُستخدم لتسجيل الدخول إلى حسابك وعنوان الرابط لصفحتك",
+            "change_username": "تغيير اسم المستخدم/ عنوان الرابط",
+            "you_recently_changed_your_username": "لقد قمت مؤخرًا بتغيير اسم المستخدم الخاص بك",
+            "url_description": "عنوان الرابط العام لحسابك",
+            "profile_image_description": "تظهر بجوار اسمك عند إتخاذ إجراء على الموقع (أبعاد مربع)",
+            "display_name_description": "الاسم المراد إظهاره بدلاً من اسم المستخدم الخاص بك، اتركه فارغًا ليظهر أسم المستخدم أفتراضيًا",
+            "website_description": "عنوان رابط إلكتروني اختياري يتم عرضه على صفحة ملفك الشخصي",
+            "twitter_description": "حساب تويتر ليظهر في ملفك الشخصي",
+            "account_type_description": "كيف سوف تستخدم حسابك",
+            "account_type_gamer": "لعب وتحميل الألعاب",
+            "account_type_developer": "تطوير ورفع الألعاب",
+            "default_language_option": "الافتراضي (يُعين إلى اللغة الإنجليزية أثناء تجربة اللغات)",
+            "content_description": "كيف سيظهر محتوى itch.io لك",
+            "show_adult_content": "عرض محتوى البالغين في البحث والتصفح",
+            "disable_animated_gifs": "تعطيل الصور المتحركة",
+            "disable_autoloading_next_page_when_browsing": "تعطيل التحميل التلقائي للصفحة التالية عند التصفح",
+            "click_to_load_games": "النقر لتشغيل ألعاب HTML5 المُضمنة",
+            "use_dark_theme": "استخدام الوضع الليلي عند توفره"
         },
         "password": {
             "reset_password": "استعادة كلمة المرور",
@@ -728,12 +750,64 @@
             "new_password_again": "كلمة المرور الجديدة مرة أخرى"
         },
         "email_addresses": {
-            "primary_email_header": "البريد الالكتروني الأساسي"
+            "primary_email_header": "البريد الإلكتروني الأساسي",
+            "your_primary_email_address": "بريدك الإلكتروني الأساسي: {{email}}",
+            "change_email_form": {
+                "new_email_address": "البريد الألكتروني الجديد",
+                "current_password": "كلمة المرور الحالية"
+            },
+            "primary_email_description": "بريدك الإلكتروني الأساسي هو المكان الذي سيرسل إليه itch.io أي إشعارات.",
+            "change_password_instructions": "عند تغيير عنوان بريدك الإلكتروني، يجب عليك التحقق منه للوصول إلى أي ألعاب قمت بشرائها. سيتم إرسال تعليمات التحقق إليك بالبريد. لأسباب أمنية، يجب عليك أيضًا تقديم كلمة المرور الحالية لإجراء أي تغييرات على عنوان بريدك الإلكتروني.",
+            "additional_emails_header": "البريد الإلكتروني البديل",
+            "additional_emails_summary": "يمكنك ربط عناوين بريد إلكتروني إضافية بحساب itch.io الخاص بك من أجل الوصول إلى أي شيء تم شراؤه تحت عناوين البريد الإلكتروني هذه. على سبيل المثال، قد يكون عنوان بريدك الإلكتروني في باي بال مختلفًا عن عنوان بريدك الإلكتروني العادي، لذلك ربما ستريد إضافته كبريد إلكتروني إضافي.",
+            "additional_emails_instructions": "سيتم إرسال إرشادات التحقق بالبريد بعد إضافة بريد إلكتروني إضافي.",
+            "add_email_form": {
+                "additional_email_address_label": "بريد إلكتروني إضافي",
+                "add_email_button": "أضف البريد الإلكتروني"
+            },
+            "additional_emails": {
+                "emails_added_header": "تمت إضافة البريد",
+                "email_column": "البريد الإلكتروني",
+                "verified_column": "تم التحقق منه",
+                "resend_verification_email_button": "إعادة إرسال بريد التحقق",
+                "email_sent_status": "أرسل البريد الإلكتروني",
+                "detach_email": "فصل البريد الإلكتروني"
+            }
+        },
+        "account_settings": "إعدادات الحساب",
+        "navigation": {
+            "basics_header": "الأساسيات",
+            "payment_header": "الدفع",
+            "publisher_header": "الناشر",
+            "contact_header": "التواصل",
+            "misc_header": "متنوع",
+            "developer_header": "المطورين",
+            "profile": "الحساب",
+            "password": "كلمة المرور",
+            "email_addresses": "البريد الألكتروني‮",
+            "two_factor_auth": "المصادقة الثنائية",
+            "support_email": "بريد الدعم",
+            "publisher_get_started": "البدء",
+            "revenue_sharing": "تقاسم الربح",
+            "payment_processors": "طرق الدفع",
+            "tax_information": "معلومات الضريبة",
+            "payout_mode": "وضع الدفع",
+            "credit_cards": "بطاقات الائتمان",
+            "billing_address": "عنوان الفواتير",
+            "email_notifications": "إشعارات البريد الإلكتروني",
+            "connected_accounts": "الحسابات المرتبطة",
+            "press_access": "وصول الصحافة",
+            "privacy": "الخصوصية",
+            "data_export": "تصدير البيانات",
+            "api_keys": "مفاتيح واجهة برمجة التطبيقات",
+            "oauth_applications": "مصادقة التطبيقات",
+            "thirdparty_analytics": "تحليلات الطرف الثالث"
         }
     },
     "stripe_checkout": {
         "steam_key": "كود منصة Steam",
-        "full_name": "الاسم الكامل"
+        "full_name": "الاسم الكامل",
+        "payment_error": "حدث خطأ أثناء معالجة دفعتك:"
     },
     "game_download": {
         "play_in_your_browser": "إلعب بداخل المتصفح",
@@ -779,5 +853,22 @@
         "edit_blurb": "تعديل إعلان",
         "blurb_author_says": "الناشر {{author}} يقول",
         "remove_confirm": "هل أنت متأكد من أنك تريد إزالة هذا من المجموعة"
+    },
+    "browse_tags": {
+        "page_title": "العلامات الأعلى",
+        "find_tag": "جد علامة",
+        "commonly_tagged_with": "مُعلم بشكل عام ب",
+        "no_description_yet": "لا وصف"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>بواسطة</1> {{author}}",
+        "powered_by_itchio": "مدعومة من قبل {{itchio}}"
+    },
+    "dashboard": {
+        "project_list": {
+            "edit": "تعديل"
+        },
+        "hello": "مرحبًا!",
+        "dashboard": "لوحة المراقبة"
     }
 }
