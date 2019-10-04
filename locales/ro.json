@@ -108,7 +108,13 @@
         "page_title": "Descarcă cele mai noi jocuri indie",
         "meta_description": "itch.io oferă posibilitatea de a descoperi, descărca și distribui jocuri foarte simplu online. Fie că ești un dezvoltator ce dorește să publice un joc sau pur și simplu cauți să încerci ceva nou, itch.io te poate ajuta.",
         "browse_content_type": "Găseşte {{content_type}}",
-        "intro_cta": "<1> Încarcă-ți propriul joc </1> sau <2> Citește întrebări adresate frecvent </2>"
+        "intro_cta": "<1> Încarcă-ți propriul joc </1> sau <2> Citește întrebări adresate frecvent </2>",
+        "to_follow": {
+            "created_projects": "S-a creat {{lista_proiecte}}",
+            "empty_results": "Nu mai sunt recomandări. Încercați mai tarziu",
+            "refresh_button": "Dați \"Refresh\" pentru mai multe...",
+            "dismiss_tooltip": "Fara alte sugestii"
+        }
     },
     "misc": {
         "classifications": {
@@ -163,7 +169,8 @@
             "email_address": "Adresă de e-mail",
             "submit": "Trimite",
             "optional": "Opțional",
-            "search": "Caută"
+            "search": "Caută",
+            "form_errors": "Verificați informația oferită"
         },
         "page_number": "Pagina {{page_number}}",
         "follow_button": {
@@ -212,7 +219,8 @@
         "project_visibility": {
             "restricted": "Restricționat",
             "published": "Publicat",
-            "draft": "Ciorne"
+            "draft": "Ciorne",
+            "public": "Public"
         },
         "view_more": "Vezi mai multe",
         "dismiss": "Închide",
@@ -222,7 +230,12 @@
             "canceled": "Anulat",
             "prototype": "Prototip",
             "on_hold": "Întrerupt"
-        }
+        },
+        "errors": {
+            "server_error": "Serverul nu a raspuns, incercati din nou mai tarziu"
+        },
+        "more_ellip": "Mai multe…",
+        "loading_more_ellip": "Se incarca mai multe…"
     },
     "blog": {
         "all_posts": "Toate postările",
