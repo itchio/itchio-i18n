@@ -1208,11 +1208,11 @@
             "screenshots_header": "Schermafbeeldingen"
         },
         "project_header": {
-            "edit_project": "Project bewerken",
+            "edit_project": "Bewerk project",
             "devlog": "Devlog",
             "metadata": "Metadata",
-            "analytics": "Statistieken",
-            "distribute": "Distruberen",
+            "analytics": "Analytics",
+            "distribute": "Uitgeven",
             "interact": "Interactie",
             "edit_comments": "Reacties bewerken",
             "discussion_board": "Discussiebord",
