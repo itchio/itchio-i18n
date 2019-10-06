@@ -110,7 +110,7 @@
         "browse_content_type": "Găseşte {{content_type}}",
         "intro_cta": "<1> Încarcă-ți propriul joc </1> sau <2> Citește întrebări adresate frecvent </2>",
         "to_follow": {
-            "created_projects": "S-a creat {{lista_proiecte}}",
+            "created_projects": "S-a creat {{project_list}}",
             "empty_results": "Nu mai sunt recomandări. Încercați mai tarziu",
             "refresh_button": "Dați \"Refresh\" pentru mai multe...",
             "dismiss_tooltip": "Fara alte sugestii"
