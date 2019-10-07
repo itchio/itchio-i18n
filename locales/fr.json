@@ -981,7 +981,7 @@
             "you_can_now_rate_entries": "Vous pouvez maintenant noter les projets participants depuis <a>la page des contributions</a>",
             "join_jam": "Rejoindre la jam",
             "submit_button": "Envoyer mon projet",
-            "or_leave_jam": "ou <a>Quitter la Jam</a>",
+            "or_leave_jam": "ou <a>abandonner la jam</a>",
             "joined_instructions": "Revenez sur cette page quand la jam aura commencée, pour envoyer votre projet.",
             "leave_jam": "Quitter la Jam",
             "jam_is_now_over": "Cette jam est à présent terminée. Elle s'est tenue du {{start_date}} au {{end_date}}.",
