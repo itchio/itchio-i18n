@@ -566,7 +566,8 @@
             "subscribe_to_this_topic": "S'abonner au sujet",
             "subscribe_description": "Recevoir des notifications de nouvelles réponses au sujet",
             "tag_header": "Tag",
-            "remove_tag": "Enlever le tag"
+            "remove_tag": "Enlever le tag",
+            "post_reply": "Envoyer la réponse"
         },
         "new_topic": {
             "moderator_tools": "Outils de modération",
