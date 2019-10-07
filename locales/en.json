@@ -537,7 +537,9 @@
             "first_page": "First page",
             "last_page": "Last page",
             "this_topic_is_locked": "This topic is locked",
-            "this_topic_was_locked_by_username": "This topic was locked by {{username}}"
+            "this_topic_was_locked_by_username": "This topic was locked by {{username}}",
+            "topic_is_autoarchived": "This topic has been auto-archived and can no longer be posted in because there haven't been any posts in a while.",
+            "create_related_topic": "If you have a something related to post consider <a>creating a topic in {{category_name}}</a>."
         },
         "post_list": {
             "deleted_post": "Deleted post",
