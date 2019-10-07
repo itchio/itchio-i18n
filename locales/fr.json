@@ -983,7 +983,7 @@
             "submit_button": "Envoyer mon projet",
             "or_leave_jam": "ou <a>abandonner la jam</a>",
             "joined_instructions": "Revenez sur cette page quand la jam aura commencée, pour envoyer votre projet.",
-            "leave_jam": "Quitter la Jam",
+            "leave_jam": "Abandonner la jam",
             "jam_is_now_over": "Cette jam est à présent terminée. Elle s'est tenue du {{start_date}} au {{end_date}}.",
             "submission_is_closed_for_voting": "La phase d'envoi des projets est terminée et les votes sont désormais ouverts",
             "youve_joined": "Vous avez rejoint cette jam.",
