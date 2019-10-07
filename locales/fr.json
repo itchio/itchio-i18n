@@ -612,7 +612,9 @@
             "topics_count": "{{count}} sujet",
             "topics_count_plural": "{{count}} sujets",
             "create_first_topic_button": "Créer le premier sujet",
-            "empty_message": "Il n'y a aucun sujet"
+            "empty_message": "Il n'y a aucun sujet",
+            "there_arent_any_topics_yet": "Il n'y a pas encore de sujets",
+            "rules_header": "Règles"
         },
         "misc": {
             "new_topic_button": "Nouveau sujet"
