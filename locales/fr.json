@@ -885,7 +885,8 @@
                 "emails_added_header": "Adresses e-mail ajoutées",
                 "email_column": "Adresse e-mail",
                 "verified_column": "Vérifiée",
-                "resend_verification_email_button": "Renvoyer le mail de vérification"
+                "resend_verification_email_button": "Renvoyer le mail de vérification",
+                "detach_email": "Délier l'adresse e-mail"
             },
             "additional_emails_summary": "Vous pouvez lier des adresses e-mail additionnelles à votre compte itch.io pour pouvoir accéder à vos achats sous ces adresses. Par exemple, votre adresse Paypal pourrait être différente de votre adresse courante donc vous pourriez l'ajouter en adresse additionnelle.",
             "additional_emails_instructions": "Vous recevrez les instructions de vérification par mail une fois une adresse additionnelle ajoutée.",
