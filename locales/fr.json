@@ -1254,6 +1254,8 @@
         },
         "or_share_on": "ou partagez sur",
         "check_your_email_for_the_confirmation_link": "Vérifiez vos emails pour le lien de confirmation.",
-        "payment_comes_with_key": "Une clé {{key_type}} est fournie avec votre paiement !"
+        "payment_comes_with_key": "Une clé {{key_type}} est fournie avec votre paiement !",
+        "access_comes_with_key": "Votre accès inclut une clé {{key_type}} !",
+        "access_it": "Y accéder"
     }
 }
