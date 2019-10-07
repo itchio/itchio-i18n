@@ -1142,7 +1142,7 @@
         "tag": {
             "no_description_yet": "Aucune description pour le moment",
             "suggest_description_for_this_tag": "Suggérer une description pour ce tag",
-            "suggest_updated_description": "Proposer une nouvelle description"
+            "suggest_updated_description": "Proposer une modification de la description"
         },
         "filter_group_when": "Date de sortie",
         "filter_group_input_methods": "Périphérique de jeu",
@@ -1216,7 +1216,7 @@
             "access_latest_files_from_this_page": "Vous pouvez toujours accéder aux derniers fichiers depuis cette page.",
             "payment_summary": "Vous avez acheté ce produit le {{payment_date}} pour {{payment_price}}.",
             "payment_summary_with_email": "Vous l'avez acheté le {{payment_date}} pour {{payment_price}} avec l'adresse email {{email_address}}.",
-            "percent_off": "{{percent}} % de réduction",
+            "percent_off": "{{percent}}% de réduction",
             "linked_user_message": "Cet achat est lié au compte {{username}}."
         },
         "preorder_instructions": "Ce projet comprend des fichiers qui ne sont pas encore publiés. Revenez sur cette page quand le créateur aura publié les fichiers pour pouvoir les télécharger.",
@@ -1232,7 +1232,9 @@
             "more_menu": "Plus",
             "download_title": "Télécharger {{project_title}}",
             "view_all_my_purchases": "Voir tous mes achats",
-            "return_to_project": "Retourner au projet"
+            "return_to_project": "Retourner au projet",
+            "view_rest_in_bundle": "Voir le reste du bundle",
+            "discussion_board": "Forum de discussion"
         },
         "linked_user_message": "Cette page est liée au compte {{username}}.",
         "link_account_header": "Lier cette page de téléchargement à votre compte itch.io",
@@ -1245,6 +1247,8 @@
         "claim_external_key_instructions": "Cliquez sur le bouton pour la demander.",
         "email_capture": {
             "provide_email_instructions": "Entrez votre adresse e-mail pour la lier à votre achat, afin de le retrouver si jamais vous perdez cette page."
-        }
+        },
+        "or_share_on": "ou partagez sur",
+        "check_your_email_for_the_confirmation_link": "Vérifiez vos emails pour le lien de confirmation."
     }
 }
