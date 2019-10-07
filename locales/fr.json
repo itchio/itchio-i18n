@@ -981,7 +981,7 @@
             "you_can_now_rate_entries": "Vous pouvez maintenant noter les projets participants depuis <a>la page des contributions</a>",
             "join_jam": "Rejoindre la jam",
             "submit_button": "Envoyer mon projet",
-            "or_leave_jam": "ou <a>Quitter la Jam</a>",
+            "or_leave_jam": "ou <a>abandonner la jam</a>",
             "joined_instructions": "Revenez sur cette page quand la jam aura commencée, pour envoyer votre projet.",
             "leave_jam": "Quitter la Jam",
             "jam_is_now_over": "Cette jam est à présent terminée. Elle s'est tenue du {{start_date}} au {{end_date}}.",
@@ -1123,10 +1123,10 @@
         "filter_group": {
             "more_options": "Plus d'options",
             "fewer_options": "Moins d'options",
-            "toggle_more_options": "Montrer plus d'options",
+            "toggle_more_options": "Activer plus d'options",
             "clear_filter": "Supprimer le filtre"
         },
-        "filter_group_tools": "Outils & Moteurs",
+        "filter_group_tools": "Outils et Moteurs",
         "results_count_plural": "{{count}} résultats",
         "results_count": "{{count}} résultat",
         "sort_popular": "Popularité",
@@ -1142,9 +1142,9 @@
         "tag": {
             "no_description_yet": "Aucune description pour le moment",
             "suggest_description_for_this_tag": "Suggérer une description pour ce tag",
-            "suggest_updated_description": "Proposer une nouvelle description"
+            "suggest_updated_description": "Proposer une modification de la description"
         },
-        "filter_group_when": "Date de sortie",
+        "filter_group_when": "Quand",
         "filter_group_input_methods": "Périphérique de jeu",
         "filter_everything_else": "Tout le reste",
         "filter_group_price": "Prix",
@@ -1158,7 +1158,8 @@
     "browse_tags": {
         "page_title": "Tags populaires",
         "find_tag": "Trouver un tag",
-        "no_description_yet": "Aucune description pour le moment"
+        "no_description_yet": "Aucune description pour le moment",
+        "commonly_tagged_with": "Tags souvent attribués :"
     },
     "buy_form_popup": {
         "author_line": "<1>par</1> {{author}}",
@@ -1167,7 +1168,7 @@
     "stripe_checkout": {
         "buying_as": "Achat en tant que",
         "gift_instructions": "Cet achat est un cadeau. Vous pourrez préciser l'e-mail du destinataire une fois le paiement effectué.",
-        "credit_or_debit_card": "Carte bleue ou carte bancaire",
+        "credit_or_debit_card": "Carte de crédit ou de débit",
         "save_credit_card_for_future_purchases": "Enregistrer la carte de crédit pour de futurs achats",
         "manage_cards_link": "Vous pouvez gérer vos cartes depuis les <a>Paramètres du compte</a>",
         "pay_price_button": "Payer {{price}}",
@@ -1216,8 +1217,9 @@
             "access_latest_files_from_this_page": "Vous pouvez toujours accéder aux derniers fichiers depuis cette page.",
             "payment_summary": "Vous avez acheté ce produit le {{payment_date}} pour {{payment_price}}.",
             "payment_summary_with_email": "Vous l'avez acheté le {{payment_date}} pour {{payment_price}} avec l'adresse email {{email_address}}.",
-            "percent_off": "{{percent}} % de réduction",
-            "linked_user_message": "Cet achat est lié au compte {{username}}."
+            "percent_off": "{{percent}}% de réduction",
+            "linked_user_message": "Cet achat est lié au compte {{username}}.",
+            "link_purchase_warning": "N'égarez pas votre achat !"
         },
         "preorder_instructions": "Ce projet comprend des fichiers qui ne sont pas encore publiés. Revenez sur cette page quand le créateur aura publié les fichiers pour pouvoir les télécharger.",
         "app_banner": {
@@ -1232,7 +1234,10 @@
             "more_menu": "Plus",
             "download_title": "Télécharger {{project_title}}",
             "view_all_my_purchases": "Voir tous mes achats",
-            "return_to_project": "Retourner au projet"
+            "return_to_project": "Retourner au projet",
+            "view_rest_in_bundle": "Voir le reste du bundle",
+            "discussion_board": "Forum de discussion",
+            "preorder_title": "Précommander {{project_title}}"
         },
         "linked_user_message": "Cette page est liée au compte {{username}}.",
         "link_account_header": "Lier cette page de téléchargement à votre compte itch.io",
@@ -1244,7 +1249,13 @@
         "claim_external_key": "Demander une clé {{key_type}}",
         "claim_external_key_instructions": "Cliquez sur le bouton pour la demander.",
         "email_capture": {
-            "provide_email_instructions": "Entrez votre adresse e-mail pour la lier à votre achat, afin de le retrouver si jamais vous perdez cette page."
-        }
+            "provide_email_instructions": "Entrez votre adresse e-mail pour la lier à votre achat, afin de le retrouver si jamais vous perdez cette page.",
+            "dont_lose_your_purchase": "N'égarez pas votre achat !"
+        },
+        "or_share_on": "ou partagez sur",
+        "check_your_email_for_the_confirmation_link": "Vérifiez vos emails pour le lien de confirmation.",
+        "payment_comes_with_key": "Une clé {{key_type}} est fournie avec votre paiement !",
+        "access_comes_with_key": "Votre accès inclut une clé {{key_type}} !",
+        "access_it": "Y accéder"
     }
 }
