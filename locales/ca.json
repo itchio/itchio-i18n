@@ -537,7 +537,9 @@
             "first_page": "Primera pàgina",
             "last_page": "Darrera pàgina",
             "this_topic_is_locked": "Aquesta tema és tancat",
-            "this_topic_was_locked_by_username": "Aquest tema ha estat tancat per {{username}}"
+            "this_topic_was_locked_by_username": "Aquest tema ha estat tancat per {{username}}",
+            "topic_is_autoarchived": "Aquest tema s'ha arxivat automàticament i ja no s'hi pot publicar perquè no hi ha hagut cap missatge en molt de temps.",
+            "create_related_topic": "Si teniu res a dir en relació al tema que vulgueu publicar, considereu <a>crear un tema a {{category_name}}</a>."
         },
         "post_list": {
             "deleted_post": "Missatge esborrat",
