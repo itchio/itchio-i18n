@@ -541,7 +541,9 @@
             "first_page": "Первая страница",
             "last_page": "Последняя страница",
             "this_topic_is_locked": "Эта тема закрыта от обсуждения",
-            "this_topic_was_locked_by_username": "Эта тема закрыта от обсуждения {{username}}"
+            "this_topic_was_locked_by_username": "Эта тема закрыта от обсуждения {{username}}",
+            "topic_is_autoarchived": "Эта тема была автоматически закрыта из-за неактивности.",
+            "create_related_topic": "Если вы хотите обсудить что-то похожее, вы можете <a>создать новую тему в {{category_name}}</a>."
         },
         "post_list": {
             "deleted_post": "Удалённый пост",
