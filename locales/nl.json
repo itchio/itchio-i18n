@@ -29,7 +29,7 @@
             "notifications_count": "{{count}} notificatie",
             "no_notifications": "Geen nieuwe notificaties",
             "indie_game_store": "Indiegame-winkel",
-            "game_development": "Spel-ontwikkeling",
+            "game_development": "Spelontwikkeling",
             "comics": "Strips",
             "sales": "Aanbiedingen",
             "devlogs": "Devlogs",
@@ -53,7 +53,7 @@
             "recommendations": "Aanbevelingen",
             "library": "Mijn verzameling",
             "feed": "Mijn feed",
-            "account_menu_tooltip": "Account-menu",
+            "account_menu_tooltip": "Accountmenu",
             "view_profile": "Profiel bekijken",
             "game_jams": "Game-jams"
         }
@@ -102,10 +102,10 @@
             "game_jams": "Game-jams"
         },
         "browse_content_type": "Blader door {{content_type}}",
-        "intro": "<s>itch.io</s> is een eenvoudige manier om indie-spellen gratis online te vinden en te delen.",
+        "intro": "<s>itch.io</s> is een eenvoudige manier om indiespellen gratis online te vinden en te delen.",
         "intro_cta": "<1>Voeg je spel toe</1> of <2>Lees the FAQ</2>",
         "html5_games": "HTML5-spellen",
-        "page_title": "Download de nieuwste indie-spellen",
+        "page_title": "Download de nieuwste indiespellen",
         "meta_description": "itch.io is een eenvoudige manier om games online te vinden, downloaden, en distribueren. Of je nou een ontwikkelaar bent die zijn spel wil uploaden of gewoon iemand die op zoek is naar iets nieuws om te spelen, itch.io heeft het voor je.",
         "to_follow": {
             "created_projects": "{{project_list}} aangemaakt",
@@ -274,8 +274,8 @@
     "misc": {
         "classifications": {
             "game": "Spellen",
-            "assets": "Spel-assets",
-            "game_mod": "Spel-mods",
+            "assets": "Spelassets",
+            "game_mod": "Spelmods",
             "other": "Overige",
             "comic": "Stripverhalen",
             "book": "Boeken",
@@ -284,9 +284,9 @@
             "tool": "Hulpmiddelen"
         },
         "accessibility_features": {
-            "colorblind": "Kleurenblind-vriendelijk",
+            "colorblind": "Kleurenblindvriendelijk",
             "tutorial": "Interactieve tutorial",
-            "blind": "Blind-vriendelijk",
+            "blind": "Blindvriendelijk",
             "subtitles": "Ondertiteling",
             "configurable_controls": "Aanpasbare besturing",
             "highcontrast": "Hoog contrast",
@@ -1066,7 +1066,7 @@
             "following": "Volgend"
         },
         "follow_itchio": "Volg itch.io op {{twitter}} en {{facebook}}",
-        "page_title": "Makers-dashboard",
+        "page_title": "Makersdashboard",
         "header": {
             "projects_link": "Projecten",
             "payments_link": "Betalingen",
@@ -1079,7 +1079,7 @@
         "create_new_project_button": "Maak een nieuw project",
         "project_list": {
             "edit": "Bewerk",
-            "analytics": "Statistieken",
+            "analytics": "Data",
             "widget": "Widget",
             "no_image": "Geen afbeelding"
         },
