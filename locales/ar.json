@@ -553,7 +553,9 @@
             "moderation": "المُراقب",
             "a_topic_by_username_created_time_ago": "موضوع من قبل {{username}} أنشئ منذ {{time_ago}}",
             "this_topic_is_locked": "الموضوع مُغلق",
-            "this_topic_was_locked_by_username": "أغلق الموضوع بواسطة {{username}}"
+            "this_topic_was_locked_by_username": "أغلق الموضوع بواسطة {{username}}",
+            "topic_is_autoarchived": "تمت أرشفة هذا الموضوع تلقائيًا ولم يعد من الممكن النشر فيه لأنه لم تكن هناك أية منشورات منذ فترة.",
+            "create_related_topic": "إذا كان لديك شيء يتعلق بالموضوع، فقم <a>بإنشاء موضوع في {{category_name}}</a>."
         },
         "post_list": {
             "edits_count_plural": "({{count}} تعديل)",
