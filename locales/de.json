@@ -537,7 +537,9 @@
             "first_page": "Erste Seite",
             "last_page": "Letzte Seite",
             "this_topic_is_locked": "Dieses Thema ist geschlossen",
-            "this_topic_was_locked_by_username": "Dieses Thema wurde von {{username}} geschlossen"
+            "this_topic_was_locked_by_username": "Dieses Thema wurde von {{username}} geschlossen",
+            "topic_is_autoarchived": "Dieses Thema wurde archiviert und kann nicht mehr kommentiert werden, da lange nicht auf das Thema geantwortet wurde.",
+            "create_related_topic": "Wenn du ein ähnliches Ansinnen hast, ziehe in Betracht ein <a>neues Thema in der Kategorie {{category_name}}</a> zu erstellen."
         },
         "post_list": {
             "deleted_post": "Gelöschter Post",
