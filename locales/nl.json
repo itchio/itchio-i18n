@@ -537,7 +537,9 @@
             "first_page": "Eerste pagina",
             "last_page": "Laatste pagina",
             "this_topic_is_locked": "Dit onderwerp is vergrendeld",
-            "this_topic_was_locked_by_username": "Dit onderwerp werd vergrendeld door {{username}}"
+            "this_topic_was_locked_by_username": "Dit onderwerp werd vergrendeld door {{username}}",
+            "topic_is_autoarchived": "Dit onderwerp is automatisch gearchiveerd en er kan niet langer op gereageerd worden omdat er al een tijdje geen posts zijn geweest.",
+            "create_related_topic": "Als je iets soortgelijks wilt plaatsen, overweeg <a>een onderwerp in {{category_name}} te maken</a>."
         },
         "post_list": {
             "deleted_post": "Verwijderd bericht",
@@ -965,7 +967,7 @@
                 "browser_playable": "Speelbaar in browsers"
             },
             "filter": "Filteren",
-            "empty_results": "Geen inzendingen matchen je filter",
+            "empty_results": "Geen inzendingen komen overeen met je filter",
             "rated": "Beoordeeld"
         },
         "results": {
