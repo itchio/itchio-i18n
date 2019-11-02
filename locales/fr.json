@@ -763,7 +763,8 @@
                 "suggested_donation_label": "Don suggéré",
                 "suggested_price_label": "Prix suggéré",
                 "default_price_info": "Prix par défaut affiché lorsque quelqu'un souhaite acheter votre projet",
-                "price_too_low_error": "Merci de donner un montant supérieur au prix du produit"
+                "price_too_low_error": "Merci de donner un montant supérieur au prix du produit",
+                "free_or_donate": "{{money}} ou faire un don"
             },
             "uploads": {
                 "delete_file_button": "Supprimer le fichier",
@@ -778,7 +779,9 @@
             "community_discussion_board_info": "Ajouter une page de communauté dédiée avec des catégories, des articles, des réponses et bien plus",
             "add_screenshots": "Ajouter des captures d'écran",
             "screenshots_header": "Captures d'écran",
-            "details_genre_info": "Sélectionnez la catégorie qui décrit le mieux votre jeu. Vous pouvez choisir des genres supplémentaires dans les mots-clés ci-dessous"
+            "details_genre_info": "Sélectionnez la catégorie qui décrit le mieux votre jeu. Vous pouvez choisir des genres supplémentaires dans les mots-clés ci-dessous",
+            "details_genre_header": "Genre",
+            "details_tags_header": "Mots-clés"
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -839,7 +842,8 @@
         "host_a_jam_button": "Héberger une jam",
         "browse_upcoming_this_month": "À venir ce mois-ci",
         "jams_created_header": "Les jams que vous avez créées",
-        "page_summary": "itch.io est un lieu pour héberger et participer à des game jams en ligne. Tout le monde peut instantanément créer et héberger une jam."
+        "page_summary": "itch.io est un lieu pour héberger et participer à des game jams en ligne. Tout le monde peut instantanément créer et héberger une jam.",
+        "page_title": "Game jams sur itch.io"
     },
     "feed": {
         "filter_own_activity_tab": "Ma propre activité",
@@ -1289,6 +1293,17 @@
         "start_project_button": "Démarrer"
     },
     "add_to_collection": {
-        "private_collection_option": "Collection privée — Vous seul voyez le contenu"
+        "private_collection_option": "Collection privée — Vous seul voyez le contenu",
+        "dialog_title": "Ajouter {{project_title}} à une collection",
+        "add_reason": "Ajouter ce projet à une collection pour le sauvegarder pour plus tard.",
+        "already_in_collections": "Ce projet est déjà dans les collections suivantes :",
+        "count_items": "{{count}} élément",
+        "count_items_plural": "{{count}} éléments",
+        "add_to_existing": "Ajouter à une collection existante",
+        "private_collection_title": "[Privée] {{title}}",
+        "default_title": "Collection de {{username}}",
+        "add_button": "Ajouter à une collection",
+        "manage_collections_link": "Gérer mes collections",
+        "about_this_project_label": "À propos de ce projet"
     }
 }
