@@ -1265,7 +1265,8 @@
             "return_to_project": "Retourner au projet",
             "view_rest_in_bundle": "Voir le reste du bundle",
             "discussion_board": "Forum de discussion",
-            "preorder_title": "Précommander {{project_title}}"
+            "preorder_title": "Précommander {{project_title}}",
+            "invoice": "Facture"
         },
         "linked_user_message": "Cette page est liée au compte {{username}}.",
         "link_account_header": "Lier cette page de téléchargement à votre compte itch.io",
