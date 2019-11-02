@@ -16,7 +16,7 @@
             "browse_games": "Jeux",
             "game_jams": "Game Jams",
             "upload_game": "Mettre en ligne un jeu",
-            "devlogs": "Devlogs",
+            "devlogs": "Journaux de développement",
             "community": "Communauté",
             "search_placeholder": "Rechercher des jeux ou des créateurs",
             "search": "Rechercher",
@@ -772,7 +772,8 @@
                 "hide_toggle": "Masquer ce fichier et empêcher son téléchargement",
                 "demo_toggle": "Ce fichier est une démo et peut être téléchargé gratuitement",
                 "set_price_toggle": "Définir un prix différent pour ce fichier",
-                "change_display_name_button": "Changer le nom affiché"
+                "change_display_name_button": "Changer le nom affiché",
+                "preorder_toggle": "Ce fichier est un certificat de précommande"
             },
             "community_field_info": "Développez une communauté autour de votre projet en laissant des gens poster sur votre page.",
             "community_comments_info": "Ajouter un fil de commentaires imbriqué au bas de la page du projet",
@@ -843,7 +844,8 @@
         "browse_upcoming_this_month": "À venir ce mois-ci",
         "jams_created_header": "Les jams que vous avez créées",
         "page_summary": "itch.io est un lieu pour héberger et participer à des game jams en ligne. Tout le monde peut instantanément créer et héberger une jam.",
-        "page_title": "Game jams sur itch.io"
+        "page_title": "Game jams sur itch.io",
+        "brose_featured_jams": "Jams populaires"
     },
     "feed": {
         "filter_own_activity_tab": "Ma propre activité",
@@ -875,7 +877,8 @@
         },
         "my_feed_tab": "Mon flux",
         "latest_featured_games_header": "Derniers jeux populaires",
-        "upload_a_game_button": "Mettre un jeu en ligne"
+        "upload_a_game_button": "Mettre un jeu en ligne",
+        "filter_devlogs_tab": "Journaux de développement"
     },
     "library": {
         "page_title": "Ma bibliothèque",
