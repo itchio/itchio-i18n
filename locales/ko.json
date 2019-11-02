@@ -544,7 +544,9 @@
             "first_page": "첫 페이지",
             "last_page": "마지막 페이지",
             "this_topic_is_locked": "잠긴 주제",
-            "this_topic_was_locked_by_username": "{{username}}에 의해 잠김"
+            "this_topic_was_locked_by_username": "{{username}}에 의해 잠김",
+            "topic_is_autoarchived": "이 주제는 장기간 댓글이 없었기 때문에 자동 보관 처리되었으며 더 이상 게시할 수 없습니다.",
+            "create_related_topic": "이 글과 관련하여 무언가가 있다면 <a>{{category_name}}에 주제를 생성하는 것</a>을 추천드립니다."
         },
         "post_list": {
             "deleted_post": "삭제된 글",
@@ -1302,7 +1304,8 @@
             "choose_stars": "평점을 매기기 위해 1에서 5개의 별을 골라주세요.",
             "rate_header": "{{project_title}} 평점 & 평가하기",
             "you_rated_this_project_ago": "{{time_ago}}전에 이 프로젝트에 평점을 남겼습니다."
-        }
+        },
+        "redeem_button": "등록"
     },
     "nags": {
         "unverified_email": {
