@@ -746,7 +746,8 @@
                 "fullscreen_button_option": "Bouton Plein écran",
                 "enable_scrollbars_option": "Activer les barres de défilement",
                 "embed_in_page_option": "Intégrer dans une page",
-                "launch_fullscreen_option": "Cliquer pour lancer en plein écran"
+                "launch_fullscreen_option": "Cliquer pour lancer en plein écran",
+                "viewport_dimensions": "Dimensions de la fenêtre"
             },
             "pricing": {
                 "no_payments": "Aucun paiement",
@@ -812,7 +813,12 @@
         "project_header": {
             "analytics": "Analyses",
             "edit_project": "Modifier le projet",
-            "metadata": "Métadonnées"
+            "metadata": "Métadonnées",
+            "devlog": "Journal de développement",
+            "edit_comments": "Modifier les commentaires",
+            "rewards": "Récompenses",
+            "admins": "Administrateurs",
+            "more": "Plus"
         }
     },
     "jams": {
@@ -876,7 +882,11 @@
         "empty_collection_message": "Cette collection est vide",
         "nav_header": "Bibliothèque",
         "download_button": "Télécharger",
-        "gift_button": "Offrir"
+        "gift_button": "Offrir",
+        "rate_game": {
+            "rate_header": "Noter & Critiquer {{project_title}}",
+            "you_rated_this_project_ago": "Vous avez noté ce projet il y a {{time_ago}}."
+        }
     },
     "user_settings": {
         "email_addresses": {
