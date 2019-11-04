@@ -16,7 +16,7 @@
             "browse_games": "Jeux",
             "game_jams": "Game Jams",
             "upload_game": "Mettre en ligne un jeu",
-            "devlogs": "Devlogs",
+            "devlogs": "Journaux de développement",
             "community": "Communauté",
             "search_placeholder": "Rechercher des jeux ou des créateurs",
             "search": "Rechercher",
@@ -110,7 +110,8 @@
         "to_follow": {
             "empty_results": "Nous n'avons plus rien à vous recommander pour le moment. Revenez plus tard",
             "refresh_button": "Actualisez pour plus de contenu...",
-            "created_projects": "{{project_list}} vient d'être créé"
+            "created_projects": "{{project_list}} vient d'être créé",
+            "dismiss_tooltip": "Ne plus suggérer"
         }
     },
     "misc": {
@@ -232,7 +233,7 @@
         "dismiss": "Ignorer",
         "more_ellip": "Plus…",
         "view_more": "Voir plus",
-        "loading_more_ellip": "Chargement..."
+        "loading_more_ellip": "Chargement…"
     },
     "blog": {
         "all_posts": "Tous les articles",
@@ -534,7 +535,8 @@
             "first_page": "Première page",
             "last_page": "Dernière page",
             "this_topic_is_locked": "Ce sujet est verrouillé",
-            "this_topic_was_locked_by_username": "Ce sujet a été verrouillé par {{username}}"
+            "this_topic_was_locked_by_username": "Ce sujet a été verrouillé par {{username}}",
+            "topic_is_autoarchived": "Ce sujet a été archivé automatiquement et vous ne pouvez plus y répondre car personne n'y a participé depuis très longtemps."
         },
         "post_list": {
             "deleted_post": "Message supprimé",
@@ -746,7 +748,8 @@
                 "fullscreen_button_option": "Bouton Plein écran",
                 "enable_scrollbars_option": "Activer les barres de défilement",
                 "embed_in_page_option": "Intégrer dans une page",
-                "launch_fullscreen_option": "Cliquer pour lancer en plein écran"
+                "launch_fullscreen_option": "Cliquer pour lancer en plein écran",
+                "viewport_dimensions": "Dimensions de la fenêtre"
             },
             "pricing": {
                 "no_payments": "Aucun paiement",
@@ -760,7 +763,8 @@
                 "suggested_donation_label": "Don suggéré",
                 "suggested_price_label": "Prix suggéré",
                 "default_price_info": "Prix par défaut affiché lorsque quelqu'un souhaite acheter votre projet",
-                "price_too_low_error": "Merci de donner un montant supérieur au prix du produit"
+                "price_too_low_error": "Merci de donner un montant supérieur au prix du produit",
+                "free_or_donate": "{{money}} ou faire un don"
             },
             "uploads": {
                 "delete_file_button": "Supprimer le fichier",
@@ -768,13 +772,17 @@
                 "hide_toggle": "Masquer ce fichier et empêcher son téléchargement",
                 "demo_toggle": "Ce fichier est une démo et peut être téléchargé gratuitement",
                 "set_price_toggle": "Définir un prix différent pour ce fichier",
-                "change_display_name_button": "Changer le nom affiché"
+                "change_display_name_button": "Changer le nom affiché",
+                "preorder_toggle": "Ce fichier est un certificat de précommande"
             },
             "community_field_info": "Développez une communauté autour de votre projet en laissant des gens poster sur votre page.",
             "community_comments_info": "Ajouter un fil de commentaires imbriqué au bas de la page du projet",
             "community_discussion_board_info": "Ajouter une page de communauté dédiée avec des catégories, des articles, des réponses et bien plus",
             "add_screenshots": "Ajouter des captures d'écran",
-            "screenshots_header": "Captures d'écran"
+            "screenshots_header": "Captures d'écran",
+            "details_genre_info": "Sélectionnez la catégorie qui décrit le mieux votre jeu. Vous pouvez choisir des genres supplémentaires dans les mots-clés ci-dessous",
+            "details_genre_header": "Genre",
+            "details_tags_header": "Mots-clés"
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -812,7 +820,12 @@
         "project_header": {
             "analytics": "Analyses",
             "edit_project": "Modifier le projet",
-            "metadata": "Métadonnées"
+            "metadata": "Métadonnées",
+            "devlog": "Journal de développement",
+            "edit_comments": "Modifier les commentaires",
+            "rewards": "Récompenses",
+            "admins": "Administrateurs",
+            "more": "Plus"
         }
     },
     "jams": {
@@ -828,7 +841,11 @@
         "games_created": "<s>{{count}} jeu</s> a été créé pour des jams hébergées sur itch.io.",
         "games_created_plural": "<s>{{count}} jeux</s> ont été créés pour des jams hébergées sur itch.io.",
         "host_a_jam_button": "Héberger une jam",
-        "browse_upcoming_this_month": "À venir ce mois-ci"
+        "browse_upcoming_this_month": "À venir ce mois-ci",
+        "jams_created_header": "Les jams que vous avez créées",
+        "page_summary": "itch.io est un lieu pour héberger et participer à des game jams en ligne. Tout le monde peut instantanément créer et héberger une jam.",
+        "page_title": "Game jams sur itch.io",
+        "brose_featured_jams": "Jams populaires"
     },
     "feed": {
         "filter_own_activity_tab": "Ma propre activité",
@@ -858,7 +875,10 @@
             "collection_added_count": "{{count}} élément ajouté.",
             "collection_added_count_plural": "{{count}} éléments ajoutés."
         },
-        "my_feed_tab": "Mon flux"
+        "my_feed_tab": "Mon flux",
+        "latest_featured_games_header": "Derniers jeux populaires",
+        "upload_a_game_button": "Mettre un jeu en ligne",
+        "filter_devlogs_tab": "Journaux de développement"
     },
     "library": {
         "page_title": "Ma bibliothèque",
@@ -876,7 +896,18 @@
         "empty_collection_message": "Cette collection est vide",
         "nav_header": "Bibliothèque",
         "download_button": "Télécharger",
-        "gift_button": "Offrir"
+        "gift_button": "Offrir",
+        "rate_game": {
+            "rate_header": "Noter & Critiquer {{project_title}}",
+            "you_rated_this_project_ago": "Vous avez noté ce projet il y a {{time_ago}}.",
+            "rating_saved_header": "Note sauvegardée",
+            "follow_creator": "Pensez à suivre le créateur de {{project_title}} pour rester informé de leurs dernières publications.",
+            "rating_removed_header": "Note retirée",
+            "rating_deleted_summary": "Votre note a été supprimée.",
+            "delete_button": "Supprimer la note et la critique",
+            "choose_stars": "Choisissez une note entre 1 et 5 étoiles."
+        },
+        "things_you_own_header": "Vos achats"
     },
     "user_settings": {
         "email_addresses": {
@@ -1241,7 +1272,8 @@
             "return_to_project": "Retourner au projet",
             "view_rest_in_bundle": "Voir le reste du bundle",
             "discussion_board": "Forum de discussion",
-            "preorder_title": "Précommander {{project_title}}"
+            "preorder_title": "Précommander {{project_title}}",
+            "invoice": "Facture"
         },
         "linked_user_message": "Cette page est liée au compte {{username}}.",
         "link_account_header": "Lier cette page de téléchargement à votre compte itch.io",
@@ -1262,5 +1294,19 @@
         "access_comes_with_key": "Votre accès inclut une clé {{key_type}} !",
         "access_it": "Y accéder",
         "start_project_button": "Démarrer"
+    },
+    "add_to_collection": {
+        "private_collection_option": "Collection privée — Vous seul voyez le contenu",
+        "dialog_title": "Ajouter {{project_title}} à une collection",
+        "add_reason": "Ajouter ce projet à une collection pour le sauvegarder pour plus tard.",
+        "already_in_collections": "Ce projet est déjà dans les collections suivantes :",
+        "count_items": "{{count}} élément",
+        "count_items_plural": "{{count}} éléments",
+        "add_to_existing": "Ajouter à une collection existante",
+        "private_collection_title": "[Privée] {{title}}",
+        "default_title": "Collection de {{username}}",
+        "add_button": "Ajouter à une collection",
+        "manage_collections_link": "Gérer mes collections",
+        "about_this_project_label": "À propos de ce projet"
     }
 }

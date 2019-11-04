@@ -576,7 +576,13 @@
             "suspended_account": "حساب موقوف",
             "pinned_reply": "تعليق مُثبت",
             "pinned_post": "منشور مُثبت",
-            "edited": "(مُعدل)"
+            "edited": "(مُعدل)",
+            "edits_count_0": "({{count}})",
+            "edits_count_1": "({{count}} تعديل)",
+            "edits_count_2": "({{count}} تعديل)",
+            "edits_count_3": "({{count}} تعديلات)",
+            "edits_count_4": "({{count}} تعديلات)",
+            "edits_count_5": "(عُدل {{count}})"
         },
         "post_form": {
             "save": "حفظ",
@@ -619,7 +625,13 @@
             "recent_posts_header": "المنشورات الحالية",
             "list_header_last_topic": "الموضوع الأخير",
             "archived_flag": "تم أرشفته",
-            "by_topic_author": "بواسطة {{username}}"
+            "by_topic_author": "بواسطة {{username}}",
+            "topics_count_0": "{{count}}",
+            "topics_count_1": "{{count}} موضوع",
+            "topics_count_2": "{{count}} موضوع",
+            "topics_count_3": "{{count}} مواضيع",
+            "topics_count_4": "{{count}} مواضيع",
+            "topics_count_5": "{{count}}"
         },
         "topic_list": {
             "new_flag": "جديد",
@@ -628,7 +640,19 @@
             "no_posts_yet": "لا منشورات بعد",
             "started_by_author": "بدأ بواسطة {{topic_author}}",
             "list_header_topic_title": "الموضوع",
-            "list_header_last_post": "المنشور الأخير"
+            "list_header_last_post": "المنشور الأخير",
+            "views_count_0": "<s>{{count}}</s>",
+            "views_count_1": "شُوهد <s>{{count}}</s>",
+            "views_count_2": "شُوهد <s>{{count}}</s>",
+            "views_count_3": "شُوهد <s>{{count}}</s>",
+            "views_count_4": "شُوهد <s>{{count}}</s>",
+            "views_count_5": "<s>{{count}}</s>",
+            "replies_count_0": "<s>{{count}}</s> رد",
+            "replies_count_1": "<s>{{count}}</s> رد",
+            "replies_count_2": "<s>{{count}}</s> رد",
+            "replies_count_3": "<s>{{count}}</s> ردود",
+            "replies_count_4": "<s>{{count}}</s> ردود",
+            "replies_count_5": "<s>{{count}}</s>"
         },
         "misc": {
             "new_topic_button": "موضوع جديد"
@@ -707,7 +731,13 @@
         "filter_group_collection": "مجموعة",
         "filter_group_tools": "الأدوات ومحركات الالعاب",
         "fresh_description": "تصفح مجموعة من المشاريع التي يتم تحديثها باستمرار والتي يتم الحصول عليها من مجموعات منسقة من قبل أعضائنا. تحقق مرة أخرى لاحقًا للحصول على إضافات جديدة.",
-        "filter_everything_else": "كل شئ آخر"
+        "filter_everything_else": "كل شئ آخر",
+        "results_count_0": "{{count}}",
+        "results_count_1": "{{count}} نتيجة",
+        "results_count_2": "{{count}} نتيجة",
+        "results_count_3": "{{count}} نتيجة",
+        "results_count_4": "{{count}} نتيجة",
+        "results_count_5": "{{count}}"
     },
     "user_settings": {
         "profile": {
@@ -809,7 +839,27 @@
     "stripe_checkout": {
         "steam_key": "كود منصة Steam",
         "full_name": "الاسم الكامل",
-        "payment_error": "حدث خطأ أثناء معالجة دفعتك:"
+        "payment_error": "حدث خطأ أثناء معالجة دفعتك:",
+        "payment_error_help": "إذا لم تكن متأكدًا، من فضلك تواصل مع <a>دعم itch.io</a> بالرسالة في الأعلي.",
+        "choose_a_card": "اختر بطاقة دفع",
+        "edit_saved_cards": "عدل بطاقات الدفع المحفوظة",
+        "card_ending_last4": "تنتهي في {{last4}}",
+        "new_card": "بطاقة دفع جديدة",
+        "enter_your_password_to_use_your_card": "أدخل  كلمة المرور لكي تستخدم بطاقتك",
+        "password": "كلمة المرور",
+        "buying_as": "تُشتري كـ",
+        "gift_instructions": "هذا الشراء هدية. ستتمكن من إرسال البريد الإلكتروني للمُهدي بعد الدفع.",
+        "credit_or_debit_card": "بطاقة إئتمان",
+        "save_credit_card_for_future_purchases": "حفظ بطاقة الائتمان للشراء بها مستقبلاً",
+        "manage_cards_link": "يمكنك إدارة بطاقتك من <a>إعدادات حسابك</a>",
+        "pay_price_button": "ستدفع {{price}}",
+        "paying_price_for": "ستدفع {{price}} من أجل:",
+        "paying_price_vat_for": "ستدفع {{price}} شاملة ضريبة القيمة المضافة من أجل:",
+        "donating_price_to": "ستتبرع ب{{price}} إلى:",
+        "donating_price_vat_to": "ستتبرع ب{{price}} شاملة ضريبة القيمة المضافة إلى:",
+        "you_will_receive_files": "ستحصل على:",
+        "linked_to_account": "ستُربط بحسابك",
+        "email": "البريد الإلكتروني"
     },
     "game_download": {
         "play_in_your_browser": "إلعب بداخل المتصفح",
