@@ -6,7 +6,8 @@
             "blog": "Blog",
             "contact_us": "Kapcsolat",
             "terms": "Feltételek",
-            "cookies": "Sütik"
+            "cookies": "Sütik",
+            "privacy": "Adatvédelem"
         },
         "header": {
             "browse": "Böngészés",
@@ -26,7 +27,9 @@
             "bundles": "Csomagok",
             "games": "Játékok",
             "feed_unseen_count": "{{count}} új",
-            "feed_unseen_count_plural": "{{count}} új"
+            "feed_unseen_count_plural": "{{count}} új",
+            "community": "Közösség",
+            "feed": "Hírfolyam"
         },
         "user_menu": {
             "explore": "Felfedezés",
