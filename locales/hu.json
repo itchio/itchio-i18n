@@ -1,3 +1,59 @@
 {
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Rólunk",
+            "blog": "Blog",
+            "contact_us": "Kapcsolat",
+            "terms": "Feltételek",
+            "cookies": "Sütik"
+        },
+        "header": {
+            "browse": "Böngészés",
+            "browse_games": "Játékok böngészése",
+            "upload_game": "Játék feltöltése",
+            "search_placeholder": "Játék vagy fejlesztő keresése",
+            "search": "Keresés",
+            "log_in": "Bejelentkezés",
+            "register": "Regisztráció",
+            "notifications_count": "{{count}} értesítés",
+            "notifications_count_plural": "{{count}} értesítés",
+            "no_notifications": "Nincsenek új értesítések",
+            "free_games": "Ingyenes játékok",
+            "game_development": "Játékfejlesztés",
+            "comics": "Képregények",
+            "sales": "Akciók",
+            "bundles": "Csomagok",
+            "games": "Játékok",
+            "feed_unseen_count": "{{count}} új",
+            "feed_unseen_count_plural": "{{count}} új"
+        },
+        "user_menu": {
+            "explore": "Felfedezés",
+            "create": "Alkoss",
+            "account": "Fiók",
+            "log_out": "Kijelentkezés",
+            "settings": "Beállítások",
+            "view_profile": "Profil megtekintése",
+            "sales_bundles": "Akciók & csomagok",
+            "new_project": "Új projekt feltöltése",
+            "recommendations": "Ajánlások",
+            "library": "Könyvtáram"
+        }
+    },
+    "index": {
+        "popular_tags": "Népszerű címkék",
+        "browse": "Böngészés",
+        "games_by_price": "Játékok ár alapján",
+        "download_app": "Alkalmazás letöltése",
+        "view_all_games": "Összes játék megtekintése",
+        "dont_see_anything_you_like": "Nem látsz semmi neked tetszőt?",
+        "from_the_blog": "A blogról",
+        "random_game": "Véletlenszerű játék",
+        "get_the_app": "<s>Élvezz ki mindent amit az itch.io nyújthat!</s>Telepítsd és kezeld játékaidat asztali alkalmazásunkkal ",
+        "from_the_itchio_blog": "Az itch.io blogról",
+        "view_all_blog_posts": "Összes frissítés megtekintése",
+        "search_games_creators": "Játék vagy fejlesztő keresése",
+        "browse_all_tags": "Az összes címke böngészése"
+    }
 }
