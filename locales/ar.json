@@ -838,7 +838,7 @@
     },
     "stripe_checkout": {
         "steam_key": "كود منصة Steam",
-        "full_name": "الاسم الكامل",
+        "full_name": "الأسم الكامل",
         "payment_error": "حدث خطأ أثناء معالجة دفعتك:",
         "payment_error_help": "إذا لم تكن متأكدًا، من فضلك تواصل مع <a>دعم itch.io</a> بالرسالة في الأعلي.",
         "choose_a_card": "اختر بطاقة دفع",
@@ -859,14 +859,36 @@
         "donating_price_vat_to": "ستتبرع ب{{price}} شاملة ضريبة القيمة المضافة إلى:",
         "you_will_receive_files": "ستحصل على:",
         "linked_to_account": "ستُربط بحسابك",
-        "email": "البريد الإلكتروني"
+        "email": "البريد الإلكتروني",
+        "youll_be_mailed_your_access_link": "سيُرسل لك رابط الوصول عبر البريد الإلكتروني",
+        "name_as_it_appears_on_card": "كما يظهر على الكارت"
     },
     "game_download": {
-        "play_in_your_browser": "إلعب بداخل المتصفح",
+        "play_in_your_browser": "إلعب داخل المتصفح",
         "start_project_button": "ابدء",
         "version_name": "الاصدار {{version_name}}",
         "header": {
-            "view_all_my_purchases": "عرض كل مشترياتي"
+            "view_all_my_purchases": "عرض كل مشترياتي",
+            "invoice": "فاتورة",
+            "more_menu": "المزيد"
+        },
+        "share_and_follow": "شارك وتابع",
+        "social_share_message_download": "لقد قمت بتحميل {{title}} للتو من المطور {{username}}",
+        "or_share_on": "أو شارك على",
+        "trouble_downloading_link": "لا يبدأ التحميل؟",
+        "install_instructions_intro": "تعليمات التحميل والتثبيت من {{username}}:",
+        "recommendations_title": "ربما تكون مهتمًا بالمزيد",
+        "check_out_more_from_jam_title": "شاهد المزيد من {{jam_title}}",
+        "alternate_download": {
+            "enable_alternate_download_mode": "تفعيل وضع التحميل البديل",
+            "title": "وضع التحميل البديل",
+            "region_message": "من المعروف أن بعض الدول تمنع شبكة توزيع المحتوى الخاص بitch.io. إذا لم تبدأ التحميلات، فيمكنك محاولة تمكين وضع التحميل البديل والمحاولة مرة أخرى."
+        },
+        "check_your_email_for_the_confirmation_link": "تحقق من بريدك الإلكتروني لرابط التأكيد.",
+        "preorder_instructions": "يحتوي هذا المشروع على ملفات لم يتم إصدارها بعد. عد إلى هذه الصفحة عندما يقوم المنشئ بإصدار الملفات لكي تُحملها.",
+        "app_banner": {
+            "get_the_app": "احصل على التطبيق",
+            "app_description": "ثبت وأدر ألعابك مع تطبيق itch.io"
         }
     },
     "jam": {
