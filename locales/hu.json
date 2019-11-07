@@ -77,13 +77,20 @@
         "filtering_platform": "Az összes játék szűrése {{platform_name}}ra",
         "view_all_platforms": "Az összes platform megtekintése",
         "nav": {
-            "all_games": "Az összes játék"
+            "all_games": "Az összes játék",
+            "bundles": "Csomagok",
+            "devlogs": "Fejlesztői cikkek",
+            "community": "Közösség"
         },
         "to_follow": {
             "empty_results": "Jelenleg nincs több ajánlásunk számodra. Nézz vissza később",
             "refresh_button": "Frissíts többért...",
             "dismiss_tooltip": "Ne ajánld többé"
-        }
+        },
+        "intro": "Az <s>itch.io</s>-n egyszerűen találhatsz és megoszthatsz indie játékokat online, ingyen.",
+        "intro_cta": "<1>Add hozzá a játékodat</1> vagy <2>Olvasd el a GY.I.K.-et</2>",
+        "html5_games": "HTML5 játékok",
+        "page_title": "Töltsd le a legújabb indie játékokat"
     },
     "misc": {
         "classifications": {
@@ -133,7 +140,16 @@
         },
         "forms": {
             "required": "Kötelező",
-            "optional": "Nem kötelező"
+            "optional": "Nem kötelező",
+            "save": "Mentés",
+            "email_address": "E-mail cím",
+            "submit": "Küldés",
+            "search": "Keresés",
+            "form_errors": "Kérjük, hogy ellenőrizd a megadott információt"
+        },
+        "page_number": "{{page_number}}. oldal",
+        "follow_button": {
+            "follow_username": "Követsd {{username}}-t"
         }
     }
 }
