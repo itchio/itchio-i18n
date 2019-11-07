@@ -733,7 +733,7 @@
             "visibility_access_header": "Visibilité & accès",
             "default_noun": "Laisser blanc par défaut à : '{{default_noun}}'.",
             "content_guidelines_info": "Prenez connaissance de nos <a>recommandations de qualité</a> avant de poster votre projet",
-            "visibility_access_info": "Utilisez Brouillon pour vérifier votre page avant de la rendre publique. <a>En savoir plus sur les modes d'accès</a>",
+            "visibility_access_info": "Utilisez Brouillon pour passer en revue votre page avant de la rendre publique. <a>En savoir plus sur les modes d'accès</a>",
             "access_control": {
                 "disable_downloads_option": "Désactiver les nouveaux téléchargements et achats",
                 "password_label": "Mot de passe",
@@ -784,7 +784,7 @@
             },
             "community_field_info": "Développez une communauté autour de votre projet en laissant des gens poster sur votre page.",
             "community_comments_info": "Ajouter un fil de commentaires imbriqué au bas de la page du projet",
-            "community_discussion_board_info": "Ajouter une page de communauté dédiée avec des catégories, des articles, des réponses et bien plus",
+            "community_discussion_board_info": "Ajoutez une page dédiée à la communauté avec des catégories, des articles, des réponses et plus encore",
             "add_screenshots": "Ajouter des captures d'écran",
             "screenshots_header": "Captures d'écran",
             "details_genre_info": "Sélectionnez la catégorie qui décrit le mieux votre jeu. Vous pouvez choisir des genres supplémentaires dans les mots-clés ci-dessous",
@@ -809,7 +809,7 @@
             "payouts_link": "Paiements",
             "sales_bundles_link": "Soldes & Bundles",
             "game_jams_link": "Game Jams",
-            "coop_bundles_link": "Bundles collectifs"
+            "coop_bundles_link": "Bundles co-op"
         },
         "project_list": {
             "edit": "Modifier",
@@ -835,7 +835,8 @@
             "admins": "Administrateurs",
             "more": "Plus",
             "interact": "Interagir",
-            "distribute": "Distribuer"
+            "distribute": "Distribuer",
+            "discussion_board": "Forum de discussion"
         }
     },
     "jams": {
