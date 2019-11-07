@@ -740,7 +740,8 @@
                 "public_access_settings": "Paramètres d'accès publique",
                 "restricted_access_settings": "Paramètres d'accès restreint",
                 "access_settings": "Paramètres d'accès",
-                "unlisted_option": "Non-référencé dans les recherches et la navigation"
+                "unlisted_option": "Non-référencé dans les recherches et la navigation",
+                "allow_password_option": "Ajoutez également un mot de passe pour voir la page"
             },
             "embed_options_header": "Options d'intégration",
             "embed_options": {
@@ -832,7 +833,8 @@
             "rewards": "Récompenses",
             "admins": "Administrateurs",
             "more": "Plus",
-            "interact": "Interagir"
+            "interact": "Interagir",
+            "distribute": "Distribuer"
         }
     },
     "jams": {
@@ -885,7 +887,9 @@
         "my_feed_tab": "Mon flux",
         "latest_featured_games_header": "Derniers jeux populaires",
         "upload_a_game_button": "Mettre un jeu en ligne",
-        "filter_devlogs_tab": "Journaux de développement"
+        "filter_devlogs_tab": "Journaux de développement",
+        "featured_tags_header": "Tags en vedette",
+        "global_feed_tab": "Flux global"
     },
     "library": {
         "page_title": "Ma bibliothèque",
