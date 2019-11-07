@@ -70,14 +70,14 @@
         "random_game": "Jeu au hasard",
         "get_the_app": "<s>Profitez pleinement d'itch.io !</s> Installez et gérez vos jeux avec l'app",
         "from_the_itchio_blog": "En direct du blog itch.io",
-        "view_all_blog_posts": "Voir toutes les Mises à jour",
+        "view_all_blog_posts": "Voir toutes les mises à jour",
         "on_sale": "En solde",
         "free_games": "Jeux gratuits",
         "top_sellers": "Meilleures ventes",
         "with_demo": "Démo disponible",
         "view_all": "Tout voir",
         "recommended_for_you": "Recommandé pour vous",
-        "recommendations_based_on": "Sur la base de vos achats, téléchargements et évaluations",
+        "recommendations_based_on": "D'après vos achats, téléchargements et évaluations",
         "fresh_games": "Nouveaux jeux",
         "browse_all_tags": "Voir tous les tags",
         "search_games_creators": "Chercher des jeux et des créateurs",
@@ -92,7 +92,7 @@
         "view_all_on_sale": "Voir toutes les soldes",
         "people_to_follow_description": "Voici des utilisateurs auxquels vous pourriez vouloir vous abonner. <a>Pourquoi s'abonner?</a>",
         "latest_featured_games": "Derniers jeux sélectionnés",
-        "filtering_platform": "N'affiche que les jeux compatible {{platform_name}}",
+        "filtering_platform": "N'afficher que les jeux {{platform_name}}",
         "view_all_platforms": "Voir toutes les plateformes",
         "browse_content_type": "Naviguer {{content_type}}",
         "nav": {
@@ -446,7 +446,7 @@
             "add_to_collection_short": "Collection",
             "comments": "Commentaires",
             "community": "Communauté",
-            "devlog": "Devlog",
+            "devlog": "Journal de développement",
             "edit_your_rating": "Modifier votre note",
             "edit_rating": "Modifier la note",
             "rate": "Noter",
@@ -720,7 +720,7 @@
             },
             "classification_field": "Catégorisation",
             "release_status_field": "Statut de publication",
-            "pricing_header": "Prix",
+            "pricing_header": "Tarif",
             "create_a_new_project_title": "Créer un nouveau projet",
             "edit_project_title": "Modifier le projet",
             "title_field": "Titre",
@@ -739,7 +739,8 @@
                 "password_label": "Mot de passe",
                 "public_access_settings": "Paramètres d'accès publique",
                 "restricted_access_settings": "Paramètres d'accès restreint",
-                "access_settings": "Paramètres d'accès"
+                "access_settings": "Paramètres d'accès",
+                "unlisted_option": "Non-référencé dans les recherches et la navigation"
             },
             "embed_options_header": "Options d'intégration",
             "embed_options": {
@@ -767,7 +768,8 @@
                 "suggested_price_label": "Prix suggéré",
                 "default_price_info": "Prix par défaut affiché lorsque quelqu'un souhaite acheter votre projet",
                 "price_too_low_error": "Merci de donner un montant supérieur au prix du produit",
-                "free_or_donate": "{{money}} ou faire un don"
+                "free_or_donate": "{{money}} ou faire un don",
+                "paid": "Payé"
             },
             "uploads": {
                 "delete_file_button": "Supprimer le fichier",
@@ -829,7 +831,8 @@
             "edit_comments": "Modifier les commentaires",
             "rewards": "Récompenses",
             "admins": "Administrateurs",
-            "more": "Plus"
+            "more": "Plus",
+            "interact": "Interagir"
         }
     },
     "jams": {
@@ -889,7 +892,7 @@
         "view_all_link": "Tout voir",
         "show_on_my_profile_toggle": "Afficher sur mon profil",
         "nav": {
-            "recommended_for_you": "Rien que pour vous",
+            "recommended_for_you": "Recommandé pour Vous",
             "things_on_sale": "En soldes",
             "my_purchases": "Mes achats",
             "things_to_rate": "À évaluer"
@@ -911,7 +914,8 @@
             "delete_button": "Supprimer la note et la critique",
             "choose_stars": "Choisissez une note entre 1 et 5 étoiles."
         },
-        "things_you_own_header": "Vos achats"
+        "things_you_own_header": "Vos achats",
+        "redeem_button": "Réclamation"
     },
     "user_settings": {
         "email_addresses": {
@@ -1122,7 +1126,7 @@
                 "private_field": "(privé)",
                 "vote_for_this_submission": "Voter pour cette participation",
                 "rate_this_submission": "Noter cette participation",
-                "not_open_yet": "Cette Jam est encore ouverte aux participations. Les votes ouvriront le {{start_date}}.",
+                "not_open_yet": "Cette Jam est encore ouverte aux participations. Les votes ouvrent le {{start_date}}.",
                 "owner_message": "C'est votre participation, vous ne pouvez pas la noter. Les autres participant·es de la jam pourront noter votre projet ici.",
                 "unavailable_to_rate": "Vous ne pouvez pas noter ce projet parce que vous n'avez pas encore soumis le vôtre. Vous pouvez quand même laisser un commentaire ci-dessous.",
                 "sign_up_to_rate": "<a>Créez un compte itch.io</a> pour noter et laisser des commentaires.",
@@ -1187,7 +1191,7 @@
             "suggest_updated_description": "Proposer une modification de la description"
         },
         "filter_group_when": "Quand",
-        "filter_group_input_methods": "Périphérique de jeu",
+        "filter_group_input_methods": "Périphériques de jeu",
         "filter_everything_else": "Tout le reste",
         "filter_group_price": "Prix",
         "filter_group_genre": "Genre",
@@ -1285,7 +1289,7 @@
         "linked_user_message": "Cette page est liée au compte {{username}}.",
         "link_account_header": "Lier cette page de téléchargement à votre compte itch.io",
         "link_account_description": "Vous pouvez lier cette page de téléchargement à un compte itch.io pour ne jamais la perdre. Elle s'affichera aux côtés des autres fichiers que vous possédez.",
-        "must_link_account_description": "Vous devez lier cette page à un compte itch.io pour pouvoir lancer le téléchargement. Les comptes sont gratuits et permettent de garder une trace des jeux collectés.",
+        "must_link_account_description": "Vous devez lier cette page à un compte itch.io avant de pouvoir télécharger. Les comptes sont gratuits et permettent de garder une trace des jeux que vous avez obtenus.",
         "get_external_key": "Obtenir une clé {{key_type}}",
         "already_own": "Il semblerait que vous possédiez déjà ceci",
         "access_existing_copy": "Vous ne pouvez pas réclamer une autre copie, mais vous pouvez accéder à celle déjà existante.",
@@ -1314,6 +1318,10 @@
         "default_title": "Collection de {{username}}",
         "add_button": "Ajouter à une collection",
         "manage_collections_link": "Gérer mes collections",
-        "about_this_project_label": "À propos de ce projet"
+        "about_this_project_label": "À propos de ce projet",
+        "add_to_new": "Ajouter à une collection déjà nommée"
+    },
+    "game_grid": {
+        "in_bundle": "Dans un ensemble"
     }
 }
