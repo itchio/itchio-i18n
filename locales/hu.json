@@ -69,6 +69,15 @@
         "people_to_follow": "Emberek akiket követhetsz",
         "fresh_games_description": "Folyamatossan frissül a legújabb játékokkal az itch.io-n",
         "view_all_games_on_sale": "Összes leárazott játék megtekintése",
-        "more_featured_games": "Még több kiemelt játék"
+        "more_featured_games": "Még több kiemelt játék",
+        "game_dev_on_sale": "<1>Leárazott</1> játékfejleszői eszközök",
+        "view_all_on_sale": "Az összes leárazott termék megtekintése",
+        "people_to_follow_description": "Itt találsz néhány profilt ami érdekelhet. <a>Miért kövessem őket?</a>",
+        "latest_featured_games": "A legújabb kiemelt játékok",
+        "filtering_platform": "Az összes játék szűrése {{platform_name}}ra",
+        "view_all_platforms": "Az összes platform megtekintése",
+        "nav": {
+            "all_games": "Az Összes Játék"
+        }
     }
 }
