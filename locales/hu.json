@@ -57,6 +57,15 @@
         "from_the_itchio_blog": "Az itch.io blogról",
         "view_all_blog_posts": "Összes frissítés megtekintése",
         "search_games_creators": "Játék vagy fejlesztő keresése",
-        "browse_all_tags": "Az összes címke böngészése"
+        "browse_all_tags": "Az összes címke böngészése",
+        "free_games": "Ingyenes játékok",
+        "top_sellers": "Legkelendőbbek",
+        "with_demo": "Próbaverzióval",
+        "view_all": "Összes megtekintése",
+        "recommended_for_you": "Neked ajánlott",
+        "recommendations_based_on": "Az alapján amiket vettél, letöltöttél és értékeltél",
+        "fresh_games": "Friss játékok",
+        "view_more": "Több megtekintése",
+        "people_to_follow": "Emberek akiket követhetsz"
     }
 }
