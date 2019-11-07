@@ -234,8 +234,8 @@
         "errors": {
             "server_error": "Serverul nu a reușit să răspundă, te rog sa încerci mai târziu"
         },
-        "more_ellip": "Mai mult...",
-        "loading_more_ellip": "Se încarcă mai multe..."
+        "more_ellip": "Mai mult…",
+        "loading_more_ellip": "Se încarcă mai multe…"
     },
     "blog": {
         "all_posts": "Toate postările",
@@ -391,7 +391,7 @@
             "click_to_leave_a_comment": "Apasă pentru a lăsa un comentariu…",
             "log_in_to_leave_comment": "<a>Conectează-te cu itch.io</a> pentru a lăsa un comentariu.",
             "post_comment": "Trimite comentariu",
-            "write_your_comment": "Scrie un comentariu..."
+            "write_your_comment": "Scrie un comentariu…"
         },
         "info_panel": {
             "updated_at": "Actualizat",
@@ -500,7 +500,7 @@
         },
         "report_form": {
             "support_from_creator": "Probleme? Aveți nevoie să-l contactați pe creator?",
-            "support_page_link": "Dute la pagina officială"
+            "support_page_link": "Mergi la pagina de suport oficială"
         }
     },
     "community": {
