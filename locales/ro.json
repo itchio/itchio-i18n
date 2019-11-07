@@ -111,9 +111,9 @@
         "intro_cta": "<1> Încarcă-ți propriul joc </1> sau <2> Citește întrebări adresate frecvent </2>",
         "to_follow": {
             "created_projects": "S-a creat {{project_list}}",
-            "empty_results": "Nu mai sunt recomandări. Încercați mai tarziu",
-            "refresh_button": "Dați \"Refresh\" pentru mai multe...",
-            "dismiss_tooltip": "Fara alte sugestii"
+            "empty_results": "Nu mai sunt recomandări. Incearcă mai târziu",
+            "refresh_button": "Reîmprospătează pentru mai multe...",
+            "dismiss_tooltip": "Nu mai sugera"
         }
     },
     "misc": {
@@ -170,7 +170,7 @@
             "submit": "Trimite",
             "optional": "Opțional",
             "search": "Caută",
-            "form_errors": "Verificați informația oferită"
+            "form_errors": "Te rog să verifici informaţiile pe care le-ai furnizat"
         },
         "page_number": "Pagina {{page_number}}",
         "follow_button": {
@@ -232,10 +232,10 @@
             "on_hold": "Întrerupt"
         },
         "errors": {
-            "server_error": "Serverul nu a raspuns, incercati din nou mai tarziu"
+            "server_error": "Serverul nu a reușit să răspundă, te rog sa încerci mai târziu"
         },
-        "more_ellip": "Mai multe…",
-        "loading_more_ellip": "Se incarca mai multe…"
+        "more_ellip": "Mai mult...",
+        "loading_more_ellip": "Se încarcă mai multe..."
     },
     "blog": {
         "all_posts": "Toate postările",
@@ -317,7 +317,8 @@
         "learn_more_about": "Află mai multe despre:",
         "share_message": "itch.io îți oferă posibilitatea de a-ți distribui propriul joc online cu ușurință, în mod gratuit.",
         "create_account_or_login": "<1>Creează un cont</1> <em>sau</em> <2>Conectează-te</2>",
-        "upload_or_dashboard": "<1>Încarcă un joc</1> <em>sau</em> <2>Du-te la tabloul de bord</2>"
+        "upload_or_dashboard": "<1>Încarcă un joc</1> <em>sau</em> <2>Du-te la tabloul de bord</2>",
+        "track_your_game_description": "Menține file cu privire la modul în care utilizatorii văd jocul tău cu ajutorul unor analize detaliate care convertesc vizualizările, descarcările şi achiziţiile. Vrei sa rulezi o promoţie? Generează chei de descărcare pentru a permite oamenilor accesul la jocul tău."
     },
     "search": {
         "creators": "Autori:",
