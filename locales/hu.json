@@ -149,7 +149,85 @@
         },
         "page_number": "{{page_number}}. oldal",
         "follow_button": {
-            "follow_username": "Követsd {{username}}-t"
+            "follow_username": "Kövesd {{username}}-t"
+        },
+        "filter_when": {
+            "last_day": "Mai nap",
+            "last_7_days": "Az elmúlt 7 nap",
+            "last_30_days": "Az elmúlt 30 nap"
+        },
+        "collection_button": {
+            "add_to_collection": "Hozzáadás gyűjteményhez"
+        },
+        "lightboxes": {
+            "close": "Bezárás"
+        },
+        "countdown": {
+            "years": "év",
+            "months": "hónap",
+            "days": "nap",
+            "hours": "óra",
+            "minutes": "perc",
+            "seconds": "másodperc"
+        },
+        "project_visibility": {
+            "restricted": "Korlátozott",
+            "published": "Közzétéve",
+            "draft": "Piszkozat",
+            "public": "Nyilvános"
+        },
+        "view_more": "Nézz meg többet",
+        "dismiss": "Eltüntetés",
+        "release_statuses": {
+            "released": "Kiadott",
+            "in_development": "Fejlesztés alatt",
+            "on_hold": "Felfüggesztve",
+            "canceled": "Törölve",
+            "prototype": "Prototípus"
+        },
+        "errors": {
+            "server_error": "A szerver nem tudott válaszolni, próbáld meg később."
+        },
+        "more_ellip": "Több...",
+        "loading_more_ellip": "Több betöltése..."
+    },
+    "blog": {
+        "all_posts": "Összes bejegyzés",
+        "updates": "Frissítések",
+        "digest": "Összegzés",
+        "empty_message": "Úgy tűnik, hogy itt nincs bejegyzés.",
+        "tag_filter": "Szűkítve erre: {{tag}}. <a>Szűrő törlése</a>"
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "Jelentkezz be az itch.io fiókodba!",
+        "login_form": {
+            "username_or_email": "Felhasználónév vagy e-mail cím",
+            "password": "Jelszó",
+            "forgot_password": "Elfelejtettem a jelszavam",
+            "create_account": "Fiók létrehozása",
+            "or_log_in_with_another_site": "Vagy jelentkezz be egy másik oldallal",
+            "or": "vagy",
+            "log_in_button": "Bejelentkezés"
+        },
+        "looking_for_something_you_bought": "Keresel valamit, amit megvásároltál?",
+        "create_a_new_account": "Hozz létre egy felhasználói fiókot!",
+        "intent": {
+            "community": "Be kell jelentkezned, hogy részt vegyél az itch.io közösségekben. A fiók létrehozása ingyenes és csak néhány pillanatba telik.",
+            "comment": "Hozzászóláshoz szükséged lesz egy itch.io fiókra.",
+            "rate_game": "Játék értékeléséhez először szükséged lesz egy itch.io fiókra.",
+            "follow": "Mielőtt követhetnél valakit, először szükséged lesz egy itch.io fiókra.",
+            "follow_username": "Mielőtt követhetnéd <1>{{username}}</1> felhasználót, először szükséged lesz egy itch.io fiókra.",
+            "collection": "Gyűjteménybe adáshoz először szükséged lesz egy itch.io fiókra.",
+            "claim_object": "A(z) {{noun}} begyűjtéséhez először jelentkezz be vagy hozz létre egy felhasználói fiókot.",
+            "recent_purchases": "Jelentkezz be ahhoz, hogy a közelmúltbeli vásárlásaidat hozzákapcsold a fiókodhoz."
+        },
+        "no_account_prompt": "Nincs fiókod? <1>Hozz létre egy fiókot</1>",
+        "page_title": "Bejelentkezés",
+        "you_are_logged_out": "Ki vagy jelentkezve",
+        "welcome_back": "Üdvözlünk ismét!",
+        "welcome_to_itchio": "Üdvözlünk az itch.io-n!",
+        "errors": {
+            "accept_terms": "El kell fogadnod a szolgáltatás feltételeit"
         }
     }
 }
