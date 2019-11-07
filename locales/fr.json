@@ -732,7 +732,7 @@
             "community_disabled": "Désactivé",
             "visibility_access_header": "Visibilité & accès",
             "default_noun": "Laisser blanc par défaut à : '{{default_noun}}'.",
-            "content_guidelines_info": "Prenez connaissance de nos <a>Recommandations de bonne pratique</a> avant de publier votre projet",
+            "content_guidelines_info": "Prenez connaissance de nos <a>recommandations de qualité</a> avant de poster votre projet",
             "visibility_access_info": "Utilisez Brouillon pour vérifier votre page avant de la rendre publique. <a>En savoir plus sur les modes d'accès</a>",
             "access_control": {
                 "disable_downloads_option": "Désactiver les nouveaux téléchargements et achats",
@@ -754,7 +754,8 @@
                 "enable_scrollbars_option": "Activer les barres de défilement",
                 "embed_in_page_option": "Intégrer dans une page",
                 "launch_fullscreen_option": "Cliquer pour lancer en plein écran",
-                "viewport_dimensions": "Dimensions de la fenêtre"
+                "viewport_dimensions": "Dimensions de la fenêtre",
+                "frame_options": "Options du cadre"
             },
             "pricing": {
                 "no_payments": "Aucun paiement",
@@ -854,7 +855,8 @@
         "jams_created_header": "Les jams que vous avez créées",
         "page_summary": "itch.io est un lieu pour héberger et participer à des game jams en ligne. Tout le monde peut instantanément créer et héberger une jam.",
         "page_title": "Game jams sur itch.io",
-        "brose_featured_jams": "Jams populaires"
+        "brose_featured_jams": "Jams populaires",
+        "jams_joined_header": "Jams que vous avez rejointes"
     },
     "feed": {
         "filter_own_activity_tab": "Ma propre activité",
@@ -867,7 +869,8 @@
             "to_rate_description": "Voici quelques projets avec lesquels vous avez interagi sans les avoir évalués."
         },
         "to_follow": {
-            "to_follow_description": "Voici quelques comptes qui pourraient vous intéresser."
+            "to_follow_description": "Voici quelques comptes qui pourraient vous intéresser.",
+            "people_to_follow_header": "Personnes à suivre"
         },
         "manage_my_games_button": "Gérer mes jeux",
         "event_filter_label": "Filtre :",
@@ -919,7 +922,8 @@
             "choose_stars": "Choisissez une note entre 1 et 5 étoiles."
         },
         "things_you_own_header": "Vos achats",
-        "redeem_button": "Réclamation"
+        "redeem_button": "Réclamation",
+        "private_toggle": "Privé"
     },
     "user_settings": {
         "email_addresses": {
