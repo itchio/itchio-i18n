@@ -77,7 +77,63 @@
         "filtering_platform": "Az összes játék szűrése {{platform_name}}ra",
         "view_all_platforms": "Az összes platform megtekintése",
         "nav": {
-            "all_games": "Az Összes Játék"
+            "all_games": "Az összes játék"
+        },
+        "to_follow": {
+            "empty_results": "Jelenleg nincs több ajánlásunk számodra. Nézz vissza később",
+            "refresh_button": "Frissíts többért...",
+            "dismiss_tooltip": "Ne ajánld többé"
+        }
+    },
+    "misc": {
+        "classifications": {
+            "game": "Játékok",
+            "game_mod": "Játék modok",
+            "physical_game": "Fizikai játékok",
+            "soundtrack": "Zenék",
+            "other": "Egyebek",
+            "tool": "Eszközök",
+            "comic": "Képregények",
+            "book": "Könyvek"
+        },
+        "accessibility_features": {
+            "colorblind": "Színvak-barát",
+            "subtitles": "Feliratok",
+            "configurable_controls": "Egyénire szabható irányítás",
+            "highcontrast": "Nagy kontrasztú",
+            "tutorial": "Interaktív oktatás",
+            "one_button": "Egygombos",
+            "blind": "Vakbarát",
+            "textless": "Szövegmentes"
+        },
+        "multiplayer_features": {
+            "local": "Helyi többjátékos",
+            "server": "Szerveralapú hálózati többjátékos",
+            "adhoc": "Ad-hoc hálózati többjátékos"
+        },
+        "inputs": {
+            "keyboard": "Billentyűzet",
+            "mouse": "Egér",
+            "gamepad": "Kontroller",
+            "joystick": "Joystick",
+            "touchscreen": "Érintőképernyő",
+            "voice": "Hangvezérlés",
+            "accelerometer": "Gyorsulásmérő",
+            "phone": "Okostelefon",
+            "dance_pad": "Táncszőnyeg",
+            "midi_controller": "MIDI kontroller"
+        },
+        "durations": {
+            "seconds": "Néhány másodperces",
+            "minutes": "Néhány perces",
+            "half_hour": "Körülbelül félórás",
+            "hour": "Körülbelül egyórás",
+            "hours": "Néhány órás",
+            "days": "Egy nap vagy hosszabb"
+        },
+        "forms": {
+            "required": "Kötelező",
+            "optional": "Nem kötelező"
         }
     }
 }
