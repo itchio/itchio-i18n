@@ -66,6 +66,9 @@
         "recommendations_based_on": "Az alapján amiket vettél, letöltöttél és értékeltél",
         "fresh_games": "Friss játékok",
         "view_more": "Több megtekintése",
-        "people_to_follow": "Emberek akiket követhetsz"
+        "people_to_follow": "Emberek akiket követhetsz",
+        "fresh_games_description": "Folyamatossan frissül a legújabb játékokkal az itch.io-n",
+        "view_all_games_on_sale": "Összes leárazott játék megtekintése",
+        "more_featured_games": "Több kiemelt játékok"
     }
 }
