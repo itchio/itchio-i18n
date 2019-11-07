@@ -369,7 +369,7 @@
         "empty_page": "لا يبدو أن هناك أي شيء هنا...",
         "more_information": "مزيد من المعلومات",
         "install_instructions": "تعليمات التثبيت",
-        "download_header": "تنزيل",
+        "download_header": "تحميل",
         "unavailable": "{{game_noun}} غير متوفرة",
         "purchase_header": "شراء",
         "download_access": "انقر فوق تحميل الآن للوصول إلى الملفات التالية:",
@@ -874,7 +874,8 @@
             "view_rest_in_bundle": "عرض باقي العرض",
             "preorder_title": "شراء مسبق ل{{project_title}}",
             "download_title": "تحميل {{project_title}}",
-            "return_to_project": "العودة إلى المشروع"
+            "return_to_project": "العودة إلى المشروع",
+            "discussion_board": "لوحة النقاش"
         },
         "share_and_follow": "شارك وتابع",
         "social_share_message_download": "لقد قمت بتحميل {{title}} للتو من المطور {{username}}",
@@ -893,7 +894,11 @@
         "app_banner": {
             "get_the_app": "احصل على التطبيق",
             "app_description": "ثبت وأدر ألعابك مع تطبيق itch.io"
-        }
+        },
+        "linked_user_message": "هذه الصفحة مرتبطة بحساب {{username}}.",
+        "link_my_account": "اربط حسابي",
+        "log_in_to_link": "سجل الدخول لكي تربط حسابك",
+        "link_account_header": "أربط صفحة التحميل هذه إلى حسابك"
     },
     "jam": {
         "header": {
@@ -948,5 +953,41 @@
         },
         "hello": "مرحبًا!",
         "dashboard": "لوحة المراقبة"
+    },
+    "library": {
+        "page_title": "مكتبتي",
+        "things_you_own_header": "أشياء تمتلكها",
+        "view_all_link": "عرض الكل",
+        "show_on_my_profile_toggle": "عرض علي حسابي",
+        "things_rated_header": "أشياء قمت بتقيمها",
+        "permalink": "رابط ثابت",
+        "private_toggle": "خاص",
+        "go_to_collection_link": "الذهاب للمجموعة",
+        "empty_collection_message": "المجموعة فارغة",
+        "nav_header": "المكتبة",
+        "nav": {
+            "my_purchases": "مشترياتي",
+            "recommended_for_you": "يُفضل لك",
+            "things_on_sale": "اشياء تُباع",
+            "things_to_rate": "أشياء لتقييمها"
+        },
+        "download_button": "تحميل",
+        "gift_button": "هدية",
+        "rate_game": {
+            "rating_saved_header": "حُفظ التقييم",
+            "follow_creator": "خذ بعين الإعتبار متابعة مُنشئ {{project_title}} لكي تبقى مطلعًا على أخر إصدار.",
+            "rating_removed_header": "حُذف التقييم",
+            "rating_deleted_summary": "تم حذف تقييمك.",
+            "delete_button": "حذف التقييم والمراجعة",
+            "choose_stars": "اختر تقييمًا من 1 إلى 5 نجوم.",
+            "rate_header": "راجع وقيم {{project_title}}",
+            "you_rated_this_project_ago": "لقد قيمت هذا المشروع منذ {{time_ago}}."
+        },
+        "redeem_button": "استرداد"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "لم يتم التحقق من بريدك الإلكتروني"
+        }
     }
 }
