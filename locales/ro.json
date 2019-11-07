@@ -390,7 +390,8 @@
             "leave_a_comment": "Lasă un comentariu",
             "click_to_leave_a_comment": "Apasă pentru a lăsa un comentariu…",
             "log_in_to_leave_comment": "<a>Conectează-te cu itch.io</a> pentru a lăsa un comentariu.",
-            "post_comment": "Trimite comentariu"
+            "post_comment": "Trimite comentariu",
+            "write_your_comment": "Scrie un comentariu..."
         },
         "info_panel": {
             "updated_at": "Actualizat",
