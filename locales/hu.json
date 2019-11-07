@@ -149,7 +149,12 @@
         },
         "page_number": "{{page_number}}. oldal",
         "follow_button": {
-            "follow_username": "Kövesd {{username}}-t"
+            "follow_username": "Kövesd {{username}}-t",
+            "follow": "Követés",
+            "following_username": "{{username}} követve",
+            "following": "Követve",
+            "unfollow_username": "{{username}} kikövetése",
+            "unfollow": "Kikövetés"
         },
         "filter_when": {
             "last_day": "Mai nap",
@@ -189,7 +194,23 @@
             "server_error": "A szerver nem tudott válaszolni, próbáld meg később."
         },
         "more_ellip": "Több...",
-        "loading_more_ellip": "Több betöltése..."
+        "loading_more_ellip": "Több betöltése...",
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Ingyenes",
+            "on_sale": "Leárazott",
+            "paid": "Fizetős"
+        },
+        "pager": {
+            "next_page": "Következő oldal",
+            "prev": "Előző",
+            "next": "Következő",
+            "current_page_of_total": "{{current_page}}. oldal a {{total_pages}}-ból",
+            "previous_page": "Előző oldal",
+            "first_page": "Első oldal"
+        }
     },
     "blog": {
         "all_posts": "Összes bejegyzés",
