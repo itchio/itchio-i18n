@@ -501,8 +501,8 @@
         "report_form": {
             "support_from_creator": "Probleme? Aveți nevoie să-l contactați pe creator?",
             "support_page_link": "Mergi la pagina de suport oficială",
-            "email_creator_link": "Trimite-i email creatorului.",
-            "submit_report_button": "Trimite raportul.",
+            "email_creator_link": "Trimite-i email creatorului",
+            "submit_report_button": "Trimite raportul",
             "title": "Raportează pagina '{{page_title}}'",
             "description_label": "Descriere"
         }
@@ -543,7 +543,7 @@
     },
     "nags": {
         "unverified_email": {
-            "title": "Adresa ta de e-mail nu este verificată."
+            "title": "Adresa ta de e-mail nu este verificată"
         }
     }
 }
