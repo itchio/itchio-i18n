@@ -497,6 +497,9 @@
             "see_everything": "Vezi tot",
             "powered_by": "<s>Cu sprijinul</s> {{itchio_logo}}",
             "app_learn_more": "<s>Nou!</s> Încearcă aplicația pentru desktop itch.io pentru a descărca jocuri și a-ți administra biblioteca. <a>Află mai multe</a>"
+        },
+        "report_form": {
+            "support_from_creator": "Aveți o problemă, vă trebuie ajutorul dezvoltatorului?"
         }
     },
     "community": {
