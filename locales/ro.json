@@ -500,7 +500,11 @@
         },
         "report_form": {
             "support_from_creator": "Probleme? Aveți nevoie să-l contactați pe creator?",
-            "support_page_link": "Mergi la pagina de suport oficială"
+            "support_page_link": "Mergi la pagina de suport oficială",
+            "email_creator_link": "Trimite-i email creatorului.",
+            "submit_report_button": "Trimite raportul.",
+            "title": "Raportează pagina '{{page_title}}'",
+            "description_label": "Descriere"
         }
     },
     "community": {
@@ -535,6 +539,11 @@
         "post_list": {
             "deleted_post": "Postare ștearsă",
             "post_from_blocked_account": "Postare de la un cont blocat"
+        }
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Adresa ta de e-mail nu este verificată."
         }
     }
 }
