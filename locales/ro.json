@@ -318,7 +318,8 @@
         "share_message": "itch.io îți oferă posibilitatea de a-ți distribui propriul joc online cu ușurință, în mod gratuit.",
         "create_account_or_login": "<1>Creează un cont</1> <em>sau</em> <2>Conectează-te</2>",
         "upload_or_dashboard": "<1>Încarcă un joc</1> <em>sau</em> <2>Du-te la tabloul de bord</2>",
-        "track_your_game_description": "Menține file cu privire la modul în care utilizatorii văd jocul tău cu ajutorul unor analize detaliate care convertesc vizualizările, descarcările şi achiziţiile. Vrei sa rulezi o promoţie? Generează chei de descărcare pentru a permite oamenilor accesul la jocul tău."
+        "track_your_game_description": "Menține file cu privire la modul în care utilizatorii văd jocul tău cu ajutorul unor analize detaliate care convertesc vizualizările, descarcările şi achiziţiile. Vrei sa rulezi o promoţie? Generează chei de descărcare pentru a permite oamenilor accesul la jocul tău.",
+        "design_your_games_page_description": "Creează o pagină personalizată pentru jocul tău, unde oamenii îți cumpără sau descarcă jocul. Tu alegi culori, fonturi, imagini și videoclipuri. Deoarece este pagina ta, tu nu vei găsi altceva acolo decât ceea ce ai pus tu."
     },
     "search": {
         "creators": "Autori:",
