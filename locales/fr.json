@@ -315,7 +315,9 @@
         "learn_more_about": "En savoir plus sur :",
         "share_message": "itch.io est un moyen simple de distribuer gratuitement vos jeux en ligne.",
         "create_account_or_login": "<1>Créer un compte</1> <em>ou</em> <2>Se connecter</2>",
-        "upload_or_dashboard": "<1>Créer un nouveau jeu</1> <em>ou</em> <2>Accéder au tableau de bord</2>"
+        "upload_or_dashboard": "<1>Créer un nouveau jeu</1> <em>ou</em> <2>Accéder au tableau de bord</2>",
+        "design_your_games_page_description": "Créez une page personnalisée pour votre jeu où les gens pourront acheter ou télécharger votre jeu. Choisissez les couleurs, les polices, les images et les vidéos. Puisque c'est votre page, elle n'affichera que le contenu que vous aurez choisi, rien d'autre.",
+        "track_your_game_description": "Gardez un œil sur la visibilité de votre jeu avec des statistiques détaillées incluant les vues, les téléchargements et les achats. Vous voulez lancer une promotion ? Vous pouvez générer une clé de téléchargement et permettre aux gens de télécharger votre jeu."
     },
     "search": {
         "creators": "Créateurs :",
@@ -536,7 +538,8 @@
             "last_page": "Dernière page",
             "this_topic_is_locked": "Ce sujet est verrouillé",
             "this_topic_was_locked_by_username": "Ce sujet a été verrouillé par {{username}}",
-            "topic_is_autoarchived": "Ce sujet a été archivé automatiquement et vous ne pouvez plus y répondre car personne n'y a participé depuis très longtemps."
+            "topic_is_autoarchived": "Ce sujet a été archivé automatiquement et vous ne pouvez plus y répondre car personne n'y a participé depuis très longtemps.",
+            "create_related_topic": "Si vous avez quelque chose de similaire à poster, vous pouvez <a> créer un sujet dans {{category_name}}</a>."
         },
         "post_list": {
             "deleted_post": "Message supprimé",
@@ -782,7 +785,8 @@
             "screenshots_header": "Captures d'écran",
             "details_genre_info": "Sélectionnez la catégorie qui décrit le mieux votre jeu. Vous pouvez choisir des genres supplémentaires dans les mots-clés ci-dessous",
             "details_genre_header": "Genre",
-            "details_tags_header": "Mots-clés"
+            "details_tags_header": "Mots-clés",
+            "project_type_help": "Vous pouvez ajouter des fichiers à télécharger de n'importe quel type ci-dessus"
         },
         "stats": {
             "downloads": "Téléchargements",
@@ -1069,7 +1073,8 @@
                 "ranked_score": "Score : {{score}}"
             },
             "votes_cast_count": "<s>{{count}}</s> vote a été effectué entre le {{vote_start_date}} et le {{vote_end_date}}.",
-            "votes_cast_count_plural": "<s>{{count}}</s> votes ont été effectués entre le {{vote_start_date}} et le {{vote_end_date}}."
+            "votes_cast_count_plural": "<s>{{count}}</s> votes ont été effectués entre le {{vote_start_date}} et le {{vote_end_date}}.",
+            "sort_overall": "Global"
         },
         "header": {
             "hosted_by": "Hébergée par {{hosts}}",
@@ -1135,7 +1140,9 @@
             "ranked_with_vote_count": "Classé {{ordinal_rank}} avec {{count}} vote",
             "ranked_with_vote_count_plural": "Classé {{ordinal_rank}} avec {{count}} votes",
             "results_header": "Résultats",
-            "score_information": "Le score est le score brut ajusté sur le nombre médian de notes par jeux de cette jam."
+            "score_information": "Le score est le score brut ajusté sur le nombre médian de notes par jeux de cette jam.",
+            "run_project": "Lancer le projet",
+            "submitted_by_contributors": "Soumis par {{contributors}}"
         },
         "screenshots": {
             "empty_message": "Aucune capture d'écran n'a encore été mise en ligne",
