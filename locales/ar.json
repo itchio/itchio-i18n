@@ -870,7 +870,11 @@
         "header": {
             "view_all_my_purchases": "عرض كل مشترياتي",
             "invoice": "فاتورة",
-            "more_menu": "المزيد"
+            "more_menu": "المزيد",
+            "view_rest_in_bundle": "عرض باقي العرض",
+            "preorder_title": "شراء مسبق ل{{project_title}}",
+            "download_title": "تحميل {{project_title}}",
+            "return_to_project": "العودة إلى المشروع"
         },
         "share_and_follow": "شارك وتابع",
         "social_share_message_download": "لقد قمت بتحميل {{title}} للتو من المطور {{username}}",
