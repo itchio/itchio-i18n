@@ -230,6 +230,17 @@
         "yuri": "Yuri",
         "zero-gravity": "Gravité zéro",
         "zombies": "Zombies",
-        "farming": "Agriculture"
+        "farming": "Agriculture",
+        "first-person": "Première personne",
+        "fmv": "FMV",
+        "lesbian": "Lesbienne",
+        "perma-death": "Mort permanente",
+        "physics": "Physique",
+        "puzzle-platformer": "Puzzle-plateforme",
+        "relaxing": "Relaxant",
+        "rpg": "Jeu de rôle",
+        "stealth": "Infiltration",
+        "third-person": "Troisième personne",
+        "voxel": "Voxel"
     }
 }
