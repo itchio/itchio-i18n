@@ -499,7 +499,8 @@
             "app_learn_more": "<s>Nou!</s> Încearcă aplicația pentru desktop itch.io pentru a descărca jocuri și a-ți administra biblioteca. <a>Află mai multe</a>"
         },
         "report_form": {
-            "support_from_creator": "Probleme? Aveți nevoie să-l contactați pe creator?"
+            "support_from_creator": "Probleme? Aveți nevoie să-l contactați pe creator?",
+            "support_page_link": "Dute la pagina officială"
         }
     },
     "community": {
