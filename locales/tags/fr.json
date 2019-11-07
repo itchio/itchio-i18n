@@ -241,6 +241,8 @@
         "rpg": "Jeu de rôle",
         "stealth": "Infiltration",
         "third-person": "Troisième personne",
-        "voxel": "Voxel"
+        "voxel": "Voxel",
+        "multiple-endings": "Fins multiples",
+        "touch-friendly": "Tactile intégré"
     }
 }
