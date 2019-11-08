@@ -446,7 +446,7 @@
             "add_to_collection_short": "Collection",
             "comments": "Commentaires",
             "community": "Communauté",
-            "devlog": "Journal de développement",
+            "devlog": "Devlog",
             "edit_your_rating": "Modifier votre note",
             "edit_rating": "Modifier la note",
             "rate": "Noter",
@@ -1331,6 +1331,6 @@
         "add_to_new": "Ajouter à une collection déjà nommée"
     },
     "game_grid": {
-        "in_bundle": "Dans un ensemble"
+        "in_bundle": "Voir offre groupée"
     }
 }
