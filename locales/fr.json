@@ -771,7 +771,7 @@
                 "default_price_info": "Prix par défaut affiché lorsque quelqu'un souhaite acheter votre projet",
                 "price_too_low_error": "Merci de donner un montant supérieur au prix du produit",
                 "free_or_donate": "{{money}} ou faire un don",
-                "paid": "Payé"
+                "paid": "Payant"
             },
             "uploads": {
                 "delete_file_button": "Supprimer le fichier",
