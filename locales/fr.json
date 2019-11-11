@@ -16,7 +16,7 @@
             "browse_games": "Jeux",
             "game_jams": "Game Jams",
             "upload_game": "Mettre en ligne un jeu",
-            "devlogs": "Journaux de développement",
+            "devlogs": "Devlogs",
             "community": "Communauté",
             "search_placeholder": "Rechercher des jeux ou des créateurs",
             "search": "Rechercher",
@@ -289,7 +289,7 @@
             "url_preview": "Votre page de profil sera",
             "other_registration_methods": "Autres méthodes de connexion",
             "already_have_account": "ou vous avez déjà un compte ?",
-            "digest_signup": "Envoyez-moi les infos \"En bref\" itch.io bimensuelle",
+            "digest_signup": "S'inscrire à la newsletter bimensuelle d'itch.io",
             "interest_gamer": "Je veux jouer ou télécharger des jeux depuis itch.io",
             "interest_developer": "Je veux distribuer du contenu sur itch.io",
             "account_preferences_info": "Vous pouvez changer vos réponses plus tard, ces questions ajustent la manière dont le site se présente à vous.",
@@ -771,7 +771,7 @@
                 "default_price_info": "Prix par défaut affiché lorsque quelqu'un souhaite acheter votre projet",
                 "price_too_low_error": "Merci de donner un montant supérieur au prix du produit",
                 "free_or_donate": "{{money}} ou faire un don",
-                "paid": "Payé"
+                "paid": "Payant"
             },
             "uploads": {
                 "delete_file_button": "Supprimer le fichier",
@@ -829,7 +829,7 @@
             "analytics": "Analyses",
             "edit_project": "Modifier le projet",
             "metadata": "Métadonnées",
-            "devlog": "Journal de développement",
+            "devlog": "Devlog",
             "edit_comments": "Modifier les commentaires",
             "rewards": "Récompenses",
             "admins": "Administrateurs",
@@ -891,7 +891,7 @@
         "my_feed_tab": "Mon flux",
         "latest_featured_games_header": "Derniers jeux populaires",
         "upload_a_game_button": "Mettre un jeu en ligne",
-        "filter_devlogs_tab": "Journaux de développement",
+        "filter_devlogs_tab": "Devlogs",
         "featured_tags_header": "Tags en vedette",
         "global_feed_tab": "Flux global"
     },
