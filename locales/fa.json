@@ -294,8 +294,12 @@
             "about_you": "درباره‌ی شما",
             "your_email_address": "آدرس ایمیل شما",
             "password": "گذرواژه",
-            "repeat_password": "تکرار گذرواژه"
+            "repeat_password": "تکرار گذرواژه",
+            "url_preview": "آدرس صفحه‌ی پروفایل شما این خواهد شد",
+            "username": "نام کاربری",
+            "other_registration_methods": "دیگر روش‌های ثبت نام"
         },
-        "create_an_account_on_itchio": "ساخت یک حساب کاربری در itch.io"
+        "create_an_account_on_itchio": "ساخت یک حساب کاربری در itch.io",
+        "page_title": "ثبت نام حساب کاربری"
     }
 }
