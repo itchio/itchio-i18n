@@ -898,7 +898,20 @@
         "linked_user_message": "هذه الصفحة مرتبطة بحساب {{username}}.",
         "link_my_account": "اربط حسابي",
         "log_in_to_link": "سجل الدخول لكي تربط حسابك",
-        "link_account_header": "أربط صفحة التحميل هذه إلى حسابك"
+        "link_account_header": "أربط صفحة التحميل هذه إلى حسابك",
+        "link_account_description": "يمكنك ربط صفحة التحميل هذه بحساب itch.io حتى لا تقلق أبدًا بشأن فقدها. سوف تظهر الصفحة إلى جانب أي أشياء أخرى تمتلكها.",
+        "must_link_account_description": "يجب عليك ربط هذه الصفحة بحساب itch.io قبل أن تتمكن من التحميل. الحسابات مجانية وستتُيح لك تتبع أي ألعاب قمت بجمعها.",
+        "already_own": "يبدو أنك تملك هذا بالفعل",
+        "access_existing_copy": "لا يمكنك الحصول على نسخة أخرى، ولكن يمكنك الوصول إلى نسختك الحالية.",
+        "get_external_key": "أحصل على مفتاح {{key_type}}",
+        "claim_external_key": "طالب بمفتاح {{key_type}}",
+        "claim_external_key_instructions": "انقر فوق الزر للمطالبة به.",
+        "payment_comes_with_key": "الدفع الخاص بك يأتي مع مفتاح {{key_type}}!",
+        "access_comes_with_key": "وصولك يأتي مع مفتاح {{key_type}}!",
+        "access_it": "صّل إليه",
+        "email_capture": {
+            "dont_lose_your_purchase": "لا تفقد شرائك!"
+        }
     },
     "jam": {
         "header": {
