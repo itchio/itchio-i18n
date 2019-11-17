@@ -910,7 +910,17 @@
         "access_comes_with_key": "وصولك يأتي مع مفتاح {{key_type}}!",
         "access_it": "صّل إليه",
         "email_capture": {
-            "dont_lose_your_purchase": "لا تفقد شرائك!"
+            "dont_lose_your_purchase": "لا تفقد شرائك!",
+            "provide_email_instructions": "أدخل عنوان بريدك الإلكتروني لربطه بعملية الشراء حتى تتمكن من استردادها إذا فقدت هذه الصفحة."
+        },
+        "purchase": {
+            "youve_been_gifted": "تم إهدائك {{product_title}}.",
+            "save_this_purchase_to_your_account": "حفظ هذا الشراء إلى حسابك",
+            "link_purchase_links": "<1>أنشئ حسابًا</1> أو <2>سجل الدخول إلى itch.io</2> لكي تربط هذا الشراء مباشرةً.",
+            "link_purchase_warning": "لا تفقد شرائك!",
+            "thank_you_for_purchasing": "شكرًا لشرائك {{product_title}}.",
+            "thank_you_for_purchasing_author": "شكرًا لشرائك {{product_title}} من تطوير {{author}}.",
+            "thank_you_for_donating": "شكرًا لتبرعك إلى {{product_title}}."
         }
     },
     "jam": {
