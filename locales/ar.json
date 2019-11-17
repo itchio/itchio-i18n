@@ -920,18 +920,36 @@
             "link_purchase_warning": "لا تفقد شرائك!",
             "thank_you_for_purchasing": "شكرًا لشرائك {{product_title}}.",
             "thank_you_for_purchasing_author": "شكرًا لشرائك {{product_title}} من تطوير {{author}}.",
-            "thank_you_for_donating": "شكرًا لتبرعك إلى {{product_title}}."
+            "thank_you_for_donating": "شكرًا لتبرعك إلى {{product_title}}.",
+            "thank_you_for_donating_author": "شكرًا لتبرعك إلى {{product_title}} من تطوير {{author}}.",
+            "unique_url_for_your_payment": "تحتوي هذه الصفحة على عنوان إلكتروني فريد لدفعك.",
+            "access_latest_files_from_this_page": "يمكنك دائمًا الوصول إلى أحدث الملفات من هذه الصفحة.",
+            "receipt_support_information": "يجب أن تكون قد تلقيت أيضًا رسالة بريد إلكتروني بها رابط إلى هذه الصفحة. إذا فقدت العنوان الإلكتروني لهذه الصفحة، فيمكنك طلب إرسالها إليك عبر البريد الإلكتروني من <a>صفحة الدعم</a>.",
+            "payment_summary": "لقد دفعت لهذا فى {{payment_date}} بقيمة {{payment_price}}.",
+            "payment_summary_with_email": "لقد دفعت ثمن هذا في {{payment_date}} بقيمة {{payment_price}} مع البريد الألكتروني {{email_address}}.",
+            "percent_off": "خصم {{percent}}%",
+            "linked_user_message": "هذا الشراء مرتبط بالحساب {{username}}."
         }
     },
     "jam": {
         "header": {
             "links": {
                 "community": "المجتمع",
-                "results": "النتائج"
-            }
+                "results": "النتائج",
+                "submissions": "التقديمات",
+                "overview": "نظرة عامة",
+                "screenshots": "لقطات الشاشة",
+                "submission_feed": "تغذية التقديمات",
+                "edit_jam": "عدل الكومة"
+            },
+            "hosted_by": "مُستضاف من قبل {{hosts}}"
         },
         "submitter": {
-            "view_results": "عرض النتائج"
+            "view_results": "عرض النتائج",
+            "join_jam": "أنضم للكومة",
+            "submit_button": "قدم مشروعك",
+            "or_leave_jam": "أو <a>غادر الكومة</a>",
+            "youve_joined": "لقد انضممت للكومة."
         },
         "results": {
             "results": "النتائج"
@@ -942,6 +960,11 @@
             },
             "downloads": "التحميلات",
             "results_header": "النتائج"
+        },
+        "stats": {
+            "joined": "انضموا",
+            "entries": "الإدخالات",
+            "ratings": "التقييمات"
         }
     },
     "collection": {
