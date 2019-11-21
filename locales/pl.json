@@ -407,7 +407,9 @@
             "first_page": "Pierwsza strona",
             "last_page": "Ostatnia strona",
             "this_topic_is_locked": "Ten temat jest zamknięty",
-            "this_topic_was_locked_by_username": "Ten temat został zamknięty przez {{username}}"
+            "this_topic_was_locked_by_username": "Ten temat został zamknięty przez {{username}}",
+            "topic_is_autoarchived": "Ten temat został automatycznie zarchiwizowany(i nie można już w nim pisać), ponieważ nie było w nim żadnych postów od jakiegoś czasu.",
+            "create_related_topic": "Jeśli chcesz napisać coś podobnego, rozważ <a>utworzenie tematu w {{category_name}}</a>."
         },
         "post_form": {
             "add_profile_image": "Dodaj zdjęcie profilowe",
@@ -1342,7 +1344,7 @@
         },
         "download_button": "Pobierz",
         "gift_button": "Prezent",
-        "things_rated_header": "Rzeczy ocenione",
+        "things_rated_header": "Ocenione rzeczy",
         "rate_game": {
             "rating_saved_header": "Zapisano ocenę",
             "follow_creator": "Rozważ śledzenie twórcy {{project_title}}, aby być na bieżąco z najnowszymi wydaniami.",
@@ -1352,7 +1354,8 @@
             "choose_stars": "Wybierz ocenę od 1 do 5 gwiazdek.",
             "rate_header": "Oceń i zrecenzuj {{project_title}}",
             "you_rated_this_project_ago": "Oceniłeś ten projekt {{time_ago}}."
-        }
+        },
+        "redeem_button": "Odbierz"
     },
     "nags": {
         "unverified_email": {
