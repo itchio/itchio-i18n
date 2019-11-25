@@ -949,7 +949,20 @@
             "join_jam": "أنضم للكومة",
             "submit_button": "قدم مشروعك",
             "or_leave_jam": "أو <a>غادر الكومة</a>",
-            "youve_joined": "لقد انضممت للكومة."
+            "youve_joined": "لقد انضممت للكومة.",
+            "joined_instructions": "تعال إلى هذه الصفحة بعد بداية الكومة لتقدم مشروعك.",
+            "leave_jam": "غادر الكومة",
+            "submissions_open_from": "تُفتح التقديمات من {{start_date}} إلى {{end_date}}",
+            "jam_is_now_over": "انتهت هذه الكومة. بدأت من {{start_date}} إلى {{end_date}}.",
+            "view_entries_0": "عرض {{count}} تقديم",
+            "view_entries_1": "عرض {{count}} تقديم",
+            "view_entries_2": "عرض {{count}} تقديم",
+            "view_entries_3": "عرض {{count}} تقديمات",
+            "view_entries_4": "عرض {{count}} تقديمات",
+            "view_entries_5": "عرض {{count}} تقديمات",
+            "countdown": {
+                "starts_in": "يبدأ فى"
+            }
         },
         "results": {
             "results": "النتائج"
