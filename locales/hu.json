@@ -7,7 +7,9 @@
             "contact_us": "Kapcsolat",
             "terms": "Feltételek",
             "cookies": "Sütik",
-            "privacy": "Adatvédelem"
+            "privacy": "Adatvédelem",
+            "faq": "GY.I.K.",
+            "directory": "Könyvtár"
         },
         "header": {
             "browse": "Böngészés",
@@ -29,7 +31,10 @@
             "feed_unseen_count": "{{count}} új",
             "feed_unseen_count_plural": "{{count}} új",
             "community": "Közösség",
-            "feed": "Hírfolyam"
+            "feed": "Hírfolyam",
+            "devlogs": "Fejlesztői blogok",
+            "indie_game_store": "Indie játékáruház",
+            "fun_games": "Szórakoztató játékok"
         },
         "user_menu": {
             "explore": "Felfedezés",
@@ -53,7 +58,7 @@
         "dont_see_anything_you_like": "Nem látsz semmi neked tetszőt?",
         "from_the_blog": "A blogról",
         "random_game": "Véletlenszerű játék",
-        "get_the_app": "<s>Élvezz ki mindent amit az itch.io nyújthat!</s>Telepítsd és kezeld játékaidat asztali alkalmazásunkkal ",
+        "get_the_app": "<s>Élvezz ki mindent, amit az itch.io nyújthat!</s> Telepítsd és kezeld játékaidat asztali alkalmazásunkkal",
         "from_the_itchio_blog": "Az itch.io blogról",
         "view_all_blog_posts": "Összes frissítés megtekintése",
         "search_games_creators": "Játék vagy fejlesztő keresése",
@@ -68,10 +73,10 @@
         "view_more": "Több megtekintése",
         "people_to_follow": "Emberek akiket követhetsz",
         "fresh_games_description": "Folyamatossan frissül a legújabb játékokkal az itch.io-n",
-        "view_all_games_on_sale": "Összes leárazott játék megtekintése",
+        "view_all_games_on_sale": "Összes akciós játék megtekintése",
         "more_featured_games": "Még több kiemelt játék",
-        "game_dev_on_sale": "<1>Leárazott</1> játékfejleszői eszközök",
-        "view_all_on_sale": "Az összes leárazott termék megtekintése",
+        "game_dev_on_sale": "<1>Akciós</1> játékfejlesztői eszközök",
+        "view_all_on_sale": "Az összes akciós termék megtekintése",
         "people_to_follow_description": "Itt találsz néhány profilt ami érdekelhet. <a>Miért kövessem őket?</a>",
         "latest_featured_games": "A legújabb kiemelt játékok",
         "filtering_platform": "Az összes játék szűrése {{platform_name}}ra",
@@ -90,7 +95,8 @@
         "intro": "Az <s>itch.io</s>-n egyszerűen találhatsz és megoszthatsz indie játékokat online, ingyen.",
         "intro_cta": "<1>Add hozzá a játékodat</1> vagy <2>Olvasd el a GY.I.K.-et</2>",
         "html5_games": "HTML5 játékok",
-        "page_title": "Töltsd le a legújabb indie játékokat"
+        "page_title": "Töltsd le a legújabb indie játékokat",
+        "on_sale": "Akciós"
     },
     "misc": {
         "classifications": {
@@ -200,7 +206,7 @@
         },
         "filter_price": {
             "free": "Ingyenes",
-            "on_sale": "Leárazott",
+            "on_sale": "Akciós",
             "paid": "Fizetős"
         },
         "pager": {
@@ -250,5 +256,11 @@
         "errors": {
             "accept_terms": "El kell fogadnod a szolgáltatás feltételeit"
         }
+    },
+    "game": {
+        "on_sale": "Akciós!"
+    },
+    "buy_form": {
+        "on_sale_notice": "Ez a termék akciós."
     }
 }
