@@ -537,7 +537,9 @@
             "last_page": "Siste side",
             "this_topic_is_locked": "Dette emnet er låst",
             "this_topic_was_locked_by_username": "Dette emnet ble låst av {{username}}",
-            "moderation": "Moderering"
+            "moderation": "Moderering",
+            "topic_is_autoarchived": "Dette emnet har blitt arkivert automatisk, og du kan ikke lenger publisere innlegg her. Dette er fordi det ikke har blitt publisert noen nye innlegg her på en stund.",
+            "create_related_topic": "Hvis du har noe lignende å publisere, vurder å <a>opprette et emne i {{category_name}}</a>."
         },
         "post_list": {
             "deleted_post": "Slettet innlegg",
@@ -1323,7 +1325,8 @@
             "choose_stars": "Velg en vurdering fra 1 til 5 stjerner.",
             "rate_header": "Vurder og omtal {{project_title}}",
             "you_rated_this_project_ago": "Du vurderte dette prosjekte {{time_ago}}."
-        }
+        },
+        "redeem_button": "Løs inn"
     },
     "nags": {
         "unverified_email": {
