@@ -561,7 +561,8 @@
             "suspended_account": "Suspended account",
             "pinned_reply": "Pinned Reply",
             "pinned_post": "Pinned Post",
-            "edited": "(edited)"
+            "edited": "(edited)",
+            "post_from_suspended_account": "Post from suspended account"
         },
         "post_form": {
             "add_profile_image": "Add profile image",
