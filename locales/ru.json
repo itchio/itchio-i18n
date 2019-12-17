@@ -567,7 +567,8 @@
             "suspended_account": "Приостановленный аккаунт",
             "pinned_reply": "Закреплённый ответ",
             "pinned_post": "Закреплённый пост",
-            "edited": "(правка)"
+            "edited": "(правка)",
+            "post_from_suspended_account": "Пост от приостановленного аккаунта"
         },
         "post_form": {
             "add_profile_image": "Добавить картинку профиля",
