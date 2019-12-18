@@ -582,7 +582,8 @@
             "edits_count_2": "({{count}} تعديل)",
             "edits_count_3": "({{count}} تعديلات)",
             "edits_count_4": "({{count}} تعديلات)",
-            "edits_count_5": "(عُدل {{count}})"
+            "edits_count_5": "(عُدل {{count}})",
+            "post_from_suspended_account": "منشور من حساب مُعلق"
         },
         "post_form": {
             "save": "حفظ",
