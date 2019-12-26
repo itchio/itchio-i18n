@@ -379,7 +379,8 @@
             "deleted_account": "Usunięte konto",
             "suspended_account": "Zawieszone konto",
             "pinned_reply": "Przypięta odpowiedź",
-            "edited": "(edytowane)"
+            "edited": "(edytowane)",
+            "post_from_suspended_account": "Post z zawieszonego konta"
         },
         "topic": {
             "topic_is_archived": "Ten wątek został zarchiwizowany i nie można w nim pisać",
