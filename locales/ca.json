@@ -561,7 +561,8 @@
             "suspended_account": "Compte suspès",
             "pinned_reply": "Resposta fixada",
             "pinned_post": "Missatge fixat",
-            "edited": "(editat)"
+            "edited": "(editat)",
+            "post_from_suspended_account": "Missatge d'un compte suprimit"
         },
         "post_form": {
             "add_profile_image": "Afegeix una imatge de perfil",
