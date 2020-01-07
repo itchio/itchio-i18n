@@ -106,7 +106,8 @@
         "page_title": "最新のインディーゲームを手に入れよう",
         "meta_description": "itch.ioではオンライン上のインディーゲームを見つけたり、ダウンロードや配信したりすることが簡単に行えます。作品のアップロード先を探している開発者の方も、何か新しいゲームを求めているプレイヤーの方にも、itch.ioがお応えいたします。",
         "to_follow": {
-            "empty_results": "現在おすすめの作品がありません。また改めてご確認ください。"
+            "empty_results": "現在おすすめの作品がありません。また改めてご確認ください。",
+            "created_projects": "{{project_list}}が作成した"
         }
     },
     "misc": {
@@ -212,7 +213,8 @@
         "project_visibility": {
             "restricted": "限定公開",
             "published": "公開済み",
-            "draft": "ドラフト"
+            "draft": "ドラフト",
+            "public": "公開"
         },
         "view_more": "もっと見る",
         "dismiss": "無視",
