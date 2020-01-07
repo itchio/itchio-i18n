@@ -107,7 +107,7 @@
         "meta_description": "itch.ioではオンライン上のインディーゲームを見つけたり、ダウンロードや配信したりすることが簡単に行えます。作品のアップロード先を探している開発者の方も、何か新しいゲームを求めているプレイヤーの方にも、itch.ioがお応えいたします。",
         "to_follow": {
             "empty_results": "現在おすすめの作品がありません。また改めてご確認ください。",
-            "created_projects": "{{project_list}}が作成した"
+            "created_projects": "{{project_list}}が作成されました"
         }
     },
     "misc": {
