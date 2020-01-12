@@ -568,7 +568,8 @@
             "suspended_account": "정지된 계정",
             "pinned_reply": "고정된 답변",
             "pinned_post": "고정된 글",
-            "edited": "(수정됨)"
+            "edited": "(수정됨)",
+            "post_from_suspended_account": "정지된 계정의 글"
         },
         "new_topic": {
             "moderator_tools": "관리자 도구",
