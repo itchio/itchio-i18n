@@ -12,7 +12,7 @@
             "cookies": "Cookies"
         },
         "header": {
-            "upload_game": "Spel Uploaden",
+            "upload_game": "Spel uploaden",
             "search_placeholder": "Zoek naar spellen of ontwikkelaars",
             "search": "Zoeken",
             "log_in": "Inloggen",
@@ -21,8 +21,8 @@
             "free_games": "Gratis spellen",
             "bundles": "Bundels",
             "browse": "Bladeren",
-            "browse_games": "Door Games bladeren",
-            "game_jams": "Game-jams",
+            "browse_games": "Door games bladeren",
+            "game_jams": "Game jams",
             "community": "Community",
             "jams": "Jams",
             "dashboard": "Dashboard",
@@ -35,8 +35,8 @@
             "devlogs": "Devlogs",
             "fun_games": "Leuke spellen",
             "games": "Spellen",
-            "feed_unseen_count": "{{count}} nieuwe",
-            "feed_unseen_count_plural": "{{count}} nieuwe",
+            "feed_unseen_count": "{{count}} nieuw",
+            "feed_unseen_count_plural": "{{count}} nieuw",
             "feed": "Feed",
             "game_assets": "Hulpmiddelen"
         },
@@ -99,7 +99,7 @@
             "community": "Community",
             "all_games": "Alle spellen",
             "bundles": "Bundels",
-            "game_jams": "Game-jams"
+            "game_jams": "Game jams"
         },
         "browse_content_type": "Blader door {{content_type}}",
         "intro": "<s>itch.io</s> is een eenvoudige manier om indiespellen gratis online te vinden en te delen.",
@@ -173,8 +173,8 @@
         "will_be_available_in": "Wordt beschikbaar in {{time_remaining}}.",
         "download_or_claim_button": "Downloaden of claimen",
         "download_now_button": "Nu downloaden",
-        "preorder_button": "Nu Voorbestellen",
-        "buy_now_button": "Nu Kopen",
+        "preorder_button": "Nu voorbestellen",
+        "buy_now_button": "Nu kopen",
         "in_order_to_access": "Om toegang tot deze {{noun}} te krijgen, moet je het eerst kopen voor de minimumprijs van {{price}} of meer.",
         "devlog_view_all_posts": "Bekijk alle posts",
         "community_header": "Community",
@@ -561,7 +561,8 @@
             "suspended_account": "Geschorst account",
             "pinned_reply": "Vastgepinde reactie",
             "pinned_post": "Vastgepind bericht",
-            "edited": "(aangepast)"
+            "edited": "(aangepast)",
+            "post_from_suspended_account": "Bericht van geschorst account"
         },
         "post_form": {
             "add_profile_image": "Profielafbeelding toevoegen",
