@@ -705,7 +705,10 @@
             "first_page": "Birinci sayfa",
             "last_page": "Son sayfa",
             "this_topic_is_locked": "Başlık kilitli",
-            "this_topic_was_locked_by_username": "Bu başlık {{username}} tarafından kilitlendi"
+            "this_topic_was_locked_by_username": "Bu başlık {{username}} tarafından kilitlendi",
+            "this_reply_will_go_to_yourself": "Kendinizi yanıtlayacaksınız.",
+            "this_reply_will_go_to_the_topic_author": "Bu yanıt konu sahibi olan {{username}}'ne gidecektir",
+            "topic_is_autoarchived": "Bu konu otomatik olarak arşivlenmiştir ve artık yeni gönderi oluşturulamayacaktır çünkü bir süredir hiçbir gönderi gönderilmedi."
         },
         "post_list": {
             "deleted_post": "Silinmiş gönderi",
