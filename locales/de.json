@@ -561,7 +561,8 @@
             "suspended_account": "Geperrter Account",
             "pinned_reply": "Angepinnte Antwort",
             "pinned_post": "Angepinnter Post",
-            "edited": "(bearbeitet)"
+            "edited": "(bearbeitet)",
+            "post_from_suspended_account": "Beitrag eines deaktivierten Benutzers"
         },
         "post_form": {
             "add_profile_image": "Profilbild hinzufügen",
