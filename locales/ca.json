@@ -759,8 +759,8 @@
         },
         "profile": {
             "language_community_translation": "<s>itch.io és traduït per membres de la comunitat.</s> Alguns idiomes només estan disponibles parcialment. Si us agradaria veure itch.io en la vostra llengua o corregir-ne errades, podeu contribuir-hi. <a>Més informació</a>",
-            "language": "Idioma",
-            "language_description": "Idioma de la interfície d'usuari d'itch.io",
+            "language": "Llengua",
+            "language_description": "Llengua de la interfície d'usuari d'itch.io",
             "page_header": "Perfil",
             "username": "Nom d'usuari",
             "username_description": "S'utilitza per a iniciar la sessió al vostre compte i per a la URL de la vostra pàgina",
