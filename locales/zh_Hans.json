@@ -165,7 +165,8 @@
             "email_address": "电子邮箱",
             "submit": "提交",
             "optional": "可选",
-            "search": "搜索"
+            "search": "搜索",
+            "form_errors": "请检查您提供的信息"
         },
         "page_number": "第{{page_number}}页",
         "follow_button": {
@@ -227,7 +228,7 @@
             "prototype": "原型"
         },
         "errors": {
-            "server_error": "服务器响应失败，请稍后再试"
+            "server_error": "服务器无法响应，请稍后再试"
         },
         "more_ellip": "更多…",
         "loading_more_ellip": "加载更多...…"
@@ -487,6 +488,14 @@
             "see_everything": "查看全部",
             "powered_by": "由{{itchio_logo}}<s>提供支持</s>",
             "app_learn_more": "<s>新！</s> 试着使用 itch.io 的桌面应用程序来下载和管理您的库。 <a>了解详情</a>"
+        },
+        "report_form": {
+            "support_page_link": "转到官方支持页面",
+            "email_creator_link": "给创作者发送电子邮件",
+            "submit_report_button": "提交报告",
+            "description_label": "描述",
+            "reason_label": "原因",
+            "reason_other": "其他"
         }
     },
     "community": {
@@ -494,7 +503,7 @@
             "topic_is_archived": "此主题已被归档，无法再发布评论",
             "reply": "回复",
             "log_in_to_reply": "登录回复",
-            "unlisted_topic_notice": "<s>管理员已隐藏此主题。</s> 主题列表中不会被显示显示，但您仍可以回复并进行修改。",
+            "unlisted_topic_notice": "<s>管理员已隐藏此主题。</s> 主题列表中不会显示，但您仍可以回复并进行修改。",
             "join_the_discussion": "加入讨论。登录或创建免费的 itch.io 帐户以继续。",
             "reply_to_someone_else": "想回复别人？点击帖子下方的<s>回复</s>。",
             "this_reply_will_go_to_yourself": "这个回复将归您自己。",
