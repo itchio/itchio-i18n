@@ -319,7 +319,7 @@
             "add_to_collection_short": "コレクション",
             "comments": "コメント",
             "community": "コミュニティ",
-            "devlog": "開発ブログ",
+            "devlog": "開発ログ",
             "edit_your_rating": "評価を編集",
             "submission_to_jam": "{{jam_title}}に参加",
             "ownership": {
@@ -859,7 +859,7 @@
             "data_export": "データのエクスポート",
             "api_keys": "APIキー",
             "oauth_applications": "OAuthアプリケーション",
-            "thirdparty_analytics": "サードパーティの分析"
+            "thirdparty_analytics": "サードパーティの解析"
         },
         "password": {
             "reset_password": "パスワードの変更",
@@ -942,15 +942,26 @@
                 "downloadable": "ダウンロード可能な作品"
             },
             "tip_label": "ヒント",
-            "project_type_help": "ダウンロード可能なファイル、または上記に当てはまるものは追加アップロードできます"
+            "project_type_help": "ダウンロード可能なファイル、または上記に当てはまるものは追加アップロードできます",
+            "add_screenshots": "スクリーンショットを追加",
+            "screenshots_header": "スクリーンショット"
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
         "not_a_developer_escape": "違うよ。ゲームフィードを表示して(・ω・)",
         "recently_updated_pages_header": "最後に更新されたページ",
-        "new_devlog": "開発ブログを書く",
+        "new_devlog": "開発ログを書く",
         "hello": "こんにちは！",
-        "dashboard": "ダッシュボード"
+        "dashboard": "ダッシュボード",
+        "project_header": {
+            "edit_project": "プロジェクトを編集",
+            "devlog": "開発ログ",
+            "metadata": "メタデータ",
+            "analytics": "解析",
+            "edit_comments": "コメントを編集",
+            "discussion_board": "掲示板",
+            "admins": "管理者"
+        }
     },
     "browse_tags": {
         "no_description_yet": "説明なし",
@@ -1021,7 +1032,8 @@
         }
     },
     "add_to_collection": {
-        "about_this_project_label": "この作品について"
+        "about_this_project_label": "この作品について",
+        "add_to_existing": "既存のコレクションに追加"
     },
     "game_grid": {
         "in_bundle": "バンドルあり"
