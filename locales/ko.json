@@ -6,14 +6,14 @@
             "faq": "FAQ",
             "blog": "블로그",
             "contact_us": "문의하기",
-            "terms": "이용약관",
+            "terms": "약관",
             "directory": "목록",
             "cookies": "쿠키",
-            "privacy": "개인정보 처리방침"
+            "privacy": "개인정보처리방침"
         },
         "header": {
             "browse": "탐색",
-            "browse_games": "게임 둘러보기",
+            "browse_games": "게임 탐색",
             "game_jams": "게임 잼",
             "upload_game": "게임 업로드",
             "devlogs": "개발일지",
@@ -70,8 +70,8 @@
         "from_the_itchio_blog": "itch.io 블로그",
         "view_all_blog_posts": "업데이트 모두 보기",
         "search_games_creators": "게임 & 제작자 검색",
-        "browse_all_tags": "모든 태그들 탐색하기",
-        "on_sale": "할인중",
+        "browse_all_tags": "모든 태그 탐색하기",
+        "on_sale": "할인 중",
         "free_games": "무료 게임",
         "top_sellers": "최고 인기",
         "with_demo": "데모 포함",
@@ -101,13 +101,13 @@
             "community": "커뮤니티"
         },
         "intro": "<s>itch.io</s>는 온라인을 통해서 무료로 인디 게임들을 쉽게 찾고 공유할 수 있는 방법입니다.",
-        "intro_cta": "<1>게임을 추가</1>하거나 <2>FAQ를 읽으세요</2>",
+        "intro_cta": "<1>게임을 추가</1>하거나 <2>FAQ를 읽어보세요</2>",
         "html5_games": "HTML5 게임",
         "page_title": "최신 인디 게임들을 다운로드하세요",
         "meta_description": "itch.io에서는 인디 게임들을 쉽게 찾고, 다운로드하고, 배포할 수 있습니다. 당신의 게임을 올리려고 하는 개발자이든, 새로운 즐길거리를 찾고 있는 누군가이든, itch.io가 여러분을 위해 있습니다.",
         "to_follow": {
             "refresh_button": "더 보려면 새로고침해주세요...",
-            "dismiss_tooltip": "이제 추천하지 마세요",
+            "dismiss_tooltip": "더 이상 추천하지 않기",
             "created_projects": "{{project_list}} 생성함",
             "empty_results": "지금은 추천해 드릴 게임이 없습니다. 다음에 다시 확인해 주세요"
         }
