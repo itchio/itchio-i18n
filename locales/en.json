@@ -264,7 +264,8 @@
             "collection": "You'll need an account on itch.io before you can add to a collection.",
             "jam_submit": "You'll need an account on itch.io before you can submit to a jam.",
             "claim_object": "Please log in or create an account to claim the {{noun}}.",
-            "recent_purchases": "Log in to link any purchases you've recently made."
+            "recent_purchases": "Log in to link any purchases you've recently made.",
+            "claim_object_title": "Please log in or create an account to claim {{title}}."
         },
         "no_account_prompt": "Don't have an account? <1>Create an account</1>",
         "page_title": "Log in",
