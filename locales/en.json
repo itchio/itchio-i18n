@@ -263,10 +263,10 @@
             "follow_username": "You'll need an account on itch.io before you can follow <1>{{username}}</1>.",
             "collection": "You'll need an account on itch.io before you can add to a collection.",
             "jam_submit": "You'll need an account on itch.io before you can submit to a jam.",
-            "claim_object": "Please log in or create an account to claim the {{noun}}",
+            "claim_object": "Please log in or create an account to claim the {{noun}}.",
             "recent_purchases": "Log in to link any purchases you've recently made."
         },
-        "no_account_prompt": "Dont have an account? <1>Create an account</1>",
+        "no_account_prompt": "Don't have an account? <1>Create an account</1>",
         "page_title": "Log in",
         "you_are_logged_out": "You are logged out",
         "welcome_back": "Welcome back!",
