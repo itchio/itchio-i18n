@@ -561,7 +561,8 @@
             "suspended_account": "Compte suspendu",
             "pinned_reply": "Réponse épinglée",
             "pinned_post": "Post épinglé",
-            "edited": "(édité)"
+            "edited": "(édité)",
+            "post_from_suspended_account": "Post d'un compte suspendu"
         },
         "post_form": {
             "add_profile_image": "Ajouter une image de profil",
