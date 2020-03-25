@@ -317,7 +317,7 @@
         "create_account_or_login": "<1>Créer un compte</1> <em>ou</em> <2>Se connecter</2>",
         "upload_or_dashboard": "<1>Créer un nouveau jeu</1> <em>ou</em> <2>Accéder au tableau de bord</2>",
         "design_your_games_page_description": "Créez une page personnalisée pour votre jeu où les gens pourront acheter ou télécharger votre jeu. Choisissez les couleurs, les polices, les images et les vidéos. Puisque c'est votre page, elle n'affichera que le contenu que vous aurez choisi, rien d'autre.",
-        "track_your_game_description": "Gardez un œil sur la visibilité de votre jeu avec des statistiques détaillées incluant les vues, les téléchargements et les achats. Vous voulez lancer une promotion ? Vous pouvez générer une clé de téléchargement et permettre aux gens de télécharger votre jeu."
+        "track_your_game_description": "Gardez un oeil sur ce que pensent les gens de votre jeu avec des analyses détaillées couvrant vos vues, téléchargements et achats. Vous voulez vous faire de la pub ? Générez des clés donnant accès à votre jeu."
     },
     "search": {
         "creators": "Créateurs :",
