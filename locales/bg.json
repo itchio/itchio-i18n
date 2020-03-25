@@ -390,5 +390,51 @@
         "sort_top_rated": "Най-високи оценени",
         "sort_most_recent": "Скорошни",
         "upload_your_project": "<a>Качете своя проект</a> в itch.io и той ще се покаже тук."
+    },
+    "jam": {
+        "results": {
+            "submissions": {
+                "ranked": "{{ordinal_rank}} място",
+                "ranked_vote_count": "{{ordinal_rank}} място с {{count}} глас",
+                "ranked_vote_count_plural": "{{ordinal_rank}} място с {{count}} гласа",
+                "ranked_rating_count": "{{ordinal_rank}} място с {{count}} оценка",
+                "ranked_rating_count_plural": "{{ordinal_rank}} място с {{count}} оценки",
+                "ranked_criteria": "{{ordinal_rank}} място по {{criteria_name}}",
+                "ranked_criteria_vote_count": "{{ordinal_rank}} място по {{criteria_name}} с {{count}} глас",
+                "ranked_criteria_vote_count_plural": "{{ordinal_rank}} място по {{criteria_name}} с {{count}} гласа",
+                "ranked_criteria_rating_count": "{{ordinal_rank}} място по {{criteria_name}} с {{count}} оценка",
+                "ranked_criteria_rating_count_plural": "{{ordinal_rank}} място по {{criteria_name}} с {{count}} оценки",
+                "ranked_score": "Резултат: {{score}}"
+            }
+        },
+        "submission": {
+            "results_table_criteria": "Критерий",
+            "results_table_rank": "Място",
+            "results_table_votes": "Гласове",
+            "results_table_score": "Резултат",
+            "view_game_page": "Преглед на страницата на играта",
+            "view_project_page": "Преглед на страницата на проекта",
+            "comments": {
+                "leave_a_comment_header": "Добавяне на коментар",
+                "post_comment": "Публикуване на коментар",
+                "empty_message": "Все още никой не е коментирал"
+            },
+            "link_to_itchio_page": "Страницата на „{{game_title}}“ в itch.io",
+            "downloads": "Сваляния",
+            "play_game": "Пускане на играта",
+            "run_project": "Пускане на проекта",
+            "ranked_from_count_plural": "Въз основа на <s>{{count}} оценки</s>.",
+            "ranked_from_count": "Въз основа на <s>{{count}} оценка</s>.",
+            "results_header": "Резултати",
+            "ranked_with_vote_count": "{{ordinal_rank}} място с {{count}} глас",
+            "ranked_with_vote_count_plural": "{{ordinal_rank}} място с {{count}} гласа",
+            "time_remaining_before_deadline": "{{time_duration}} до крайния срок",
+            "rated_by_people_count_plural": "Оценено от {{count}} човека досега",
+            "rated_by_people_count": "Оценено от {{count}} човек досега",
+            "rate_submission": {
+                "vote": "Гласуване",
+                "private_field": "(не се показва)"
+            }
+        }
     }
 }
