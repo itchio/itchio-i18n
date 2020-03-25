@@ -193,7 +193,7 @@
         "steampunk": "Steampunk",
         "strategy": "Stratégie",
         "superhero": "Super héros",
-        "survival": "Survival",
+        "survival": "Survie",
         "survival-horror": "Survival Horror",
         "swords": "Épées",
         "tactical": "Tactique",
@@ -245,6 +245,7 @@
         "multiple-endings": "Fins multiples",
         "touch-friendly": "Tactile intégré",
         "space": "Espace",
-        "trading": "Échange"
+        "trading": "Échange",
+        "fast-paced": "Rapide"
     }
 }
