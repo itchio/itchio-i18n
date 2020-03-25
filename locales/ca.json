@@ -263,8 +263,9 @@
             "follow_username": "Cal que tingueu un compte a itch.io abans de poder seguir <1>{{username}}</1>.",
             "collection": "Cal que tingueu un compte a itch.io abans de poder afegir elements a una col·lecció.",
             "jam_submit": "Cal que tingueu un compte a itch.io abans de poder participar en una jam.",
-            "claim_object": "Inicieu la sessió o creeu un compte per a reclamar el {{noun}}",
-            "recent_purchases": "Inicieu la sessió per enllaçar les compres que hàgiu fet recentment."
+            "claim_object": "Inicieu la sessió o creeu un compte per a reclamar el {{noun}}.",
+            "recent_purchases": "Inicieu la sessió per enllaçar les compres que hàgiu fet recentment.",
+            "claim_object_title": "Inicieu la sessió o creeu un compte per a reclamar {{title}}."
         },
         "no_account_prompt": "No teniu cap compte? <1>Creeu un compte</1>",
         "page_title": "Inicia la sessió",
