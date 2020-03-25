@@ -264,8 +264,9 @@
             "follow_username": "Il vous faut un compte itch.io pour vous abonner à <1>{{username}}</1>.",
             "collection": "Il vous faut un compte itch.io pour ajouter à une collection.",
             "jam_submit": "Il vous faut un compte itch.io pour participer à une jam.",
-            "claim_object": "Connectez-vous ou créez un compte pour réclamer le {{noun}}",
-            "recent_purchases": "Connectez-vous pour ajouter à votre compte vos derniers achats."
+            "claim_object": "Connectez-vous ou créez un compte pour réclamer le {{noun}}.",
+            "recent_purchases": "Connectez-vous pour ajouter à votre compte vos derniers achats.",
+            "claim_object_title": "S'il vous plait, connectez-vous ou créez un compte pour obtenir {{title}}."
         },
         "page_title": "Se connecter",
         "you_are_logged_out": "Vous êtes maintenant déconnecté(e)",
