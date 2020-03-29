@@ -262,7 +262,7 @@
             "follow": "Du trenger en konto på itch.io før du kan følge noen.",
             "follow_username": "Du trenger en konto på itch.io før du kan følge <1>{{username}}</1>.",
             "collection": "Du trenger en konto på itch.io før du kan legge til i en samling.",
-            "claim_object": "Vennligst logg inn eller opprett en konto for å gjøre krav på gjenstanden av typen {{noun}}",
+            "claim_object": "Vennligst logg inn eller opprett en konto for å gjøre krav på gjenstanden av typen {{noun}}.",
             "recent_purchases": "Logg inn for å knytte sammen nylige kjøp.",
             "jam_submit": "Du trenger en konto på itch.io før du kan sende inn til et jam.",
             "claim_object_title": "Vennligst logg inn eller opprett en konto for å gjøre krav på {{title}}."
@@ -562,7 +562,8 @@
             "suspended_account": "Suspendert konto",
             "pinned_reply": "Festet svar",
             "pinned_post": "Festet innlegg",
-            "edited": "(redigert)"
+            "edited": "(redigert)",
+            "post_from_suspended_account": "Innlegg fra suspendert konto"
         },
         "post_form": {
             "add_profile_image": "Legg til profilbilde",
