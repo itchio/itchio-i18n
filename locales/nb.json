@@ -264,7 +264,8 @@
             "collection": "Du trenger en konto på itch.io før du kan legge til i en samling.",
             "claim_object": "Vennligst logg inn eller opprett en konto for å gjøre krav på gjenstanden av typen {{noun}}",
             "recent_purchases": "Logg inn for å knytte sammen nylige kjøp.",
-            "jam_submit": "Du trenger en konto på itch.io før du kan sende inn til et jam."
+            "jam_submit": "Du trenger en konto på itch.io før du kan sende inn til et jam.",
+            "claim_object_title": "Vennligst logg inn eller opprett en konto for å gjøre krav på {{title}}."
         },
         "no_account_prompt": "Har du ikke en konto? <1>Opprett en konto</1>",
         "page_title": "Logg inn",
