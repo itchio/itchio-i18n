@@ -380,7 +380,7 @@
         "percent_off": "<s>-{{percent}}%</s>",
         "price_or_more": "{{price}} <s>или больше</s>",
         "development_log_header": "Дневник разработки",
-        "in_order_to_access": "Чтобы получить доступ к этой {{noun}}, вы должны купить её по минимальной цене {{price}} или выше.",
+        "in_order_to_access": "Чтобы получить доступ к {{noun}}, заплатите {{price}} или выше.",
         "devlog_view_all_posts": "Посмотреть все публикации",
         "your_purchase_comes_with_a_steam_key": "В комплект также включен ключ для активации в Steam.",
         "steam_key_bundle_disclaimer": "(Заметьте: Steam ключ не включен в {{bundle_title}})",
