@@ -265,8 +265,9 @@
             "follow_username": "Musisz posiadać konto na itch.io zanim będziesz mógł śledzić <1>{{username}}</1>.",
             "collection": "Musisz posiadać konto na itch.io zanim będziesz mógł dodać do kolekcji.",
             "jam_submit": "Musisz posiadać konto na itch.io, żeby dodać zgłoszenie do Jamu.",
-            "claim_object": "Proszę się zalogować lub stworzyć konto aby odebrać {{noun}}",
-            "recent_purchases": "Zaloguj się, aby przypisać swoje ostatnie zakupy."
+            "claim_object": "Proszę się zalogować lub stworzyć konto aby odebrać {{noun}}.",
+            "recent_purchases": "Zaloguj się, aby przypisać swoje ostatnie zakupy.",
+            "claim_object_title": "Proszę się zalogować lub stworzyć konto aby odebrać {{title}}."
         },
         "no_account_prompt": "Nie masz konta? <1>Stwórz konto</1>",
         "page_title": "Logowanie",
