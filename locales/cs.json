@@ -290,7 +290,8 @@
             "already_have_account": "nebo již máte účet?",
             "log_in": "Přihlásit se",
             "link_product": "Váš nákup <1>{{product}}</1> bude po registraci automaticky propojen s vaším účtem.",
-            "accept_tos": "Přijímám <1>smluvní podmínky</1>"
+            "accept_tos": "Přijímám <1>smluvní podmínky</1>",
+            "about_you": "O Vás"
         }
     }
 }
