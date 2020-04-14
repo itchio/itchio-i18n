@@ -168,6 +168,13 @@
         "tennis": "テニス",
         "tetris": "テトリス",
         "text-based": "テキストベース",
-        "time-travel": "タイムトラベル"
+        "time-travel": "タイムトラベル",
+        "isometric": "アイソメトリック",
+        "parody": "パロディー",
+        "simulation": "シミュレーション",
+        "violent": "酷い",
+        "walking-simulator": "歩くのシミュレーター",
+        "otome": "おとめ",
+        "neon": "ネオン"
     }
 }
