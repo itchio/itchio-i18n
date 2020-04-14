@@ -110,5 +110,10 @@
             "keyboard": "Tastiera",
             "mouse": "Mouse"
         }
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Il tuo indirizzo email non è stato verificato"
+        }
     }
 }
