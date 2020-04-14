@@ -227,7 +227,8 @@
         },
         "errors": {
             "server_error": "サーバーからの反応がありません。しばらくしたら改めて実行してみてください"
-        }
+        },
+        "loading_more_ellip": "もっとをローディングしている。。"
     },
     "developers": {
         "upload_or_dashboard": "<1>新しいゲームをアップロード</1> <em>または</em> <2>ダッシュボードに移動</2>",
@@ -879,7 +880,11 @@
             },
             "primary_email_description": "主要メールアドレス宛てにitch.ioからの通知が送信されます。",
             "additional_emails_header": "追加メールアドレス",
-            "change_password_instructions": "メールアドレスが変更されましたら、新しいメールの認証が終わるまで購入済みのゲームにアクセスできなくなります。認証方法はメールに送信されます。セキュリティ上の理由により、メールアドレスの変更に現在のパスワードが求められます。"
+            "change_password_instructions": "メールアドレスが変更されましたら、新しいメールの認証が終わるまで購入済みのゲームにアクセスできなくなります。認証方法はメールに送信されます。セキュリティ上の理由により、メールアドレスの変更に現在のパスワードが求められます。",
+            "additional_emails": {
+                "email_sent_status": "メールを頂けました",
+                "email_column": "メール"
+            }
         }
     },
     "dashboard": {
@@ -944,7 +949,14 @@
             "tip_label": "ヒント",
             "project_type_help": "ダウンロード可能なファイル、または上記に当てはまるものは追加アップロードできます",
             "add_screenshots": "スクリーンショットを追加",
-            "screenshots_header": "スクリーンショット"
+            "screenshots_header": "スクリーンショット",
+            "access_control": {
+                "password_label": "パスワード"
+            },
+            "error_dialog": {
+                "confirm_button": "分かりました。"
+            },
+            "classification_field_description": "何をアップしますか？"
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
@@ -989,7 +1001,8 @@
                 "post_comment": "コメントを投稿",
                 "empty_message": "まだ誰もコメントしていません"
             },
-            "link_to_itchio_page": "{{game_title}}のitch.ioページ"
+            "link_to_itchio_page": "{{game_title}}のitch.ioページ",
+            "play_game": "ゲームをする"
         },
         "header": {
             "hosted_by": "主催者：{{hosts}}",
@@ -1028,7 +1041,8 @@
         "results": {
             "submissions": {
                 "view_submission_page": "参加ページを表示"
-            }
+            },
+            "empty_page_message": "これウェブページにリザルトはありません。"
         }
     },
     "add_to_collection": {
@@ -1047,5 +1061,13 @@
         "brose_featured_jams": "注目のゲームジャム",
         "browse_in_progress": "開催中",
         "count_joined": "{{count}}作品が参加"
+    },
+    "library": {
+        "download_button": "ダウンロード",
+        "view_all_link": "全部の何かを見る"
+    },
+    "feed": {
+        "my_feed_tab": "",
+        "filter_everything_tab": "全部"
     }
 }
