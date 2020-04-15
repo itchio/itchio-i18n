@@ -80,9 +80,14 @@
         "view_all_games": "Ver todos os jogos",
         "view_something_random": "Ver algo aleatório",
         "games_by_price": "Jogos por preço",
-        "get_the_app": "<s>Desfruta ao máximo do itch.io</s> Instale e organize os seus jogos com a aplicação para desktop.",
+        "get_the_app": "<s>Desfruta ao máximo do itch.io!</s> Instala e organiza os teus jogos com a nossa aplicação para ambiente de trabalho",
         "random_game": "Jogo aleatório",
-        "from_the_blog": "Do blog"
+        "from_the_blog": "Do blog",
+        "recommendations_based_on": "Baseado em coisas que compraste, descarregaste e avaliaste",
+        "recommended_for_you": "Recomendado para ti",
+        "free_games": "Jogos grátis",
+        "on_sale": "Em Promoção",
+        "browse_all_tags": "Explorar todos os marcadores"
     },
     "misc": {
         "classifications": {
