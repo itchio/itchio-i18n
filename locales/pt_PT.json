@@ -79,7 +79,10 @@
         "dont_see_anything_you_like": "Não vês nada de que gostes?",
         "view_all_games": "Ver todos os jogos",
         "view_something_random": "Ver algo aleatório",
-        "games_by_price": "Jogos por preço"
+        "games_by_price": "Jogos por preço",
+        "get_the_app": "<s>Desfruta ao máximo do itch.io</s> Instale e organize os seus jogos com a aplicação para desktop.",
+        "random_game": "Jogo aleatório",
+        "from_the_blog": "Do blog"
     },
     "misc": {
         "classifications": {
