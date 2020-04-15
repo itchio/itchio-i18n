@@ -3,8 +3,8 @@
     "layout": {
         "footer": {
             "about": "Sobre",
-            "blog": "Blogue",
-            "contact_us": "Contacte-nos",
+            "blog": "Blog",
+            "contact_us": "Contacto",
             "terms": "Termos",
             "directory": "Diretório",
             "privacy": "Privacidade",
@@ -12,47 +12,49 @@
             "faq": "Questões"
         },
         "header": {
-            "browse": "Navegar",
+            "browse": "Explorar",
             "browse_games": "Pesquisar Jogos",
-            "game_jams": "Concursos Jogos",
+            "game_jams": "Game Jams",
             "upload_game": "Submeter Jogo",
-            "devlogs": "Relatorios Criador",
+            "devlogs": "Devlogs",
             "community": "Comunidade",
             "search_placeholder": "Pesquisar jogos ou criadores",
             "search": "Pesquisar",
-            "log_in": "Entrar",
+            "log_in": "Iniciar sessão",
             "register": "Registar",
-            "dashboard": "Painel de Controle",
-            "jams": "Concursos",
-            "notifications_count": "Notificacão",
-            "notifications_count_plural": "Notificacões",
-            "no_notifications": "Sem novas notificações",
-            "free_games": "Jogos gratuitos",
+            "dashboard": "Painel",
+            "jams": "Jams",
+            "notifications_count": "{{count}} notificação",
+            "notifications_count_plural": "{{count}} notificações",
+            "no_notifications": "Sem notificações novas",
+            "free_games": "Jogos grátis",
             "indie_game_store": "Loja de jogos Indie",
-            "game_development": "Desenvolvimento de Jogos",
-            "comics": "Banda-Desenhada",
-            "sales": "Saldos",
+            "game_development": "Desenvolvimento de jogos",
+            "comics": "Banda Desenhada",
+            "sales": "Promoções",
             "bundles": "Pacotes",
-            "game_assets": "Materiais",
+            "game_assets": "Recursos",
             "fun_games": "Jogos divertidos",
             "games": "Jogos",
-            "feed_unseen_count": "Novo",
-            "feed_unseen_count_plural": "Novos",
-            "feed": "Novidades"
+            "feed_unseen_count": "{{count}} novo",
+            "feed_unseen_count_plural": "{{count}} novos",
+            "feed": "Feed"
         },
         "user_menu": {
             "explore": "Explorar",
             "create": "Criar",
             "account": "Conta",
-            "log_out": "Sair",
-            "settings": "Configurações",
-            "view_profile": "Vêr perfil",
-            "host_game_jam": "Hospedar game jam",
-            "sales_bundles": "Saldos e Pacotes",
+            "log_out": "Terminar sessão",
+            "settings": "Definições",
+            "view_profile": "Ver perfil",
+            "host_game_jam": "Organizar game jam",
+            "sales_bundles": "Promoções & Pacotes",
             "new_project": "Submeter novo projeto",
-            "dashboard": "Painel de Controlo",
-            "game_jams": "Concursos Jogo",
-            "recommendations": "Recomendações"
+            "dashboard": "Painel",
+            "game_jams": "Game jams",
+            "recommendations": "Recomendações",
+            "feed": "O meu feed",
+            "library": "A minha biblioteca"
         }
     },
     "index": {
@@ -69,7 +71,10 @@
             "empty_results": "Não temos mais recomendações neste momento. Verifique mais tarde.",
             "refresh_button": "Atualize a página para mais...",
             "dismiss_tooltip": "Não sugerir mais"
-        }
+        },
+        "download_app": "Descarregar app",
+        "browse": "Explorar",
+        "popular_tags": "Marcadores Populares"
     },
     "misc": {
         "classifications": {
