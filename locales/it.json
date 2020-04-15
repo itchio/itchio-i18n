@@ -92,7 +92,8 @@
         "game_dev_on_sale": "Risorse per gli Sviluppatori <1>In Sconto</1>",
         "more_featured_games": "Più Giochi in Evidenza",
         "people_to_follow_description": "Ecco alcuni account che potresti essere interessato a seguire. <a>Perché seguirli?</a>",
-        "latest_featured_games": "Ultimi Giochi in Evidenza"
+        "latest_featured_games": "Ultimi Giochi in Evidenza",
+        "filtering_platform": "Filtra tutti i giochi per {{platform_name}}"
     },
     "misc": {
         "classifications": {
