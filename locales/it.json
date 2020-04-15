@@ -53,7 +53,8 @@
             "library": "La mia libreria",
             "feed": "Il mio feed",
             "account_menu_tooltip": "Menù account",
-            "recommendations": "Raccomandazioni"
+            "recommendations": "Raccomandazioni",
+            "game_jams": "Game jams"
         }
     },
     "index": {
