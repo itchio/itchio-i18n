@@ -33,7 +33,7 @@
             "sales": "Sconti",
             "bundles": "Bundles",
             "game_assets": "Risorse",
-            "fun_games": "Giochi simpatici",
+            "fun_games": "Giochi divertenti",
             "games": "Giochi",
             "feed_unseen_count": "{{count}} nuovo",
             "feed_unseen_count_plural": "{{count}} nuovi",
@@ -52,7 +52,8 @@
             "dashboard": "Dashboard",
             "library": "La mia libreria",
             "feed": "Il mio feed",
-            "account_menu_tooltip": "Menù account"
+            "account_menu_tooltip": "Menù account",
+            "recommendations": "Raccomandazioni"
         }
     },
     "index": {
@@ -73,14 +74,15 @@
         "free_games": "Giochi gratis",
         "top_sellers": "I più venduti",
         "with_demo": "Demo disponibile",
-        "view_all": "Vedi tutti",
+        "view_all": "Vedi tutto",
         "recommended_for_you": "Consigliati per te",
-        "recommendations_based_on": "In base ai giochi che hai comprato, scaricato e valutato",
+        "recommendations_based_on": "In base a cose che hai comprato, scaricato e valutato",
         "fresh_games": "Ultime uscite",
         "intro": "<s>itch.io</s> è un modo semplice per trovare e condividere online giochi indie, in maniera gratuita.",
         "intro_cta": "<1>Carica il tuo gioco</1> o <2>leggi le FAQ</2>",
         "html5_games": "Giochi HTML5",
-        "page_title": "Scarica giochi indie appena usciti"
+        "page_title": "Scarica giochi indie appena usciti",
+        "featured_jams": "Jam in evidenza"
     },
     "misc": {
         "classifications": {
@@ -117,6 +119,45 @@
         }
     },
     "stripe_checkout": {
-        "payment_error_help": "Se non sei sicuro, per favore contatta il <a>supporto di itch.io</a> con il messaggio sovrastante."
+        "payment_error_help": "Se non sei sicuro, per favore contatta il <a>supporto di itch.io</a> con il messaggio sovrastante.",
+        "name_as_it_appears_on_card": "Come appare sulla carta",
+        "full_name": "Nome Completo",
+        "email": "Email",
+        "linked_to_account": "Collegato all'account",
+        "steam_key": "Chiave di Steam",
+        "you_will_receive_files": "Riceverai:",
+        "pay_price_button": "Paga {{price}}",
+        "manage_cards_link": "Puoi gestire le tue carte dalle tue <a>Impostazioni Account</a>",
+        "save_credit_card_for_future_purchases": "Salva carta di credito per acquisti futuri",
+        "credit_or_debit_card": "Carta di credito o di debito",
+        "gift_instructions": "Questo acquisto è un regalo. Potrai fornire l'email del destinatario dopo il checkout.",
+        "password": "Password",
+        "enter_your_password_to_use_your_card": "Inserisci la tua password per usare la tua carta",
+        "new_card": "Nuova carta",
+        "edit_saved_cards": "Modifica carte salvate",
+        "choose_a_card": "Seleziona una carta",
+        "payment_error": "C'è stato un errore nel processare il tuo pagamento:"
+    },
+    "game_download": {
+        "install_instructions_intro": "Download e istruzioni di installazione da {{username}}:",
+        "or_share_on": "o condividi su",
+        "social_share_message_download": "Ho appena scaricato {{title}} di {{username}}",
+        "share_and_follow": "Condividi & segui"
+    },
+    "user_settings": {
+        "email_addresses": {
+            "additional_emails": {
+                "detach_email": "Rimuovi email",
+                "email_sent_status": "email inviata",
+                "resend_verification_email_button": "reinvia email di verifica",
+                "verified_column": "Verificata",
+                "email_column": "Email",
+                "emails_added_header": "Email aggiunte"
+            },
+            "add_email_form": {
+                "add_email_button": "Aggiungi Email",
+                "additional_email_address_label": "Indirizzo Email Aggiuntivo"
+            }
+        }
     }
 }
