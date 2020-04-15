@@ -61,18 +61,18 @@
     "index": {
         "nav": {
             "community": "Comunidade",
-            "all_games": "Todos Os Jogos"
+            "all_games": "Todos os Jogos"
         },
-        "intro": "<s>itch.io</s> é uma maneira simples de encontrar e partilhar jogos indie online gratuitamente.",
-        "intro_cta": "<1>Adicione o seu jogo</1> ou <2>Leia o FAQ</2>",
-        "html5_games": "Jogos de HTML5\n",
-        "page_title": "Descarregue os jogos indie mais recentes",
-        "meta_description": "itch.io é uma maneira simples de encontrar, descarregar e distribuir jogos indie online. Quer seja um desenvolvedor à procura de submeter o seu jogo ou apenas alguém à procura de algo novo para jogar, o itch.io têm-no coberto.",
+        "intro": "<s>itch.io</s> é uma maneira simples de encontrar e partilhar jogos indie online de forma gratuita.",
+        "intro_cta": "<1>Adiciona o teu jogo</1> ou <2>Lê o FAQ</2>",
+        "html5_games": "Jogos HTML5",
+        "page_title": "Descarrega os jogos indie mais recentes",
+        "meta_description": "itch.io é uma maneira simples de encontrar, descarregar e distribuir jogos indie online. Quer sejas um desenvolvedor à procura de submeter o seu jogo ou apenas alguém à procura de algo novo para jogar, o itch.io está do teu lado.",
         "to_follow": {
             "created_projects": "Criou {{project_list}}",
-            "empty_results": "Não temos mais recomendações neste momento. Verifique mais tarde.",
-            "refresh_button": "Atualize a página para mais...",
-            "dismiss_tooltip": "Não sugerir mais"
+            "empty_results": "Não temos mais recomendações neste momento. Verifica novamente mais tarde",
+            "refresh_button": "Atualiza para mais conteúdos...",
+            "dismiss_tooltip": "Não voltar a sugerir"
         },
         "download_app": "Descarregar app",
         "browse": "Explorar",
@@ -114,47 +114,47 @@
     "misc": {
         "classifications": {
             "game": "Jogos",
-            "assets": "Assets para jogos",
-            "game_mod": "Modificações para jogos",
+            "assets": "Recursos para jogos",
+            "game_mod": "Mods para jogos",
             "physical_game": "Jogos físicos",
-            "soundtrack": "Bandas-Sonoras",
-            "other": "Variados",
+            "soundtrack": "Bandas sonoras",
+            "other": "Diversos",
             "tool": "Ferramentas",
-            "comic": "Banda-Desenhada",
+            "comic": "Banda desenhada",
             "book": "Livros"
         },
         "accessibility_features": {
-            "colorblind": "Amigáveis para daltonismo",
+            "colorblind": "Adaptado para daltonismo",
             "subtitles": "Legendas",
             "configurable_controls": "Controlos configuráveis",
             "highcontrast": "Alto-contraste",
             "tutorial": "Tutorial interativo",
             "one_button": "Um botão",
-            "blind": "Amigável para cegos",
+            "blind": "Adaptado para cegueira",
             "textless": "Sem texto"
         },
         "multiplayer_features": {
-            "local": "Multi-jogador local",
-            "server": "Multi-jogador em rede com Servidor",
-            "adhoc": "Multi-jogador em rede Ad-hoc"
+            "local": "Multijogador local",
+            "server": "Multijogador em rede baseado em servidor",
+            "adhoc": "Multijogador em rede ad-hoc"
         },
         "inputs": {
             "keyboard": "Teclado",
             "mouse": "Rato",
-            "gamepad": "Controlador (qualquer)",
+            "gamepad": "Comando (qualquer)",
             "joystick": "Joystick",
             "touchscreen": "Ecrã tátil",
             "voice": "Controlo por voz",
             "accelerometer": "Acelerómetro",
             "phone": "Smartphone",
-            "dance_pad": "Painel de dança",
+            "dance_pad": "Tapete de dança",
             "midi_controller": "Controlador MIDI"
         },
         "durations": {
             "seconds": "Alguns segundos",
-            "minutes": "Alguns segundos",
-            "half_hour": "À volta de meia-hora",
-            "hour": "Á volta de uma hora",
+            "minutes": "Alguns minutos",
+            "half_hour": "Cerca de meia-hora",
+            "hour": "Cerca de uma hora",
             "hours": "Algumas horas",
             "days": "Dias ou mais"
         },
@@ -164,7 +164,9 @@
             "email_address": "Endereço de Email",
             "submit": "Submeter",
             "optional": "Opcional",
-            "search": "Pesquisar"
-        }
+            "search": "Pesquisar",
+            "form_errors": "Por favor, verifica as informações que introduziste"
+        },
+        "page_number": "Página {{page_number}}"
     }
 }
