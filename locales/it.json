@@ -115,5 +115,8 @@
         "unverified_email": {
             "title": "Il tuo indirizzo email non è stato verificato"
         }
+    },
+    "stripe_checkout": {
+        "payment_error_help": "Se non sei sicuro, per favore contatta il <a>supporto di itch.io</a> con il messaggio sovrastante."
     }
 }
