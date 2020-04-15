@@ -87,7 +87,10 @@
         "view_all_jams": "Vedi tutte le jam",
         "people_to_follow": "Persone Da Seguire",
         "fresh_games_description": "In costante aggiornamento con i giochi più recenti su itch.io",
-        "view_all_games_on_sale": "Guarda tutti i giochi in sconto"
+        "view_all_games_on_sale": "Vedi tutti i giochi in sconto",
+        "view_all_on_sale": "Guarda tutte in sconto",
+        "game_dev_on_sale": "Risorse per gli Sviluppatori <1>In Sconto</1>",
+        "more_featured_games": "Più Giochi in Evidenza"
     },
     "misc": {
         "classifications": {
