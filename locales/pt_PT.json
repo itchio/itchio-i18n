@@ -182,7 +182,7 @@
         "pager": {
             "next": "Seguinte",
             "prev": "Anterior",
-            "next_page": "Próxima página"
+            "next_page": "Página seguinte"
         },
         "filter_price": {
             "on_sale": "Em Promoção",
@@ -196,6 +196,72 @@
             "last_30_days": "Últimos 30 dias",
             "last_7_days": "Últimos 7 dias",
             "last_day": "Último dia"
+        },
+        "loading_more_ellip": "A carregar mais…",
+        "errors": {
+            "server_error": "O servidor não está a responder, por favor, tenta novamente mais tarde"
+        },
+        "collection_button": {
+            "add_to_collection": "Adicionar à coleção"
         }
+    },
+    "user_register": {
+        "page_title": "Registar conta",
+        "register_form": {
+            "other_registration_methods": "Outros métodos de registo",
+            "username": "Nome de utilizador",
+            "url_preview": "A tua página de perfil será",
+            "repeat_password": "Repete a palavra-passe",
+            "password": "Palavra-passe",
+            "your_email_address": "O teu endereço de email",
+            "about_you": "Sobre ti",
+            "account_preferences_info": "Podes alterar as tuas respostas a estas perguntas mais tarde, elas são usadas para sugerir ao itch.io como se deve apresentar para ti.",
+            "interest_developer": "Estou interessado(a) em distribuir conteúdo no itch.io",
+            "interest_gamer": "Estou interessado(a) em jogar ou descarregar jogos no itch.io",
+            "digest_signup": "Inscreve-me para o boletim informativo quinzenal do itch.io",
+            "accept_tos": "Eu aceito os <1>Termos de Serviço</1>",
+            "link_product": "A compra de <1>{{product}}</1> ficará vinculada à tua conta automaticamente assim que te registares.",
+            "log_in": "Iniciar sessão",
+            "already_have_account": "ou já tens uma conta?",
+            "create_account": "Criar conta"
+        },
+        "create_an_account_on_itchio": "Cria uma conta no itch.io"
+    },
+    "user_login": {
+        "errors": {
+            "accept_terms": "Tens de aceitar os Termos de Serviço"
+        },
+        "welcome_to_itchio": "Bem-vindo(a) ao itch.io!",
+        "welcome_back": "Bem-vindo(a) de volta!",
+        "you_are_logged_out": "Terminaste a sessão",
+        "page_title": "Iniciar sessão",
+        "no_account_prompt": "Não tens uma conta? <1>Cria uma conta</1>",
+        "intent": {
+            "claim_object_title": "Por favor, inicia sessão ou cria uma conta para reivindicar {{title}}.",
+            "recent_purchases": "Inicia sessão para vincular quaisquer compras que efetuaste recentemente.",
+            "claim_object": "Por favor, inicia sessão ou cria uma conta para reivindicar {{noun}}.",
+            "jam_submit": "Precisas de uma conta no itch.io antes que possas submeter a uma jam.",
+            "collection": "Precisas de uma conta no itch.io antes que possas adicionar a uma coleção.",
+            "follow_username": "Precisas de uma conta no itch.io antes que possas seguir <1>{{username}}</1>.",
+            "follow": "Precisas de uma conta no itch.io antes que possas seguir alguém.",
+            "rate_game": "Precisas de uma conta no itch.io antes que possas avaliar um jogo.",
+            "comment": "Precisas de uma conta no itch.io antes que possas deixar um comentário.",
+            "community": "Precisas de iniciar sessão para participar nas comunidades do itch.io. Criar uma conta é grátis e leva apenas alguns momentos."
+        },
+        "create_a_new_account": "Criar nova conta",
+        "looking_for_something_you_bought": "Procuras algo que compraste?",
+        "login_form": {
+            "log_in_button": "Iniciar sessão",
+            "or_log_in_with_another_site": "Ou inicia sessão com outro site",
+            "forgot_password": "Esqueci-me da palavra-passe",
+            "password": "Palavra-passe"
+        },
+        "log_in_to_your_itchio_account": "Inicia sessão na tua conta itch.io"
+    },
+    "blog": {
+        "tag_filter": "A filtrar por {{tag}}. <a>Limpar marcador</a>",
+        "empty_message": "Parece que não há publicações aqui",
+        "digest": "Boletim",
+        "updates": "Atualizações"
     }
 }
