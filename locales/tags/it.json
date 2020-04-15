@@ -1,1 +1,11 @@
-{}
+{
+    "tags": {
+        "action-rpg": "RPG d'azione",
+        "action": "Azione",
+        "abstract": "Astratto",
+        "8-bit": "8-Bit",
+        "3d-platformer": "Platformer 3D",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
