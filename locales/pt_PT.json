@@ -94,7 +94,14 @@
         "search_games_creators": "Pesquisar jogos e criadores",
         "view_all_blog_posts": "Ver todas as atualizações",
         "from_the_itchio_blog": "Do blog itch.io",
-        "fresh_games": "Jogos novos"
+        "fresh_games": "Jogos Novos",
+        "view_all_on_sale": "Ver tudo em promoção",
+        "game_dev_on_sale": "Recursos para Desenvolvimento de Jogos <1>Em Promoção</1>",
+        "more_featured_games": "Mais Jogos em Destaque",
+        "view_all_games_on_sale": "Ver todos os jogos em promoção",
+        "people_to_follow": "Pessoas a Seguir",
+        "fresh_games_description": "A atualizar constantemente com os jogos mais recentes no itch.io",
+        "featured_jams": "Jams em destaque"
     },
     "misc": {
         "classifications": {
