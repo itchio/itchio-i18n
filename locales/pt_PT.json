@@ -61,7 +61,10 @@
     "index": {
         "nav": {
             "community": "Comunidade",
-            "all_games": "Todos os Jogos"
+            "all_games": "Todos os Jogos",
+            "devlogs": "Devlogs",
+            "game_jams": "Game jams",
+            "bundles": "Pacotes"
         },
         "intro": "<s>itch.io</s> é uma maneira simples de encontrar e partilhar jogos indie online de forma gratuita.",
         "intro_cta": "<1>Adiciona o teu jogo</1> ou <2>Lê o FAQ</2>",
@@ -167,6 +170,11 @@
             "search": "Pesquisar",
             "form_errors": "Por favor, verifica as informações que introduziste"
         },
-        "page_number": "Página {{page_number}}"
+        "page_number": "Página {{page_number}}",
+        "follow_button": {
+            "following_username": "A seguir{{username}}",
+            "follow": "Seguir",
+            "follow_username": "Seguir {{username}}"
+        }
     }
 }
