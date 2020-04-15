@@ -24,7 +24,26 @@
         "bullet-hell": "Bullet Hell",
         "breakout": "Breakout",
         "boring": "Noioso",
-        "character-customization": "Personalizzazione del personaggio",
-        "casual": "Casual"
+        "character-customization": "Personalizzazione del Personaggio",
+        "casual": "Casual",
+        "fantasy": "Fantasy",
+        "fairy-tale": "Fiaba",
+        "explosions": "Esplosioni",
+        "exploration": "Esplorazione",
+        "experimental": "Sperimentale",
+        "erotic": "Erotico",
+        "episodic": "Episodico",
+        "educational": "Educativo",
+        "economy": "Economia",
+        "dystopian": "Distopico",
+        "dungeon-crawler": "Dungeon Crawler",
+        "dreams": "Sogni",
+        "dragons": "Draghi",
+        "dogs": "Cani",
+        "dinosaurs": "Dinosauri",
+        "difficult": "Difficile",
+        "detective": "Detective",
+        "destruction": "Distruzione",
+        "demake": "Demake"
     }
 }
