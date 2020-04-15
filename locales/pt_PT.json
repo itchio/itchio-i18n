@@ -87,7 +87,13 @@
         "recommended_for_you": "Recomendado para ti",
         "free_games": "Jogos grátis",
         "on_sale": "Em Promoção",
-        "browse_all_tags": "Explorar todos os marcadores"
+        "browse_all_tags": "Explorar todos os marcadores",
+        "view_all": "Ver todos",
+        "with_demo": "Com demo",
+        "top_sellers": "Mais vendidos",
+        "search_games_creators": "Pesquisar jogos e criadores",
+        "view_all_blog_posts": "Ver todas as atualizações",
+        "from_the_itchio_blog": "Do blog itch.io"
     },
     "misc": {
         "classifications": {
