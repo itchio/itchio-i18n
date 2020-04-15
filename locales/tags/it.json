@@ -13,6 +13,11 @@
         "art-book": "Libro d'Arte",
         "arcade": "Arcade",
         "anime": "Anime",
-        "animals": "Animali"
+        "animals": "Animali",
+        "black-and-white": "Nero e Bianco",
+        "beat-em-up": "Beat 'em up",
+        "automation": "Automazione",
+        "atmospheric": "Atmosferico",
+        "asteroids": "Asteroidi"
     }
 }
