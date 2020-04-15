@@ -9,7 +9,7 @@
             "directory": "Diretório",
             "privacy": "Privacidade",
             "cookies": "Cookies",
-            "faq": "Questões"
+            "faq": "FAQ"
         },
         "header": {
             "browse": "Explorar",
@@ -54,7 +54,8 @@
             "game_jams": "Game jams",
             "recommendations": "Recomendações",
             "feed": "O meu feed",
-            "library": "A minha biblioteca"
+            "library": "A minha biblioteca",
+            "account_menu_tooltip": "Menu da Conta"
         }
     },
     "index": {
@@ -74,7 +75,11 @@
         },
         "download_app": "Descarregar app",
         "browse": "Explorar",
-        "popular_tags": "Marcadores Populares"
+        "popular_tags": "Marcadores Populares",
+        "dont_see_anything_you_like": "Não vê nada de que goste?",
+        "view_all_games": "Ver todos os jogos",
+        "view_something_random": "Ver algo aleatório",
+        "games_by_price": "Jogos por preço"
     },
     "misc": {
         "classifications": {
