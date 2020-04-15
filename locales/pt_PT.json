@@ -174,14 +174,28 @@
         "follow_button": {
             "following_username": "A seguir {{username}}",
             "follow": "Seguir",
-            "follow_username": "Seguir {{username}}"
+            "follow_username": "Seguir {{username}}",
+            "unfollow": "Deixar de seguir",
+            "unfollow_username": "Deixar de seguir {{username}}",
+            "following": "A seguir"
         },
         "pager": {
-            "next": "Seguinte"
+            "next": "Seguinte",
+            "prev": "Anterior",
+            "next_page": "Próxima página"
         },
         "filter_price": {
             "on_sale": "Em Promoção",
-            "free": "Grátis"
+            "free": "Grátis",
+            "paid": "Pago"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_when": {
+            "last_30_days": "Últimos 30 dias",
+            "last_7_days": "Últimos 7 dias",
+            "last_day": "Último dia"
         }
     }
 }
