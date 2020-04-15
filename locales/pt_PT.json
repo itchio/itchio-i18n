@@ -102,9 +102,12 @@
         "people_to_follow": "Pessoas a Seguir",
         "fresh_games_description": "A atualizar constantemente com os jogos mais recentes no itch.io",
         "featured_jams": "Jams em destaque",
-        "people_to_follow_description": "Aqui estão algumas contas que lhe podem interessar. <a>Porque seguir?</a>",
+        "people_to_follow_description": "Aqui estão algumas contas que te podem interessar. <a>Porquê seguir?</a>",
         "view_all_jams": "Ver todas as jams",
-        "view_more": "Ver mais"
+        "view_more": "Ver mais",
+        "browse_content_type": "Explorar {{content_type}}",
+        "filtering_platform": "A filtrar todos os jogos para {{platform_name}}",
+        "latest_featured_games": "Jogos em Destaque Mais Recentes"
     },
     "misc": {
         "classifications": {
