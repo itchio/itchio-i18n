@@ -182,7 +182,10 @@
         "pager": {
             "next": "Seguinte",
             "prev": "Anterior",
-            "next_page": "Página seguinte"
+            "next_page": "Página seguinte",
+            "first_page": "Primeira página",
+            "previous_page": "Página anterior",
+            "current_page_of_total": "Página {{current_page}} de {{total_pages}}"
         },
         "filter_price": {
             "on_sale": "Em Promoção",
@@ -203,6 +206,33 @@
         },
         "collection_button": {
             "add_to_collection": "Adicionar à coleção"
+        },
+        "more_ellip": "Mais...",
+        "release_statuses": {
+            "prototype": "Protótipo",
+            "canceled": "Cancelado",
+            "on_hold": "Em espera",
+            "in_development": "Em desenvolvimento",
+            "released": "Lançado"
+        },
+        "dismiss": "Ignorar",
+        "view_more": "Ver mais",
+        "project_visibility": {
+            "public": "Público",
+            "draft": "Rascunho",
+            "published": "Publicado",
+            "restricted": "Restrito"
+        },
+        "countdown": {
+            "seconds": "segundos",
+            "minutes": "minutos",
+            "hours": "horas",
+            "days": "dias",
+            "months": "meses",
+            "years": "anos"
+        },
+        "lightboxes": {
+            "close": "Fechar"
         }
     },
     "user_register": {
@@ -254,7 +284,10 @@
             "log_in_button": "Iniciar sessão",
             "or_log_in_with_another_site": "Ou inicia sessão com outro site",
             "forgot_password": "Esqueci-me da palavra-passe",
-            "password": "Palavra-passe"
+            "password": "Palavra-passe",
+            "or": "ou",
+            "create_account": "Criar conta",
+            "username_or_email": "Nome de utilizador ou email"
         },
         "log_in_to_your_itchio_account": "Inicia sessão na tua conta itch.io"
     },
@@ -262,6 +295,7 @@
         "tag_filter": "A filtrar por {{tag}}. <a>Limpar marcador</a>",
         "empty_message": "Parece que não há publicações aqui",
         "digest": "Boletim",
-        "updates": "Atualizações"
+        "updates": "Atualizações",
+        "all_posts": "Todas as publicações"
     }
 }
