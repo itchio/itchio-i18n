@@ -172,9 +172,16 @@
         },
         "page_number": "Página {{page_number}}",
         "follow_button": {
-            "following_username": "A seguir{{username}}",
+            "following_username": "A seguir {{username}}",
             "follow": "Seguir",
             "follow_username": "Seguir {{username}}"
+        },
+        "pager": {
+            "next": "Seguinte"
+        },
+        "filter_price": {
+            "on_sale": "Em Promoção",
+            "free": "Grátis"
         }
     }
 }
