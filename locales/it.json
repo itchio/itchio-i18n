@@ -83,7 +83,8 @@
         "intro_cta": "<1>Carica il tuo gioco</1> o <2>leggi le FAQ</2>",
         "html5_games": "Giochi HTML5",
         "page_title": "Scarica giochi indie appena usciti",
-        "featured_jams": "Jam in evidenza"
+        "featured_jams": "Jam in evidenza",
+        "view_all_jams": "Vedi tutte le jam"
     },
     "misc": {
         "classifications": {
