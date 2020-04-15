@@ -101,7 +101,10 @@
         "view_all_games_on_sale": "Ver todos os jogos em promoção",
         "people_to_follow": "Pessoas a Seguir",
         "fresh_games_description": "A atualizar constantemente com os jogos mais recentes no itch.io",
-        "featured_jams": "Jams em destaque"
+        "featured_jams": "Jams em destaque",
+        "people_to_follow_description": "Aqui estão algumas contas que lhe podem interessar. <a>Porque seguir?</a>",
+        "view_all_jams": "Ver todas as jams",
+        "view_more": "Ver mais"
     },
     "misc": {
         "classifications": {
