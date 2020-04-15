@@ -23,6 +23,8 @@
         "card-game": "Gioco di Carte",
         "bullet-hell": "Bullet Hell",
         "breakout": "Breakout",
-        "boring": "Noioso"
+        "boring": "Noioso",
+        "character-customization": "Personalizzazione del personaggio",
+        "casual": "Casual"
     }
 }
