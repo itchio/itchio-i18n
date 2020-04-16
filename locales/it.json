@@ -157,7 +157,18 @@
         "alternate_download": {
             "title": "Modalità di Download Alternativa",
             "enable_alternate_download_mode": "Abilita modalità di download alternativa"
-        }
+        },
+        "header": {
+            "more_menu": "Di più",
+            "invoice": "Fattura"
+        },
+        "version_name": "Versione {{version_name}}",
+        "play_in_your_browser": "Gioca nel tuo browser",
+        "app_banner": {
+            "app_description": "Installa e gestisci i tuoi giochi con l'app di itch.io"
+        },
+        "preorder_instructions": "Il progetto ha file che non sono ancora stati rilasciati. Torna su questa pagina quando il creatore li avrà rilasciati per poterli scaricare.",
+        "check_your_email_for_the_confirmation_link": "Controlla la tua email per il link di conferma."
     },
     "user_settings": {
         "email_addresses": {
