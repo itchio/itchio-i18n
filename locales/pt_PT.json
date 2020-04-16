@@ -297,5 +297,19 @@
         "digest": "Boletim",
         "updates": "Atualizações",
         "all_posts": "Todas as publicações"
+    },
+    "developers": {
+        "learn_more": "Sabe Mais",
+        "host_a_sale_description": "Promove os teus jogos e consegue mais vendas oferecendo-os a um preço com desconto durante qualquer período de tempo.",
+        "host_a_sale": "Organiza uma Promoção",
+        "track_your_game": "Acompanha o Teu Jogo",
+        "design_your_games_page": "Personaliza a Página do Teu Jogo",
+        "upload_your_indie_game": "Submete o Teu Jogo Indie",
+        "account_faq_cta": "<1>Cria agora uma conta</1> ou <2>Lê o FAQ</2>",
+        "upload_a_new_game": "Submeter um novo jogo",
+        "my_dashboard": "O meu painel",
+        "product_summary2": "Podes até definir um preço mínimo para o teu jogo, dando aos fãs a oportunidade de pagar o que entenderem pelo teu jogo.",
+        "product_summary1": "<s>itch.io</s> é uma maneira simples de distribuir os teus jogos indie na internet de forma gratuita. Submete os ficheiros e capturas de ecrã do jogo num só lugar. Cria uma página de apresentação personalizada onde o teu jogo é o foco.",
+        "page_header": "Cria uma página personalizada para distribuir ou vender num instante os teus jogos indie"
     }
 }
