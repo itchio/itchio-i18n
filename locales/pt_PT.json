@@ -310,6 +310,12 @@
         "my_dashboard": "O meu painel",
         "product_summary2": "Podes até definir um preço mínimo para o teu jogo, dando aos fãs a oportunidade de pagar o que entenderem pelo teu jogo.",
         "product_summary1": "<s>itch.io</s> é uma maneira simples de distribuir os teus jogos indie na internet de forma gratuita. Submete os ficheiros e capturas de ecrã do jogo num só lugar. Cria uma página de apresentação personalizada onde o teu jogo é o foco.",
-        "page_header": "Cria uma página personalizada para distribuir ou vender num instante os teus jogos indie"
+        "page_header": "Cria uma página personalizada para distribuir ou vender num instante os teus jogos indie",
+        "upload_or_dashboard": "<1>Submete um novo jogo</1> <em>ou</em> <2>Acede ao painel</2>",
+        "create_account_or_login": "<1>Cria uma conta</1> <em>ou</em> <2>Inicia sessão</2>",
+        "share_message": "itch.io é uma maneira simples de distribuir os teus jogos indie na internet de forma gratuita.",
+        "learn_more_about": "Descobre mais sobre:",
+        "upload_your_game_description": "Submete o teu jogo indie no <s>itch.io</s> gratuitamente. Nós hospedamos o teu jogo, juntamente com as respetivas imagens e outros downloads. Os teus downloads estão sempre disponíveis e sempre rápidos.",
+        "browser_game_description": "Ganha dinheiro com o teu jogo de navegador ao submetê-lo no <s>itch.io</s>. O teu jogo é incorporado no navegador e os jogadores podem doar qualquer montante que entenderem se gostarem do teu jogo."
     }
 }
