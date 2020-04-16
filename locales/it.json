@@ -153,7 +153,11 @@
         "install_instructions_intro": "Download e istruzioni di installazione da {{username}}:",
         "or_share_on": "o condividi su",
         "social_share_message_download": "Ho appena scaricato {{title}} di {{username}}",
-        "share_and_follow": "Condividi & segui"
+        "share_and_follow": "Condividi & segui",
+        "alternate_download": {
+            "title": "Modalità di Download Alternativa",
+            "enable_alternate_download_mode": "Abilita modalità di download alternativa"
+        }
     },
     "user_settings": {
         "email_addresses": {
