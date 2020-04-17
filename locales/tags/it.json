@@ -207,6 +207,9 @@
         "minimalist": "Minimalista",
         "metroidvania": "Metroidvania",
         "medieval": "Medievale",
-        "math": "Matematica"
+        "math": "Matematica",
+        "turn-based-strategy": "Strategia a Turni",
+        "turn-based-combat": "Combattimento a Turni",
+        "turn-based": "A turni"
     }
 }
