@@ -316,6 +316,32 @@
         "share_message": "itch.io é uma maneira simples de distribuir os teus jogos indie na internet de forma gratuita.",
         "learn_more_about": "Descobre mais sobre:",
         "upload_your_game_description": "Submete o teu jogo indie no <s>itch.io</s> gratuitamente. Nós hospedamos o teu jogo, juntamente com as respetivas imagens e outros downloads. Os teus downloads estão sempre disponíveis e sempre rápidos.",
-        "browser_game_description": "Ganha dinheiro com o teu jogo de navegador ao submetê-lo no <s>itch.io</s>. O teu jogo é incorporado no navegador e os jogadores podem doar qualquer montante que entenderem se gostarem do teu jogo."
+        "browser_game_description": "Ganha dinheiro com o teu jogo de navegador ao submetê-lo no <s>itch.io</s>. O teu jogo é incorporado no navegador e os jogadores podem doar qualquer montante que entenderem se gostarem do teu jogo.",
+        "track_your_game_description": "Acompanha a forma como as pessoas vêm o teu jogo com análises detalhadas sobre as visualizações, downloads e compras. Queres fazer uma promoção? Gera chaves de download para dar às pessoas acesso ao teu jogo.",
+        "design_your_games_page_description": "Cria uma página personalizada onde as pessoas compram ou descarregam o teu jogo. És tu que escolhes as cores, os tipos de letra, imagens e vídeos. Como se trata da página do teu jogo, não encontrarás nada que não tenhas lá colocado."
+    },
+    "app": {
+        "updates_header": "Sempre atualizado",
+        "browse_description": "No itch.io, os criadores controlam a aparência das páginas dos seus projetos. O navegador integrado permite-te descarregar e instalar jogos enquanto exploras <a>páginas com designs originais dos nossos criadores</a>.",
+        "browse_header": "Procura jogos como o criador pretendeu",
+        "read_the_app_guide": "Lê o guia da aplicação",
+        "updates": "Atualizações",
+        "contribute_link": "Queres contribuir? <a>Vê o código-fonte no GitHub</a>",
+        "learn_more_below": "Descobre mais abaixo",
+        "more_info_links": "<1>Lê mais no FAQ</1> ou <2>Lê o guia da aplicação</2>",
+        "summary": "A aplicação itch.io, <s>itch</s>, permite-te descarregar e executar com facilidade jogos e software pelo itch.io. Todos os teus downloads são guardados num único lugar e são atualizados automaticamente. Acede às tuas coleções e compras ou procura por novos jogos através do navegador na aplicação.",
+        "for_platforms": "Para <1>Windows</1>, <2>macOS</2> e <3>Linux</3>",
+        "start_download": "Iniciar Download",
+        "tagline": "Instala, atualiza e joga jogos indie",
+        "share_message": "itch, a aplicação de ambiente de trabalho para jogos indie",
+        "open_source": "Código aberto"
+    },
+    "search": {
+        "search_results_for_query": "Resultados da pesquisa por '{{query}}'",
+        "browse_all_games": "Explorar todos os jogos",
+        "view_all_tags": "Ver todos os marcadores",
+        "published_count": "{{count}} projeto",
+        "published_count_plural": "{{count}} projetos",
+        "creators": "Criadores:"
     }
 }
