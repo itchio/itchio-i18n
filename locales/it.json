@@ -185,5 +185,19 @@
                 "additional_email_address_label": "Indirizzo Email Aggiuntivo"
             }
         }
+    },
+    "jam": {
+        "submission": {
+            "results_table_rank": "Posizione",
+            "results_table_criteria": "Criterio",
+            "results_table_raw_score": "Punteggio Grezzo",
+            "results_table_score": "Punteggio",
+            "results_table_votes": "Voti"
+        },
+        "results": {
+            "submissions": {
+                "ranked_score": "Punteggio: {{score}}"
+            }
+        }
     }
 }
