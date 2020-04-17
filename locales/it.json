@@ -160,7 +160,11 @@
         },
         "header": {
             "more_menu": "Di più",
-            "invoice": "Fattura"
+            "invoice": "Fattura",
+            "return_to_project": "Ritorna al progetto",
+            "view_all_my_purchases": "Vedi tutti i miei acquisti",
+            "download_title": "Scarica {{project_title}}",
+            "preorder_title": "Preordine per {{project_title}]"
         },
         "version_name": "Versione {{version_name}}",
         "play_in_your_browser": "Gioca nel tuo browser",
@@ -168,7 +172,12 @@
             "app_description": "Installa e gestisci i tuoi giochi con l'app di itch.io"
         },
         "preorder_instructions": "Il progetto ha file che non sono ancora stati rilasciati. Torna su questa pagina quando il creatore li avrà rilasciati per poterli scaricare.",
-        "check_your_email_for_the_confirmation_link": "Controlla la tua email per il link di conferma."
+        "check_your_email_for_the_confirmation_link": "Controlla la tua email per il link di conferma.",
+        "link_account_description": "Puoi collegare questa pagina di download ad un account itch.io così da non doverti preoccupare di perderla. Verrà mostrata insieme alle altre cose che possiedi.",
+        "link_account_header": "Collega questa pagina download al tuo account itch.io",
+        "log_in_to_link": "Fai il log-in per collegare",
+        "link_my_account": "Collega il mio account",
+        "linked_user_message": "Questa pagina è collegata all'account {{username}}."
     },
     "user_settings": {
         "email_addresses": {
