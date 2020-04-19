@@ -42,10 +42,14 @@
         "city-builder": "مدينة",
         "christmas": "عيد الميلاد",
         "creepy": "رعب",
-        "dark": "الشّر",
+        "dark": "غموض",
         "cyberpunk": "خيال",
         "cute": "ظريفة",
         "cult-classic": "كلاسيكي",
-        "crime": "إجرامية"
+        "crime": "إجرامية",
+        "deck-building": "أدوات البناء",
+        "dating-sim": "محاكاة المواعدة",
+        "dark-humor": "كوميديا غامضة",
+        "dark-fantasy": "خيالية غامضة"
     }
 }
