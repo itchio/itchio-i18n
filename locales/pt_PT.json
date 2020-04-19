@@ -334,7 +334,17 @@
         "start_download": "Iniciar Download",
         "tagline": "Instala, atualiza e joga jogos indie",
         "share_message": "itch, a aplicação de ambiente de trabalho para jogos indie",
-        "open_source": "Código aberto"
+        "open_source": "Código aberto",
+        "meta_description": "itch, a melhor maneira de descarregar e jogar jogos indie. Descarrega jogos grátis e gere a tua biblioteca a partir do teu ambiente de trabalho. Agora disponível para Windows, macOS e Linux.",
+        "page_title": "Descarregar a aplicação",
+        "community_description": "Descobre mais sobre o desenvolvimento da aplicação <1>na nossa comunidade</1>. Partilha pedidos de funcionalidades e feedback geral com outros membros do itch.io. Se souberes programar, ficarás contente por saber que todo o projeto é de <2>código aberto no GitHub</2>. Aguardamos ansiosamente pelas tuas contribuições.",
+        "community_header": "Junta-te à comunidade",
+        "download_now": "Descarregar agora",
+        "languages_description": "A aplicação do itch está disponível em mais de 20 idiomas, graças à comunidade do itch.io! <a>Descobre mais sobre as traduções</a>",
+        "languages_header": "Disponível no teu idioma",
+        "web_games_description": "Podes sincronizar todos os jogos baseados em navegador diretamente na aplicação, permitindo que os jogues offline sempre que quiseres. Quando voltares a estar online, poderás fazer qualquer atualização caso seja necessário.",
+        "web_games_header": "Jogos de navegador offline",
+        "updates_description": "Não só irão os jogos que instalaste ser atualizados automaticamente, como também a aplicação em si será automaticamente transformada à medida que lançamos novos recursos e funcionalidades. Os jogos que utilizarem as nossas novas ferramentas de linha de comandos vão gerar <em>delta patches</em>, garantindo que descarregas apenas o que mudou quando novos jogos forem lançados."
     },
     "search": {
         "search_results_for_query": "Resultados da pesquisa por '{{query}}'",
@@ -343,5 +353,29 @@
         "published_count": "{{count}} projeto",
         "published_count_plural": "{{count}} projetos",
         "creators": "Criadores:"
+    },
+    "game": {
+        "development_log_header": "Blog de desenvolvimento",
+        "price_or_more": "{{price}} <s>ou mais</s>",
+        "percent_off": "<s>{{percent}}%</s> de desconto",
+        "on_sale": "Em Promoção!",
+        "name_your_own_price": "Escolhe o teu próprio preço",
+        "buy_now_button": "Comprar agora",
+        "preorder_button": "Pré-reservar agora",
+        "download_now_button": "Descarregar agora",
+        "download_or_claim_button": "Descarregar ou reivindicar",
+        "will_be_available_in": "Estará disponível {{time_remaining}}.",
+        "also_available_header": "Também disponível para",
+        "available_header": "Disponível para",
+        "download_demo_header": "Descarregar demo",
+        "get_access_preorder": "Vais ter acesso aos seguintes ficheiros assim que forem lançados:",
+        "get_access": "Vais ter acesso aos seguintes ficheiros:",
+        "download_access": "Clica em Descarregar agora para aceder aos seguintes ficheiros:",
+        "purchase_header": "Comprar",
+        "unavailable": "Este {{game_noun}} não se encontra disponível",
+        "download_header": "Descarregar",
+        "install_instructions": "Instruções de instalação",
+        "more_information": "Mais informação",
+        "empty_page": "Parece que não há nada aqui..."
     }
 }
