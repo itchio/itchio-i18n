@@ -208,5 +208,46 @@
                 "ranked_score": "Punteggio: {{score}}"
             }
         }
+    },
+    "dashboard": {
+        "edit_project": {
+            "content_guidelines_header": "Assicurati che chiunque possa trovare la tua pagina",
+            "file_size_limit": "Limite grandezza file: {{filesize}}. <a>Contattaci</a> se ti serve più spazio",
+            "add_external_file_button": "Aggiungi file esterno",
+            "upload_files_button": "File di upload",
+            "uploads_header": "Upload",
+            "pricing_header": "Prezzo",
+            "community_comments": "Commenti",
+            "community_disabled": "Disabilitata",
+            "community_field": "Comunità",
+            "instructions_field_info1": "Questo testo sarà mostrato a qualcuno quando sta scaricando il tuo gioco attraverso il suo browser. Includi informazioni su come installare e avviare ciò che stanno scaricando.",
+            "instructions_field_info2": "Se il tuo gioco richiede librerie o programmi d ainstallaer a priori dovresti includere anche quella informazione",
+            "description_field_description": "Questo formerà il contenuto della pagina del gioco.",
+            "project_type_help": "Puoi aggiungere altri file scaricabili per ciascuno dei tipi sovrastanti",
+            "tip_label": "Consiglio",
+            "types": {
+                "downloadable": "Scaricabile"
+            },
+            "classification_other": "Altro",
+            "instructions_field": "Istruzioni di download & installazione",
+            "custom_noun_field_description": "Puoi cambiare il modo in cui itch.io si riferisce al tuo progetto fornendo un nome personalizzato.",
+            "custom_noun_field": "Nome personalizzato",
+            "description_field": "Descrizione",
+            "details_section_header": "Dettagli",
+            "release_status_field": "Stato di rilascio",
+            "kind_of_project_field": "Tipo di progetto",
+            "classification_field_description": "Cosa stai caricando?",
+            "classification_field": "Classificazione",
+            "short_description_field_description": "Mostrata in un collegamento al tuo progetto. Evita di duplicare il titolo del progetto",
+            "short_description_field": "Breve descrizione o tagline",
+            "delete_game_button": "Elimina gioco",
+            "video_field_description": "Fornisci un link a YouTube o Vimeo.",
+            "video_field": "Video gameplay o trailer",
+            "save_and_view_button": "Salva & visualizza pagina",
+            "project_url_field": "URL del progetto",
+            "title_field": "Titolo",
+            "edit_project_title": "Modifica progetto",
+            "create_a_new_project_title": "Crea un nuovo progetto"
+        }
     }
 }
