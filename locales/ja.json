@@ -1023,7 +1023,15 @@
                 "empty_message": "まだ誰もコメントしていません"
             },
             "link_to_itchio_page": "{{game_title}}のitch.ioページ",
-            "play_game": "ゲームをする"
+            "play_game": "ゲームをする",
+            "ranked_from_count": "<s>{{count}}件の評価</s>をもとに順位付け",
+            "ranked_from_count_plural": "<s>{{count}}件の評価</s>をもとに順位付け",
+            "run_project": "プロジェクトを実行",
+            "results_table_raw_score": "元スコア",
+            "results_table_score": "スコア",
+            "results_table_votes": "投票",
+            "results_table_rank": "順位",
+            "results_table_criteria": "基準"
         },
         "header": {
             "hosted_by": "主催者：{{hosts}}",
@@ -1076,13 +1084,26 @@
         },
         "results": {
             "submissions": {
-                "view_submission_page": "参加ページを表示"
+                "view_submission_page": "参加ページを表示",
+                "ranked_score": "スコア: {{score}}",
+                "ranked_criteria_rating_count": "評価数{{count}}件で{{criteria_name}}で順位{{ordinal_rank}}",
+                "ranked_criteria_vote_count": "{{criteria_name}}で、{{count}}票で順位{{ordinal_rank}}",
+                "ranked_criteria": "{{criteria_name}}で順位{{ordinal_rank}}",
+                "ranked_rating_count": "評価数{{count}}件で順位{{ordinal_rank}}",
+                "ranked_vote_count": "{{count}}票で順位{{ordinal_rank}}",
+                "ranked": "順位: {{ordinal_rank}}"
             },
             "empty_page_message": "これウェブページにリザルトはありません。",
             "ratings_given_count": "{{vote_start_date}}から{{vote_end_date}}までの期間に評価数<s>{{count}}件</s>。",
             "votes_cast_count": "{{vote_start_date}}から{{vote_end_date}}までの期間で投票数<s>{{count}}</s>票。",
             "submissions_summary": "{{start_date}}から{{end_date}}までの期間で応募数<s>{{count}}作品</s>。",
-            "results": "結果"
+            "results": "結果",
+            "sort_overall": "総合",
+            "sort_by_criteria": "並び順",
+            "no_rankings_available": "閲覧できるランキングはありません",
+            "empty_message": "結果はまだ閲覧できません、また後ほどお試しください",
+            "average_and_median_results": "1ゲームあたりの平均評価数<s>{{average_ratings}}</s>、中間値は<s>{{median_ratings}}</s>。",
+            "ratings_given_submissions_count": "{{vote_start_date}}から{{vote_end_date}}までの期間に、<s>{{submission_count}}作品</s>({{percent}}%)に<s>{{count}}件</s>の評価。"
         }
     },
     "add_to_collection": {
