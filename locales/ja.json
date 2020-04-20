@@ -228,7 +228,8 @@
         "errors": {
             "server_error": "サーバーからの反応がありません。しばらくしたら改めて実行してみてください"
         },
-        "loading_more_ellip": "もっとをローディングしている。。"
+        "loading_more_ellip": "もっとをローディングしている。。",
+        "more_ellip": "もっと"
     },
     "developers": {
         "upload_or_dashboard": "<1>新しいゲームをアップロード</1> <em>または</em> <2>ダッシュボードに移動</2>",
