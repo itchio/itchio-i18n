@@ -982,7 +982,7 @@
                 "disable_downloads_option": "新規のダウンロードや購入を無効にする"
             },
             "error_dialog": {
-                "confirm_button": "分かりました。",
+                "confirm_button": "分かりました",
                 "title": "プロジェクトの保存時に問題が発生しました"
             },
             "classification_field_description": "何をアップしますか？",
@@ -1027,7 +1027,8 @@
                 "mobile_friendly_option": "モバイル対応",
                 "frame_options": "フレームオプション",
                 "height": "高さ",
-                "width": "幅"
+                "width": "幅",
+                "viewport_dimensions": "Viewportのディメンション"
             },
             "embed_options_header": "埋め込み設定",
             "visibility_access_info": "公開前に確認したい場合には、下書きを選びましょう。<a>アクセスモードに関する詳細はこちら</a>",
@@ -1107,8 +1108,7 @@
             },
             "link_to_itchio_page": "{{game_title}}のitch.ioページ",
             "play_game": "ゲームをする",
-            "ranked_from_count": "<s>{{count}}件の評価</s>をもとに順位付け",
-            "ranked_from_count_plural": "<s>{{count}}件の評価</s>をもとに順位付け",
+            "ranked_from_count": "<s>{{count}}件の評価</s>をもとに順位付け。",
             "run_project": "プロジェクトを実行",
             "results_table_raw_score": "元スコア",
             "results_table_score": "スコア",
@@ -1117,12 +1117,13 @@
             "results_table_criteria": "基準",
             "ranked_with_vote_count": "{{count}}票で{{ordinal_rank}}にランクされました",
             "results_header": "結果",
-            "score_information": "スコアはジャムに参加していただいたゲームの中央値に基づいて補正されます",
+            "score_information": "スコアはジャムに参加していただいたゲームの中央値に基づいて補正されます。",
             "downloads": "ダウンロード",
             "submitted_by_contributors": "{{contributors}}様",
             "rated_by_people_count": "現在 {{count}}人に評価されています",
             "rated_by_people_count_plural": "現在 {{count}}人に評価されています",
-            "time_remaining_before_deadline": "締め切りまであと{{time_duration}}"
+            "time_remaining_before_deadline": "締め切りまであと{{time_duration}}",
+            "ranked_from_count_plural": "<s>{{count}}件の評価</s>をもとに順位付け。"
         },
         "header": {
             "hosted_by": "主催者：{{hosts}}",
