@@ -106,7 +106,7 @@
         "page_title": "最新のインディーゲームを手に入れよう",
         "meta_description": "itch.ioではオンライン上のインディーゲームを見つけたり、ダウンロードや配信したりすることが簡単に行えます。作品のアップロード先を探している開発者の方も、何か新しいゲームを求めているプレイヤーの方にも、itch.ioがお応えいたします。",
         "to_follow": {
-            "empty_results": "現在おすすめの作品がありません。また改めてご確認ください。",
+            "empty_results": "現在おすすめの作品がありません。また改めてご確認ください",
             "created_projects": "{{project_list}}が作成されました",
             "dismiss_tooltip": "これ以上提案しない",
             "refresh_button": "更新してさらに表示…"
@@ -693,7 +693,7 @@
         "buy_title": "『{{title}}』を購入",
         "preorder_title": "『{{title}}』を予約",
         "sold_out_notice": "こちらの商品は現在売れ切れました。また今度改めてご確認ください。",
-        "on_sale_notice": "セール対象商品！",
+        "on_sale_notice": "セール対象商品です。",
         "buy_as_bundle_plural": "{{count}}作品入りのバンドル（{{price}}）でお求めいただけます：",
         "free_pay_what_you_want": "こちらの作品は無料ですが、制作者はあなたが相応しいと思った金額での支援を受け付けております。",
         "no_thanks_just_take_me_to_the_downloads": "支援しないでダウンロードする",
@@ -914,7 +914,8 @@
             "payments": "購入回数",
             "views": "閲覧数",
             "downloads": "ダウンロード数",
-            "followers": "フォロワー"
+            "followers": "フォロワー",
+            "following": "フォロー中"
         },
         "follow_itchio": "itch.ioを{{twitter}}と{{facebook}}でフォローする",
         "page_title": "クリエイターダッシュボード",
@@ -972,12 +973,82 @@
             "add_screenshots": "スクリーンショットを追加",
             "screenshots_header": "スクリーンショット",
             "access_control": {
-                "password_label": "パスワード"
+                "password_label": "パスワード",
+                "access_settings": "アクセス設定",
+                "restricted_access_settings": "制限アクセス設定",
+                "public_access_settings": "公開アクセス設定",
+                "allow_password_option": "ページの閲覧時にパスワードを必要にする",
+                "unlisted_option": "検索と閲覧の際に表示しない",
+                "disable_downloads_option": "新規のダウンロードや購入を無効にする"
             },
             "error_dialog": {
-                "confirm_button": "分かりました。"
+                "confirm_button": "分かりました。",
+                "title": "プロジェクトの保存時に問題が発生しました"
             },
-            "classification_field_description": "何をアップしますか？"
+            "classification_field_description": "何をアップしますか？",
+            "community_discussion_board_info": "カテゴリー、スレッド、返信などを備えた専用のコミュニティページを追加します",
+            "community_comments_info": "プロジェクトページの下部に入れ子状のコメントスレッドを追加します",
+            "community_field_info": "ページに投稿できるようにして、プロジェクトのコミュニティを作ってみましょう。",
+            "uploads": {
+                "change_display_name_button": "表示名の変更",
+                "set_price_toggle": "このファイルに別の価格を設定",
+                "preorder_toggle": "このファイルはプレオーダーのプレースホルダーです",
+                "demo_toggle": "このファイルはデモで、無料でダウンロードできます",
+                "hide_toggle": "ファイルを隠し、ダウンロード不能にします",
+                "play_in_browser_toggle": "このファイルはブラウザでプレイされます",
+                "delete_file_button": "ファイルを削除"
+            },
+            "pricing": {
+                "price_too_low_error": "プロジェクト価格より高い価格を入力してください",
+                "default_price_info": "デフォルト価格はプロジェクトの購入手続き時に表示されます",
+                "suggested_price_label": "提案価格",
+                "suggested_donation_label": "提案する寄付額",
+                "suggest_default_price_label": "別のデフォルト価格も提案する",
+                "payment_disabled_info": "プロジェクトのファイルは無料で公開され、寄付は不可能になります。",
+                "default_donation_amount_info": "デフォルト寄付額",
+                "free_price_info": "プロジェクトのダウンロード時に寄付を依頼しますが、スキップして無料で入手することもできます。",
+                "minimum_price_info": "ゲームのダウンロードに必要な最低価格",
+                "minimum_price_label": "最低価格",
+                "embed_pricing_info": "最低価格の設定は、ダウンロードファイルへのアクセスのみ制限します。埋め込みコンテンツは自由にアクセス可能なままです。",
+                "no_payments": "無料",
+                "paid": "有料",
+                "free_or_donate": "{{money}} か 寄付"
+            },
+            "details_genre_info": "あなたのゲームに一番合うカテゴリーを選んでください。その他のジャンルは下のタグで選択できます",
+            "details_tags_header": "タグ",
+            "details_genre_header": "ジャンル",
+            "embed_options": {
+                "launch_fullscreen_option": "クリックして全画面表示",
+                "embed_in_page_option": "ページに埋め込み",
+                "enable_scrollbars_option": "スクロールバー有効化",
+                "fullscreen_button_option": "全画面ボタン",
+                "orientation": "方向",
+                "mobile_friendly_info": "プロジェクトは携帯端末でも動作します(低解像度、タッチ対応)",
+                "mobile_friendly_option": "モバイル対応",
+                "frame_options": "フレームオプション",
+                "height": "高さ",
+                "width": "幅"
+            },
+            "embed_options_header": "埋め込み設定",
+            "visibility_access_info": "公開前に確認したい場合には、下書きを選びましょう。<a>アクセスモードに関する詳細はこちら</a>",
+            "visibility_access_header": "公開範囲とアクセス",
+            "errors": {
+                "invalid_image": "画像を編集するか、他の画像をお試しください",
+                "invalid_file": "選択したファイルに問題があります"
+            },
+            "cover_uploader": {
+                "upload_button": "カバー画像を投稿する",
+                "remove_image": "画像の削除",
+                "replace_image": "カバー画像を変更",
+                "cover_description": "カバー画像は、あなたのプロジェクトへitch.ioの他のページからリンクする際に表示されます。必須です(最小: 315x250, 推奨: 630x500)",
+                "confirm_remove": "カバー画像を削除しますか？"
+            },
+            "community_disabled": "無効",
+            "community_field": "コミュニティ",
+            "instructions_field_info1": "ブラウザからのゲームのダウンロード時に表示されます。ゲームのインストールや実行の方法を書いておきましょう。",
+            "instructions_field_info2": "ライブラリや他のプログラムのインストールが必要なゲームの場合、まずはその情報を記載しておきましょう",
+            "description_field_description": "これがゲームページの内容になります。",
+            "short_description_field_description": "プロジェクトへのリンクに表示されます。タイトルとの重複は避けましょう"
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
@@ -1013,7 +1084,16 @@
                 "not_open_yet": "このゲームジャムの参加申し込みはまだ受け付けております。評価は{{start_date}}から始まります。",
                 "vote": "投票",
                 "owner_message": "これはあなたの応募作品であるため、評価できません。ゲームジャムの他の参加者は、このページであなたのプロジェクトを評価できます。",
-                "private_field": "(プライベート)"
+                "private_field": "(プライベート)",
+                "disqualified_message": "このエントリー作品は失格となったため評価はできません。",
+                "you_voted_ago": "{{timestamp}}に投票しました。",
+                "you_just_voted": "投票しました。",
+                "you_havent_rated_this_submission_yet": "まだこの参加作品を評価していません。",
+                "other_participants_can_rate": "このゲームジャムの他の参加者はあなたのエントリー作品を評価できます。",
+                "you_will_be_able_to_rate_if_you_submit": "このゲームジャムに参加すれば、このエントリー作品を評価できます。",
+                "participate_to_rate_message": "参加作品を評価するには、<a>itch.ioにログイン</a>して、自分の作品を応募する必要があります。アカウント登録のみの場合は、コメントのみ残すことができます。",
+                "sign_up_to_vote": "投票したりコメントを残したりするには、<a>itch.ioアカウントを新規登録</a>してください。",
+                "unavailable_to_rate": "自分の作品を応募していないためこのプロジェクトを評価できません。ただし、コメントを残すことは可能です。"
             },
             "edit_this_submission_button": "この参加作品を編集",
             "remove_this_submission_button": "この参加作品を除外",
@@ -1105,7 +1185,7 @@
                 "ranked": "順位: {{ordinal_rank}}",
                 "by_author": "by {{author}}"
             },
-            "empty_page_message": "これウェブページにリザルトはありません。",
+            "empty_page_message": "このページに結果はありません",
             "ratings_given_count": "{{vote_start_date}}から{{vote_end_date}}までの期間に評価数<s>{{count}}件</s>。",
             "votes_cast_count": "{{vote_start_date}}から{{vote_end_date}}までの期間で投票数<s>{{count}}</s>票。",
             "submissions_summary": "{{start_date}}から{{end_date}}までの期間で応募数<s>{{count}}作品</s>。",
@@ -1116,6 +1196,10 @@
             "empty_message": "結果はまだ閲覧できません、また後ほどお試しください",
             "average_and_median_results": "1ゲームあたりの平均評価数<s>{{average_ratings}}</s>、中間値は<s>{{median_ratings}}</s>。",
             "ratings_given_submissions_count": "{{vote_start_date}}から{{vote_end_date}}までの期間に、<s>{{submission_count}}作品</s>({{percent}}%)に<s>{{count}}件</s>の評価。"
+        },
+        "screenshots": {
+            "loading_more": "スクリーンショットを読み込み中…",
+            "empty_message": "まだスクリーンショットは投稿されていません"
         }
     },
     "add_to_collection": {
@@ -1140,7 +1224,7 @@
         "view_all_link": "全部の何かを見る"
     },
     "feed": {
-        "my_feed_tab": "",
+        "my_feed_tab": "マイフィード",
         "filter_everything_tab": "全部"
     }
 }
