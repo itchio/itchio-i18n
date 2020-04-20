@@ -229,7 +229,7 @@
         "errors": {
             "server_error": "サーバーからの反応がありません。しばらくしたら改めて実行してみてください"
         },
-        "loading_more_ellip": "さらにロード…",
+        "loading_more_ellip": "さらにロード中…",
         "more_ellip": "もっと・・・"
     },
     "developers": {
