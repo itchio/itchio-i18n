@@ -1004,7 +1004,7 @@
                 "suggested_price_label": "提案価格",
                 "suggested_donation_label": "提案する寄付額",
                 "suggest_default_price_label": "別のデフォルト価格も提案する",
-                "payment_disabled_info": "プロジェクトのファイルは無料で公開され、寄付は不可能になります。",
+                "payment_disabled_info": "プロジェクトのファイルは無料で公開され、寄付は不可能になります",
                 "default_donation_amount_info": "デフォルト寄付額",
                 "free_price_info": "プロジェクトのダウンロード時に寄付を依頼しますが、スキップして無料で入手することもできます。",
                 "minimum_price_info": "ゲームのダウンロードに必要な最低価格",
