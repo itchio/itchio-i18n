@@ -1068,7 +1068,8 @@
             "admins": "管理者",
             "more": "もっと",
             "rewards": "報酬",
-            "interact": "インタラクト"
+            "interact": "インタラクト",
+            "distribute": "配布する"
         }
     },
     "browse_tags": {
