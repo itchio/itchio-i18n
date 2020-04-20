@@ -108,7 +108,8 @@
         "to_follow": {
             "empty_results": "現在おすすめの作品がありません。また改めてご確認ください。",
             "created_projects": "{{project_list}}が作成されました",
-            "dismiss_tooltip": "これ以上提案しない"
+            "dismiss_tooltip": "これ以上提案しない",
+            "refresh_button": "更新してさらに表示…"
         }
     },
     "misc": {
@@ -251,7 +252,8 @@
         "account_faq_cta": "<1>今すぐアカウントを作る</1> または <2>FAQを読む</2>",
         "create_account_or_login": "<1>アカウントを作成する</1><em>または</em><2>ログイン</2>",
         "track_your_game": "作品の分析",
-        "design_your_games_page_description": "ダウンロードまたは購入されるための独自のゲームページを製作します。色、フォント、画像、または動画を選択してください。こちらは専用のゲームページになるため、正しく配置しないものは実際のゲームページに表示されません。"
+        "design_your_games_page_description": "ダウンロードまたは購入されるための独自のゲームページを製作します。色、フォント、画像、または動画を選択してください。こちらは専用のゲームページになるため、正しく配置しないものは実際のゲームページに表示されません。",
+        "track_your_game_description": "閲覧数、ダウンロード数、購入数を含む詳細な統計データで、あなたのゲームへの印象を把握してみましょう。キャンペーンを行ってみたいですか？ダウンロードキーを生成して、あなたのゲームにアクセスできるようにしてみましょう。"
     },
     "user_register": {
         "register_form": {
@@ -593,7 +595,9 @@
             "vote_down": "低く評価する",
             "deleted_account": "削除されたアカウント",
             "suspended_account": "凍結中のアカウント",
-            "pinned_reply": "ピン留めされた返信"
+            "pinned_reply": "ピン留めされた返信",
+            "post_from_suspended_account": "凍結中のアカウントからの投稿",
+            "edited": "(編集済)"
         },
         "post_form": {
             "add_profile_image": "プロフィール画像を追加",
@@ -603,7 +607,8 @@
             "remove_tag": "タグを外す",
             "subscribe": "登録",
             "subscribe_to_this_topic": "このスレッドに登録",
-            "subscribe_description": "スレッドに新しい返信があったら通知されます"
+            "subscribe_description": "スレッドに新しい返信があったら通知されます",
+            "post_reply": "返信を投稿"
         },
         "new_topic": {
             "moderator_tools": "管理者ツール",
@@ -646,7 +651,8 @@
             "this_topic_is_locked": "このスレッドは封鎖されました",
             "this_topic_was_locked_by_username": "このスレッドは{{username}}により封鎖されました",
             "moderation": "モデレーター機能",
-            "topic_is_autoarchived": "一定期間投稿が無かったため、このトピックは自動的にアーカイブされており、新規の投稿はできません。"
+            "topic_is_autoarchived": "一定期間投稿が無かったため、このトピックは自動的にアーカイブされており、新規の投稿はできません。",
+            "create_related_topic": "関連の内容で投稿したいものがあれば、<a>{{category_name}}にスレッドを立てて</a>みるのもいいかもしれません。"
         },
         "misc": {
             "new_topic_button": "新しいスレッド"
@@ -887,8 +893,18 @@
             "change_password_instructions": "メールアドレスが変更されましたら、新しいメールの認証が終わるまで購入済みのゲームにアクセスできなくなります。認証方法はメールに送信されます。セキュリティ上の理由により、メールアドレスの変更に現在のパスワードが求められます。",
             "additional_emails": {
                 "email_sent_status": "メールを頂けました",
-                "email_column": "メール"
-            }
+                "email_column": "メール",
+                "detach_email": "メールアドレスの関連付けを切る",
+                "resend_verification_email_button": "認証メールを再送する",
+                "verified_column": "認証済み",
+                "emails_added_header": "追加したメールアドレス"
+            },
+            "add_email_form": {
+                "add_email_button": "メールアドレスを追加",
+                "additional_email_address_label": "追加メールアドレス"
+            },
+            "additional_emails_instructions": "その他のメールアドレスを追加すると、認証の案内がメールで送られます。",
+            "additional_emails_summary": "itch.ioのアカウントに追加メールアドレスを関連付けることで、それらのメールアドレスのもとで購入したものにアクセス可能になります。例えば、PayPalに使っているメールアドレスが、普段使っているメールアドレスと異なる場合、PayPal用のアドレスを追加して利用することができます。"
         }
     },
     "dashboard": {
@@ -1016,7 +1032,8 @@
                 "submissions": "参加作品",
                 "screenshots": "スクリーンショット",
                 "submission_feed": "参加作品のフィード",
-                "edit_jam": "ゲームジャムを編集"
+                "edit_jam": "ゲームジャムを編集",
+                "overview": "概要"
             }
         },
         "stats": {
@@ -1036,17 +1053,34 @@
                 "submissions_due_in": "参加申し込み終了まであと",
                 "voting_ends_in": "投票終了まであと"
             },
-            "submission_is_closed_for_voting": "参加申し込みを締め切りました。現在投票受付中です"
+            "submission_is_closed_for_voting": "参加申し込みを締め切りました。現在投票受付中です",
+            "you_can_now_rate_entries": "<a>参加作品ページ</a>からエントリー作品を評価できます",
+            "view_entries": "{{count}} 件のエントリーを見る",
+            "view_results": "結果を見る",
+            "youve_joined": "ゲームジャムに参加しました。"
         },
         "submissions": {
             "there_are_no_submissions_yet": "参加作品がまだありません",
-            "there_were_no_submissions": "参加作品がありません"
+            "there_were_no_submissions": "参加作品がありません",
+            "rated": "評価済み",
+            "empty_results": "フィルターに合致する参加作品はありません",
+            "filter": "フィルター",
+            "filters": {
+                "browser_playable": "ブラウザでプレイ可能",
+                "all_submissions": "全ての参加作品"
+            },
+            "help_submissions_in_need_of_ratings": "評価件数の少ない参加作品の評価にご協力ください: <a>評価の必要な参加作品</a>",
+            "submissions_will_be_available_after_the_jam_has_ended": "参加作品はジャムの終了後にプレイ可能になります"
         },
         "results": {
             "submissions": {
                 "view_submission_page": "参加ページを表示"
             },
-            "empty_page_message": "これウェブページにリザルトはありません。"
+            "empty_page_message": "これウェブページにリザルトはありません。",
+            "ratings_given_count": "{{vote_start_date}}から{{vote_end_date}}までの期間に評価数<s>{{count}}件</s>。",
+            "votes_cast_count": "{{vote_start_date}}から{{vote_end_date}}までの期間で投票数<s>{{count}}</s>票。",
+            "submissions_summary": "{{start_date}}から{{end_date}}までの期間で応募数<s>{{count}}作品</s>。",
+            "results": "結果"
         }
     },
     "add_to_collection": {
