@@ -1049,7 +1049,8 @@
             "instructions_field_info1": "ブラウザからのゲームのダウンロード時に表示されます。ゲームのインストールや実行の方法を書いておきましょう。",
             "instructions_field_info2": "ライブラリや他のプログラムのインストールが必要なゲームの場合、まずはその情報を記載しておきましょう",
             "description_field_description": "これがゲームページの内容になります。",
-            "short_description_field_description": "プロジェクトへのリンクに表示されます。タイトルとの重複は避けましょう"
+            "short_description_field_description": "プロジェクトへのリンクに表示されます。タイトルとの重複は避けましょう",
+            "classification_field": "分類"
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
@@ -1217,7 +1218,7 @@
         "add_to_new": "新規コレクションに追加します。コレクション名は",
         "private_collection_title": "[プライベート] {{title}}",
         "count_items": "{{count}}アイテム",
-        "already_in_collections": "このプロジェクトは既に以下のコレクションに存在します: ",
+        "already_in_collections": "このプロジェクトは既に以下のコレクションに存在します:",
         "add_reason": "プロジェクトをコレクションに追加し、あとにとっておきます。",
         "dialog_title": "{{project_title}}をコレクションに追加"
     },
