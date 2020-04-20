@@ -1232,14 +1232,84 @@
         "browse_upcoming_this_month": "今月開催予定",
         "brose_featured_jams": "注目のゲームジャム",
         "browse_in_progress": "開催中",
-        "count_joined": "{{count}}作品が参加"
+        "count_joined": "{{count}}作品が参加",
+        "host_or_explore_links": "<1>ゲームジャムを開催</1> もしくは <2>全ゲームジャムを見る</2>",
+        "host_your_own_jam_button": "ゲームジャムを開催",
+        "jam_calendar_header": "ゲームジャムカレンダー",
+        "browse_jams_header": "ゲームジャムを表示",
+        "games_created": "これまでに<s>{{count}}個のゲーム</s>がitch.io上のゲームジャムに向けて製作されました。",
+        "page_summary": "itch.ioではオンラインでゲームジャムの作成や参加ができます。誰でもすぐにゲームジャムの作成と管理が可能です。",
+        "page_title": "itch.ioのゲームジャム",
+        "jams_joined_header": "参加したゲームジャム",
+        "jams_created_header": "作成したゲームジャム"
     },
     "library": {
         "download_button": "ダウンロード",
-        "view_all_link": "全部の何かを見る"
+        "view_all_link": "全部の何かを見る",
+        "rate_game": {
+            "you_rated_this_project_ago": "{{time_ago}}にこのプロジェクトを評価しました。",
+            "rate_header": "{{project_title}}を評価&レビュー",
+            "choose_stars": "★1～★5の間で評価を選んでください。",
+            "delete_button": "評価とレビューを削除",
+            "rating_deleted_summary": "評価は削除されました。",
+            "rating_removed_header": "評価を削除しました",
+            "follow_creator": "{{project_title}}の作者をフォローして、作者の最新情報を常時確認できるようにしてみませんか。",
+            "rating_saved_header": "評価が保存されました"
+        },
+        "gift_button": "ギフト",
+        "nav": {
+            "things_to_rate": "評価待ちの作品",
+            "things_on_sale": "セール中の作品",
+            "recommended_for_you": "あなたへのおすすめ",
+            "my_purchases": "購入品"
+        },
+        "nav_header": "ライブラリ",
+        "empty_collection_message": "コレクションは空です",
+        "go_to_collection_link": "コレクションへ移動",
+        "private_toggle": "プライベート",
+        "permalink": "パーマリンク",
+        "things_rated_header": "評価した作品",
+        "show_on_my_profile_toggle": "プロフィールに表示",
+        "things_you_own_header": "所有アイテム",
+        "page_title": "マイライブラリ"
     },
     "feed": {
         "my_feed_tab": "マイフィード",
-        "filter_everything_tab": "全部"
+        "filter_everything_tab": "全部",
+        "event": {
+            "collection_added_count": "{{count}}個のアイテムを追加しました。",
+            "collection_summary": "{{count}}個のアイテムを含むコレクション"
+        },
+        "profile_notice": {
+            "description": "まだプロフィール画像が設定されていません。他のユーザーが一目で見分けられるように、画像を追加してみましょう！",
+            "add_a_profile_image": "プロフィール画像を追加"
+        },
+        "email_warning": {
+            "verify_your_email_address": "メールアドレスを認証"
+        },
+        "event_filter_label": "フィルター:",
+        "upload_a_game_button": "ゲームを投稿",
+        "manage_my_games_button": "ゲームの管理",
+        "global_feed_tab": "グローバルフィード",
+        "to_follow": {
+            "to_follow_description": "あなたが興味をお持ちかもしれないアカウントを表示しています。",
+            "people_to_follow_header": "おすすめユーザー"
+        },
+        "to_rate": {
+            "to_rate_description": "プレイ済みの作品のうち、未評価のものがあります。",
+            "projects_to_rate_header": "評価待ちのプロジェクト"
+        },
+        "featured_tags_header": "注目タグ",
+        "latest_featured_games_header": "最新の注目ゲーム",
+        "filter_ratings_tab": "評価",
+        "filter_devlogs_tab": "開発ログ",
+        "filter_collections_tab": "コレクション",
+        "filter_new_projects_tab": "新規プロジェクト",
+        "filter_own_activity_tab": "自分のアクティビティ"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "あなたのメールアドレスは認証されていません"
+        }
     }
 }
