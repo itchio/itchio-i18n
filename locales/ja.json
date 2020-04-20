@@ -1280,7 +1280,7 @@
         "filter_everything_tab": "全部",
         "event": {
             "collection_added_count": "{{count}}個のアイテムを追加しました。",
-            "collection_summary": "{{count}}個のアイテムを含むコレクション"
+            "collection_summary": "{{count}}個のアイテムを含むコレクション。"
         },
         "profile_notice": {
             "description": "まだプロフィール画像が設定されていません。他のユーザーが一目で見分けられるように、画像を追加してみましょう！",
