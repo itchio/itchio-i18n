@@ -982,7 +982,7 @@
                 "disable_downloads_option": "新規のダウンロードや購入を無効にする"
             },
             "error_dialog": {
-                "confirm_button": "分かりました",
+                "confirm_button": "了解",
                 "title": "プロジェクトの保存時に問題が発生しました"
             },
             "classification_field_description": "何をアップしますか？",
@@ -1065,7 +1065,10 @@
             "analytics": "解析",
             "edit_comments": "コメントを編集",
             "discussion_board": "掲示板",
-            "admins": "管理者"
+            "admins": "管理者",
+            "more": "もっと",
+            "rewards": "報酬",
+            "interact": "インタラクト"
         }
     },
     "browse_tags": {
@@ -1109,6 +1112,7 @@
             "link_to_itchio_page": "{{game_title}}のitch.ioページ",
             "play_game": "ゲームをする",
             "ranked_from_count": "<s>{{count}}件の評価</s>をもとに順位付け。",
+            "ranked_from_count_plural": "<s>{{count}}件の評価</s>をもとに順位付け。",
             "run_project": "プロジェクトを実行",
             "results_table_raw_score": "元スコア",
             "results_table_score": "スコア",
@@ -1122,8 +1126,7 @@
             "submitted_by_contributors": "{{contributors}}様",
             "rated_by_people_count": "現在 {{count}}人に評価されています",
             "rated_by_people_count_plural": "現在 {{count}}人に評価されています",
-            "time_remaining_before_deadline": "締め切りまであと{{time_duration}}",
-            "ranked_from_count_plural": "<s>{{count}}件の評価</s>をもとに順位付け。"
+            "time_remaining_before_deadline": "締め切りまであと{{time_duration}}"
         },
         "header": {
             "hosted_by": "主催者：{{hosts}}",
@@ -1205,7 +1208,17 @@
     },
     "add_to_collection": {
         "about_this_project_label": "この作品について",
-        "add_to_existing": "既存のコレクションに追加"
+        "add_to_existing": "既存のコレクションに追加",
+        "private_collection_option": "プライベートコレクション ― あなたのみが内容を閲覧できます",
+        "manage_collections_link": "コレクションの管理",
+        "add_button": "コレクションに追加",
+        "default_title": "{{username}}のコレクション",
+        "add_to_new": "新規コレクションに追加します。コレクション名は",
+        "private_collection_title": "[プライベート] {{title}}",
+        "count_items": "{{count}}アイテム",
+        "already_in_collections": "このプロジェクトは既に以下のコレクションに存在します: ",
+        "add_reason": "プロジェクトをコレクションに追加し、あとにとっておきます。",
+        "dialog_title": "{{project_title}}をコレクションに追加"
     },
     "game_grid": {
         "in_bundle": "バンドルあり"
