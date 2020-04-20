@@ -1011,7 +1011,9 @@
                 "rate_this_submission": "この作品を評価する",
                 "vote_for_this_submission": "この作品に投票する",
                 "not_open_yet": "このゲームジャムの参加申し込みはまだ受け付けております。評価は{{start_date}}から始まります。",
-                "vote": "投票"
+                "vote": "投票",
+                "owner_message": "これはあなたの応募作品であるため、評価できません。ゲームジャムの他の参加者は、このページであなたのプロジェクトを評価できます。",
+                "private_field": "(プライベート)"
             },
             "edit_this_submission_button": "この参加作品を編集",
             "remove_this_submission_button": "この参加作品を除外",
@@ -1100,7 +1102,8 @@
                 "ranked_criteria": "{{criteria_name}}で順位{{ordinal_rank}}",
                 "ranked_rating_count": "評価数{{count}}件で順位{{ordinal_rank}}",
                 "ranked_vote_count": "{{count}}票で順位{{ordinal_rank}}",
-                "ranked": "順位: {{ordinal_rank}}"
+                "ranked": "順位: {{ordinal_rank}}",
+                "by_author": "by {{author}}"
             },
             "empty_page_message": "これウェブページにリザルトはありません。",
             "ratings_given_count": "{{vote_start_date}}から{{vote_end_date}}までの期間に評価数<s>{{count}}件</s>。",
