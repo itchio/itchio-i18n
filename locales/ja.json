@@ -107,7 +107,8 @@
         "meta_description": "itch.ioではオンライン上のインディーゲームを見つけたり、ダウンロードや配信したりすることが簡単に行えます。作品のアップロード先を探している開発者の方も、何か新しいゲームを求めているプレイヤーの方にも、itch.ioがお応えいたします。",
         "to_follow": {
             "empty_results": "現在おすすめの作品がありません。また改めてご確認ください。",
-            "created_projects": "{{project_list}}が作成されました"
+            "created_projects": "{{project_list}}が作成されました",
+            "dismiss_tooltip": "これ以上提案しない"
         }
     },
     "misc": {
@@ -228,7 +229,7 @@
         "errors": {
             "server_error": "サーバーからの反応がありません。しばらくしたら改めて実行してみてください"
         },
-        "loading_more_ellip": "もっとをローディングしている。。",
+        "loading_more_ellip": "さらにロード…",
         "more_ellip": "もっと"
     },
     "developers": {
@@ -290,8 +291,9 @@
             "follow": "誰かをフォローするにはまずitch.ioアカウントが必要です。",
             "follow_username": "<1>{{username}}</1>をフォローするにはまずitch.ioアカウントが必要です。",
             "collection": "コレクションに追加するにはまずitch.ioアカウントが必要です。",
-            "claim_object": "この{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください",
-            "recent_purchases": "購入した商品をアカウントにリンクするにはまずログインしてください。"
+            "claim_object": "この{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください。",
+            "recent_purchases": "購入した商品をアカウントにリンクするにはまずログインしてください。",
+            "claim_object_title": "{{title}}を手に入れるにはまずログインまたはアカウントを作成してください。"
         },
         "welcome_back": "お帰りなさいませ！",
         "welcome_to_itchio": "itch.ioへようこそ！",
@@ -643,7 +645,8 @@
             "last_page": "最後のページへ",
             "this_topic_is_locked": "このスレッドは封鎖されました",
             "this_topic_was_locked_by_username": "このスレッドは{{username}}により封鎖されました",
-            "moderation": "モデレーター機能"
+            "moderation": "モデレーター機能",
+            "topic_is_autoarchived": "一定期間投稿が無かったため、このトピックは自動的にアーカイブされており、新規の投稿はできません。"
         },
         "misc": {
             "new_topic_button": "新しいスレッド"
