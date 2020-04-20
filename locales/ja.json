@@ -1010,7 +1010,8 @@
                 "sign_up_to_rate": "<a>itch.ioアカウントを作成</a>して、評価またはコメントを投稿します。",
                 "rate_this_submission": "この作品を評価する",
                 "vote_for_this_submission": "この作品に投票する",
-                "not_open_yet": "このゲームジャムの参加申し込みはまだ受け付けております。評価は{{start_date}}から始まります。"
+                "not_open_yet": "このゲームジャムの参加申し込みはまだ受け付けております。評価は{{start_date}}から始まります。",
+                "vote": "投票"
             },
             "edit_this_submission_button": "この参加作品を編集",
             "remove_this_submission_button": "この参加作品を除外",
@@ -1036,7 +1037,10 @@
             "results_header": "結果",
             "score_information": "スコアはジャムに参加していただいたゲームの中央値に基づいて補正されます",
             "downloads": "ダウンロード",
-            "submitted_by_contributors": "{{contributors}}様"
+            "submitted_by_contributors": "{{contributors}}様",
+            "rated_by_people_count": "現在 {{count}}人に評価されています",
+            "rated_by_people_count_plural": "現在 {{count}}人に評価されています",
+            "time_remaining_before_deadline": "締め切りまであと{{time_duration}}"
         },
         "header": {
             "hosted_by": "主催者：{{hosts}}",
