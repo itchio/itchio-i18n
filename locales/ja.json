@@ -622,7 +622,8 @@
             "new_topic": "新しいスレッド",
             "this_a_community_run_message_board": "コミュニティの掲示板です。",
             "see_community_guidelines": "<a>コミュニティガイドを読んで</a>itch.ioのコミュニティポリシーをご確認ください。",
-            "body": "内容"
+            "body": "内容",
+            "page_title": "新しいトピックを投稿する"
         },
         "topic": {
             "topic_is_archived": "このスレッドはアーカイブされており、投稿はできません",
@@ -1057,7 +1058,8 @@
             "you_can_now_rate_entries": "<a>参加作品ページ</a>からエントリー作品を評価できます",
             "view_entries": "{{count}} 件のエントリーを見る",
             "view_results": "結果を見る",
-            "youve_joined": "ゲームジャムに参加しました。"
+            "youve_joined": "ゲームジャムに参加しました。",
+            "leave_jam": "ゲームジャムを去る"
         },
         "submissions": {
             "there_are_no_submissions_yet": "参加作品がまだありません",
