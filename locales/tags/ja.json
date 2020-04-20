@@ -177,6 +177,13 @@
         "otome": "おとめ",
         "neon": "ネオン",
         "horrible": "恐ろしい",
-        "generator": "ジェネレータ"
+        "generator": "ジェネレータ",
+        "noir": "ノワール(黒)",
+        "minimalist": "ミニマリスト",
+        "metroidvania": "メトロイドヴァニア",
+        "low-poly": "ローポリゴン",
+        "loot": "戦利品",
+        "lo-fi": "Lo-fi",
+        "libgdx": "libGDX"
     }
 }
