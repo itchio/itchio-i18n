@@ -1271,7 +1271,8 @@
         "things_rated_header": "評価した作品",
         "show_on_my_profile_toggle": "プロフィールに表示",
         "things_you_own_header": "所有アイテム",
-        "page_title": "マイライブラリ"
+        "page_title": "マイライブラリ",
+        "redeem_button": "引き換え"
     },
     "feed": {
         "my_feed_tab": "マイフィード",
