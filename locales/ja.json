@@ -1031,7 +1031,11 @@
             "results_table_score": "スコア",
             "results_table_votes": "投票",
             "results_table_rank": "順位",
-            "results_table_criteria": "基準"
+            "results_table_criteria": "基準",
+            "ranked_with_vote_count": " {{count}}票で{{ordinal_rank}}にランクされました",
+            "results_header": "結果",
+            "score_information": "スコアはジャムに参加していただいたゲームの中央値に基づいて補正されます",
+            "downloads": "ダウンロード"
         },
         "header": {
             "hosted_by": "主催者：{{hosts}}",
