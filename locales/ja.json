@@ -109,7 +109,7 @@
             "empty_results": "現在おすすめの作品がありません。また改めてご確認ください",
             "created_projects": "{{project_list}}が作成されました",
             "dismiss_tooltip": "これ以上提案しない",
-            "refresh_button": "更新してさらに表示…"
+            "refresh_button": "更新してさらに表示"
         }
     },
     "misc": {
