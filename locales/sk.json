@@ -33,7 +33,11 @@
             "game_assets": "Assety",
             "fun_games": "Zábavné hry",
             "games": "Hry",
-            "feed": "Príspevky"
+            "feed": "Príspevky",
+            "notifications_count_0": "{{count}} notifikácia",
+            "notifications_count_1": "{{count}} notifikácie",
+            "notifications_count_2": "{{count}} notifikácií",
+            "dashboard": "Nástenka"
         },
         "user_menu": {
             "explore": "Objaviť",
