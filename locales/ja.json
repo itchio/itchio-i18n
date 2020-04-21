@@ -235,10 +235,10 @@
     },
     "developers": {
         "upload_or_dashboard": "<1>新しいゲームをアップロード</1> <em>または</em> <2>ダッシュボードに移動</2>",
-        "page_header": "インディーゲームをすぐに配信するためのカスタムページを作ろう",
+        "page_header": "インディーゲームをすぐに配信するためのカスタムページを作りましょう",
         "my_dashboard": "ダッシュボードに移動",
         "upload_a_new_game": "新しいゲームをアップロード",
-        "upload_your_indie_game": "インディーゲームを配信",
+        "upload_your_indie_game": "あなたのインディーゲームをアップロードしよう",
         "design_your_games_page": "独自のゲームページ",
         "host_a_sale": "セールを開催",
         "learn_more": "もっと詳しく",
