@@ -97,7 +97,7 @@
         "filtering_platform": "{{platform_name}}用のゲームだけを表示しています",
         "more_featured_games": "他の注目タイトル",
         "game_dev_on_sale": "<1>セール中</1>のゲーム開発素材",
-        "latest_featured_games": "話題の新作ゲーム",
+        "latest_featured_games": "最新の注目されているゲーム",
         "view_all_platforms": "すべてのプラットフォームを表示",
         "browse_content_type": "{{content_type}}を探す",
         "intro": "<s>itch.io</s>ではオンライン上のインディーゲームの発見と配信が無料で簡単に行えます。",
@@ -307,7 +307,7 @@
             "password": "パスワード",
             "forgot_password": "パスワードを忘れた場合",
             "log_in_button": "ログイン",
-            "create_account": "アカウントを作成",
+            "create_account": "アカウントの作成",
             "or_log_in_with_another_site": "他のサービスを使ってログインすることもできます",
             "or": "または"
         },
