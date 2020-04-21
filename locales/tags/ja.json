@@ -184,6 +184,13 @@
         "low-poly": "ローポリゴン",
         "loot": "戦利品",
         "lo-fi": "Lo-fi",
-        "libgdx": "libGDX"
+        "libgdx": "libGDX",
+        "parkour": "パルクール",
+        "other": "その他",
+        "open-world": "オープンワールド",
+        "on-rails-shooter": "レール式シューティング",
+        "norse": "北欧",
+        "non-violent": "暴力要素なし",
+        "non-linear": "ノンリニア"
     }
 }
