@@ -103,7 +103,7 @@
         "intro": "<s>itch.io</s>ではオンライン上のインディーゲームの発見と配信が無料で簡単に行えます。",
         "intro_cta": "<1>ゲームを登録する</1> または <2>FAQを読む</2>",
         "html5_games": "HTML5ゲーム",
-        "page_title": "最新のインディーゲームを手に入れよう",
+        "page_title": "最新のインディーゲームをダウンロードしよう",
         "meta_description": "itch.ioではオンライン上のインディーゲームを見つけたり、ダウンロードや配信したりすることが簡単に行えます。作品のアップロード先を探している開発者の方も、何か新しいゲームを求めているプレイヤーの方にも、itch.ioがお応えいたします。",
         "to_follow": {
             "empty_results": "現在おすすめの作品がありません。また改めてご確認ください",
@@ -132,7 +132,7 @@
             "one_button": "ワンボタン",
             "blind": "目が不自由でも楽しめる",
             "colorblind": "色覚異常に配慮",
-            "configurable_controls": "キーコンフィグあり"
+            "configurable_controls": "操作設定可能"
         },
         "inputs": {
             "keyboard": "キーボード",
@@ -294,7 +294,7 @@
             "follow_username": "<1>{{username}}</1>をフォローするにはまずitch.ioアカウントが必要です。",
             "collection": "コレクションに追加するにはまずitch.ioアカウントが必要です。",
             "claim_object": "この{{noun}}を手に入れるにはまずログインまたはアカウントを作成してください。",
-            "recent_purchases": "購入した商品をアカウントにリンクするにはまずログインしてください。",
+            "recent_purchases": "たった今ご購入の商品をアカウントにリンクするにはまずログインしてください。",
             "claim_object_title": "{{title}}を手に入れるにはまずログインまたはアカウントを作成してください。"
         },
         "welcome_back": "お帰りなさいませ！",
@@ -479,7 +479,7 @@
         "updates": "アップデート",
         "empty_message": "こちらには投稿がありません",
         "digest": "ダイジェスト",
-        "tag_filter": "{{tag}}のタグが付けられたものだけを表示しています。<a>タグを解除</a>"
+        "tag_filter": "{{tag}}でフィルタリング中。<a>タグ検索を解除</a>"
     },
     "game_download": {
         "purchase": {
