@@ -110,7 +110,7 @@
         "to_follow": {
             "created_projects": "Created {{project_list}}",
             "empty_results": "We don't have any more recommendations right now. Check back later",
-            "refresh_button": "Refresh for more...",
+            "refresh_button": "Refresh for more",
             "dismiss_tooltip": "Don't suggest anymore"
         }
     },
