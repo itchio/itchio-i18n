@@ -390,7 +390,22 @@
             "following": "A seguir",
             "follow": "Seguir",
             "creator": "Criador",
-            "view_all_by_name": "Ver tudo de {{name}}"
+            "view_all_by_name": "Ver tudo de {{name}}",
+            "ownership": {
+                "percent_off": "{{percent}}% de desconto",
+                "download": "Descarregar",
+                "send_gift": "Enviar presente",
+                "you_own_this": "Possuis isto"
+            },
+            "related_games_short": "Relacionado",
+            "related_games": "Jogos relacionados",
+            "submission_to_jam": "Submissão para {{jam_title}}",
+            "rate_for_jam": "Avaliar para {{jam_title}}",
+            "rate_this_noun": "Avaliar {{noun}}",
+            "rate": "Avaliar",
+            "edit_rating": "Editar avaliação",
+            "edit_your_rating": "Edita a tua avaliação",
+            "devlog": "Devlog"
         },
         "upload_list": {
             "empty_message": "Ainda não há nada disponível para descarregar.",
