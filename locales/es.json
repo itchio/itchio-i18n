@@ -108,7 +108,7 @@
         "page_title": "Descarga los últimos juegos indie",
         "meta_description": "itch.io es una manera simple de encontrar, descargar y distribuir juegos indies online. Ya seas un desarrollador buscando subir su juego o alguien buscando un juego nuevo, itch.io es el lugar ideal.",
         "to_follow": {
-            "refresh_button": "Recarga para ver más...",
+            "refresh_button": "Recarga para ver más",
             "created_projects": "{{project_list}} creado",
             "empty_results": "Por ahora no tenemos más recomendaciones. Vuelve a comprobarlo más tarde",
             "dismiss_tooltip": "No sugerir más"
@@ -263,8 +263,9 @@
             "follow_username": "Necesitas una cuenta de itch.io para seguir a <1>{{username}}</1>.",
             "collection": "Necesitas una cuenta de itch.io para añadir a una colección.",
             "jam_submit": "Necesitas una cuenta de itch.io para participar en una jam.",
-            "claim_object": "Inicia sesión o crea una cuenta para reclamar el {{noun}}",
-            "recent_purchases": "Accede para enlazar las compras hechas recientemente."
+            "claim_object": "Por favor, inicia sesión o crea una cuenta para reclamar el {{nombre}}.",
+            "recent_purchases": "Accede para enlazar las compras hechas recientemente.",
+            "claim_object_title": "Por favor, inicie sesión o crea una cuenta para reclamar {{título}}."
         },
         "no_account_prompt": "¿No tienes cuenta? <1>Crear una cuenta</1>",
         "page_title": "Iniciar sesión",
