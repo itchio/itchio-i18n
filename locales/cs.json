@@ -295,5 +295,14 @@
             "interest_gamer": "Chci hrát nebo stahovat hry na itch.io",
             "interest_developer": "Chci distribuovat obsah na itch.io"
         }
+    },
+    "search": {
+        "published_count_0": "projekt",
+        "published_count_1": "projekty",
+        "published_count_2": "projektů",
+        "creators": "Tvůrci:"
+    },
+    "developers": {
+        "create_account_or_login": "<1>Vytvořit účet</1> <em>nebo</em> <2>Přihlásit se</2>"
     }
 }
