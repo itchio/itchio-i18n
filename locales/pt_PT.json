@@ -376,6 +376,9 @@
         "download_header": "Descarregar",
         "install_instructions": "Instruções de instalação",
         "more_information": "Mais informação",
-        "empty_page": "Parece que não há nada aqui..."
+        "empty_page": "Parece que não há nada aqui...",
+        "your_purchase_comes_with_a_steam_key": "A tua compra vem com uma chave Steam.",
+        "devlog_view_all_posts": "Ver todas as publicações",
+        "in_order_to_access": "Para aceder a este produto ({{noun}}) é necessário adquiri-lo ao preço mínimo de {{price}}."
     }
 }
