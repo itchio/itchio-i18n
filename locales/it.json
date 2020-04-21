@@ -247,7 +247,25 @@
             "project_url_field": "URL del progetto",
             "title_field": "Titolo",
             "edit_project_title": "Modifica progetto",
-            "create_a_new_project_title": "Crea un nuovo progetto"
+            "create_a_new_project_title": "Crea un nuovo progetto",
+            "visibility_access_header": "Visibilità & accesso",
+            "error_dialog": {
+                "title": "C'è un problema con il salvataggio del tuo progetto",
+                "confirm_button": "Capito"
+            },
+            "errors": {
+                "invalid_image": "Per favore modifica la tua immagine o prova con un'altra",
+                "invalid_file": "C'è un problema con il file che hai selezionato"
+            },
+            "cover_uploader": {
+                "upload_button": "Carica Immagine di Copertina",
+                "remove_image": "Rimuovi Immagine",
+                "replace_image": "Sostituisci Immagine di Copertina",
+                "cover_description": "L'immagine di copertina viene usata quando itch.io vuole fare un collegamento al tuo progetto da un'altra parte del sito. Richiesto (Minimo: 315x250, Racomandato: 630x500)",
+                "confirm_remove": "Sei sicuro di voler rimuovere l'immagine di copertina?"
+            },
+            "payment_warning_info": "Se imposti un prezzo minimo superiore a 0 nessuno potrà scaricare il tuo progetto. <a>Modifica account</a>",
+            "payment_warning_header": "Non hai configurato il pagamento"
         }
     }
 }
