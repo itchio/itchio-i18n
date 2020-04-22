@@ -294,7 +294,8 @@
             "about_you": "O Vás",
             "interest_gamer": "Chci hrát nebo stahovat hry na itch.io",
             "interest_developer": "Chci distribuovat obsah na itch.io",
-            "your_email_address": "Vaše emailová adresa"
+            "your_email_address": "Vaše emailová adresa",
+            "password": "Heslo"
         }
     },
     "search": {
