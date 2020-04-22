@@ -272,7 +272,8 @@
             "follow": "Potřebuješ účet na itch.io aby jsi mohl někoho sledovat.",
             "follow_username": "Potřebuješ účet na itch.io aby jsi mohl sledovat <1>{{username}}</1>.",
             "collection": "Potřebuješ itch.io účet abys mohl přidávat do kolekce.",
-            "recent_purchases": "Přihlaste se a propojte všechny nedávné nákupy."
+            "recent_purchases": "Přihlaste se a propojte všechny nedávné nákupy.",
+            "jam_submit": "Budete potřebovat účet na itch.io než se budete moct zúčastnit game jamu."
         },
         "no_account_prompt": "Nemáš účet? <1>Vytvořit účet</1>",
         "page_title": "Přihlásit se",
