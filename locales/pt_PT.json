@@ -395,7 +395,9 @@
                 "percent_off": "{{percent}}% de desconto",
                 "download": "Descarregar",
                 "send_gift": "Enviar presente",
-                "you_own_this": "Possuis isto"
+                "you_own_this": "Possuis isto",
+                "claimed": "Reivindicado",
+                "you_havent_sent_this_gift_to_anyone_yet": "Ainda não enviaste este presente para ninguém"
             },
             "related_games_short": "Relacionado",
             "related_games": "Jogos relacionados",
