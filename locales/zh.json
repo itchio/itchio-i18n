@@ -1,1 +1,68 @@
-{}
+{
+    "index": {
+        "view_all": "查看更多",
+        "with_demo": "有體驗版",
+        "top_sellers": "暢銷遊戲",
+        "free_games": "免費遊戲",
+        "on_sale": "正在促銷",
+        "browse_all_tags": "瀏覽所有標籤",
+        "search_games_creators": "搜尋遊戲或開發者",
+        "view_all_blog_posts": "檢視所有資訊",
+        "from_the_itchio_blog": "itch.io 官方部落格",
+        "get_the_app": "<s>在 itch.io 取得最佳體驗！</s> 使用我們提供的客戶端輕鬆安裝及管理遊戲",
+        "dont_see_anything_you_like": "沒找到有感興趣的內容?",
+        "view_all_games": "瀏覽所有遊戲",
+        "download_app": "下載客戶端",
+        "games_by_price": "按價格瀏覽遊戲",
+        "browse": "瀏覽",
+        "popular_tags": "熱門標籤"
+    },
+    "layout": {
+        "user_menu": {
+            "feed": "我的動態",
+            "library": "我的收藏庫",
+            "recommendations": "推薦",
+            "new_project": "上傳新的項目",
+            "sales_bundles": "促銷和組合包",
+            "host_game_jam": "發起 Game Jam",
+            "view_profile": "個人首頁",
+            "settings": "設定",
+            "log_out": "登出",
+            "account": "帳戶",
+            "create": "創作",
+            "explore": "探索"
+        },
+        "header": {
+            "indie_game_store": "獨立遊戲市集",
+            "games": "遊戲",
+            "game_assets": "資產",
+            "bundles": "組合包",
+            "sales": "促銷",
+            "comics": "漫畫",
+            "game_development": "遊戲開發",
+            "free_games": "免費遊戲",
+            "no_notifications": "沒有新的通知",
+            "notifications_count": "{{count}} 通知",
+            "jams": "比賽",
+            "register": "註冊",
+            "log_in": "登入",
+            "search": "搜尋",
+            "search_placeholder": "搜尋遊戲或開發者",
+            "community": "社群",
+            "devlogs": "開發日誌",
+            "upload_game": "上傳遊戲",
+            "browse_games": "探索遊戲",
+            "browse": "探索"
+        },
+        "footer": {
+            "cookies": "Cookies 政策",
+            "privacy": "隱私政策",
+            "directory": "網站地圖",
+            "terms": "服務條款",
+            "contact_us": "聯絡我們",
+            "blog": "部落格",
+            "faq": "常見問題",
+            "about": "關於"
+        }
+    }
+}
