@@ -7,7 +7,9 @@
             "blog": "Blogg",
             "contact_us": "Hafa samband",
             "terms": "Skilmálar",
-            "directory": "Efnisskrá"
+            "directory": "Efnisskrá",
+            "cookies": "Smákökur",
+            "privacy": "Persónuvernd"
         },
         "header": {
             "browse": "Skoða",
@@ -28,11 +30,35 @@
             "comics": "Myndasögur",
             "sales": "Sala",
             "fun_games": "Skemmtilegir leikir",
-            "games": "Leikir"
+            "games": "Leikir",
+            "game_assets": "Eignir",
+            "bundles": "Knippi",
+            "notifications_count": "{{count}} Tilkynning",
+            "notifications_count_plural": "{{count}} Tilkynningar",
+            "devlogs": "þróunarlogar"
         },
         "user_menu": {
             "explore": "Skoða",
-            "create": "Búa til"
+            "create": "Búa til",
+            "account_menu_tooltip": "Reikningsvalmynd",
+            "feed": "Fóðrið mitt",
+            "library": "Bókasafnið mitt",
+            "recommendations": "Tilmæli",
+            "game_jams": "Game Jams",
+            "dashboard": "Mælaborð",
+            "new_project": "Hladdu inn nýju verkefni",
+            "sales_bundles": "Sala og búnt",
+            "host_game_jam": "Gestgjafi Game Jam",
+            "view_profile": "Skoða prófíl",
+            "settings": "Stillingar",
+            "log_out": "Að skrá þig út",
+            "account": "Reikningur"
         }
+    },
+    "index": {
+        "download_app": "Sæktu app",
+        "games_by_price": "Leikir eftir verði",
+        "browse": "Flettu",
+        "popular_tags": "Vinsæl merki"
     }
 }
