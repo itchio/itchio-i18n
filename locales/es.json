@@ -387,7 +387,8 @@
         "download_now_button": "Descargar Ahora",
         "percent_off": "Descuento del <s>{{percent}}%</s>",
         "price_or_more": "{{price}} <s>o más</s>",
-        "development_log_header": "Registro de desarrollo"
+        "development_log_header": "Registro de desarrollo",
+        "devlog_view_all_posts": "Ver todas las publicaciones "
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
