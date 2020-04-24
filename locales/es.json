@@ -388,7 +388,8 @@
         "percent_off": "Descuento del <s>{{percent}}%</s>",
         "price_or_more": "{{price}} <s>o más</s>",
         "development_log_header": "Registro de desarrollo",
-        "devlog_view_all_posts": "Ver todas las publicaciones "
+        "devlog_view_all_posts": "Ver todas las publicaciones ",
+        "your_purchase_comes_with_a_steam_key": "Tu compra incluye una clave para Steam"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
