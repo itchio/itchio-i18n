@@ -9,6 +9,22 @@
         "action": "Aksiyon",
         "abstract": "Soyut",
         "8-bit": "8-Bit",
-        "animals": "Hayvan"
+        "animals": "Hayvanlar",
+        "creepy": "Ürkünç",
+        "cozy": "Rahat",
+        "controller": "Kontrolcü",
+        "comedy": "Komedi",
+        "co-op": "Kooperatif",
+        "classes": "Sınıflar",
+        "city-builder": "Şehir Kurucu",
+        "christmas": "Yılbaşı / Noel",
+        "chicken": "Tavuk",
+        "chess": "Satranç",
+        "character-customization": "Karakter Özelleştirme",
+        "casual": "Basit Eğlence",
+        "card-game": "Kart Oyunu",
+        "bullet-hell": "Bullet Hell",
+        "boss-battle": "Boss savaşı",
+        "automation": "Otomasyon"
     }
 }
