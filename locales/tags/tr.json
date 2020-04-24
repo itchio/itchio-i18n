@@ -25,6 +25,10 @@
         "card-game": "Kart Oyunu",
         "bullet-hell": "Bullet Hell",
         "boss-battle": "Boss savaşı",
-        "automation": "Otomasyon"
+        "automation": "Otomasyon",
+        "atmospheric": "Atmosferik",
+        "archery": "Okçuluk",
+        "arcade": "Arcade",
+        "anime": "Anime"
     }
 }
