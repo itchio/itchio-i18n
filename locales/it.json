@@ -20,7 +20,7 @@
             "community": "Community",
             "search_placeholder": "Cerca giochi o autori",
             "search": "Cerca",
-            "log_in": "Entra",
+            "log_in": "Accedi",
             "register": "Registrati",
             "jams": "Jams",
             "notifications_count": "{{count}} notifica",
@@ -266,6 +266,14 @@
             },
             "payment_warning_info": "Se imposti un prezzo minimo superiore a 0 nessuno potrà scaricare il tuo progetto. <a>Modifica account</a>",
             "payment_warning_header": "Non hai configurato il pagamento"
+        }
+    },
+    "app": {
+        "web_games_header": "Giochi offline per browser"
+    },
+    "user_login": {
+        "intent": {
+            "claim_object": "Per favore accedi o crea un account per riscattare il {{noun}}."
         }
     }
 }
