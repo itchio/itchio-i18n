@@ -1,6 +1,13 @@
 {
     "tags": {
         "3d": "3 Boyutlu",
-        "2d": "2 Boyutlu"
+        "2d": "2 Boyutlu",
+        "aliens": "Uzaylılar",
+        "adventure": "Macera",
+        "action-rpg": "Aksiyon RPG",
+        "action-adventure": "Aksiyon-Macera",
+        "action": "Aksiyon",
+        "abstract": "Soyut",
+        "8-bit": "8-Bit"
     }
 }
