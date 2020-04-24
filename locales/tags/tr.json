@@ -29,6 +29,9 @@
         "atmospheric": "Atmosferik",
         "archery": "Okçuluk",
         "arcade": "Arcade",
-        "anime": "Anime"
+        "anime": "Anime",
+        "boring": "Sıkıcı",
+        "board-game": "Masa Oyunu",
+        "black-and-white": "Siyah Beyaz"
     }
 }
