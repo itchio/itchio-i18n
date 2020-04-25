@@ -379,7 +379,8 @@
             "rating": "Calificación",
             "release_date": "Fecha de publicación",
             "publisher": "Editor",
-            "platforms": "Plataformas"
+            "platforms": "Plataformas",
+            "asset_license": "Licencia de assets"
         },
         "community_sticky": "Fijado",
         "more_information": "Más información",
