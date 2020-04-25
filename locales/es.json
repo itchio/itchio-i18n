@@ -267,7 +267,7 @@
             "recent_purchases": "Accede para enlazar las compras hechas recientemente.",
             "claim_object_title": "Por favor, inicie sesión o crea una cuenta para reclamar {{título}}."
         },
-        "no_account_prompt": "¿No tienes cuenta? <1>Crear una cuenta</1>",
+        "no_account_prompt": "¿No tienes una cuenta? <1>Crear una cuenta</1>",
         "page_title": "Iniciar sesión",
         "you_are_logged_out": "Has cerrado sesión",
         "welcome_back": "¡Bienvenido de nuevo!",
@@ -357,13 +357,29 @@
     },
     "game": {
         "comments": {
-            "write_your_comment": "Escribe tu comentario…"
+            "write_your_comment": "Escribe tu comentario…",
+            "post_comment": "Publicar comentario",
+            "log_in_to_leave_comment": "<a>Inicia sesión con itch.io</a> para dejar un comentario.",
+            "click_to_leave_a_comment": "Haz clic para dejar un comentario...",
+            "leave_a_comment": "Deja un comentario",
+            "leave_a_comment_header": "Deja un comentario",
+            "comments_header": "Comentarios"
         },
         "info_panel": {
             "updated_at": "Actualizado",
             "published_at": "Publicado",
             "release_status": "Estado",
-            "category": "Categoría"
+            "category": "Categoría",
+            "code_license": "Licencia",
+            "tags": "Etiquetas",
+            "made_with_tools": "Hecho con",
+            "genre": "Género",
+            "author": "Autor",
+            "authors": "Autores",
+            "rating": "Calificación",
+            "release_date": "Fecha de publicación",
+            "publisher": "Editor",
+            "platforms": "Plataformas"
         },
         "community_sticky": "Fijado",
         "more_information": "Más información",
@@ -390,7 +406,10 @@
         "development_log_header": "Registro de desarrollo",
         "devlog_view_all_posts": "Ver todas las publicaciones ",
         "your_purchase_comes_with_a_steam_key": "Tu compra incluye una clave para Steam",
-        "steam_key_bundle_disclaimer": "(Nota: Código de Steam no incluido en {{bundle_title}})"
+        "steam_key_bundle_disclaimer": "(Nota: Código de Steam no incluido en {{bundle_title}})",
+        "empty_page_no_uploads": "El creador no ha publicado nada todavía...",
+        "donate_button": "Apoya Este {{noun}}",
+        "in_order_to_access": "Para acceder a este {{noun}} debes comparlo al precio mínimo de {{price}} o más."
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
