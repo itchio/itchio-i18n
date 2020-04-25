@@ -106,7 +106,7 @@
         "page_title": "최신 인디 게임들을 다운로드하세요",
         "meta_description": "itch.io에서는 인디 게임들을 쉽게 찾고, 다운로드하고, 배포할 수 있습니다. 당신의 게임을 올리려고 하는 개발자이든, 새로운 즐길거리를 찾고 있는 누군가이든, itch.io가 여러분을 위해 있습니다.",
         "to_follow": {
-            "refresh_button": "더 보려면 새로고침해주세요...",
+            "refresh_button": "더 보려면 새로고침",
             "dismiss_tooltip": "더 이상 추천하지 않기",
             "created_projects": "{{project_list}} 생성함",
             "empty_results": "지금은 추천해 드릴 게임이 없습니다. 다음에 다시 확인해 주세요"
