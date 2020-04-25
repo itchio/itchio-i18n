@@ -112,7 +112,7 @@
         "to_follow": {
             "created_projects": "Автор {{project_list}}",
             "empty_results": "Сейчас ничего не можем порекомендовать. Зайдите попозже",
-            "refresh_button": "Показать других...",
+            "refresh_button": "Показать других",
             "dismiss_tooltip": "Больше не предлагать"
         }
     },
@@ -650,14 +650,14 @@
         "no_thanks_just_take_me_to_the_downloads": "Нет спасибо, давайте сразу к скачиванию",
         "includes_steam_key": "Вы получите ключ для активации в Steam вместе с покупкой.",
         "preorder_this_product_by_purchasing_it_for": "Предзакажите этот продукт, заплатив {{price}} или больше.",
-        "download_this_product_by_purchasing_it_for": "Скачайте этот продукт, заплатив {{price}} или больше.",
+        "download_this_product_by_purchasing_it_for": "Получите этот продукт, заплатив {{price}} или больше.",
         "your_email_address": "Ваш email адрес",
         "email_address_description": "Туда будет выслано подтверждение вашей покупки",
         "gift_email_instructions": "Вы можете выбрать email, на который отправить подарок, после оплаты",
-        "i_already_paid_for_this": "Я уже заплатил за это...",
+        "i_already_paid_for_this": "Я уже платил за это...",
         "included_files": "Включённые файлы",
         "agree_to_terms": "Совершая платёж, вы соглашаетесь с <1>Условиями использования</1> и <2>Политикой приватности</2> itch.io.",
-        "this_purchase_is_a_gift": "Это приобретение в подарок",
+        "this_purchase_is_a_gift": "Хочу купить в подарок",
         "support_the_creator_by_paying_above_the_minimum_price": "Поддержите создателя, заплатив выше минимальной цены",
         "support_the_creator_with_an_additional_contribution": "Поддержите создателя дополнительным пожертвованием",
         "pay_with": "Заплатить с помощью",
@@ -907,8 +907,8 @@
         "get_external_key": "Получить ключ {{key_type}}",
         "claim_external_key": "Забрать ключ {{key_type}}",
         "claim_external_key_instructions": "Нажмите кнопку, чтобы получить ключ.",
-        "payment_comes_with_key": "Ваше приобретение будет с ключом {{key_type}}!",
-        "access_comes_with_key": "Ваше приобретение поставляется с ключом {{key_type}}!",
+        "payment_comes_with_key": "Покупка включает в себя ключ {{key_type}}!",
+        "access_comes_with_key": "В доступ также входит ключ {{key_type}}!",
         "access_it": "Получить доступ",
         "email_capture": {
             "dont_lose_your_purchase": "Не потеряйте свою покупку!",
@@ -926,10 +926,10 @@
             "unique_url_for_your_payment": "У этой страницы есть уникальная ссылка с вашим платежом.",
             "access_latest_files_from_this_page": "Вы всегда сможете скачать файлы последних версий с этой страницы.",
             "receipt_support_information": "Вам также должно прийти email со ссылкой на эту страницу. Если вы вдруг потеряете ссылку, вы можете запросить отправить её повторно на email через нашу <a>форму обратной связи</a>.",
-            "payment_summary": "Вы заплатили за это {{payment_date}} за {{payment_price}}.",
+            "payment_summary": "Вы заплатили за это {{payment_price}} {{payment_date}}.",
             "percent_off": "Скидка {{percent}}%",
             "linked_user_message": "Эта покупка закреплена за аккаунтом {{username}}.",
-            "payment_summary_with_email": "Вы заплатили за это {{payment_date}} {{payment_price}}, указав email {{email_address}}."
+            "payment_summary_with_email": "Вы заплатили за это {{payment_price}} {{payment_date}}, указав email {{email_address}}."
         }
     },
     "jam": {
