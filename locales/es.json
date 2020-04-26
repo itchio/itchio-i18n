@@ -414,7 +414,7 @@
         "in_order_to_access": "Para acceder a este {{noun}} debes comparlo al precio mínimo de {{price}} o más.",
         "layout": {
             "ownership": {
-                "you_own_this": "Eres dueño de esto"
+                "you_own_this": "Ya tienes esto"
             },
             "view_all_by_name": "Ver los juegos de {{name}}"
         }
