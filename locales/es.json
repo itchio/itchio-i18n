@@ -411,7 +411,13 @@
         "steam_key_bundle_disclaimer": "(Nota: Código de Steam no incluido en {{bundle_title}})",
         "empty_page_no_uploads": "El creador no ha publicado nada todavía...",
         "donate_button": "Apoya Este {{noun}}",
-        "in_order_to_access": "Para acceder a este {{noun}} debes comparlo al precio mínimo de {{price}} o más."
+        "in_order_to_access": "Para acceder a este {{noun}} debes comparlo al precio mínimo de {{price}} o más.",
+        "layout": {
+            "ownership": {
+                "you_own_this": "Ya tienes esto"
+            },
+            "view_all_by_name": "Ver los juegos de {{name}}"
+        }
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
