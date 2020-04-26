@@ -110,7 +110,7 @@
         "to_follow": {
             "created_projects": "{{project_list}} erstellt",
             "empty_results": "Wir haben derzeit keine weiteren Vorschläge. Schaue später noch einmal nach",
-            "refresh_button": "Aktualisieren für mehr...",
+            "refresh_button": "Aktualisieren für mehr",
             "dismiss_tooltip": "Nicht mehr vorschlagen"
         }
     },
@@ -263,8 +263,9 @@
             "follow_username": "Du brauchst einen itch.io-Account, bevor du <1>{{username}}</1> folgen kannst.",
             "collection": "Du brauchst einen itch.io-Account, bevor du einer Sammlung etwas hinzufügen kannst.",
             "jam_submit": "Du brauchst einen itch.io-Account, bevor du an einem Game Jam teilnehmen kannst.",
-            "claim_object": "Logge dich ein oder erstelle einen Account, um {{noun}} zu beanspruchen",
-            "recent_purchases": "Logge dich ein, um kürzlich getätigte Einkäufe mit deinem Benutzerkonto zu verknüpfen."
+            "claim_object": "Bitte melde dich an oder erstelle einen Account, um {{noun}} zu beanspruchen.",
+            "recent_purchases": "Logge dich ein, um kürzlich getätigte Einkäufe mit deinem Benutzerkonto zu verknüpfen.",
+            "claim_object_title": "Bitte melde dich an oder erstelle einen Account um {{title}} zu beanspruchen."
         },
         "no_account_prompt": "Du hast keinen Account? <1>Erstelle einen Account</1>",
         "page_title": "Anmelden",
