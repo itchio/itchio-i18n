@@ -417,6 +417,9 @@
                 "you_own_this": "Ya tienes esto"
             },
             "view_all_by_name": "Ver los juegos de {{name}}"
+        },
+        "report_form": {
+            "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
         }
     },
     "game_download": {
