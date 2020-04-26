@@ -380,7 +380,8 @@
             "release_date": "Fecha de publicación",
             "publisher": "Editor",
             "platforms": "Plataformas",
-            "asset_license": "Licencia de assets"
+            "asset_license": "Licencia de assets",
+            "languages": "Idiomas"
         },
         "community_sticky": "Fijado",
         "more_information": "Más información",
