@@ -1,1 +1,7 @@
-{}
+{
+    "layout": {
+        "footer": {
+            "blog": "Blag"
+        }
+    }
+}
