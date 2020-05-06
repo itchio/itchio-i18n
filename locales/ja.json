@@ -491,7 +491,7 @@
             "percent_off": "{{percent}}％オフ",
             "link_purchase_links": "ご購入の商品をアカウントにリンクするにはまず<1>アカウントを作成</1>または<2>itch.ioにログイン</2>しましょう。",
             "thank_you_for_donating": "『{{product_title}}』へのご支援をありがとうございます。",
-            "thank_you_for_donating_author": "  {{author}}の作品『{{product_title}}』へのご支援ありがとうございます。",
+            "thank_you_for_donating_author": "{{author}}の作品『{{product_title}}』へのご支援ありがとうございます。",
             "youve_been_gifted": "『{{product_title}}』が贈られました。",
             "link_purchase_warning": "ご購入の商品をなくさないようにしてください！",
             "payment_summary_with_email": "{{email_address}}のメールアドレスで {{payment_date}}に {{payment_price}} を支払いました。",
