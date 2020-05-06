@@ -893,8 +893,8 @@
             "additional_emails_header": "追加メールアドレス",
             "change_password_instructions": "メールアドレスが変更されましたら、新しいメールの認証が終わるまで購入済みのゲームにアクセスできなくなります。認証方法はメールに送信されます。セキュリティ上の理由により、メールアドレスの変更に現在のパスワードが求められます。",
             "additional_emails": {
-                "email_sent_status": "メールを頂けました",
-                "email_column": "メール",
+                "email_sent_status": "送信済みのメール",
+                "email_column": "メールアドレス",
                 "detach_email": "メールアドレスの関連付けを切る",
                 "resend_verification_email_button": "認証メールを再送する",
                 "verified_column": "認証済み",
@@ -985,7 +985,7 @@
                 "confirm_button": "了解",
                 "title": "プロジェクトの保存時に問題が発生しました"
             },
-            "classification_field_description": "何をアップしますか？",
+            "classification_field_description": "アップロードするものは何ですか？",
             "community_discussion_board_info": "カテゴリー、スレッド、返信などを備えた専用のコミュニティページを追加します",
             "community_comments_info": "プロジェクトページの下部に入れ子状のコメントスレッドを追加します",
             "community_field_info": "ページに投稿できるようにして、プロジェクトのコミュニティを作ってみましょう。",
@@ -1030,7 +1030,7 @@
                 "width": "幅",
                 "viewport_dimensions": "Viewportのディメンション"
             },
-            "embed_options_header": "埋め込み設定",
+            "embed_options_header": "埋め込みオプション",
             "visibility_access_info": "公開前に確認したい場合には、下書きを選びましょう。<a>アクセスモードに関する詳細はこちら</a>",
             "visibility_access_header": "公開範囲とアクセス",
             "errors": {
@@ -1050,7 +1050,7 @@
             "instructions_field_info2": "ライブラリや他のプログラムのインストールが必要なゲームの場合、まずはその情報を記載しておきましょう",
             "description_field_description": "これがゲームページの内容になります。",
             "short_description_field_description": "プロジェクトへのリンクに表示されます。タイトルとの重複は避けましょう",
-            "classification_field": "分類"
+            "classification_field": "種類"
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
@@ -1067,7 +1067,7 @@
             "edit_comments": "コメントを編集",
             "discussion_board": "掲示板",
             "admins": "管理者",
-            "more": "もっと",
+            "more": "その他",
             "rewards": "報酬",
             "interact": "インタラクト",
             "distribute": "配布する"
@@ -1112,7 +1112,7 @@
                 "empty_message": "まだ誰もコメントしていません"
             },
             "link_to_itchio_page": "{{game_title}}のitch.ioページ",
-            "play_game": "ゲームをする",
+            "play_game": "プレイ",
             "ranked_from_count": "<s>{{count}}件の評価</s>をもとに順位付け。",
             "ranked_from_count_plural": "<s>{{count}}件の評価</s>をもとに順位付け。",
             "run_project": "プロジェクトを実行",
@@ -1246,7 +1246,7 @@
     },
     "library": {
         "download_button": "ダウンロード",
-        "view_all_link": "全部の何かを見る",
+        "view_all_link": "全て見る",
         "rate_game": {
             "you_rated_this_project_ago": "{{time_ago}}にこのプロジェクトを評価しました。",
             "rate_header": "{{project_title}}を評価&レビュー",
@@ -1277,7 +1277,7 @@
     },
     "feed": {
         "my_feed_tab": "マイフィード",
-        "filter_everything_tab": "全部",
+        "filter_everything_tab": "全て",
         "event": {
             "collection_added_count": "{{count}}個のアイテムを追加しました。",
             "collection_summary": "{{count}}個のアイテムを含むコレクション。"
