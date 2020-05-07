@@ -569,7 +569,8 @@
             "subscribe_to_this_topic": "订阅此主题",
             "subscribe_description": "获取有关该主题的新回复的通知",
             "tag_header": "标签",
-            "remove_tag": "删除标签"
+            "remove_tag": "删除标签",
+            "post_reply": "发表回复"
         },
         "new_topic": {
             "moderator_tools": "管理员工具",
