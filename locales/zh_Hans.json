@@ -528,7 +528,8 @@
             "first_page": "第一页",
             "last_page": "最后一页",
             "this_topic_is_locked": "此主题已锁定",
-            "this_topic_was_locked_by_username": "此主题已被 {{username}} 锁定"
+            "this_topic_was_locked_by_username": "此主题已被 {{username}} 锁定",
+            "topic_is_autoarchived": "由于一段时间内并没有收到任何回复，这个主题帖已被自动归档且无法再回复。"
         },
         "post_list": {
             "deleted_post": "已删除的帖子",
