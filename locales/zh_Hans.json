@@ -104,7 +104,7 @@
         "from_the_blog": "博客",
         "from_the_itchio_blog": "itch.io 博客",
         "page_title": "下载最新的独立游戏",
-        "meta_description": "itch.io 为您提供了一个方便快捷地在线查找、下载与发布独立游戏的平台。无论您是想要发布游戏的开发者，还是只是想寻找新游戏的玩家，itch.io 都能满足您的需求。",
+        "meta_description": "itch.io 为您提供了一个方便快捷的在线寻找、下载与发布独立游戏的平台。无论您是想要发布游戏的开发者，或是只想寻找新游戏的玩家，itch.io 都能满足您的需求。",
         "to_follow": {
             "created_projects": "已创建{{project_list}}",
             "empty_results": "我们现在没有任何其他推荐。请稍后再试",
@@ -500,7 +500,11 @@
             "reason_other": "其他",
             "report_received_header": "举报已提交",
             "support_from_creator": "你有麻烦吗？ 您需要创作者的支持吗？",
-            "form_description": "如果你需要就本页内容联系 itch.io 管理团队，请将本表格填写完整。如果必要，你的报告可能会与该页面的创建者共享。"
+            "form_description": "如果你需要就本页内容联系 itch.io 管理团队，请将本表格填写完整。如果必要，你的报告可能会与该页面的创建者共享。",
+            "title": "报告 “{{page_title}}”"
+        },
+        "password_required": {
+            "header": "需要密码才能查看这个页面"
         }
     },
     "community": {
@@ -554,7 +558,8 @@
             "suspended_account": "暂停的帐户",
             "pinned_reply": "置顶回复",
             "pinned_post": "置顶贴子",
-            "post_from_suspended_account": "来自已停用账户的帖子"
+            "post_from_suspended_account": "来自已停用账户的帖子",
+            "edited": "(已编辑)"
         },
         "post_form": {
             "add_profile_image": "设置头像",
