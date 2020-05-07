@@ -258,6 +258,11 @@
         "top-down-shooter": "俯视角射击",
         "top-down-adventure": "俯视角冒险",
         "kickstarter": "众筹",
-        "spoopy": "诡异"
+        "spoopy": "诡异",
+        "tilemap": "基于图块的工具",
+        "loot": "战利品",
+        "drm-free": "无 DRM",
+        "classes": "类别",
+        "8-bit": "8位机"
     }
 }
