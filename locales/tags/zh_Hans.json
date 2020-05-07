@@ -249,6 +249,14 @@
         "dystopian": "反乌托邦",
         "economy": "经济",
         "educational": "教育",
-        "endless": "无尽"
+        "endless": "无尽",
+        "pvp": "PvP",
+        "flappy-bird": "Flappy Bird",
+        "mmorpg": "MMORPG",
+        "crafting": "创造",
+        "episodic": "章节式",
+        "top-down-shooter": "俯视角射击",
+        "top-down-adventure": "俯视角冒险",
+        "kickstarter": "众筹"
     }
 }
