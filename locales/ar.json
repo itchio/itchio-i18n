@@ -15,13 +15,13 @@
             "browse": "تصفح",
             "browse_games": "تصفح الألعاب",
             "game_jams": "كوم الألعاب",
-            "upload_game": "إرفع لعبة",
+            "upload_game": "ارفع لعبة",
             "devlogs": "سجلات التطوير",
             "community": "المجتمع",
-            "search_placeholder": "إبحث عن ألعاب أو مطورين",
-            "search": "ابحث",
+            "search_placeholder": "البحث عن ألعاب أو مطورين",
+            "search": "البحث",
             "log_in": "تسجيل الدخول",
-            "register": "إنشاء حساب",
+            "register": "انشاء حساب",
             "dashboard": "لوحة المراقبة",
             "jams": "الكوم",
             "no_notifications": "لا إشعارات جديدة",
@@ -50,12 +50,12 @@
         },
         "user_menu": {
             "explore": "تصفح",
-            "create": "إنشاء",
+            "create": "انشاء",
             "account": "الحساب",
             "log_out": "تسجيل الخروج",
             "settings": "الاعدادات",
             "view_profile": "عرض الحساب",
-            "host_game_jam": "قم بإستضافة كوم الالعاب",
+            "host_game_jam": "قم باستضافة كوم للألعاب",
             "sales_bundles": "المبيعات والعروض",
             "new_project": "ارفع مشروعًا جديدًا",
             "dashboard": "لوحة المراقبة",
@@ -78,7 +78,7 @@
         "random_game": "لعُبة عشوائية",
         "from_the_itchio_blog": "من مدونة itch.io",
         "view_all_blog_posts": "عرض كل التحديثات",
-        "search_games_creators": "ابحث في الألعاب والمطورين",
+        "search_games_creators": "البحث عن الألعاب أو المطورين",
         "browse_all_tags": "تصفح كل العلامات",
         "on_sale": "تُباع",
         "free_games": "العاب مجانية",
@@ -98,9 +98,9 @@
         "game_dev_on_sale": "موارد تطوير الألعاب <1>المعروضة للبيع</1>",
         "view_all_on_sale": "عرض كل المعروض للبيع",
         "get_the_app": "<s>احصل على أقصى استفادة من itch.io!</s> قم بتثبيت ألعابك وإدارتها من خلال تطبيق سطح المكتب",
-        "people_to_follow_description": "هاهي بعض الحسابات التي ربما تكون مهتمًا بمتابعتها. <a>لماذا تتابعهم؟</a>",
+        "people_to_follow_description": "هاهي بعض الحسابات التي ربما تكون مهتمًا بمتابعتها. <a>لماذا ستتابعهم؟</a>",
         "latest_featured_games": "احدث الألعاب المميزة",
-        "filtering_platform": "فلتر كل الألعاب طيقًا ل{{platform_name}}",
+        "filtering_platform": "فلتر كل الألعاب طبقًا ل{{platform_name}}",
         "view_all_platforms": "عرض كل المنصات",
         "browse_content_type": "تصفح {{content_type}}",
         "nav": {
@@ -115,10 +115,10 @@
         "html5_games": "ألعاب HTML5",
         "page_title": "تحميل احدث الألعاب المستقلة",
         "to_follow": {
-            "refresh_button": "تحديث للمزيد...",
+            "refresh_button": "حدث الصفحة للمزيد",
             "dismiss_tooltip": "لا تقترح المزيد",
-            "created_projects": "أنشئت {{project_list}}",
-            "empty_results": "ليس لدينا أي إقتراحات حاليًا. تحقق فى وقت لاحق"
+            "created_projects": "لقد أنشأت {{project_list}}",
+            "empty_results": "ليس لدينا أي إقتراحات حاليًا. تحقق في وقت لاحق"
         },
         "meta_description": "itch.io هي طريقة بسيطة لإيجاد وتحميل وتوزيع الألعاب المستقلة عبر الإنترنت. سواء كنت مطورًا يتطلع إلى رفع لعبته أو مجرد شخص يبحث عن شيء جديد لتجربته. ستجد ما تُريده."
     },
@@ -141,7 +141,7 @@
             "highcontrast": "تباين عالي",
             "tutorial": "برنامج تعليمي تفاعلي",
             "one_button": "زر واحد",
-            "blind": "مناسب للعمي",
+            "blind": "مناسب لفاقدي النظر",
             "textless": "من غير كلام"
         },
         "inputs": {
@@ -161,7 +161,7 @@
             "save": "حفظ",
             "email_address": "البريد الإلكتروني",
             "submit": "تقديم",
-            "optional": "إختياري",
+            "optional": "اختياري",
             "search": "البحث",
             "form_errors": "من فضلك تحقق من المعلومات المُقدمة"
         },
@@ -182,8 +182,8 @@
         "follow_button": {
             "follow_username": "تابع {{username}}",
             "follow": "تابع",
-            "following_username": "تُتابع {{username}}",
-            "following": "تُتابعه",
+            "following_username": "انت تتابع {{username}}",
+            "following": "انت تتابعه",
             "unfollow_username": "إلغاء متابعة {{username}}",
             "unfollow": "إلغاء المتابعة"
         },
@@ -247,7 +247,7 @@
         "all_posts": "كل المنشورات",
         "updates": "التحديثات",
         "digest": "ملخص",
-        "empty_message": "لا يبدو انه يوجد اية منشورات هنا",
+        "empty_message": "لا يبدو أنه يوجد أية منشورات هنا",
         "tag_filter": "فلترة إلى {{tag}}. <a>محو العلامة</a>"
     },
     "user_login": {
@@ -271,8 +271,9 @@
             "follow_username": "ستحتاج حساب علي itch.io قبل متابعتك ل<1>{{username}}</1>.",
             "collection": "تحتاج إلي حساب علي itch.io قبل إمكانية الإضافة إلي مجموعة.",
             "jam_submit": "تحتاج إلي حساب علي itch.io قبل إمكانية التقديم إلي إحدي الكوم.",
-            "claim_object": "من فضلك سجل الدخول أو قم بإنشاء حساب لكي تحصل علي {{noun}}",
-            "recent_purchases": "سجل الدخول لكي تربط إي مشتريات قمت بطلبها."
+            "claim_object": "من فضلك سجل الدخول أو قم بإنشاء حساب لكي تحصل علي {{noun}}.",
+            "recent_purchases": "سجل الدخول لكي تربط إي مشتريات قمت بطلبها.",
+            "claim_object_title": "من فضلك سجل الدخول أو أنشئ حساب للحصول علي {{title}}."
         },
         "no_account_prompt": "ليس لديك حساب؟ <1>أنشئ حسابًا</1>",
         "page_title": "تسجيل الدخول",
@@ -962,8 +963,12 @@
             "view_entries_4": "عرض {{count}} تقديمات",
             "view_entries_5": "عرض {{count}} تقديمات",
             "countdown": {
-                "starts_in": "يبدأ فى"
-            }
+                "starts_in": "يبدأ فى",
+                "voting_ends_in": "ينتهي التصويت في",
+                "submissions_due_in": "تُسلم الطلبات في"
+            },
+            "you_can_now_rate_entries": "يمكن الأن تقييم المشتركيين من <a>صفحة التقديمات</a>",
+            "submission_is_closed_for_voting": "اغلق التقديم والتصويت جاري الأن"
         },
         "results": {
             "results": "النتائج"
@@ -979,6 +984,11 @@
             "joined": "انضموا",
             "entries": "الإدخالات",
             "ratings": "التقييمات"
+        },
+        "submissions": {
+            "submissions_will_be_available_after_the_jam_has_ended": "ستتوفر التقديمات بعد انتهاء ال",
+            "there_were_no_submissions": "لم يكن هناك تقديمات",
+            "there_are_no_submissions_yet": "ليس هناك تقديمات بعد"
         }
     },
     "collection": {
