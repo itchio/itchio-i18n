@@ -275,5 +275,26 @@
         "intent": {
             "claim_object": "Per favore accedi o crea un account per riscattare il {{noun}}."
         }
+    },
+    "buy_form": {
+        "included_files": "File inclusi",
+        "i_already_paid_for_this": "Questo l'ho già pagato...",
+        "gift_email_instructions": "Potrai scegliere un'email a cui inviare il regalo dopo che avrai pagato",
+        "email_address_description": "La conferma del pagamento verrà inviata qui",
+        "your_email_address": "Il tuo indirizzo email",
+        "download_this_product_by_purchasing_it_for": "Scarica questo prodotto aquistandolo per {{price}} o più.",
+        "preorder_this_product_by_purchasing_it_for": "Preordina questo prodotto aquistandolo per {{price}} o più.",
+        "includes_steam_key": "Riceverai una chiave di Steam con il tuo acquisto.",
+        "no_thanks_just_take_me_to_the_downloads": "No grazie, portami solo ai download",
+        "free_pay_what_you_want": "Questo progetto è gratis ma il suo creatore accetta il tuo sostegno premettendoti di pagare quanto credi sia giusto.",
+        "buy_as_bundle_plural": "Puoi acquistare questo prodotto come parte del pacchetto di {{count}} oggetti per {{price}}:",
+        "also_buy_as_bundle_plural": "Puoi anche acquistare questo prodotto come parte del pacchetto di {{count}} oggetti per {{price}}:",
+        "percent_off_until": "Tutti gli acquisti sono in sconto del <s>{{rate}}%</s> fino al {{end_date}}.",
+        "support_message": "Donando sostieni lo sviluppo del progetto",
+        "on_sale_notice": "Questo prodotto è in sconto.",
+        "sold_out_notice": "Questo prodotto è al momento esaurito, controlla più tardi.",
+        "preorder_title": "Preordina '{{title}}'",
+        "buy_title": "Acquista '{{title}}'",
+        "download_title": "Scarica '{{title}}'"
     }
 }
