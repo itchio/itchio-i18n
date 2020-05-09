@@ -7,7 +7,9 @@
             "blog": "Blogi",
             "contact_us": "Ota yhteyttä",
             "directory": "Sivukartta",
-            "terms": "Käyttöehdot"
+            "terms": "Käyttöehdot",
+            "cookies": "Evästeet",
+            "privacy": "Yksityisyys"
         },
         "header": {
             "browse": "Selaa",
@@ -30,7 +32,13 @@
             "fun_games": "Hauskat pelit",
             "games": "Pelit",
             "game_jams": "Game Jamit",
-            "feed": "Syöte"
+            "feed": "Syöte",
+            "feed_unseen_count": "{{count}} uusi",
+            "feed_unseen_count_plural": "{{count}} uudet",
+            "game_assets": "Käyttövälineet",
+            "notifications_count": "{{count}} ilmoitus",
+            "notifications_count_plural": "{{count}} ilmoitukset",
+            "devlogs": "Kehityslokit"
         },
         "user_menu": {
             "explore": "Tutki",
@@ -46,7 +54,8 @@
             "game_jams": "Pelijamit",
             "recommendations": "Suositukset",
             "library": "Kirjasto",
-            "feed": "Syöte"
+            "feed": "Syöte",
+            "account_menu_tooltip": "Tilivalikko"
         }
     },
     "index": {
@@ -85,12 +94,25 @@
         "nav": {
             "all_games": "Kaikki pelit",
             "bundles": "Paketit",
-            "game_jams": "Pelijamit"
+            "game_jams": "Pelijamit",
+            "community": "Yhteisö",
+            "devlogs": "Kehittäjälokit"
         },
         "intro": "<s>itch.io</s> on yksinkertainen tapa löytää ja jakaa indiepelejä ilmaiseksi.",
         "intro_cta": "<1>Lisää pelisi</1> tai <2>Tutustu UKK:iin</2>",
         "html5_games": "HTML5-pelit",
-        "with_demo": "Demo saatavilla"
+        "with_demo": "Demo saatavilla",
+        "to_follow": {
+            "dismiss_tooltip": "Älä anna enempää ehdotuksia",
+            "refresh_button": "Virkistä sivu nähdäksesi enemmän",
+            "empty_results": "Tällä hetkellä enempää suosituksia ei ole tarjolla. Tarkista myöhemmin uudestaan",
+            "created_projects": "Luotu {{project_list}}"
+        },
+        "meta_description": "itch.io tarjoaa helpon tavan löytää, ladata ja jaella itsenäisiä indie-pelejä verkossa. Olet sitten kehittäjä joka etsii mahdollisuutta ladata pelinsä tarjolle tai yksinkertaisesti joku joka etsii jotakin uutta pelattavaa, itch.io on oikea paikka.",
+        "page_title": "Lataa viimeisimpiä itsenäisesti kehitettyjä indie-pelejä",
+        "game_dev_on_sale": "Resurssit pelikehittäjille <1>Alennusmyynnissä</1>",
+        "people_to_follow": "Ihmisiä seurattavaksi",
+        "fresh_games_description": "Päivittyvät jatkuvasti viimeisimpien pelien kera itch.io:ssa"
     },
     "misc": {
         "classifications": {
@@ -138,6 +160,58 @@
             "hour": "Noin tunti",
             "hours": "Muutama tunti",
             "days": "Päivä tai enemmän"
+        },
+        "countdown": {
+            "minutes": "minuutit",
+            "hours": "tunnit",
+            "days": "päivät",
+            "months": "kuukaudet",
+            "years": "vuodet"
+        },
+        "lightboxes": {
+            "close": "Sulje"
+        },
+        "collection_button": {
+            "add_to_collection": "Lisää kokoelmaan"
+        },
+        "pager": {
+            "first_page": "Ensimmäinen sivu",
+            "previous_page": "Edellinen sivu",
+            "current_page_of_total": "Sivu {{current_page}} of {{total_pages}}",
+            "next": "Seuraava",
+            "prev": "Edellinen",
+            "next_page": "Seuraava sivu"
+        },
+        "filter_price": {
+            "paid": "Maksettu",
+            "on_sale": "Alennusmyynnissä",
+            "free": "Ilmaiset"
+        },
+        "platforms": {
+            "web": "Verkko"
+        },
+        "filter_when": {
+            "last_30_days": "Viimeiset 30 päivää",
+            "last_7_days": "Viimeiset 7 päivää",
+            "last_day": "Edellinen päivä"
+        },
+        "follow_button": {
+            "unfollow": "Lopeta seuraaminen",
+            "unfollow_username": "Lopeta seuraaminen {{username}}",
+            "following": "Seurataan",
+            "following_username": "Seurataan {{username}}",
+            "follow": "Seuraa",
+            "follow_username": "Seuraa {{username}}"
+        },
+        "page_number": "Sivu {{page_number}}",
+        "forms": {
+            "form_errors": "Tarkista syöttämäsi tiedot",
+            "search": "Etsi",
+            "optional": "Vaihtoehtoinen",
+            "submit": "Lähetä",
+            "email_address": "Sähköpostiosoite",
+            "save": "Tallenna",
+            "required": "Vaadittu"
         }
     },
     "blog": {
