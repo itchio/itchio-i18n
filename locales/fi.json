@@ -166,7 +166,8 @@
             "hours": "tunnit",
             "days": "päivät",
             "months": "kuukaudet",
-            "years": "vuodet"
+            "years": "vuodet",
+            "seconds": "sekunnit"
         },
         "lightboxes": {
             "close": "Sulje"
@@ -212,12 +213,34 @@
             "email_address": "Sähköpostiosoite",
             "save": "Tallenna",
             "required": "Vaadittu"
+        },
+        "loading_more_ellip": "Ladataan lisää…",
+        "more_ellip": "Lisää…",
+        "errors": {
+            "server_error": "Palvelin ei vastannut, yritä myöhemmin uudestaan"
+        },
+        "release_statuses": {
+            "prototype": "Prototyyppi",
+            "canceled": "Keskeytetty",
+            "on_hold": "Pidossa",
+            "in_development": "Kehityksen alaisena",
+            "released": "Julkaistut"
+        },
+        "dismiss": "Hylkää",
+        "view_more": "Näytä lisää",
+        "project_visibility": {
+            "public": "Julkinen",
+            "draft": "Vedos",
+            "published": "Julkaistu",
+            "restricted": "Rajoitetut"
         }
     },
     "blog": {
         "all_posts": "Kaikki postaukset",
         "updates": "Päivitykset",
-        "digest": "Yhteenveto"
+        "digest": "Yhteenveto",
+        "tag_filter": "Rajataan näihin {{tag}}. <a>Poista tunniste</a>",
+        "empty_message": "Täällä ei näytä olevan julkaisuja"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Kirjaudu itch.io-tilillesi",
@@ -240,9 +263,18 @@
             "follow_username": "Tarvitset itch.io-tilin ennen kuin voit seurata käyttäjää <1>{{username}}</1>.",
             "collection": "Tarvitset itch.io-tilin ennen kuin voit lisätä kokoelmaan.",
             "jam_submit": "Tarvitset itch.io-tilin ennen kuin voit osallistua jamiin.",
-            "claim_object": "Kirjaudu sisään tai luo tunnus lunastaaksesi tuotteen {{noun}}"
+            "claim_object": "Kirjaudu sisään tai luo tunnus lunastaaksesi tuotteen {{noun}}",
+            "claim_object_title": "Kirjaudu sisään tai luo tili lunastaaksesi {{title}}.",
+            "recent_purchases": "Kirjaudu sisään linkataksesi juuri tekemäsi ostokset."
         },
-        "no_account_prompt": "Eikö sinulla ole tunnusta? <1>Luo tunnus</1>"
+        "no_account_prompt": "Eikö sinulla ole tunnusta? <1>Luo tunnus</1>",
+        "errors": {
+            "accept_terms": "Sinun täytyy hyväksyä käyttöehdot"
+        },
+        "welcome_to_itchio": "Tervetuloa itch.io -sivustolle!",
+        "welcome_back": "Tervetuloa takaisin!",
+        "you_are_logged_out": "Olet kirjautunut ulos",
+        "page_title": "Kirjaudu sisään"
     },
     "user_register": {
         "create_an_account_on_itchio": "Luo itch.io-tunnus",
@@ -263,7 +295,8 @@
             "url_preview": "Profiilisivusi löytyy osoitteesta",
             "username": "Käyttäjänimi",
             "other_registration_methods": "Muita tapoja rekisteröityä"
-        }
+        },
+        "page_title": "Rekisteröi tili"
     },
     "developers": {
         "page_header": "Luo uusi sivu jakaaksesi tai myydäksesi indiepelejäsi välittömästi",
@@ -283,6 +316,7 @@
         "learn_more_about": "Lue lisää aiheesta:",
         "create_account_or_login": "<1>Luo tili</1> <em>tai</em> <2>Kirjaudu sisään</2>",
         "share_message": "itch.io on helppo tapa jakaa indiepeliäsi ilmaiseksi.",
-        "upload_or_dashboard": "<1>Lataa uusi peli</1> <em>tai</em> <2>Mene hallintapaneeliin</2>"
+        "upload_or_dashboard": "<1>Lataa uusi peli</1> <em>tai</em> <2>Mene hallintapaneeliin</2>",
+        "design_your_games_page_description": "Luo pelillesi mukautettu sivu josta ihmiset ostavat tai lataavat sen. Sinä valitset värit, kirjasimet, kuvat ja videot. Koska se on sinun pelisivusi, et löydä siitä mitään mitä et olisi siihen itse laittanut."
     }
 }
