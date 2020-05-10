@@ -397,7 +397,9 @@
         "start_download": "Scarica",
         "tagline": "Installa, aggiorna e gioca i giochi Indie",
         "share_message": "itch, l'app da computer per giochi Indie",
-        "open_source": "A fonte aperta"
+        "open_source": "A fonte aperta",
+        "updates_description": "Non solo i giochi installati verranno automaticamente aggiornati, ma anche l'app stessa si trasformerà automaticamente non appena saranno rilasciate nuove funzionalità e caratteristiche. I giochi che usano i nostri nuovi strumenti da riga di comando genereranno <em>aggiornamenti parziali</em>, assicurandoti di scaricare solo ciò che è cambiato quando vengono rilasciati nuovi giochi.",
+        "browse_description": "Su itch.io i creatori decidono come devono apparire le pagine dei loro progetti. Il motore di ricerca integrato ti permette di scaricare ed installare i giochi mentre esplori le <a>pagine dal design unico dei loro creatori</a>"
     },
     "user_login": {
         "intent": {
@@ -480,7 +482,8 @@
         "upload_a_new_game": "Carica un nuovo gioco",
         "my_dashboard": "La mia dashboard",
         "product_summary2": "Puoi anche usare il \"Name your Price\", dando così l'opportunità ai giocatori di pagare quello che loro ritengono il prezzo del gioco.",
-        "page_header": "Crea una pagina dove distribuire i tuoi giochi"
+        "page_header": "Crea una pagina dove distribuire i tuoi giochi",
+        "design_your_games_page_description": "Crea una pagina personalizzata per il tuo gioco dove le persone comprano o scaricano il tuo gioco. Scegli i colori, i font, le immagini ed i video. Poichè è la pagina del tuo gioco, non troverai niente che tu non abbia messo."
     },
     "user_register": {
         "page_title": "Crea un account",
@@ -508,6 +511,7 @@
         "tag_filter": "Filtrando a {{tag}}. <a>Cancella Etichetta</a>",
         "empty_message": "Non c'è nessuno post qui",
         "updates": "Aggiornamenti",
-        "all_posts": "Tutti i post"
+        "all_posts": "Tutti i post",
+        "digest": "Sommario"
     }
 }
