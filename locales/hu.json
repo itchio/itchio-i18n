@@ -46,7 +46,8 @@
             "sales_bundles": "Akciók & csomagok",
             "new_project": "Új projekt feltöltése",
             "recommendations": "Ajánlások",
-            "library": "Könyvtáram"
+            "library": "Könyvtáram",
+            "account_menu_tooltip": "Fiók menü"
         }
     },
     "index": {
@@ -90,13 +91,18 @@
         "to_follow": {
             "empty_results": "Jelenleg nincs több ajánlásunk számodra. Nézz vissza később",
             "refresh_button": "Frissíts többért...",
-            "dismiss_tooltip": "Ne ajánld többé"
+            "dismiss_tooltip": "Ne ajánld többé",
+            "created_projects": "{{project_list}} létrehozva"
         },
         "intro": "Az <s>itch.io</s>-n egyszerűen találhatsz és megoszthatsz indie játékokat online, ingyen.",
         "intro_cta": "<1>Add hozzá a játékodat</1> vagy <2>Olvasd el a GY.I.K.-et</2>",
         "html5_games": "HTML5 játékok",
         "page_title": "Töltsd le a legújabb indie játékokat",
-        "on_sale": "Akciós"
+        "on_sale": "Akciós",
+        "meta_description": "Az itch.io az indie játékok online keresésének, letöltésének és terjesztésének egyszerű módja. Ha egy készítő vagy vagy csak valaki aki játékokat keres annak ajánljuk az itch.io-t.",
+        "browse_content_type": "{{content_type}} böngészése",
+        "featured_jams": "Kiemelt Jam-ek",
+        "view_something_random": "Nézz valamit találomra"
     },
     "misc": {
         "classifications": {
@@ -262,5 +268,14 @@
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
+    },
+    "user_register": {
+        "register_form": {
+            "digest_signup": "Feliratkozom a kéthavonta érkező itch.io hírlevélre.",
+            "accept_tos": "Elfogadom a <1>szolgáltatás feltételeit</1>.",
+            "link_product": "A megvásárolt <1>{{product}}</1> automatikusan össze lesz kapcsolva a fiókodhoz a regisztráció után.",
+            "log_in": "Jelentkezz be",
+            "already_have_account": "vagy már van egy felhasználói fiókod?"
+        }
     }
 }
