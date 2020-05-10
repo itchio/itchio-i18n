@@ -399,7 +399,8 @@
         "share_message": "itch, l'app da computer per giochi Indie",
         "open_source": "A fonte aperta",
         "updates_description": "Non solo i giochi installati verranno automaticamente aggiornati, ma anche l'app stessa si trasformerà automaticamente non appena saranno rilasciate nuove funzionalità e caratteristiche. I giochi che usano i nostri nuovi strumenti da riga di comando genereranno <em>aggiornamenti parziali</em>, assicurandoti di scaricare solo ciò che è cambiato quando vengono rilasciati nuovi giochi.",
-        "browse_description": "Su itch.io i creatori decidono come devono apparire le pagine dei loro progetti. Il motore di ricerca integrato ti permette di scaricare ed installare i giochi mentre esplori le <a>pagine dal design unico dei loro creatori</a>"
+        "browse_description": "Su itch.io i creatori decidono come devono apparire le pagine dei loro progetti. Il motore di ricerca integrato ti permette di scaricare ed installare i giochi mentre esplori le <a>pagine dal design unico dei loro creatori</a>",
+        "community_description": "Scopri di più sullo sviluppo dell'app <1>nella nostra community</1>. Condividi le tue richieste di funzionalità e il feedback generale con gli altri membri di itch.io. Se sei un programmatore allora sarai felice di sapere che l'intero progetto è <2>open source su GitHub</2>, non vediamo l'ora di ricevere le tue pull request."
     },
     "user_login": {
         "intent": {
