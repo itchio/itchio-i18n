@@ -263,9 +263,9 @@
             "follow_username": "Necesitas una cuenta de itch.io para seguir a <1>{{username}}</1>.",
             "collection": "Necesitas una cuenta de itch.io para añadir a una colección.",
             "jam_submit": "Necesitas una cuenta de itch.io para participar en una jam.",
-            "claim_object": "Por favor, inicia sesión o crea una cuenta para reclamar el {{nombre}}.",
+            "claim_object": "Por favor, inicia sesión o crea una cuenta para reclamar el {{noun}}.",
             "recent_purchases": "Accede para enlazar las compras hechas recientemente.",
-            "claim_object_title": "Por favor, inicie sesión o crea una cuenta para reclamar {{título}}."
+            "claim_object_title": "Por favor, inicie sesión o crea una cuenta para reclamar {{title}}."
         },
         "no_account_prompt": "¿No tienes una cuenta? <1>Crear una cuenta</1>",
         "page_title": "Iniciar sesión",

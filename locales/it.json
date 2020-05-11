@@ -274,7 +274,7 @@
             "return_to_project": "Ritorna al progetto",
             "view_all_my_purchases": "Vedi tutti i miei acquisti",
             "download_title": "Scarica {{project_title}}",
-            "preorder_title": "Preordine per {{project_title}]"
+            "preorder_title": "Preordine per {{project_title}}"
         },
         "version_name": "Versione {{version_name}}",
         "play_in_your_browser": "Gioca nel tuo browser",
