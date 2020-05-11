@@ -80,7 +80,7 @@
         "recommended_for_you": "Consigliati per te",
         "recommendations_based_on": "In base a cose che hai comprato, scaricato e valutato",
         "fresh_games": "Ultime uscite",
-        "intro": "<s>itch.io</s> è un modo semplice per trovare e condividere online giochi indie, in maniera gratuita.",
+        "intro": "<s>itch.io</s> è un modo semplice e gratuito per trovare e condividere giochi indie. ",
         "intro_cta": "<1>Carica il tuo gioco</1> o <2>leggi le FAQ</2>",
         "html5_games": "Giochi HTML5",
         "page_title": "Scarica giochi indie appena usciti",
@@ -89,7 +89,7 @@
         "people_to_follow": "Persone Da Seguire",
         "fresh_games_description": "In costante aggiornamento con i giochi più recenti su itch.io",
         "view_all_games_on_sale": "Vedi tutti i giochi in sconto",
-        "view_all_on_sale": "Guarda tutte in sconto",
+        "view_all_on_sale": "Vedi tutte le offerte ",
         "game_dev_on_sale": "Risorse per gli Sviluppatori <1>In Sconto</1>",
         "more_featured_games": "Più Giochi in Evidenza",
         "people_to_follow_description": "Ecco alcuni account che potresti essere interessato a seguire. <a>Perché seguirli?</a>",
@@ -110,9 +110,9 @@
             "all_games": "Tutti i giochi"
         },
         "browse_content_type": "Sfoglia {{content_type}}",
-        "view_all_platforms": "Guarda tutte le piattaforme",
+        "view_all_platforms": "Mostra tutte le piattaforme ",
         "view_more": "Di più",
-        "games_by_price": "Giochi a prezzo"
+        "games_by_price": "Per Prezzo"
     },
     "misc": {
         "classifications": {
