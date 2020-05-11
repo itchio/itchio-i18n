@@ -97,15 +97,15 @@
         "filtering_platform": "Filtra tutti i giochi per {{platform_name}}",
         "to_follow": {
             "dismiss_tooltip": "Non consigliarmi più niente",
-            "refresh_button": "Aggiorna la pagina per altro",
-            "empty_results": "Purtroppo non abbiamo nient'altro da farti vedere. Prova più tardi",
+            "refresh_button": "Aggiorna per vedere altro...",
+            "empty_results": "Non abbiamo altri consigli per il momento. Torna a trovarci presto",
             "created_projects": "Creato{{project_list}}"
         },
         "meta_description": "itch.io è un posto che ti permette di trovare, scaricare e distribuire giochi Indie. Se sei uno sviluppatore che cerca un posto dove caricare giochi oppure solo qualcuno che cerca nuovi giochi, itch.io ha quello che cerci.",
         "nav": {
-            "community": "Comunità",
+            "community": "Community",
             "devlogs": "In Sviluppo",
-            "game_jams": "Jams dei Giochi",
+            "game_jams": "Game Jam",
             "bundles": "Pacchetti",
             "all_games": "Tutti i giochi"
         },
@@ -124,7 +124,7 @@
             "tool": "Strumenti",
             "comic": "Fumetti",
             "book": "Libri",
-            "physical_game": "Giochi Fisici"
+            "physical_game": "Giochi fisici"
         },
         "accessibility_features": {
             "colorblind": "Accessibile ai daltonici",
@@ -134,11 +134,11 @@
             "tutorial": "Tutorial interattivo",
             "blind": "Accessibile ai non vedenti",
             "textless": "Privo di testo",
-            "one_button": "Un bottone"
+            "one_button": "Un tasto"
         },
         "multiplayer_features": {
             "local": "Multiplayer locale",
-            "server": "Multiplayer online",
+            "server": "Multiplayer online basato su server",
             "adhoc": "Multiplayer con rete Ad-hoc"
         },
         "inputs": {
@@ -146,12 +146,12 @@
             "mouse": "Mouse",
             "midi_controller": "Controller a MIDI",
             "dance_pad": "Per Dance pad",
-            "phone": "Telefono",
+            "phone": "Smartphone",
             "accelerometer": "Accelerometro",
-            "voice": "A controllo vocale",
-            "touchscreen": "Giochi in Touchscreen",
+            "voice": "Controllo vocale",
+            "touchscreen": "Touchscreen",
             "joystick": "Joystick",
-            "gamepad": "Gamepad (tutti)"
+            "gamepad": "Controller (qualsiasi)"
         },
         "loading_more_ellip": "Sto caricando di più…",
         "more_ellip": "Di più…",
