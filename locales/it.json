@@ -85,7 +85,7 @@
         "html5_games": "Giochi HTML5",
         "page_title": "Scarica giochi indie appena usciti",
         "featured_jams": "Jam in evidenza",
-        "view_all_jams": "Vedi tutte le jam",
+        "view_all_jams": "Vedi tutte i jam",
         "people_to_follow": "Persone Da Seguire",
         "fresh_games_description": "In costante aggiornamento con i giochi più recenti su itch.io",
         "view_all_games_on_sale": "Vedi tutti i giochi in sconto",
@@ -101,7 +101,7 @@
             "empty_results": "Purtroppo non abbiamo nient'altro da farti vedere. Prova più tardi",
             "created_projects": "Creato{{project_list}}"
         },
-        "meta_description": "itch.io è un posto che ti permette di trovare,scaricare e distribuire giochi Indie. Se sei uno sviluppatore che cerca un posto dove caricare giochi oppure solo qualcuno che cerca nuovi giochi su itch.io è il posto giusto.",
+        "meta_description": "itch.io è un posto che ti permette di trovare, scaricare e distribuire giochi Indie. Se sei uno sviluppatore che cerca un posto dove caricare giochi oppure solo qualcuno che cerca nuovi giochi, itch.io ha quello che cerci.",
         "nav": {
             "community": "Comunità",
             "devlogs": "In Sviluppo",
