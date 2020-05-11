@@ -971,7 +971,12 @@
             "submission_is_closed_for_voting": "اغلق التقديم والتصويت جاري الأن"
         },
         "results": {
-            "results": "النتائج"
+            "results": "النتائج",
+            "sort_by_criteria": "حسب المعايير",
+            "no_rankings_available": "لا توجد تقييمات متوفرة",
+            "empty_page_message": "لا نتائج في هذه الصفحة",
+            "empty_message": "النتائج غير متاحة بعد، عد لاحقًا",
+            "average_and_median_results": "متوسط عدد التقييمات لكل لعبة كان <s>{{average_ratings}}</s> وكان المتوسط <s>{{median_ratings}}</s>."
         },
         "submission": {
             "comments": {
@@ -988,7 +993,15 @@
         "submissions": {
             "submissions_will_be_available_after_the_jam_has_ended": "ستتوفر التقديمات بعد انتهاء ال",
             "there_were_no_submissions": "لم يكن هناك تقديمات",
-            "there_are_no_submissions_yet": "ليس هناك تقديمات بعد"
+            "there_are_no_submissions_yet": "ليس هناك تقديمات بعد",
+            "rated": "مُقيم",
+            "empty_results": "لا تقديمات تتناسب مع تصنيفاتك",
+            "filter": "المصفي",
+            "filters": {
+                "browser_playable": "تصفح القابل للعب",
+                "all_submissions": "كل التقديمات"
+            },
+            "help_submissions_in_need_of_ratings": "ساعد في تقييم التقديمات التي لديها تقييمات قليلة: <a>تقديمات بحاجة لتقييم</a>"
         }
     },
     "collection": {
