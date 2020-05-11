@@ -333,9 +333,9 @@
         "view_all_tags": "عرض جميع العلامات",
         "browse_all_games": "تصفح جميع الألعاب",
         "search_results_for_query": "نتائج البحث عن '{{query}}'",
-        "published_count_0": "{{count}} مشاريع",
+        "published_count_0": "{{count}} مشروع",
         "published_count_1": "{{count}} مشروع",
-        "published_count_2": "{{count}} مشروعان",
+        "published_count_2": "{{count}} مشروع",
         "published_count_3": "{{count}} مشاريع",
         "published_count_4": "{{count}} مشروع",
         "published_count_5": "{{count}} مشروع"
@@ -976,14 +976,37 @@
             "no_rankings_available": "لا توجد تقييمات متوفرة",
             "empty_page_message": "لا نتائج في هذه الصفحة",
             "empty_message": "النتائج غير متاحة بعد، عد لاحقًا",
-            "average_and_median_results": "متوسط عدد التقييمات لكل لعبة كان <s>{{average_ratings}}</s> وكان المتوسط <s>{{median_ratings}}</s>."
+            "average_and_median_results": "متوسط عدد التقييمات لكل لعبة كان <s>{{average_ratings}}</s> وكان المتوسط <s>{{median_ratings}}</s>.",
+            "submissions": {
+                "ranked_score": "الدرجة: {{score}}",
+                "ranked_criteria": "مرتبة {{ordinal_rank}} في {{criteria_name}}",
+                "ranked": "رتبة {{ordinal_rank}}",
+                "view_submission_page": "عرض صفحة التقديم",
+                "by_author": "بواسطة {{author}}"
+            },
+            "sort_overall": "الإجمالي"
         },
         "submission": {
             "comments": {
-                "post_comment": "ضع التعليق"
+                "post_comment": "ضع التعليق",
+                "empty_message": "لم يقم احد بالتعليق بعد",
+                "leave_a_comment_header": "أترك تعليق"
             },
             "downloads": "التحميلات",
-            "results_header": "النتائج"
+            "results_header": "النتائج",
+            "run_project": "تشغيل المشروع",
+            "play_game": "إلعب اللعبة",
+            "link_to_itchio_page": "صفحة itch.io الخاصة ب{{game_title}",
+            "view_project_page": "عرض صفحة المشروع",
+            "view_game_page": "عرض صفحة اللعبة",
+            "a_jam_submission": "تقديم في الكوم",
+            "remove_this_submission_button": "إحذف هذا التقديم",
+            "edit_this_submission_button": "عدل هذا التقديم",
+            "results_table_raw_score": "صافى الدرجة",
+            "results_table_score": "الدرجة",
+            "results_table_votes": "الأصوات",
+            "results_table_rank": "الرتبة",
+            "results_table_criteria": "المعايير"
         },
         "stats": {
             "joined": "انضموا",
