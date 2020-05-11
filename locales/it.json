@@ -99,7 +99,7 @@
             "dismiss_tooltip": "Non consigliarmi più niente",
             "refresh_button": "Aggiorna per vedere altro...",
             "empty_results": "Non abbiamo altri consigli per il momento. Torna a trovarci presto",
-            "created_projects": "Creato{{project_list}}"
+            "created_projects": "{{project_list}} creata"
         },
         "meta_description": "itch.io è un posto che ti permette di trovare, scaricare e distribuire giochi Indie. Se sei uno sviluppatore che cerca un posto dove caricare giochi oppure solo qualcuno che cerca nuovi giochi, itch.io ha quello che cerci.",
         "nav": {
