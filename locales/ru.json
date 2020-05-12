@@ -275,7 +275,8 @@
         "welcome_back": "С возвращением!",
         "welcome_to_itchio": "Добро пожаловать на itch.io!",
         "errors": {
-            "accept_terms": "Вы должны принять Условия использования"
+            "accept_terms": "Вы должны принять Условия использования",
+            "please_enter_a_valid_email_address": "Пожалуйста, укажите настоящий емейл"
         }
     },
     "user_register": {
