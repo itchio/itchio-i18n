@@ -996,7 +996,7 @@
             "results_header": "النتائج",
             "run_project": "تشغيل المشروع",
             "play_game": "إلعب اللعبة",
-            "link_to_itchio_page": "صفحة itch.io الخاصة ب{{game_title}",
+            "link_to_itchio_page": "صفحة itch.io الخاصة ب{{game_title}}",
             "view_project_page": "عرض صفحة المشروع",
             "view_game_page": "عرض صفحة اللعبة",
             "a_jam_submission": "تقديم في الكوم",
