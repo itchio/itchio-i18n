@@ -397,7 +397,10 @@
                 "send_gift": "Enviar presente",
                 "you_own_this": "Possuis isto",
                 "claimed": "Reivindicado",
-                "you_havent_sent_this_gift_to_anyone_yet": "Ainda não enviaste este presente para ninguém"
+                "you_havent_sent_this_gift_to_anyone_yet": "Ainda não enviaste este presente para ninguém",
+                "purchased_for_price": "Comprado por {{price}}",
+                "purchased_in_a_bundle_for_price": "Comprado num pacote por {{price}}",
+                "you_were_gifted_this": "Foi-te oferecido isto"
             },
             "related_games_short": "Relacionado",
             "related_games": "Jogos relacionados",
@@ -407,7 +410,21 @@
             "rate": "Avaliar",
             "edit_rating": "Editar avaliação",
             "edit_your_rating": "Edita a tua avaliação",
-            "devlog": "Devlog"
+            "devlog": "Devlog",
+            "jam_submission": {
+                "rating_instructions": "Avalia e comenta esta participação à jam ao visitar a página de submissão a partir do link acima.",
+                "now_accepting_ratings": "A jam está a aceitar avaliações para as participações.",
+                "you_rated_this_game": "Avaliaste este jogo",
+                "accepting_ratiings": "A jam está a aceitar avaliações para as submissões. <a>Saber mais</a>",
+                "view_the_submission_page": "Ver página da submissão",
+                "this_is_a_submission_to_jam_title": "Submissão para {{jam_title}}"
+            },
+            "footer": {
+                "updated_date": "Atualizado à {{date}}",
+                "embed": "Incorporar",
+                "report": "Denunciar",
+                "view_all_by_username": "Ver tudo de {{username}}"
+            }
         },
         "upload_list": {
             "empty_message": "Ainda não há nada disponível para descarregar.",
@@ -464,6 +481,18 @@
         },
         "empty_page_no_uploads": "O criador ainda não submeteu nada...",
         "donate_button": "Apoia este {{noun}}",
-        "steam_key_bundle_disclaimer": "(Nota: Chave Steam não incluída em {{bundle_title}})"
+        "steam_key_bundle_disclaimer": "(Nota: Chave Steam não incluída em {{bundle_title}})",
+        "after_download": {
+            "powered_by": "<s>Distribuído por</s> {{itchio_logo}}",
+            "see_everything": "Ver tudo",
+            "more_from_itchio_header": "Descobre mais do itch.io",
+            "view_all_from_jam": "Ver tudo da jam",
+            "check_out_more_from_jam_title": "Descobre mais de {{jam_title}}",
+            "check_popup_blocker": "A descarga deverá começar dentro de momentos. Se isso não acontecer, verifica o teu bloqueador de pop-ups.",
+            "more_from_creator": "Podes encontrar mais do mesmo criador na sua página: {{profile}}.",
+            "thanks_project_author": "Obrigado por descarregares {{project}} de {{author}}.",
+            "thanks_for_downloading_title": "Obrigado pela descarga",
+            "share_this_project": "Partilhar este projeto"
+        }
     }
 }
