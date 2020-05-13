@@ -59,6 +59,18 @@
         "puzzle": "Пъзел",
         "racing": "Състезание",
         "real-time": "В реално време",
-        "real-time-strategy": "Стратегия в реално време"
+        "real-time-strategy": "Стратегия в реално време",
+        "robots": "Роботи",
+        "rhythm": "Ритъм",
+        "retro": "Ретро",
+        "procedural": "Процедурна генерация",
+        "post-apocalyptic": "Пост-апокалиптически",
+        "otome": "Отоме",
+        "norse": "Скандинавски",
+        "noir": "Ноар",
+        "music-production": "Създаване на музика",
+        "multiple-endings": "Множество завършеци",
+        "metroidvania": "Метроидвания",
+        "local-co-op": "Локален кооперативен режим"
     }
 }
