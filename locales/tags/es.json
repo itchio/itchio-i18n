@@ -141,6 +141,18 @@
         "metroidvania": "Metroidvania",
         "minimalist": "Minimalista",
         "mmorpg": "MMORPG",
-        "moddable": "Modificable"
+        "moddable": "Modificable",
+        "ninja": "Ninja",
+        "neon": "Neón",
+        "narrative": "Narrativa",
+        "mystery": "Misterio",
+        "music-production": "Producción musical",
+        "music": "Música",
+        "multiple-endings": "Varios finales",
+        "multiplayer": "Multijugador",
+        "mouse-only": "Solamente ratón",
+        "mountains": "Montañas",
+        "monsters": "Monstruos",
+        "coming-of-age": "Mayoría de edad"
     }
 }
