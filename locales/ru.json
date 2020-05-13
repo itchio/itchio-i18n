@@ -431,7 +431,7 @@
         "community_posts_count_2": "{{count}} постов",
         "post_a_new_topic": "Создать новую тему",
         "post_first_topic": "Создать первую тему",
-        "community_sticky": "Прилеплено",
+        "community_sticky": "Закреплено",
         "upload_list": {
             "preorder": "Предзаказ",
             "download": "Скачать",
@@ -532,7 +532,7 @@
             "unsubscribe": "Отписаться",
             "subscribe": "Подписаться",
             "return_to_topic_list": "Вернуться к списку тем",
-            "sticky": "Прилеплено",
+            "sticky": "Закреплено",
             "locked": "Заблокировано",
             "moderation": "Модерация",
             "replies_count": "Ответов: {{count}}",
@@ -631,7 +631,7 @@
             "replies_count_2": "<s>{{count}}</s> ответов",
             "started_by_author": "начата {{topic_author}}",
             "new_flag": "Новое",
-            "sticky_flag": "Прилеплено",
+            "sticky_flag": "Закреплено",
             "locked_flag": "Заблокировано",
             "list_header_topic_title": "Тема",
             "list_header_last_post": "Последний пост"
