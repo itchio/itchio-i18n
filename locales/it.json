@@ -263,7 +263,8 @@
         "donating_price_vat_to": "Stai donando {{price}} VAT inc. a:",
         "donating_price_to": "Stai donando {{price}} a:",
         "paying_price_vat_for": "Stai pagando {{price}} VAT inc. per:",
-        "paying_price_for": "Stai pagando {{price}} per:"
+        "paying_price_for": "Stai pagando {{price}} per:",
+        "card_ending_last4": "Finisce in {{last4}}"
     },
     "game_download": {
         "install_instructions_intro": "Download e istruzioni di installazione da {{username}}:",
