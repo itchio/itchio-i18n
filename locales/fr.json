@@ -109,7 +109,7 @@
         "meta_description": "itch.io est un moyen simple de rechercher, télécharger et distribuer des jeux indés en ligne. Que vous vouliez mettre un jeu en ligne ou juste trouver quelque-chose de nouveau auquel jouer, vous êtes au bon endroit.",
         "to_follow": {
             "empty_results": "Nous n'avons plus rien à vous recommander pour le moment. Revenez plus tard",
-            "refresh_button": "Actualisez pour plus de contenu...",
+            "refresh_button": "Actualiser pour plus de contenu...",
             "created_projects": "{{project_list}} vient d'être créé",
             "dismiss_tooltip": "Ne plus suggérer"
         }
@@ -273,7 +273,8 @@
         "welcome_back": "Re-bienvenue !",
         "welcome_to_itchio": "Bienvenue sur itch.io !",
         "errors": {
-            "accept_terms": "Vous devez accepter les conditions d'utilisation"
+            "accept_terms": "Vous devez accepter les conditions d'utilisation",
+            "please_enter_a_valid_email_address": "Merci d'entrer une adresse mail valide"
         }
     },
     "user_register": {
