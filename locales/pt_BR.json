@@ -263,8 +263,9 @@
             "follow_username": "Você precisará de uma conta no itch.io antes de poder seguir <1> {{username}} </1>.",
             "collection": "Você precisará de uma conta no itch.io antes de poder adicionar a uma coleção.",
             "jam_submit": "Você precisará de uma conta no itch.io antes de poder enviar uma jam.",
-            "claim_object": "Por favor, faça o login ou crie uma conta para reivindicar {{noun}}",
-            "recent_purchases": "Faça login para vincular as compras que você fez recentemente."
+            "claim_object": "Por favor, faça o login ou crie uma conta para reivindicar {{noun}}.",
+            "recent_purchases": "Faça login para vincular as compras que você fez recentemente.",
+            "claim_object_title": "Por favor, entre ou crie uma conta para resgatar {{title}}."
         },
         "no_account_prompt": "Não tem uma conta? <1>Crie uma conta</1>",
         "page_title": "Entrar",
@@ -272,7 +273,8 @@
         "welcome_back": "Bem vindo(a) de volta!",
         "welcome_to_itchio": "Bem vindo(a) ao itch.io!",
         "errors": {
-            "accept_terms": "Você deve aceitar os Termos de Serviço"
+            "accept_terms": "Você deve aceitar os Termos de Serviço",
+            "please_enter_a_valid_email_address": "Por favor, insira um email valido"
         }
     },
     "user_register": {
@@ -537,7 +539,9 @@
             "first_page": "Primeira página",
             "last_page": "Última página",
             "this_topic_is_locked": "Este tópico está trancado",
-            "this_topic_was_locked_by_username": "Este tópico foi trancado por {{username}}"
+            "this_topic_was_locked_by_username": "Este tópico foi trancado por {{username}}",
+            "create_related_topic": "Se você tem algo relacionado à postagem, considere <a> criar um tópico em {{category_name}}</a>.",
+            "topic_is_autoarchived": "Este tópico foi arquivado automaticamente e não pode mais ser postado porque não há postagens há algum tempo."
         },
         "post_list": {
             "deleted_post": "Postagem excluída",
