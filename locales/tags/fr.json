@@ -100,7 +100,7 @@
         "gore": "Gore",
         "gothic": "Gothique",
         "hack-and-slash": "Hack and Slash",
-        "hacking": "Hacking",
+        "hacking": "Piratage",
         "halloween": "Halloween",
         "horror": "Horreur",
         "interactive-fiction": "Fiction interactive",
@@ -109,7 +109,7 @@
         "kickstarter": "Kickstarter",
         "lgbt": "LGBT",
         "local-co-op": "Co-op local",
-        "loot": "Loot",
+        "loot": "Équipements ",
         "low-poly": "Low-poly",
         "magic": "Magie",
         "management": "Gestion",
@@ -248,6 +248,7 @@
         "trading": "Échange",
         "fast-paced": "Rapide",
         "moddable": "Moddable",
-        "side-scroller": "Jeu en vue de côté"
+        "side-scroller": "Jeu en vue de côté",
+        "spoopy": "Effrayant et Comique"
     }
 }
