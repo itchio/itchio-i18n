@@ -223,7 +223,8 @@
             "submit": "Invia",
             "email_address": "Indirizzo Email",
             "save": "Salva",
-            "required": "Richiesto"
+            "required": "Richiesto",
+            "form_errors": "Ricontrolla le informazioni che hai scritto"
         },
         "durations": {
             "days": "Qualche giorno o forse di più",
@@ -251,13 +252,18 @@
         "manage_cards_link": "Puoi gestire le tue carte dalle tue <a>Impostazioni Account</a>",
         "save_credit_card_for_future_purchases": "Salva carta di credito per acquisti futuri",
         "credit_or_debit_card": "Carta di credito o di debito",
-        "gift_instructions": "Questo acquisto è un regalo. Potrai fornire l'email del destinatario dopo il checkout.",
+        "gift_instructions": "Questo acquisto è un regalo. Potrai fornire l'email del destinatario dopo il completamento dell'acquisto.",
         "password": "Password",
         "enter_your_password_to_use_your_card": "Inserisci la tua password per usare la tua carta",
         "new_card": "Nuova carta",
         "edit_saved_cards": "Modifica carte salvate",
         "choose_a_card": "Seleziona una carta",
-        "payment_error": "C'è stato un errore nel processare il tuo pagamento:"
+        "payment_error": "C'è stato un errore nel processare il tuo pagamento:",
+        "youll_be_mailed_your_access_link": "Perfetto, il link d'accesso ti sara inviato per email",
+        "donating_price_vat_to": "Stai donando {{price}} VAT inc. a:",
+        "donating_price_to": "Stai donando {{price}} a:",
+        "paying_price_vat_for": "Stai pagando {{price}} VAT inc. per:",
+        "paying_price_for": "Stai pagando {{price}} per:"
     },
     "game_download": {
         "install_instructions_intro": "Download e istruzioni di installazione da {{username}}:",
@@ -266,7 +272,8 @@
         "share_and_follow": "Condividi & segui",
         "alternate_download": {
             "title": "Modalità di Download Alternativa",
-            "enable_alternate_download_mode": "Abilita modalità di download alternativa"
+            "enable_alternate_download_mode": "Abilita modalità di download alternativa",
+            "region_message": "Alcuni paesi hanno bloccato il CDN di itch.io. Se il download non parte, prova ad abilitare il download alternato e poi riprova."
         },
         "header": {
             "more_menu": "Di più",
@@ -274,12 +281,14 @@
             "return_to_project": "Ritorna al progetto",
             "view_all_my_purchases": "Vedi tutti i miei acquisti",
             "download_title": "Scarica {{project_title}}",
-            "preorder_title": "Preordine per {{project_title}}"
+            "preorder_title": "Preordine per {{project_title}}",
+            "view_rest_in_bundle": "Guarda il resto delle offerte"
         },
         "version_name": "Versione {{version_name}}",
         "play_in_your_browser": "Gioca nel tuo browser",
         "app_banner": {
-            "app_description": "Installa e gestisci i tuoi giochi con l'app di itch.io"
+            "app_description": "Installa e gestisci i tuoi giochi con l'app di itch.io",
+            "get_the_app": "Scarica l'app"
         },
         "preorder_instructions": "Il progetto ha file che non sono ancora stati rilasciati. Torna su questa pagina quando il creatore li avrà rilasciati per poterli scaricare.",
         "check_your_email_for_the_confirmation_link": "Controlla la tua email per il link di conferma.",
@@ -287,14 +296,47 @@
         "link_account_header": "Collega questa pagina download al tuo account itch.io",
         "log_in_to_link": "Fai il log-in per collegare",
         "link_my_account": "Collega il mio account",
-        "linked_user_message": "Questa pagina è collegata all'account {{username}}."
+        "linked_user_message": "Questa pagina è collegata all'account {{username}}.",
+        "purchase": {
+            "linked_user_message": "Questo acquisto è collegato a {{username}}.",
+            "percent_off": "scontato del {{percent}}%",
+            "payment_summary_with_email": "L'hai comprato il {{payment_date}} per {{payment_price}} con l'email {{email_address}}.",
+            "payment_summary": "L'hai comprato il {{payment_date}} a {{payment_price}}.",
+            "receipt_support_information": "Dovresti aver ricevuto anche un email con un link a questa pagina. Tranquillo, se perdi l'URL puoi richiederlo nell' <a>area supporto</a>.",
+            "access_latest_files_from_this_page": "Potrai sempre accedere ai file di questa pagina.",
+            "unique_url_for_your_payment": "Questa pagina ha un URL speciale per il tuo acquisto.",
+            "thank_you_for_donating_author": "Grazie per la donazione a{{product_title}} creato da {{author}}.",
+            "thank_you_for_donating": "Grazie per la donazione a {{product_title}}.",
+            "thank_you_for_purchasing_author": "Grazie per l'acquisto di {{product_title}} creato da {{author}}.",
+            "thank_you_for_purchasing": "Grazie per aver acquistato {{product_title}}.",
+            "link_purchase_warning": "Non perdere di vista il tuo acquisto!",
+            "link_purchase_links": "<1>Crea un account<1/> o <2>loggati con itch.io<2/> per collegare il tuo acquisto.",
+            "save_this_purchase_to_your_account": "Salva questo acquisto sul tuo account",
+            "youve_been_gifted": "Che bello! Ti hanno regalato {{product_title}}."
+        },
+        "email_capture": {
+            "provide_email_instructions": "Inserisci l'email per collegare l'acquisto, cosi potrai averlo anche se perdi questa pagina.",
+            "dont_lose_your_purchase": "Non perdere il tuo acquisto!"
+        },
+        "access_it": "Accedi",
+        "access_comes_with_key": "Nel tuo accesso è incluso/a {{key_type}}!",
+        "payment_comes_with_key": "Nel tuo pagamento è incluso/a {{key_type}}!",
+        "claim_external_key_instructions": "Clicca il bottone per rivendicarla.",
+        "claim_external_key": "Rivendica {{key_type}}",
+        "get_external_key": "Prendi {{key_type}}",
+        "access_existing_copy": "Non puoi rivendicare un altra copia, ma puoi accedere ad una già esistente.",
+        "already_own": "Ehm....sembra che lo hai già",
+        "must_link_account_description": "Devi linkare questa pagina ad un account di itch.io prima di fare il download. Ricorda, gli account sono gratis e ti faranno vedere ogni gioco che hai collezionato.",
+        "check_out_more_from_jam_title": "Scopri di più da {{jam_title}}",
+        "recommendations_title": "Potresti essere interessato a",
+        "trouble_downloading_link": "Non parte il download?"
     },
     "user_settings": {
         "email_addresses": {
             "additional_emails": {
                 "detach_email": "Rimuovi email",
                 "email_sent_status": "email inviata",
-                "resend_verification_email_button": "reinvia email di verifica",
+                "resend_verification_email_button": "invia di nuovo l'email di verifica",
                 "verified_column": "Verificata",
                 "email_column": "Email",
                 "emails_added_header": "Email aggiunte"
@@ -302,8 +344,89 @@
             "add_email_form": {
                 "add_email_button": "Aggiungi Email",
                 "additional_email_address_label": "Indirizzo Email Aggiuntivo"
-            }
-        }
+            },
+            "additional_emails_instructions": "Ovviamente ti verrà mandata un email per verificare l'indirizzo aggiuntivo.",
+            "additional_emails_summary": "Puoi anche incorporare delle email aggiuntive per accedere al tuoi acquisti sotto quell'indirizzo. Non hai capito? ti farò un esempio, Se hai un account PayPal con un altra email e vuoi vedere gli acquisti, aggiungilo all'email aggiuntiva.",
+            "additional_emails_header": "Email aggiuntive",
+            "change_password_instructions": "Se cambi l'indirizzo email, devi verificarla per accedere ai tuoi acquisti. Ti verrà mandata un email con le istruzioni per la verifica. Inoltre, per ragioni di sicurezza, dovrai anche fornire la tua password per modificare o cambiare l'indirizzo.",
+            "primary_email_description": "Sul l'email principale, itch.io ti manderà le tue notifiche.",
+            "change_email_form": {
+                "current_password": "Password in uso",
+                "new_email_address": "Nuovo indirizzo email"
+            },
+            "your_primary_email_address": "Il tuo account è registrato con: {{email}}",
+            "primary_email_header": "Email principale"
+        },
+        "password": {
+            "new_password_again": "Ripeti la nuova password",
+            "password_again": "Ripeti password",
+            "new_password": "Nuova password",
+            "password": "Password",
+            "current_password": "Password in uso",
+            "set_password": "Scrivi password",
+            "reset_password": "Reimposta password"
+        },
+        "profile": {
+            "profile_description": "Scrivi qualcosa su di te",
+            "profile": "Profilo",
+            "use_dark_theme": "Usa il tema scuro quando è disponibile",
+            "click_to_load_games": "Clicca per vedere le presentazioni dei giochi HTML5",
+            "disable_autoloading_next_page_when_browsing": "Disattiva il caricamento automatico della pagina successiva",
+            "disable_animated_gifs": "Disattiva le GIF",
+            "show_adult_content": "Mostra prodotti per adulti",
+            "content_description": "Seleziona cosa vuoi che itch.io ti mostri",
+            "content": "Contenuto",
+            "default_language_option": "Default (Impostalo su Inglese durante le lingue in beta)",
+            "account_type_developer": "Produco e distribuisco giochi",
+            "account_type_gamer": "Gioco e scarico giochi",
+            "account_type_description": "Dicci cosa fai qui su itch.io",
+            "account_type": "Tipo dell'account",
+            "twitter_description": "Un account di Twitter che verrà mostrato nella tua pagina",
+            "website_description": "Sito opzionale che verrà mostrato nella tua pagina",
+            "website": "Sito",
+            "display_name_description": "Verrà mostrato al posto del tuo nome d'arte, lascia il campo vuoto per il nome d'arte",
+            "display_name": "Nome",
+            "profile_image_description": "Verrà mostrata vicino alla tuo foto profilo (dimensioni quadrate)",
+            "profile_image": "Immagine del profilo",
+            "url_description": "L'URL pubblico del tuo account",
+            "you_recently_changed_your_username": "Hai cambiato il tuo nome recentemente",
+            "change_username": "Cambia il mio nome d'arte/URL",
+            "username_description": "Lo userai per loggarti e per il tuo indirizzo URL",
+            "username": "Nome D'arte",
+            "page_header": "Profilo",
+            "language_description": "Lingua dell'interfaccia di itch.io",
+            "language": "Lingua",
+            "language_community_translation": "<s>itch.io è tradotto dai membri della comunità.</s>Alcune lingue non sono ancora complete. Itch.io è alla ricerca di traduttori in altre lingue. <a>Di più</a>"
+        },
+        "navigation": {
+            "thirdparty_analytics": "Analisi di terze parti",
+            "oauth_applications": "App per L'autenticazione",
+            "api_keys": "Chiavi API",
+            "data_export": "Esportazione dei dati",
+            "privacy": "Privacy",
+            "press_access": "Bonus D'acceso",
+            "connected_accounts": "Account connessi",
+            "email_notifications": "Notificazione Email",
+            "billing_address": "Indirizzo Di Fatturazione",
+            "credit_cards": "Carte di credito",
+            "payout_mode": "Modalità di pagamento",
+            "tax_information": "Informazioni fiscali",
+            "payment_processors": "Processori di pagamento",
+            "revenue_sharing": "Condivisione dei guadagni",
+            "publisher_get_started": "Inizia",
+            "support_email": "Email di supporto",
+            "two_factor_auth": "Autenticazione",
+            "email_addresses": "Indirizzo Email",
+            "password": "Password",
+            "profile": "Profilo",
+            "developer_header": "Sviluppatore",
+            "misc_header": "Misc",
+            "contact_header": "Contatti",
+            "publisher_header": "Editore",
+            "payment_header": "Pagamenti",
+            "basics_header": "Generale"
+        },
+        "account_settings": "Impostazioni account"
     },
     "jam": {
         "submission": {
@@ -311,12 +434,124 @@
             "results_table_criteria": "Criterio",
             "results_table_raw_score": "Punteggio Grezzo",
             "results_table_score": "Punteggio",
-            "results_table_votes": "Voti"
+            "results_table_votes": "Voti",
+            "rate_submission": {
+                "sign_up_to_vote": "Devi avere un <a>account</a> per votare e lasciare commenti.",
+                "sign_up_to_rate": "Devi avere un <a>account</a> per votare e lasciare commenti.",
+                "unavailable_to_rate": "Non puoi recensire questo progetto perché ancora non hai consegnato il tuo, ma puoi commentare qui sotto.",
+                "owner_message": "Non puoi votare la tua stessa consegna. Solo gli altri possono farlo.",
+                "not_open_yet": "Il periodo di consegna non è ancora finito. Per le recensioni devi aspettare il {{start_date}}.",
+                "rate_this_submission": "Valuta questa consegna",
+                "vote_for_this_submission": "Vota per questa consegna",
+                "private_field": "(privato)",
+                "vote": "Vota"
+            },
+            "rated_by_people_count": "Votato da {{count}} persona",
+            "rated_by_people_count_plural": "Votato da {{count}} persone",
+            "time_remaining_before_deadline": "Ancora {{time_duration}} prima della scadenza",
+            "submitted_by_contributors": "Consegnato da {{contributors}}",
+            "ranked_with_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
+            "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
+            "results_header": "Risultati",
+            "ranked_from_count": "Classificato da <s>{{count}}recensione</s>.",
+            "ranked_from_count_plural": "Classificato da <s>{{count}}recensioni</s>.",
+            "score_information": "La classifica è regolata da un punteggio grezzo ad un numero medio di recensioni per gioco della jam.",
+            "run_project": "Esegui il progetto",
+            "play_game": "Gioca",
+            "downloads": "Downloads",
+            "link_to_itchio_page": "La pagina itch.io di {{game_title}}",
+            "comments": {
+                "empty_message": "Sembra che nessuno abbia ancora commentato",
+                "post_comment": "Posta commento",
+                "leave_a_comment_header": "Commenta"
+            },
+            "view_project_page": "Guarda la pagina del progetto",
+            "view_game_page": "Guarda la pagina del gioco",
+            "a_jam_submission": "Una consegna di una jam",
+            "remove_this_submission_button": "Cancella la tua consegna",
+            "edit_this_submission_button": "Modifica la consegna"
         },
         "results": {
             "submissions": {
-                "ranked_score": "Punteggio: {{score}}"
-            }
+                "ranked_score": "Punteggio: {{score}}",
+                "ranked_criteria_rating_count": "Classificato {{ordinal_rank}} in {{criteria_name}} con {{count}} recensione",
+                "ranked_criteria_rating_count_plural": "Classificato {{ordinal_rank}} in {{criteria_name}} con {{count}} recensioni",
+                "ranked_criteria_vote_count": "Classificato {{ordinal_rank}} in {{criteria_name}} con {{count}} voto",
+                "ranked_criteria_vote_count_plural": "Classificato {{ordinal_rank}} in {{criteria_name}} con {{count}} voti",
+                "ranked_criteria": "Classificato {{ordinal_rank}} in {{criteria_name}}",
+                "ranked_rating_count": "Classificato {{ordinal_rank}} con {{count}} recensione",
+                "ranked_rating_count_plural": "Classificato {{ordinal_rank}} con {{count}} recensioni",
+                "ranked_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
+                "ranked_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
+                "ranked": "Classificato {{ordinal_rank}}",
+                "view_submission_page": "Guarda la pagina delle consegne",
+                "by_author": "da {{author}}"
+            },
+            "sort_overall": "Generale",
+            "sort_by_criteria": "Per criterio",
+            "no_rankings_available": "Nessuna classifica disponibile",
+            "empty_page_message": "Nessun risultato disponibile per questa pagina",
+            "empty_message": "Non c'è ancora niente, prova a ricontrollare più tardi",
+            "average_and_median_results": "Le recensioni date  per gioco sono state <s>{{average_ratings}}</s> e la media era di <s>{{median_ratings}}</s>.",
+            "ratings_given_submissions_count": "È stata lasciata <s>{{count}}recensione</s> a<s>{{submission_count}}entrata</s>({{percent}}%) tra il {{vote_start_date}} e il {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "Sono state lasciate <s>{{count}}recensioni</s> a<s>{{submission_count}}entrate</s>({{percent}}%) tra il {{vote_start_date}} e il {{vote_end_date}}.",
+            "ratings_given_count": "È stata lasciata <s>{{count}}recensione</s> tra il {{vote_start_date}} e il{{vote_end_date}}.",
+            "ratings_given_count_plural": "Sono state lasciate <s>{{count}}recensioni</s> tra il {{vote_start_date}} e il{{vote_end_date}}.",
+            "votes_cast_count": "È stato dato <s>{{count}}</s> voto tra il {{vote_start_date}} e il {{vote_end_date}}.",
+            "votes_cast_count_plural": "Sono stati dati <s>{{count}}</s> voti tra il {{vote_start_date}} e il {{vote_end_date}}.",
+            "submissions_summary": "<s>{{count}}entrata</s> è stata consegnata tra il {{start_date}} e {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}}entrate</s> sono state consegnate tra il {{start_date}} e {{end_date}}.",
+            "results": "Risultati"
+        },
+        "submissions": {
+            "rated": "Recensito",
+            "empty_results": "Nessuna consegna corrisponde al tuo filtro",
+            "filter": "Filtro",
+            "filters": {
+                "browser_playable": "Giocabile da internet",
+                "all_submissions": "Tutte le consegne"
+            },
+            "help_submissions_in_need_of_ratings": "Aiuta le consegne che hanno poche recensioni: <a>Consegne bisognose di recensioni</a>",
+            "submissions_will_be_available_after_the_jam_has_ended": "Le consegne saranno disponibili dopo che la jam sarà finita",
+            "there_were_no_submissions": "Non ci sono state consegne",
+            "there_are_no_submissions_yet": "Non è ancora stato consegnato niente"
+        },
+        "submitter": {
+            "you_can_now_rate_entries": "Ora puoi votare le entrate nella <a>pagina delle consegne</a>",
+            "submission_is_closed_for_voting": "Non si accettano più consegne e la votazione è in corso",
+            "countdown": {
+                "voting_ends_in": "La votazione termina",
+                "submissions_due_in": "Richieste da presentare entro",
+                "starts_in": "Inizia il"
+            },
+            "view_entries": "Guarda {{count}} entrata",
+            "view_entries_plural": "Guarda {{count}} entrate",
+            "view_results": "Guarda i risultati",
+            "jam_is_now_over": "Purtroppo la jam è finita. Si è svolta dal {{start_date}} al {{end_date}}.",
+            "submissions_open_from": "Potrai inviare il richiesto dal {{start_date}} al {{end_date}}",
+            "leave_jam": "Lascia la jam",
+            "joined_instructions": "Torna su questa pagina dopo l'inizio della jam, per caricare il tuo lavoro.",
+            "youve_joined": "Ti sei unito alla jam.",
+            "or_leave_jam": "oppure <a>Lascia la jam</a>",
+            "submit_button": "Carica il tuo progetto",
+            "join_jam": "Unisciti anche tu"
+        },
+        "stats": {
+            "ratings": "Recensioni",
+            "entries": "Entrate",
+            "joined": "Sei dentro"
+        },
+        "header": {
+            "links": {
+                "edit_jam": "Modifica la jam",
+                "submission_feed": "Feed delle richieste",
+                "screenshots": "Screenshots",
+                "overview": "Panoramica",
+                "submissions": "Richieste",
+                "results": "Risultati",
+                "community": "Comunità"
+            },
+            "hosted_by": "Creata da {{hosts}}"
         }
     },
     "dashboard": {
@@ -418,7 +653,8 @@
             "community": "Devi essere loggato per partecipare ad una delle tante comunità di itch.io. Creare un account è facile e veloce"
         },
         "errors": {
-            "accept_terms": "Devi accettare i termini di servizio"
+            "accept_terms": "Devi accettare i termini di servizio",
+            "please_enter_a_valid_email_address": "Devi inserire un email valida"
         },
         "welcome_to_itchio": "Benvenuto su itch.io!",
         "welcome_back": "Bentornato!",
@@ -440,24 +676,36 @@
     },
     "buy_form": {
         "included_files": "File inclusi",
-        "i_already_paid_for_this": "Questo l'ho già pagato...",
+        "i_already_paid_for_this": "Ehy, io l'ho già pagato...",
         "gift_email_instructions": "Potrai scegliere un'email a cui inviare il regalo dopo che avrai pagato",
         "email_address_description": "La conferma del pagamento verrà inviata qui",
         "your_email_address": "Il tuo indirizzo email",
-        "download_this_product_by_purchasing_it_for": "Scarica questo prodotto aquistandolo per {{price}} o più.",
-        "preorder_this_product_by_purchasing_it_for": "Preordina questo prodotto aquistandolo per {{price}} o più.",
-        "includes_steam_key": "Riceverai una chiave di Steam con il tuo acquisto.",
-        "no_thanks_just_take_me_to_the_downloads": "No grazie, portami solo ai download",
+        "download_this_product_by_purchasing_it_for": "Scarica questo prodotto acquistandolo per {{price}} o più.",
+        "preorder_this_product_by_purchasing_it_for": "Preordina questo prodotto acquistandolo per {{price}} o più.",
+        "includes_steam_key": "Riceverai anche una chiave di Steam con il tuo acquisto.",
+        "no_thanks_just_take_me_to_the_downloads": "No grazie, non voglio pagare",
         "free_pay_what_you_want": "Questo progetto è gratis ma il suo creatore accetta il tuo sostegno premettendoti di pagare quanto credi sia giusto.",
         "buy_as_bundle_plural": "Puoi acquistare questo prodotto come parte del pacchetto di {{count}} oggetti per {{price}}:",
         "also_buy_as_bundle_plural": "Puoi anche acquistare questo prodotto come parte del pacchetto di {{count}} oggetti per {{price}}:",
         "percent_off_until": "Tutti gli acquisti sono in sconto del <s>{{rate}}%</s> fino al {{end_date}}.",
-        "support_message": "Donando sostieni lo sviluppo del progetto",
+        "support_message": "Dona e sostieni lo sviluppo del progetto",
         "on_sale_notice": "Questo prodotto è in sconto.",
         "sold_out_notice": "Questo prodotto è al momento esaurito, controlla più tardi.",
         "preorder_title": "Preordina '{{title}}'",
         "buy_title": "Acquista '{{title}}'",
-        "download_title": "Scarica '{{title}}'"
+        "download_title": "Scarica '{{title}}'",
+        "contact_support_on_error": "Se hai ancora lo stesso problema, contatta <a>Supporto per itch.io</a> molto dettagliatamente.",
+        "generic_error": "Purtroppo c'è stato un errore durante il tuo acquisto, nome errore: {{error}}",
+        "billing_address": "Indirizzo di fatturazione",
+        "continue_payment": "Continua il pagamento",
+        "go_back": "Indietro",
+        "credit_card": "Carta di credito",
+        "check_out_with": "Controlla con",
+        "pay_with": "Paga con",
+        "support_the_creator_with_an_additional_contribution": "Puoi anche supportarlo con una mancia",
+        "support_the_creator_by_paying_above_the_minimum_price": "Supporta questo creatore pagando un po di più del prezzo minimo",
+        "this_purchase_is_a_gift": "Questo acquisto è un regalo",
+        "agree_to_terms": "Pagando tu accetti i <1>Termini di Servizio<1/> e la <2>Politica della Privacy<2/>."
     },
     "search": {
         "search_results_for_query": "Sfoglia i risultati per '{{query}}'",
@@ -486,7 +734,8 @@
         "my_dashboard": "La mia dashboard",
         "product_summary2": "Puoi anche usare il \"Name your Price\", dando così l'opportunità ai giocatori di pagare quello che loro ritengono il prezzo del gioco.",
         "page_header": "Crea una pagina dove distribuire i tuoi giochi",
-        "design_your_games_page_description": "Crea una pagina personalizzata per il tuo gioco dove le persone comprano o scaricano il tuo gioco. Scegli i colori, i font, le immagini ed i video. Poichè è la pagina del tuo gioco, non troverai niente che tu non abbia messo."
+        "design_your_games_page_description": "Crea una pagina personalizzata per il tuo gioco dove le persone comprano o scaricano il tuo gioco. Scegli i colori, i font, le immagini ed i video. Poichè è la pagina del tuo gioco, non troverai niente che tu non abbia messo.",
+        "product_summary1": "Su <s>itch.io</s> puoi distribuire i tuoi giochi Indie gratuitamente. Carica il tuo gioco e gli screenshot nella stessa pagina.\nPersonalizza la pagina del gioco dove distribuire informazioni e altro."
     },
     "user_register": {
         "page_title": "Crea un account",
@@ -522,7 +771,11 @@
         "upload_list": {
             "play_in_browser": "Gioca in HTML5",
             "download": "Scarica",
-            "preorder": "Preordina adesso"
+            "preorder": "Preordina adesso",
+            "empty_message": "Purtroppo non c'è ancora niente di pronto.",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Questo file sarà disponibile solo quando il creatore lo caricherà",
+            "version_name": "Versione {{version_name}}",
+            "if_you_pay_price_or_more": "da {{price}} o più"
         },
         "community_sticky": "Sticky",
         "post_a_new_topic": "Posta un argomento",
@@ -572,7 +825,7 @@
         "steam_key_bundle_disclaimer": "(Attenzione: La \"Steam Key\" non è inclusa nel {{bundle_title}})",
         "your_purchase_comes_with_a_steam_key": "Nel tuo acquisto sarà presente anche una \"Steam key\".",
         "devlog_view_all_posts": "Guarda tutti i post",
-        "in_order_to_access": "Per accedere a{{noun}} devi comprarlo al minimo prezzo di {{price}}.",
+        "in_order_to_access": "Per averlo devi comprarlo al minimo prezzo di {{price}}.",
         "development_log_header": "Diario di sviluppo",
         "price_or_more": "{{price}}<s> oppure di più</s>",
         "percent_off": "del <s>{{percent}}%</s>",
@@ -594,6 +847,264 @@
         "download_header": "Scarica",
         "install_instructions": "Istruzioni di installazione",
         "more_information": "Di più",
-        "empty_page": "Ehm, sembra che qui sia vuoto..."
+        "empty_page": "Ehm, sembra che qui sia vuoto...",
+        "password_required": {
+            "header": "Hai bisogno della password per vedere questa pagina"
+        },
+        "report_form": {
+            "reason_other": "Altro",
+            "reason_label": "Motivo",
+            "description_label": "Descrizione",
+            "report_received_header": "Segnalazione ricevuta",
+            "title": "Segnala '{{page_title}}'",
+            "submit_report_button": "Invia la segnalazione",
+            "email_creator_link": "Scrivi un email al creatore",
+            "support_page_link": "Vai alla pagina d'aiuto",
+            "support_from_creator": "Problemi ? Hai bisogno del Creatore della pagina?",
+            "form_description": "Per favore completa questo modulo se devi contattare il team di itch.io riguardo il contenuto di questa pagina. La tua segnalazione sarà riportata anche al creatore della pagina se necessario."
+        },
+        "after_download": {
+            "app_learn_more": "<s>Novità!</s> Prova l'app per PC di itch.io, per scaricare e gestisci la tua libreria. <a>Di più</a>",
+            "powered_by": "<s>Offerto da</s> {{itchio_logo}}",
+            "see_everything": "Guarda tutto",
+            "more_from_itchio_header": "Guarda di più da itch.io",
+            "view_all_from_jam": "Guarda tutto da questa Jam",
+            "check_out_more_from_jam_title": "Guarda di più su {{jam_title}}",
+            "check_popup_blocker": "Il download dovrebbe iniziare a momenti. Se non va, controlla il blocco delle pubblicità.",
+            "more_from_creator": "Ehy, se vuoi scoprire di più su questo creatore visita la sua pagina, {{profile}}.",
+            "thanks_project_author": "Grazie per aver scaricato {{project}} di {{author}}.",
+            "thanks_for_downloading_title": "Grazie per il download",
+            "share_this_project": "Condividi questo progetto"
+        },
+        "layout": {
+            "jam_submission": {
+                "rating_instructions": "Recensisci e commenta questa entrata nella Jam guardando la pagina delle richieste nel link qui sotto.",
+                "now_accepting_ratings": "La Jam accetta temporaneamente recensioni per le entrate.",
+                "you_rated_this_game": "Hai recensito questo gioco",
+                "accepting_ratiings": "Questa Jam accetta temporaneamente le recensioni per le richieste. <a>Di più</a>",
+                "view_the_submission_page": "Guarda la pagina delle richieste",
+                "this_is_a_submission_to_jam_title": "Questo è una richiesta della {{jam_title}}"
+            },
+            "footer": {
+                "updated_date": "Aggiornato il {{date}}",
+                "embed": "Incorpora",
+                "report": "Segnala",
+                "view_all_by_username": "Guarda tutto di {{username}}"
+            },
+            "ownership": {
+                "purchased_for_price": "Acquistato a {{price}}",
+                "purchased_in_a_bundle_for_price": "L'hai comprato in offerta a {{price}}",
+                "you_were_gifted_this": "L'hai regalato",
+                "claimed": "Riscattato",
+                "you_havent_sent_this_gift_to_anyone_yet": "Non hai ancora regalato niente a nessuno",
+                "percent_off": "del {{percent}}%",
+                "download": "Scarica",
+                "send_gift": "Invia un regalino",
+                "you_own_this": "Posseduto da te"
+            },
+            "related_games_short": "Correlato",
+            "related_games": "Giochi correlati",
+            "submission_to_jam": "Richieste della {{jam_title}}",
+            "rate_for_jam": "Recensisci per la {{jam_title}}",
+            "rate_this_noun": "Recensisci questo {{noun}}",
+            "rate": "Recensisci",
+            "edit_rating": "Cambia recensione",
+            "edit_your_rating": "Cambia la tua recensione",
+            "devlog": "In Lavorazione",
+            "community": "Comunità",
+            "comments": "Commenti",
+            "add_to_collection_short": "Collezioni",
+            "add_to_collection": "Aggiungi alla tua collezione",
+            "following_username": "Stai seguendo {{username}}",
+            "follow_username": "Segui {{username}}",
+            "following": "Seguendo",
+            "follow": "Segui",
+            "creator": "Creatore",
+            "view_all_by_name": "Guarda tutto di {{name}}"
+        }
+    },
+    "buy_form_popup": {
+        "powered_by_itchio": "offerto da {{itchio}}",
+        "author_line": "<1>da</1> {{author}}"
+    },
+    "browse_tags": {
+        "no_description_yet": "Ancora non c'è nessuna descrizione",
+        "commonly_tagged_with": "Comunemente taggato con",
+        "find_tag": "Cerca un etichetta",
+        "page_title": "Top delle etichette"
+    },
+    "browse": {
+        "filter_everything_else": "Tutto il resto",
+        "filter_group": {
+            "clear_filter": "Pulisci il filtro",
+            "toggle_more_options": "Ancora di più",
+            "fewer_options": "Di meno",
+            "more_options": "Di più"
+        },
+        "fresh_description": "Guarda i progetti costantemente aggiornati dalle collezioni dei nostri membri. Ricontrolla per nuove aggiunte.",
+        "filter_group_tools": "Strumenti & Software",
+        "filter_group_collection": "Collezione",
+        "filter_group_misc": "Misc",
+        "filter_group_release_status": "Stato di rilascio",
+        "type_downloadable": "Scaricabile",
+        "filter_group_type": "Tipo",
+        "filter_group_accessibility_features": "Accessibilità",
+        "filter_group_multiplayer": "Caratteristiche Multigiocatore",
+        "filter_group_session_length": "Sessione di Gioco",
+        "filter_group_input_methods": "Metodi InPut",
+        "filter_group_when": "Pubblicazione",
+        "filter_by_tag": "Filtro a etichette",
+        "view_all_tags": "Guarda tutte le etichette",
+        "filter_group_platform": "Piattaforma",
+        "tag": {
+            "suggest_description_for_this_tag": "Descrizioni suggerite per questa etichetta",
+            "suggest_updated_description": "Descrizione degli aggiornamenti suggeriti",
+            "no_description_yet": "Per ora, niente descrizione"
+        },
+        "filter_group_genre": "Genere",
+        "filter_group_price": "Prezzo",
+        "related_collections": "Collezioni correlate",
+        "clear_filters": "Vouto",
+        "filter_results": "Filtri",
+        "upload_your_project": "<a>Carica il tuo progetto</a> su itch.io per farlo stare qui.",
+        "sort": "Ordina",
+        "sort_most_recent": "Più recenti",
+        "sort_top_rated": "I più recensiti",
+        "sort_top_sellers": "Migliori venditori",
+        "sort_new_and_popular": "Nuovi e popolari",
+        "sort_popular": "Popolare",
+        "results_count": "{{count}} risultato",
+        "results_count_plural": "Disponibili {{count}} risultati"
+    },
+    "collection": {
+        "remove_confirm": "Sei davvero sicuro di voler rimuoverlo dalla collezione",
+        "blurb_author_says": "{{author}} dice",
+        "edit_blurb": "Modifica pubblicità",
+        "add_a_blurb": "Modifica pubblicità",
+        "remove_item_button": "Rimuovi...",
+        "page_title": "{{collection_title}} - Collezione di {{author}}",
+        "a_collection_by_author": "Una collezione di {{author}}",
+        "pending_invitation": "Hai un invito in sospeso per una richiesta di contributo della collezione. <a>Guarda</a>",
+        "private_collection_message": "Questa collezione è privata, solo i contribuenti possono vederla",
+        "empty_collection_message": "La collezione è vuota.",
+        "edit_contributors": "Modifica contribuenti",
+        "edit_collection": "Modifica collezione",
+        "last_updated_date": "ultimo aggiornamento {{date}}",
+        "authors": "una collezione di {{author}}"
+    },
+    "community": {
+        "topic_list": {
+            "list_header_last_post": "Ultimo post",
+            "list_header_topic_title": "Commento",
+            "locked_flag": "Bloccato",
+            "sticky_flag": "Sticky",
+            "new_flag": "Nuovo",
+            "started_by_author": "Iniziato da {{topic_author}}",
+            "replies_count": "<s>{{count}}</s> risposta",
+            "replies_count_plural": "<s>{{count}}</s> risposte",
+            "no_posts_yet": "Non c'è ancora niente",
+            "views_count": "<s>{{count}}</s> visualizzazione",
+            "views_count_plural": "<s>{{count}}</s> visualizzazioni"
+        },
+        "category": {
+            "by_topic_author": "di {{username}}",
+            "archived_flag": "Archiviati",
+            "new_flag": "Nuovo",
+            "list_header_last_topic": "Ultimo commento",
+            "recent_posts_header": "Post recenti",
+            "rules_header": "Regole",
+            "stats": {
+                "topics": "Commenti"
+            },
+            "unsubscribe_from_topics": "Disiscriviti",
+            "subscribe_to_new_topics": "Iscriviti ai nuovi commenti",
+            "search_community_label": "Cerca una comunità",
+            "there_arent_any_topics_yet": "Non è ancora stato scritto niente qui",
+            "empty_message": "Sembra che non ci siano commenti",
+            "create_first_topic_button": "Posta il primo commento",
+            "topics_count": "{{count}} commento",
+            "topics_count_plural": "{{count}} commenti"
+        },
+        "misc": {
+            "new_topic_button": "Nuovo commento"
+        },
+        "new_topic": {
+            "page_title": "Posta un commento",
+            "your_moderators_are": "itch.io non gestisce queste bacheche, i moderatori sono:",
+            "topic_tag": "Etichetta",
+            "body": "Contesto",
+            "title": "Titolo",
+            "see_community_guidelines": "Guarda la <a>Guida della comunità</a> per il metodo della comunità.",
+            "this_a_community_run_message_board": "Questa bacheca è gestita dalla comunità..",
+            "new_topic": "Nuovo commento",
+            "i_agree_to_the_rules_above": "Io accetto le regole scritte qui sotto",
+            "moderation_options": "Opzioni",
+            "locked": "Bloccato",
+            "sticky": "Sticky",
+            "moderator_tools": "Strumenti per i moderatori"
+        },
+        "post_form": {
+            "post_reply": "Risposte al post",
+            "remove_tag": "Rimuovi l'etichetta",
+            "tag_header": "Etichette",
+            "subscribe_description": "Ricevi notifiche relative a questo commento",
+            "subscribe_to_this_topic": "Iscriviti a questo commento",
+            "subscribe": "Iscriviti",
+            "post": "Posta",
+            "save": "Salva",
+            "add_profile_image": "Aggiungi un immagine di profile"
+        },
+        "post_list": {
+            "post_from_suspended_account": "Questo post è stato fatto da un account sospeso",
+            "edited": "(modificato)",
+            "pinned_post": "Post in evidenza",
+            "suspended_account": "Account sospeso",
+            "deleted_account": "Account cancellato",
+            "vote_down": "Vota negativamente",
+            "vote_up": "Vota positivamente",
+            "view_more_in_thread": "Guarda di più",
+            "ban": "Ban...",
+            "report": "Segnala",
+            "delete": "Cancella",
+            "delete_topic": "Cancella commento",
+            "edit": "Modifica",
+            "like": "Mi piace",
+            "reply": "Rispondi",
+            "edits_count": "({{count}} modifica)",
+            "edits_count_plural": "({{count}} modifiche)",
+            "edit_blocks": "Modifica commenti",
+            "post_from_blocked_account": "Post creato da un account cancellato",
+            "deleted_post": "Post cancellato"
+        },
+        "topic": {
+            "create_related_topic": "Se hai qualcosa relativo ad un post <a> crea un commento in {{category_name}}</a>.",
+            "topic_is_autoarchived": "Questo commento è stato auto-archiviato, e non può più essere pubblicato perché non ci sono messaggi da un po 'di tempo.",
+            "this_topic_was_locked_by_username": "Il commento è stato bloccato da {{username}}",
+            "this_topic_is_locked": "Il commento è bloccato",
+            "last_page": "Ultima pagina",
+            "first_page": "Prima pagina",
+            "previous_page": "Precedente",
+            "next_page": "Prossimo",
+            "a_topic_by_username_created_time_ago": "Un commento di {{username}}, scritto {{time_ago}}",
+            "views_count": "Visualizzazioni: {{count}}",
+            "replies_count": "Risposte: {{count}}",
+            "moderation": "Moderazione",
+            "locked": "Bloccato",
+            "sticky": "Sticky",
+            "return_to_topic_list": "Ritorna alla lista dei commenti",
+            "subscribe": "Iscriviti",
+            "unsubscribe": "Disiscriviti",
+            "bookmark": "Segnalibro",
+            "remove_bookmark": "Rimuovi il segnalibro",
+            "new_reply": "Nuova risposta",
+            "this_reply_will_go_to_the_topic_author": "La risposta andrà a {{username}}, creatore del commento.",
+            "this_reply_will_go_to_yourself": "Questa risposta andrà a te stesso.",
+            "reply_to_someone_else": "Per caso vuoi rispondere a qualcun'altro? Clicca <s>rispondi</s> sotto il loro post.",
+            "join_the_discussion": "Inizia la discussione. Loggati o crea un account gratis su itch.io per continuare.",
+            "unlisted_topic_notice": "<s>Un moderatore ha tolto questo argomento dalla lista.</s> Non è più visibile ma puoi sempre rispondere o modificarlo.",
+            "log_in_to_reply": "Loggati per rispondere",
+            "reply": "Rispondi",
+            "topic_is_archived": "Questo argomento è stato archiviato e non è più visibile"
+        }
     }
 }
