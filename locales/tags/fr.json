@@ -249,6 +249,10 @@
         "fast-paced": "Rapide",
         "moddable": "Moddable",
         "side-scroller": "Jeu en vue de côté",
-        "spoopy": "Effrayant et Comique"
+        "spoopy": "Effrayant et Comique",
+        "text-based": "Basé sur du texte",
+        "surreal": "Surréaliste",
+        "slime": "Slime",
+        "rotation": "Rotation"
     }
 }
