@@ -254,6 +254,8 @@
         "surreal": "Surréaliste",
         "slime": "Slime",
         "rotation": "Rotation",
-        "shadows": "Ombres"
+        "shadows": "Ombres",
+        "top-down-shooter": "Jeu de tir en vue de dessus",
+        "story-rich": "Story Rich"
     }
 }
