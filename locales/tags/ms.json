@@ -1,1 +1,16 @@
-{}
+{
+    "tags": {
+        "gravity": "Graviti",
+        "ghosts": "Hantu",
+        "archery": "Memanah",
+        "arcade": "Arked",
+        "anime": "Anime",
+        "animals": "Haiwan",
+        "aliens": "Makhluk Asing",
+        "adventure": "Pengembaraan",
+        "action-rpg": "Aksi RPG",
+        "action-adventure": "Aksi-Pengembaraan",
+        "action": "Aksi",
+        "abstract": "Abstrak"
+    }
+}
