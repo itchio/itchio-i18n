@@ -1132,10 +1132,10 @@
         },
         "results": {
             "results": "结果",
-            "submissions_summary": "<s>共 {{count}} 个作品</s>被提交于{{start_date}}至{{end_date}}期间。",
-            "votes_cast_count": "<s>共 {{count}} 次投票</s>被提交于{{vote_start_date}}至{{vote_end_date}}期间。",
+            "submissions_summary": "<s>共 {{count}} 个作品</s>于{{start_date}}至{{end_date}}期间被提交。",
+            "votes_cast_count": "<s>共 {{count}} 次投票</s>于{{vote_start_date}}至{{vote_end_date}}期间被提交。",
             "ratings_given_count": "<s>共有 {{count}} 个评分</s>于{{vote_start_date}}至{{vote_end_date}}期间被提交。",
-            "ratings_given_submissions_count": "<s>共 {{count}} 个评分</s>对<s>共 {{submission_count}} 个参加作品</s>（{{percent}}）于{{vote_start_date}}至{{vote_end_date}}期间提交。",
+            "ratings_given_submissions_count": "<s>共 {{count}} 个评分</s>对<s>共 {{submission_count}} 个参加作品</s>（{{percent}}）于{{vote_start_date}}至{{vote_end_date}}期间被提交。",
             "average_and_median_results": "参加游戏作品的平均分为<s>{{average_ratings}}</s>，中位数为<s>{{median_ratings}}</s>。",
             "empty_message": "结果尚未揭晓，请稍后再回来",
             "empty_page_message": "此页面上没有结果",
