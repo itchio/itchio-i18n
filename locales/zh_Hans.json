@@ -822,7 +822,7 @@
     "collection": {
         "pending_invitation": "您有一个待处理的成为此合集贡献者的邀请。 <a>查看邀请</a>",
         "a_collection_by_author": "{{author}} 的收藏",
-        "authors": "{{author}} 的收藏",
+        "authors": "{{author}}制作的合集",
         "last_updated_date": "最后更新于 {{date}}",
         "edit_collection": "编辑收藏列表",
         "edit_contributors": "编辑贡献者",
