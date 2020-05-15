@@ -102,11 +102,11 @@
         },
         "footer": {
             "cookies": "Cookies 政策",
-            "privacy": "隱私政策",
-            "directory": "網站地圖",
-            "terms": "服務條款",
-            "contact_us": "聯絡我們",
-            "blog": "部落格",
+            "privacy": "隐私",
+            "directory": "目录",
+            "terms": "条款",
+            "contact_us": "联系我们",
+            "blog": "博客",
             "faq": "常见问题",
             "about": "关于"
         }
