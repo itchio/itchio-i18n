@@ -196,8 +196,8 @@
             "next_page": "Prossima pagina"
         },
         "filter_price": {
-            "paid": "Pagati",
-            "on_sale": "In vendita",
+            "paid": "In Vendita",
+            "on_sale": "In sconto",
             "free": "Gratis"
         },
         "platforms": {
@@ -651,7 +651,7 @@
             "follow": "Ti serve un account per seguire qualcuno.",
             "rate_game": "Hai bisogno di un account per recensire un gioco.",
             "comment": "Devi avere un account per lasciare un commento.",
-            "community": "Devi essere loggato per partecipare ad una delle tante comunità di itch.io. Creare un account è facile e veloce"
+            "community": "Devi essere loggato per partecipare ad una delle tante comunità di itch.io. Creare un account è facile e veloce."
         },
         "errors": {
             "accept_terms": "Devi accettare i termini di servizio",
@@ -736,7 +736,7 @@
         "product_summary2": "Puoi anche usare il \"Name your Price\", dando così l'opportunità ai giocatori di pagare quello che loro ritengono il prezzo del gioco.",
         "page_header": "Crea una pagina dove distribuire i tuoi giochi",
         "design_your_games_page_description": "Crea una pagina personalizzata per il tuo gioco dove le persone comprano o scaricano il tuo gioco. Scegli i colori, i font, le immagini ed i video. Poichè è la pagina del tuo gioco, non troverai niente che tu non abbia messo.",
-        "product_summary1": "Su <s>itch.io</s> puoi distribuire i tuoi giochi Indie gratuitamente. Carica il tuo gioco e gli screenshot nella stessa pagina.\nPersonalizza la pagina del gioco dove distribuire informazioni e altro."
+        "product_summary1": "Su <s>itch.io</s> puoi distribuire i tuoi giochi Indie gratuitamente. Carica il tuo gioco e gli screenshot nella stessa pagina. Personalizza la pagina del gioco dove distribuire informazioni e altro."
     },
     "user_register": {
         "page_title": "Crea un account",
@@ -748,12 +748,12 @@
             "password": "Password",
             "your_email_address": "Il tuo indirizzo email",
             "about_you": "Su di te",
-            "account_preferences_info": "Puoi anche cambiare queste domande più tardi, sono solo per dire a itch.io come presentarsi a te.",
+            "account_preferences_info": "Puoi anche cambiare queste domande più tardi, servono solo ad itch.io per informarlo su come presentarsi a te.",
             "interest_developer": "Vorrei distribuire prodotti su itch.io",
             "interest_gamer": "Voglio giocare e scaricare giochi su itch.io",
             "digest_signup": "Fammi unire alla newsletter bimestrale di itch.io",
             "accept_tos": "Ho letto e accetto i <1>Termini di Servizio</1>",
-            "link_product": "L'acquisto di  <1>{{product}}</1> sara collegato al tuo account dopo la registrazione.",
+            "link_product": "L'acquisto di <1>{{product}}</1> sara collegato al tuo account dopo la registrazione.",
             "log_in": "Loggati",
             "already_have_account": "oppure hai già un account?",
             "create_account": "Unisciti a itch.io"
