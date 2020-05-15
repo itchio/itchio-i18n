@@ -59,7 +59,7 @@
     "index": {
         "popular_tags": "热门标签",
         "browse": "浏览",
-        "games_by_price": "按价格浏览游戏",
+        "games_by_price": "按价格排序",
         "download_app": "下载客户端",
         "view_something_random": "随便看看",
         "view_all_games": "全部游戏",
@@ -69,7 +69,7 @@
         "view_all_blog_posts": "全部新闻",
         "search_games_creators": "搜索游戏和开发者",
         "browse_all_tags": "浏览全部标签",
-        "on_sale": "特价游戏",
+        "on_sale": "特惠",
         "free_games": "免费游戏",
         "top_sellers": "热销游戏",
         "with_demo": "有试玩版",
@@ -82,10 +82,10 @@
         "view_all_jams": "更多",
         "fresh_games_description": "itch.io 上发布的最新游戏，持续更新。",
         "people_to_follow": "推荐关注",
-        "view_all_games_on_sale": "更多",
+        "view_all_games_on_sale": "浏览全部特惠游戏",
         "more_featured_games": "更多精选游戏",
         "game_dev_on_sale": "<1>特价</1>游戏开发资源",
-        "view_all_on_sale": "更多",
+        "view_all_on_sale": "浏览全部特惠内容",
         "people_to_follow_description": "您可能会对以下用户感兴趣，推荐您关注。<a>有什么用？</a>",
         "latest_featured_games": "最新精选游戏",
         "filtering_platform": "仅显示 {{platform_name}} 平台的游戏",
@@ -286,7 +286,8 @@
         "welcome_back": "欢迎回来！",
         "welcome_to_itchio": "欢迎来到 itch.io！",
         "errors": {
-            "accept_terms": "您必须接受服务条款"
+            "accept_terms": "您必须接受服务条款",
+            "please_enter_a_valid_email_address": "请输入一个正确的邮箱地址"
         }
     },
     "user_register": {
@@ -320,10 +321,10 @@
     },
     "search": {
         "creators": "创作者：",
-        "published_count": "{{count}}个项目",
+        "published_count": "{{count}} 个项目",
         "view_all_tags": "查看所有标签",
         "browse_all_games": "浏览所有游戏",
-        "search_results_for_query": "{{query}} 的搜索结果"
+        "search_results_for_query": "‘{{query}}’ 的搜索结果"
     },
     "app": {
         "open_source": "开源",
