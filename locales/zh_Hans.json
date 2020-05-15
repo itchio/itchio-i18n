@@ -377,7 +377,7 @@
         "development_log_header": "开发日志",
         "in_order_to_access": "要访问此{{noun}}，您必须以不低于{{price}}的价格购买。",
         "devlog_view_all_posts": "查看所有帖子",
-        "your_purchase_comes_with_a_steam_key": "您的购买附带Steam密钥。",
+        "your_purchase_comes_with_a_steam_key": "您的购买会附带一个 Steam密钥。",
         "steam_key_bundle_disclaimer": "（注意：Steam 序列号不包含在{{bundle_title}}中）",
         "donate_button": "支持此{{noun}}",
         "empty_page_no_uploads": "创作者尚未上传任何内容......",
@@ -391,8 +391,8 @@
             "write_your_comment": "写下您的评论…"
         },
         "info_panel": {
-            "updated_at": "已更新",
-            "published_at": "已发布",
+            "updated_at": "更新于",
+            "published_at": "发布于",
             "release_status": "状态",
             "category": "分类",
             "platforms": "平台",
@@ -404,8 +404,8 @@
             "genre": "类型",
             "made_with_tools": "使用",
             "tags": "标签",
-            "code_license": "许可",
-            "asset_license": "素材许可",
+            "code_license": "许可证",
+            "asset_license": "素材许可证",
             "average_session_duration": "平均时长",
             "languages": "语言",
             "inputs": "输入",
@@ -429,7 +429,7 @@
             "play_in_browser": "在浏览器中玩",
             "if_you_pay_price_or_more": "如果您支付不少于{{price}}",
             "version_name": "版本 {{version_name}}",
-            "this_file_will_be_available_when_the_creator_uploads_it": "创作者上传此文件后才可以使用",
+            "this_file_will_be_available_when_the_creator_uploads_it": "此文件将在创建者上传后才可用",
             "empty_message": "目前暂不提供下载。"
         },
         "layout": {
@@ -500,7 +500,7 @@
             "reason_label": "原因",
             "reason_other": "其他",
             "report_received_header": "举报已提交",
-            "support_from_creator": "你有麻烦吗？ 您需要创作者的支持吗？",
+            "support_from_creator": "您有麻烦吗？ 您需要创作者的支持吗？",
             "form_description": "如果你需要就本页内容联系 itch.io 管理团队，请将本表格填写完整。如果必要，你的报告可能会与该页面的创建者共享。",
             "title": "报告 “{{page_title}}”"
         },
@@ -513,7 +513,7 @@
             "topic_is_archived": "此主题已被归档，无法再发布评论",
             "reply": "回复",
             "log_in_to_reply": "登录回复",
-            "unlisted_topic_notice": "<s>管理员已隐藏此主题。</s> 主题列表中不会显示，但您仍可以回复并进行修改。",
+            "unlisted_topic_notice": "<s>一位管理员已将此主题隐藏。</s>此主题将不会在主题列表中被显示，但您仍可以回复并进行修改。",
             "join_the_discussion": "加入讨论。登录或创建免费的 itch.io 帐户以继续。",
             "reply_to_someone_else": "想回复别人？点击帖子下方的<s>回复</s>。",
             "this_reply_will_go_to_yourself": "这个回复将归您自己。",
