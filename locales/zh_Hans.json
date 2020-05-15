@@ -826,14 +826,14 @@
         "last_updated_date": "最后更新于 {{date}}",
         "edit_collection": "编辑合集",
         "edit_contributors": "编辑贡献者",
-        "empty_collection_message": "这个合集里没有任何商品",
-        "private_collection_message": "该合集是私密的，仅贡献者可见其内容。",
+        "empty_collection_message": "这个合集里没有任何商品。",
+        "private_collection_message": "该合集是私密的，仅贡献者可见其内容",
         "page_title": "{{collection_title}} - 合集作者 {{author}}",
         "remove_item_button": "删除...",
         "add_a_blurb": "添加简介",
         "edit_blurb": "编辑简介",
         "blurb_author_says": "{{author}} 说",
-        "remove_confirm": "您确定将该商品移除该合集吗"
+        "remove_confirm": "您确定将该商品从该合集移除吗"
     },
     "browse": {
         "sort_popular": "人气",
