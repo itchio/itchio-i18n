@@ -410,9 +410,9 @@
             "languages": "语言",
             "inputs": "输入",
             "accessibility": "无障碍",
-            "multiplayer": "多人游戏",
+            "multiplayer": "多人",
             "player_count": "玩家数量",
-            "singleplayer": "单人模式",
+            "singleplayer": "单人",
             "links": "链接",
             "mentions": "提及"
         },
