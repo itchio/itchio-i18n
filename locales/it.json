@@ -874,16 +874,16 @@
             "check_popup_blocker": "Il download dovrebbe iniziare a momenti. Se non va, controlla il blocco delle pubblicità.",
             "more_from_creator": "Ehy, se vuoi scoprire di più su questo creatore visita la sua pagina, {{profile}}.",
             "thanks_project_author": "Grazie per aver scaricato {{project}} di {{author}}.",
-            "thanks_for_downloading_title": "Grazie per il download",
+            "thanks_for_downloading_title": "Grazie aver effettuato il download",
             "share_this_project": "Condividi questo progetto"
         },
         "layout": {
             "jam_submission": {
-                "rating_instructions": "Recensisci e commenta questa entrata nella Jam guardando la pagina delle richieste nel link qui sotto.",
+                "rating_instructions": "Recensisci e commenta questa entrata nella Jam guardando la pagina delle consegne nel link qui sotto.",
                 "now_accepting_ratings": "La Jam accetta temporaneamente recensioni per le entrate.",
                 "you_rated_this_game": "Hai recensito questo gioco",
-                "accepting_ratiings": "Questa Jam accetta temporaneamente le recensioni per le richieste. <a>Di più</a>",
-                "view_the_submission_page": "Guarda la pagina delle richieste",
+                "accepting_ratiings": "Questa Jam accetta temporaneamente le recensioni delle consegne. <a>Di più</a>",
+                "view_the_submission_page": "Guarda la pagina delle consegne",
                 "this_is_a_submission_to_jam_title": "Questo è una consegna della {{jam_title}}"
             },
             "footer": {
