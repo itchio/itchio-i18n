@@ -833,7 +833,7 @@
         "add_a_blurb": "添加简介",
         "edit_blurb": "编辑简介",
         "blurb_author_says": "{{author}} 说",
-        "remove_confirm": "您确定将该商品移除收藏吗"
+        "remove_confirm": "您确定将该商品移除该合集吗"
     },
     "browse": {
         "sort_popular": "人气",
