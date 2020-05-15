@@ -108,7 +108,7 @@
         "to_follow": {
             "created_projects": "已创建{{project_list}}",
             "empty_results": "我们现在没有任何其他推荐。请稍后再试",
-            "refresh_button": "刷新以得到更多内容",
+            "refresh_button": "刷新获取更多内容",
             "dismiss_tooltip": "不要再推荐了"
         }
     },
@@ -377,7 +377,7 @@
         "development_log_header": "开发日志",
         "in_order_to_access": "要访问此{{noun}}，您必须以不低于{{price}}的价格购买。",
         "devlog_view_all_posts": "查看所有帖子",
-        "your_purchase_comes_with_a_steam_key": "您的购买会附赠一个 Steam 序列号。",
+        "your_purchase_comes_with_a_steam_key": "您的购买附带Steam密钥。",
         "steam_key_bundle_disclaimer": "（注意：Steam 序列号不包含在{{bundle_title}}中）",
         "donate_button": "支持此{{noun}}",
         "empty_page_no_uploads": "创作者尚未上传任何内容......",
