@@ -493,12 +493,12 @@
             "app_learn_more": "<s>新！</s> 试着使用 itch.io 的桌面应用程序来下载和管理您的库。 <a>了解详情</a>"
         },
         "report_form": {
-            "support_page_link": "转到官方支持页面",
+            "support_page_link": "跳转到官方支持页面",
             "email_creator_link": "给创作者发送电子邮件",
             "submit_report_button": "提交报告",
             "description_label": "描述",
             "reason_label": "原因",
-            "reason_other": "其他",
+            "reason_other": "其他原因",
             "report_received_header": "举报已提交",
             "support_from_creator": "您有麻烦吗？ 您需要创作者的支持吗？",
             "form_description": "如果你需要就本页内容联系 itch.io 管理团队，请将本表格填写完整。如果必要，你的报告可能会与该页面的创建者共享。",
