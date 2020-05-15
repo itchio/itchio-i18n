@@ -1328,7 +1328,8 @@
             "choose_stars": "Escolha uma avaliação de 1 a 5 estrelas.",
             "rate_header": "Avaliar e Resenhar {{project_title}}",
             "you_rated_this_project_ago": "Você avaliou este projeto {{time_ago}}."
-        }
+        },
+        "redeem_button": "Resgatar"
     },
     "nags": {
         "unverified_email": {
