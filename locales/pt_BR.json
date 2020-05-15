@@ -563,7 +563,8 @@
             "suspended_account": "Conta suspensa",
             "pinned_reply": "Resposta Fixada",
             "pinned_post": "Publicação Fixada",
-            "edited": "(editado)"
+            "edited": "(editado)",
+            "post_from_suspended_account": "Postagem de uma conta suspensa"
         },
         "post_form": {
             "add_profile_image": "Adicione imagem de perfil",
