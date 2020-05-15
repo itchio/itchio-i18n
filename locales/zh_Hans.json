@@ -46,7 +46,7 @@
             "settings": "设置",
             "view_profile": "个人主页",
             "host_game_jam": "发起 Game Jam",
-            "sales_bundles": "特价和游戏包",
+            "sales_bundles": "特惠和捆绑包",
             "new_project": "上传新项目",
             "dashboard": "创作中心",
             "game_jams": "Game Jam",
@@ -76,7 +76,7 @@
         "view_all": "更多",
         "recommended_for_you": "向您推荐",
         "recommendations_based_on": "根据您的购买、下载和评分，我们向您推荐这些内容。",
-        "fresh_games": "最新游戏",
+        "fresh_games": "新鲜游戏",
         "view_more": "更多",
         "featured_jams": "热门 Game Jam",
         "view_all_jams": "更多",
@@ -322,8 +322,8 @@
     "search": {
         "creators": "创作者：",
         "published_count": "{{count}} 个项目",
-        "view_all_tags": "查看所有标签",
-        "browse_all_games": "浏览所有游戏",
+        "view_all_tags": "浏览全部标签",
+        "browse_all_games": "浏览全部游戏",
         "search_results_for_query": "‘{{query}}’ 的搜索结果"
     },
     "app": {
