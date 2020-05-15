@@ -8,7 +8,7 @@
             "contact_us": "联系我们",
             "terms": "服务条款",
             "directory": "网站地图",
-            "privacy": "隐私政策",
+            "privacy": "隐私条款",
             "cookies": "Cookie 政策"
         },
         "header": {
@@ -101,7 +101,7 @@
         "intro": "使用<s>itch.io</s>即可简单快捷地免费寻找和分享独立游戏。",
         "intro_cta": "<1>添加您的游戏</1> 或 <2>阅读FAQ</2>",
         "html5_games": "网页游戏",
-        "from_the_blog": "博客",
+        "from_the_blog": "博客摘要",
         "from_the_itchio_blog": "itch.io 博客",
         "page_title": "下载最新的独立游戏",
         "meta_description": "itch.io 为您提供了一个方便快捷的在线寻找、下载与发布独立游戏的平台。无论您是想要发布游戏的开发者，或是只想寻找新游戏的玩家，itch.io 都能满足您的需求。",
@@ -277,7 +277,7 @@
             "jam_submit": "登录账号后即可提交游戏作品。",
             "claim_object": "请登录或者创建账号后来获取 {{noun}}。",
             "recent_purchases": "登录以绑定您最近购买的商品。",
-            "claim_object_title": "请登录或创建一个帐户以声明{{title}}。"
+            "claim_object_title": "请登录或者创建账号后获取 {{title}}。"
         },
         "no_account_prompt": "还没有账号？ <1>创建一个账号</1>",
         "log_in_to_your_itchio_account": "登录您的 itch.io 帐户",
