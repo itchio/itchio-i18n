@@ -851,13 +851,13 @@
             "suggest_description_for_this_tag": "给该标签建议一个描述",
             "no_description_yet": "尚未添加介绍"
         },
-        "filter_by_tag": "标签筛选",
+        "filter_by_tag": "以标签筛选",
         "filter_group_session_length": "平均时长",
         "filter_group_multiplayer": "多人联机",
         "filter_group_accessibility_features": "辅助功能",
         "type_downloadable": "可下载",
         "filter_group_misc": "其他",
-        "filter_group_collection": "收藏",
+        "filter_group_collection": "合集",
         "fresh_description": "浏览由我们手工筛选并持续更新的合集。不要错过任何新内容哦。",
         "filter_group": {
             "more_options": "更多选项",
@@ -1182,8 +1182,8 @@
             "submitted_by_contributors": "由 {{contributors}} 提交",
             "rate_submission": {
                 "sign_up_to_vote": "<a>注册一个 itch.io 帐号</a>来为作品评分及留言。",
-                "vote_for_this_submission": "为本作品投票",
-                "rate_this_submission": "为本作品打分",
+                "vote_for_this_submission": "为这件参赛作品投票",
+                "rate_this_submission": "为这件参赛作品打分",
                 "vote": "投票",
                 "private_field": "（私有的）",
                 "not_open_yet": "本次 Jam 的提交时段尚未结束。打分将于{{start_date}}开始。",
