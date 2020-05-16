@@ -14,15 +14,15 @@
         "header": {
             "browse": "Esplora",
             "browse_games": "Sfoglia giochi",
-            "game_jams": "Game Jams",
+            "game_jams": "Game Jam",
             "upload_game": "Carica un gioco",
-            "devlogs": "Devlogs",
-            "community": "Community",
+            "devlogs": "Devlog",
+            "community": "Comunità",
             "search_placeholder": "Cerca giochi o autori",
             "search": "Cerca",
             "log_in": "Accedi",
             "register": "Registrati",
-            "jams": "Jams",
+            "jams": "Jam",
             "notifications_count": "{{count}} notifica",
             "notifications_count_plural": "{{count}} notifiche",
             "no_notifications": "Nessuna nuova notifica",
@@ -31,7 +31,7 @@
             "game_development": "Per sviluppatori",
             "comics": "Fumetti",
             "sales": "Sconti",
-            "bundles": "Bundles",
+            "bundles": "Offerte",
             "game_assets": "Risorse",
             "fun_games": "Giochi divertenti",
             "games": "Giochi",
@@ -48,14 +48,14 @@
             "settings": "Impostazioni",
             "view_profile": "Visualizza profilo",
             "host_game_jam": "Organizza una game jam",
-            "sales_bundles": "Sconti & bundles",
+            "sales_bundles": "Sconti & offerte",
             "new_project": "Carica un nuovo progetto",
             "dashboard": "Dashboard",
             "library": "La mia libreria",
             "feed": "Il mio feed",
             "account_menu_tooltip": "Menù account",
             "recommendations": "Raccomandazioni",
-            "game_jams": "Game jams"
+            "game_jams": "Jam dei giochi"
         }
     },
     "index": {
@@ -72,7 +72,7 @@
         "view_all_blog_posts": "Visualizza tutti gli update",
         "search_games_creators": "Cerca giochi & creatori",
         "browse_all_tags": "Sfoglia tutti i tag",
-        "on_sale": "In saldo",
+        "on_sale": "In offerta",
         "free_games": "Giochi gratis",
         "top_sellers": "I più venduti",
         "with_demo": "Demo disponibile",
@@ -80,16 +80,16 @@
         "recommended_for_you": "Consigliati per te",
         "recommendations_based_on": "In base a cose che hai comprato, scaricato e valutato",
         "fresh_games": "Ultime uscite",
-        "intro": "<s>itch.io</s> è un modo semplice e gratuito per trovare e condividere giochi indie. ",
+        "intro": "<s>itch.io</s> è un modo semplice e gratuito per trovare e condividere giochi indie.",
         "intro_cta": "<1>Carica il tuo gioco</1> o <2>leggi le FAQ</2>",
         "html5_games": "Giochi HTML5",
         "page_title": "Scarica giochi indie appena usciti",
         "featured_jams": "Jam in evidenza",
-        "view_all_jams": "Vedi tutte i jam",
+        "view_all_jams": "Vedi tutte le jam",
         "people_to_follow": "Persone Da Seguire",
-        "fresh_games_description": "In costante aggiornamento con i giochi più recenti su itch.io",
-        "view_all_games_on_sale": "Vedi tutti i giochi in sconto",
-        "view_all_on_sale": "Vedi tutte le offerte ",
+        "fresh_games_description": "Sempre aggiornato con i giochi più recenti su itch.io",
+        "view_all_games_on_sale": "Vedi tutti i giochi in offerta",
+        "view_all_on_sale": "Vedi tutte le offerte",
         "game_dev_on_sale": "Risorse per gli Sviluppatori <1>In Sconto</1>",
         "more_featured_games": "Più Giochi in Evidenza",
         "people_to_follow_description": "Ecco alcuni account che potresti essere interessato a seguire. <a>Perché seguirli?</a>",
@@ -103,14 +103,14 @@
         },
         "meta_description": "itch.io è un posto che ti permette di trovare, scaricare e distribuire giochi Indie. Se sei uno sviluppatore che cerca un posto dove caricare giochi oppure solo qualcuno che cerca nuovi giochi, itch.io ha quello che cerci.",
         "nav": {
-            "community": "Community",
+            "community": "Comunità",
             "devlogs": "In Sviluppo",
-            "game_jams": "Game Jam",
-            "bundles": "Pacchetti",
+            "game_jams": "Jam dei giochi",
+            "bundles": "Offerte",
             "all_games": "Tutti i giochi"
         },
         "browse_content_type": "Sfoglia {{content_type}}",
-        "view_all_platforms": "Mostra tutte le piattaforme ",
+        "view_all_platforms": "Mostra tutte le piattaforme",
         "view_more": "Di più",
         "games_by_price": "Per Prezzo"
     },
@@ -296,7 +296,7 @@
         "preorder_instructions": "Il progetto ha dei file che non sono ancora stati rilasciati. Torna su questa pagina quando il creatore li avrà rilasciati per poterli scaricare.",
         "check_your_email_for_the_confirmation_link": "Controlla la tua email per il link di conferma.",
         "link_account_description": "Puoi collegare questa pagina di download ad un account itch.io così da non doverti preoccupare di perderla. Verrà mostrata insieme alle altre cose che possiedi.",
-        "link_account_header": "Collega questa pagina download al tuo account itch.io",
+        "link_account_header": "Collega questa pagina di download al tuo account itch.io",
         "log_in_to_link": "Loggati per collegare",
         "link_my_account": "Collega il mio account",
         "linked_user_message": "Questa pagina è collegata all'account {{username}}.",
@@ -329,7 +329,7 @@
         "get_external_key": "Prendi {{key_type}}",
         "access_existing_copy": "Non puoi rivendicare un altra copia, ma puoi accedere ad una già esistente.",
         "already_own": "Ehm....sembra che lo hai già",
-        "must_link_account_description": "Devi linkare questa pagina ad un account di itch.io prima di fare il download. Ricorda, gli account sono gratis e ti faranno vedere ogni gioco che hai collezionato.",
+        "must_link_account_description": "Devi collegare questa pagina ad un account di itch.io prima di fare il download. Ricorda, gli account sono gratis e ti faranno vedere ogni gioco che hai collezionato.",
         "check_out_more_from_jam_title": "Scopri di più da {{jam_title}}",
         "recommendations_title": "Potresti essere interessato a",
         "trouble_downloading_link": "Non parte il download?",
@@ -448,11 +448,20 @@
                 "rate_this_submission": "Valuta questa consegna",
                 "vote_for_this_submission": "Vota per questa consegna",
                 "private_field": "(privato)",
-                "vote": "Vota"
+                "vote": "Vota",
+                "disqualified_message": "Questa entrata è squalificata e non accetta recensioni.",
+                "you_voted_ago": "Hai votato {{timestamp}}.",
+                "you_just_voted": "Hai appena votato.",
+                "you_havent_rated_this_submission_yet": "Non hai ancora recensito questa consegna.",
+                "save_rating": "Salva recensione",
+                "save_vote": "Salva il tuo voto",
+                "other_participants_can_rate": "Solo chi è entrato nella jam potrà valutare la tua entrata.",
+                "you_will_be_able_to_rate_if_you_submit": "Lo potrai recensire solo quando avrai consegnato il tuo.",
+                "participate_to_rate_message": "Per recensire questa consegna devi essere <a>loggato su itch.io</a> e aver consegnato il tuo lavoro. Chiunque ha un account può lasciare un commento."
             },
             "rated_by_people_count": "Votato da {{count}} persona",
             "rated_by_people_count_plural": "Votato da {{count}} persone",
-            "time_remaining_before_deadline": "Ancora {{time_duration}} prima della scadenza",
+            "time_remaining_before_deadline": "Hai ancora {{time_duration}} prima della scadenza",
             "submitted_by_contributors": "Consegnato da {{contributors}}",
             "ranked_with_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
             "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
@@ -496,7 +505,7 @@
             "no_rankings_available": "Nessuna classifica disponibile",
             "empty_page_message": "Nessun risultato disponibile per questa pagina",
             "empty_message": "Non c'è ancora niente, prova a ricontrollare più tardi",
-            "average_and_median_results": "Le recensioni date  per gioco sono state <s>{{average_ratings}}</s> e la media era di <s>{{median_ratings}}</s>.",
+            "average_and_median_results": "Le recensioni date per gioco sono state <s>{{average_ratings}}</s> e la media era di <s>{{median_ratings}}</s>.",
             "ratings_given_submissions_count": "È stata lasciata <s>{{count}}recensione</s> a<s>{{submission_count}}entrata</s>({{percent}}%) tra il {{vote_start_date}} e il {{vote_end_date}}.",
             "ratings_given_submissions_count_plural": "Sono state lasciate <s>{{count}}recensioni</s> a<s>{{submission_count}}entrate</s>({{percent}}%) tra il {{vote_start_date}} e il {{vote_end_date}}.",
             "ratings_given_count": "È stata lasciata <s>{{count}}recensione</s> tra il {{vote_start_date}} e il{{vote_end_date}}.",
@@ -549,19 +558,23 @@
             "links": {
                 "edit_jam": "Modifica la jam",
                 "submission_feed": "Feed delle richieste",
-                "screenshots": "Screenshots",
+                "screenshots": "Screenshot",
                 "overview": "Panoramica",
-                "submissions": "Richieste",
+                "submissions": "Consegne",
                 "results": "Risultati",
                 "community": "Comunità"
             },
             "hosted_by": "Creata da {{hosts}}"
+        },
+        "screenshots": {
+            "loading_more": "Sto cercando altri screenshot...",
+            "empty_message": "Non c'è nessuno screenshot per ora"
         }
     },
     "dashboard": {
         "edit_project": {
             "content_guidelines_header": "Assicurati che chiunque possa trovare la tua pagina",
-            "file_size_limit": "Limite grandezza file: {{filesize}}. <a>Contattaci</a> se ti serve più spazio",
+            "file_size_limit": "Puoi caricare al massimo: {{filesize}}. <a>Contattaci</a> se te ne serve di più",
             "add_external_file_button": "Aggiungi file esterno",
             "upload_files_button": "File di upload",
             "uploads_header": "Upload",
@@ -570,7 +583,7 @@
             "community_disabled": "Disabilitata",
             "community_field": "Comunità",
             "instructions_field_info1": "Questo testo sarà mostrato a qualcuno quando sta scaricando il tuo gioco attraverso il suo browser. Includi informazioni su come installare e avviare ciò che stanno scaricando.",
-            "instructions_field_info2": "Se il tuo gioco richiede librerie o programmi d ainstallaer a priori dovresti includere anche quella informazione",
+            "instructions_field_info2": "Se per giocare servono librerie o vari programmi, dovresti scriverlo nelle informazioni",
             "description_field_description": "Questo formerà il contenuto della pagina del gioco.",
             "project_type_help": "Puoi aggiungere altri file scaricabili per ciascuno dei tipi sovrastanti",
             "tip_label": "Consiglio",
@@ -587,34 +600,140 @@
             "kind_of_project_field": "Tipo di progetto",
             "classification_field_description": "Cosa stai caricando?",
             "classification_field": "Classificazione",
-            "short_description_field_description": "Mostrata in un collegamento al tuo progetto. Evita di duplicare il titolo del progetto",
-            "short_description_field": "Breve descrizione o tagline",
+            "short_description_field_description": "Sarà visibile in un collegamento al tuo progetto. Evita di duplicare il titolo del progetto",
+            "short_description_field": "Breve descrizione o etichette",
             "delete_game_button": "Elimina gioco",
-            "video_field_description": "Fornisci un link a YouTube o Vimeo.",
-            "video_field": "Video gameplay o trailer",
-            "save_and_view_button": "Salva & visualizza pagina",
+            "video_field_description": "Hai bisogno di un link YouTube o Vimeo.",
+            "video_field": "Gameplay o trailer",
+            "save_and_view_button": "Salva & visualizza la pagina",
             "project_url_field": "URL del progetto",
             "title_field": "Titolo",
             "edit_project_title": "Modifica progetto",
             "create_a_new_project_title": "Crea un nuovo progetto",
             "visibility_access_header": "Visibilità & accesso",
             "error_dialog": {
-                "title": "C'è un problema con il salvataggio del tuo progetto",
-                "confirm_button": "Capito"
+                "title": "Un problema ha impedito il salvataggio del tuo progetto",
+                "confirm_button": "Ho capito"
             },
             "errors": {
-                "invalid_image": "Per favore modifica la tua immagine o prova con un'altra",
-                "invalid_file": "C'è un problema con il file che hai selezionato"
+                "invalid_image": "Per favore modifica la tua immagine o provane un'altra",
+                "invalid_file": "Riprova, c'è un problema con il file che hai selezionato"
             },
             "cover_uploader": {
-                "upload_button": "Carica Immagine di Copertina",
+                "upload_button": "Carica Copertina",
                 "remove_image": "Rimuovi Immagine",
-                "replace_image": "Sostituisci Immagine di Copertina",
-                "cover_description": "L'immagine di copertina viene usata quando itch.io vuole fare un collegamento al tuo progetto da un'altra parte del sito. Richiesto (Minimo: 315x250, Racomandato: 630x500)",
-                "confirm_remove": "Sei sicuro di voler rimuovere l'immagine di copertina?"
+                "replace_image": "Sostituisci Copertina",
+                "cover_description": "L'immagine di copertina viene usata quando itch.io crea un collegamento al tuo progetto. Richiesto (Minimo: 315x250, Raccomandato: 630x500)",
+                "confirm_remove": "Sei sicuro di voler rimuovere la copertina?"
             },
             "payment_warning_info": "Se imposti un prezzo minimo superiore a 0 nessuno potrà scaricare il tuo progetto. <a>Modifica account</a>",
-            "payment_warning_header": "Non hai configurato il pagamento"
+            "payment_warning_header": "Non hai configurato il pagamento",
+            "screenshots_header": "Screenshot",
+            "add_screenshots": "Aggiungi screenshot",
+            "community_discussion_board_info": "Aggiungi una comunità nella tua pagina con categoria, commenti, risposte & altro",
+            "community_comments_info": "Aggiungi un area commenti sotto il tuo progetto",
+            "community_field_info": "Aggiungi una comunità per il tuo progetto lasciando così la possibilità alla gente di postare sulla tua pagina.",
+            "uploads": {
+                "change_display_name_button": "Cambia il nome",
+                "set_price_toggle": "Imposta un prezzo diverso per il file",
+                "preorder_toggle": "Questo file è stato pre-ordinato",
+                "demo_toggle": "Questa è solo una demo ed è gratis",
+                "hide_toggle": "Nascondi il file per prevenire i download",
+                "play_in_browser_toggle": "Sarà giocato tramite Internet",
+                "delete_file_button": "Cancella file"
+            },
+            "pricing": {
+                "price_too_low_error": "Inserisci una somma maggiore del prezzo del progetto",
+                "default_price_info": "Il prezzo predefinito verrà mostrato quando qualcuno prova a comprare il tuo progetto",
+                "suggested_price_label": "Prezzo suggerito",
+                "suggested_donation_label": "Suggerisci donazioni",
+                "suggest_default_price_label": "Suggerisci un prezzo predefinito diverso",
+                "payment_disabled_info": "Il progetto sarà completamente gratis e nessuno potrà donare",
+                "default_donation_amount_info": "Prezzo predefinito per una donazione",
+                "free_price_info": "Chi scaricherà il tuo gioco visualizzerà la pagina delle donazioni. Ma potranno andare a quella del download gratuitamente.",
+                "minimum_price_info": "Il prezzo minimo da pagare per giocare al tuo gioco",
+                "minimum_price_label": "Prezzo minimo",
+                "embed_pricing_info": "Impostando un prezzo minimo limiterà solo i file da scaricare, ma quelli incorporati solo disponibili gratuitamente.",
+                "no_payments": "Gratis",
+                "paid": "Da pagare",
+                "free_or_donate": "da {{money}} o donazioni"
+            },
+            "details_genre_info": "Seleziona le categorie che descrivono il tuo gioco. Puoi selezionare dei generi vari qui sotto",
+            "details_tags_header": "Etichette",
+            "details_genre_header": "Genere",
+            "embed_options": {
+                "launch_fullscreen_option": "Clicca per eseguirlo a schermo intero",
+                "embed_in_page_option": "Embed nella pagina",
+                "enable_scrollbars_option": "Abilita le scrollbars",
+                "fullscreen_button_option": "Bottone fullscreen",
+                "orientation": "Orientamento",
+                "mobile_friendly_info": "Il tuo progetto può essere usato su telefono (ovviamente risoluzione minore e supporto del tocco)",
+                "mobile_friendly_option": "Mobile friendly",
+                "frame_options": "Opzioni cornice",
+                "height": "Altezza",
+                "width": "Larghezza",
+                "viewport_dimensions": "Dimensioni"
+            },
+            "embed_options_header": "Impostazioni embed",
+            "access_control": {
+                "access_settings": "Impostazioni accesso",
+                "restricted_access_settings": "Impostazioni accesso limitato",
+                "public_access_settings": "Impostazioni accesso pubblico",
+                "password_label": "Password",
+                "allow_password_option": "Puoi anche aggiungere una password per visualizzare la pagina",
+                "unlisted_option": "Non elencato in cerca & sfoglia",
+                "disable_downloads_option": "Disabilita i download e gli acquisti"
+            },
+            "visibility_access_info": "Abbozza la tua pagina prima di pubblicarla. <a>Di più sulla modalità d'accesso</a>",
+            "content_guidelines_info": "Riguarda la <a>guida sulla qualità</a> prima di caricare il tuo progetto",
+            "community_discussion_board": "Angolo discussione",
+            "default_noun": "Non scrivere niente per: '{{default_noun}}'."
+        },
+        "project_header": {
+            "more": "Di più",
+            "admins": "Admin",
+            "rewards": "Ricompense",
+            "discussion_board": "Area discussioni",
+            "edit_comments": "Modifica commenti",
+            "interact": "Interagisci",
+            "distribute": "Distribuisci",
+            "analytics": "Analisi",
+            "metadata": "Metadata",
+            "devlog": "Diario di sviluppo",
+            "edit_project": "Modifica"
+        },
+        "dashboard": "Dashboard",
+        "hello": "Ciao!",
+        "new_devlog": "Nuovo diario di sviluppo",
+        "recently_updated_pages_header": "Pagine aggiornate recentemente",
+        "not_a_developer_escape": "Nah, portami al feed dei giochi",
+        "intro_text": "Per caso sei uno sviluppatore? Carica il tuo primo gioco",
+        "analytics_summary_header": "Sommario",
+        "project_list": {
+            "no_image": "Nessuna immagine",
+            "widget": "Widget",
+            "analytics": "Analisi",
+            "edit": "Modifica"
+        },
+        "create_new_project_button": "Crea un progetto",
+        "header": {
+            "game_jams_link": "Jam dei giochi",
+            "coop_bundles_link": "Offerte cooperative",
+            "sales_bundles_link": "In vendita & offerte",
+            "payouts_link": "Pagamenti",
+            "analytics_link": "Analisi",
+            "payments_link": "Pagamenti",
+            "projects_link": "Progetti"
+        },
+        "page_title": "Dashboard dei creatori",
+        "follow_itchio": "Segui itch.io su {{twitter}} e anche su {{facebook}}",
+        "stats": {
+            "following": "Segui già",
+            "followers": "Follower",
+            "downloads": "Download",
+            "views": "Visualizzazioni",
+            "payments": "Pagamenti",
+            "gross_revenue": "Bozza del redditto"
         }
     },
     "app": {
@@ -1111,5 +1230,110 @@
             "reply": "Rispondi",
             "topic_is_archived": "Questo argomento è stato archiviato e non è più visibile"
         }
+    },
+    "feed": {
+        "event": {
+            "collection_added_count": "Aggiunto {{count}} oggetto.",
+            "collection_added_count_plural": "Aggiunti {{count}} oggetti.",
+            "collection_summary": "Una collezione contenente {{count}} oggetto.",
+            "collection_summary_plural": "Una collezione contenente {{count}} oggetti."
+        },
+        "profile_notice": {
+            "description": "Non hai ancora un immagine di profilo, non è meglio essere subito riconosciuti?",
+            "add_a_profile_image": "Aggiungi un immagine di profilo"
+        },
+        "email_warning": {
+            "verify_your_email_address": "Verifica il tuo indirizzo email"
+        },
+        "event_filter_label": "Filtro:",
+        "upload_a_game_button": "Carica un gioco",
+        "manage_my_games_button": "Modifica i miei giochi",
+        "global_feed_tab": "Feed globale",
+        "my_feed_tab": "Il mio feed",
+        "to_follow": {
+            "to_follow_description": "Ecco alcuni account che potrebbero interessarti.",
+            "people_to_follow_header": "Chi seguire"
+        },
+        "to_rate": {
+            "to_rate_description": "Ci sono dei progetti che hai visto, ma non li hai recensiti.",
+            "projects_to_rate_header": "Progetti da recensire"
+        },
+        "featured_tags_header": "Etichette più usate",
+        "latest_featured_games_header": "Giochi in primo piano",
+        "filter_ratings_tab": "Recensioni",
+        "filter_devlogs_tab": "Diari di sviluppo",
+        "filter_collections_tab": "Collezioni",
+        "filter_new_projects_tab": "Nuovi progetti",
+        "filter_everything_tab": "Tutto",
+        "filter_own_activity_tab": "La mia attività"
+    },
+    "library": {
+        "redeem_button": "Riscatta",
+        "rate_game": {
+            "you_rated_this_project_ago": "Hai già recensito questo progetto {{time_ago}}.",
+            "rate_header": "Vota & recensisci {{project_title}}",
+            "choose_stars": "Scegli una recensione da 1 a 5 stelle.",
+            "delete_button": "Cancella recensione & revisione",
+            "rating_deleted_summary": "La tua recensione è stata cancellata.",
+            "rating_removed_header": "Recensione rimossa",
+            "follow_creator": "Segui {{project_title}} per essere aggiornato su i suoi ultimi rilasci.",
+            "rating_saved_header": "Recensioni salvate"
+        },
+        "gift_button": "Regalini",
+        "download_button": "Download",
+        "nav": {
+            "things_to_rate": "Roba da recensire",
+            "things_on_sale": "Roba in vendita",
+            "recommended_for_you": "Raccomandato per te",
+            "my_purchases": "Acquisti che ho fatto"
+        },
+        "nav_header": "Libreria",
+        "empty_collection_message": "Questa collezione è vuota",
+        "go_to_collection_link": "Vai alla collezione",
+        "private_toggle": "Privato",
+        "permalink": "Link permanente",
+        "things_rated_header": "Cose che ho recensito",
+        "show_on_my_profile_toggle": "Mostra il mio profilo",
+        "view_all_link": "Tutto",
+        "things_you_own_header": "Le tue cose",
+        "page_title": "La mia libreria"
+    },
+    "jams": {
+        "count_joined": "{{count}} unito",
+        "browse_in_progress": "In lavorazione",
+        "browse_top_past_jams": "Jam passate",
+        "brose_featured_jams": "Jam in evidenza",
+        "browse_upcoming_this_month": "In arrivo questo mese",
+        "dont_see_something_you_like_header": "Vedi qualcosa di tuo gradimento?",
+        "host_or_explore_links": "<1>Lancia la tua jam<1/> o <2>Esplora tutte le jam<2/>",
+        "host_your_own_jam_button": "Lancia la tua jam",
+        "jam_calendar_header": "Calendario della jam",
+        "browse_jams_header": "Sfoglia jam",
+        "manage_submissions_link": "Modifica le consegne e le jam",
+        "host_a_jam_button": "Crea un jam",
+        "games_created": "<s>{{count}} gioco</s> è stato creato per una jam di itch.io.",
+        "games_created_plural": "<s>{{count}} giochi</s> sono stati per una jam di itch.io.",
+        "page_summary": "Su itch.io puoi creare e partecipare alle jam online. Ognuno può creare e lanciare un jam istantaneamente.",
+        "page_title": "Jam dei giochi su itch.io",
+        "jams_joined_header": "Jam a cui ti sei unito",
+        "jams_created_header": "Jam che hai creato"
+    },
+    "game_grid": {
+        "in_bundle": "In offerta"
+    },
+    "add_to_collection": {
+        "about_this_project_label": "Su questo progetto",
+        "private_collection_option": "Collezione privata — Solo tu puoi vederlo",
+        "manage_collections_link": "Modifica collezioni",
+        "add_button": "Aggiungi alla collezione",
+        "default_title": "La collezione di {{username}}",
+        "add_to_new": "Aggiungi ad una collezione intitolata",
+        "private_collection_title": "[Privato] {{title}}",
+        "add_to_existing": "Aggiungi ad una collezione esistente",
+        "count_items": "{{count}} oggetto",
+        "count_items_plural": "{{count}} oggetti",
+        "already_in_collections": "Il progetto è già in queste collezioni:",
+        "add_reason": "Aggiungilo alla collezione per dopo.",
+        "dialog_title": "Aggiungi {{project_title}} alla collezione"
     }
 }
