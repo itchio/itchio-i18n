@@ -261,8 +261,9 @@
             "follow_username": "Anda perlu mempunyai akaun itch.io sebelum anda boleh mengikuti <1>{{username}}</1>.",
             "collection": "Anda perlu mempunyai akaun itch.io sebelum anda boleh tambah kepada koleksi.",
             "jam_submit": "Anda perlu mempunyai akaun itch.io sebelum anda boleh menghantar ke jam permainan.",
-            "claim_object": "Sila log masuk atau mencipta akaun untuk menuntut {{noun}}",
-            "recent_purchases": "Log masuk untuk memaut mana-mana pembelian yang anda telah baru lakukan."
+            "claim_object": "Sila log masuk atau mencipta akaun untuk menuntut {{noun}}.",
+            "recent_purchases": "Log masuk untuk memaut mana-mana pembelian yang anda telah baru lakukan.",
+            "claim_object_title": "Sila log masuk atau mencipta akaun untuk menuntut {{title}}."
         },
         "no_account_prompt": "Tiada akaun? <1>Cipta akaun</1>",
         "page_title": "Log masuk",
@@ -270,7 +271,8 @@
         "welcome_back": "Selamat kembali!",
         "welcome_to_itchio": "Selamat datang ke itch.io!",
         "errors": {
-            "accept_terms": "Anda perlu menerima syarat perkhidmatan"
+            "accept_terms": "Anda perlu menerima syarat perkhidmatan",
+            "please_enter_a_valid_email_address": "Sila isikan alamat e-mel yang sah"
         }
     },
     "user_register": {
@@ -288,7 +290,129 @@
             "about_you": "Tentang anda",
             "your_email_address": "Alamat emel anda",
             "password": "Kata laluan",
-            "repeat_password": "Ulangi kata laluan"
+            "repeat_password": "Ulangi kata laluan",
+            "other_registration_methods": "Kaedah pendaftaran yang lain",
+            "username": "Nama pengguna",
+            "url_preview": "Alamat halaman profil anda ialah"
+        },
+        "page_title": "Daftar akaun"
+    },
+    "feed": {
+        "event": {
+            "collection_added_count": "{{count}} barangan ditambah.",
+            "collection_summary": "Koleksi dengan {{count}} barangan."
+        }
+    },
+    "jam": {
+        "results": {
+            "votes_cast_count": "<s>{{count}}</s> undi telah dijalankan antara {{vote_start_date}} dan {{vote_end_date}}."
+        }
+    },
+    "app": {
+        "for_platforms": "Untuk <1>Windows</1>, <2>macOS</2>, dan <3>Linux</3>",
+        "start_download": "Mulakan Muat Turun"
+    },
+    "search": {
+        "view_all_tags": "Tunjukkan semua tag",
+        "published_count": "{{count}} projek",
+        "creators": "Pencipta:"
+    },
+    "developers": {
+        "upload_or_dashboard": "<1>Muat naik permainan baru</1><em>atau</em><2>Pergi ke papan pemuka</2>",
+        "my_dashboard": "Papan pemuka saya",
+        "create_account_or_login": "<1>Cipta akaun</1> <em>atau</em> <2>Log masuk</2>",
+        "share_message": "itch.io ialah cara yang mudah untuk agihkan permainan indie anda di atas talian dengan percuma.",
+        "learn_more_about": "Ketahui lebih lanjut tentang:",
+        "learn_more": "Ketahui Lebih Lanjut",
+        "host_a_sale": "Anjurkan Jualan",
+        "track_your_game": "Jejak Permainan Anda",
+        "upload_your_indie_game": "Muat Naik Permainan Indie Anda",
+        "account_faq_cta": "<1>Cipta akaun sekarang</1> atau <2>Baca FAQ</2>",
+        "upload_a_new_game": "Muat naik permainan baru",
+        "page_header": "Cipta halaman sendiri untuk mengagihkan atau menjual permainan indie anda dengan segera"
+    },
+    "user_settings": {
+        "profile": {
+            "website_description": "URL pilihan untuk ditunjukkan di halaman profil",
+            "website": "Laman Sesawang",
+            "use_dark_theme": "Guna tema gelap apabila ada"
+        }
+    },
+    "jams": {
+        "page_summary": "itch.io adalah tempat untuk menganjurkan dan menyertai 'game jams' atas talian. Sesiapa sahaja boleh cipta dan anjurkab sebuah 'jam'.",
+        "page_title": "Game Jams di itch.io",
+        "jams_joined_header": "Jams yang anda sertai",
+        "jams_created_header": "Jams yang anda cipta"
+    },
+    "game_grid": {
+        "in_bundle": "Dalam berkas"
+    },
+    "add_to_collection": {
+        "about_this_project_label": "Tentang projek ini",
+        "private_collection_option": "Koleksi sulit — Hanya anda yang boleh melihat kandungan-kandungan",
+        "manage_collections_link": "Urus koleksi",
+        "add_button": "Tambah ke koleksi",
+        "default_title": "Koleksi {{username}}",
+        "add_to_new": "Tambah ke koleksi baru yang dinyatakan",
+        "private_collection_title": "[Sulit] {{title}}",
+        "add_to_existing": "Tambah ke koleksi sedia ada",
+        "already_in_collections": "Projek ini sudah termasuk dalam koleksi berikut:",
+        "add_reason": "Tambah projek ini ke koleksi bagi disimpan untuk kemudian.",
+        "count_items": "{{count}} barang",
+        "dialog_title": "Tambah {{project_title}} ke koleksi"
+    },
+    "dashboard": {
+        "project_header": {
+            "admins": "Pentadbir-pentadbir",
+            "rewards": "Ganjaran-ganjaran",
+            "discussion_board": "Papan perbincangan",
+            "edit_comments": "Edit Komen-komen",
+            "interact": "Berinteraksi",
+            "distribute": "Pengagihan",
+            "edit_project": "Edit projek",
+            "analytics": "Analitik",
+            "more": "Lagi"
+        },
+        "edit_project": {
+            "screenshots_header": "Tangkapan skrin",
+            "error_dialog": {
+                "confirm_button": "Faham"
+            },
+            "errors": {
+                "invalid_image": "Sila edit gambar anda atau cuba yang lain",
+                "invalid_file": "Terdapat isu dengan fail yang anda pilih"
+            },
+            "cover_uploader": {
+                "upload_button": "Muat Naik Gambar Muka Depan",
+                "remove_image": "Buang Gambar",
+                "replace_image": "Gantikan Gambar Muka Depan"
+            },
+            "content_guidelines_header": "Pastikan semua orang boleh menemui halaman anda",
+            "file_size_limit": "Had saiz fail: {{filesize}}. <a>Hubungi kami</a> jika anda memerlukan lebih banyak ruang",
+            "add_external_file_button": "Tambah fail luaran",
+            "upload_files_button": "Muat naik fail-fail",
+            "uploads_header": "Muat naik",
+            "pricing_header": "Harga",
+            "community_discussion_board": "Papan perbincangan",
+            "community_comments": "Komen",
+            "community_disabled": "Nyahdayakan",
+            "community_field": "Komuniti",
+            "project_type_help": "Anda boleh menambah fail yang boleh dimuat turun untuk jenis-jenis di atas",
+            "types": {
+                "downloadable": "Boleh dimuat turun"
+            },
+            "classification_other": "Yang lain",
+            "description_field": "Huraian",
+            "details_section_header": "Perincian",
+            "release_status_field": "Status pelepasan",
+            "kind_of_project_field": "Jenis projek",
+            "title_field": "Tajuk",
+            "edit_project_title": "Edit projek",
+            "create_a_new_project_title": "Cipta projek baru",
+            "project_url_field": "URL projek",
+            "delete_game_button": "Padam permainan",
+            "classification_field_description": "Apa yang anda muat naik?",
+            "classification_field": "Klasifikasi"
         }
     }
 }
