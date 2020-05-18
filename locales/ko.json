@@ -271,7 +271,8 @@
         "welcome_back": "돌아오셨군요!",
         "welcome_to_itchio": "itch.io에 오신 걸 환영합니다!",
         "errors": {
-            "accept_terms": "이용약관에 동의해야 함"
+            "accept_terms": "이용약관에 동의해야 함",
+            "please_enter_a_valid_email_address": "유효한 이메일 주소를 입력해주세요"
         }
     },
     "user_register": {
