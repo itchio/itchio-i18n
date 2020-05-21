@@ -1,1 +1,68 @@
-{}
+{
+    "index": {
+        "random_game": "เกมจากการสุ่ม",
+        "from_the_blog": "จากหน้าบล็อก",
+        "dont_see_anything_you_like": "ไม่พบสิ่งที่ค้นหาอยู่ใช่หรือไม่?",
+        "view_all_games": "ดูเกมทั้งหมด",
+        "view_something_random": "เลือกดูอย่างสุ่ม",
+        "download_app": "ดาวน์โหลดแอพ",
+        "games_by_price": "ค้นหาเกมจากราคา",
+        "browse": "ค้นหา",
+        "popular_tags": "แท็กยอดนิยม"
+    },
+    "layout": {
+        "user_menu": {
+            "account_menu_tooltip": "เมนูหลักแอคเคาท์",
+            "feed": "ข่าวสารของฉัน",
+            "library": "ไลบรารีเกมของฉัน",
+            "recommendations": "เกมแนะนำ",
+            "game_jams": "แจมเกม",
+            "dashboard": "แดชบอร์ด",
+            "new_project": "อัพโหลดโปรเจ็กต์ใหม่",
+            "sales_bundles": "ลดราคา&บันเดิล",
+            "view_profile": "ดูข้อมูลส่วนตัว",
+            "settings": "ตั้งค่า",
+            "log_out": "ออกจากระบบ",
+            "account": "หมวดบัญชี",
+            "create": "หมวดสร้างสรรค์",
+            "explore": "หมวดสำรวจ"
+        },
+        "header": {
+            "feed": "ข่าวสาร",
+            "feed_unseen_count": "{{count}} ใหม่",
+            "games": "เกม",
+            "fun_games": "เกมแนวสนุกสนาน",
+            "game_assets": "วัตถุดิบสร้างเกม",
+            "bundles": "บันเดิล",
+            "sales": "ลดราคา",
+            "comics": "การ์ตูน",
+            "game_development": "ตัวช่วยในการสร้างเกม",
+            "indie_game_store": "ร้านค้าเกมอินดี้",
+            "free_games": "เกมฟรี",
+            "no_notifications": "ไม่มีการแจ้งเตือนใหม่",
+            "notifications_count": "{{count}} แจ้งเตือน",
+            "jams": "แจม",
+            "dashboard": "แดชบอร์ด",
+            "register": "สมัคร",
+            "log_in": "เข้าสู่ระบบ",
+            "search": "ค้นหา",
+            "search_placeholder": "ค้นหาเกมหรือชื่อผู้สร้างได้ที่นี่",
+            "community": "คอมมูนิตี้",
+            "devlogs": "สาสน์จากผู้พัฒนา",
+            "upload_game": "อัพโหลดเกม",
+            "browse_games": "ค้นหาเกม",
+            "browse": "ค้นหา"
+        },
+        "footer": {
+            "cookies": "คุกกี้",
+            "privacy": "ความเป็นส่วนตัว",
+            "directory": "หมวดหมู่",
+            "terms": "เงื่อนไขการใช้บริการ",
+            "contact_us": "ติดต่อเรา",
+            "blog": "บล็อก",
+            "faq": "เรื่องที่ถามบ่อย",
+            "about": "เกี่ยวกับ"
+        }
+    },
+    "itchio": "itch.io"
+}
