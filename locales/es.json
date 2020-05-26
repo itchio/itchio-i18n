@@ -381,7 +381,8 @@
             "publisher": "Editor",
             "platforms": "Plataformas",
             "asset_license": "Licencia de assets",
-            "languages": "Lenguajes"
+            "languages": "Lenguajes",
+            "average_session_duration": "Sesión media"
         },
         "community_sticky": "Fijado",
         "more_information": "Más información",
