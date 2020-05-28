@@ -416,14 +416,18 @@
         "in_order_to_access": "Para acceder a este {{noun}} debes comparlo al precio mínimo de {{price}} o más.",
         "layout": {
             "ownership": {
-                "you_own_this": "Ya tienes esto"
+                "you_own_this": "Ya tienes esto",
+                "send_gift": "Enviar regalo"
             },
             "view_all_by_name": "Ver los juegos de {{name}}"
         },
         "report_form": {
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
         },
-        "community_view_all_posts": "Ver todas las publicaciones"
+        "community_view_all_posts": "Ver todas las publicaciones",
+        "upload_list": {
+            "this_file_will_be_available_when_the_creator_uploads_it": "Este archivo estará disponible cuando el creador lo suba"
+        }
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
