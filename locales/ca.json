@@ -273,7 +273,8 @@
         "welcome_back": "Ben tornat!",
         "welcome_to_itchio": "Benvingut a itch.io!",
         "errors": {
-            "accept_terms": "Cal que accepteu els Termes del servei"
+            "accept_terms": "Cal que accepteu els Termes del servei",
+            "please_enter_a_valid_email_address": "Introduïu una adreça electrònica vàlida"
         }
     },
     "user_register": {
