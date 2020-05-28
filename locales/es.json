@@ -422,7 +422,8 @@
         },
         "report_form": {
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
-        }
+        },
+        "community_view_all_posts": "Ver todas las publicaciones"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
