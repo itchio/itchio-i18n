@@ -382,7 +382,8 @@
             "platforms": "Plataformas",
             "asset_license": "Licencia de assets",
             "languages": "Lenguajes",
-            "average_session_duration": "Sesión media"
+            "average_session_duration": "Sesión media",
+            "inputs": "Entradas"
         },
         "community_sticky": "Fijado",
         "more_information": "Más información",
