@@ -19,10 +19,16 @@
             "search": "搜尋",
             "upload_game": "上傳遊戲",
             "games": "遊戲",
-            "comics": "漫畫"
+            "comics": "漫畫",
+            "game_jams": "Game Jams"
         },
         "footer": {
-            "blog": "部落格"
+            "blog": "部落格",
+            "terms": "服務條款",
+            "cookies": "Cookie 條款",
+            "privacy": "隱私權",
+            "directory": "網站目錄",
+            "contact_us": "聯絡我們"
         },
         "user_menu": {
             "log_out": "登出"
@@ -35,5 +41,6 @@
         "free_games": "免費遊戲",
         "random_game": "隨機遊戲",
         "browse": "瀏覽"
-    }
+    },
+    "itchio": "itch.io"
 }
