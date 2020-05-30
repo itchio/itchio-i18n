@@ -42,5 +42,25 @@
         "random_game": "隨機遊戲",
         "browse": "瀏覽"
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "misc": {
+        "filter_when": {
+            "last_30_days": "過去 30 天內",
+            "last_7_days": "過去 7 天內",
+            "last_day": "昨天"
+        },
+        "follow_button": {
+            "unfollow": "取消追蹤",
+            "unfollow_username": "取消追蹤 {{username}}",
+            "following": "正在追蹤",
+            "following_username": "正在追蹤 {{username}}",
+            "follow": "追蹤",
+            "follow_username": "追蹤 {{username}}"
+        },
+        "page_number": "第 {{page_number}} 頁",
+        "forms": {
+            "form_errors": "請檢查您所提供的資訊",
+            "search": "搜尋"
+        }
+    }
 }
