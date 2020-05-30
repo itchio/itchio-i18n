@@ -1,1 +1,29 @@
-{}
+{
+    "dashboard": {
+        "edit_project": {
+            "access_control": {
+                "password_label": "密碼"
+            },
+            "cover_uploader": {
+                "remove_image": "刪除圖片"
+            }
+        }
+    },
+    "layout": {
+        "header": {
+            "jams": "Game Jam",
+            "free_games": "免費遊戲",
+            "no_notifications": "沒有新的通知",
+            "notifications_count": "{{count}} 則通知",
+            "register": "註冊",
+            "search": "搜尋",
+            "upload_game": "上傳遊戲"
+        },
+        "footer": {
+            "blog": "部落格"
+        }
+    },
+    "library": {
+        "download_button": "下載"
+    }
+}
