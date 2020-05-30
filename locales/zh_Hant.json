@@ -17,13 +17,23 @@
             "notifications_count": "{{count}} 則通知",
             "register": "註冊",
             "search": "搜尋",
-            "upload_game": "上傳遊戲"
+            "upload_game": "上傳遊戲",
+            "games": "遊戲",
+            "comics": "漫畫"
         },
         "footer": {
             "blog": "部落格"
+        },
+        "user_menu": {
+            "log_out": "登出"
         }
     },
     "library": {
         "download_button": "下載"
+    },
+    "index": {
+        "free_games": "免費遊戲",
+        "random_game": "隨機遊戲",
+        "browse": "瀏覽"
     }
 }
