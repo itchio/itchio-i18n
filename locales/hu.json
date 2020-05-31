@@ -48,7 +48,8 @@
             "new_project": "Új projekt feltöltése",
             "recommendations": "Ajánlások",
             "library": "Könyvtáram",
-            "account_menu_tooltip": "Fiók menü"
+            "account_menu_tooltip": "Fiók menü",
+            "feed": "Hírfolyamom"
         }
     },
     "index": {
@@ -114,7 +115,8 @@
             "other": "Egyebek",
             "tool": "Eszközök",
             "comic": "Képregények",
-            "book": "Könyvek"
+            "book": "Könyvek",
+            "assets": "Játéktartalom"
         },
         "accessibility_features": {
             "colorblind": "Színvak-barát",
@@ -253,7 +255,8 @@
             "follow_username": "Mielőtt követhetnéd <1>{{username}}</1> felhasználót, először szükséged lesz egy itch.io fiókra.",
             "collection": "Gyűjteménybe adáshoz először szükséged lesz egy itch.io fiókra.",
             "claim_object": "A(z) {{noun}} begyűjtéséhez először jelentkezz be vagy hozz létre egy felhasználói fiókot.",
-            "recent_purchases": "Jelentkezz be ahhoz, hogy a közelmúltbeli vásárlásaidat hozzákapcsold a fiókodhoz."
+            "recent_purchases": "Jelentkezz be ahhoz, hogy a közelmúltbeli vásárlásaidat hozzákapcsold a fiókodhoz.",
+            "claim_object_title": "Jelentkezz be vagy hozz létre egy új profilt, hogy megszerezd a következőt: {{title}}."
         },
         "no_account_prompt": "Nincs fiókod? <1>Hozz létre egy fiókot</1>",
         "page_title": "Bejelentkezés",
@@ -261,7 +264,8 @@
         "welcome_back": "Üdvözlünk ismét!",
         "welcome_to_itchio": "Üdvözlünk az itch.io-n!",
         "errors": {
-            "accept_terms": "El kell fogadnod a szolgáltatás feltételeit"
+            "accept_terms": "El kell fogadnod a szolgáltatás feltételeit",
+            "please_enter_a_valid_email_address": "Írj be egy valós e-mail címet"
         }
     },
     "game": {
@@ -276,7 +280,53 @@
             "accept_tos": "Elfogadom a <1>szolgáltatás feltételeit</1>.",
             "link_product": "A megvásárolt <1>{{product}}</1> automatikusan össze lesz kapcsolva a fiókodhoz a regisztráció után.",
             "log_in": "Jelentkezz be",
-            "already_have_account": "vagy már van egy felhasználói fiókod?"
-        }
+            "already_have_account": "vagy már van egy felhasználói fiókod?",
+            "other_registration_methods": "Egyéb regisztrációs lehetőségek",
+            "username": "Felhasználónév",
+            "url_preview": "A profilod ezen a címen lesz elérhető:",
+            "repeat_password": "Írd be a jelszavad újra",
+            "password": "Jelszó",
+            "your_email_address": "Az e-mail címed",
+            "about_you": "Mit kell tudni rólad?",
+            "account_preferences_info": "A válaszaidat ezekre a kérdésekre később megváltoztathatod, mert ezeket az itch.io arra használja, hogy hogyan kellene bemutatnia magát neked.",
+            "interest_developer": "Tartalmat osztanék meg az itch.io-n.",
+            "interest_gamer": "Engem a játékok böngészőből játszása vagy letöltése érdekel az itch.io-n.",
+            "create_account": "Fiók létrehozása"
+        },
+        "page_title": "Fiók regisztrálása",
+        "create_an_account_on_itchio": "Hozz létre egy fiókot az itch.io-n"
+    },
+    "app": {
+        "for_platforms": "<1>Windows</1>-ra, <2>macOS</2>-re és <3>Linux</3>-ra",
+        "start_download": "Letöltés megkezdése",
+        "tagline": "Telepíts, frissíts és játssz indiejátékokkal!",
+        "share_message": "itch, az indiejátékok asztali alkalmazása",
+        "open_source": "Nyílt forráskódú"
+    },
+    "search": {
+        "search_results_for_query": "\"{{query}}\" keresési eredményei",
+        "browse_all_games": "Játékok böngészése",
+        "view_all_tags": "Az összes címke megtekintése",
+        "published_count": "projekt",
+        "published_count_plural": "projekt"
+    },
+    "developers": {
+        "design_your_games_page_description": "Hozz létre egy egyedi oldalt a játékodnak, ahol az emberek megvehetik vagy letölthetik. Szabd testre a színeket, a betűket, a képeket és a videókat. Mivel ez a játékoldalad, amit ide nem írsz le, azt nem fogják megtalálni.",
+        "upload_or_dashboard": "<1>Tölts fel egy új játékot <em>vagy</em> <2>lépj az irányítóközpontba</2>",
+        "create_account_or_login": "<1>Hozz létre egy fiókot</1> <em>vagy</em> <2>jelentkezz be</2>",
+        "share_message": "Az itch.io a legegyszerűbb módja az indie játékaid terjesztésének az interneten ingyen.",
+        "learn_more_about": "Tudj meg többet az alábbiakról:",
+        "upload_your_game_description": "Töltsd fel ingyen indie játékaidat az <s>itch.io</s>-ra. Mi tároljuk a játékaidat a képernyőmentésekkel és az egyéb letöltésekkel együtt. A letöltés mindig elérhető és gyors.",
+        "browser_game_description": "Szerezz pénzt a böngészőalapú játékaiddal azzal, hogy az <s>itch.io</s>-n tárolod. A játékod be van ágyazva a böngészőbe és a játékosok annyit adományozhatnak, amennyit szeretnének ha megszerették a játékodat.",
+        "learn_more": "Tudj meg többet",
+        "host_a_sale_description": "Népszerűsítsd a játékaid és szerezz több vásárlást azzal, hogy amikor szeretnéd, a játékaidat töredékáron kínálod megvételre.",
+        "track_your_game": "Kövesd a játékod",
+        "design_your_games_page": "Tervezd meg a játékod oldalát",
+        "upload_your_indie_game": "Töltsd fel az indie játékodat",
+        "account_faq_cta": "<1>Hozz létre egy fiókot</1> vagy <2> olvasd el a GY. I. K.-et</2>",
+        "upload_a_new_game": "Új játék feltöltése",
+        "product_summary2": "Még minimálárat is megadhatsz a játékodhoz, hogy megadd követőidnek a lehetőséget, hogy annyit fizessenek a játékodért, amennyit szeretnének.",
+        "product_summary1": "Az <s>itch.io</s> a legegyszerűbb út arra, hogy teljesen ingyen terjeszd indie játékaidat az interneten. Töltsd fel a játékod fájljait és képernyőképeit egy helyre. Készítsd egyedi nyitóoldalt, ahol a játékod van az előtérben!",
+        "page_header": "Hozz létre egy egyedi oldalt, hogy azonnal elkezdhesd terjeszteni az indie játékaid!"
     }
 }
