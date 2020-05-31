@@ -290,8 +290,18 @@
             "digest_signup": "Chcem sa prihlásiť na odber itch.io letákov raz za dva mesiace",
             "account_preferences_info": "Odpovede na tieto otázky môžete zmeniť neskôr, otázky slúžia na to aby vás itch.io spoznalo lepšie.",
             "interest_developer": "Mám záujem v distrubuvaný obsahu na itch.io",
-            "interest_gamer": "Mám záujem v hraní alebo sťahovaný hier z itch.io"
+            "interest_gamer": "Mám záujem v hraní alebo sťahovaný hier z itch.io",
+            "other_registration_methods": "Iné spôsoby registrácie",
+            "username": "Používateľské meno",
+            "url_preview": "Váš profil bude na",
+            "repeat_password": "Zopakujte heslo",
+            "password": "Heslo",
+            "your_email_address": "Vaša e-mailová adresa",
+            "about_you": "O Vás"
         },
         "page_title": "Registrovať účet"
+    },
+    "developers": {
+        "page_header": "Bleskovo si vytvorte vlastnú stránku na distribúciu alebo predaj vašich indie hier"
     }
 }
