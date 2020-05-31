@@ -302,6 +302,7 @@
         "page_title": "Registrovať účet"
     },
     "developers": {
-        "page_header": "Bleskovo si vytvorte vlastnú stránku na distribúciu alebo predaj vašich indie hier"
+        "page_header": "Instatne si vytvorte vlastnú stránku na distribúciu alebo predaj vašich indie hier",
+        "my_dashboard": "Moja nástenka"
     }
 }
