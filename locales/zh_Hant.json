@@ -20,7 +20,7 @@
             "upload_game": "上傳遊戲",
             "games": "遊戲",
             "comics": "漫畫",
-            "game_jams": "Game Jams",
+            "game_jams": "Game Jam",
             "community": "社區"
         },
         "footer": {
@@ -29,10 +29,13 @@
             "cookies": "Cookie 條款",
             "privacy": "隱私權",
             "directory": "網站目錄",
-            "contact_us": "聯絡我們"
+            "contact_us": "聯絡我們",
+            "about": "關於",
+            "faq": "常見問題"
         },
         "user_menu": {
-            "log_out": "登出"
+            "log_out": "登出",
+            "game_jams": "Game Jam"
         }
     },
     "library": {
@@ -62,6 +65,12 @@
         "forms": {
             "form_errors": "請檢查您所提供的資訊",
             "search": "搜尋"
+        },
+        "loading_more_ellip": "載入更多……"
+    },
+    "user_login": {
+        "errors": {
+            "accept_terms": "您必須接受服務條款"
         }
     }
 }
