@@ -287,7 +287,11 @@
             "log_in": "Prihlásiť sa",
             "accept_tos": "Súhlasím s <1>podmienkami služby</1>",
             "link_product": "Váš nákup <1>{{product}}</1> sa automaticky pripíše k Vášmu účtu po registrácii.",
-            "digest_signup": "Chcem sa prihlásiť na odber itch.io newslettra raz za dva mesiace"
-        }
+            "digest_signup": "Chcem sa prihlásiť na odber itch.io letákov raz za dva mesiace",
+            "account_preferences_info": "Odpovede na tieto otázky môžete zmeniť neskôr, otázky slúžia na to aby vás itch.io spoznalo lepšie.",
+            "interest_developer": "Mám záujem v distrubuvaný obsahu na itch.io",
+            "interest_gamer": "Mám záujem v hraní alebo sťahovaný hier z itch.io"
+        },
+        "page_title": "Registrovať účet"
     }
 }
