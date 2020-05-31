@@ -286,7 +286,8 @@
             "already_have_account": "alebo už máte účet?",
             "log_in": "Prihlásiť sa",
             "accept_tos": "Súhlasím s <1>podmienkami služby</1>",
-            "link_product": "Váš nákup <1>{{product}}</1> sa automaticky pripíše k Vášmu účtu po registrácii."
+            "link_product": "Váš nákup <1>{{product}}</1> sa automaticky pripíše k Vášmu účtu po registrácii.",
+            "digest_signup": "Chcem sa prihlásiť na odber itch.io newslettra raz za dva mesiace"
         }
     }
 }
