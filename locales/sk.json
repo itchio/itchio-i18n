@@ -304,10 +304,16 @@
     "developers": {
         "page_header": "Instatne si vytvorte vlastnú stránku na distribúciu alebo predaj vašich indie hier",
         "my_dashboard": "Moja nástenka",
-        "upload_your_indie_game": "Uploadnite Vašu indie hru",
+        "upload_your_indie_game": "Nahrajte Vašu Indie Hru",
         "account_faq_cta": "<1>Vytvorte si účet</1> alebo <2>prečítajte FAQ</2>",
         "upload_a_new_game": "Nahrať novú hru",
         "product_summary2": "Môžete dokonca nastaviť minimálnu cenu za hru a tým dať Vašim fanúšikom možnosť zaplatiť za hru koľko sami chcú.",
-        "product_summary1": "<s>itch.io</s> predstavuje jednoduchý spôsob ako zadarmo distribuovať Vaše indie hry. Uploadnite herné súbory a screenshoty na jednom mieste. Vytvorte si vlastnú stránku, kde je Vaša hra stredobodom pozornosti."
+        "product_summary1": "<s>itch.io</s> predstavuje jednoduchý spôsob ako zadarmo distribuovať Vaše indie hry. Uploadnite herné súbory a screenshoty na jednom mieste. Vytvorte si vlastnú stránku, kde je Vaša hra stredobodom pozornosti.",
+        "browser_game_description": "Získajte peniaze z Vašej hry prostredníctvom <s>itch.io</s>hostingu. Vaša hra bude vložená na našu stránku a hráči môžu prispieť akúkoľvek čiastku, ktorú si vyberú.",
+        "learn_more": "Zistiť Viac",
+        "host_a_sale_description": "Promujte Vaše hry a predajte viac kusov ponúkaním Vašej hry v zľave kedykoľvek.",
+        "host_a_sale": "Usporiadajte Predaj",
+        "track_your_game": "Sledujte Vašu Hru",
+        "design_your_games_page": "Dizajnujte Stránku Vašej Hry"
     }
 }
