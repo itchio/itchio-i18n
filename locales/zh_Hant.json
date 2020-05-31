@@ -66,11 +66,55 @@
             "form_errors": "請檢查您所提供的資訊",
             "search": "搜尋"
         },
-        "loading_more_ellip": "載入更多……"
+        "loading_more_ellip": "載入更多……",
+        "release_statuses": {
+            "prototype": "原型",
+            "in_development": "開發中"
+        },
+        "project_visibility": {
+            "draft": "草稿"
+        },
+        "countdown": {
+            "seconds": "秒",
+            "minutes": "分",
+            "hours": "小時",
+            "days": "日",
+            "months": "月",
+            "years": "年"
+        },
+        "lightboxes": {
+            "close": "關閉"
+        },
+        "pager": {
+            "next": "下一頁",
+            "prev": "上一頁",
+            "next_page": "下一頁"
+        },
+        "inputs": {
+            "voice": "語音控制",
+            "keyboard": "鍵盤",
+            "mouse": "滑鼠"
+        }
     },
     "user_login": {
         "errors": {
             "accept_terms": "您必須接受服務條款"
+        },
+        "login_form": {
+            "log_in_button": "登入",
+            "or": "或",
+            "forgot_password": "忘記密碼",
+            "password": "密碼"
+        },
+        "page_title": "登入"
+    },
+    "blog": {
+        "updates": "更新"
+    },
+    "user_register": {
+        "register_form": {
+            "password": "密碼",
+            "log_in": "登入"
         }
     }
 }
