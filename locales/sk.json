@@ -151,7 +151,9 @@
             "touchscreen": "Dotyková obrazovka",
             "voice": "Ovládanie hlasom",
             "dance_pad": "Tanečná podložka",
-            "midi_controller": "MIDI ovládač"
+            "midi_controller": "MIDI ovládač",
+            "phone": "Smartfón",
+            "accelerometer": "Akcelerometer"
         },
         "durations": {
             "seconds": "Pár sekúnd",
@@ -239,7 +241,8 @@
         "all_posts": "Všetky príspevky",
         "updates": "Updaty",
         "tag_filter": "Filtrujem podľa {{tag}}. <a> Zrušiť tag</a>",
-        "empty_message": "Zdá sa, že tu nie su žiadne príspevky"
+        "empty_message": "Zdá sa, že tu nie su žiadne príspevky",
+        "digest": "Výber"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Prihláste sa do vášho itch.io účtu",
@@ -281,7 +284,9 @@
         "register_form": {
             "create_account": "Vytvoriť účet",
             "already_have_account": "alebo už máte účet?",
-            "log_in": "Prihlásiť sa"
+            "log_in": "Prihlásiť sa",
+            "accept_tos": "Súhlasím s <1>podmienkami používania</1>",
+            "link_product": "Váš nákup <1>{{product}}</1> sa automaticky pripíše k Vášmu účtu po registrácii."
         }
     }
 }
