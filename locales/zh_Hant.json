@@ -72,7 +72,8 @@
             "in_development": "開發中"
         },
         "project_visibility": {
-            "draft": "草稿"
+            "draft": "草稿",
+            "public": "公開"
         },
         "countdown": {
             "seconds": "秒",
@@ -88,13 +89,15 @@
         "pager": {
             "next": "下一頁",
             "prev": "上一頁",
-            "next_page": "下一頁"
+            "next_page": "下一頁",
+            "previous_page": "上一頁"
         },
         "inputs": {
             "voice": "語音控制",
             "keyboard": "鍵盤",
             "mouse": "滑鼠"
-        }
+        },
+        "more_ellip": "更多……"
     },
     "user_login": {
         "errors": {
