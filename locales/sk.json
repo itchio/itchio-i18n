@@ -314,6 +314,12 @@
         "host_a_sale_description": "Promujte Vaše hry a predajte viac kusov ponúkaním Vašej hry v zľave kedykoľvek.",
         "host_a_sale": "Usporiadajte Predaj",
         "track_your_game": "Sledujte Vašu Hru",
-        "design_your_games_page": "Dizajnujte Stránku Vašej Hry"
+        "design_your_games_page": "Dizajnujte Stránku Vašej Hry",
+        "design_your_games_page_description": "Vytvorte vlastnú stránku pre Vašu hru, kde ju ľudia môžu kúpiť alebo stiahnúť. Vy vyberáte farby, fonty, obrázky a videá. Kedže je to stránke Vašej hry nenájdete na nej nič, čo by ste nechceli tam nechceli dať.",
+        "upload_or_dashboard": "<1>Nahrať novú hru</1> <em>alebo</em> <2>Ísť na nástenku</2>",
+        "create_account_or_login": "<1>Vytvoriť účet</1> <em>alebo</em> <2>Prihlásiť sa</2>",
+        "share_message": "itch.io je jednoduchý spôsob na distribúciu vaších indie hier online zadarmo.",
+        "learn_more_about": "Zistiť viac:",
+        "upload_your_game_description": "Nahrajte vašu hru na <s>itch.io</s> zadarmo. Sme hostiteľom Vašej hry, spolu s obrázkami z Vašej hry a ostatné sťahovacie veci. Vaše sťahovanie je non-stop dostupné a vždy rýchle."
     }
 }
