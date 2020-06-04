@@ -273,7 +273,8 @@
         "welcome_back": "¡Bienvenido de nuevo!",
         "welcome_to_itchio": "¡Bienvenido a itch.io!",
         "errors": {
-            "accept_terms": "Debe aceptar los Términos de Servicio"
+            "accept_terms": "Debe aceptar los Términos de Servicio",
+            "please_enter_a_valid_email_address": "Introduce una dirección de correo electrónico válida"
         }
     },
     "user_register": {
