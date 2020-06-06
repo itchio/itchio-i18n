@@ -23,7 +23,11 @@
             "game_jams": "Game Jam",
             "community": "社區",
             "indie_game_store": "獨立遊戲商店",
-            "log_in": "登入"
+            "log_in": "登入",
+            "search_placeholder": "搜尋遊戲或創作者",
+            "devlogs": "開發日誌",
+            "browse_games": "瀏覽遊戲",
+            "browse": "瀏覽"
         },
         "footer": {
             "blog": "部落格",
