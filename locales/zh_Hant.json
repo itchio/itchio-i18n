@@ -64,7 +64,45 @@
         "random_game": "隨機遊戲",
         "browse": "瀏覽",
         "games_by_price": "用價格找遊戲",
-        "popular_tags": "熱門標籤"
+        "popular_tags": "熱門標籤",
+        "to_follow": {
+            "dismiss_tooltip": "以後不要再推薦",
+            "refresh_button": "刷新以獲取更多內容",
+            "empty_results": "我們暫時已無更多推薦作品了。請稍候再試",
+            "created_projects": "已建立 {{project_list}}"
+        },
+        "meta_description": "使用 itch.io 即可簡單地在線上搜尋，下載和發佈獨立遊戲。無論您是想要上傳遊戲的開發者，或者是想要玩一些新遊戲，itch.io 都可以幫到您。",
+        "page_title": "下載最新的獨立遊戲",
+        "html5_games": "HTML5 遊戲",
+        "intro_cta": "<1>新增您的遊戲</1> 或 <2>閱讀常見問題</2>",
+        "intro": "使用 <s>itch.io</s> 可以很輕易地免費搜尋和分享獨立遊戲。",
+        "nav": {
+            "community": "社群",
+            "devlogs": "開發日誌",
+            "game_jams": "Game Jams",
+            "bundles": "組合包",
+            "all_games": "全部遊戲"
+        },
+        "browse_content_type": "瀏覽 {{content_type}}",
+        "view_all_platforms": "檢視全部平台",
+        "filtering_platform": "僅顯示 {{platform_name}} 平台的遊戲",
+        "game_dev_on_sale": "<1>特價中</1>遊戲開發資源",
+        "view_all_jams": "檢視全部 Game Jams",
+        "top_sellers": "暢銷商品",
+        "with_demo": "有試玩版",
+        "recommended_for_you": "為您推薦",
+        "view_all_on_sale": "檢視全部特價中商品",
+        "latest_featured_games": "最近精選遊戲",
+        "people_to_follow_description": "您也許有興趣追蹤以下的使用者。<a>為什麼要追蹤？</a>",
+        "more_featured_games": "更多精選遊戲",
+        "view_all_games_on_sale": "檢視全部特價中遊戲",
+        "people_to_follow": "推薦追蹤對象",
+        "fresh_games_description": "依照 itch.io 新上架的遊戲隨時更新列表",
+        "featured_jams": "精選 Game Jams",
+        "view_more": "檢視更多",
+        "fresh_games": "最新遊戲",
+        "recommendations_based_on": "根據您之前購買、下載、和評分過的東西",
+        "view_all": "檢視全部"
     },
     "itchio": "itch.io",
     "misc": {
@@ -126,6 +164,23 @@
             "minutes": "幾分鐘",
             "seconds": "幾秒鐘",
             "days": "一天或更久"
+        },
+        "accessibility_features": {
+            "highcontrast": "高對比",
+            "configurable_controls": "可自訂操作",
+            "subtitles": "字幕",
+            "colorblind": "色盲模式"
+        },
+        "classifications": {
+            "book": "書本",
+            "comic": "漫畫",
+            "tool": "工具",
+            "other": "其他",
+            "soundtrack": "原聲帶",
+            "physical_game": "實體遊戲",
+            "game_mod": "遊戲模組",
+            "assets": "遊戲素材",
+            "game": "遊戲"
         }
     },
     "user_login": {
