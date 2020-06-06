@@ -515,7 +515,8 @@
             "community_field": "Comunidad",
             "classification_other": "Otro",
             "description_field": "Descripción",
-            "details_section_header": "Detalles"
+            "details_section_header": "Detalles",
+            "community_discussion_board": "Panel de discusión"
         }
     }
 }
