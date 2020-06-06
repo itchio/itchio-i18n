@@ -55,7 +55,9 @@
             "recommendations": "推薦",
             "settings": "設定",
             "account": "帳戶",
-            "host_game_jam": "參與的 Game Jam"
+            "host_game_jam": "參與的 Game Jam",
+            "view_profile": "檢視個人檔案",
+            "explore": "探索"
         }
     },
     "library": {
