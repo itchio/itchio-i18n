@@ -388,7 +388,8 @@
             "mentions": "Menciones",
             "links": "Enlaces",
             "multiplayer": "Multijugador",
-            "player_count": "Número de jugadores"
+            "player_count": "Número de jugadores",
+            "singleplayer": "Un jugador"
         },
         "community_sticky": "Fijado",
         "more_information": "Más información",
