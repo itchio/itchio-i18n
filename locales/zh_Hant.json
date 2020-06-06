@@ -27,7 +27,11 @@
             "search_placeholder": "搜尋遊戲或創作者",
             "devlogs": "開發日誌",
             "browse_games": "瀏覽遊戲",
-            "browse": "瀏覽"
+            "browse": "瀏覽",
+            "feed": "動態",
+            "game_development": "遊戲開發工具",
+            "game_assets": "素材",
+            "sales": "特價中"
         },
         "footer": {
             "blog": "部落格",
@@ -41,7 +45,10 @@
         },
         "user_menu": {
             "log_out": "登出",
-            "game_jams": "Game Jam"
+            "game_jams": "Game Jam",
+            "feed": "我的動態",
+            "sales_bundles": "特價和組合包",
+            "create": "創作"
         }
     },
     "library": {
@@ -50,7 +57,8 @@
     "index": {
         "free_games": "免費遊戲",
         "random_game": "隨機遊戲",
-        "browse": "瀏覽"
+        "browse": "瀏覽",
+        "games_by_price": "用價格找遊戲"
     },
     "itchio": "itch.io",
     "misc": {
