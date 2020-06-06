@@ -98,7 +98,14 @@
             "keyboard": "鍵盤",
             "mouse": "滑鼠"
         },
-        "more_ellip": "更多……"
+        "more_ellip": "更多……",
+        "durations": {
+            "hours": "幾小時",
+            "hour": "大約一小時",
+            "half_hour": "大約半小時",
+            "minutes": "幾分鐘",
+            "seconds": "幾秒鐘"
+        }
     },
     "user_login": {
         "errors": {
