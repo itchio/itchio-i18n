@@ -21,7 +21,9 @@
             "games": "遊戲",
             "comics": "漫畫",
             "game_jams": "Game Jam",
-            "community": "社區"
+            "community": "社區",
+            "indie_game_store": "獨立遊戲商店",
+            "log_in": "登入"
         },
         "footer": {
             "blog": "部落格",
