@@ -32,7 +32,8 @@
             "game_development": "遊戲開發工具",
             "game_assets": "素材",
             "sales": "特價中",
-            "bundles": "組合包"
+            "bundles": "組合包",
+            "fun_games": "好玩遊戲"
         },
         "footer": {
             "blog": "部落格",
@@ -53,7 +54,8 @@
             "account_menu_tooltip": "帳戶選單",
             "recommendations": "推薦",
             "settings": "設定",
-            "account": "帳戶"
+            "account": "帳戶",
+            "host_game_jam": "參與的 Game Jam"
         }
     },
     "library": {
