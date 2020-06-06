@@ -384,7 +384,10 @@
             "asset_license": "Licencia de assets",
             "languages": "Lenguajes",
             "average_session_duration": "Sesión media",
-            "inputs": "Entradas"
+            "inputs": "Entradas",
+            "mentions": "Menciones",
+            "links": "Enlaces",
+            "multiplayer": "Multijugador"
         },
         "community_sticky": "Fijado",
         "more_information": "Más información",
@@ -427,8 +430,11 @@
         },
         "community_view_all_posts": "Ver todas las publicaciones",
         "upload_list": {
-            "this_file_will_be_available_when_the_creator_uploads_it": "Este archivo estará disponible cuando el creador lo suba"
-        }
+            "this_file_will_be_available_when_the_creator_uploads_it": "Este archivo estará disponible cuando el creador lo suba",
+            "download": "Descargar"
+        },
+        "join_the_community": "Únete a la comunidad",
+        "community_header": "Comunidad"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
