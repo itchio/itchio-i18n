@@ -31,7 +31,8 @@
             "feed": "動態",
             "game_development": "遊戲開發工具",
             "game_assets": "素材",
-            "sales": "特價中"
+            "sales": "特價中",
+            "bundles": "組合包"
         },
         "footer": {
             "blog": "部落格",
@@ -48,7 +49,11 @@
             "game_jams": "Game Jam",
             "feed": "我的動態",
             "sales_bundles": "特價和組合包",
-            "create": "創作"
+            "create": "創作",
+            "account_menu_tooltip": "帳戶選單",
+            "recommendations": "推薦",
+            "settings": "設定",
+            "account": "帳戶"
         }
     },
     "library": {
@@ -58,7 +63,8 @@
         "free_games": "免費遊戲",
         "random_game": "隨機遊戲",
         "browse": "瀏覽",
-        "games_by_price": "用價格找遊戲"
+        "games_by_price": "用價格找遊戲",
+        "popular_tags": "熱門標籤"
     },
     "itchio": "itch.io",
     "misc": {
