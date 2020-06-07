@@ -172,7 +172,8 @@
             "keyboard": "鍵盤",
             "mouse": "滑鼠",
             "midi_controller": "MIDI 控制器",
-            "phone": "智慧型手機"
+            "phone": "智慧型手機",
+            "joystick": "搖桿"
         },
         "more_ellip": "更多……",
         "durations": {
@@ -189,7 +190,8 @@
             "subtitles": "字幕",
             "colorblind": "色盲模式",
             "one_button": "一鍵",
-            "tutorial": "互動教學"
+            "tutorial": "互動教學",
+            "textless": "無文字"
         },
         "classifications": {
             "book": "書本",
@@ -204,7 +206,8 @@
         },
         "filter_price": {
             "paid": "付費",
-            "free": "免費"
+            "free": "免費",
+            "on_sale": "特價中"
         }
     },
     "user_login": {
