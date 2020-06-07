@@ -110,7 +110,12 @@
         "recommendations_based_on": "根據您之前購買、下載、和評分過的東西",
         "view_all": "檢視全部",
         "browse_all_tags": "瀏覽全部標籤",
-        "view_all_blog_posts": "檢視全部更新"
+        "view_all_blog_posts": "檢視全部更新",
+        "on_sale": "特價中",
+        "search_games_creators": "搜尋遊戲和創作者",
+        "from_the_itchio_blog": "來自 itch.io 部落格",
+        "from_the_blog": "來自部落格",
+        "dont_see_anything_you_like": "找不到您喜歡的東西？"
     },
     "itchio": "itch.io",
     "misc": {
@@ -130,7 +135,10 @@
         "page_number": "第 {{page_number}} 頁",
         "forms": {
             "form_errors": "請檢查您所提供的資訊",
-            "search": "搜尋"
+            "search": "搜尋",
+            "optional": "選填",
+            "email_address": "電子郵件地址",
+            "required": "必填"
         },
         "loading_more_ellip": "載入更多……",
         "release_statuses": {
@@ -163,7 +171,8 @@
             "voice": "語音控制",
             "keyboard": "鍵盤",
             "mouse": "滑鼠",
-            "midi_controller": "MIDI 控制器"
+            "midi_controller": "MIDI 控制器",
+            "phone": "智慧型手機"
         },
         "more_ellip": "更多……",
         "durations": {
