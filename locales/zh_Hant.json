@@ -33,7 +33,8 @@
             "game_assets": "素材",
             "sales": "特價中",
             "bundles": "組合包",
-            "fun_games": "好玩遊戲"
+            "fun_games": "好玩遊戲",
+            "feed_unseen_count": "{{count}} 則新動態"
         },
         "footer": {
             "blog": "部落格",
