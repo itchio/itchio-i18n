@@ -58,7 +58,8 @@
             "account": "帳戶",
             "host_game_jam": "參與的 Game Jam",
             "view_profile": "檢視個人檔案",
-            "explore": "探索"
+            "explore": "探索",
+            "new_project": "上傳新專案"
         }
     },
     "library": {
@@ -107,7 +108,9 @@
         "view_more": "檢視更多",
         "fresh_games": "最新遊戲",
         "recommendations_based_on": "根據您之前購買、下載、和評分過的東西",
-        "view_all": "檢視全部"
+        "view_all": "檢視全部",
+        "browse_all_tags": "瀏覽全部標籤",
+        "view_all_blog_posts": "檢視全部更新"
     },
     "itchio": "itch.io",
     "misc": {
@@ -159,7 +162,8 @@
         "inputs": {
             "voice": "語音控制",
             "keyboard": "鍵盤",
-            "mouse": "滑鼠"
+            "mouse": "滑鼠",
+            "midi_controller": "MIDI 控制器"
         },
         "more_ellip": "更多……",
         "durations": {
@@ -174,7 +178,9 @@
             "highcontrast": "高對比",
             "configurable_controls": "可自訂操作",
             "subtitles": "字幕",
-            "colorblind": "色盲模式"
+            "colorblind": "色盲模式",
+            "one_button": "一鍵",
+            "tutorial": "互動教學"
         },
         "classifications": {
             "book": "書本",
@@ -186,6 +192,10 @@
             "game_mod": "遊戲模組",
             "assets": "遊戲素材",
             "game": "遊戲"
+        },
+        "filter_price": {
+            "paid": "付費",
+            "free": "免費"
         }
     },
     "user_login": {
