@@ -303,6 +303,7 @@
         "start_download": "開始下載",
         "for_platforms": "對應 <1>Windows</1>、<2>macOS</2>、和<3>Linux</3>",
         "contribute_link": "想要貢獻？<a>在 GitHub 上查看原始碼</a>",
-        "updates": "更新"
+        "updates": "更新",
+        "browse_header": "以原作者預期的方式瀏覽遊戲"
     }
 }
