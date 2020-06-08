@@ -458,6 +458,11 @@
                 "screenshots": "螢幕截圖",
                 "community": "社群"
             }
+        },
+        "results": {
+            "submissions": {
+                "ranked_score": "分數: {{score}}"
+            }
         }
     }
 }
