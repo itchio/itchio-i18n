@@ -317,8 +317,13 @@
     },
     "game": {
         "more_information": "更多資訊",
-        "download_demo_header": "下載試玩",
+        "download_demo_header": "下載試玩版",
         "purchase_header": "購買",
-        "download_header": "下載"
+        "download_header": "下載",
+        "layout": {
+            "follow": "追蹤",
+            "following": "正在追蹤"
+        },
+        "percent_off": "可省<s>{{percent}}%</s>"
     }
 }
