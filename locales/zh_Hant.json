@@ -324,6 +324,10 @@
             "follow": "追蹤",
             "following": "正在追蹤"
         },
-        "percent_off": "可省<s>{{percent}}%</s>"
+        "percent_off": "可省<s>{{percent}}%</s>",
+        "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 啟動碼",
+        "price_or_more": "{{price}} <s>或更多</s>",
+        "on_sale": "特價！",
+        "name_your_own_price": "自行出價"
     }
 }
