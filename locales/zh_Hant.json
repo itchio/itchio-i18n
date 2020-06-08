@@ -419,7 +419,7 @@
         "email_addresses": {
             "your_primary_email_address": "您的主要電子郵件地址：{{email}}",
             "change_email_form": {
-                "new_email_address": "新電子信箱地址"
+                "new_email_address": "新的電子郵件地址"
             }
         },
         "password": {
