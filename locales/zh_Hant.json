@@ -146,7 +146,8 @@
             "prototype": "原型",
             "in_development": "開發中",
             "on_hold": "開發暫停",
-            "released": "已發佈"
+            "released": "已發佈",
+            "canceled": "已取消"
         },
         "project_visibility": {
             "draft": "草稿",
@@ -219,6 +220,12 @@
         },
         "errors": {
             "server_error": "伺服器回應失敗，請稍候再試"
+        },
+        "collection_button": {
+            "add_to_collection": "增加到收藏"
+        },
+        "multiplayer_features": {
+            "local": "單機多人"
         }
     },
     "user_login": {
@@ -230,23 +237,29 @@
             "or": "或",
             "forgot_password": "忘記密碼",
             "password": "密碼",
-            "username_or_email": "使用者名稱或電子郵件地址"
+            "username_or_email": "使用者名稱或電子郵件地址",
+            "create_account": "建立帳戶"
         },
         "page_title": "登入",
         "welcome_to_itchio": "歡迎來到 itch.io！",
         "welcome_back": "歡迎回來！",
         "you_are_logged_out": "您已經登出",
-        "looking_for_something_you_bought": "在找您之前買過的東西？"
+        "looking_for_something_you_bought": "在找您之前買過的東西？",
+        "create_a_new_account": "建立新帳戶",
+        "log_in_to_your_itchio_account": "登入到你的 itch.io 帳戶"
     },
     "blog": {
         "updates": "更新",
         "tag_filter": "過濾到{{tag}}。<a>清除標籤</a>",
-        "digest": "摘要"
+        "digest": "摘要",
+        "all_posts": "全部文章"
     },
     "user_register": {
         "register_form": {
             "password": "密碼",
-            "log_in": "登入"
+            "log_in": "登入",
+            "already_have_account": "或已經有帳戶?",
+            "create_account": "建立帳戶"
         }
     }
 }
