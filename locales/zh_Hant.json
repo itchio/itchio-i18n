@@ -404,7 +404,11 @@
         },
         "profile": {
             "language_description": "itch.io 使用者界面的語言",
-            "language": "語言"
+            "language": "語言",
+            "you_recently_changed_your_username": "你最近更變了你的使用者名稱",
+            "change_username": "改變我的使用者名稱/URL",
+            "username": "使用者名稱",
+            "page_header": "個人檔案"
         },
         "account_settings": "帳戶設定"
     },
