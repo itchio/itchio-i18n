@@ -277,5 +277,8 @@
             "username": "使用者名稱"
         },
         "page_title": "註冊帳戶"
+    },
+    "developers": {
+        "page_header": "建立自定義頁面，立即發行或銷售你的獨立遊戲"
     }
 }
