@@ -386,14 +386,37 @@
     },
     "buy_form": {
         "no_thanks_just_take_me_to_the_downloads": "不用了，直接帶我到下載頁面",
-        "your_email_address": "您的電子郵件地址"
+        "your_email_address": "您的電子郵件地址",
+        "billing_address": "帳單地址"
     },
     "user_settings": {
         "navigation": {
             "api_keys": "API 金鑰",
             "privacy": "隱私設定",
             "email_notifications": "電子郵件通知",
-            "email_addresses": "電子郵件地址"
-        }
+            "email_addresses": "電子郵件地址",
+            "connected_accounts": "已連接帳戶",
+            "billing_address": "帳單地址",
+            "credit_cards": "信用卡",
+            "password": "密碼",
+            "profile": "個人檔案",
+            "developer_header": "開發者"
+        },
+        "profile": {
+            "language_description": "itch.io 的使用者界面語言",
+            "language": "語言"
+        },
+        "account_settings": "帳戶設定"
+    },
+    "browse": {
+        "filter_group_tools": "工具 & 引擎",
+        "type_downloadable": "可下載",
+        "filter_group_type": "類型",
+        "filter_by_tag": "以標籤過濾",
+        "view_all_tags": "檢視全部標籤",
+        "filter_group_platform": "平台",
+        "filter_group_price": "價錢",
+        "sort": "排序",
+        "sort_popular": "熱門"
     }
 }
