@@ -443,7 +443,7 @@
         "sort_popular": "熱門"
     },
     "game_download": {
-        "trouble_downloading_link": "下載還未開始?"
+        "trouble_downloading_link": "沒有開始下載？"
     },
     "stripe_checkout": {
         "password": "密碼"
