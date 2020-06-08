@@ -322,12 +322,38 @@
         "download_header": "下載",
         "layout": {
             "follow": "追蹤",
-            "following": "正在追蹤"
+            "following": "正在追蹤",
+            "footer": {
+                "report": "回報"
+            },
+            "ownership": {
+                "download": "下載"
+            },
+            "community": "社群",
+            "add_to_collection_short": "收藏",
+            "add_to_collection": "增加到收藏",
+            "creator": "創作者"
         },
         "percent_off": "可省<s>{{percent}}%</s>",
         "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 啟動碼",
         "price_or_more": "{{price}} <s>或更多</s>",
         "on_sale": "特價！",
-        "name_your_own_price": "自行出價"
+        "name_your_own_price": "自行出價",
+        "upload_list": {
+            "download": "下載"
+        },
+        "join_the_community": "加入社群",
+        "community_header": "社群",
+        "info_panel": {
+            "links": "連結",
+            "languages": "語言",
+            "tags": "標籤",
+            "author": "作者",
+            "authors": "作者",
+            "platforms": "平台",
+            "category": "分類",
+            "release_status": "狀態"
+        },
+        "development_log_header": "開發紀錄"
     }
 }
