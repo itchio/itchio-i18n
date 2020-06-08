@@ -7,6 +7,14 @@
             "cover_uploader": {
                 "remove_image": "刪除圖片"
             }
+        },
+        "intro_text": "你是開發者嗎? 上傳你的第一個遊戲",
+        "project_list": {
+            "no_image": "沒有圖片"
+        },
+        "create_new_project_button": "建立新專案",
+        "header": {
+            "projects_link": "專案"
         }
     },
     "layout": {
@@ -463,6 +471,10 @@
             "submissions": {
                 "ranked_score": "分數：{{score}}"
             }
+        },
+        "submission": {
+            "play_game": "玩遊戲",
+            "results_table_rank": "排名"
         }
     }
 }
