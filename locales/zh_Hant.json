@@ -279,6 +279,7 @@
         "page_title": "註冊帳戶"
     },
     "developers": {
-        "page_header": "建立自定義頁面，以立即發佈或銷售你的獨立遊戲"
+        "page_header": "建立自定義頁面，以立即發佈或銷售你的獨立遊戲",
+        "upload_a_new_game": "上傳新遊戲"
     }
 }
