@@ -115,7 +115,8 @@
         "search_games_creators": "搜尋遊戲和創作者",
         "from_the_itchio_blog": "來自 itch.io 部落格",
         "from_the_blog": "來自部落格",
-        "dont_see_anything_you_like": "找不到您喜歡的東西？"
+        "dont_see_anything_you_like": "找不到您喜歡的東西？",
+        "download_app": "下載客戶端"
     },
     "itchio": "itch.io",
     "misc": {
@@ -173,7 +174,10 @@
             "mouse": "滑鼠",
             "midi_controller": "MIDI 控制器",
             "phone": "智慧型手機",
-            "joystick": "搖桿"
+            "joystick": "搖桿",
+            "dance_pad": "跳舞墊/台",
+            "accelerometer": "加速度感測器",
+            "touchscreen": "觸控螢幕"
         },
         "more_ellip": "更多……",
         "durations": {
@@ -218,9 +222,14 @@
             "log_in_button": "登入",
             "or": "或",
             "forgot_password": "忘記密碼",
-            "password": "密碼"
+            "password": "密碼",
+            "username_or_email": "使用者名稱或電子郵件地址"
         },
-        "page_title": "登入"
+        "page_title": "登入",
+        "welcome_to_itchio": "歡迎來到 itch.io！",
+        "welcome_back": "歡迎回來！",
+        "you_are_logged_out": "您已經登出",
+        "looking_for_something_you_bought": "在找您之前買過的東西？"
     },
     "blog": {
         "updates": "更新"
