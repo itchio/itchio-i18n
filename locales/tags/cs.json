@@ -1,1 +1,25 @@
-{}
+{
+    "tags": {
+        "comedy": "Komedie",
+        "classes": "Třídy",
+        "city-builder": "Stavění města",
+        "christmas": "Vánoční",
+        "chess": "Šachy",
+        "character-customization": "Úprava postavy",
+        "card-game": "Karetní hra",
+        "boring": "Nudné",
+        "board-game": "Stolní hra",
+        "black-and-white": "Černobílé",
+        "atmospheric": "Atmosférická",
+        "asteroids": "Asteroidy",
+        "anime": "Anime",
+        "animals": "Zvířata",
+        "alternate-history": "Alternativní historie",
+        "aliens": "Mimozemštani",
+        "action-rpg": "Akční RPG",
+        "action": "Akční",
+        "abstract": "Abstraktní",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
