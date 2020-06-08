@@ -355,5 +355,11 @@
             "release_status": "狀態"
         },
         "development_log_header": "開發紀錄"
+    },
+    "community": {
+        "topic": {
+            "log_in_to_reply": "登入去回覆",
+            "reply": "回覆"
+        }
     }
 }
