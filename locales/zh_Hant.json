@@ -417,7 +417,7 @@
         },
         "account_settings": "帳戶設定",
         "email_addresses": {
-            "your_primary_email_address": "你的主要電子信箱地址: {{email}}"
+            "your_primary_email_address": "您的主要電子郵件地址：{{email}}"
         },
         "password": {
             "new_password": "新密碼",
