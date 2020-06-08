@@ -300,7 +300,8 @@
         "welcome_back": "お帰りなさいませ！",
         "welcome_to_itchio": "itch.ioへようこそ！",
         "errors": {
-            "accept_terms": "利用規約に同意する必要があります"
+            "accept_terms": "利用規約に同意する必要があります",
+            "please_enter_a_valid_email_address": "有効なメールアドレスを入力してください"
         },
         "login_form": {
             "username_or_email": "ユーザー名またはメールアドレス",
