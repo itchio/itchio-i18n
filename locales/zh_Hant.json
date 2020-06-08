@@ -408,7 +408,8 @@
             "you_recently_changed_your_username": "您最近更改了您的使用者名稱",
             "change_username": "改變我的使用者名稱/URL",
             "username": "使用者名稱",
-            "page_header": "個人檔案"
+            "page_header": "個人檔案",
+            "url_description": "你的帳戶的公開 URL"
         },
         "account_settings": "帳戶設定"
     },
