@@ -112,7 +112,7 @@
         "to_follow": {
             "created_projects": "Utworzone {{project_list}}",
             "empty_results": "W tej chwili nie mamy więcej rekomendacji. Wróć później",
-            "refresh_button": "Odśwież, aby uzyskać więcej ...",
+            "refresh_button": "Odśwież, aby uzyskać więcej",
             "dismiss_tooltip": "Nie proponuj więcej"
         }
     },
