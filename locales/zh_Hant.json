@@ -299,6 +299,7 @@
     "app": {
         "open_source": "開源",
         "tagline": "安裝、更新、和遊玩獨立遊戲",
-        "share_message": "itch，獨立遊戲的桌面應用程式"
+        "share_message": "itch，獨立遊戲的桌面應用程式",
+        "start_download": "開始下載"
     }
 }
