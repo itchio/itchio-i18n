@@ -443,9 +443,21 @@
         "sort_popular": "熱門"
     },
     "game_download": {
-        "trouble_downloading_link": "沒有開始下載？"
+        "trouble_downloading_link": "沒有開始下載？",
+        "header": {
+            "more_menu": "更多"
+        },
+        "start_project_button": "開始"
     },
     "stripe_checkout": {
         "password": "密碼"
+    },
+    "jam": {
+        "header": {
+            "links": {
+                "screenshots": "截圖",
+                "community": "社群"
+            }
+        }
     }
 }
