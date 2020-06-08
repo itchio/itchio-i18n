@@ -250,7 +250,7 @@
         "log_in_to_your_itchio_account": "登入到你的 itch.io 帳戶",
         "no_account_prompt": "沒有帳號？ <1>創建帳號</1>",
         "intent": {
-            "recent_purchases": "登入以連結您最近的購買到您的帳戶"
+            "recent_purchases": "登入以連結您最近的購買到您的帳戶。"
         }
     },
     "blog": {
@@ -386,6 +386,14 @@
     },
     "buy_form": {
         "no_thanks_just_take_me_to_the_downloads": "不用了，直接帶我到下載頁面",
-        "your_email_address": "你的電子信箱"
+        "your_email_address": "您的電子郵件地址"
+    },
+    "user_settings": {
+        "navigation": {
+            "api_keys": "API 金鑰",
+            "privacy": "隱私設定",
+            "email_notifications": "電子郵件通知",
+            "email_addresses": "電子郵件地址"
+        }
     }
 }
