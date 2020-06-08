@@ -313,6 +313,6 @@
         "updates_description": "不只您安裝的遊戲會自動更新，客戶端也會在有新功能推出時自動更新。使用我們新的命令列工具的遊戲會產生<em>差異更新檔</em>，確保您只需要下載遊戲有更動的部分。",
         "community_header": "加入社群",
         "download_now": "馬上下載",
-        "community_description": "<1>加入社群</1>以了解更多客戶端開發事項。與 itch.io 其他成員分享功能需求或是反饋。如果您是程式設計師相信你會很高興聽到整個專案<2>在 GitHub 上開源</2>，我們期待您的 pull request。"
+        "community_description": "<1>加入社群</1>以了解更多客戶端開發事項。與 itch.io 其他成員分享功能需求或是反饋。如果您是程式設計師，相信你會很高興聽到整個專案有<2>在 GitHub 上開源</2>，我們期待您的 pull request。"
     }
 }
