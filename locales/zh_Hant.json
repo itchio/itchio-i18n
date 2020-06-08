@@ -265,7 +265,9 @@
             "log_in": "登入",
             "already_have_account": "或已經有帳戶？",
             "create_account": "建立帳戶",
-            "link_product": "註冊帳戶後，您所購買的 <1>{{product}}</1> 將會自動關聯到您的新帳戶。"
+            "link_product": "註冊帳戶後，您所購買的 <1>{{product}}</1> 將會自動關聯到您的新帳戶。",
+            "about_you": "關於你",
+            "accept_tos": "我接受<1>服務條款</1>"
         }
     }
 }
