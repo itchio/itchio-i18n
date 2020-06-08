@@ -112,7 +112,7 @@
         "to_follow": {
             "created_projects": "Vytvořeno {{project_list}}",
             "empty_results": "Žádná další doporučení pro tebe zatím nemáme. Zkus to později",
-            "refresh_button": "Obnovit pro více...",
+            "refresh_button": "Obnovit pro více",
             "dismiss_tooltip": "Už nedoporučuj"
         }
     },
@@ -300,9 +300,9 @@
         }
     },
     "search": {
-        "published_count_0": "projekt",
-        "published_count_1": "projekty",
-        "published_count_2": "projektů",
+        "published_count_0": "{{count}} projekt",
+        "published_count_1": "{{count}} projekty",
+        "published_count_2": "{{count}} projektů",
         "creators": "Tvůrci:"
     },
     "developers": {
