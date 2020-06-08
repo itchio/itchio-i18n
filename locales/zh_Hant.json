@@ -358,8 +358,11 @@
     },
     "community": {
         "topic": {
-            "log_in_to_reply": "登入去回覆",
+            "log_in_to_reply": "登入以回覆",
             "reply": "回覆"
         }
+    },
+    "buy_form": {
+        "no_thanks_just_take_me_to_the_downloads": "不用了，直接帶我到下載頁面"
     }
 }
