@@ -25,7 +25,12 @@
             "kind_of_project_field": "專案類型",
             "video_field_description": "提供一個 YouTube 或 Vimeo 影片的網址。",
             "edit_project_title": "編輯專案",
-            "file_size_limit": "檔案大小限制：{{filesize}}。<a>如果您需要更多的空間，請聯絡我們。</a>"
+            "file_size_limit": "檔案大小限制：{{filesize}}。<a>如果您需要更多的空間，請聯絡我們。</a>",
+            "community_field": "社群",
+            "delete_game_button": "刪除遊戲",
+            "project_url_field": "專案 URL",
+            "title_field": "標題",
+            "create_a_new_project_title": "建立新專案"
         },
         "intro_text": "您是開發者嗎？上傳您的第一個遊戲",
         "project_list": {
