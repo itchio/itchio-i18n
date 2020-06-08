@@ -250,7 +250,8 @@
         "all_posts": "Všechny příspěvky",
         "updates": "Aktualizace",
         "empty_message": "Vypadá to, že zde nejsou žádné příspěvky",
-        "tag_filter": "Filtruju na {{tag}}. <a>Zrušit</a>"
+        "tag_filter": "Filtruju na {{tag}}. <a>Zrušit</a>",
+        "digest": "Přehled"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Přihlásit se do itch.io účtu",
