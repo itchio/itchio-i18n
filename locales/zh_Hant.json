@@ -359,10 +359,33 @@
     "community": {
         "topic": {
             "log_in_to_reply": "登入以回覆",
+            "reply": "回覆",
+            "last_page": "最後一頁",
+            "first_page": "第一頁",
+            "previous_page": "上一頁",
+            "next_page": "下一頁",
+            "remove_bookmark": "移除書籤",
+            "new_reply": "新回覆"
+        },
+        "new_topic": {
+            "topic_tag": "標籤",
+            "title": "標題",
+            "i_agree_to_the_rules_above": "我同意以上規則"
+        },
+        "post_form": {
+            "remove_tag": "移除標籤",
+            "tag_header": "標籤",
+            "subscribe": "訂閱",
+            "add_profile_image": "增加個人檔案圖片"
+        },
+        "post_list": {
+            "report": "回報",
+            "delete": "刪除",
             "reply": "回覆"
         }
     },
     "buy_form": {
-        "no_thanks_just_take_me_to_the_downloads": "不用了，直接帶我到下載頁面"
+        "no_thanks_just_take_me_to_the_downloads": "不用了，直接帶我到下載頁面",
+        "your_email_address": "你的電子信箱"
     }
 }
