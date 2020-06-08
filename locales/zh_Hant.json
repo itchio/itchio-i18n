@@ -419,7 +419,8 @@
         "email_addresses": {
             "your_primary_email_address": "您的主要電子郵件地址：{{email}}",
             "change_email_form": {
-                "new_email_address": "新的電子郵件地址"
+                "new_email_address": "新的電子郵件地址",
+                "current_password": "目前密碼"
             }
         },
         "password": {
@@ -440,5 +441,11 @@
         "filter_group_price": "價錢",
         "sort": "排序",
         "sort_popular": "熱門"
+    },
+    "game_download": {
+        "trouble_downloading_link": "下載還未開始?"
+    },
+    "stripe_checkout": {
+        "password": "密碼"
     }
 }
