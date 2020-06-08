@@ -300,6 +300,7 @@
         "open_source": "開源",
         "tagline": "安裝、更新、和遊玩獨立遊戲",
         "share_message": "itch，獨立遊戲的桌面應用程式",
-        "start_download": "開始下載"
+        "start_download": "開始下載",
+        "for_platforms": "對應 <1>Windows</1>，<2>macOS</2>和<3>Linux</3>"
     }
 }
