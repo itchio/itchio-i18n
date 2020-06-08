@@ -292,6 +292,6 @@
     },
     "search": {
         "creators": "創作者：",
-        "published_count": "{{count}}個項目"
+        "published_count": "{{count}}個專案"
     }
 }
