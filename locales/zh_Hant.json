@@ -15,7 +15,8 @@
         "create_new_project_button": "建立新專案",
         "header": {
             "projects_link": "專案"
-        }
+        },
+        "hello": "你好!"
     },
     "layout": {
         "header": {
