@@ -304,6 +304,7 @@
         "for_platforms": "對應 <1>Windows</1>、<2>macOS</2>、和<3>Linux</3>",
         "contribute_link": "想要貢獻？<a>在 GitHub 上查看原始碼</a>",
         "updates": "更新",
-        "browse_header": "以創作者所想要的方式瀏覽遊戲"
+        "browse_header": "以創作者所想要的方式瀏覽遊戲",
+        "browse_description": "在 itch.io 創作者可以設計專案頁面的樣貌。內建瀏覽器讓您下載與安裝遊戲的同時可以瀏覽<a>作者獨特的頁面設計</a>."
     }
 }
