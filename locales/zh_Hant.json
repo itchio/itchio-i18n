@@ -461,7 +461,7 @@
         },
         "results": {
             "submissions": {
-                "ranked_score": "分數: {{score}}"
+                "ranked_score": "分數：{{score}}"
             }
         }
     }
