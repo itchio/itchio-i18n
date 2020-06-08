@@ -602,5 +602,10 @@
     "add_to_collection": {
         "about_this_project_label": "關於這個專案",
         "default_title": "{{username}} 的收藏"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "您的電子郵件地址尚未認證"
+        }
     }
 }
