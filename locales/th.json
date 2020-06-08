@@ -8,7 +8,9 @@
         "download_app": "ดาวน์โหลดแอพ",
         "games_by_price": "ค้นหาเกมจากราคา",
         "browse": "ค้นหา",
-        "popular_tags": "แท็กยอดนิยม"
+        "popular_tags": "แท็กยอดนิยม",
+        "search_games_creators": "ค้นหาเกม และนักพัฒนาเกม",
+        "view_all_blog_posts": "ดูอัปเดตทั้งหมด"
     },
     "layout": {
         "user_menu": {
