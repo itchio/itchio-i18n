@@ -266,11 +266,13 @@
             "already_have_account": "或已經有帳戶？",
             "create_account": "建立帳戶",
             "link_product": "註冊帳戶後，您所購買的 <1>{{product}}</1> 將會自動關聯到您的新帳戶。",
-            "about_you": "關於你",
+            "about_you": "關於您",
             "accept_tos": "我接受<1>服務條款</1>",
             "interest_developer": "我希望在 itch.io 上分享內容",
             "interest_gamer": "我希望在 itch.io 上遊玩或下載遊戲",
-            "digest_signup": "訂閱 itch.io 每月兩次的文摘簡報"
+            "digest_signup": "訂閱 itch.io 每月兩次的文摘簡報",
+            "repeat_password": "確認密碼",
+            "your_email_address": "您的電子郵件地址"
         }
     }
 }
