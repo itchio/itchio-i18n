@@ -297,6 +297,8 @@
         "search_results_for_query": "'{{query}}' 的搜尋結果"
     },
     "app": {
-        "open_source": "開源"
+        "open_source": "開源",
+        "tagline": "安裝，更新並遊玩獨立遊戲",
+        "share_message": "itch，獨立遊戲的桌面應用程式"
     }
 }
