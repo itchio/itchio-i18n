@@ -144,7 +144,9 @@
         "loading_more_ellip": "載入更多……",
         "release_statuses": {
             "prototype": "原型",
-            "in_development": "開發中"
+            "in_development": "開發中",
+            "on_hold": "開發暫停",
+            "released": "已發佈"
         },
         "project_visibility": {
             "draft": "草稿",
@@ -166,7 +168,8 @@
             "prev": "上一頁",
             "next_page": "下一頁",
             "previous_page": "上一頁",
-            "first_page": "第一頁"
+            "first_page": "第一頁",
+            "current_page_of_total": "第{{current_page}}頁/共{{total_pages}}頁"
         },
         "inputs": {
             "voice": "語音控制",
@@ -195,7 +198,8 @@
             "colorblind": "色盲模式",
             "one_button": "一鍵",
             "tutorial": "互動教學",
-            "textless": "無文字"
+            "textless": "無文字",
+            "blind": "盲人模式"
         },
         "classifications": {
             "book": "書本",
@@ -212,6 +216,9 @@
             "paid": "付費",
             "free": "免費",
             "on_sale": "特價中"
+        },
+        "errors": {
+            "server_error": "伺服器回應失敗，請稍候再試"
         }
     },
     "user_login": {
@@ -232,7 +239,9 @@
         "looking_for_something_you_bought": "在找您之前買過的東西？"
     },
     "blog": {
-        "updates": "更新"
+        "updates": "更新",
+        "tag_filter": "過濾到{{tag}}。<a>清除標籤</a>",
+        "digest": "摘要"
     },
     "user_register": {
         "register_form": {
