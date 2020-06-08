@@ -314,5 +314,8 @@
         "community_header": "加入社群",
         "download_now": "馬上下載",
         "community_description": "<1>加入社群</1>以了解更多客戶端開發事項。與 itch.io 其他成員分享功能需求或是反饋。如果您是程式設計師，相信你會很高興聽到整個專案有<2>在 GitHub 上開源</2>，我們期待您的 pull request。"
+    },
+    "game": {
+        "more_information": "更多資訊"
     }
 }
