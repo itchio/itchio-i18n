@@ -305,6 +305,11 @@
         "contribute_link": "想要貢獻？<a>在 GitHub 上查看原始碼</a>",
         "updates": "更新",
         "browse_header": "以創作者所想要的方式瀏覽遊戲",
-        "browse_description": "在 itch.io，創作者可以設計專案頁面的樣貌。內建瀏覽器讓您下載與安裝遊戲的同時可以瀏覽<a>創作者獨特的頁面設計</a>。"
+        "browse_description": "在 itch.io，創作者可以設計專案頁面的樣貌。內建瀏覽器讓您下載與安裝遊戲的同時可以瀏覽<a>創作者獨特的頁面設計</a>。",
+        "languages_description": "itch 客戶端支援超過 20 種語言，感謝 itch.io 社群！<a>了解更多有關翻譯的事項</a>",
+        "languages_header": "支援您的語言",
+        "web_games_description": "您可以將網頁遊戲同步至客戶端，讓您隨時離線遊玩。當您重新連線時可以下載任何更新。",
+        "web_games_header": "離線遊玩網頁遊戲",
+        "updates_description": "不只您安裝的遊戲會自動更新，客戶端也會在有新功能推出時自動更新。使用我們新的命令列工具的遊戲會產生<em>差異更新檔</em>，確保您只需要下載遊戲有更動的部分。"
     }
 }
