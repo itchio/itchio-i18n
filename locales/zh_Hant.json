@@ -291,6 +291,7 @@
         "create_account_or_login": "<1>建立帳戶</1> <em>或</em> <2>登入</2>"
     },
     "search": {
-        "creators": "創作者："
+        "creators": "創作者：",
+        "published_count": "{{count}}個項目"
     }
 }
