@@ -10,7 +10,26 @@
         "browse": "ค้นหา",
         "popular_tags": "แท็กยอดนิยม",
         "search_games_creators": "ค้นหาเกม และนักพัฒนาเกม",
-        "view_all_blog_posts": "ดูอัปเดตทั้งหมด"
+        "view_all_blog_posts": "ดูอัปเดตทั้งหมด",
+        "nav": {
+            "all_games": "ดูเกมทั้งหมด"
+        },
+        "filtering_platform": "คัดกรอกเกมทั้งหมดบนระบบ {{platform_name}}",
+        "latest_featured_games": "เกมที่แนะนำล่าสุด",
+        "people_to_follow_description": "นี้คิอบางบัญชีที่คุณอาจจะสนใจที่จะติดตาม <a>ทำไมต้องติดตามละ?</a>",
+        "view_all_on_sale": "ดูที่ลดราคาทั้งหมด",
+        "more_featured_games": "เกมที่แนะนำเพิ่มเติม",
+        "view_all_games_on_sale": "ดูเกมลดราคาทั้งหมด",
+        "people_to_follow": "บุคคลที่คนส่วนใหญ่ติดตาม",
+        "fresh_games_description": "อัปเดตเกมใหม่ล่าสุดบน itch.io อย่างสม่ำเสมอ",
+        "view_more": "ดูเพิ่มเติม",
+        "fresh_games": "เกมออกใหม่",
+        "recommendations_based_on": "โดยอิงข้อมูลของคุณจากการซื่อ, ดาวน์โหลด และให้คะแนน",
+        "recommended_for_you": "แนะนำสำหรับคุณโดยเฉพาะ",
+        "view_all": "ดูทั้งหมด",
+        "free_games": "เกมแจกฟรี",
+        "on_sale": "กำลังลดราคา",
+        "browse_all_tags": "สำรวจแท็กทั้งหมด"
     },
     "layout": {
         "user_menu": {
