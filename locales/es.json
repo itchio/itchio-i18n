@@ -389,7 +389,8 @@
             "links": "Enlaces",
             "multiplayer": "Multijugador",
             "player_count": "Número de jugadores",
-            "singleplayer": "Un jugador"
+            "singleplayer": "Un jugador",
+            "accessibility": "Accesibilidad"
         },
         "community_sticky": "Fijado",
         "more_information": "Más información",
@@ -437,7 +438,8 @@
         },
         "join_the_community": "Únete a la comunidad",
         "community_header": "Comunidad",
-        "post_a_new_topic": "Publica un tema nuevo"
+        "post_a_new_topic": "Publica un tema nuevo",
+        "community_post_author": "por {{username}}"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
