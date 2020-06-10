@@ -369,7 +369,8 @@
                 "report": "回報問題"
             },
             "ownership": {
-                "download": "下載"
+                "download": "下載",
+                "you_havent_sent_this_gift_to_anyone_yet": "您還沒有把這份禮物給任何人"
             },
             "community": "社群",
             "add_to_collection_short": "收藏",
@@ -390,7 +391,7 @@
             "follow_username": "追蹤 {{username}}"
         },
         "percent_off": "可省<s>{{percent}}%</s>",
-        "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 啟動碼",
+        "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 產品序號。",
         "price_or_more": "{{price}} <s>或更多</s>",
         "on_sale": "特價！",
         "name_your_own_price": "自行出價",
@@ -420,7 +421,8 @@
             "inputs": "輸入裝置",
             "made_with_tools": "製作工具",
             "genre": "類型",
-            "rating": "評分"
+            "rating": "評分",
+            "mentions": "被引用在"
         },
         "development_log_header": "開發紀錄",
         "after_download": {
@@ -432,7 +434,9 @@
         },
         "community_sticky": "至頂",
         "empty_page_no_uploads": "創作者還沒上傳任何東西……",
-        "donate_button": "支持這個 {{noun}}"
+        "donate_button": "支持這個 {{noun}}",
+        "in_order_to_access": "若要存取這個 {{noun}}，您必須要以 {{price}} 或更高的價格購買它。",
+        "download_or_claim_button": "下載或領取"
     },
     "community": {
         "topic": {
@@ -461,7 +465,8 @@
         "post_list": {
             "report": "回報",
             "delete": "刪除",
-            "reply": "回覆"
+            "reply": "回覆",
+            "pinned_reply": "置頂回覆"
         },
         "category": {
             "unsubscribe_from_topics": "取消訂閱",
@@ -472,7 +477,11 @@
         "no_thanks_just_take_me_to_the_downloads": "不用了，直接帶我到下載頁面",
         "your_email_address": "您的電子郵件地址",
         "billing_address": "帳單地址",
-        "included_files": "包含的檔案"
+        "included_files": "包含的檔案",
+        "agree_to_terms": "完成本次付款就視同您同意 itch.io 的<1>服務條款</1>和<2>隱私權政策</2>。",
+        "i_already_paid_for_this": "我已經付過錢了……",
+        "percent_off_until": "全部的購買在 {{end_date}} 之前可省下<s> {{rate}}%</s>。",
+        "on_sale_notice": "本商品目前特價中。"
     },
     "user_settings": {
         "navigation": {
