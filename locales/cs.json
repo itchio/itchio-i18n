@@ -284,7 +284,8 @@
         "welcome_back": "Vítej zpět!",
         "welcome_to_itchio": "Vítej na itch.io!",
         "errors": {
-            "accept_terms": "Musíš přijmout smluvní podmínky"
+            "accept_terms": "Musíš přijmout smluvní podmínky",
+            "please_enter_a_valid_email_address": "Zadejte platnou emailovou adresu"
         }
     },
     "user_register": {
@@ -301,8 +302,10 @@
             "your_email_address": "Vaše emailová adresa",
             "password": "Heslo",
             "repeat_password": "Znovu heslo",
-            "account_preferences_info": "Odpovědi na tyto otázky můžete změnit později, používají se k tomu, aby naznačily jak se vám má itch.io prezentovat."
-        }
+            "account_preferences_info": "Odpovědi na tyto otázky můžete změnit později, používají se k tomu, aby naznačily jak se vám má itch.io prezentovat.",
+            "digest_signup": "Přihlásit se k odběru itch.io čtnáctideníku"
+        },
+        "page_title": "Registrovat účet"
     },
     "search": {
         "published_count_0": "{{count}} projekt",
@@ -311,6 +314,7 @@
         "creators": "Tvůrci:"
     },
     "developers": {
-        "create_account_or_login": "<1>Vytvořit účet</1> <em>nebo</em> <2>Přihlásit se</2>"
+        "create_account_or_login": "<1>Vytvořit účet</1> <em>nebo</em> <2>Přihlásit se</2>",
+        "page_header": "Vytvořte si vlastní stránku pro okamžitou distribuci a prodej svých nezávislých her"
     }
 }
