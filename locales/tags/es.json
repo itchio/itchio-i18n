@@ -159,6 +159,9 @@
         "non-linear": "No lineal",
         "noir": "Negro",
         "open-world": "Mundo abierto",
-        "on-rails-shooter": "Tiros sobre raíles"
+        "on-rails-shooter": "Tiros sobre raíles",
+        "parkour": "Parkour",
+        "otome": "Otome",
+        "other": "Otro"
     }
 }
