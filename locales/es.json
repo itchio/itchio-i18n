@@ -439,7 +439,8 @@
         "join_the_community": "Únete a la comunidad",
         "community_header": "Comunidad",
         "post_a_new_topic": "Publica un tema nuevo",
-        "community_post_author": "por {{username}}"
+        "community_post_author": "por {{username}}",
+        "post_first_topic": "Publicar el primer tema"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
