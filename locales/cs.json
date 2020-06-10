@@ -274,7 +274,9 @@
             "follow_username": "Potřebuješ účet na itch.io aby jsi mohl sledovat <1>{{username}}</1>.",
             "collection": "Potřebuješ itch.io účet abys mohl přidávat do kolekce.",
             "recent_purchases": "Přihlaste se a propojte všechny nedávné nákupy.",
-            "jam_submit": "Budete potřebovat účet na itch.io než se budete moct zúčastnit game jamu."
+            "jam_submit": "Budete potřebovat účet na itch.io než se budete moct zúčastnit game jamu.",
+            "claim_object_title": "Prosím přihlašte se nebo si vytvořte účet pro získání {{title}}.",
+            "claim_object": "Prosím přihlašte se nebo si vytvořte účet pro získání {{noun}}."
         },
         "no_account_prompt": "Nemáš účet? <1>Vytvořit účet</1>",
         "page_title": "Přihlásit se",
@@ -297,7 +299,9 @@
             "interest_gamer": "Chci hrát nebo stahovat hry na itch.io",
             "interest_developer": "Chci distribuovat obsah na itch.io",
             "your_email_address": "Vaše emailová adresa",
-            "password": "Heslo"
+            "password": "Heslo",
+            "repeat_password": "Znovu heslo",
+            "account_preferences_info": "Odpovědi na tyto otázky můžete změnit později, používají se k tomu, aby naznačily jak se vám má itch.io prezentovat."
         }
     },
     "search": {
