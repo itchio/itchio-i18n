@@ -324,6 +324,9 @@
         "account_faq_cta": "<1>Vytvořit účet nyní</1> nebo <2>Přečíst si často kladené dotazy</2>",
         "my_dashboard": "Moje nástěnka",
         "upload_a_new_game": "Nahrát novou hru",
-        "upload_your_indie_game": "Nahrát Vaši indie hru."
+        "upload_your_indie_game": "Nahrejte svou nezávislou hru",
+        "host_a_sale": "Pořádejte slevu",
+        "track_your_game": "Sledujte svou hru",
+        "design_your_games_page": "Navrhněte jak bude stránka hry vypadat"
     }
 }
