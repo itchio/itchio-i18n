@@ -435,7 +435,7 @@
         "upload_list": {
             "this_file_will_be_available_when_the_creator_uploads_it": "Este archivo estará disponible cuando el creador lo suba",
             "download": "Descargar",
-            "empty_message": "Todavía no hay nada disponsible para descargar"
+            "empty_message": "Todavía no está disponible para descargar."
         },
         "join_the_community": "Únete a la comunidad",
         "community_header": "Comunidad",
@@ -522,5 +522,18 @@
             "details_section_header": "Detalles",
             "community_discussion_board": "Panel de discusión"
         }
+    },
+    "add_to_collection": {
+        "add_to_existing": "Agregar a una colección existente",
+        "add_to_new": "Agregar a una nueva colección",
+        "private_collection_title": "[Privada] {{title}}",
+        "manage_collections_link": "Administrar colecciones",
+        "add_button": "Agregar a la colección",
+        "default_title": "{{username}} colección",
+        "private_collection_option": "Colección privada — Sólo tú puedes ver el contenido",
+        "about_this_project_label": "Acerca de este proyecto"
+    },
+    "game_grid": {
+        "in_bundle": "En el paquete"
     }
 }
