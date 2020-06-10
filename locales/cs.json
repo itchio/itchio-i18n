@@ -320,6 +320,8 @@
         "create_account_or_login": "<1>Vytvořit účet</1> <em>nebo</em> <2>Přihlásit se</2>",
         "page_header": "Vytvořte si vlastní stránku pro okamžitou distribuci a prodej svých nezávislých her",
         "product_summary1": "<s>itch.io</s> je jednoduchý způsob, jak zdarma online distribuovat své nezávislé hry. Soubory hry i obrázky nahrajte zároveň. Vytvořte si vlastní úvodní stránku, kde středem pozornosti je právě vaše hra.",
-        "product_summary2": "Můžete dokonce stanovit minimální cenu své hry, čímž fanouškům dáte možnost zaplatit, kolik chtějí."
+        "product_summary2": "Můžete dokonce stanovit minimální cenu své hry, čímž fanouškům dáte možnost zaplatit, kolik chtějí.",
+        "account_faq_cta": "<1>Vytvořit si účet nyní</1> nebo <2>Přečíst si často kladené dotazy</2>",
+        "my_dashboard": "Moje nástěnka"
     }
 }
