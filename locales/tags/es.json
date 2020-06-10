@@ -162,6 +162,17 @@
         "on-rails-shooter": "Tiros sobre raíles",
         "parkour": "Parkour",
         "otome": "Otome",
-        "other": "Otro"
+        "other": "Otro",
+        "relaxing": "Relajante",
+        "real-time-strategy": "Estrategia en tiempo real",
+        "real-time": "Tiempo real",
+        "racing": "Carreras",
+        "procedural": "Generación Procedural",
+        "post-apocalyptic": "Post-apocalíptico",
+        "pirates": "Piratas",
+        "physics": "Físicas",
+        "photorealistic": "Fotorrealista",
+        "perma-death": "Muerte permanente",
+        "parody": "Parodia"
     }
 }
