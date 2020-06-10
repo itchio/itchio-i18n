@@ -303,7 +303,10 @@
             "password": "Heslo",
             "repeat_password": "Znovu heslo",
             "account_preferences_info": "Odpovědi na tyto otázky můžete změnit později, používají se k tomu, aby naznačily jak se vám má itch.io prezentovat.",
-            "digest_signup": "Přihlásit se k odběru itch.io čtnáctideníku"
+            "digest_signup": "Přihlásit se k odběru itch.io čtnáctideníku",
+            "other_registration_methods": "Ostatní metody registrace",
+            "username": "Uživatelské jméno",
+            "url_preview": "Vaše profilová stránka bude"
         },
         "page_title": "Registrovat účet"
     },
@@ -315,6 +318,7 @@
     },
     "developers": {
         "create_account_or_login": "<1>Vytvořit účet</1> <em>nebo</em> <2>Přihlásit se</2>",
-        "page_header": "Vytvořte si vlastní stránku pro okamžitou distribuci a prodej svých nezávislých her"
+        "page_header": "Vytvořte si vlastní stránku pro okamžitou distribuci a prodej svých nezávislých her",
+        "product_summary1": "<s>itch.io</s> je jednoduchý způsob pro distribuci Vašich indie her online zdarma. Nahrajte soubory hry a obrázky na jedno místo. Vytvořte si přizpůsobenou vstupní stránku, kde je Vaše hra středem pozornosti."
     }
 }
