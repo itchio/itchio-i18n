@@ -333,6 +333,7 @@
         "browser_game_description": "Hraje se vaše hra v prohlížeči? Vytvořte jí prostor na <s>itch.io</s> a vydělejte na ní! Hra bude i nadále hratelná v prohlížeči, ale hráči, kteří si hru zamilují, vám mohou přispět libovolnou částkou.",
         "upload_your_game_description": "Svou nezávislou hru můžete na <s>itch.io</s> nahrát zdarma. My se postaráme o hosting, a to včetně obrázků ze hry a dalších souborů, které budete chtít nabídnout ke stažení. Rychlou dostupnost garantujeme.",
         "learn_more_about": "Zjistit více o:",
-        "share_message": "itch.io je jednoduchý způsob jak zdarma distribuovat své nezávislé hry online."
+        "share_message": "itch.io je jednoduchý způsob jak zdarma distribuovat své nezávislé hry online.",
+        "upload_or_dashboard": "<1>Nahrát novou hru</1> <em>nebo</em> <2>Jít na nástěnku</2>"
     }
 }
