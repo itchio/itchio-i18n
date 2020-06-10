@@ -434,7 +434,8 @@
         "community_view_all_posts": "Ver todas las publicaciones",
         "upload_list": {
             "this_file_will_be_available_when_the_creator_uploads_it": "Este archivo estará disponible cuando el creador lo suba",
-            "download": "Descargar"
+            "download": "Descargar",
+            "empty_message": "Todavía no hay nada disponsible para descargar"
         },
         "join_the_community": "Únete a la comunidad",
         "community_header": "Comunidad",
