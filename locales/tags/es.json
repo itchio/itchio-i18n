@@ -173,6 +173,12 @@
         "physics": "Físicas",
         "photorealistic": "Fotorrealista",
         "perma-death": "Muerte permanente",
-        "parody": "Parodia"
+        "parody": "Parodia",
+        "pvp": "JvJ",
+        "puzzle-platformer": "Rompecabezas de plataformas",
+        "puzzle": "Rompecabezas",
+        "point-and-click": "Apunta y clickea",
+        "platformer": "Plataformeo",
+        "pixel-art": "Arte de píxeles"
     }
 }
