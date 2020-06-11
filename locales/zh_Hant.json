@@ -427,7 +427,8 @@
         "development_log_header": "開發紀錄",
         "after_download": {
             "thanks_project_author": "感謝您下載 {{author}} 的 {{project}}。",
-            "share_this_project": "分享本專案"
+            "share_this_project": "分享本專案",
+            "thanks_for_downloading_title": "感謝下載"
         },
         "report_form": {
             "email_creator_link": "寄送電子郵件給創作者"
