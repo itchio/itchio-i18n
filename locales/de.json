@@ -271,7 +271,8 @@
         "page_title": "Anmelden",
         "you_are_logged_out": "Du bist abgemeldet",
         "errors": {
-            "accept_terms": "Du musst die AGB akzeptieren"
+            "accept_terms": "Du musst die AGB akzeptieren",
+            "please_enter_a_valid_email_address": "Gib bitte eine gültige E-Mail-Adresse ein"
         },
         "welcome_back": "Willkommen zurück!",
         "welcome_to_itchio": "Willkommen bei itch.io!"
