@@ -439,7 +439,8 @@
         "in_order_to_access": "若要存取這個 {{noun}}，您必須要以 {{price}} 或更高的價格購買它。",
         "download_or_claim_button": "下載或領取",
         "available_header": "可在以下地方找到",
-        "also_available_header": "也可在以下地方找到"
+        "also_available_header": "也可在以下地方找到",
+        "buy_now_button": "馬上購買"
     },
     "community": {
         "topic": {
