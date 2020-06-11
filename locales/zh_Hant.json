@@ -428,7 +428,7 @@
         "after_download": {
             "thanks_project_author": "感謝您下載 {{author}} 的 {{project}}。",
             "share_this_project": "分享本專案",
-            "thanks_for_downloading_title": "感謝下載"
+            "thanks_for_downloading_title": "感謝您的下載"
         },
         "report_form": {
             "email_creator_link": "寄送電子郵件給創作者"
@@ -437,7 +437,9 @@
         "empty_page_no_uploads": "創作者還沒上傳任何東西……",
         "donate_button": "支持這個 {{noun}}",
         "in_order_to_access": "若要存取這個 {{noun}}，您必須要以 {{price}} 或更高的價格購買它。",
-        "download_or_claim_button": "下載或領取"
+        "download_or_claim_button": "下載或領取",
+        "available_header": "可在以下地方找到",
+        "also_available_header": "也可在以下地方找到"
     },
     "community": {
         "topic": {
