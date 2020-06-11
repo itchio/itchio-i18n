@@ -426,7 +426,10 @@
                 "you_own_this": "Ya tienes esto",
                 "send_gift": "Enviar regalo"
             },
-            "view_all_by_name": "Ver los juegos de {{name}}"
+            "view_all_by_name": "Ver los juegos de {{name}}",
+            "follow_username": "Seguir a {{username}}",
+            "following": "Siguiendo",
+            "follow": "Seguir"
         },
         "report_form": {
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
