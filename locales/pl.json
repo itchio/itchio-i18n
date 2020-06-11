@@ -274,7 +274,8 @@
         "welcome_back": "Witaj ponownie!",
         "welcome_to_itchio": "Witaj na itch.io!",
         "errors": {
-            "accept_terms": "Musisz zaakceptować regulamin"
+            "accept_terms": "Musisz zaakceptować regulamin",
+            "please_enter_a_valid_email_address": "Proszę wpisać aktualny adres e-mail"
         },
         "you_are_logged_out": "Wylogowano"
     },
