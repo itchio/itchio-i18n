@@ -424,12 +424,27 @@
         "layout": {
             "ownership": {
                 "you_own_this": "Ya tienes esto",
-                "send_gift": "Enviar regalo"
+                "send_gift": "Enviar regalo",
+                "you_havent_sent_this_gift_to_anyone_yet": "Todavía no has enviado este regalo a nadie",
+                "download": "Descargar"
             },
             "view_all_by_name": "Ver los juegos de {{name}}",
             "follow_username": "Seguir a {{username}}",
             "following": "Siguiendo",
-            "follow": "Seguir"
+            "follow": "Seguir",
+            "related_games_short": "Relacionados",
+            "related_games": "Juegos relacionados",
+            "submission_to_jam": "Entrega para {{jam_title}}",
+            "rate_this_noun": "Califica este {{noun}}",
+            "edit_rating": "Editar Calificación",
+            "edit_your_rating": "Edita tu Calificación",
+            "devlog": "Diario de desarrollo",
+            "community": "Comunidad",
+            "comments": "Comentarios",
+            "add_to_collection_short": "Colección",
+            "add_to_collection": "Añadir a la Colección",
+            "following_username": "Siguiendo a {{username}}",
+            "creator": "Creador"
         },
         "report_form": {
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
