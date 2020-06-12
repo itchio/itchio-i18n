@@ -439,7 +439,9 @@
             "this_file_will_be_available_when_the_creator_uploads_it": "Este archivo estará disponible cuando el creador lo suba",
             "download": "Descargar",
             "empty_message": "Todavía no está disponible para descargar.",
-            "preorder": "Reservar"
+            "preorder": "Reservar",
+            "version_name": "Versión {{version_name}}",
+            "if_you_pay_price_or_more": "si pagas {{price}} o más"
         },
         "join_the_community": "Únete a la comunidad",
         "community_header": "Comunidad",
