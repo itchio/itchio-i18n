@@ -444,7 +444,9 @@
         "community_header": "Comunidad",
         "post_a_new_topic": "Publica un tema nuevo",
         "community_post_author": "por {{username}}",
-        "post_first_topic": "Publicar la primer publicación"
+        "post_first_topic": "Publicar la primer publicación",
+        "community_posts_count": "{{count}} publicación",
+        "community_posts_count_plural": "{{count}} publicaciones"
     },
     "game_download": {
         "claim_external_key": "Reclamar código {{key_type}}",
