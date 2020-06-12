@@ -444,7 +444,8 @@
             "add_to_collection_short": "Colección",
             "add_to_collection": "Añadir a la Colección",
             "following_username": "Siguiendo a {{username}}",
-            "creator": "Creador"
+            "creator": "Creador",
+            "rate": "Calificar"
         },
         "report_form": {
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
@@ -456,7 +457,8 @@
             "empty_message": "Todavía no está disponible para descargar.",
             "preorder": "Reservar",
             "version_name": "Versión {{version_name}}",
-            "if_you_pay_price_or_more": "si pagas {{price}} o más"
+            "if_you_pay_price_or_more": "si pagas {{price}} o más",
+            "play_in_browser": "Reproducir en el navegador"
         },
         "join_the_community": "Únete a la comunidad",
         "community_header": "Comunidad",
