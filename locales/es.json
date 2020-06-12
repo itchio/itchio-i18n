@@ -438,7 +438,8 @@
         "upload_list": {
             "this_file_will_be_available_when_the_creator_uploads_it": "Este archivo estará disponible cuando el creador lo suba",
             "download": "Descargar",
-            "empty_message": "Todavía no está disponible para descargar."
+            "empty_message": "Todavía no está disponible para descargar.",
+            "preorder": "Reservar"
         },
         "join_the_community": "Únete a la comunidad",
         "community_header": "Comunidad",
