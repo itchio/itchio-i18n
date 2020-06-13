@@ -561,7 +561,8 @@
         "start_project_button": "開始",
         "purchase": {
             "thank_you_for_purchasing_author": "感謝您購買 {{author}} 的 {{product_title}}。",
-            "thank_you_for_purchasing": "感謝您購買 {{product_title}}。"
+            "thank_you_for_purchasing": "感謝您購買 {{product_title}}。",
+            "percent_off": "{{percent}}% off"
         },
         "version_name": "版本 {{version_name}}",
         "social_share_message_download": "我剛下載了 {{username}} 的 {{title}}"
