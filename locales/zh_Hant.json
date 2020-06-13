@@ -30,7 +30,8 @@
             "delete_game_button": "刪除遊戲",
             "project_url_field": "專案 URL",
             "title_field": "標題",
-            "create_a_new_project_title": "建立新專案"
+            "create_a_new_project_title": "建立新專案",
+            "custom_noun_field": "自定義名詞"
         },
         "intro_text": "您是開發者嗎？上傳您的第一個遊戲",
         "project_list": {
@@ -40,7 +41,8 @@
         "create_new_project_button": "建立新專案",
         "header": {
             "projects_link": "專案",
-            "game_jams_link": "Game Jam"
+            "game_jams_link": "Game Jam",
+            "sales_bundles_link": "特價和組合包"
         },
         "hello": "您好！",
         "project_header": {
@@ -371,7 +373,8 @@
             "ownership": {
                 "download": "下載",
                 "you_havent_sent_this_gift_to_anyone_yet": "您還沒有把這份禮物給任何人",
-                "percent_off": "{{percent}}% off"
+                "percent_off": "{{percent}}% off",
+                "you_own_this": "您已經擁有本"
             },
             "community": "社群",
             "add_to_collection_short": "收藏",
@@ -499,7 +502,10 @@
             "credit_cards": "信用卡",
             "password": "密碼",
             "profile": "個人檔案",
-            "developer_header": "開發者"
+            "developer_header": "開發者",
+            "oauth_applications": "OAuth 應用程式",
+            "tax_information": "稅務資訊",
+            "misc_header": "其他"
         },
         "profile": {
             "language_description": "itch.io 使用者界面的語言",
@@ -517,7 +523,11 @@
             "account_type_developer": "開發和上傳遊戲",
             "account_type_gamer": "遊玩和下載遊戲",
             "account_type_description": "您將會如何使用您的帳戶",
-            "username_description": "用於登入您的帳戶，和組成您的個人檔案的 URL"
+            "username_description": "用於登入您的帳戶，和組成您的個人檔案的 URL",
+            "disable_animated_gifs": "停用 GIF 動畫",
+            "show_adult_content": "在搜尋和瀏覽時，顯示被標記為成人內容的東西",
+            "default_language_option": "預設（多國語言測試階段期間，預設為英文）",
+            "language_community_translation": "<s>itch.io 是由我們的社群成員翻譯。</s> 有些語言只有一部分可以使用。如果您想要在 itch.io 使用您的語言或者是幫忙修正錯誤的話，您可以參與翻譯。 <a>了解更多</a>"
         },
         "account_settings": "帳戶設定",
         "email_addresses": {
@@ -527,7 +537,8 @@
                 "current_password": "目前密碼"
             },
             "additional_emails": {
-                "verified_column": "已認證"
+                "verified_column": "已認證",
+                "resend_verification_email_button": "重送驗證信"
             }
         },
         "password": {
@@ -548,7 +559,8 @@
         "filter_group_price": "價錢",
         "sort": "排序",
         "sort_popular": "熱門",
-        "filter_group_genre": "類型"
+        "filter_group_genre": "類型",
+        "filter_group_misc": "其他"
     },
     "game_download": {
         "trouble_downloading_link": "沒有開始下載？",
@@ -557,25 +569,34 @@
             "download_title": "下載 {{project_title}}",
             "preorder_title": "預購 {{project_title}}",
             "view_rest_in_bundle": "查看組合包的其餘內容",
-            "invoice": "收據"
+            "invoice": "收據",
+            "return_to_project": "返回專案"
         },
         "start_project_button": "開始",
         "purchase": {
             "thank_you_for_purchasing_author": "感謝您購買 {{author}} 的 {{product_title}}。",
             "thank_you_for_purchasing": "感謝您購買 {{product_title}}。",
-            "percent_off": "{{percent}}% off"
+            "percent_off": "{{percent}}% off",
+            "linked_user_message": "本購買已經連結到 {{username}} 的帳戶。"
         },
         "version_name": "版本 {{version_name}}",
-        "social_share_message_download": "我剛下載了 {{username}} 的 {{title}}"
+        "social_share_message_download": "我剛下載了 {{username}} 的 {{title}}",
+        "already_own": "看來您已經擁有了這個",
+        "linked_user_message": "本頁面已經連結到 {{username}} 的帳戶。",
+        "recommendations_title": "您可能也對這些有興趣",
+        "or_share_on": "或分享在",
+        "share_and_follow": "分享和追蹤"
     },
     "stripe_checkout": {
-        "password": "密碼"
+        "password": "密碼",
+        "payment_error_help": "如果您不確定，請聯絡 <a>itch.io 客服</a>，並附上上面的訊息。"
     },
     "jam": {
         "header": {
             "links": {
                 "screenshots": "螢幕截圖",
-                "community": "社群"
+                "community": "社群",
+                "edit_jam": "編輯 Jam"
             }
         },
         "results": {
@@ -622,5 +643,9 @@
         "unverified_email": {
             "title": "您的電子郵件地址尚未認證"
         }
+    },
+    "browse_tags": {
+        "commonly_tagged_with": "常被標籤為",
+        "find_tag": "搜尋標籤"
     }
 }
