@@ -32,6 +32,9 @@
         "chess": "Sakk",
         "boring": "Unalmas",
         "archery": "Íjászat",
-        "animals": "Állatok"
+        "animals": "Állatok",
+        "board-game": "Társasjáték",
+        "black-and-white": "Fekete-fehér",
+        "asteroids": "Aszteroidák"
     }
 }
