@@ -11,6 +11,27 @@
         "abstract": "Absztrakt",
         "8-bit": "8-Bit-es",
         "4x": "4X",
-        "3d-platformer": "3D Platformer"
+        "3d-platformer": "3D Platformer",
+        "halloween": "Halloween",
+        "anime": "Anime",
+        "horror": "Horror",
+        "gravity": "Gravitáció",
+        "golf": "Golf",
+        "frog": "Békák",
+        "fps": "FPS",
+        "forest": "Erdő",
+        "endless": "Végtelen",
+        "dragons": "Sárkányok",
+        "dogs": "Kutyák",
+        "difficult": "Nehéz",
+        "dark": "Sötét",
+        "cute": "Cuki",
+        "creative": "Kreatív",
+        "colorful": "Színes",
+        "christmas": "Karácsony",
+        "chess": "Sakk",
+        "boring": "Unalmas",
+        "archery": "Íjászat",
+        "animals": "Állatok"
     }
 }
