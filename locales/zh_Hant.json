@@ -390,7 +390,7 @@
             "following_username": "正在追蹤 {{username}}",
             "follow_username": "追蹤 {{username}}"
         },
-        "percent_off": "可省<s>{{percent}}%</s>",
+        "percent_off": "<s>{{percent}}%</s> off",
         "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 產品序號。",
         "price_or_more": "{{price}} <s>或更多</s>",
         "on_sale": "特價！",
