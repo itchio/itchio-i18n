@@ -370,7 +370,8 @@
             },
             "ownership": {
                 "download": "下載",
-                "you_havent_sent_this_gift_to_anyone_yet": "您還沒有把這份禮物給任何人"
+                "you_havent_sent_this_gift_to_anyone_yet": "您還沒有把這份禮物給任何人",
+                "percent_off": "{{percent}}% off"
             },
             "community": "社群",
             "add_to_collection_short": "收藏",
