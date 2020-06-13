@@ -12,7 +12,11 @@
         "search_games_creators": "ค้นหาเกม และนักพัฒนาเกม",
         "view_all_blog_posts": "ดูอัปเดตทั้งหมด",
         "nav": {
-            "all_games": "ดูเกมทั้งหมด"
+            "all_games": "ดูเกมทั้งหมด",
+            "community": "ชุมชน",
+            "devlogs": "บันทึกนักพัฒนา",
+            "game_jams": "แจมส์เกม",
+            "bundles": "เกมชุด"
         },
         "filtering_platform": "คัดกรอกเกมทั้งหมดบนระบบ {{platform_name}}",
         "latest_featured_games": "เกมที่แนะนำล่าสุด",
@@ -30,10 +34,23 @@
         "free_games": "เกมฟรี",
         "on_sale": "กำลังลดราคา",
         "browse_all_tags": "สำรวจแท็กทั้งหมด",
-        "view_all_jams": "ดูแจมทั้งหมด",
-        "featured_jams": "แจมคัดสรร",
+        "view_all_jams": "ดูแจมส์ทั้งหมด",
+        "featured_jams": "แจมส์คัดสรร",
         "with_demo": "พร้อมการทดลองเล่น",
-        "top_sellers": "ขายดี"
+        "top_sellers": "ขายดี",
+        "to_follow": {
+            "created_projects": "สร้าง {{project_list}} แล้ว"
+        },
+        "meta_description": "itch.io เป็นทางที่ง่ายและสะดวกในการค้นหา ดาวน์โหลด และเผยแพร่เกมอินดี้ออนไลน์โดยไม่เสียค่าใช้จ่าย หากคุณคือนักพัฒนาเกมอินดี้และอยากเผยแพร่งานของคุณหรือเป็นแค่คนธรรมดาที่อยากหาอะไรใหม่ ๆ itch.io คือสิ่งที่กำลังมองหา",
+        "page_title": "ดาวน์โหลดเกมอินดี้ล่าสุด",
+        "html5_games": "เกมบนเบราว์เซอร์",
+        "intro_cta": "<1>เพิ่มเกมของคุณ</1>หรือดูที่<2>คำถามที่พบบ่อย</2>",
+        "intro": "<s>itch.io</s>เป็นทางที่ง่ายและสะดวกในการค้นหาหรือเผยแพร่เกมอินดี้ ฟรีด้วย",
+        "browse_content_type": "ค้นดู {{content_type}}",
+        "view_all_platforms": "ดูแพลตฟอร์มทั้งหมด",
+        "game_dev_on_sale": "ทรัพยากรสำหรับพัฒนาเกม<s>ลดราคา</s>",
+        "from_the_itchio_blog": "จากบล็อก itch.io ของเรา",
+        "get_the_app": "<s>รับการทำงานนอกเหนือบน itch.io!</s> ติดตั้งและจัดการเกมด้วยแอปเดสก์ท็อปของเรา"
     },
     "layout": {
         "user_menu": {
@@ -41,7 +58,7 @@
             "feed": "ข่าวสารของฉัน",
             "library": "ไลบรารีเกมของฉัน",
             "recommendations": "เกมแนะนำ",
-            "game_jams": "แจมเกม",
+            "game_jams": "แจมส์เกม",
             "dashboard": "แดชบอร์ด",
             "new_project": "อัพโหลดโปรเจ็กต์ใหม่",
             "sales_bundles": "ลดราคา&บันเดิล",
@@ -50,7 +67,8 @@
             "log_out": "ออกจากระบบ",
             "account": "หมวดบัญชี",
             "create": "หมวดสร้างสรรค์",
-            "explore": "หมวดสำรวจ"
+            "explore": "หมวดสำรวจ",
+            "host_game_jam": "เป็นผู้จัดการแจม"
         },
         "header": {
             "feed": "ข่าวสาร",
@@ -66,7 +84,7 @@
             "free_games": "เกมฟรี",
             "no_notifications": "ไม่มีการแจ้งเตือนใหม่",
             "notifications_count": "{{count}} การแจ้งเตือน",
-            "jams": "แจม",
+            "jams": "แจมส์",
             "dashboard": "แดชบอร์ด",
             "register": "สร้างบัญชี",
             "log_in": "เข้าสู่ระบบ",
@@ -76,11 +94,12 @@
             "devlogs": "บันทึกผู้พัฒนา",
             "upload_game": "อัพโหลดเกม",
             "browse_games": "ค้นหาเกม",
-            "browse": "ค้นหา"
+            "browse": "ค้นหา",
+            "game_jams": "แจมส์เกม"
         },
         "footer": {
-            "cookies": "คุกกี้",
-            "privacy": "ความเป็นส่วนตัว",
+            "cookies": "นโยบายคุกกี้",
+            "privacy": "นโยบายความเป็นส่วนตัว",
             "directory": "หมวดหมู่",
             "terms": "เงื่อนไขการใช้บริการ",
             "contact_us": "ติดต่อเรา",
