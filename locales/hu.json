@@ -92,7 +92,7 @@
         },
         "to_follow": {
             "empty_results": "Jelenleg nincs több ajánlásunk számodra. Nézz vissza később",
-            "refresh_button": "Frissíts többért...",
+            "refresh_button": "Frissíts többért",
             "dismiss_tooltip": "Ne ajánld többé",
             "created_projects": "{{project_list}} létrehozva"
         },
@@ -206,10 +206,10 @@
             "prototype": "Prototípus"
         },
         "errors": {
-            "server_error": "A szerver nem tudott válaszolni, próbáld meg később."
+            "server_error": "A szerver nem tudott válaszolni, próbáld meg később"
         },
-        "more_ellip": "Több...",
-        "loading_more_ellip": "Több betöltése...",
+        "more_ellip": "Több…",
+        "loading_more_ellip": "Több betöltése…",
         "platforms": {
             "web": "Web"
         },
@@ -231,7 +231,7 @@
         "all_posts": "Összes bejegyzés",
         "updates": "Frissítések",
         "digest": "Összegzés",
-        "empty_message": "Úgy tűnik, hogy itt nincs bejegyzés.",
+        "empty_message": "Úgy tűnik, hogy itt nincsenek bejegyzések.",
         "tag_filter": "Szűkítve erre: {{tag}}. <a>Szűrő törlése</a>"
     },
     "user_login": {
@@ -276,8 +276,8 @@
     },
     "user_register": {
         "register_form": {
-            "digest_signup": "Feliratkozom a kéthavonta érkező itch.io hírlevélre.",
-            "accept_tos": "Elfogadom a <1>szolgáltatás feltételeit</1>.",
+            "digest_signup": "Feliratkozom a havonta kétszer érkező itch.io hírlevélre",
+            "accept_tos": "Elfogadom a <1>szolgáltatás feltételeit</1>",
             "link_product": "A megvásárolt <1>{{product}}</1> automatikusan össze lesz kapcsolva a fiókodhoz a regisztráció után.",
             "log_in": "Jelentkezz be",
             "already_have_account": "vagy már van egy felhasználói fiókod?",
@@ -287,10 +287,10 @@
             "repeat_password": "Írd be a jelszavad újra",
             "password": "Jelszó",
             "your_email_address": "Az e-mail címed",
-            "about_you": "Mit kell tudni rólad?",
+            "about_you": "Rólad",
             "account_preferences_info": "A válaszaidat ezekre a kérdésekre később megváltoztathatod, mert ezeket az itch.io arra használja, hogy hogyan kellene bemutatnia magát neked.",
-            "interest_developer": "Tartalmat osztanék meg az itch.io-n.",
-            "interest_gamer": "Engem a játékok böngészőből játszása vagy letöltése érdekel az itch.io-n.",
+            "interest_developer": "Tartalmat osztanék meg az itch.io-n",
+            "interest_gamer": "A játékok letöltése és a velük való játék érdekel az itch.io-n",
             "create_account": "Fiók létrehozása"
         },
         "page_title": "Fiók regisztrálása",
@@ -307,8 +307,8 @@
         "search_results_for_query": "\"{{query}}\" keresési eredményei",
         "browse_all_games": "Játékok böngészése",
         "view_all_tags": "Az összes címke megtekintése",
-        "published_count": "projekt",
-        "published_count_plural": "projekt"
+        "published_count": "{{count}} projekt",
+        "published_count_plural": "{{count}} projekt"
     },
     "developers": {
         "design_your_games_page_description": "Hozz létre egy egyedi oldalt a játékodnak, ahol az emberek megvehetik vagy letölthetik. Szabd testre a színeket, a betűket, a képeket és a videókat. Mivel ez a játékoldalad, amit ide nem írsz le, azt nem fogják megtalálni.",
