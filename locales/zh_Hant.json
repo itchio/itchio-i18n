@@ -271,6 +271,9 @@
         },
         "multiplayer_features": {
             "local": "單機多人"
+        },
+        "platforms": {
+            "web": "網頁"
         }
     },
     "user_login": {
@@ -295,7 +298,8 @@
         "log_in_to_your_itchio_account": "登入到你的 itch.io 帳戶",
         "no_account_prompt": "沒有帳號？ <1>創建帳號</1>",
         "intent": {
-            "recent_purchases": "登入以連結您最近的購買到您的帳戶。"
+            "recent_purchases": "登入以連結您最近的購買到您的帳戶。",
+            "community": "您需要登入才能參與 itch.io 社區互動。建立帳戶是免費的，並且只需要幾分鐘。"
         }
     },
     "blog": {
