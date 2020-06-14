@@ -108,5 +108,36 @@
             "about": "เกี่ยวกับ"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "user_settings": {
+        "navigation": {
+            "thirdparty_analytics": "การวิเคราะห์โดยบุคคลที่สาม",
+            "oauth_applications": "แอปพลิเคชัน OAuth",
+            "api_keys": "คีย์ API",
+            "data_export": "ส่งออกข้อมูล",
+            "privacy": "ความเป็นส่วนตัว",
+            "press_access": "การเข้าถึงโดยสื่อ",
+            "connected_accounts": "บัญชีที่เชื่อมโยง",
+            "email_notifications": "การแจ้งเตือนอีเมล",
+            "billing_address": "ที่อยู่สำหรับเรียกเก็บเงิน",
+            "credit_cards": "บัตรเครดิต",
+            "payout_mode": "วิธีการรับชำระเงิน",
+            "tax_information": "ข้อมูลภาษี",
+            "payment_processors": "บัญชีที่รับเงิน",
+            "revenue_sharing": "การแบ่งรายได้",
+            "publisher_get_started": "เริ่มต้น",
+            "support_email": "อีเมลสำหรับการสนับสนุน",
+            "two_factor_auth": "การยืนยันแบบสองขั้นตอน",
+            "email_addresses": "ที่อยู่อีเมล",
+            "password": "รหัสผ่าน",
+            "profile": "ข้อมูลส่วนตัว",
+            "developer_header": "สำหรับผู้พัฒนา",
+            "misc_header": "อื่น ๆ",
+            "contact_header": "การติดต่อ",
+            "publisher_header": "การเผยแพร่",
+            "payment_header": "การชำระเงิน",
+            "basics_header": "ทั่วไป"
+        },
+        "account_settings": "การตั้งค่าบัญชี"
+    }
 }
