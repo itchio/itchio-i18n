@@ -573,6 +573,7 @@
         "preorder_this_product_by_purchasing_it_for": "Reserva este producto comprándolo por {{price}} o más.",
         "includes_steam_key": "Recibirás una clave de Steam con tu compra.",
         "i_already_paid_for_this": "Ya he pagado por esto...",
-        "your_email_address": "Tu dirección de correo electrónico"
+        "your_email_address": "Tu dirección de correo electrónico",
+        "included_files": "Ficheros incluidos"
     }
 }
