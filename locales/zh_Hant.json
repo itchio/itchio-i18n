@@ -109,7 +109,12 @@
         "things_rated_header": "您評分過的東西",
         "show_on_my_profile_toggle": "在我的個人檔案顯示",
         "rate_game": {
-            "you_rated_this_project_ago": "你在 {{time_ago}} 評價過這個專案"
+            "you_rated_this_project_ago": "你在 {{time_ago}} 評價過這個專案",
+            "rating_saved_header": "評分已儲存",
+            "rating_removed_header": "評分已移除",
+            "rate_header": "評分和評論 {{project_title}}",
+            "delete_button": "刪除評分和評論",
+            "rating_deleted_summary": "您的評分已被刪除。"
         }
     },
     "index": {
