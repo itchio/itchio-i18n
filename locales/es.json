@@ -571,6 +571,8 @@
         "sold_out_notice": "Este producto está agotado actualmente, vuelve más tarde.",
         "download_this_product_by_purchasing_it_for": "Descarga este producto comprándolo por {{price}} o más.",
         "preorder_this_product_by_purchasing_it_for": "Reserva este producto comprándolo por {{price}} o más.",
-        "includes_steam_key": "Recibirás una clave de Steam con tu compra."
+        "includes_steam_key": "Recibirás una clave de Steam con tu compra.",
+        "i_already_paid_for_this": "Ya has pagado por esto...",
+        "your_email_address": "Tu dirección de correo electrónico"
     }
 }
