@@ -568,6 +568,9 @@
         }
     },
     "buy_form": {
-        "sold_out_notice": "Este producto está agotado actualmente, vuelve más tarde."
+        "sold_out_notice": "Este producto está agotado actualmente, vuelve más tarde.",
+        "download_this_product_by_purchasing_it_for": "Descarga este producto comprándolo por {{price}} o más.",
+        "preorder_this_product_by_purchasing_it_for": "Reserva este producto comprándolo por {{price}} o más.",
+        "includes_steam_key": "Recibirás una clave de Steam con tu compra."
     }
 }
