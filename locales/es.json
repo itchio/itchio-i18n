@@ -435,7 +435,7 @@
             "related_games_short": "Relacionados",
             "related_games": "Juegos relacionados",
             "submission_to_jam": "Entrega para {{jam_title}}",
-            "rate_this_noun": "Califica este {{noun}}",
+            "rate_this_noun": "Valora este {{noun}}",
             "edit_rating": "Editar Calificación",
             "edit_your_rating": "Edita tu Calificación",
             "devlog": "Diario de desarrollo",
@@ -445,7 +445,8 @@
             "add_to_collection": "Añadir a la Colección",
             "following_username": "Siguiendo a {{username}}",
             "creator": "Creador",
-            "rate": "Calificar"
+            "rate": "Valorar",
+            "rate_for_jam": "Valorar para {{jam_title}}"
         },
         "report_form": {
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
@@ -560,5 +561,10 @@
     },
     "game_grid": {
         "in_bundle": "En el paquete"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Tu correo electrónico no está verificado"
+        }
     }
 }
