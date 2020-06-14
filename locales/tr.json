@@ -731,7 +731,8 @@
             "this_topic_was_locked_by_username": "Bu başlık {{username}} tarafından kilitlendi",
             "this_reply_will_go_to_yourself": "Kendinizi yanıtlayacaksınız.",
             "this_reply_will_go_to_the_topic_author": "Bu yanıt konu sahibi olan {{username}}'ne gidecektir",
-            "topic_is_autoarchived": "Bir süredir hiçbir gönderi olmadığı için, bu konu otomatik olarak arşivlenmiştir ve yeni gönderi oluşturulamayacaktır."
+            "topic_is_autoarchived": "Bir süredir hiçbir gönderi olmadığı için, bu konu otomatik olarak arşivlenmiştir ve yeni gönderi oluşturulamayacaktır.",
+            "create_related_topic": "Gönderiyle ilgili bir şey varsa, <a> {{category_name}} </a> içinde bir konu oluşturmayı düşünün."
         },
         "post_list": {
             "deleted_post": "Silinmiş gönderi",
