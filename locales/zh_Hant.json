@@ -460,7 +460,8 @@
         "available_header": "可在以下地方找到",
         "also_available_header": "也可在以下地方找到",
         "buy_now_button": "馬上購買",
-        "empty_page": "這裡似乎沒有任何東西...…"
+        "empty_page": "這裡似乎沒有任何東西...…",
+        "unavailable": "這個{{game_noun}}現在不能使用"
     },
     "community": {
         "topic": {
