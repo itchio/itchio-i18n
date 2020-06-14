@@ -753,7 +753,8 @@
             "suspended_account": "Hesabı askıya al",
             "pinned_reply": "Sabitlenmiş Yanıt",
             "pinned_post": "Sabitlenmiş Gönderi",
-            "edited": "(düzenlenmiş)"
+            "edited": "(düzenlenmiş)",
+            "view_more_in_thread": "Daha Fazlasını Oku"
         },
         "post_form": {
             "add_profile_image": "Profil resmi ekle",
