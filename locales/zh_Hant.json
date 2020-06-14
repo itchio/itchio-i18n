@@ -303,7 +303,7 @@
             "comment": "您需要有 itch.io 帳戶才能發表留言。",
             "rate_game": "您需要有 itch.io 帳戶才可以給遊戲評分。",
             "follow_username": "您需要有 itch.io 帳戶才能追蹤 {{username}}。",
-            "jam_submit": "您需要 itch.io 帳號才能提交遊戲作品到 Game Jam"
+            "jam_submit": "您需要有 itch.io 帳戶才能提交作品到 Jam。"
         }
     },
     "blog": {
