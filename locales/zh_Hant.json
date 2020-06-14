@@ -109,7 +109,7 @@
         "things_rated_header": "您評分過的東西",
         "show_on_my_profile_toggle": "在我的個人檔案顯示",
         "rate_game": {
-            "you_rated_this_project_ago": "你在 {{time_ago}} 評價過這個專案",
+            "you_rated_this_project_ago": "您在 {{time_ago}} 評價過這個專案。",
             "rating_saved_header": "評分已儲存",
             "rating_removed_header": "評分已移除",
             "rate_header": "評分和評論 {{project_title}}",
@@ -415,7 +415,8 @@
             "edit_your_rating": "編輯您的評分",
             "devlog": "開發日誌",
             "following_username": "正在追蹤 {{username}}",
-            "follow_username": "追蹤 {{username}}"
+            "follow_username": "追蹤 {{username}}",
+            "comments": "留言"
         },
         "percent_off": "<s>{{percent}}%</s> Off",
         "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 產品序號。",
@@ -458,7 +459,8 @@
             "thanks_for_downloading_title": "感謝您的下載"
         },
         "report_form": {
-            "email_creator_link": "寄送電子郵件給創作者"
+            "email_creator_link": "寄送電子郵件給創作者",
+            "support_from_creator": "您遇到麻煩，需要創作者給予您協助嗎？"
         },
         "community_sticky": "至頂",
         "empty_page_no_uploads": "創作者還沒上傳任何東西……",
@@ -470,7 +472,16 @@
         "buy_now_button": "馬上購買",
         "empty_page": "這裡似乎沒有任何東西...…",
         "unavailable": "這個 {{game_noun}} 目前無法使用",
-        "download_now_button": "馬上下載"
+        "download_now_button": "馬上下載",
+        "comments": {
+            "write_your_comment": "寫下您的留言……",
+            "comments_header": "留言"
+        },
+        "password_required": {
+            "header": "本頁面需要密碼才能檢視"
+        },
+        "post_first_topic": "發表第一個主題",
+        "post_a_new_topic": "發表新主題"
     },
     "community": {
         "topic": {
@@ -483,28 +494,45 @@
             "remove_bookmark": "移除書籤",
             "new_reply": "新回覆",
             "sticky": "至頂",
-            "unsubscribe": "取消訂閱"
+            "unsubscribe": "取消訂閱",
+            "replies_count": "回覆：{{count}}",
+            "this_topic_was_locked_by_username": "本主題已被 {{username}} 鎖定",
+            "this_topic_is_locked": "本主題已被鎖定",
+            "return_to_topic_list": "回到主題列表",
+            "join_the_discussion": "登入或建立免費的 itch.io 帳號以加入討論。"
         },
         "new_topic": {
             "topic_tag": "標籤",
             "title": "標題",
-            "i_agree_to_the_rules_above": "我同意以上規則"
+            "i_agree_to_the_rules_above": "我同意以上規則",
+            "locked": "鎖定",
+            "sticky": "置頂",
+            "moderator_tools": "管理員工具"
         },
         "post_form": {
             "remove_tag": "移除標籤",
             "tag_header": "標籤",
             "subscribe": "訂閱",
-            "add_profile_image": "增加個人檔案圖片"
+            "add_profile_image": "增加個人檔案圖片",
+            "subscribe_to_this_topic": "訂閱本主題"
         },
         "post_list": {
             "report": "回報",
             "delete": "刪除",
             "reply": "回覆",
-            "pinned_reply": "置頂回覆"
+            "pinned_reply": "置頂回覆",
+            "delete_topic": "刪除主題"
         },
         "category": {
             "unsubscribe_from_topics": "取消訂閱",
-            "search_community_label": "搜尋社群"
+            "search_community_label": "搜尋社群",
+            "archived_flag": "已封存",
+            "create_first_topic_button": "發表第一個主題",
+            "topics_count": "{{count}} 個主題"
+        },
+        "topic_list": {
+            "locked_flag": "已鎖定",
+            "sticky_flag": "置頂"
         }
     },
     "buy_form": {
@@ -586,7 +614,9 @@
         "sort": "排序",
         "sort_popular": "熱門",
         "filter_group_genre": "類型",
-        "filter_group_misc": "其他"
+        "filter_group_misc": "其他",
+        "results_count": "{{count}} 項結果",
+        "results_count_plural": "{{count}} 項結果"
     },
     "game_download": {
         "trouble_downloading_link": "沒有開始下載？",
