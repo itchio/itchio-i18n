@@ -454,7 +454,7 @@
         "buy_as_bundle_plural": "Bu ürünü bir paketin içinde {{count}} ürün ile birlikte {{price}} fiyatına satın alabilirsiniz:",
         "no_thanks_just_take_me_to_the_downloads": "Hayır teşekkürler, beni indirme bölümüne götür",
         "free_pay_what_you_want": "Bu proje ücretsiz, ama yapımcısı adil olduğunu düşündüğün fiyatı ödeyerek onlara istediğin ücreti vererek yapacağın desteği kabul ediyor.",
-        "check_out_with": "Ödemeyi Bununla Tamamla"
+        "check_out_with": "Ödemeyi bununla tamamla"
     },
     "collection": {
         "last_updated_date": "Son güncelleme {{date}}",
