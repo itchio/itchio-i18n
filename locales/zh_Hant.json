@@ -459,7 +459,8 @@
         "download_or_claim_button": "下載或領取",
         "available_header": "可在以下地方找到",
         "also_available_header": "也可在以下地方找到",
-        "buy_now_button": "馬上購買"
+        "buy_now_button": "馬上購買",
+        "empty_page": "這裡似乎沒有任何東西..."
     },
     "community": {
         "topic": {
