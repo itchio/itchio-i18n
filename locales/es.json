@@ -446,7 +446,11 @@
             "following_username": "Siguiendo a {{username}}",
             "creator": "Creador",
             "rate": "Valorar",
-            "rate_for_jam": "Valorar para {{jam_title}}"
+            "rate_for_jam": "Valorar para {{jam_title}}",
+            "jam_submission": {
+                "view_the_submission_page": "Ver la página de entregas",
+                "this_is_a_submission_to_jam_title": "Se ha presentado a {{jam_title}}"
+            }
         },
         "report_form": {
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
@@ -595,5 +599,17 @@
         "i_already_paid_for_this": "Ya he pagado por esto...",
         "your_email_address": "Tu dirección de correo electrónico",
         "included_files": "Archivos incluidos"
+    },
+    "user_settings": {
+        "profile": {
+            "profile": "Perfil"
+        }
+    },
+    "browse": {
+        "filter_group": {
+            "more_options": "Más opciones"
+        },
+        "filter_group_tools": "Herramientas y motores",
+        "filter_group_collection": "Colección"
     }
 }
