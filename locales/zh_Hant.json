@@ -107,7 +107,10 @@
     "library": {
         "download_button": "下載",
         "things_rated_header": "您評分過的東西",
-        "show_on_my_profile_toggle": "在我的個人檔案顯示"
+        "show_on_my_profile_toggle": "在我的個人檔案顯示",
+        "rate_game": {
+            "you_rated_this_project_ago": "你在 {{time_ago}} 評價過這個專案"
+        }
     },
     "index": {
         "free_games": "免費遊戲",
