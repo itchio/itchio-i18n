@@ -352,7 +352,8 @@
         "creators": "創作者：",
         "published_count": "{{count}}個專案",
         "browse_all_games": "瀏覽全部遊戲",
-        "search_results_for_query": "'{{query}}' 的搜尋結果"
+        "search_results_for_query": "'{{query}}' 的搜尋結果",
+        "view_all_tags": "檢視全部標籤"
     },
     "app": {
         "open_source": "開源",
