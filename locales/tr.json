@@ -754,7 +754,8 @@
             "pinned_reply": "Sabitlenmiş Yanıt",
             "pinned_post": "Sabitlenmiş Gönderi",
             "edited": "(düzenlenmiş)",
-            "view_more_in_thread": "Konuda daha fazlasını görün"
+            "view_more_in_thread": "Konuda daha fazlasını görün",
+            "post_from_suspended_account": "Askıya alınmış hesap tarafından gönderi"
         },
         "post_form": {
             "add_profile_image": "Profil resmi ekle",
