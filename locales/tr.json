@@ -266,7 +266,8 @@
         "welcome_back": "Tekrar hoş geldiniz!",
         "welcome_to_itchio": "Itch.io'ya hoş geldiniz!",
         "errors": {
-            "accept_terms": "Hizmet Koşullarını kabul etmelisiniz"
+            "accept_terms": "Hizmet Koşullarını kabul etmelisiniz",
+            "please_enter_a_valid_email_address": "Lütfen geçerli bir e-posta adresi giriniz."
         }
     },
     "user_settings": {
