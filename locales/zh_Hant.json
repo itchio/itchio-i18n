@@ -300,7 +300,8 @@
         "intent": {
             "recent_purchases": "登入以連結您最近的購買到您的帳戶。",
             "community": "您需要登入才能參與 itch.io 社群互動。建立帳戶是免費的，並且只需要幾分鐘。",
-            "comment": "您需要有 itch.io 帳戶才能發表留言。"
+            "comment": "您需要有 itch.io 帳戶才能發表留言。",
+            "rate_game": "您需要有itch.io帳戶才可以給遊戲評分。"
         }
     },
     "blog": {
