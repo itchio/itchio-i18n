@@ -97,7 +97,7 @@
         "browse_content_type": "Buscar {{content_type}}",
         "nav": {
             "all_games": "Todos los Juegos",
-            "bundles": "Bundles",
+            "bundles": "Colecciones",
             "game_jams": "Game jams",
             "devlogs": "Devlogs",
             "community": "Comunidad"
@@ -123,7 +123,7 @@
             "soundtrack": "Bandas sonoras",
             "other": "Misceláneo",
             "tool": "Herramientas",
-            "comic": "Comics",
+            "comic": "Cómics",
             "book": "Libros"
         },
         "accessibility_features": {
@@ -150,7 +150,7 @@
             "accelerometer": "Acelerómetro",
             "midi_controller": "Controlador MIDI",
             "joystick": "Joystick",
-            "phone": "Smartphone",
+            "phone": "Teléfono inteligente",
             "dance_pad": "Almohadilla de baile"
         },
         "durations": {
@@ -546,7 +546,27 @@
             "classification_other": "Otro",
             "description_field": "Descripción",
             "details_section_header": "Detalles",
-            "community_discussion_board": "Panel de discusión"
+            "community_discussion_board": "Panel de discusión",
+            "screenshots_header": "Capturas de pantalla",
+            "add_screenshots": "Añadir capturas de pantalla",
+            "uploads": {
+                "demo_toggle": "Este archivo es una demo y se puede descargar gratis",
+                "delete_file_button": "Borrar archivo"
+            },
+            "errors": {
+                "invalid_image": "Por favor, edita tu imagen o prueba con otra",
+                "invalid_file": "Hay un problema con el archivo que has seleccionado"
+            },
+            "cover_uploader": {
+                "upload_button": "Subir imagen de carátula"
+            }
+        },
+        "project_header": {
+            "more": "Más",
+            "admins": "Administradores",
+            "rewards": "Recompensas",
+            "edit_comments": "Editar comentarios",
+            "edit_project": "Editar proyecto"
         }
     },
     "add_to_collection": {
@@ -574,6 +594,6 @@
         "includes_steam_key": "Recibirás una clave de Steam con tu compra.",
         "i_already_paid_for_this": "Ya he pagado por esto...",
         "your_email_address": "Tu dirección de correo electrónico",
-        "included_files": "Ficheros incluidos"
+        "included_files": "Archivos incluidos"
     }
 }
