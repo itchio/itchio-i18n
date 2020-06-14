@@ -566,5 +566,8 @@
         "unverified_email": {
             "title": "Tu correo electrónico no está verificado"
         }
+    },
+    "buy_form": {
+        "sold_out_notice": "Este producto está agotado actualmente, vuelve más tarde"
     }
 }
