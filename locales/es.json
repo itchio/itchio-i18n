@@ -464,7 +464,8 @@
             }
         },
         "report_form": {
-            "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?"
+            "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?",
+            "form_description": "Por favor, rellena este formulario si necesitas ponerte en contacto con el equipo de moderación de itch.io sobre el contenido de esta página. Tu informe puede ser compartido con el creador de la página si es necesario."
         },
         "community_view_all_posts": "Ver todas las publicaciones",
         "upload_list": {
