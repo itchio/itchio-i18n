@@ -921,6 +921,12 @@
     },
     "stripe_checkout": {
         "payment_error": "Hubo un error al procesar tu pago:",
-        "payment_error_help": "Si no estás seguro, por favor contacta al <a>soporte de itch.io</a> con el mensaje de arriba."
+        "payment_error_help": "Si no estás seguro, por favor contacta al <a>soporte de itch.io</a> Y añade el mensaje de arriba.",
+        "password": "Contraseña",
+        "enter_your_password_to_use_your_card": "Ingresa tu contraseña para usar tu tarjeta",
+        "new_card": "Tarjeta nueva",
+        "card_ending_last4": "Termina en {{last4}}",
+        "edit_saved_cards": "Modificar tarjetas guardadas",
+        "choose_a_card": "Escoge una tarjeta"
     }
 }
