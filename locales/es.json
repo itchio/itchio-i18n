@@ -430,7 +430,8 @@
                 "percent_off": "{{percent}}% de descuento",
                 "purchased_for_price": "Comprado por {{price}}",
                 "purchased_in_a_bundle_for_price": "Comprado en una colección por {{price}}",
-                "you_were_gifted_this": "Te han regalado esto"
+                "you_were_gifted_this": "Te han regalado esto",
+                "claimed": "Reclamado"
             },
             "view_all_by_name": "Ver los juegos de {{name}}",
             "follow_username": "Seguir a {{username}}",
