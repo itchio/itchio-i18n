@@ -4,7 +4,16 @@
             "settings": "Pengaturan",
             "account": "Akun",
             "library": "Pustakaku",
-            "explore": "Telusur"
+            "explore": "Telusur",
+            "account_menu_tooltip": "Menu Akun",
+            "feed": "Umpanku",
+            "recommendations": "Rekomendasi",
+            "game_jams": "Game jam",
+            "dashboard": "Dasbor",
+            "new_project": "Unggah proyek baru",
+            "view_profile": "Lihat profil",
+            "log_out": "Keluar",
+            "create": "Buat"
         },
         "header": {
             "game_assets": "Aset",
@@ -19,7 +28,17 @@
             "devlogs": "Devlog",
             "game_jams": "Game Jam",
             "browse_games": "Telusur Gim",
-            "browse": "Telusur"
+            "browse": "Telusur",
+            "feed": "Umpan",
+            "games": "Gim",
+            "fun_games": "Gim seru",
+            "game_development": "Pengembangan gim",
+            "indie_game_store": "Toko gim indie",
+            "free_games": "Gim gratis",
+            "jams": "Jam",
+            "log_in": "Masuk",
+            "search_placeholder": "Cari gim atau kreator",
+            "upload_game": "Unggah Gim"
         },
         "footer": {
             "cookies": "Kuki",
@@ -36,6 +55,24 @@
     "index": {
         "dont_see_anything_you_like": "Tidak menemukan yang kamu suka?",
         "download_app": "Unduh aplikasi",
-        "popular_tags": "Label Terpopuler"
+        "popular_tags": "Label Terpopuler",
+        "view_all_jams": "Tampilkan semua jam",
+        "featured_jams": "Jam pilihan",
+        "view_more": "Selengkapnya",
+        "fresh_games": "Gim Terbaru",
+        "recommended_for_you": "Direkomendasikan untukmu",
+        "view_all": "Tampilkan semua",
+        "with_demo": "Dilengkapi demo",
+        "top_sellers": "Paling laris",
+        "free_games": "Gim gratis",
+        "browse_all_tags": "Jelajahi semua tag",
+        "search_games_creators": "Cari gim & kreator",
+        "view_all_blog_posts": "Tampilkan semua pembaruan",
+        "from_the_itchio_blog": "Dari blog itch.io",
+        "random_game": "Gim acak",
+        "from_the_blog": "Dari blog",
+        "view_all_games": "Tampilkan semua gim",
+        "games_by_price": "Gim menurut harga",
+        "browse": "Jelajahi"
     }
 }
