@@ -360,7 +360,7 @@
             "this_topic_is_locked": "Este tema está bloqueado",
             "a_topic_by_username_created_time_ago": "Un tema por {{username}} creado {{time_ago}}",
             "bookmark": "Marcador",
-            "create_related_topic": "Si tienes algo relacionado con la publicación considera <a>crear un team en {{category_name}}</a>.",
+            "create_related_topic": "Si tienes algo relacionado con la publicación considera <a>crear un tema en {{category_name}}</a>.",
             "topic_is_autoarchived": "El tema ha sido auto-archivado y ya no puede ser publicado porque no ha habido publicaciones en un tiempo.",
             "last_page": "Última página",
             "first_page": "Primera página",
