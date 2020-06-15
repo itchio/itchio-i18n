@@ -468,7 +468,10 @@
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?",
             "form_description": "Por favor, rellena este formulario si necesitas ponerte en contacto con el equipo de moderación de itch.io sobre el contenido de esta página. Tu informe puede ser compartido con el creador de la página si es necesario.",
             "support_page_link": "Ir a la página oficial de soporte",
-            "title": "Informar página '{{page_title}}'"
+            "title": "Informar página '{{page_title}}'",
+            "report_received_header": "Informe recibido",
+            "submit_report_button": "Enviar informe",
+            "email_creator_link": "Envía un correo electrónico al creador"
         },
         "community_view_all_posts": "Ver todas las publicaciones",
         "upload_list": {
