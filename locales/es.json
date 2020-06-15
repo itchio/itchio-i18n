@@ -822,7 +822,21 @@
             },
             "your_primary_email_address": "Tu correo principal: {{email}}",
             "primary_email_header": "Correo principal",
-            "change_password_instructions": "Cuando cambias el correo electrónico debes verificarlo para acceder a cualquier juego que hayas comprado. Se te enviará un correo con las instrucciones de verificación. Por razones de seguridad también debes escribir tu contraseña actual para hacer cualquier cambio sobre tu dirección de correo."
+            "change_password_instructions": "Cuando cambias tu correo electrónico debes verificarlo para acceder a cualquier juego que hayas comprado. Se te enviará un correo con las instrucciones de verificación. Por razones de seguridad también debes escribir tu contraseña actual para hacer cualquier cambio sobre tu dirección de correo.",
+            "additional_emails": {
+                "detach_email": "Quitar correo electrónico",
+                "email_sent_status": "Correo enviado",
+                "resend_verification_email_button": "Reenviar verificación",
+                "verified_column": "Verificado",
+                "email_column": "Correo",
+                "emails_added_header": "Correos añadidos"
+            },
+            "add_email_form": {
+                "add_email_button": "Añadir correo",
+                "additional_email_address_label": "Dirección de correo complementaria"
+            },
+            "additional_emails_instructions": "Te enviaremos instrucciones a tu correo después de añadir uno adicional.",
+            "additional_emails_header": "Correos complementarios"
         },
         "password": {
             "new_password_again": "Escribe tu nueva contraseña otra vez",
@@ -903,5 +917,8 @@
         "edit_collection": "Editar colección",
         "last_updated_date": "Última actualización {{date}}",
         "authors": "Una colección de {{author}}"
+    },
+    "stripe_checkout": {
+        "payment_error": "Hubo un error al procesar tu pago:"
     }
 }
