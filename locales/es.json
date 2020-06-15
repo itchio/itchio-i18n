@@ -821,7 +821,8 @@
                 "new_email_address": "Nuevo correo"
             },
             "your_primary_email_address": "Tu correo principal: {{email}}",
-            "primary_email_header": "Correo principal"
+            "primary_email_header": "Correo principal",
+            "change_password_instructions": "Cuando cambias el correo electrónico debes verificarlo para acceder a cualquier juego que hayas comprado. Se te enviará un correo con las instrucciones de verificación. Por razones de seguridad también debes escribir tu contraseña actual para hacer cualquier cambio sobre tu dirección de correo."
         },
         "password": {
             "new_password_again": "Escribe tu nueva contraseña otra vez",
