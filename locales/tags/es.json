@@ -213,6 +213,8 @@
         "soccer": "Fútbol",
         "skeletons": "Esqueletos",
         "singleplayer": "Un jugador",
-        "simulation": "Simulación"
+        "simulation": "Simulación",
+        "shooter": "Disparos",
+        "sandbox": "Mundo abierto"
     }
 }
