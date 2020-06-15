@@ -484,7 +484,7 @@
         "community_posts_count": "{{count}} publicación",
         "community_posts_count_plural": "{{count}} publicaciones",
         "after_download": {
-            "thanks_project_author": "Gracias por descargar {{project}} por {{author}}",
+            "thanks_project_author": "Gracias por descargar {{project}} por {{author}}.",
             "thanks_for_downloading_title": "Gracias por la descarga",
             "share_this_project": "Comparte este proyecto"
         }
