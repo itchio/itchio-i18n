@@ -13,7 +13,9 @@
             "new_project": "Unggah proyek baru",
             "view_profile": "Lihat profil",
             "log_out": "Keluar",
-            "create": "Buat"
+            "create": "Buat",
+            "sales_bundles": "Obral & bundel",
+            "host_game_jam": "Selenggara game jam"
         },
         "header": {
             "game_assets": "Aset",
@@ -38,7 +40,8 @@
             "jams": "Jam",
             "log_in": "Masuk",
             "search_placeholder": "Cari gim atau kreator",
-            "upload_game": "Unggah Gim"
+            "upload_game": "Unggah Gim",
+            "sales": "Obral"
         },
         "footer": {
             "cookies": "Kuki",
@@ -73,6 +76,13 @@
         "from_the_blog": "Dari blog",
         "view_all_games": "Tampilkan semua gim",
         "games_by_price": "Gim menurut harga",
-        "browse": "Jelajahi"
+        "browse": "Jelajahi",
+        "view_all_games_on_sale": "Tampilkan semua gim yang sedang obral",
+        "people_to_follow": "Orang Untuk Diikuti",
+        "fresh_games_description": "Selalu diperbaharui dengan gim terbaru di itch.io",
+        "recommendations_based_on": "Berdasarkan hal yang kamu pernah beli, unduh, dan beri peringkat",
+        "on_sale": "Sedang Diskon",
+        "get_the_app": "<s>Dapatkan yang terbaik dari itch.io</s> Pasang dan kelola gim kamu dengan aplikasi desktop kami",
+        "view_something_random": "Lihat sesuatu secara acak"
     }
 }
