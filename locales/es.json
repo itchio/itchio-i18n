@@ -353,7 +353,8 @@
             "title": "Título",
             "your_moderators_are": "itch.io no modera estos foros, tus moderadores son:",
             "topic_tag": "Etiqueta",
-            "body": "Cuerpo"
+            "body": "Cuerpo",
+            "page_title": "Publicar un nuevo tema"
         },
         "post_list": {
             "edited": "(editado)",
