@@ -462,7 +462,8 @@
             "footer": {
                 "updated_date": "Actualizado el {{date}}",
                 "embed": "Incrustar",
-                "report": "Denunciar"
+                "report": "Denunciar",
+                "view_all_by_username": "Ver todos por {{username}}"
             }
         },
         "report_form": {
