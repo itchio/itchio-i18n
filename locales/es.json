@@ -920,6 +920,7 @@
         "authors": "Una colección de {{author}}"
     },
     "stripe_checkout": {
-        "payment_error": "Hubo un error al procesar tu pago:"
+        "payment_error": "Hubo un error al procesar tu pago:",
+        "payment_error_help": "Si no estás seguro, por favor contacta al <a>soporte de itch.io</a> con el mensaje de arriba."
     }
 }
