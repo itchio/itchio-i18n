@@ -192,6 +192,27 @@
         "retro": "Retro",
         "remake": "Remake",
         "spooky": "Miedo",
-        "runner": "Corredor"
+        "runner": "Corredor",
+        "top-down": "Cenital",
+        "time-travel": "Viaje en el tiempo",
+        "third-person": "Tercera persona",
+        "tetris": "Tetris",
+        "tennis": "Tenis",
+        "tanks": "Tanques",
+        "tactical-rpg": "RPG táctico",
+        "swords": "Espadas",
+        "survival": "Supervivencia",
+        "surreal": "Surrealista",
+        "superhero": "Superhéroe",
+        "strategy-rpg": "RPG estratégico",
+        "strategy": "Estrategia",
+        "stealth": "Sigilo",
+        "sports": "Deportes",
+        "space-sim": "Simulador espacial",
+        "space": "Espacio",
+        "soccer": "Fútbol",
+        "skeletons": "Esqueletos",
+        "singleplayer": "Un jugador",
+        "simulation": "Simulación"
     }
 }
