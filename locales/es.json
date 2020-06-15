@@ -836,7 +836,8 @@
                 "additional_email_address_label": "Dirección de correo complementaria"
             },
             "additional_emails_instructions": "Te enviaremos instrucciones a tu correo después de añadir uno adicional.",
-            "additional_emails_header": "Correos complementarios"
+            "additional_emails_header": "Correos complementarios",
+            "additional_emails_summary": "Puedes añadir direcciones de correo adicionales a tu cuenta de itch.io para acceder a todo lo comprado a través de esas direcciones. Por ejemplo, tu dirección de correo de PayPal puede no ser tu dirección de correo habitual, así que quizás quieras añadirla como dirección adicional."
         },
         "password": {
             "new_password_again": "Escribe tu nueva contraseña otra vez",
