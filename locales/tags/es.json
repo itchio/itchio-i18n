@@ -179,6 +179,17 @@
         "puzzle": "Rompecabezas",
         "point-and-click": "Apunta y clickea",
         "platformer": "Plataformeo",
-        "pixel-art": "Arte de píxeles"
+        "pixel-art": "Arte de píxeles",
+        "short": "Corto",
+        "shadows": "Sombras",
+        "science-fiction": "Ciencia ficción",
+        "rpg": "Juego de rol",
+        "rotation": "Rotación",
+        "romance": "Romance",
+        "roguelite": "Roguelite",
+        "robots": "Robots",
+        "rhythm": "Rítmico",
+        "retro": "Retro",
+        "remake": "Remake"
     }
 }
