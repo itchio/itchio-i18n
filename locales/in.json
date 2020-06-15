@@ -1,1 +1,32 @@
-{}
+{
+    "layout": {
+        "user_menu": {
+            "settings": "Pengaturan",
+            "account": "Akun"
+        },
+        "header": {
+            "game_assets": "Aset",
+            "bundles": "Bundel",
+            "comics": "Komik",
+            "no_notifications": "Tidak ada notifikasi baru",
+            "notifications_count": "{{count}} notifikasi",
+            "dashboard": "Dasbor",
+            "register": "Daftar",
+            "search": "Pencarian",
+            "community": "Komunitas",
+            "devlogs": "Devlog",
+            "game_jams": "Game Jam"
+        },
+        "footer": {
+            "cookies": "Kuki",
+            "privacy": "Privasi",
+            "directory": "Direktori",
+            "terms": "Ketentuan",
+            "contact_us": "Hubungi Kami",
+            "blog": "Blog",
+            "faq": "FAQ",
+            "about": "Tentang"
+        }
+    },
+    "itchio": "itch.io"
+}
