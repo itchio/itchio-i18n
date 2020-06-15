@@ -350,10 +350,33 @@
             "new_topic": "Nuevo tema",
             "this_a_community_run_message_board": "Este es un tablero de mensajes llevado por la comunidad.",
             "see_community_guidelines": "Consulte las <a>Normas de la comunidad</a> para conocer la política de la comunidad de itch.io.",
-            "title": "Título"
+            "title": "Título",
+            "your_moderators_are": "itch.io no modera estos tableros, tus moderadores son:",
+            "topic_tag": "Etiqueta",
+            "body": "Cuerpo"
         },
         "post_list": {
-            "edited": "(editado)"
+            "edited": "(editado)",
+            "post_from_suspended_account": "Publicación de cuenta suspendida",
+            "pinned_post": "Comentario fijado",
+            "pinned_reply": "Respuesta fijada",
+            "suspended_account": "Cuenta suspendida",
+            "deleted_account": "Cuenta borrada",
+            "vote_down": "Votar negativo",
+            "vote_up": "Votar positivo",
+            "view_more_in_thread": "Ver más en el hilo",
+            "ban": "Suspender...",
+            "report": "Reportar",
+            "delete": "Borrar",
+            "delete_topic": "Borrar tema",
+            "edit": "Editar",
+            "like": "Me gusta",
+            "reply": "Responder",
+            "edits_count": "({{count}} edición)",
+            "edits_count_plural": "({{count}} ediciones)",
+            "edit_blocks": "Editar bloques",
+            "post_from_blocked_account": "Comentario de una cuenta bloqueada",
+            "deleted_post": "Comentario borrado"
         },
         "topic": {
             "this_topic_was_locked_by_username": "Este tema fue bloqueado por {{username}}",
