@@ -455,7 +455,8 @@
                 "view_the_submission_page": "Ver la página de entregas",
                 "this_is_a_submission_to_jam_title": "Se ha presentado a {{jam_title}}",
                 "rating_instructions": "Califica y comenta en esta entrada de la jam visitando la página de la entrada desde el enlace de arriba.",
-                "you_rated_this_game": "Has calificado este juego"
+                "you_rated_this_game": "Has calificado este juego",
+                "accepting_ratiings": "Esta jam está actualmente aceptando calificaciones por entregas. <a>Aprende más</a>"
             },
             "footer": {
                 "updated_date": "Actualizado el {{date}}",
@@ -466,7 +467,8 @@
         "report_form": {
             "support_from_creator": "¿Estás teniendo problemas? ¿Necesitas apoyo del creador?",
             "form_description": "Por favor, rellena este formulario si necesitas ponerte en contacto con el equipo de moderación de itch.io sobre el contenido de esta página. Tu informe puede ser compartido con el creador de la página si es necesario.",
-            "support_page_link": "Ir a la pagina oficial de soporte"
+            "support_page_link": "Ir a la página oficial de soporte",
+            "title": "Informar página '{{page_title}}'"
         },
         "community_view_all_posts": "Ver todas las publicaciones",
         "upload_list": {
