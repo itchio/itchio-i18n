@@ -481,7 +481,9 @@
             "report_received_header": "Informe recibido",
             "submit_report_button": "Enviar informe",
             "email_creator_link": "Envía un correo electrónico al creador",
-            "reason_label": "Motivo"
+            "reason_label": "Motivo",
+            "reason_other": "Otros",
+            "description_label": "Descripción"
         },
         "community_view_all_posts": "Ver todas las publicaciones",
         "upload_list": {
@@ -512,6 +514,9 @@
             "more_from_itchio_header": "Explora más de itch.io",
             "view_all_from_jam": "Explora todo de la jam",
             "check_out_more_from_jam_title": "Explora más de {{jam_title}}"
+        },
+        "password_required": {
+            "header": "Se requiere una contraseña para visualizar esta página"
         }
     },
     "game_download": {
