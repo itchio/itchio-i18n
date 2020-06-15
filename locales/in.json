@@ -2,7 +2,9 @@
     "layout": {
         "user_menu": {
             "settings": "Pengaturan",
-            "account": "Akun"
+            "account": "Akun",
+            "library": "Pustakaku",
+            "explore": "Telusur"
         },
         "header": {
             "game_assets": "Aset",
@@ -15,7 +17,9 @@
             "search": "Pencarian",
             "community": "Komunitas",
             "devlogs": "Devlog",
-            "game_jams": "Game Jam"
+            "game_jams": "Game Jam",
+            "browse_games": "Telusur Gim",
+            "browse": "Telusur"
         },
         "footer": {
             "cookies": "Kuki",
@@ -28,5 +32,10 @@
             "about": "Tentang"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "index": {
+        "dont_see_anything_you_like": "Tidak menemukan yang kamu suka?",
+        "download_app": "Unduh aplikasi",
+        "popular_tags": "Label Terpopuler"
+    }
 }
