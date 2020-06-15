@@ -491,7 +491,10 @@
             "app_learn_more": "<s>¡Nuevo!</s> Prueba la aplicación de escritorio de itch.io para descargar y gestionar tu biblioteca. <a>Aprender más</a>",
             "powered_by": "<s>Realizado gracias a</s> {{itchio_logo}}",
             "see_everything": "Ver todo",
-            "check_popup_blocker": "La descarga debería empezar en breves momentos. Si no, desactiva tu bloqueador de ventanas emergentes."
+            "check_popup_blocker": "La descarga debería empezar en breves momentos. Si no, desactiva tu bloqueador de ventanas emergentes.",
+            "more_from_itchio_header": "Explora más de itch.io",
+            "view_all_from_jam": "Explora todo de la jam",
+            "check_out_more_from_jam_title": "Explora más de {{jam_title}}"
         }
     },
     "game_download": {
