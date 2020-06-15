@@ -486,7 +486,8 @@
         "after_download": {
             "thanks_project_author": "Gracias por descargar {{project}} por {{author}}.",
             "thanks_for_downloading_title": "Gracias por la descarga",
-            "share_this_project": "Comparte este proyecto"
+            "share_this_project": "Comparte este proyecto",
+            "more_from_creator": "Puedes encontrar más del mismo creador en su página: {{profile}}"
         }
     },
     "game_download": {
