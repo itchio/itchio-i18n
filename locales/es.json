@@ -354,7 +354,7 @@
             "your_moderators_are": "itch.io no modera estos foros, tus moderadores son:",
             "topic_tag": "Etiqueta",
             "body": "Cuerpo",
-            "page_title": "Publicar un nuevo tema"
+            "page_title": "Publicar un tema nuevo"
         },
         "post_list": {
             "edited": "(editado)",
@@ -408,6 +408,9 @@
             "log_in_to_reply": "Inicia sesión para responder",
             "reply": "Responder",
             "topic_is_archived": "Este tema está archivado y ya no se puede participar en él"
+        },
+        "misc": {
+            "new_topic_button": "Tema nuevo"
         }
     },
     "game": {
