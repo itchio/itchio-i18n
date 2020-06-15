@@ -487,7 +487,11 @@
             "thanks_project_author": "Gracias por descargar {{project}} por {{author}}.",
             "thanks_for_downloading_title": "Gracias por la descarga",
             "share_this_project": "Comparte este proyecto",
-            "more_from_creator": "Puedes encontrar más del mismo creador en su página: {{profile}}."
+            "more_from_creator": "Puedes encontrar más del mismo creador en su página: {{profile}}.",
+            "app_learn_more": "<s>¡Nuevo!</s> Prueba la aplicación de escritorio de itch.io para descargar y gestionar tu biblioteca. <a>Aprender más</a>",
+            "powered_by": "<s>Realizado gracias a</s> {{itchio_logo}}",
+            "see_everything": "Ver todo",
+            "check_popup_blocker": "La descarga debería empezar en breves momentos. Si no, desactiva tu bloqueador de ventanas emergentes."
         }
     },
     "game_download": {
