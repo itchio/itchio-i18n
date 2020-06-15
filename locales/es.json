@@ -354,6 +354,12 @@
         },
         "post_list": {
             "edited": "(editado)"
+        },
+        "topic": {
+            "this_topic_was_locked_by_username": "Este tema fue bloqueado por {{username}}",
+            "this_topic_is_locked": "Este tema está bloqueado",
+            "a_topic_by_username_created_time_ago": "Un tema por {{username}} creado {{time_ago}}",
+            "bookmark": "Marcador"
         }
     },
     "game": {
@@ -457,7 +463,8 @@
                 "this_is_a_submission_to_jam_title": "Se ha presentado a {{jam_title}}",
                 "rating_instructions": "Califica y comenta en esta entrada de la jam visitando la página de la entrada desde el enlace de arriba.",
                 "you_rated_this_game": "Has calificado este juego",
-                "accepting_ratiings": "Esta jam está actualmente aceptando calificaciones por entregas. <a>Aprende más</a>"
+                "accepting_ratiings": "Esta jam está actualmente aceptando calificaciones por entregas. <a>Aprende más</a>",
+                "now_accepting_ratings": "Esta jam está actualmente aceptando calificaciones por entregas."
             },
             "footer": {
                 "updated_date": "Actualizado el {{date}}",
@@ -473,7 +480,8 @@
             "title": "Informar página '{{page_title}}'",
             "report_received_header": "Informe recibido",
             "submit_report_button": "Enviar informe",
-            "email_creator_link": "Envía un correo electrónico al creador"
+            "email_creator_link": "Envía un correo electrónico al creador",
+            "reason_label": "Motivo"
         },
         "community_view_all_posts": "Ver todas las publicaciones",
         "upload_list": {
