@@ -426,7 +426,8 @@
                 "you_own_this": "Ya tienes esto",
                 "send_gift": "Enviar regalo",
                 "you_havent_sent_this_gift_to_anyone_yet": "Todavía no has enviado este regalo a nadie",
-                "download": "Descargar"
+                "download": "Descargar",
+                "percent_off": "{{percent}}% de descuento"
             },
             "view_all_by_name": "Ver los juegos de {{name}}",
             "follow_username": "Seguir a {{username}}",
@@ -449,7 +450,8 @@
             "rate_for_jam": "Valorar para {{jam_title}}",
             "jam_submission": {
                 "view_the_submission_page": "Ver la página de entregas",
-                "this_is_a_submission_to_jam_title": "Se ha presentado a {{jam_title}}"
+                "this_is_a_submission_to_jam_title": "Se ha presentado a {{jam_title}}",
+                "rating_instructions": "Califica y comenta en esta entrada de la jam visitando la página de la entrada desde el enlace de arriba."
             }
         },
         "report_form": {
