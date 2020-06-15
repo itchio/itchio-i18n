@@ -411,6 +411,10 @@
         },
         "misc": {
             "new_topic_button": "Tema nuevo"
+        },
+        "category": {
+            "topics_count": "{{count}} tema",
+            "topics_count_plural": "{{count}} temas"
         }
     },
     "game": {
