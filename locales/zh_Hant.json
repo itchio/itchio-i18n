@@ -481,7 +481,8 @@
             "header": "本頁面需要密碼才能檢視"
         },
         "post_first_topic": "發表第一個主題",
-        "post_a_new_topic": "發表新主題"
+        "post_a_new_topic": "發表新主題",
+        "will_be_available_in": "將在 {{time_remaining}} 之後開放。"
     },
     "community": {
         "topic": {
@@ -499,7 +500,8 @@
             "this_topic_was_locked_by_username": "本主題已被 {{username}} 鎖定",
             "this_topic_is_locked": "本主題已被鎖定",
             "return_to_topic_list": "回到主題列表",
-            "join_the_discussion": "登入或建立免費的 itch.io 帳號以加入討論。"
+            "join_the_discussion": "登入或建立免費的 itch.io 帳號以加入討論。",
+            "a_topic_by_username_created_time_ago": "{{time_ago}} 由 {{username}} 發表的主題"
         },
         "new_topic": {
             "topic_tag": "標籤",
@@ -521,18 +523,33 @@
             "delete": "刪除",
             "reply": "回覆",
             "pinned_reply": "置頂回覆",
-            "delete_topic": "刪除主題"
+            "delete_topic": "刪除主題",
+            "edited": "（已編輯）",
+            "deleted_account": "已刪除的帳戶",
+            "suspended_account": "已停用的帳戶",
+            "edit": "編輯",
+            "edits_count": "（已編輯 {{count}} 次）",
+            "edits_count_plural": "（已編輯 {{count}} 次）"
         },
         "category": {
             "unsubscribe_from_topics": "取消訂閱",
             "search_community_label": "搜尋社群",
             "archived_flag": "已封存",
             "create_first_topic_button": "發表第一個主題",
-            "topics_count": "{{count}} 個主題"
+            "topics_count": "{{count}} 個主題",
+            "stats": {
+                "topics": "主題"
+            },
+            "rules_header": "規則"
         },
         "topic_list": {
             "locked_flag": "已鎖定",
-            "sticky_flag": "置頂"
+            "sticky_flag": "置頂",
+            "list_header_topic_title": "主題",
+            "replies_count": "<s>{{count}}</s> 則回覆"
+        },
+        "misc": {
+            "new_topic_button": "新增主題"
         }
     },
     "buy_form": {
