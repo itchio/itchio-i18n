@@ -41,7 +41,8 @@
             "log_in": "Masuk",
             "search_placeholder": "Cari gim atau kreator",
             "upload_game": "Unggah Gim",
-            "sales": "Obral"
+            "sales": "Obral",
+            "feed_unseen_count": "{{count}} baru"
         },
         "footer": {
             "cookies": "Kuki",
@@ -83,6 +84,55 @@
         "recommendations_based_on": "Berdasarkan hal yang kamu pernah beli, unduh, dan beri peringkat",
         "on_sale": "Sedang Diskon",
         "get_the_app": "<s>Dapatkan yang terbaik dari itch.io</s> Pasang dan kelola gim kamu dengan aplikasi desktop kami",
-        "view_something_random": "Lihat sesuatu secara acak"
+        "view_something_random": "Lihat sesuatu secara acak",
+        "to_follow": {
+            "empty_results": "Kami tidak punya rekomendasi saat ini. Coba lagi nanti",
+            "created_projects": "Terbuat {{project_list}}"
+        },
+        "nav": {
+            "community": "Komunitas",
+            "all_games": "Semua Game"
+        },
+        "browse_content_type": "Cari {{content_type}}",
+        "view_all_platforms": "Lihat semua platform",
+        "latest_featured_games": "Game Pilihan Terbaru",
+        "view_all_on_sale": "Lihat semua yang sedang di diskon",
+        "more_featured_games": "Lebih banyak game pilihan"
+    },
+    "misc": {
+        "forms": {
+            "submit": "Kirim",
+            "email_address": "Alamat Email",
+            "save": "Simpan",
+            "required": "Diperlukan"
+        },
+        "durations": {
+            "days": "Beberapa hari atau lebih",
+            "hours": "Beberapa jam",
+            "hour": "Sekitar satu jam",
+            "half_hour": "Sekitar setengah jam",
+            "minutes": "Beberapa menit",
+            "seconds": "Beberapa detik"
+        },
+        "inputs": {
+            "phone": "Ponsel",
+            "touchscreen": "Layar sentuh",
+            "mouse": "Tetikus",
+            "keyboard": "Keyboard"
+        },
+        "multiplayer_features": {
+            "local": "Multiplayer lokal"
+        },
+        "accessibility_features": {
+            "textless": "Tanpa teks",
+            "highcontrast": "Kontras tinggi",
+            "subtitles": "Subjudul"
+        },
+        "classifications": {
+            "book": "Buku",
+            "comic": "Komik",
+            "soundtrack": "Trek lagu",
+            "game": "Game"
+        }
     }
 }
