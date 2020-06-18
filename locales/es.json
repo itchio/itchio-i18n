@@ -729,7 +729,7 @@
         "your_email_address": "Tu dirección de correo electrónico",
         "included_files": "Archivos incluidos",
         "check_out_with": "Paga con",
-        "contact_support_on_error": "Si el problema continúa, por favor contacta a<a>itch.io support</a> Con toda la información importante",
+        "contact_support_on_error": "Si el problema persiste, por favor contacta al <a>soporte de itch.io</a> con todos los detalles relevantes.",
         "generic_error": "Hubo un problema con tu compra: {{error}}",
         "billing_address": "Dirección de facturación",
         "continue_payment": "Continuar al pago",
@@ -927,6 +927,7 @@
         "new_card": "Tarjeta nueva",
         "card_ending_last4": "Termina en {{last4}}",
         "edit_saved_cards": "Modificar tarjetas guardadas",
-        "choose_a_card": "Escoge una tarjeta"
+        "choose_a_card": "Escoge una tarjeta",
+        "buying_as": "Comprando como"
     }
 }
