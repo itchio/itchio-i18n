@@ -8,7 +8,7 @@
             "contact_us": "Contáctanos",
             "terms": "Términos de Servicio",
             "directory": "Directorio",
-            "privacy": "Privacidad ",
+            "privacy": "Privacidad",
             "cookies": "Cookies"
         },
         "header": {
@@ -53,7 +53,7 @@
             "library": "Mi colección",
             "host_game_jam": "Organizar una game jam",
             "dashboard": "Dashboard",
-            "game_jams": "Game jams",
+            "game_jams": "Jams de juegos",
             "feed": "Mi feed",
             "account_menu_tooltip": "Menú de Cuenta"
         }
@@ -98,8 +98,8 @@
         "nav": {
             "all_games": "Todos los Juegos",
             "bundles": "Colecciones",
-            "game_jams": "Game jams",
-            "devlogs": "Devlogs",
+            "game_jams": "Jams de juegos",
+            "devlogs": "Diarios de desarrollo",
             "community": "Comunidad"
         },
         "intro": "<s>itch.io</s> es una manera simple de encontrar y compartir juegos indie online de forma gratuita.",
@@ -149,7 +149,7 @@
             "voice": "Control de voz",
             "accelerometer": "Acelerómetro",
             "midi_controller": "Controlador MIDI",
-            "joystick": "Joystick",
+            "joystick": "Mando",
             "phone": "Teléfono inteligente",
             "dance_pad": "Almohadilla de baile"
         },
@@ -485,7 +485,7 @@
         "more_information": "Más información",
         "install_instructions": "Instrucciones de instalación",
         "download_header": "Descargar",
-        "unavailable": "Este {{game_noun}} no está actualmente disponible.",
+        "unavailable": "Este {{game_noun}} no está disponible actualmente",
         "empty_page": "Parece que no hay nada aquí...",
         "purchase_header": "Comprar",
         "download_access": "Haz click en descargar para tener acceso a los siguientes archivos:",
@@ -504,8 +504,8 @@
         "percent_off": "Descuento del <s>{{percent}}%</s>",
         "price_or_more": "{{price}} <s>o más</s>",
         "development_log_header": "Registro de desarrollo",
-        "devlog_view_all_posts": "Ver todas las publicaciones ",
-        "your_purchase_comes_with_a_steam_key": "Tu compra incluye una clave para Steam",
+        "devlog_view_all_posts": "Ver todas las publicaciones",
+        "your_purchase_comes_with_a_steam_key": "Tu compra incluye una llave de Steam.",
         "steam_key_bundle_disclaimer": "(Nota: Código de Steam no incluido en {{bundle_title}})",
         "empty_page_no_uploads": "El creador no ha publicado nada todavía...",
         "donate_button": "Apoya Este {{noun}}",
@@ -739,7 +739,7 @@
         "support_the_creator_with_an_additional_contribution": "Apoya al creador con una aportación adicional",
         "support_the_creator_by_paying_above_the_minimum_price": "Apoya al creador pagando al menos",
         "this_purchase_is_a_gift": "Esta compra en un regalo",
-        "agree_to_terms": "Al pagar aceptas nuestros <1>Términos de servicio</1> Y <2>La política  de privacidad</2> De itch.io.",
+        "agree_to_terms": "Al completar el pago estás aceptando los <1>Términos de Servicio</1> y la <2>Política de Privacidad</2> de itch.io.",
         "gift_email_instructions": "Deberás introducir un email al que llegará tu regalo después de pagar",
         "email_address_description": "Tu confirmación de pago será enviada a",
         "no_thanks_just_take_me_to_the_downloads": "No gracias, muéstrame los links de descarga",
