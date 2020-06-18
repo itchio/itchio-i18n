@@ -38,7 +38,7 @@
             "game_assets": "Insumos",
             "feed_unseen_count": "{{count}} nuevo",
             "feed_unseen_count_plural": "{{count}} nuevos",
-            "feed": "Feed"
+            "feed": "Boletín"
         },
         "user_menu": {
             "explore": "Explorar",
