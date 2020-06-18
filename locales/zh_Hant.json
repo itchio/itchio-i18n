@@ -391,7 +391,8 @@
             "follow": "追蹤",
             "following": "正在追蹤",
             "footer": {
-                "report": "回報問題"
+                "report": "回報問題",
+                "embed": "嵌入代碼"
             },
             "ownership": {
                 "download": "下載",
@@ -509,7 +510,8 @@
             "i_agree_to_the_rules_above": "我同意以上規則",
             "locked": "鎖定",
             "sticky": "置頂",
-            "moderator_tools": "管理員工具"
+            "moderator_tools": "管理員工具",
+            "new_topic": "新增主題"
         },
         "post_form": {
             "remove_tag": "移除標籤",
@@ -529,7 +531,10 @@
             "suspended_account": "已停用的帳戶",
             "edit": "編輯",
             "edits_count": "（已編輯 {{count}} 次）",
-            "edits_count_plural": "（已編輯 {{count}} 次）"
+            "edits_count_plural": "（已編輯 {{count}} 次）",
+            "post_from_suspended_account": "來自已停用帳戶的文章",
+            "pinned_post": "置頂文章",
+            "deleted_post": "已刪除的文章"
         },
         "category": {
             "unsubscribe_from_topics": "取消訂閱",
@@ -540,13 +545,15 @@
             "stats": {
                 "topics": "主題"
             },
-            "rules_header": "規則"
+            "rules_header": "規則",
+            "recent_posts_header": "最近的文章"
         },
         "topic_list": {
             "locked_flag": "已鎖定",
             "sticky_flag": "置頂",
             "list_header_topic_title": "主題",
-            "replies_count": "<s>{{count}}</s> 則回覆"
+            "replies_count": "<s>{{count}}</s> 則回覆",
+            "no_posts_yet": "還沒有文章"
         },
         "misc": {
             "new_topic_button": "新增主題"
@@ -560,7 +567,8 @@
         "agree_to_terms": "完成本次付款就視同您同意 itch.io 的<1>服務條款</1>和<2>隱私權政策</2>。",
         "i_already_paid_for_this": "我已經付過錢了……",
         "percent_off_until": "全部的購買在 {{end_date}} 之前可省下<s> {{rate}}%</s>。",
-        "on_sale_notice": "本商品目前特價中。"
+        "on_sale_notice": "本商品目前特價中。",
+        "generic_error": "您的購買遇到了問題：{{error}}"
     },
     "user_settings": {
         "navigation": {
@@ -658,11 +666,20 @@
         "linked_user_message": "本頁面已經連結到 {{username}} 的帳戶。",
         "recommendations_title": "您可能也對這些有興趣",
         "or_share_on": "或分享在",
-        "share_and_follow": "分享和追蹤"
+        "share_and_follow": "分享和追蹤",
+        "payment_comes_with_key": "您的購買包含了一組 {{key_type}} 產品序號！",
+        "get_external_key": "取得 {{key_type}} 產品序號",
+        "alternate_download": {
+            "region_message": "已知一些地區會阻擋 itch.io 的 CDN。如果您不能下載，則可以嘗試啟用備用下載模式再試試看。",
+            "title": "備用下載模式",
+            "enable_alternate_download_mode": "啟用備用下載模式"
+        }
     },
     "stripe_checkout": {
         "password": "密碼",
-        "payment_error_help": "如果您不確定，請聯絡 <a>itch.io 客服</a>，並附上上面的訊息。"
+        "payment_error_help": "如果您不確定，請聯絡 <a>itch.io 客服</a>，並附上上面的訊息。",
+        "credit_or_debit_card": "信用卡或簽帳金融卡",
+        "name_as_it_appears_on_card": "需跟卡片上面的名字一致"
     },
     "jam": {
         "header": {
@@ -720,5 +737,10 @@
     "browse_tags": {
         "commonly_tagged_with": "常被標籤為",
         "find_tag": "搜尋標籤"
+    },
+    "collection": {
+        "blurb_author_says": "{{author}} 說",
+        "edit_blurb": "編輯簡介",
+        "add_a_blurb": "新增簡介"
     }
 }
