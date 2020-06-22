@@ -928,6 +928,22 @@
         "card_ending_last4": "Termina en {{last4}}",
         "edit_saved_cards": "Modificar tarjetas guardadas",
         "choose_a_card": "Escoge una tarjeta",
-        "buying_as": "Comprando como"
+        "buying_as": "Comprando como",
+        "name_as_it_appears_on_card": "Tal y como aparece en la tarjeta",
+        "full_name": "Nombre completo",
+        "youll_be_mailed_your_access_link": "El enlace de acceso te llegará por correo electrónico",
+        "email": "Correo electrónico",
+        "linked_to_account": "Conectado a la cuenta",
+        "steam_key": "Clave de Steam",
+        "you_will_receive_files": "Recibirás:",
+        "donating_price_vat_to": "Donando {{price}} IVA incluido para:",
+        "donating_price_to": "Donando {{price}} para:",
+        "paying_price_vat_for": "Pagando {{price}} IVA incluido por:",
+        "paying_price_for": "Pagando {{price}} por:",
+        "pay_price_button": "Pagar {{price}}",
+        "manage_cards_link": "Puedes administrar tus tarjetas de crédito desde tus <a>Ajustes de Cuenta</a>",
+        "save_credit_card_for_future_purchases": "Guardar tarjeta de crédito para compras futuras",
+        "credit_or_debit_card": "Tarjeta de crédito o débito",
+        "gift_instructions": "Esta compra es un regalo. Después de comprar el producto podrás introducir el correo electrónico del recibidor."
     }
 }
