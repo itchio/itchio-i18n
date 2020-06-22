@@ -638,7 +638,7 @@
         "must_link_account_description": "Debe vincular esta página a una cuenta de itch.io antes de poder descargarla. Las cuentas son gratuitas y te permitirán realizar un seguimiento de los juegos que hayas recopilado.",
         "install_instructions_intro": "Descarga e instrucciones de instalación de {{username}}:",
         "app_banner": {
-            "app_description": "Instala y gestiona tus juegos con la aplicación de escritorio de itch.io.",
+            "app_description": "Instala y gestiona tus juegos con la aplicación de escritorio de itch.io",
             "get_the_app": "Obtén la aplicación"
         },
         "preorder_instructions": "Este proyecto tiene ficheros que todavía no se han publicado. Vuelve a esta página cuando el creado publique los ficheros para descargarlos.",
