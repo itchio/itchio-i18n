@@ -653,7 +653,8 @@
         "trouble_downloading_link": "¿La descarga no empieza?",
         "or_share_on": "o comparte en",
         "social_share_message_download": "Acabo de descargarme {{title}} por {{username}}",
-        "share_and_follow": "Compartir y seguir"
+        "share_and_follow": "Compartir y seguir",
+        "play_in_your_browser": "Jugar en el navegador"
     },
     "jam": {
         "submitter": {
