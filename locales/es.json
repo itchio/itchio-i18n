@@ -635,7 +635,8 @@
         "log_in_to_link": "Inicia sesión para vincular",
         "link_account_header": "Vincular esta página de descarga a su cuenta de itch.io",
         "link_account_description": "Puede vincular esta página de descarga a una cuenta de itch.io para no tener que preocuparse por perderla. Aparecerá junto con cualquier otra cosa que poseas.",
-        "must_link_account_description": "Debe vincular esta página a una cuenta de itch.io antes de poder descargarla. Las cuentas son gratuitas y te permitirán realizar un seguimiento de los juegos que hayas recopilado."
+        "must_link_account_description": "Debe vincular esta página a una cuenta de itch.io antes de poder descargarla. Las cuentas son gratuitas y te permitirán realizar un seguimiento de los juegos que hayas recopilado.",
+        "install_instructions_intro": "Descarga e instrucciones de instalación de {{username}}:"
     },
     "jam": {
         "submitter": {
@@ -929,7 +930,7 @@
         "edit_saved_cards": "Modificar tarjetas guardadas",
         "choose_a_card": "Escoge una tarjeta",
         "buying_as": "Comprando como",
-        "name_as_it_appears_on_card": "Tal y como aparece en la tarjeta",
+        "name_as_it_appears_on_card": "Tal y cómo aparece en la tarjeta",
         "full_name": "Nombre completo",
         "youll_be_mailed_your_access_link": "El enlace de acceso te llegará por correo electrónico",
         "email": "Correo electrónico",
