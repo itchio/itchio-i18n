@@ -679,7 +679,8 @@
         "password": "密碼",
         "payment_error_help": "如果您不確定，請聯絡 <a>itch.io 客服</a>，並附上上面的訊息。",
         "credit_or_debit_card": "信用卡或簽帳金融卡",
-        "name_as_it_appears_on_card": "需跟卡片上面的名字一致"
+        "name_as_it_appears_on_card": "需跟卡片上面的名字一致",
+        "payment_error": "在處理您的付款時發生了錯誤："
     },
     "jam": {
         "header": {
