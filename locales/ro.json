@@ -265,16 +265,18 @@
             "follow_username": "Ai nevoie de un cont itch.io pentru a putea urmări pagina <1>{{username}}</1>.",
             "collection": "Ai nevoie de un cont itch.io pentru a putea adăuga ceva la o colecție.",
             "jam_submit": "Ai nevoie de un cont itch.io pentru a putea participa la concursuri.",
-            "claim_object": "Te rog conectează-te sau înregistrează-te pentru a putea revendica {{noun}}",
-            "recent_purchases": "Conectează-te pentru a putea revendica achizițiile pe care le-ai făcut."
+            "claim_object": "Te rugăm conectează-te sau înregistrează-te pentru a putea revendica {{noun}}.",
+            "recent_purchases": "Conectează-te pentru a putea revendica achizițiile pe care le-ai făcut.",
+            "claim_object_title": "Te rugăm conectează-te sau creează un cont pentru a revendica {{title}}."
         },
-        "no_account_prompt": "Nu ai cont? <1> Înregistrează-te </1>",
+        "no_account_prompt": "Nu ai un cont? <1> Înregistrează-te </1>",
         "page_title": "Conectează-te",
         "you_are_logged_out": "Ai fost deconectat",
         "welcome_back": "Bine ai revenit!",
         "welcome_to_itchio": "Bine ai venit pe itch.io!",
         "errors": {
-            "accept_terms": "Trebuie să accepți termenii și condițiile"
+            "accept_terms": "Trebuie să accepți termenii și condițiile",
+            "please_enter_a_valid_email_address": "Te rugăm să introduci o adresă email validă"
         }
     },
     "user_register": {
@@ -504,7 +506,14 @@
             "email_creator_link": "Trimite-i email creatorului",
             "submit_report_button": "Trimite raportul",
             "title": "Raportează pagina '{{page_title}}'",
-            "description_label": "Descriere"
+            "description_label": "Descriere",
+            "reason_other": "Alt motiv",
+            "reason_label": "Motiv",
+            "report_received_header": "Raport primit",
+            "form_description": "Te rugăm să completezi acest formular dacă trebuie să contactezi echipa de moderare itch.io în legătură cu conținutul acestei pagini. Raportul tău poate fi arătat creatorului paginii dacă este necesar."
+        },
+        "password_required": {
+            "header": "O parolă este necesară pentru a vizualiza pagina"
         }
     },
     "community": {
@@ -534,11 +543,36 @@
             "first_page": "Prima pagină",
             "last_page": "Ultima pagină",
             "this_topic_is_locked": "Acest subiect este blocat",
-            "this_topic_was_locked_by_username": "Subiectul a fost blocat de {{username}}"
+            "this_topic_was_locked_by_username": "Subiectul a fost blocat de {{username}}",
+            "create_related_topic": "Dacă vrei să postezi ceva asemănător poți <a>crea un subiect în {{category_name}}</a>.",
+            "topic_is_autoarchived": "Acest subiect a fost auto-arhivat și nu mai poate avea postări noi deoarece nimeni nu a mai postat de ceva timp."
         },
         "post_list": {
             "deleted_post": "Postare ștearsă",
-            "post_from_blocked_account": "Postare de la un cont blocat"
+            "post_from_blocked_account": "Postare de la un cont blocat",
+            "post_from_suspended_account": "Postare de la un cont suspendat",
+            "edited": "(modificat)",
+            "suspended_account": "Cont suspendat",
+            "deleted_account": "Cont șters",
+            "view_more_in_thread": "Vezi mai mult în postare",
+            "report": "Raportează",
+            "delete": "Șterge",
+            "delete_topic": "Șterge subiectul",
+            "edit": "Modifică",
+            "like": "Apreciază",
+            "reply": "Răspunde",
+            "edits_count_0": "({{count}} modificare)",
+            "edits_count_1": "({{count}} modificări)",
+            "edits_count_2": "({{count}} modificări)",
+            "edits_count_plural": "({{count}} modificări)",
+            "edit_blocks": "Modifică blocuri"
+        },
+        "post_form": {
+            "subscribe_to_this_topic": "Abonează-te la acest subiect",
+            "subscribe": "Abonează-te",
+            "post": "Postează",
+            "save": "Salvează",
+            "add_profile_image": "Adaugă poză de profil"
         }
     },
     "nags": {
