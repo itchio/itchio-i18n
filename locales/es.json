@@ -628,7 +628,14 @@
             "provide_email_instructions": "Ingresa tu dirección de correo electrónico para vincularlo a tu compra para que pueda recuperarla si alguna vez pierde esta página."
         },
         "header": {
-            "discussion_board": "Panel de discusión"
+            "discussion_board": "Panel de discusión",
+            "return_to_project": "Volver al proyecto",
+            "view_all_my_purchases": "Ver todas mis compras",
+            "download_title": "Descarga {{project_title}}",
+            "preorder_title": "Preordenar {{project_title}}",
+            "view_rest_in_bundle": "Ver el resto del bundle",
+            "more_menu": "Mas",
+            "invoice": "Factura"
         },
         "linked_user_message": "Esta página está vinculada a la cuenta de {{username}}.",
         "link_my_account": "Vincular mi cuenta",
@@ -654,7 +661,9 @@
         "or_share_on": "o comparte en",
         "social_share_message_download": "Acabo de descargarme {{title}} por {{username}}",
         "share_and_follow": "Compartir y seguir",
-        "play_in_your_browser": "Jugar en el navegador"
+        "play_in_your_browser": "Jugar en el navegador",
+        "version_name": "Versión {{version_name}}",
+        "start_project_button": "Empezar"
     },
     "jam": {
         "submitter": {
@@ -663,6 +672,11 @@
             "or_leave_jam": "o <a>Salir de la jam</a>",
             "youve_joined": "Te has unido a esta jam.",
             "joined_instructions": "Venga a esta página después de que comience la jam para enviar su proyecto."
+        },
+        "header": {
+            "links": {
+                "submission_feed": "Boletin"
+            }
         }
     },
     "app": {
