@@ -677,6 +677,9 @@
             "links": {
                 "submission_feed": "Boletin"
             }
+        },
+        "stats": {
+            "joined": "Ingresado"
         }
     },
     "app": {
