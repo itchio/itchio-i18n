@@ -614,7 +614,8 @@
             "unique_url_for_your_payment": "Esta página tiene una URL única para su pago.",
             "access_latest_files_from_this_page": "Siempre puedes acceder a los últimos archivos desde esta página.",
             "youve_been_gifted": "Te han regalado {{product_title}}.",
-            "save_this_purchase_to_your_account": "Guarda esta compra en tu cuenta"
+            "save_this_purchase_to_your_account": "Guarda esta compra en tu cuenta",
+            "payment_summary_with_email": "Pagaste {{payment_price}} por esto el {{payment_date}} con la dirección de correo electrónico {{email_address}}."
         },
         "already_own": "Parece que ya tienes esto",
         "access_existing_copy": "No puedes reclamar otra copia, pero puedes acceder a tu copia existente.",
