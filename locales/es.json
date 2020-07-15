@@ -694,7 +694,9 @@
                 "ranked_score": "Puntuación: {{score}}",
                 "by_author": "por {{author}}"
             },
-            "results": "Resultados"
+            "results": "Resultados",
+            "sort_by_criteria": "Por criterio",
+            "no_rankings_available": "Clasificaciones no disponibles"
         },
         "submission": {
             "view_game_page": "Ver página del juego",
@@ -710,7 +712,9 @@
             "results_table_score": "Puntuación",
             "rate_submission": {
                 "private_field": "(privado)",
-                "vote": "Votar"
+                "vote": "Votar",
+                "sign_up_to_vote": "<a>Inicia sesión con una cuenta de itch.io</a> para poder votar y dejar comentarios.",
+                "sign_up_to_rate": "<a>Inicia sesión con una cuenta de itch.io</a> para poder calificar y dejar comentarios."
             },
             "results_header": "Resultados",
             "play_game": "Jugar"
@@ -817,7 +821,9 @@
             "downloads": "Descargas",
             "payments": "Pagos",
             "gross_revenue": "Ingresos brutos"
-        }
+        },
+        "follow_itchio": "Sigue a itch.io en {{twitter}} y {{facebook}}",
+        "analytics_summary_header": "Resumen"
     },
     "add_to_collection": {
         "add_to_existing": "Agregar a una colección existente",
