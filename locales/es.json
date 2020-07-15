@@ -616,7 +616,8 @@
             "youve_been_gifted": "Te han regalado {{product_title}}.",
             "save_this_purchase_to_your_account": "Guarda esta compra en tu cuenta",
             "payment_summary_with_email": "Pagaste {{payment_price}} por esto el {{payment_date}} con la dirección de correo electrónico {{email_address}}.",
-            "percent_off": "{{percent}}% de descuento"
+            "percent_off": "{{percent}}% de descuento",
+            "linked_user_message": "Esta compra está vinculada a la cuenta {{username}}."
         },
         "already_own": "Parece que ya tienes esto",
         "access_existing_copy": "No puedes reclamar otra copia, pero puedes acceder a tu copia existente.",
