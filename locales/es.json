@@ -688,7 +688,35 @@
             "joined": "Unido"
         },
         "results": {
-            "empty_message": "Los resultados no están disponibles todavía, vuelve más tarde"
+            "empty_message": "Los resultados no están disponibles todavía, vuelve más tarde",
+            "empty_page_message": "No hay resultados en esta página",
+            "submissions": {
+                "ranked_score": "Puntuación: {{score}}",
+                "by_author": "por {{author}}"
+            },
+            "results": "Resultados"
+        },
+        "submission": {
+            "view_game_page": "Ver página del juego",
+            "link_to_itchio_page": "Página en Itch.io de {{game_title}}",
+            "comments": {
+                "empty_message": "Todavía no hay ningún comentario",
+                "post_comment": "Publicar comentario",
+                "leave_a_comment_header": "Dejar un comentario"
+            },
+            "downloads": "Descargas",
+            "view_project_page": "Ver página del proyecto",
+            "results_table_votes": "Votos",
+            "results_table_score": "Puntuación",
+            "rate_submission": {
+                "private_field": "(privado)",
+                "vote": "Votar"
+            },
+            "results_header": "Resultados",
+            "play_game": "Jugar"
+        },
+        "submissions": {
+            "filter": "Filtro"
         }
     },
     "app": {
@@ -736,10 +764,40 @@
                 "invalid_file": "Hay un problema con el archivo que has seleccionado"
             },
             "cover_uploader": {
-                "upload_button": "Subir imagen de carátula"
+                "upload_button": "Subir imagen de carátula",
+                "remove_image": "Eliminar imagen"
             },
             "project_url_field": "URL del proyecto",
-            "file_size_limit": "Tamaño máximo de archivo: {{filesize}}. <a>Contacta con nosotros</a> si necesitas más espacio"
+            "file_size_limit": "Tamaño máximo de archivo: {{filesize}}. <a>Contacta con nosotros</a> si necesitas más espacio",
+            "video_field_description": "Aporta un enlace a Youtube o Vimeo.",
+            "types": {
+                "downloadable": "Descargable"
+            },
+            "pricing": {
+                "suggested_price_label": "Precio sugerido",
+                "suggested_donation_label": "Donación sugerida",
+                "suggest_default_price_label": "Sugerir un precio por defecto alternativo"
+            },
+            "details_tags_header": "Etiquetas",
+            "details_genre_header": "Género",
+            "embed_options": {
+                "fullscreen_button_option": "Botón de pantalla completa",
+                "orientation": "Orientación",
+                "height": "Altura",
+                "width": "Anchura"
+            },
+            "access_control": {
+                "disable_downloads_option": "Desactivar nuevas descargas y compras"
+            },
+            "tip_label": "Consejo",
+            "kind_of_project_field": "Tipo de proyecto",
+            "classification_field_description": "¿Qué estás subiendo?",
+            "classification_field": "Clasificación",
+            "save_and_view_button": "Guardar y ver página",
+            "edit_project_title": "Editar proyecto",
+            "create_a_new_project_title": "Crear un nuevo proyecto",
+            "title_field": "Título",
+            "delete_game_button": "Borrar juego"
         },
         "project_header": {
             "more": "Más",
@@ -747,6 +805,18 @@
             "rewards": "Recompensas",
             "edit_comments": "Editar comentarios",
             "edit_project": "Editar proyecto"
+        },
+        "hello": "¡Hola!",
+        "intro_text": "¿Eres desarrollador? Sube tu primer juego",
+        "project_list": {
+            "edit": "Editar"
+        },
+        "create_new_project_button": "Crear nuevo proyecto",
+        "stats": {
+            "followers": "Seguidores",
+            "downloads": "Descargas",
+            "payments": "Pagos",
+            "gross_revenue": "Ingresos brutos"
         }
     },
     "add_to_collection": {
