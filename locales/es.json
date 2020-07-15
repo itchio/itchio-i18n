@@ -675,7 +675,10 @@
             "or_leave_jam": "o <a>Salir de la jam</a>",
             "youve_joined": "Te has unido a esta jam.",
             "joined_instructions": "Venga a esta página después de que comience la jam para enviar su proyecto.",
-            "view_results": "Ver resultados"
+            "view_results": "Ver resultados",
+            "countdown": {
+                "starts_in": "Empieza en"
+            }
         },
         "header": {
             "links": {
