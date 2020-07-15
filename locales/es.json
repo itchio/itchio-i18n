@@ -714,13 +714,19 @@
                 "private_field": "(privado)",
                 "vote": "Votar",
                 "sign_up_to_vote": "<a>Inicia sesión con una cuenta de itch.io</a> para poder votar y dejar comentarios.",
-                "sign_up_to_rate": "<a>Inicia sesión con una cuenta de itch.io</a> para poder calificar y dejar comentarios."
+                "sign_up_to_rate": "<a>Inicia sesión con una cuenta de itch.io</a> para poder calificar y dejar comentarios.",
+                "you_havent_rated_this_submission_yet": "Aún no has puntuado esta entrada.",
+                "save_rating": "Guardar puntuación",
+                "save_vote": "Guardar voto"
             },
             "results_header": "Resultados",
             "play_game": "Jugar"
         },
         "submissions": {
             "filter": "Filtro"
+        },
+        "screenshots": {
+            "loading_more": "Cargando más capturas..."
         }
     },
     "app": {
