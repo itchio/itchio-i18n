@@ -681,7 +681,8 @@
                 "submission_feed": "Boletin",
                 "edit_jam": "Editar jam",
                 "results": "Resultados",
-                "community": "Comunidad"
+                "community": "Comunidad",
+                "screenshots": "Capturas de pantalla"
             }
         },
         "stats": {
@@ -826,10 +827,15 @@
             "followers": "Seguidores",
             "downloads": "Descargas",
             "payments": "Pagos",
-            "gross_revenue": "Ingresos brutos"
+            "gross_revenue": "Ingresos brutos",
+            "following": "Siguiendo"
         },
         "follow_itchio": "Sigue a itch.io en {{twitter}} y {{facebook}}",
-        "analytics_summary_header": "Resumen"
+        "analytics_summary_header": "Resumen",
+        "header": {
+            "payments_link": "Pagos",
+            "projects_link": "Proyectos"
+        }
     },
     "add_to_collection": {
         "add_to_existing": "Agregar a una colección existente",
