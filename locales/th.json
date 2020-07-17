@@ -98,13 +98,13 @@
             "upload_game": "อัพโหลดเกม",
             "browse_games": "ค้นหาเกม",
             "browse": "ค้นหา",
-            "game_jams": "แจมส์เกม"
+            "game_jams": "แจมเกม"
         },
         "footer": {
             "cookies": "นโยบายคุกกี้",
             "privacy": "นโยบายความเป็นส่วนตัว",
             "directory": "หมวดหมู่",
-            "terms": "เงื่อนไขการใช้บริการ",
+            "terms": "ข้อกำหนดการใช้งาน",
             "contact_us": "ติดต่อเรา",
             "blog": "บล็อก",
             "faq": "คำถามที่พบบ่อย",
@@ -176,6 +176,171 @@
             "server": "เล่นด้วยกันหลายคนออนไลน์ผ่านเซิร์ฟเวอร์",
             "adhoc": "เล่นกับเครื่องเกมอื่นใกล้เคียงได้",
             "local": "เล่นด้วยกันหลายคนไม่ออนไลน์"
+        },
+        "loading_more_ellip": "กำลังโหลดเพิ่มเติม…",
+        "more_ellip": "เพิ่มเติม…",
+        "errors": {
+            "server_error": "เกิดข้อผิดพลาดกับเซิร์ฟเวอร์ขณะตอบกลับ กรุณาลองใหม่อีกครั้งในภายหลัง"
+        },
+        "release_statuses": {
+            "prototype": "รุ่นทดลอง",
+            "canceled": "ยกเลิกแล้ว",
+            "on_hold": "อยู่ระหว่างรอ",
+            "in_development": "กำลังพัฒนา",
+            "released": "เผยแพร่แล้ว"
+        },
+        "project_visibility": {
+            "published": "เผยแพร่แล้ว",
+            "public": "สาธารณะ",
+            "draft": "อยู่ระหว่างร่าง",
+            "restricted": "ส่วนตัว"
+        },
+        "dismiss": "ปิด",
+        "view_more": "ดูเพิ่มเติม",
+        "countdown": {
+            "seconds": "วินาที",
+            "minutes": "นาที",
+            "hours": "ชั่วโมง",
+            "days": "วัน",
+            "months": "เดือน",
+            "years": "ปี"
+        },
+        "lightboxes": {
+            "close": "ปิด"
+        },
+        "collection_button": {
+            "add_to_collection": "เพิ่มไปยังคอลแลคชัน"
+        },
+        "pager": {
+            "first_page": "หน้าแรกสุด",
+            "previous_page": "หน้าถัดไป",
+            "current_page_of_total": "หน้า {{current_page}} จาก {{total_pages}} หน้า",
+            "next": "ถัดไป",
+            "prev": "ก่อนหน้า",
+            "next_page": "หน้าถัดไป"
+        },
+        "filter_price": {
+            "paid": "ต้องซื้อ",
+            "on_sale": "ลดราคา",
+            "free": "ฟรี"
+        },
+        "platforms": {
+            "web": "บนเว็บไซต์"
+        },
+        "filter_when": {
+            "last_30_days": "ช่วงเดือนที่ผ่านมา",
+            "last_7_days": "ช่วงสัปดาห์ที่ผ่านมา",
+            "last_day": "ช่วงวันที่ผ่านมา"
+        },
+        "follow_button": {
+            "unfollow": "เลิกติดตาม",
+            "unfollow_username": "เลิกติดตาม {{username}}",
+            "following": "กำลังติดตาม",
+            "following_username": "กำลังติดตาม {{username}}",
+            "follow": "ติดตาม",
+            "follow_username": "ติดตาม {{username}}"
+        },
+        "page_number": "หน้า {{page_number}}",
+        "forms": {
+            "form_errors": "กรุณาตรวจสอบข้อมูลที่คุณให้มาอีกครั้ง",
+            "search": "ค้นหา",
+            "optional": "เลือกได้",
+            "submit": "บันทึกและส่ง",
+            "email_address": "ที่อยู่อีเมล",
+            "save": "บันทึก",
+            "required": "จำเป็น"
+        },
+        "durations": {
+            "days": "มากกว่า 1 วันที่แล้ว",
+            "hours": "1 ชั่วโมงที่แล้ว",
+            "hour": "ประมาณ 1 ชั่วโมงที่แล้ว",
+            "half_hour": "ประมาณครึ่งชั่วโมงที่แล้ว",
+            "minutes": "ไม่กี่นาทีที่แล้ว",
+            "seconds": "ไม่กี่วินาทีที่แล้ว"
+        },
+        "inputs": {
+            "midi_controller": "แผ่นคีย์บอร์ดเปียโน",
+            "dance_pad": "แผ่นรองสำหรับเกมเต้น",
+            "phone": "โทรศัพท์มือถือ",
+            "accelerometer": "เครืีองจับความเร่ง (Accelerometer)",
+            "voice": "เสียง",
+            "touchscreen": "ทัชสกรีน",
+            "joystick": "จอยสติ๊ก",
+            "gamepad": "เกมแพด (ใดก็ได้)",
+            "mouse": "เมาส์",
+            "keyboard": "คีย์บอร์ด"
         }
+    },
+    "developers": {
+        "page_header": "จำหน่ายหรือจ่ายแจกเกมในหน้าที่คุณปรับแต่งเองได้"
+    },
+    "user_register": {
+        "page_title": "สร้างบัญชี",
+        "register_form": {
+            "other_registration_methods": "วิธีการลงทะเบียนอื่น",
+            "username": "ชื่อผู้ใช้",
+            "url_preview": "หน้าผู้ใช้ของคุณจะอยู่ที่",
+            "repeat_password": "พิมพ์รหัสซ้ำอีกครั้ง",
+            "password": "รหัสผ่าน",
+            "your_email_address": "อีเมลของคุณ",
+            "about_you": "เกี่ยวกับคุณ",
+            "account_preferences_info": "คุณสามารถแก้ไขคำตอบเหล่านึ้ได้ในภายหลัง นี่เป็นเพียงสิ่งที่ทำให้ itch.io ทราบว่าต้องแสดงสิ่งใดให้คุณเห็นบ้าง",
+            "interest_developer": "ฉันต้องการเผยแพร่เกมหรือเนื้อหาอื่นบน itch.io",
+            "interest_gamer": "ฉันสนใจที่จะเล่นหรือดาวน์โหลดเกมบน itch.io",
+            "digest_signup": "ฉันต้องการรับจดหมายข่าว itch.io รายสองสัปดาห์ทุก ๆ เดือน",
+            "accept_tos": "ฉันยอมรับ<1>ข้อกำหนดการใช้งาน</1>",
+            "link_product": "การซื้อ <1>{{product}}</1> จะบันทึกไปยังบัญชีของคุณโดยอัตโนมัติเมื่อคุณสร้างบัญชีเรียบร้อยแล้ว",
+            "log_in": "เข้าสู่ระบบ",
+            "already_have_account": "หรือมีบัญชีอยู่แล้ว?",
+            "create_account": "สร้างบัญชี"
+        },
+        "create_an_account_on_itchio": "สร้างบัญชีบน itch.io"
+    },
+    "user_login": {
+        "no_account_prompt": "ยังไม่มีบัญชี? <1>สร้างบัญชี</1>",
+        "errors": {
+            "please_enter_a_valid_email_address": "กรุณาใส่อีเมลที่ถูกต้อง",
+            "accept_terms": "คุณต้องยอมรับข้อกำหนดการใช้งานด้วย"
+        },
+        "welcome_to_itchio": "ยินดีต้อนรับสู่ itch.io!",
+        "welcome_back": "ยินดีต้อนรับกลับ!",
+        "you_are_logged_out": "คุณออกจากระบบแล้ว",
+        "page_title": "เข้าสู่ระบบ itch.io",
+        "intent": {
+            "claim_object_title": "กรุณาเข้าสู่ระบบหรือสร้างบัญชีเพื่อรับ {{title}}",
+            "recent_purchases": "เข้าสู่ระบบเพื่อเชื่อมโยงสิ่งที่คุณเคยซื้อ",
+            "claim_object": "กรุณาเข้าสู่ระบบหรือสร้างบัญชีก่อนรับ {{noun}}",
+            "jam_submit": "คุณต้องมีบัญชี itch.io จึงจะเข้าร่วมแจมได้",
+            "collection": "คุณต้องมีบัญชี itch.io จึงจะเพิ่มไปยังคอลแลคชันได้",
+            "follow_username": "คุณต้องมีบัญชี itch.io ก่อนที่จะติดตาม <1>{{username}}</1>",
+            "follow": "คุณต้องมีบัญชี itch.io จึงจะติดตามใครได้",
+            "rate_game": "คุณต้องมีบัญชี itch.io จึงจะให้คะแนนเกมได้",
+            "comment": "คุณต้องมีบัญชี itch.io จึงจะแสดงความคิดเห็นได้",
+            "community": "คุณต้องเข้าสู่ระบบเพื่อทำสิ่งอื่นต่อในชุมชนของเราบน itch.io สร้างบัญชีใช้เวลาครู่่่่่่่เดียวและไม่เสียค่าใช้จ่าย"
+        },
+        "create_a_new_account": "สร้างบัญชี",
+        "looking_for_something_you_bought": "หาของที่คุณซื้ออยู่หรือเปล่า?",
+        "login_form": {
+            "log_in_button": "เข้าสู่ระบบ",
+            "or": "หรือ",
+            "or_log_in_with_another_site": "หรือเข้าสู่ระบบด้วยวิธีอื่น",
+            "create_account": "สร้างบัญชี",
+            "forgot_password": "ลืมรหัสผ่าน",
+            "password": "รหัสผ่าน",
+            "username_or_email": "ชื่อผู้ใช้หรืออีเมล"
+        },
+        "log_in_to_your_itchio_account": "เข้าสู่ระบบบัญชี itch.io ของคุณ"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "ที่อยู่อีเมลของคุณยังไม่ได้รับการยืนยัน"
+        }
+    },
+    "blog": {
+        "tag_filter": "กรองตาม {{tag}} <a>ล้างตัวกรองทั้งหมด</a>",
+        "empty_message": "ไม่มีโพสต์จะแสดงที่นี่...",
+        "digest": "แนะนำ",
+        "updates": "อัพเดต",
+        "all_posts": "โพสต์ทั้งหมด"
     }
 }
