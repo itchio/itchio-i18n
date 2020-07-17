@@ -1,16 +1,16 @@
 {
     "index": {
-        "random_game": "เกมจากการสุ่ม",
+        "random_game": "สุ่มเกม",
         "from_the_blog": "จากหน้าบล็อก",
-        "dont_see_anything_you_like": "ไม่พบสิ่งที่ค้นหาอยู่ใช่หรือไม่?",
+        "dont_see_anything_you_like": "ไม่พบสิ่งที่คุณค้นหาอยู่หรือเปล่า?",
         "view_all_games": "ดูเกมทั้งหมด",
-        "view_something_random": "เลือกดูอย่างสุ่ม",
+        "view_something_random": "สุ่มดูบางอย่าง",
         "download_app": "ดาวน์โหลดแอพ",
         "games_by_price": "ค้นหาเกมจากราคา",
         "browse": "ค้นหา",
         "popular_tags": "แท็กยอดนิยม",
-        "search_games_creators": "ค้นหาเกม และนักพัฒนาเกม",
-        "view_all_blog_posts": "ดูอัปเดตทั้งหมด",
+        "search_games_creators": "ค้นหาเกมและผู้สร้างเกม",
+        "view_all_blog_posts": "ดูการอัปเดตทั้งหมด",
         "nav": {
             "all_games": "ดูเกมทั้งหมด",
             "community": "ชุมชน",
@@ -32,7 +32,7 @@
         "recommended_for_you": "แนะนำสำหรับคุณ",
         "view_all": "ดูทั้งหมด",
         "free_games": "เกมฟรี",
-        "on_sale": "กำลังลดราคา",
+        "on_sale": "ลดราคา",
         "browse_all_tags": "สำรวจแท็กทั้งหมด",
         "view_all_jams": "ดูแจมส์ทั้งหมด",
         "featured_jams": "แจมส์คัดสรร",
@@ -52,8 +52,8 @@
         "browse_content_type": "ค้นดู {{content_type}}",
         "view_all_platforms": "ดูแพลตฟอร์มทั้งหมด",
         "game_dev_on_sale": "ทรัพยากรสำหรับพัฒนาเกม<s>ลดราคา</s>",
-        "from_the_itchio_blog": "จากบล็อก itch.io ของเรา",
-        "get_the_app": "<s>รับการทำงานนอกเหนือบน itch.io!</s> ติดตั้งและจัดการเกมด้วยแอปเดสก์ท็อปของเรา"
+        "from_the_itchio_blog": "จากบล็อก itch.io",
+        "get_the_app": "<s>รับการทำงานที่เหนือกว่าใน itch.io!</s> ติดตั้งและจัดการเกมด้วยแอปเดสก์ท็อปของเรา"
     },
     "layout": {
         "user_menu": {
