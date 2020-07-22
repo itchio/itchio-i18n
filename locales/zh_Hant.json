@@ -310,7 +310,7 @@
             "community": "您需要登入才能參與 itch.io 社群互動。建立帳戶是免費的，並且只需要幾分鐘。",
             "comment": "您需要有 itch.io 帳戶才能發表留言。",
             "rate_game": "您需要有 itch.io 帳戶才可以給遊戲評分。",
-            "follow_username": "您需要有 itch.io 帳戶才能追蹤 {{username}}。",
+            "follow_username": "您需要有 itch.io 帳戶才能追蹤 <1>{{username}}</1>。",
             "jam_submit": "您需要有 itch.io 帳戶才能提交作品到 Jam。"
         }
     },
@@ -409,7 +409,6 @@
             },
             "related_games_short": "相關",
             "related_games": "相關遊戲",
-            "rate_for_jam": "",
             "rate_this_noun": "評分這個 {{noun}}",
             "rate": "評分",
             "edit_rating": "編輯評分",

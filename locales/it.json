@@ -313,7 +313,7 @@
             "thank_you_for_purchasing_author": "Grazie per l'acquisto di {{product_title}} creato da {{author}}.",
             "thank_you_for_purchasing": "Grazie per aver acquistato {{product_title}}.",
             "link_purchase_warning": "Non perdere di vista il tuo acquisto!",
-            "link_purchase_links": "<1>Crea un account<1/> o <2>loggati con itch.io<2/> per collegare il tuo acquisto.",
+            "link_purchase_links": "<1>Crea un account</1> o <2>loggati con itch.io</2> per collegare il tuo acquisto.",
             "save_this_purchase_to_your_account": "Salva questo acquisto sul tuo account",
             "youve_been_gifted": "Che bello! Ti hanno regalato {{product_title}}."
         },
@@ -828,7 +828,7 @@
         "support_the_creator_with_an_additional_contribution": "Puoi anche supportarlo con una mancia",
         "support_the_creator_by_paying_above_the_minimum_price": "Supporta questo creatore pagando un po di più del prezzo minimo",
         "this_purchase_is_a_gift": "Questo acquisto è un regalo",
-        "agree_to_terms": "Pagando tu accetti i <1>Termini di Servizio<1/> e la <2>Politica della Privacy<2/>."
+        "agree_to_terms": "Pagando tu accetti i <1>Termini di Servizio</1> e la <2>Politica della Privacy</2>."
     },
     "search": {
         "search_results_for_query": "Ecco i risultati per '{{query}}'",
@@ -1305,7 +1305,7 @@
         "brose_featured_jams": "Jam in evidenza",
         "browse_upcoming_this_month": "In arrivo questo mese",
         "dont_see_something_you_like_header": "Vedi qualcosa di tuo gradimento?",
-        "host_or_explore_links": "<1>Lancia la tua jam<1/> o <2>Esplora tutte le jam<2/>",
+        "host_or_explore_links": "<1>Lancia la tua jam</1> o <2>Esplora tutte le jam</2>",
         "host_your_own_jam_button": "Lancia la tua jam",
         "jam_calendar_header": "Calendario della jam",
         "browse_jams_header": "Sfoglia jam",

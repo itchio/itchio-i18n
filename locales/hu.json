@@ -312,7 +312,7 @@
     },
     "developers": {
         "design_your_games_page_description": "Hozz létre egy egyedi oldalt a játékodnak, ahol az emberek megvehetik vagy letölthetik. Szabd testre a színeket, a betűket, a képeket és a videókat. Mivel ez a játékoldalad, amit ide nem írsz le, azt nem fogják megtalálni.",
-        "upload_or_dashboard": "<1>Tölts fel egy új játékot <em>vagy</em> <2>lépj az irányítóközpontba</2>",
+        "upload_or_dashboard": "<1>Tölts fel egy új játékot</1> <em>vagy</em> <2>lépj az irányítóközpontba</2>",
         "create_account_or_login": "<1>Hozz létre egy fiókot</1> <em>vagy</em> <2>jelentkezz be</2>",
         "share_message": "Az itch.io a legegyszerűbb módja az indie játékaid terjesztésének az interneten ingyen.",
         "learn_more_about": "Tudj meg többet az alábbiakról:",
