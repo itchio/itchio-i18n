@@ -27,6 +27,7 @@ jobs:
         luarocks install tableshape
         luarocks install luafilesystem
         luarocks install lua-cjson
+        luarocks install lapis
 
     - name: build translations
       run: |
