@@ -11,6 +11,14 @@
         "action-rpg": "Actionrollspel",
         "adventure": "Äventyrsspel",
         "aliens": "Utomjordingar",
-        "alternate-history": "Alternativ historia"
+        "alternate-history": "Alternativ historia",
+        "chess": "Schack",
+        "card-game": "Kortspel",
+        "boring": "Tråkigt",
+        "board-game": "Brädspel",
+        "archery": "Bågskytte",
+        "arcade": "Arkadspel",
+        "anime": "Anime",
+        "animals": "Djur"
     }
 }
