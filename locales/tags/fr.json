@@ -107,7 +107,7 @@
         "isometric": "Isométrique",
         "jrpg": "JRPG",
         "kickstarter": "Kickstarter",
-        "lgbt": "LGBT",
+        "lgbt": "LGBT+",
         "local-co-op": "Co-op local",
         "loot": "Équipements ",
         "low-poly": "Low-poly",
@@ -247,7 +247,7 @@
         "space": "Espace",
         "trading": "Échange",
         "fast-paced": "Rapide",
-        "moddable": "Moddable",
+        "moddable": "Modulable",
         "side-scroller": "Jeu en vue de côté",
         "spoopy": "Effrayant et Comique",
         "text-based": "Basé sur du texte",
@@ -258,6 +258,6 @@
         "top-down-shooter": "Jeu de tir en vue de dessus",
         "story-rich": "Story Rich",
         "tilemap": "Outils basés sur cartes de tuiles",
-        "time-attack": "Temps d'attaque "
+        "time-attack": "Temps d'attaque"
     }
 }
