@@ -110,7 +110,7 @@
         "to_follow": {
             "created_projects": "Ha creat {{project_list}}",
             "empty_results": "Ara mateix no hi ha més recomanacions. Torneu-ho a provar més tard",
-            "refresh_button": "Refresqueu per a més elements...",
+            "refresh_button": "Refresqueu per a més elements",
             "dismiss_tooltip": "No suggereixis més"
         }
     },
