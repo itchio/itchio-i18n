@@ -469,7 +469,7 @@
                 "purchased_for_price": "Acheté pour {{price}}"
             },
             "footer": {
-                "view_all_by_username": "Voir le catalogue {{username}}",
+                "view_all_by_username": "Voir tout le contenu produit par {{username}}",
                 "report": "Signaler",
                 "embed": "Intégrer",
                 "updated_date": "Mis à jour le {{date}}"
