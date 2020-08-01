@@ -210,6 +210,20 @@
         "time-attack": "Időfutam",
         "third-person-shooter": "Külső nézetes lövöldözős",
         "third-person": "Külső nézetes",
-        "team-based": "Csapat-alapú"
+        "team-based": "Csapat-alapú",
+        "turn-based-combat": "Körökre Osztott Harc",
+        "turn-based": "Körökre osztott",
+        "traps": "Csapdák",
+        "transgender": "Transznemű",
+        "trading": "Kereskedelem",
+        "tower-defense": "Toronyvédő",
+        "time-travel": "Időutazás",
+        "text-based": "Szöveg alapú",
+        "tetris": "Tetris",
+        "tennis": "Tenisz",
+        "tanks": "Tankok",
+        "tactical-rpg": "Taktikai RPG",
+        "tactical": "Taktikai",
+        "swords": "Kardok"
     }
 }
