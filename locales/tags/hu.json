@@ -193,7 +193,7 @@
         "skeletons": "Csontvázak",
         "spoopy": "Ijesztő, de cuki",
         "spooky": "Ijesztő",
-        "survival-horror": "Túlélő Horror",
+        "survival-horror": "Túlélő horror",
         "survival": "Túlélés",
         "surreal": "Szürreális",
         "superhero": "Szuperhős",
@@ -202,6 +202,14 @@
         "story-rich": "Történetgazdag",
         "steampunk": "Steampunk",
         "stealth": "Lopakodós",
-        "sports": "Sport"
+        "sports": "Sport",
+        "touch-friendly": "Érintőképernyő-barát",
+        "top-down-shooter": "Felülnézetes lövöldözős",
+        "top-down-adventure": "Felülnézetes kaland",
+        "top-down": "Felülnézetes",
+        "time-attack": "Időfutam",
+        "third-person-shooter": "Külső nézetes lövöldözős",
+        "third-person": "Külső nézetes",
+        "team-based": "Csapat-alapú"
     }
 }
