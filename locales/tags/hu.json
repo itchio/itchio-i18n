@@ -78,8 +78,12 @@
         "escape-game": "Menekülős játék",
         "fairy-tale": "Tündérmese",
         "experimental": "Kísérleti",
-        "fangame": "Rajongói Játék",
+        "fangame": "Rajongói játék",
         "explosions": "Robbanások",
-        "exploration": "Felfedezés"
+        "exploration": "Felfedezés",
+        "gore": "Gore",
+        "game-engine": "Játékmotor",
+        "flappy-bird": "Flappy Bird",
+        "first-person": "Belső nézetes"
     }
 }
