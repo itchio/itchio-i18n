@@ -100,6 +100,9 @@
         "funny": "Vicces",
         "fighting": "Harc",
         "farming": "Farmos",
-        "level-editor": "Pályaszerkesztő"
+        "level-editor": "Pályaszerkesztő",
+        "life-simulation": "Életszimulátor",
+        "interactive-fiction": "Interaktív Fikció",
+        "hack-and-slash": "Hack and Slash"
     }
 }
