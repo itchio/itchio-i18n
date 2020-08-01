@@ -329,5 +329,89 @@
         "product_summary2": "Még minimálárat is megadhatsz a játékodhoz, hogy megadd követőidnek a lehetőséget, hogy annyit fizessenek a játékodért, amennyit szeretnének.",
         "product_summary1": "Az <s>itch.io</s> a legegyszerűbb út arra, hogy teljesen ingyen terjeszd indie játékaidat az interneten. Töltsd fel a játékod fájljait és képernyőképeit egy helyre. Készítsd egyedi nyitóoldalt, ahol a játékod van az előtérben!",
         "page_header": "Hozz létre egy egyedi oldalt, hogy azonnal elkezdhesd terjeszteni az indie játékaid!"
+    },
+    "dashboard": {
+        "project_header": {
+            "metadata": "Metaadat",
+            "devlog": "Fejlesztői napló",
+            "edit_project": "Projekt szerkesztése"
+        },
+        "edit_project": {
+            "screenshots_header": "Képernyőfotók",
+            "add_screenshots": "Képernyőfotók hozzáadása",
+            "community_discussion_board_info": "Adj hozzá egy hivatalos közösségi oldalt kategóriákkal, kommentekkel, válaszokkal és egyebekkel",
+            "community_field_info": "Építs közösséget a projektedhez azzal, hogy hagyod az embereknek, hogy posztoljanak az oldaladra.",
+            "uploads": {
+                "change_display_name_button": "A megjelenített név módosítása",
+                "set_price_toggle": "Állíts be egy más árat ehhez a fájlhoz",
+                "preorder_toggle": "Ez a fájl előrendelésre szolgáló helyőrző",
+                "demo_toggle": "Ez a fájl egy demó és ingyenesen letölthető",
+                "hide_toggle": "Rejtsd el és gátold meg a letöltést ennél a fájlnál",
+                "play_in_browser_toggle": "Ez a fájl a böngészőben lesz lejátszva",
+                "delete_file_button": "Fájl törlése"
+            },
+            "pricing": {
+                "price_too_low_error": "Kérlek, adj meg egy árat, ami magasabb, mint a projekt ára",
+                "default_price_info": "Az alapértelmezett ár akkor jelenik meg, amikor valaki meg szeretné vásárolni a projekted",
+                "suggested_price_label": "Javasolt ár",
+                "suggested_donation_label": "Javasolt adomány",
+                "suggest_default_price_label": "Javasolj egy alternatív alapértelmezett árat",
+                "payment_disabled_info": "A projektfájlok ingyenesen letölthetőek, viszont az adományozás nem lehetséges",
+                "default_donation_amount_info": "Alapértelmezett adománymennyiség",
+                "free_price_info": "A projektet letöltő személytől adományt kérnek, mielőtt hozzáférnek a letöltéshez. Át tudják ugrani az ingyenes letöltéshez.",
+                "minimum_price_info": "A játék letöltéséhez való hozzáféréshez fizetendő minimális ár",
+                "minimum_price_label": "Minimális ár",
+                "embed_pricing_info": "Minimális összeg beállításával csak a letölthető fájlok elérése korlátozható. A beágyazott tartalmak ingyen elérhetőek.",
+                "no_payments": "Nincs fizetség",
+                "paid": "Kifizetve",
+                "free_or_donate": "{{money}} vagy adakozás"
+            },
+            "details_genre_info": "Válaszd ki a kategóriát, ami legjobban leírja a játékod. Alant további műfajokat és címkéket választhatsz",
+            "details_tags_header": "Címkék",
+            "details_genre_header": "Műfaj",
+            "embed_options": {
+                "launch_fullscreen_option": "Kattints ide teljes képernyőben történő futtatáshoz",
+                "embed_in_page_option": "Oldalba beágyazás",
+                "enable_scrollbars_option": "Görgetősávok bekapcsolása",
+                "fullscreen_button_option": "Teljesképernyő-gomb",
+                "orientation": "Tájolás",
+                "mobile_friendly_info": "A projekt képes futni mobiltelefonon (kisebb felbontás és érintés-támogatás)",
+                "mobile_friendly_option": "Mobilbarát"
+            }
+        }
+    },
+    "library": {
+        "redeem_button": "Beváltás",
+        "rate_game": {
+            "you_rated_this_project_ago": "Ezt a projektet értékelted {{time_ago}} óta.",
+            "rate_header": "Pontozd és értékeld a(z) {{project_title}}-t",
+            "choose_stars": "Válassz egy pontszámot 1 és 5 között.",
+            "delete_button": "Értékelés és pontszám törlése",
+            "rating_deleted_summary": "Az értékelésed törölve.",
+            "rating_removed_header": "Értékelés törölve",
+            "follow_creator": "Foltosd meg a(z) {{project_title}} fejlesztőjének követését, hogy ne maradj le a legújabb kiadásról.",
+            "rating_saved_header": "Értékelés elmentve"
+        },
+        "gift_button": "Ajándék",
+        "download_button": "Letöltés",
+        "nav": {
+            "things_to_rate": "Értékelendő dolgok",
+            "things_on_sale": "Akciós dolgok",
+            "recommended_for_you": "Neked ajánlott",
+            "my_purchases": "Vásárlásaim"
+        },
+        "nav_header": "Könyvtár",
+        "empty_collection_message": "A gyűjtemény üres",
+        "private_toggle": "Magán",
+        "permalink": "Hivatkozás ide",
+        "things_rated_header": "Dolgok, amiket értékeltél",
+        "show_on_my_profile_toggle": "Megjelenítés a profilomon",
+        "view_all_link": "Összes megtekintése",
+        "things_you_own_header": "Dolgok, amiket birtokolsz"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Az e-mail címed nincs megerősítve"
+        }
     }
 }
