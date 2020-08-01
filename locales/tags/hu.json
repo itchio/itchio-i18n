@@ -156,6 +156,12 @@
         "open-world": "Nyitott világ",
         "on-rails-shooter": "On-Rails Shooter",
         "non-violent": "Erőszakmentes",
-        "music-production": "Zeneszerkesztés"
+        "music-production": "Zeneszerkesztés",
+        "real-time": "Valós Idejű",
+        "racing": "Versenyzés",
+        "pvp": "PvP",
+        "puzzle-platformer": "Kirakós-platformer",
+        "puzzle": "Kirakós",
+        "post-apocalyptic": "Posztapokalitikus"
     }
 }
