@@ -174,7 +174,7 @@
         "roguelike": "Roguelike",
         "remake": "Remake",
         "shoot-em-up": "Shoot 'Em Up",
-        "skating": "Gördeszka",
+        "skating": "Gördeszkás",
         "singleplayer": "Egyjátékos",
         "simulation": "Szimuláció",
         "short": "Rövid",
@@ -185,6 +185,8 @@
         "rpg": "Szerepjáték",
         "rotation": "Forgás",
         "side-scroller": "Oldalnézetes",
-        "sandbox": "Homokozó"
+        "sandbox": "Homokozó",
+        "space-sim": "Űrbéli életszimulátor",
+        "soccer": "Labdarúgás"
     }
 }
