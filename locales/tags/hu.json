@@ -164,7 +164,7 @@
         "puzzle": "Kirakós",
         "post-apocalyptic": "Posztapokalitikus",
         "procedural": "Procedurális generálás",
-        "romance": "Szerelmes",
+        "romance": "Romantikus",
         "robots": "Robotok",
         "rhythm": "Ritmus",
         "retro": "Retró",
@@ -172,6 +172,7 @@
         "real-time-strategy": "Valós idejű stratégia",
         "roguelite": "Roguelite",
         "roguelike": "Roguelike",
-        "remake": "Remake"
+        "remake": "Remake",
+        "shoot-em-up": "Shoot 'Em Up"
     }
 }
