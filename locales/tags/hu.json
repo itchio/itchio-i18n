@@ -104,6 +104,16 @@
         "life-simulation": "Életszimulátor",
         "interactive-fiction": "Interaktív Fikció",
         "hack-and-slash": "Hack and Slash",
-        "hacking": "Hackelés"
+        "hacking": "Hackelés",
+        "local-co-op": "Helyi kooperatív",
+        "lo-fi": "Lo-fi",
+        "libgdx": "libGDX",
+        "lgbt": "LGBT",
+        "lesbian": "Leszbikus",
+        "kickstarter": "Kickstarter",
+        "jrpg": "JRPG",
+        "isometric": "Izometrikus nézet",
+        "instrument": "Hangszer",
+        "hand-drawn": "Kézzel Rajzolt"
     }
 }
