@@ -163,6 +163,12 @@
         "puzzle-platformer": "Kirakós-platformer",
         "puzzle": "Kirakós",
         "post-apocalyptic": "Posztapokalitikus",
-        "procedural": "Procedurális generálás"
+        "procedural": "Procedurális generálás",
+        "romance": "Szerelmes",
+        "robots": "Robotok",
+        "rhythm": "Ritmus",
+        "retro": "Retró",
+        "relaxing": "Pihentető",
+        "real-time-strategy": "Valós idejű stratégia"
     }
 }
