@@ -224,6 +224,7 @@
         "tanks": "Tankok",
         "tactical-rpg": "Taktikai RPG",
         "tactical": "Taktikai",
-        "swords": "Kardok"
+        "swords": "Kardok",
+        "turn-based-strategy": "Körökre Osztott Stratégiai"
     }
 }
