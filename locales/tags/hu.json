@@ -69,6 +69,11 @@
         "deck-building": "Pakliépítés",
         "drm-free": "DRM-mentes",
         "dice": "Dobókocka",
-        "detective": "Nyomozás"
+        "detective": "Nyomozás",
+        "erotic": "Erotikus",
+        "episodic": "Epizodikus",
+        "educational": "Oktató",
+        "economy": "Gazdaság",
+        "dystopian": "Disztópia"
     }
 }
