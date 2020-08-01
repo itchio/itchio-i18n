@@ -85,7 +85,7 @@
         "game-engine": "Játékmotor",
         "flappy-bird": "Flappy Bird",
         "first-person": "Belső nézetes",
-        "grayscale": "Szürkeskála",
+        "grayscale": "Szürkeárnyalatú",
         "gay": "Meleg (LGBT)",
         "gardening": "Kertészkedés",
         "gameboy": "Game Boy",
@@ -99,6 +99,7 @@
         "ghosts": "Szellemek",
         "funny": "Vicces",
         "fighting": "Harc",
-        "farming": "Farmos"
+        "farming": "Farmos",
+        "level-editor": "Pályaszerkesztő"
     }
 }
