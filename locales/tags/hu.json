@@ -114,6 +114,7 @@
         "jrpg": "JRPG",
         "isometric": "Izometrikus nézet",
         "instrument": "Hangszer",
-        "hand-drawn": "Kézzel Rajzolt"
+        "hand-drawn": "Kézzel Rajzolt",
+        "local-multiplayer": "Helyi Többjátékos"
     }
 }
