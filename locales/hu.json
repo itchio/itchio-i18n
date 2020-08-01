@@ -334,7 +334,15 @@
         "project_header": {
             "metadata": "Metaadat",
             "devlog": "Fejlesztői napló",
-            "edit_project": "Projekt szerkesztése"
+            "edit_project": "Projekt szerkesztése",
+            "more": "Több",
+            "admins": "Adminisztrátorok",
+            "rewards": "Jutalmak",
+            "discussion_board": "Vitafórum",
+            "edit_comments": "Megjegyzések szerkesztése",
+            "interact": "Interakció",
+            "distribute": "Terjesztés",
+            "analytics": "Elemzések"
         },
         "edit_project": {
             "screenshots_header": "Képernyőfotók",
