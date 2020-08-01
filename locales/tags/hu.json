@@ -173,6 +173,16 @@
         "roguelite": "Roguelite",
         "roguelike": "Roguelike",
         "remake": "Remake",
-        "shoot-em-up": "Shoot 'Em Up"
+        "shoot-em-up": "Shoot 'Em Up",
+        "skating": "Gördeszka",
+        "singleplayer": "Egyjátékos",
+        "simulation": "Szimuláció",
+        "short": "Rövid",
+        "shooter": "Lövöldözős",
+        "shadows": "Árnyékok",
+        "science-fiction": "Sci-fi",
+        "runner": "Futós",
+        "rpg": "Szerepjáték",
+        "rotation": "Forgás"
     }
 }
