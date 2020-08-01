@@ -46,6 +46,10 @@
         "automation": "Automatizáció",
         "breakout": "Faltörő",
         "city-builder": "Városépítő",
-        "chicken": "Csirke"
+        "chicken": "Csirke",
+        "creepy": "Ijesztő",
+        "crafting": "Barkácsolás",
+        "controller": "Kontroller",
+        "classes": "Osztályok"
     }
 }
