@@ -183,6 +183,8 @@
         "science-fiction": "Sci-fi",
         "runner": "Futós",
         "rpg": "Szerepjáték",
-        "rotation": "Forgás"
+        "rotation": "Forgás",
+        "side-scroller": "Oldalnézetes",
+        "sandbox": "Homokozó"
     }
 }
