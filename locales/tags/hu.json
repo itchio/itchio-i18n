@@ -169,6 +169,9 @@
         "rhythm": "Ritmus",
         "retro": "Retró",
         "relaxing": "Pihentető",
-        "real-time-strategy": "Valós idejű stratégia"
+        "real-time-strategy": "Valós idejű stratégia",
+        "roguelite": "Roguelite",
+        "roguelike": "Roguelike",
+        "remake": "Remake"
     }
 }
