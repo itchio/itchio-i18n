@@ -124,7 +124,7 @@
         "male-protagonist": "Férfi Főszereplő",
         "magic": "Mágia",
         "mechs": "Mechanikák",
-        "multiple-endings": "Több Befejezés",
+        "multiple-endings": "Több befejezés",
         "multiplayer": "Többjátékos",
         "mouse-only": "Csak egérrel",
         "mountains": "Hegyek",
@@ -134,6 +134,8 @@
         "minimalist": "Minimalista",
         "metroidvania": "Metroidvania",
         "medieval": "Középkori",
-        "math": "Matematika"
+        "math": "Matematika",
+        "otome": "Otome",
+        "noir": "Noir"
     }
 }
