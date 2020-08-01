@@ -115,6 +115,9 @@
         "isometric": "Izometrikus nézet",
         "instrument": "Hangszer",
         "hand-drawn": "Kézzel Rajzolt",
-        "local-multiplayer": "Helyi többjátékos"
+        "local-multiplayer": "Helyi többjátékos",
+        "massively-multiplayer": "Nagyon sok szereplős többjátékos",
+        "low-poly": "Alacsony poligonszámú",
+        "loot": "Loot"
     }
 }
