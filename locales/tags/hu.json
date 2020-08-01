@@ -136,6 +136,20 @@
         "medieval": "Középkori",
         "math": "Matematika",
         "otome": "Otome",
-        "noir": "Noir"
+        "noir": "Noir",
+        "platformer": "Platformer",
+        "pixel-art": "Pixel Grafika",
+        "pirates": "Kalózok",
+        "photorealistic": "Fotórealisztikus",
+        "parody": "Paródia",
+        "parkour": "Parkour",
+        "other": "Egyéb",
+        "norse": "Északi",
+        "non-linear": "Nemlineáris",
+        "ninja": "Nindzsa",
+        "neon": "Neon",
+        "narrative": "Narratív",
+        "mystery": "Rejtély",
+        "music": "Zene"
     }
 }
