@@ -384,7 +384,11 @@
                 "fullscreen_button_option": "Teljesképernyő-gomb",
                 "orientation": "Tájolás",
                 "mobile_friendly_info": "A projekt képes futni mobiltelefonon (kisebb felbontás és érintés-támogatás)",
-                "mobile_friendly_option": "Mobilbarát"
+                "mobile_friendly_option": "Mobilbarát",
+                "frame_options": "Keret opciói",
+                "height": "Magasság",
+                "width": "Szélesség",
+                "viewport_dimensions": "A nézet méretei"
             },
             "description_field_description": "Ez alkotja a játékoldal tartalmát.",
             "project_type_help": "További fájlokat adhatsz hozzá az efölött lévő összes típushoz",
@@ -412,7 +416,50 @@
             "project_url_field": "Projekt URL-címe",
             "title_field": "Cím",
             "edit_project_title": "Projekt szerkesztése",
-            "create_a_new_project_title": "Új projekt létrehozása"
+            "create_a_new_project_title": "Új projekt létrehozása",
+            "community_comments_info": "Adj egy beágyazott kommentszakaszt a projekt oldalának aljára",
+            "embed_options_header": "Beágyazási opciók",
+            "access_control": {
+                "access_settings": "Hozzáférés beállításai",
+                "restricted_access_settings": "Korlátozott hozzáférés beállításai",
+                "public_access_settings": "Nyilvános hozzáférés beállításai",
+                "password_label": "Jelszó",
+                "allow_password_option": "Az oldal jelszóval védése",
+                "unlisted_option": "Ne jelenítse meg a keresésekben és a böngészésben",
+                "disable_downloads_option": "Az új letöltések és vásárlások kikapcsolása"
+            },
+            "visibility_access_info": "Használd a \"Piszkozat\" opciót, hogy átnézd az oldalad, mielőtt nyilvánossá tennéd. <a>Tudj meg többet a hozzáférési módokról</a>",
+            "visibility_access_header": "Láthatóság & hozzáférés",
+            "error_dialog": {
+                "title": "Probléma merült fel a projekt mentése közben",
+                "confirm_button": "Értem"
+            },
+            "errors": {
+                "invalid_image": "Kérlek szerkeszd a kép vagy próbálj meg egy másikat",
+                "invalid_file": "Probléma van a kiválasztott fájljal"
+            },
+            "cover_uploader": {
+                "upload_button": "Borítókép feltöltése",
+                "remove_image": "Kép törlése",
+                "replace_image": "Borítókép cseréje",
+                "cover_description": "A borítókép akkor kerül felhasználásra, amikor az itch.io a webhely másik részéből linkelni kíván a projektedhez. Kötelező. (minimum: 315x250, ajánlott: 630x500)",
+                "confirm_remove": "Biztosan szeretnéd törölni a borítóképet?"
+            },
+            "payment_warning_info": "Ha a minimális árat 0-nál nagyobbra állítod, senki sem tudja letölteni a projekted. <a>Fiók beállítása</a>",
+            "payment_warning_header": "Még nem állítottad be a fizetést",
+            "content_guidelines_info": "A projekt közzététele előtt olvasd el a <a>minőségi irányelveinket</a>",
+            "content_guidelines_header": "Győződj meg arról, hogy mindenki megtalálja az oldalad",
+            "file_size_limit": "Fájlméret korlát: {{filesize}}.<a>Lépj velünk kapcsolatba</a> ha több helyre van szükséged",
+            "add_external_file_button": "Külső fájl hozzáadása",
+            "upload_files_button": "Fájlok feltöltése",
+            "uploads_header": "Feltöltések",
+            "pricing_header": "Árazás",
+            "community_discussion_board": "Vitafórum",
+            "community_comments": "Hozzászólások",
+            "community_disabled": "Kikapcsolva",
+            "community_field": "Közösség",
+            "instructions_field_info1": "Ezt a szöveget az látja, aki a böngészőn keresztül akarja letölteni a játékodat. Mellékelj minden szükséges információt arról, hogy miként kell telepíteni és futtatni, amit letöltenek.",
+            "instructions_field_info2": "Ha a játékodhoz először programkönyvtárakat vagy alkalmazásokat is kell telepíteni, akkor ezeket az információkat is le kellene írnod"
         },
         "dashboard": "Irányítópult",
         "hello": "Helló!",
