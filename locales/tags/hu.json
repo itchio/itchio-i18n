@@ -225,6 +225,11 @@
         "tactical-rpg": "Taktikai RPG",
         "tactical": "Taktikai",
         "swords": "Kardok",
-        "turn-based-strategy": "Körökre Osztott Stratégiai"
+        "turn-based-strategy": "Körökre osztott stratégia",
+        "voice-acting": "Hangszínészet",
+        "visualization": "Vizualizáció",
+        "visual-novel": "Vizuális regény",
+        "versus": "Versus",
+        "twin-stick-shooter": "Kétkaros lövöldözős"
     }
 }
