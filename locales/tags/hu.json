@@ -150,6 +150,12 @@
         "neon": "Neon",
         "narrative": "Narratív",
         "mystery": "Rejtély",
-        "music": "Zene"
+        "music": "Zene",
+        "point-and-click": "Pixelvadászat",
+        "physics": "Fizika",
+        "open-world": "Nyitott világ",
+        "on-rails-shooter": "On-Rails Shooter",
+        "non-violent": "Erőszakmentes",
+        "music-production": "Zeneszerkesztés"
     }
 }
