@@ -118,6 +118,10 @@
         "local-multiplayer": "Helyi többjátékos",
         "massively-multiplayer": "Nagyon sok szereplős többjátékos",
         "low-poly": "Alacsony poligonszámú",
-        "loot": "Loot"
+        "loot": "Loot",
+        "manga": "Manga",
+        "management": "Management",
+        "male-protagonist": "Férfi Főszereplő",
+        "magic": "Mágia"
     }
 }
