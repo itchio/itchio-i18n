@@ -385,7 +385,65 @@
                 "orientation": "Tájolás",
                 "mobile_friendly_info": "A projekt képes futni mobiltelefonon (kisebb felbontás és érintés-támogatás)",
                 "mobile_friendly_option": "Mobilbarát"
-            }
+            },
+            "description_field_description": "Ez alkotja a játékoldal tartalmát.",
+            "project_type_help": "További fájlokat adhatsz hozzá az efölött lévő összes típushoz",
+            "tip_label": "Tipp",
+            "types": {
+                "downloadable": "Letölthető"
+            },
+            "classification_other": "Egyéb",
+            "default_noun": "Hagyd üresen, hogy alapértelmezett legyen: {{default_noun}}.",
+            "instructions_field": "Letöltési és telepítési utasítás",
+            "custom_noun_field_description": "Megváltoztathatod, hogyan utaljon a projektedre az itch.io egyedi főnév megadásával.",
+            "custom_noun_field": "Egyedi főnév",
+            "description_field": "Leírás",
+            "details_section_header": "Részletek",
+            "release_status_field": "Kiadási állapot",
+            "kind_of_project_field": "Projekt típusa",
+            "classification_field_description": "Mit töltesz fel?",
+            "classification_field": "Besorolás",
+            "short_description_field_description": "Megjelenik, amikor összekapcsoljuk a projekttel. Kerüljd el a projekt címének másolását",
+            "short_description_field": "Rövid leírás vagy bemutatkozó szöveg",
+            "delete_game_button": "Játék törlése",
+            "video_field_description": "Adj meg egy YouTube- vagy Vimeo URL címet.",
+            "video_field": "Játékvideó vagy trailer",
+            "save_and_view_button": "Mentés & oldal megtekintése",
+            "project_url_field": "Projekt URL-címe",
+            "title_field": "Cím",
+            "edit_project_title": "Projekt szerkesztése",
+            "create_a_new_project_title": "Új projekt létrehozása"
+        },
+        "dashboard": "Irányítópult",
+        "hello": "Helló!",
+        "new_devlog": "Új fejlesztői naplóbejegyzés",
+        "recently_updated_pages_header": "Nemrég feltöltött képek",
+        "not_a_developer_escape": "Ne, vigyél a játékok hírfolyamára",
+        "intro_text": "Fejlesztő vagy? Töltsd fel az első játékod",
+        "analytics_summary_header": "Összegzés",
+        "project_list": {
+            "no_image": "Nincs kép",
+            "analytics": "Elemzések",
+            "edit": "Szerkesztés"
+        },
+        "create_new_project_button": "Új projekt létrehozása",
+        "header": {
+            "coop_bundles_link": "Együttműködő csomagok",
+            "sales_bundles_link": "Akciók & csomagok",
+            "payouts_link": "Kifizetések",
+            "analytics_link": "Elemzések",
+            "payments_link": "Kifizetések",
+            "projects_link": "Projektek"
+        },
+        "page_title": "Alkotói irányítópult",
+        "follow_itchio": "Kövesd az itch.io-t {{twitter}}-en és {{facebook}}-on",
+        "stats": {
+            "following": "Követéseid",
+            "followers": "Követők",
+            "downloads": "Letöltések",
+            "views": "Megtekintések",
+            "payments": "Kifizetések",
+            "gross_revenue": "Bruttó bevétel"
         }
     },
     "library": {
@@ -421,5 +479,61 @@
         "unverified_email": {
             "title": "Az e-mail címed nincs megerősítve"
         }
+    },
+    "jam": {
+        "screenshots": {
+            "loading_more": "Több képernyőfotó betöltése...",
+            "empty_message": "Még nincsenek feltöltve képernyőfotók"
+        },
+        "submission": {
+            "rate_submission": {
+                "disqualified_message": "Ez a nevezés diszkvalifikálva lett és nem lehet értékelni.",
+                "you_voted_ago": "Ekkor szavaztál: {{timestamp}}.",
+                "you_just_voted": "Már szavaztál.",
+                "save_rating": "Értékelés mentése",
+                "save_vote": "Szavazat mentése"
+            }
+        }
+    },
+    "feed": {
+        "to_follow": {
+            "to_follow_description": "Itt van néhány fiók, amiknek érdekelhet a követése.",
+            "people_to_follow_header": "Emberek, akiket követhetsz"
+        },
+        "to_rate": {
+            "to_rate_description": "Itt van néhány dolog, amivel interakcióba léptél, de még nem értékelted.",
+            "projects_to_rate_header": "Értékelendő projektek"
+        },
+        "featured_tags_header": "Kiemelt címkék",
+        "latest_featured_games_header": "Legújabb kiemelt játékok",
+        "filter_ratings_tab": "Értékelések",
+        "filter_devlogs_tab": "Fejlesztői naplók",
+        "filter_collections_tab": "Gyűjtemények",
+        "filter_new_projects_tab": "Új projektek",
+        "filter_everything_tab": "Minden",
+        "filter_own_activity_tab": "Saját aktivitásom"
+    },
+    "jams": {
+        "count_joined": "{{count}} csatlakozott",
+        "browse_in_progress": "Folyamatban",
+        "dont_see_something_you_like_header": "Nincs semmi, ami tetszik?"
+    },
+    "game_grid": {
+        "in_bundle": "Csomagban"
+    },
+    "add_to_collection": {
+        "about_this_project_label": "Erről a projektről",
+        "private_collection_option": "Magángyűjtemény — Csak te láthatod a tartalmát",
+        "manage_collections_link": "Gyűjtemények kezelése",
+        "add_button": "Hozzáadás gyűjteményhez",
+        "default_title": "{{username}} gyűjteménye",
+        "add_to_new": "Hozzáadás új gyűjteményhez, aminek a neve",
+        "private_collection_title": "[Magán] {{title}}",
+        "add_to_existing": "Hozzáadás meglévő gyűjteményhez",
+        "count_items": "{{count}} elem",
+        "count_items_plural": "{{count}} elem",
+        "already_in_collections": "Ez a projekt már benne van az alábbi gyűjteményekben:",
+        "add_reason": "Add hozzá ezt a projektet egy gyűjteményhez, hogy elmentsd későbbre.",
+        "dialog_title": "{{project_title}} hozzáadása a gyűjteményhez"
     }
 }
