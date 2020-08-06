@@ -76,7 +76,8 @@
             "sales": "特價中",
             "bundles": "組合包",
             "fun_games": "好玩遊戲",
-            "feed_unseen_count": "{{count}} 則新動態"
+            "feed_unseen_count": "{{count}} 則新動態",
+            "dashboard": "創作中心"
         },
         "footer": {
             "blog": "部落格",
@@ -101,7 +102,9 @@
             "host_game_jam": "參與的 Game Jam",
             "view_profile": "檢視個人檔案",
             "explore": "探索",
-            "new_project": "上傳新專案"
+            "new_project": "上傳新專案",
+            "library": "我的庫",
+            "dashboard": "創作中心"
         }
     },
     "library": {
@@ -169,7 +172,9 @@
         "from_the_blog": "來自部落格",
         "dont_see_anything_you_like": "找不到您喜歡的東西？",
         "download_app": "下載客戶端",
-        "view_all_games": "檢視所有遊戲"
+        "view_all_games": "檢視所有遊戲",
+        "get_the_app": "<s>充分使用 itch.io!</s> 使用我們的桌面應用來安裝和管理你的遊戲",
+        "view_something_random": "隨便看看"
     },
     "itchio": "itch.io",
     "misc": {
@@ -278,7 +283,8 @@
             "add_to_collection": "增加到收藏"
         },
         "multiplayer_features": {
-            "local": "單機多人"
+            "local": "單機多人",
+            "server": "多人網絡聯機遊戲"
         },
         "platforms": {
             "web": "網頁"
