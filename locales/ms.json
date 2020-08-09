@@ -329,7 +329,14 @@
         "upload_your_indie_game": "Muat Naik Permainan Indie Anda",
         "account_faq_cta": "<1>Cipta akaun sekarang</1> atau <2>Baca FAQ</2>",
         "upload_a_new_game": "Muat naik permainan baru",
-        "page_header": "Cipta halaman sendiri untuk mengagihkan atau menjual permainan indie anda dengan segera"
+        "page_header": "Cipta halaman sendiri untuk mengagihkan atau menjual permainan indie anda dengan segera",
+        "track_your_game_description": "Perhatikan bagaimana orang melihat permainan anda dengan analitik terperinci yang menukar pandangan, muat turun dan pembelian. Ingin menjalankan promosi? Hasilkan kekunci muat turun untuk memberi akses ke permainan anda.",
+        "upload_your_game_description": "Muat naik permainan indie anda di <s>itch.io</s> secara percuma. Kami hoskan permainan anda, bersama-sama dengan tangkapan skrin permainan anda dan lain-lain muat turun. Muat turun anda sentiasa tersedia dan sentiasa pantas.",
+        "browser_game_description": "Buat duit dari permainan penyemak imbas anda dengan menghoskannya di <s>itch.io</s>. Permainan anda akan disiarkan di penyemak imbas dan pemain boleh menderma apa-apa jumlah yang mereka mahu jika mereka sukakannya.",
+        "host_a_sale_description": "Promosikan permainan anda dan dapatkan lebih pembelian dengan menawarkan harga berdiskaun untuk sebarang jangka masa.",
+        "design_your_games_page": "Reka laman anda",
+        "product_summary2": "Anda juga boleh tetapkan harga minima untuk permainan anda, memberi peluang kepada peminat untuk membayar apa yang mereka mahukan untuk permainan anda.",
+        "product_summary1": "<s>itch.io</s> adalah cara mudah untuk mengedar permainan indie online anda secara percuma.  Muat naik fail permainan anda dan tangkapan skrin sekaligus di satu tempat. Reka satu tapak yang disesuaikan di mana permainan anda menjadi tumpuan."
     },
     "user_settings": {
         "profile": {
