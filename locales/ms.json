@@ -310,12 +310,31 @@
     },
     "app": {
         "for_platforms": "Untuk <1>Windows</1>, <2>macOS</2>, dan <3>Linux</3>",
-        "start_download": "Mulakan Muat Turun"
+        "start_download": "Mulakan Muat Turun",
+        "page_title": "Muat turun aplikasi",
+        "community_header": "Sertai komuniti",
+        "download_now": "Muat turun sekarang",
+        "languages_description": "Perisian itch tersedia dari lebih 20 bahasa, atas bantuan komuniti itch.io! <a>Pelajari lebih tentang penterjemahan</a>",
+        "languages_header": "Tersedia dalam bahasa anda",
+        "web_games_header": "Permainan penyemak imbas luar talian",
+        "updates_header": "Sentiasa dikemas kini",
+        "browse_header": "Cari permainan sepertimana yang dikehendaki pencipta",
+        "read_the_app_guide": "Baca panduan aplikasi",
+        "updates": "Pengemaskinian",
+        "contribute_link": "Ingin menyumbang? <a>Lihat sumber di Github</a>",
+        "learn_more_below": "Pelajari lebih dibawah",
+        "more_info_links": "<1>Baca lebih di FAQ</1> atau <2>Baca panduan aplikasi</2>",
+        "summary": "Perisian itch.io, <s>itch</s>, membolehkan anda memuat turun dan main permainan serta perisian dari itch.io. Semua muat turun disimpan di satu tempat dan dikemas kini secara automatik. Akses koleksi dan pembelian anda, atau cari permainan baharu melalui penyemak imbas dalam-perisian.",
+        "tagline": "Pasang, kemas kini dan main permainan indie",
+        "share_message": "itch, perisian desktop untuk permainan indie",
+        "open_source": "Sumber terbuka"
     },
     "search": {
         "view_all_tags": "Tunjukkan semua tag",
         "published_count": "{{count}} projek",
-        "creators": "Pencipta:"
+        "creators": "Pencipta:",
+        "search_results_for_query": "Cari keputusan untuk '{{query}}'",
+        "browse_all_games": "Cari semua permainan"
     },
     "developers": {
         "upload_or_dashboard": "<1>Muat naik permainan baru</1><em>atau</em><2>Pergi ke papan pemuka</2>",
@@ -336,7 +355,8 @@
         "host_a_sale_description": "Promosikan permainan anda dan dapatkan lebih pembelian dengan menawarkan harga berdiskaun untuk sebarang jangka masa.",
         "design_your_games_page": "Reka laman anda",
         "product_summary2": "Anda juga boleh tetapkan harga minima untuk permainan anda, memberi peluang kepada peminat untuk membayar apa yang mereka mahukan untuk permainan anda.",
-        "product_summary1": "<s>itch.io</s> adalah cara mudah untuk mengedar permainan indie online anda secara percuma.  Muat naik fail permainan anda dan tangkapan skrin sekaligus di satu tempat. Reka satu tapak yang disesuaikan di mana permainan anda menjadi tumpuan."
+        "product_summary1": "<s>itch.io</s> adalah cara mudah untuk mengedar permainan indie online anda secara percuma.  Muat naik fail permainan anda dan tangkapan skrin sekaligus di satu tempat. Reka satu tapak yang disesuaikan di mana permainan anda menjadi tumpuan.",
+        "design_your_games_page_description": "Buat laman untuk permainan anda di mana orang membeli atau muat turun permainan anda. Anda pilih warna, fon, imej, dan video. Kerana ia laman permainan anda, anda tidak akan jumpa sesuatu yang anda tidak masukkan."
     },
     "user_settings": {
         "profile": {
@@ -421,5 +441,54 @@
             "classification_field_description": "Apa yang anda muat naik?",
             "classification_field": "Klasifikasi"
         }
+    },
+    "game": {
+        "info_panel": {
+            "languages": "Bahasa",
+            "average_session_duration": "Purata sesi",
+            "asset_license": "Lesen Aset",
+            "code_license": "Lesen",
+            "tags": "Teg",
+            "made_with_tools": "Dibuat dengan",
+            "genre": "Genre",
+            "author": "Pengarang",
+            "authors": "Pengarang",
+            "rating": "Penilaian",
+            "release_date": "Tarikh diterbitkan",
+            "publisher": "Penerbit",
+            "platforms": "Platform",
+            "category": "Kategori",
+            "release_status": "Status",
+            "published_at": "Diterbitkan",
+            "updated_at": "Dikemas kini"
+        },
+        "comments": {
+            "write_your_comment": "Tulis komen…",
+            "post_comment": "Poskan Komen",
+            "log_in_to_leave_comment": "<a>Log masuk dengan itch.io</a> untuk tinggalkan komen.",
+            "click_to_leave_a_comment": "Klik untuk tinggalkan komen...",
+            "leave_a_comment": "Tinggalkan komen",
+            "leave_a_comment_header": "Tinggalkan komen",
+            "comments_header": "Komen"
+        },
+        "development_log_header": "Log pembangunan",
+        "price_or_more": "{{price}} <s>atau lebih</s>",
+        "percent_off": "<s>{{percent}}%</s> Kurang",
+        "on_sale": "Jualan!",
+        "name_your_own_price": "Masukkan harga anda sendiri",
+        "buy_now_button": "Beli Sekarang",
+        "will_be_available_in": "Akan tersedia dalam {{time_remaining}}.",
+        "download_now_button": "Muat turun sekarang",
+        "download_or_claim_button": "Muat turun atau klaim",
+        "also_available_header": "Juga tersedia di",
+        "available_header": "Tersedia di",
+        "download_demo_header": "Muat turun demo",
+        "get_access_preorder": "Anda akan mendapatkan akses kepada fail beriut bila diterbitkan:",
+        "get_access": "Anda akan mendapatkan akses kepada fail berikut:",
+        "download_access": "Klik muat turun sekarang untuk mendapatkan akses kepada fail berikut:",
+        "purchase_header": "Beli",
+        "download_header": "Muat turun",
+        "more_information": "Lebih informasi",
+        "empty_page": "Tiada apa-apa disini..."
     }
 }
