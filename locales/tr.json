@@ -257,7 +257,7 @@
             "jam_submit": "Oyun maratonuna bir oyun gönderebilmek için itch.io'da hesap açmanız gerekiyor.",
             "claim_object": "{{noun}} oyununu sahiplenmek için giriş yapın ya da yeni bir hesap oluşturun.",
             "recent_purchases": "Yakın zamanda satın aldıklarınızı hesabınıza bağlamak için giriş yapın.",
-            "claim_object_title": "{{title}}'ı sahiplenmek için lütfen kaydolun veya giriş yapın."
+            "claim_object_title": "{{title}}'a sahip olmak için lütfen giriş yapın ya da hesap oluşturun."
         },
         "looking_for_something_you_bought": "Satın aldığınız bir şeyi mi arıyorsunuz?",
         "no_account_prompt": "Bir hesabınız yok mu? <1>Hesap oluştur</1>",
@@ -467,7 +467,8 @@
         "remove_item_button": "Kaldır...",
         "remove_confirm": "Bunu koleksiyondan kaldırmak istediğine emin misin",
         "blurb_author_says": "{{author}} diyor ki",
-        "authors": "{{author}} tarafından bir koleksiyon"
+        "authors": "{{author}} tarafından bir koleksiyon",
+        "add_a_blurb": "Tanıtım yazısı ekle"
     },
     "user_register": {
         "create_an_account_on_itchio": "Itch.io'da hesap oluşturun",
@@ -823,6 +824,9 @@
     "stripe_checkout": {
         "edit_saved_cards": "Kayıtlı kartları düzenleyin",
         "choose_a_card": "Bir kart seçin",
-        "payment_error": "Ödemenizi işlerken bir hata oluştu:"
+        "payment_error": "Ödemenizi işlerken bir hata oluştu:",
+        "credit_or_debit_card": "Kredi ya da banka kartı",
+        "gift_instructions": "Bu satınalma hediyedÖdemeden sonra alıcı e-postasını girebilirsiniz.",
+        "password": "Şifre"
     }
 }
