@@ -215,7 +215,7 @@
         "project_visibility": {
             "restricted": "限定公開",
             "published": "公開済み",
-            "draft": "ドラフト",
+            "draft": "非公開",
             "public": "公開"
         },
         "view_more": "もっと見る",
@@ -1070,7 +1070,7 @@
             "admins": "管理者",
             "more": "その他",
             "rewards": "報酬",
-            "interact": "インタラクト",
+            "interact": "交流",
             "distribute": "配布する"
         }
     },
