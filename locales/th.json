@@ -403,7 +403,33 @@
                 "this_is_a_submission_to_jam_title": "นี่คือการส่งไปยัง {{jam_title}}"
             },
             "submission_to_jam": "ส่งไปยัง {{jam_title}}",
-            "rate_for_jam": "คะแนนสำหรับ {{jam_title}}"
+            "rate_for_jam": "คะแนนสำหรับ {{jam_title}}",
+            "ownership": {
+                "you_were_gifted_this": "คุณส่งของขวัญนี้แล้ว",
+                "claimed": "เคลมแล้ว",
+                "you_havent_sent_this_gift_to_anyone_yet": "คุณยังไม่เคยส่งของขวัญนี้ให้ใครเลย",
+                "percent_off": "ลดกว่า {{percent}}%",
+                "download": "ดาวน์โหลด",
+                "send_gift": "ส่งของขวัญ",
+                "you_own_this": "คุณเป็นเจ้าของ"
+            },
+            "related_games_short": "คล้ายกัน",
+            "related_games": "เกมที่คล้ายกัน",
+            "rate_this_noun": "ให้คะแนน{{noun}}นี้",
+            "rate": "คะแนน",
+            "edit_rating": "แก้ไขการให้คะแนน",
+            "edit_your_rating": "แก้ไขการให้คะแนนของคุณ",
+            "devlog": "บันทึกผู้พัฒนา",
+            "community": "ชุมชน",
+            "comments": "ความคิดเห็น",
+            "add_to_collection_short": "คอลแลคชัน",
+            "add_to_collection": "เพิ่มไปยังคอลแลคชัน",
+            "following_username": "กำลังติดตาม {{username}}",
+            "follow_username": "ติดตาม {{username}}",
+            "following": "กำลังติดตาม",
+            "follow": "ติดตาม",
+            "creator": "ผู้สร้างสรรค์",
+            "view_all_by_name": "ดูรายการทั้งหมดจาก {{name}}"
         },
         "download_access": "กดดาวน์โหลดเพื่อเข้าถึงไฟล์ต่อไปนี้:",
         "unavailable": "{{game_noun}} ยังไม่พร้อมให้บริการในขณะนี้",
@@ -414,7 +440,11 @@
         "upload_list": {
             "play_in_browser": "เล่นในเบราว์เซอร์",
             "download": "ดาวน์โหลด",
-            "preorder": "จองล่วงหน้า"
+            "preorder": "จองล่วงหน้า",
+            "empty_message": "ยังไม่มีอะไรให้ดาวน์โหลดในขณะนี้",
+            "this_file_will_be_available_when_the_creator_uploads_it": "ไฟล์นี้จะพร้อมเมื่อผู้สร้างสรรค์อัปโหลด",
+            "version_name": "เวอร์ชัน {{version_name}}",
+            "if_you_pay_price_or_more": "ถ้าคุณจ่าย {{price}} หรือสูงกว่า"
         },
         "community_sticky": "ปักหมุด",
         "post_first_topic": "โพสต์หัวข้อแรก",
