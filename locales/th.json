@@ -400,7 +400,9 @@
     "game": {
         "layout": {
             "jam_submission": {
-                "this_is_a_submission_to_jam_title": "นี่คือการส่งไปยัง {{jam_title}}"
+                "this_is_a_submission_to_jam_title": "นี่คือการส่งไปยัง {{jam_title}}",
+                "you_rated_this_game": "ให้คะแนนเกมนี้แล้ว",
+                "accepting_ratiings": "ในตอนนี้แจมรับการให้คะแนนสำหรับแต่ละการส่ง <a>เรียนรู้เพิ่มเติม</a>"
             },
             "submission_to_jam": "ส่งไปยัง {{jam_title}}",
             "rate_for_jam": "คะแนนสำหรับ {{jam_title}}",
@@ -411,7 +413,9 @@
                 "percent_off": "ลดกว่า {{percent}}%",
                 "download": "ดาวน์โหลด",
                 "send_gift": "ส่งของขวัญ",
-                "you_own_this": "คุณเป็นเจ้าของ"
+                "you_own_this": "คุณเป็นเจ้าของ",
+                "purchased_for_price": "ชำระเงินแล้วในราคา {{price}}",
+                "purchased_in_a_bundle_for_price": "ซื้อบันเดิลแล้วในราคา {{price}}"
             },
             "related_games_short": "คล้ายกัน",
             "related_games": "เกมที่คล้ายกัน",
@@ -429,7 +433,13 @@
             "following": "กำลังติดตาม",
             "follow": "ติดตาม",
             "creator": "ผู้สร้างสรรค์",
-            "view_all_by_name": "ดูรายการทั้งหมดจาก {{name}}"
+            "view_all_by_name": "ดูรายการทั้งหมดจาก {{name}}",
+            "footer": {
+                "updated_date": "อัปเดตล่าสุดเมื่อ {{date}}",
+                "embed": "ฝัง",
+                "report": "รายงาน",
+                "view_all_by_username": "ดูทั้งหมดจาก {{username}}"
+            }
         },
         "download_access": "กดดาวน์โหลดเพื่อเข้าถึงไฟล์ต่อไปนี้:",
         "unavailable": "{{game_noun}} ยังไม่พร้อมให้บริการในขณะนี้",
@@ -505,6 +515,17 @@
         "will_be_available_in": "จะพร้อมในอีก {{time_remaining}}",
         "download_demo_header": "ดาวน์โหลดเกมรุ่นตัวอย่าง",
         "get_access_preorder": "คุณจะได้รับสิทธิ์้เข้าถึงไฟล์ต่อไปนี้เมื่อเกมปล่อยออกมา:",
-        "get_access": "คุณจะได้รับสิทธิ์การเข้าถึงไฟล์ต่อไปนี้:"
+        "get_access": "คุณจะได้รับสิทธิ์การเข้าถึงไฟล์ต่อไปนี้:",
+        "after_download": {
+            "app_learn_more": "<s>ใหม่!</s> แอป itch.io สำหรับเดสก์ทอป เพื่อให้การดาวน์โหลดและจัดการไลบรารีของคุณเป็นไปอย่างราบรื่น <a>เรียนรู้เพิ่มเติม</a>",
+            "powered_by": "<s>ขับเคลื่อนโดย</s> {{itchio_logo}}",
+            "more_from_itchio_header": "ดูเพิ่มเติมจาก itch.io",
+            "check_out_more_from_jam_title": "ลองดูเพิ่มเติมจาก {{jam_title}}",
+            "check_popup_blocker": "การดาวโหลดจะเริ่มต้นเร็ว ๆ นี้ หากไม่มีอะไรเกิดขึ้น กรุณาตรวจสอบตัวป้องกันป๊อปอัปบนเบราว์เซอร์ของคุณ",
+            "more_from_creator": "ดูอย่างอื่นจากผู้สร้างสรรค์คนเดียวกันได้บนหน้าของพวกเขา: {{profile}}",
+            "thanks_project_author": "ขอขอบคุณที่ดาวน์โหลด {{project}} โดย {{author}}",
+            "thanks_for_downloading_title": "ขอขอบคุณ",
+            "share_this_project": "แบ่งปันโครงการนี้"
+        }
     }
 }
