@@ -448,6 +448,9 @@
         "more_info_links": "<1>Přečtěte si více ve FAQ</1> nebo <2>Přečtěte si manuál</2>",
         "summary": "Aplikace itch.io, <s>itch</s>, umožní vám bez námahy stahovat a spouštět hry z itch.io. Všechny vaše stažení jsou uloženy na jednom místě a automaticky aktualizované. Spravujte vaše kolekce a nákupy, nebo hledejte nové hry s pomocí vestavěného prohlížeče.",
         "for_platforms": "Pro <1>Windows</1>, <2>macOS</2> a <3>Linux</3>",
-        "tagline": "Stahujte, aktualizujte a hrajte indie hry"
+        "tagline": "Stahujte, aktualizujte a hrajte indie hry",
+        "start_download": "Začít stahovat",
+        "share_message": "itch, desktopová applikace pro indie hry.",
+        "open_source": "Otevřený zdroj"
     }
 }
