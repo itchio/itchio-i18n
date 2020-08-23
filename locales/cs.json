@@ -123,7 +123,97 @@
     },
     "game": {
         "unavailable": "{{game_noun}} je momentálně nedostupný",
-        "download_access": "Kliknutím na \"Stáhnout nyní\" získáš přístup k následujícím souborům:"
+        "download_access": "Kliknutím na \"Stáhnout nyní\" získáš přístup k následujícím souborům:",
+        "after_download": {
+            "app_learn_more": "<s>Novinka!</s> Vyzkoušejte itch.io desktopovou aplikaci na stahování a správu vaší knihovny. <a>Zjistit více</a>",
+            "powered_by": "<s>Poháněno</s> {{itchio_logo}}",
+            "see_everything": "Zobrazit vše",
+            "view_all_from_jam": "Zobrazit vše z tohoto jamu",
+            "check_out_more_from_jam_title": "Podívejte se na další informace z {{jam_title}}",
+            "check_popup_blocker": "Stahování by mělo začít na okamžik. Pokud ne, zkontrolujte blokování vyskakovacích oken.",
+            "more_from_creator": "Více od tohoto tvůrce můžete najít na jeho stránce: {{profile}}.",
+            "thanks_project_author": "Děkujeme za stažení {{project}} od {{author}}.",
+            "thanks_for_downloading_title": "Děkujeme za stažení",
+            "share_this_project": "Sdílet tento projekt"
+        },
+        "layout": {
+            "jam_submission": {
+                "rating_instructions": "Ohodnoťte a komentujte tento vstup pro jam tím, že navštívíte stránku předložení s pomocí odkazu výše.",
+                "now_accepting_ratings": "Jam právě přímá hodnocení pro vstupy.",
+                "you_rated_this_game": "Ohodnotili jste tuto hru",
+                "accepting_ratiings": "Jam právě přímá hodnocení pro předložené hry. <a>Dozvědět se více</a>",
+                "view_the_submission_page": "Zobrazit stránku předložení",
+                "this_is_a_submission_to_jam_title": "Toto bylo předloženo do {{jam_title}}"
+            },
+            "footer": {
+                "updated_date": "Aktualizováno {{date}}",
+                "embed": "Vložit",
+                "view_all_by_username": "Zobrazit vše od {{username}}"
+            },
+            "ownership": {
+                "purchased_in_a_bundle_for_price": "Balíček zakoupen za {{price}}",
+                "claimed": "Vyzvednuto",
+                "you_havent_sent_this_gift_to_anyone_yet": "Tento dárek jste ještě nikomu neposlali",
+                "percent_off": "-{{percent}}%",
+                "download": "Stáhnout",
+                "send_gift": "Poslat dárek",
+                "you_own_this": "Tuto položku vlastníte"
+            },
+            "submission_to_jam": "Podání do {{jam_title}}",
+            "rate_for_jam": "Ohodnotit pro {{jam_title}}",
+            "rate_this_noun": "Ohodnotit {{noun}}",
+            "rate": "Ohodnotit",
+            "edit_rating": "Upravit hodnocení",
+            "edit_your_rating": "Upravit vaše hodnocení",
+            "devlog": "Vývojářsky deník",
+            "view_all_by_name": "Zobrazit vše od {{name}}"
+        },
+        "upload_list": {
+            "empty_message": "Zatím není k dispozici nic ke stažení.",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Tento soubor bude k dispozici, jakmile jej tvůrce nahraje"
+        },
+        "post_a_new_topic": "Zadejte nové téma",
+        "info_panel": {
+            "inputs": "Vstupy",
+            "average_session_duration": "Průměrná relace",
+            "asset_license": "Licence zdrojů",
+            "release_date": "Datum vydání",
+            "publisher": "Vydavatel",
+            "published_at": "Publikováno",
+            "updated_at": "Aktualizováno"
+        },
+        "comments": {
+            "write_your_comment": "Napište komentář …",
+            "post_comment": "Přidat komentář",
+            "log_in_to_leave_comment": "<a>Přihlaste se přes itch.io</a> aby jste mohli napsat komentář.",
+            "click_to_leave_a_comment": "Kliknutím přidejte komentář...",
+            "leave_a_comment": "Zanechat komentář",
+            "leave_a_comment_header": "Zanechat komentář",
+            "comments_header": "Komentáře"
+        },
+        "empty_page_no_uploads": "Tvůrce zatím nic nenahrál ...",
+        "donate_button": "Podpořte {{noun}}",
+        "steam_key_bundle_disclaimer": "(Pozn.: Steam klíč není součástí {{bundle_title}})",
+        "devlog_view_all_posts": "Zobrazit všechny příspěvky",
+        "in_order_to_access": "Chcete-li získat přístup k {{noun}}, musíte si jej zakoupit za minimální cenu {{price}} nebo více.",
+        "development_log_header": "Vývojový deník",
+        "price_or_more": "{{price}} <s>nebo více</s>",
+        "percent_off": "<s>-{{percent}}%</s>",
+        "on_sale": "Ve slevě!",
+        "buy_now_button": "Koupit nyní",
+        "preorder_button": "Předobjednat nyní",
+        "download_now_button": "Stáhnout teď",
+        "will_be_available_in": "K dispozici za {{time_remaining}}.",
+        "also_available_header": "Také dostupné na",
+        "available_header": "Dostupné na",
+        "download_demo_header": "Stáhnout demo",
+        "get_access_preorder": "Získáte přístup k následujícím souborům až budou vydány:",
+        "get_access": "Získáte přístup k následujícím souborům:",
+        "purchase_header": "Koupit",
+        "download_header": "Stáhnout",
+        "install_instructions": "Pokyny k instalaci",
+        "more_information": "Více informací",
+        "empty_page": "Zdá se, že tu nic není ..."
     },
     "misc": {
         "classifications": {
@@ -317,7 +407,7 @@
         "creators": "Tvůrci:",
         "view_all_tags": "Zobrazit všechny štítky",
         "browse_all_games": "Procházet všechny hry",
-        "search_results_for_query": "Výsledky vyhledávání pro  '{{query}}'"
+        "search_results_for_query": "Výsledky vyhledávání pro '{{query}}'"
     },
     "developers": {
         "create_account_or_login": "<1>Vytvořit účet</1> <em>nebo</em> <2>Přihlásit se</2>",
@@ -339,5 +429,25 @@
         "share_message": "itch.io je jednoduchý způsob jak zdarma distribuovat své nezávislé hry online.",
         "upload_or_dashboard": "<1>Nahrát novou hru</1> <em>nebo</em> <2>Jít na nástěnku</2>",
         "track_your_game_description": "Mějte přehled o tom, jak lidé sledují vaší hru, s podrobnou analytikou zobrazení, stažení a nákupů. Chcete spustit propagaci ? Vygenerujte klíče ke stažení, které lidem umožní přístup k vaší hře."
+    },
+    "app": {
+        "meta_description": "itch, nejlepší způsob stahování a hraní indie her. Stahuj hry zdarma a spravuj svojí knihovnu ze svého počítače. Nyní dostupné pro Windows, macOS a Linux.",
+        "page_title": "Stáhnout aplikaci",
+        "community_description": "Zjistěte více o vývoji aplikace <1>v naší komunitě</1>. Sdílejte požadavky na nové funkce a zpětnou vazbu s ostatními uživateli itch.io. Pokud jsi programátor, určitě rád uslyšíš, že celý projekt je <2>open source na GitHubu</2>, těšíme se na tvoje pull requesty.",
+        "community_header": "Zapoj se do komunity",
+        "download_now": "Stáhnout teď",
+        "languages_description": "Naše aplikace je dostupná ve více než 20ti jazycích, díky naší komunitě! <a>Dozvědět se více o překladu</a>",
+        "languages_header": "Dostupné ve vašem jazyce",
+        "updates_description": "Ne jenom hry se automaticky aktualizují, aplikace se sama změní, když vydáme nové funkce. Hry využívající naše nové nástroje příkazové řádky budou generovat <em>delta balíčky</em>, což znamená, že stáhnete pouze to, co se změnilo.",
+        "updates_header": "Vždy aktualizováno",
+        "browse_description": "Na itch.io můžou tvůrci ovlivnit, jak vypadá stránka jejich projektu. Zabudovaný prohlížeč vám umožní stahovat a instalovat hry, zatím co budete prozkoumávat <a>jedinečné vzhledy stránek našich tvůrců</a>.",
+        "read_the_app_guide": "Přečtěte si průvodce aplikací",
+        "updates": "Aktualizace",
+        "contribute_link": "Chcete přispět? <a>Zobrazit zdroj na GitHubu</a>",
+        "learn_more_below": "Více informací níže",
+        "more_info_links": "<1>Přečtěte si více ve FAQ</1> nebo <2>Přečtěte si manuál</2>",
+        "summary": "Aplikace itch.io, <s>itch</s>, umožní vám bez námahy stahovat a spouštět hry z itch.io. Všechny vaše stažení jsou uloženy na jednom místě a automaticky aktualizované. Spravujte vaše kolekce a nákupy, nebo hledejte nové hry s pomocí vestavěného prohlížeče.",
+        "for_platforms": "Pro <1>Windows</1>, <2>macOS</2> a <3>Linux</3>",
+        "tagline": "Stahujte, aktualizujte a hrajte indie hry"
     }
 }
