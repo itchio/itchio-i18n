@@ -314,7 +314,8 @@
         "published_count_0": "{{count}} projekt",
         "published_count_1": "{{count}} projekty",
         "published_count_2": "{{count}} projektů",
-        "creators": "Tvůrci:"
+        "creators": "Tvůrci:",
+        "view_all_tags": "Zobrazit všechny štítky"
     },
     "developers": {
         "create_account_or_login": "<1>Vytvořit účet</1> <em>nebo</em> <2>Přihlásit se</2>",
@@ -334,6 +335,7 @@
         "upload_your_game_description": "Svou nezávislou hru můžete na <s>itch.io</s> nahrát zdarma. My se postaráme o hosting, a to včetně obrázků ze hry a dalších souborů, které budete chtít nabídnout ke stažení. Rychlou dostupnost garantujeme.",
         "learn_more_about": "Zjistit více o:",
         "share_message": "itch.io je jednoduchý způsob jak zdarma distribuovat své nezávislé hry online.",
-        "upload_or_dashboard": "<1>Nahrát novou hru</1> <em>nebo</em> <2>Jít na nástěnku</2>"
+        "upload_or_dashboard": "<1>Nahrát novou hru</1> <em>nebo</em> <2>Jít na nástěnku</2>",
+        "track_your_game_description": "Mějte přehled o tom, jak lidé sledují vaší hru, s podrobnou analytikou zobrazení, stažení a nákupů. Chcete spustit propagaci ? Vygenerujte klíče ke stažení, které lidem umožní přístup k vaší hře."
     }
 }
