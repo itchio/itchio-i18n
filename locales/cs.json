@@ -148,7 +148,8 @@
             "footer": {
                 "updated_date": "Aktualizováno {{date}}",
                 "embed": "Vložit",
-                "view_all_by_username": "Zobrazit vše od {{username}}"
+                "view_all_by_username": "Zobrazit vše od {{username}}",
+                "report": "Nahlásit"
             },
             "ownership": {
                 "purchased_in_a_bundle_for_price": "Balíček zakoupen za {{price}}",
@@ -157,7 +158,8 @@
                 "percent_off": "-{{percent}}%",
                 "download": "Stáhnout",
                 "send_gift": "Poslat dárek",
-                "you_own_this": "Tuto položku vlastníte"
+                "you_own_this": "Tuto položku vlastníte",
+                "purchased_for_price": "Zakoupeno za {{price}}"
             },
             "submission_to_jam": "Podání do {{jam_title}}",
             "rate_for_jam": "Ohodnotit pro {{jam_title}}",
@@ -166,11 +168,27 @@
             "edit_rating": "Upravit hodnocení",
             "edit_your_rating": "Upravit vaše hodnocení",
             "devlog": "Vývojářsky deník",
-            "view_all_by_name": "Zobrazit vše od {{name}}"
+            "view_all_by_name": "Zobrazit vše od {{name}}",
+            "related_games_short": "Související",
+            "related_games": "Související hry",
+            "community": "Komunita",
+            "comments": "Komentáře",
+            "add_to_collection_short": "Kolekce",
+            "add_to_collection": "Přidat do kolekce",
+            "following_username": "Sleduji {{username}}",
+            "follow_username": "Sledovat {{username}}",
+            "following": "Sleduji",
+            "follow": "Sledovat",
+            "creator": "Tvůrce"
         },
         "upload_list": {
             "empty_message": "Zatím není k dispozici nic ke stažení.",
-            "this_file_will_be_available_when_the_creator_uploads_it": "Tento soubor bude k dispozici, jakmile jej tvůrce nahraje"
+            "this_file_will_be_available_when_the_creator_uploads_it": "Tento soubor bude k dispozici, jakmile jej tvůrce nahraje",
+            "version_name": "Verze {{version_name}}",
+            "if_you_pay_price_or_more": "Jestliže zaplatíte {{price}} nebo více",
+            "play_in_browser": "Hrát v prohlížeči",
+            "download": "Stáhnout",
+            "preorder": "Předobjednat"
         },
         "post_a_new_topic": "Zadejte nové téma",
         "info_panel": {
@@ -180,7 +198,24 @@
             "release_date": "Datum vydání",
             "publisher": "Vydavatel",
             "published_at": "Publikováno",
-            "updated_at": "Aktualizováno"
+            "updated_at": "Aktualizováno",
+            "mentions": "Zmínky",
+            "links": "Odkazy",
+            "singleplayer": "Hra jednoho hráče",
+            "player_count": "Počet hráčů",
+            "multiplayer": "Hra více hráčů",
+            "accessibility": "Přístupnost",
+            "languages": "Jazyky",
+            "code_license": "Licence",
+            "tags": "Štítky",
+            "made_with_tools": "Vyrobeno s",
+            "genre": "Žánr",
+            "author": "Autor",
+            "authors": "Autoři",
+            "rating": "Hodnocení",
+            "platforms": "Platformy",
+            "category": "Kategorie",
+            "release_status": "Stav"
         },
         "comments": {
             "write_your_comment": "Napište komentář …",
@@ -213,7 +248,13 @@
         "download_header": "Stáhnout",
         "install_instructions": "Pokyny k instalaci",
         "more_information": "Více informací",
-        "empty_page": "Zdá se, že tu nic není ..."
+        "empty_page": "Zdá se, že tu nic není ...",
+        "community_posts_count_0": "příspěvek",
+        "community_posts_count_1": "příspěvky",
+        "community_posts_count_2": "příspěvků",
+        "community_view_all_posts": "Zobrazit všechny příspěvky",
+        "join_the_community": "Připojit se ke komunitě",
+        "community_header": "Komunita"
     },
     "misc": {
         "classifications": {
