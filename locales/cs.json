@@ -315,7 +315,8 @@
         "published_count_1": "{{count}} projekty",
         "published_count_2": "{{count}} projektů",
         "creators": "Tvůrci:",
-        "view_all_tags": "Zobrazit všechny štítky"
+        "view_all_tags": "Zobrazit všechny štítky",
+        "browse_all_games": "Procházet všechny hry"
     },
     "developers": {
         "create_account_or_login": "<1>Vytvořit účet</1> <em>nebo</em> <2>Přihlásit se</2>",
