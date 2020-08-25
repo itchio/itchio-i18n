@@ -558,7 +558,7 @@
         "your_email_address": "อีเมลของคุณ",
         "download_this_product_by_purchasing_it_for": "ดาวน์โหลดผลิตภัณฑ์นี้โดยซื้อในราคา {{price}} ขึ้นไป",
         "preorder_this_product_by_purchasing_it_for": "สั่งซื้อผลิตภัณฑ์นี้ล่วงหน้าโดยซื้อในราคา {{price}} ขึ้นไป",
-        "includes_steam_key": "คุณจะได้รับรหัส Steam พร้อมกับการสั่งซื้อของคุณ",
+        "includes_steam_key": "คุณจะได้รับรหัส Steamคีย์ พร้อมกับการสั่งซื้อของคุณ",
         "no_thanks_just_take_me_to_the_downloads": "ไม่เป็นไร พาฉันไปที่หน้าดาวน์โหลด",
         "free_pay_what_you_want": "โครงการนี้ไม่มีค่าใช้จ่าย แต่ผู้สร้างยอมรับการสนับสนุนของคุณโดยให้คุณจ่ายในสิ่งที่คุณคิดว่ายุติธรรม",
         "buy_as_bundle_plural": "คุณสามารถซื้อผลิตภัณฑ์นี้โดยเป็นส่วนหนึ่งของชุดสินค้า {{count}} รายการในราคา {{price}}:",
