@@ -402,7 +402,10 @@
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "นี่คือการส่งไปยัง {{jam_title}}",
                 "you_rated_this_game": "ให้คะแนนเกมนี้แล้ว",
-                "accepting_ratiings": "ในตอนนี้แจมรับการให้คะแนนสำหรับแต่ละการส่ง <a>เรียนรู้เพิ่มเติม</a>"
+                "accepting_ratiings": "ในตอนนี้แจมรับการให้คะแนนสำหรับแต่ละการส่ง <a>เรียนรู้เพิ่มเติม</a>",
+                "rating_instructions": "ให้คะแนนและแสดงความคิดเห็นในรายการนี้สำหรับ jam โดยไปที่หน้าการส่งจากลิงค์ด้านบน",
+                "now_accepting_ratings": "Jam นี้กำลังรับคะแนนการจัดอันดับรายการอยู่",
+                "view_the_submission_page": "ดูหน้าการส่ง"
             },
             "submission_to_jam": "ส่งไปยัง {{jam_title}}",
             "rate_for_jam": "คะแนนสำหรับ {{jam_title}}",
@@ -524,8 +527,120 @@
             "check_popup_blocker": "การดาวโหลดจะเริ่มต้นเร็ว ๆ นี้ หากไม่มีอะไรเกิดขึ้น กรุณาตรวจสอบตัวป้องกันป๊อปอัปบนเบราว์เซอร์ของคุณ",
             "more_from_creator": "ดูอย่างอื่นจากผู้สร้างสรรค์คนเดียวกันได้บนหน้าของพวกเขา: {{profile}}",
             "thanks_project_author": "ขอขอบคุณที่ดาวน์โหลด {{project}} โดย {{author}}",
-            "thanks_for_downloading_title": "ขอขอบคุณ",
+            "thanks_for_downloading_title": "ขอบคุณที่ดาวน์โหลด",
             "share_this_project": "แบ่งปันโครงการนี้"
+        },
+        "password_required": {
+            "header": "ต้องใช้รหัสผ่านเพื่อดูหน้านี้"
+        },
+        "report_form": {
+            "reason_other": "อื่น ๆ",
+            "reason_label": "เหตุผล",
+            "description_label": "คำอธิบาย",
+            "report_received_header": "ได้รับรายงานแล้ว",
+            "title": "รายงานเพจ '{{page_title}}'",
+            "submit_report_button": "ส่งรายงาน",
+            "email_creator_link": "ส่งอีเมลถึงผู้สร้าง",
+            "support_page_link": "ไปที่หน้าการช่วยเหลือ"
+        },
+        "name_your_own_price": "ตั้งชื่อราคาของคุณ",
+        "also_available_header": "นอกจากนี้ยังมีให้โหลดบน",
+        "available_header": "มีให้โหลดบน",
+        "purchase_header": "ซื้อ"
+    },
+    "buy_form": {
+        "this_purchase_is_a_gift": "การซื้อนี้เป็นของขวัญ",
+        "agree_to_terms": "การชำระเงินเสร็จสมบูรณ์แสดงว่าคุณยอมรับ <1> ข้อกำหนดในการให้บริการ </1> และ <2> นโยบายความเป็นส่วนตัว </2> ของ itch.io",
+        "included_files": "ไฟล์ที่รวมอยู่ด้วย",
+        "i_already_paid_for_this": "ฉันจ่ายเงินไปแล้วนะ...",
+        "gift_email_instructions": "คุณจะสามารถเลือกอีเมลเพื่อส่งของขวัญให้หลังจากที่คุณชำระเงินแล้ว",
+        "email_address_description": "การยืนยันการชำระเงินของคุณจะถูกส่งไปที่นี่",
+        "your_email_address": "อีเมลของคุณ",
+        "download_this_product_by_purchasing_it_for": "ดาวน์โหลดผลิตภัณฑ์นี้โดยซื้อในราคา {{price}} ขึ้นไป",
+        "preorder_this_product_by_purchasing_it_for": "สั่งซื้อผลิตภัณฑ์นี้ล่วงหน้าโดยซื้อในราคา {{price}} ขึ้นไป",
+        "includes_steam_key": "คุณจะได้รับรหัส Steam พร้อมกับการสั่งซื้อของคุณ",
+        "no_thanks_just_take_me_to_the_downloads": "ไม่เป็นไร พาฉันไปที่หน้าดาวน์โหลด",
+        "free_pay_what_you_want": "โครงการนี้ไม่มีค่าใช้จ่าย แต่ผู้สร้างยอมรับการสนับสนุนของคุณโดยให้คุณจ่ายในสิ่งที่คุณคิดว่ายุติธรรม",
+        "buy_as_bundle_plural": "คุณสามารถซื้อผลิตภัณฑ์นี้โดยเป็นส่วนหนึ่งของชุดสินค้า {{count}} รายการในราคา {{price}}:",
+        "also_buy_as_bundle_plural": "คุณยังสามารถซื้อผลิตภัณฑ์นี้โดยเป็นส่วนหนึ่งของชุดสินค้า {{count}} รายการในราคา {{price}}:",
+        "percent_off_until": "การซื้อทั้งหมดจะลด <s> {{rate}}% </s> จนถึงวันที่ {{end_date}}",
+        "support_message": "สนับสนุนการพัฒนาโครงการนี้โดยการบริจาค",
+        "on_sale_notice": "สินค้านี้กำลังลดราคาอยู่",
+        "sold_out_notice": "สินค้านี้จำหน่ายหมดแล้วโปรดกลับมาตรวจสอบในภายหลัง",
+        "preorder_title": "สั่งซื้อ \"{{title}}\" ล่วงหน้า",
+        "buy_title": "ซื้อ \"{{title}}\"",
+        "download_title": "ดาวน์โหลด \"{{title}}\""
+    },
+    "community": {
+        "topic_list": {
+            "list_header_last_post": "โพสต์สุดท้าย",
+            "list_header_topic_title": "หัวข้อ",
+            "locked_flag": "ถูกล็อค",
+            "sticky_flag": "หัวข้อเหนียว",
+            "new_flag": "ใหม่",
+            "started_by_author": "เริ่มโดย {{topic_author}}",
+            "replies_count": "ตอบกลับ <s> {{count}} </s> ครั้ง",
+            "no_posts_yet": "ยังไม่มีโพสต์",
+            "views_count": "ดู <s> {{count}} </s> ครั้ง"
+        },
+        "category": {
+            "by_topic_author": "โดย {{username}}",
+            "archived_flag": "เก็บถาวร",
+            "new_flag": "ใหม่",
+            "list_header_last_topic": "หัวข้อสุดท้าย",
+            "recent_posts_header": "โพสต์ล่าสุด",
+            "rules_header": "กฎระเบียบ",
+            "stats": {
+                "topics": "หัวข้อ"
+            },
+            "unsubscribe_from_topics": "ยกเลิกรับข่าวสาร",
+            "subscribe_to_new_topics": "สมัครรับข่าวหัวข้อใหม่",
+            "search_community_label": "ค้นหาชุมชน",
+            "there_arent_any_topics_yet": "ยังไม่มีหัวข้อ",
+            "empty_message": "ไม่มีหัวข้อ",
+            "create_first_topic_button": "สร้างหัวข้อแรก",
+            "topics_count": "{{count}} หัวข้อ"
+        },
+        "misc": {
+            "new_topic_button": "หัวข้อใหม่"
+        },
+        "new_topic": {
+            "page_title": "โพสต์หัวข้อใหม่",
+            "your_moderators_are": "itch.io ไม่ได้ดูแลบอร์ดเหล่านี้ ผู้ดูแลของคุณคือ:",
+            "topic_tag": "แท็ก",
+            "body": "เนื้อหา",
+            "title": "หัวข้อ",
+            "see_community_guidelines": "ดู <a> หลักเกณฑ์ของชุมชน </a> สำหรับนโยบายชุมชน itch.io"
+        },
+        "topic": {
+            "create_related_topic": "หากคุณมีสิ่งที่เกี่ยวข้องกับโพสต์ให้ลอง <a> สร้างหัวข้อใน {{category_name}} </a>",
+            "topic_is_autoarchived": "หัวข้อนี้ถูกเก็บถาวรโดยอัตโนมัติและไม่สามารถโพสต์ได้อีกต่อไปเนื่องจากไม่มีการโพสต์ใด ๆ มาระยะเวลานานแล้ว",
+            "this_topic_was_locked_by_username": "หัวข้อนี้ถูกล็อกโดย {{username}}",
+            "this_topic_is_locked": "หัวข้อนี้ถูกล็อก",
+            "last_page": "หน้าสุดท้าย",
+            "first_page": "หน้าแรก",
+            "previous_page": "หน้าที่แล้ว",
+            "next_page": "หน้าถัดไป",
+            "a_topic_by_username_created_time_ago": "หัวข้อโดย {{username}} สร้างเมื่อ {{time_ago}}",
+            "views_count": "จำนวนการดู: {{count}}",
+            "replies_count": "จำนวนตอบกลับ: {{count}}",
+            "moderation": "ผู้ดูแล",
+            "locked": "ถูกล็อค",
+            "sticky": "หัวข้อเหนียว",
+            "return_to_topic_list": "กลับไปที่รายการหัวข้อ",
+            "subscribe": "สมัครรับข่าวสาร",
+            "unsubscribe": "ยกเลิกรับข่าวสาร",
+            "bookmark": "บุ๊คมาร์ค",
+            "remove_bookmark": "ลบบุ๊คมาร์ค",
+            "new_reply": "ตอบกลับใหม่",
+            "this_reply_will_go_to_the_topic_author": "คำตอบนี้จะส่งไปยังผู้เขียนหัวข้อ {{username}}",
+            "this_reply_will_go_to_yourself": "คำตอบนี้จะไปเอง",
+            "reply_to_someone_else": "ต้องการตอบกลับคนอื่น? คลิก <s> ตอบกลับ </s> ใต้โพสต์คนนั้น",
+            "join_the_discussion": "เข้าร่วมการอภิปราย เข้าสู่ระบบหรือสร้างบัญชี itch.io ฟรีเพื่อดำเนินการต่อ",
+            "unlisted_topic_notice": "<s> ผู้ดูแลไม่ให้แสดงหัวข้อนี้ </s> หัวข้อนี้จะไม่ปรากฏในรายการหัวข้อ แต่คุณยังสามารถตอบกลับและแก้ไขได้",
+            "log_in_to_reply": "เข้าสู่ระบบเพื่อตอบกลับ",
+            "reply": "ตอบกลับ",
+            "topic_is_archived": "หัวข้อนี้ถูกเก็บถาวรและไม่สามารถโพสต์ได้อีกต่อไป"
         }
     }
 }
