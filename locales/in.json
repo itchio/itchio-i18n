@@ -93,7 +93,8 @@
             "community": "Komunitas",
             "all_games": "Semua Game",
             "devlogs": "Devlog",
-            "bundles": "Bundel"
+            "bundles": "Bundel",
+            "game_jams": "Game jam"
         },
         "browse_content_type": "Cari {{content_type}}",
         "view_all_platforms": "Lihat semua platform",
