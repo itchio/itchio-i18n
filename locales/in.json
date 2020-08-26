@@ -42,7 +42,7 @@
             "search_placeholder": "Cari gim atau kreator",
             "upload_game": "Unggah Gim",
             "sales": "Obral",
-            "feed_unseen_count": "{{count}} baru"
+            "feed_unseen_count": "{{count}} umpan baru"
         },
         "footer": {
             "cookies": "Kuki",
@@ -77,7 +77,7 @@
         "from_the_blog": "Dari blog",
         "view_all_games": "Tampilkan semua gim",
         "games_by_price": "Gim menurut harga",
-        "browse": "Jelajahi",
+        "browse": "Telusur",
         "view_all_games_on_sale": "Tampilkan semua gim yang sedang dalam obral",
         "people_to_follow": "Orang Untuk Diikuti",
         "fresh_games_description": "Selalu diperbaharui dengan gim terbaru di itch.io",
@@ -91,13 +91,16 @@
         },
         "nav": {
             "community": "Komunitas",
-            "all_games": "Semua Game"
+            "all_games": "Semua Game",
+            "devlogs": "Devlog",
+            "bundles": "Bundel"
         },
         "browse_content_type": "Cari {{content_type}}",
         "view_all_platforms": "Lihat semua platform",
         "latest_featured_games": "Game Pilihan Terbaru",
         "view_all_on_sale": "Lihat semua yang sedang di diskon",
-        "more_featured_games": "Lebih banyak game pilihan"
+        "more_featured_games": "Lebih banyak game pilihan",
+        "html5_games": "Game HTML5"
     },
     "misc": {
         "forms": {
