@@ -121,7 +121,7 @@
         "inputs": {
             "phone": "Ponsel",
             "touchscreen": "Layar sentuh",
-            "mouse": "Tetikus",
+            "mouse": "Mouse",
             "keyboard": "Keyboard"
         },
         "multiplayer_features": {
