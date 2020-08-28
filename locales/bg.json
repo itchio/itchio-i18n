@@ -788,8 +788,15 @@
             "thank_you_for_donating": "Благодарим Ви за дарението за „{{product_title}}“.",
             "thank_you_for_donating_author": "Благодарим Ви за дарението за „{{product_title}}“ от {{author}}.",
             "unique_url_for_your_payment": "Тази страница има уникален адрес, свързан с Вашето плащане.",
-            "access_latest_files_from_this_page": "Винаги можете да свалите най-новите файлове от тази страница."
-        }
+            "access_latest_files_from_this_page": "Винаги можете да свалите най-новите файлове от тази страница.",
+            "linked_user_message": "Тази покупка е свързана с акаунта {{username}}.",
+            "percent_off": "-{{percent}}%",
+            "payment_summary_with_email": "Вие сте платили {{payment_price}} за това на {{payment_date}}, ползвайки е-пощата {{email_address}}.",
+            "payment_summary": "Вие сте заплатили {{payment_price}} за това на {{payment_date}}.",
+            "receipt_support_information": "Трябва да сте получили и е-писмо с връзка към тази страница. Ако някога загубите адреса на тази страница, можете да помолите отново да получите е-писмото с чрез <a>страницата на поддръжката</a>."
+        },
+        "access_it": "Получаване на достъп",
+        "access_comes_with_key": "С достъпа си получавате ключ за {{key_type}}!"
     },
     "collection": {
         "authors": "колекция от {{author}}",
@@ -830,8 +837,25 @@
                 "ranked_criteria_vote_count_plural": "{{ordinal_rank}} място по {{criteria_name}} с {{count}} гласа",
                 "ranked_criteria_rating_count": "{{ordinal_rank}} място по {{criteria_name}} с {{count}} оценка",
                 "ranked_criteria_rating_count_plural": "{{ordinal_rank}} място по {{criteria_name}} с {{count}} оценки",
-                "ranked_score": "Резултат: {{score}}"
-            }
+                "ranked_score": "Резултат: {{score}}",
+                "view_submission_page": "Преглед на страницата с участващите проекти",
+                "by_author": "от {{author}}"
+            },
+            "sort_overall": "Общо",
+            "sort_by_criteria": "По критерий",
+            "no_rankings_available": "Няма оценки",
+            "empty_page_message": "Няма резултати на тази страница",
+            "empty_message": "Резултатите все още не са налични, върнете се по-късно",
+            "average_and_median_results": "Средният брой оценки на игра беше <s>{{average_ratings}}</s>, а медианата беше <s>{{median_ratings}}</s>.",
+            "ratings_given_submissions_count": "<s>{{count}} оценка</s> беше дадена на <s>{{submission_count}} участващи проекта</s> ({{percent}}%) между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "<s>{{count}} оценки</s> бяха дадени на <s>{{submission_count}} участващи проекта</s> ({{percent}}%) между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_count": "<s>{{count}} оценка</s> беше дадена между {{vote_start_date}} и {{vote_end_date}}.",
+            "ratings_given_count_plural": "<s>{{count}} оценки</s> бяха дадени между {{vote_start_date}} и {{vote_end_date}}.",
+            "votes_cast_count": "<s>{{count}}</s> глас беше даден между {{vote_start_date}} и {{vote_end_date}}.",
+            "votes_cast_count_plural": "<s>{{count}}</s> гласа бяха дадени между {{vote_start_date}} и {{vote_end_date}}.",
+            "submissions_summary": "<s>{{count}} проект</s> беше подаден за участие между {{start_date}} и {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} проекта</s> бяха подадени за участие между {{start_date}} и {{end_date}}.",
+            "results": "Резултати"
         },
         "submission": {
             "results_table_criteria": "Критерий",
@@ -873,17 +897,33 @@
                 "other_participants_can_rate": "Другите участници в конкурса ще могат да оценят Вашия проект.",
                 "you_will_be_able_to_rate_if_you_submit": "Ще можете да оцените този проект, ако и Вие участвате със свой в конкурса.",
                 "owner_message": "Това е Вашият проект и не можете да го оцените. Другите участници в конкурса ще могат да го оценят тук.",
-                "not_open_yet": "Времето за подаване на проектите в този конкурс все още не е приключило. Оценяването започва на {{start_date}}."
+                "not_open_yet": "Времето за подаване на проектите в този конкурс все още не е приключило. Оценяването започва на {{start_date}}.",
+                "rate_this_submission": "Оценяване на този проект",
+                "vote_for_this_submission": "Гласуване за този проект"
             },
             "score_information": "Крайният резултат се оформя от междинния такъв въз основа на медианата от оценките за игрите в конкурса.",
-            "a_jam_submission": "Участващ в конкурс проект"
+            "a_jam_submission": "Участващ в конкурс проект",
+            "submitted_by_contributors": "Изпратен от {{contributors}}",
+            "remove_this_submission_button": "Премахване на този проект",
+            "edit_this_submission_button": "Редактиране на този проект",
+            "results_table_raw_score": "Предварителен резултат"
         },
         "screenshots": {
             "loading_more": "Зареждане на още екранни снимки…",
             "empty_message": "Все още няма качени екранни снимки"
         },
         "submissions": {
-            "submissions_will_be_available_after_the_jam_has_ended": "Участващите проекти ще бъдат достъпни след като конкурсът приключи"
+            "submissions_will_be_available_after_the_jam_has_ended": "Участващите проекти ще бъдат достъпни след като конкурсът приключи",
+            "rated": "Оценени",
+            "empty_results": "Нищо не отговаря на филтъра Ви",
+            "filter": "Филтриране",
+            "filters": {
+                "browser_playable": "Работещи в браузъра",
+                "all_submissions": "Всички участващи проекти"
+            },
+            "help_submissions_in_need_of_ratings": "Помогнете с оценяването на проектите с малко оценки: <a>Проекти, нуждаещи се от оценяване</a>",
+            "there_were_no_submissions": "Нямаше участващи проекти",
+            "there_are_no_submissions_yet": "Все още няма изпратени проекти"
         },
         "submitter": {
             "jam_is_now_over": "Този конкурс е приключил. Той се проведе от {{start_date}} до {{end_date}}.",
@@ -892,12 +932,34 @@
             "youve_joined": "Вие участвате в този конкурс.",
             "or_leave_jam": "или <a>Напускане на конкурса</a>",
             "submit_button": "Изпращане на проекта",
-            "join_jam": "Участване в конкурса"
+            "join_jam": "Участване в конкурса",
+            "you_can_now_rate_entries": "Вече можете да оценявате проектите на <a>страницата с участващи проекти</a>",
+            "submission_is_closed_for_voting": "Вече не се приемат проекти, в момента протича гласуването",
+            "countdown": {
+                "voting_ends_in": "Гласуването приключва след",
+                "submissions_due_in": "Приемането на проекти приключва след",
+                "starts_in": "Започва след"
+            },
+            "view_entries": "Преглед на {{count}} участващ проект",
+            "view_entries_plural": "Преглед на {{count}} участващи проекта",
+            "view_results": "Преглед на резултатите",
+            "submissions_open_from": "Проекти се приемат от {{start_date}} до {{end_date}}"
         },
         "header": {
             "links": {
-                "edit_jam": "Редактиране на конкурса"
-            }
+                "edit_jam": "Редактиране на конкурса",
+                "screenshots": "Екранни снимки",
+                "overview": "Преглед",
+                "submissions": "Участващи проекти",
+                "results": "Резултати",
+                "community": "Общност"
+            },
+            "hosted_by": "Организиран от {{hosts}}"
+        },
+        "stats": {
+            "ratings": "Оценки",
+            "entries": "Проекта",
+            "joined": "Участници"
         }
     },
     "user_login": {
