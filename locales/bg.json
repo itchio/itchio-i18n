@@ -52,7 +52,8 @@
             "recommendations": "Препоръки",
             "library": "Моята библиотека",
             "game_jams": "Конкурси за игри",
-            "host_game_jam": "Организиране на конкурс за игри"
+            "host_game_jam": "Организиране на конкурс за игри",
+            "account_menu_tooltip": "Меню на акаунта"
         }
     },
     "index": {
@@ -103,7 +104,13 @@
         "page_title": "Свалете най-новите игри от независими разработчици",
         "meta_description": "itch.io предоставя лесен начин за откриване, сваляне и разпространение на игри от независими разработчици в Интернет. Ако Вие сте разработчик, който иска да публикува играта си, или пък просто търсите нещо ново за игра, то itch.io е мястото за Вас.",
         "view_all_jams": "Преглед на всички конкурси",
-        "featured_jams": "Избрани конкурси за игри"
+        "featured_jams": "Избрани конкурси за игри",
+        "to_follow": {
+            "dismiss_tooltip": "Да не се показват повече предложения",
+            "refresh_button": "Опреснете за още",
+            "empty_results": "Нямаме повече препоръки в момента. Проверете отново по-късно",
+            "created_projects": "Автор на {{project_list}}"
+        }
     },
     "misc": {
         "classifications": {
@@ -118,7 +125,111 @@
             "book": "Книги"
         },
         "accessibility_features": {
-            "colorblind": "Подходящи за далтонисти"
+            "colorblind": "Подходящи за далтонисти",
+            "textless": "Без текст",
+            "blind": "Подходящо за незрящи",
+            "one_button": "Един бутон",
+            "tutorial": "Интерактивно обучение",
+            "highcontrast": "Висок контраст",
+            "configurable_controls": "Настройваемо управление"
+        },
+        "loading_more_ellip": "Зареждане на още…",
+        "more_ellip": "Още…",
+        "errors": {
+            "server_error": "Сървърът не отговаря, моля, опитайте отново по-късно"
+        },
+        "release_statuses": {
+            "prototype": "Прототип",
+            "canceled": "Прекратен",
+            "on_hold": "Задържан",
+            "in_development": "В разработка",
+            "released": "Излязъл"
+        },
+        "dismiss": "Отхвърляне",
+        "view_more": "Преглед на още",
+        "project_visibility": {
+            "public": "Публичен",
+            "draft": "Чернова",
+            "published": "Публикуван",
+            "restricted": "Ограничен достъп"
+        },
+        "countdown": {
+            "seconds": "секунди",
+            "minutes": "минути",
+            "hours": "часа",
+            "days": "дни",
+            "months": "месеца",
+            "years": "години"
+        },
+        "lightboxes": {
+            "close": "Затваряне"
+        },
+        "collection_button": {
+            "add_to_collection": "Добавяне в колекция"
+        },
+        "pager": {
+            "first_page": "Първа страница",
+            "previous_page": "Предишна страница",
+            "current_page_of_total": "Страница {{current_page}} от {{total_pages}}",
+            "next": "Следваща",
+            "prev": "Предишна",
+            "next_page": "Следваща страница"
+        },
+        "filter_price": {
+            "paid": "Платени",
+            "on_sale": "С отстъпка",
+            "free": "Безплатни"
+        },
+        "platforms": {
+            "web": "Уеб"
+        },
+        "filter_when": {
+            "last_30_days": "Последните 30 дни",
+            "last_7_days": "Последните 7 дни",
+            "last_day": "Последния ден"
+        },
+        "follow_button": {
+            "unfollow": "Прекратяване на следването",
+            "unfollow_username": "Прекратяване на следването на {{username}}",
+            "following": "Следвате",
+            "following_username": "Вие следвате {{username}}",
+            "follow": "Следване",
+            "follow_username": "Следване на {{username}}"
+        },
+        "page_number": "Страница {{page_number}}",
+        "forms": {
+            "form_errors": "Моля, проверете въведената информация",
+            "search": "Търсене",
+            "optional": "Незадължително",
+            "submit": "Изпращане",
+            "email_address": "Е-поща",
+            "save": "Запазване",
+            "required": "Задължително"
+        },
+        "durations": {
+            "days": "Ден или повече",
+            "hours": "Няколко часа",
+            "hour": "Около час",
+            "half_hour": "Около половин час",
+            "minutes": "Няколко минути",
+            "seconds": "Няколко секунди"
+        },
+        "inputs": {
+            "midi_controller": "MIDI контролер",
+            "dance_pad": "Танцова подложка",
+            "phone": "Смартфон",
+            "accelerometer": "Акселерометър",
+            "voice": "Управление с глас",
+            "touchscreen": "Сензорен екран",
+            "joystick": "Джойстик",
+            "gamepad": "Контролер (всякакъв)",
+            "mouse": "Мишка",
+            "keyboard": "Клавиатура"
+        },
+        "multiplayer_features": {
+            "adhoc": "Игра в мрежа с други играчи без сървър",
+            "server": "Игра в мрежа с други играчи посредством сървър",
+            "local": "Локална игра с други играчи"
         }
     },
     "user_register": {
@@ -129,9 +240,19 @@
             "repeat_password": "Повторете паролата",
             "url_preview": "Профилната Ви страница ще бъде",
             "username": "Потребителско име",
-            "other_registration_methods": "Други начини за регистриране"
+            "other_registration_methods": "Други начини за регистриране",
+            "account_preferences_info": "Можете да промените отговорите на тези въпроси по-късно. Те само насочват itch.io как да Ви бъде максимално полезен.",
+            "interest_developer": "Искам да публикувам съдържание в itch.io",
+            "interest_gamer": "Искам да свалям и играя игри в itch.io",
+            "digest_signup": "Абонирайте ме за новините на itch.io (два пъти в месеца)",
+            "accept_tos": "Приемам <1>Условията за ползване</1>",
+            "link_product": "Покупката Ви на <1>{{product}}</1> ще се свърже с акаунта Ви веднага, щом се регистрирате.",
+            "log_in": "Влизане",
+            "already_have_account": "или вече имате акаунт?",
+            "create_account": "Създаване на акаунт"
         },
-        "page_title": "Регистриране на акаунт"
+        "page_title": "Регистриране на акаунт",
+        "create_an_account_on_itchio": "Създаване на акаунт в itch.io"
     },
     "developers": {
         "page_header": "Създайте своя страница за незабавно разпространение или продажба на игрите си",
@@ -143,7 +264,13 @@
         "upload_your_indie_game": "Качете играта си",
         "design_your_games_page": "Създайте дизайна на страницата за играта си",
         "track_your_game": "Следете играта си",
-        "host_a_sale": "Създайте разпродажба"
+        "host_a_sale": "Създайте разпродажба",
+        "share_message": "itch.io предлага прост начин за безплатно разпространение на независими игри в Интернет.",
+        "learn_more_about": "Научете повече относно:",
+        "upload_your_game_description": "Качете играта си безплатно в <s>itch.io</s>. Ние ще поддържаме страницата ѝ, заедно с екранните снимки и файловете за сваляне. Те ще бъдат винаги достъпни и винаги ще се свалят бързо.",
+        "browser_game_description": "Печелете пари от браузърната си игра с помощта на хостинга на <s>itch.io</s>. Играта ви ще бъде вградена в браузъра и хората ще могат да Ви дават пари, ако играта им харесва.",
+        "learn_more": "Научете повече",
+        "host_a_sale_description": "Популяризирайте игрите си и направете повече продажби, като предложите по-ниска цена за определен период от време."
     },
     "game": {
         "download_header": "Сваляне",
@@ -217,7 +344,8 @@
                 "this_is_a_submission_to_jam_title": "Участва в {{jam_title}}",
                 "you_rated_this_game": "Вие сте оценили тази игра",
                 "now_accepting_ratings": "Конкурсът в момента приема оценки за участващите проекти.",
-                "accepting_ratiings": "Конкурсът в момента приема оценки за участващите проекти. <a>Научете повече</a>"
+                "accepting_ratiings": "Конкурсът в момента приема оценки за участващите проекти. <a>Научете повече</a>",
+                "rating_instructions": "Оценете и коментирайте участието на този проект в конкурса, като посетите страницата му чрез връзката по-горе."
             },
             "rate_for_jam": "Оценяване за {{jam_title}}"
         },
@@ -231,7 +359,8 @@
             "more_from_itchio_header": "Вижте още от itch.io",
             "see_everything": "Вижте всичко",
             "powered_by": "<s>С подкрепата на</s> {{itchio_logo}}",
-            "app_learn_more": "<s>Ново!</s> Опитайте приложението за работен плот на „itch.io“, с което можете да сваляте и управлявате библиотеката си. <a>Научете повече</a>"
+            "app_learn_more": "<s>Ново!</s> Опитайте приложението за работен плот на „itch.io“, с което можете да сваляте и управлявате библиотеката си. <a>Научете повече</a>",
+            "view_all_from_jam": "Преглед на всичко от конкурса"
         }
     },
     "buy_form": {
@@ -286,7 +415,18 @@
             "list_header_last_topic": "Последна тема",
             "new_flag": "Ново",
             "archived_flag": "Архивирано",
-            "by_topic_author": "от {{username}}"
+            "by_topic_author": "от {{username}}",
+            "stats": {
+                "topics": "Теми"
+            },
+            "unsubscribe_from_topics": "Прекратяване на абонамента",
+            "subscribe_to_new_topics": "Абониране за новите теми",
+            "search_community_label": "Търсене на общности",
+            "there_arent_any_topics_yet": "Все още няма никакви теми",
+            "empty_message": "Няма теми",
+            "create_first_topic_button": "Създаване на първата тема",
+            "topics_count": "{{count}} тема",
+            "topics_count_plural": "{{count}} теми"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> преглеждане",
@@ -300,11 +440,109 @@
             "locked_flag": "Заключено",
             "list_header_topic_title": "Тема",
             "list_header_last_post": "Последна публикация"
+        },
+        "misc": {
+            "new_topic_button": "Нова тема"
+        },
+        "new_topic": {
+            "page_title": "Публикуване на нова тема",
+            "your_moderators_are": "itch.io не следи този форум. Вашите модератори са:",
+            "topic_tag": "Етикет",
+            "body": "Съобщение",
+            "title": "Заглавие",
+            "see_community_guidelines": "Прегледайте <a>Обществените правила</a> за общностите в itch.io.",
+            "this_a_community_run_message_board": "Този форум се управлява от общността.",
+            "new_topic": "Нова тема",
+            "i_agree_to_the_rules_above": "Съгласявам се с горните правила",
+            "moderation_options": "Настройки",
+            "moderator_tools": "Инструменти на модератора"
+        },
+        "post_form": {
+            "post_reply": "Публикуване на отговор",
+            "remove_tag": "Премахване на етикета",
+            "tag_header": "Етикет",
+            "subscribe_description": "Получавайте известия за новите отговори в тази тема",
+            "subscribe_to_this_topic": "Абониране за тази тема",
+            "subscribe": "Абониране",
+            "post": "Публикуване",
+            "save": "Запазване",
+            "add_profile_image": "Добавяне на профилна снимка"
+        },
+        "post_list": {
+            "edited": "(редактирано)",
+            "pinned_post": "Закачена публикация",
+            "pinned_reply": "Закачен отговор"
         }
     },
     "user_settings": {
         "navigation": {
             "developer_header": "Разработчик"
+        },
+        "email_addresses": {
+            "additional_emails": {
+                "detach_email": "Премахване на е-пощата",
+                "email_sent_status": "писмото е изпратено",
+                "resend_verification_email_button": "повторно изпращане на писмото за потвърждаване",
+                "verified_column": "Потвърдена",
+                "email_column": "Е-поща",
+                "emails_added_header": "Добавени е-пощи"
+            },
+            "add_email_form": {
+                "add_email_button": "Добавяне на е-поща",
+                "additional_email_address_label": "Допълнителен е-поща"
+            },
+            "additional_emails_instructions": "След като добавите адрес на допълнителна е-поща, ще Ви бъдат изпратени инструкции за потвърждаването ѝ.",
+            "additional_emails_summary": "Можете да свържете още адреси на е-пощи към акаунта си в itch.io, за да получите достъп до нещата, закупени с тези е-пощи. Ако, например, в PayPal използвате различна е-поща, можете да я добавите като допълнителна тук.",
+            "additional_emails_header": "Допълнителни е-пощи",
+            "change_password_instructions": "Когато промените адреса на е-пощата си, трябва първо да го потвърдите, преди да получите достъп до игрите, които сте закупили. Ще Ви бъдат изпратени инструкции за потвърждаването. С оглед на сигурността, ще трябва да въведете и текущата си парола, за да промените адреса на е-пощата си.",
+            "primary_email_description": "Основната Ви е-поща е тази, на която itch.io ще Ви изпраща известия.",
+            "change_email_form": {
+                "current_password": "Текуща парола",
+                "new_email_address": "Нов адрес на е-поща"
+            },
+            "your_primary_email_address": "Основата Ви е-поща: {{email}}",
+            "primary_email_header": "Основна е-поща"
+        },
+        "password": {
+            "new_password_again": "Повторете новата парола",
+            "password_again": "Повторете паролата",
+            "new_password": "Нова парола",
+            "password": "Парола",
+            "current_password": "Текуща парола",
+            "set_password": "Задаване на парола",
+            "reset_password": "Нулиране на паролата"
+        },
+        "profile": {
+            "profile_description": "Съдържанието на профилната Ви страница",
+            "profile": "Профил",
+            "use_dark_theme": "Използване на тъмна тема, където това е възможно",
+            "click_to_load_games": "Изпълнението на вграден HTML5 изисква щракване",
+            "disable_autoloading_next_page_when_browsing": "Забраняване на автоматичното зареждане на следващата страница при разглеждане",
+            "disable_animated_gifs": "Забраняване на анимираните изображения (GIF)",
+            "show_adult_content": "Показване на съдържание за възрастни при търсене и разглеждане",
+            "content_description": "Как да се показва за Вас съдържанието в itch.io",
+            "content": "Съдържание",
+            "default_language_option": "По подразбиране (ще се ползва английски докато трае пробния период на преводите)",
+            "account_type_developer": "Разработка и качване на игри",
+            "account_type_gamer": "Сваляне и играене на игри",
+            "account_type_description": "За какво ще ползвате акаунта си",
+            "account_type": "Тип на акаунта",
+            "twitter_description": "Име в Twitter, което да се показва в профила Ви",
+            "website_description": "Незадължителен адрес на уеб сайт, който да се показва на профилната Ви страница",
+            "website": "Уеб сайт",
+            "display_name_description": "Име, което да се показва вместо потребителското Ви име. Ако е празно, ще се ползва потребителското име",
+            "display_name": "Име за показване",
+            "profile_image_description": "Показва се до името Ви, когато извършите някакво действие на уеб сайта (квадратна форма)",
+            "profile_image": "Профилна снимка",
+            "url_description": "Публичният адрес на Вашия акаунт",
+            "you_recently_changed_your_username": "Вие сте променили потребителското си име наскоро",
+            "change_username": "Промяна на моето потребителско име / адрес",
+            "username_description": "Използва се за влизане в акаунта, както и в адреса на страницата Ви",
+            "username": "Потребителско име",
+            "page_header": "Профил",
+            "language_description": "Езикът на интерфейса на itch.io",
+            "language": "Език",
+            "language_community_translation": "<s>itch.io се превежда от членовете на нашата общност.</s> В момента някои езици са преведени само донякъде. Ако искате да видите itch.io на своя език или да помогнете с поправката на забелязана грешка, можете да се включите. <a>Научете повече</a>"
         }
     },
     "dashboard": {
@@ -445,7 +683,8 @@
             "payouts_link": "Изплащания",
             "analytics_link": "Анализи",
             "payments_link": "Плащания",
-            "projects_link": "Проекти"
+            "projects_link": "Проекти",
+            "game_jams_link": "Конкурси за игри"
         },
         "page_title": "Табло на създателя",
         "follow_itchio": "Последвайте „itch.io“ в {{twitter}} и {{facebook}}",
@@ -476,7 +715,25 @@
         "email": "Е-поща",
         "youll_be_mailed_your_access_link": "Ще получите е-писмо с връзка за достъп",
         "full_name": "Пълно име",
-        "name_as_it_appears_on_card": "Както е изписано на картата"
+        "name_as_it_appears_on_card": "Както е изписано на картата",
+        "donating_price_vat_to": "Даряване на {{price}} (с вкл. ДДС) на:",
+        "donating_price_to": "Дарявене на {{price}} на:",
+        "paying_price_vat_for": "Плащане на {{price}} (с вкл. ДДС) за:",
+        "paying_price_for": "Плащане на {{price}} за:",
+        "pay_price_button": "Плащане на {{price}}",
+        "manage_cards_link": "Можете да управлявате картите си от <a>Настройките на акаунта си</a>",
+        "save_credit_card_for_future_purchases": "Запазване на картата за бъдещи покупки",
+        "credit_or_debit_card": "Кредитна или дебитна карта",
+        "gift_instructions": "Тази покупка е подарък. Ще можете да посочите е-пощата на получателя след плащането.",
+        "buying_as": "Закупуване като",
+        "password": "Парола",
+        "enter_your_password_to_use_your_card": "Въведете паролата си, за да използвате картата",
+        "new_card": "Нова карта",
+        "card_ending_last4": "Завършваща на {{last4}}",
+        "edit_saved_cards": "Редактиране на запазените карти",
+        "choose_a_card": "Изберете карта",
+        "payment_error_help": "Ако имате съмнения, моля, свържете се с <a>поддръжката на itch.io</a> и приложете горното съобщение.",
+        "payment_error": "Имаше грешка при обработката на пращането:"
     },
     "game_download": {
         "share_and_follow": "Споделяне и следване",
@@ -485,7 +742,7 @@
         "trouble_downloading_link": "Свалянията не могат да започнат?",
         "install_instructions_intro": "Инструкции за сваляне и инсталиране от {{username}}:",
         "recommendations_title": "Ето още какво може да Ви заинтересува",
-        "check_out_more_from_jam_title": "Вижте още от „{{jam_title}}“",
+        "check_out_more_from_jam_title": "Вижте още от {{jam_title}}",
         "alternate_download": {
             "enable_alternate_download_mode": "Включване на алтернативния режим на сваляне",
             "title": "Алтернативен режим на сваляне",
@@ -612,18 +869,71 @@
                 "participate_to_rate_message": "За да можете да оцените този проект, трябва да сте <a>вписан(а) в itch.io</a> и вече да сте подали своя проект. Ако просто искате да оставите коментар, е достатъчно просто да имате акаунт.",
                 "sign_up_to_vote": "<a>Впишете се с акаунта си в itch.io</a>, за да гласувате и публикувате коментари.",
                 "sign_up_to_rate": "<a>Впишете се с акаунта си в itch.io</a>, за да оценявате и публикувате коментари.",
-                "unavailable_to_rate": "Не може да оцените този проект, понеже не сте изпратили свой такъв. Все пак можете да оставите коментар."
-            }
+                "unavailable_to_rate": "Не може да оцените този проект, понеже не сте изпратили свой такъв. Все пак можете да оставите коментар.",
+                "other_participants_can_rate": "Другите участници в конкурса ще могат да оценят Вашия проект.",
+                "you_will_be_able_to_rate_if_you_submit": "Ще можете да оцените този проект, ако и Вие участвате със свой в конкурса.",
+                "owner_message": "Това е Вашият проект и не можете да го оцените. Другите участници в конкурса ще могат да го оценят тук.",
+                "not_open_yet": "Времето за подаване на проектите в този конкурс все още не е приключило. Оценяването започва на {{start_date}}."
+            },
+            "score_information": "Крайният резултат се оформя от междинния такъв въз основа на медианата от оценките за игрите в конкурса.",
+            "a_jam_submission": "Участващ в конкурс проект"
         },
         "screenshots": {
             "loading_more": "Зареждане на още екранни снимки…",
             "empty_message": "Все още няма качени екранни снимки"
+        },
+        "submissions": {
+            "submissions_will_be_available_after_the_jam_has_ended": "Участващите проекти ще бъдат достъпни след като конкурсът приключи"
+        },
+        "submitter": {
+            "jam_is_now_over": "Този конкурс е приключил. Той се проведе от {{start_date}} до {{end_date}}.",
+            "leave_jam": "Напускане на конкурса",
+            "joined_instructions": "Посетете тази страница отново след като конкурсът започне, за да изпратите проекта си.",
+            "youve_joined": "Вие участвате в този конкурс.",
+            "or_leave_jam": "или <a>Напускане на конкурса</a>",
+            "submit_button": "Изпращане на проекта",
+            "join_jam": "Участване в конкурса"
+        },
+        "header": {
+            "links": {
+                "edit_jam": "Редактиране на конкурса"
+            }
         }
     },
     "user_login": {
         "intent": {
-            "jam_submit": "За да можете да участвате в конкурс, трябва да имате акаунт в itch.io."
-        }
+            "jam_submit": "За да можете да участвате в конкурс, трябва да имате акаунт в itch.io.",
+            "claim_object_title": "Моля, влезте или си създайте акаунт, за да получите {{title}}.",
+            "recent_purchases": "Влезте, за да свържете към акаунта си покупките, които сте направили.",
+            "claim_object": "Моля, влезте или си създайте акаунт, за да получите това ({{noun}}).",
+            "collection": "За да добавите нещо в колекция трябва да имате акаунт в itch.io.",
+            "follow_username": "За да последвате <1>{{username}}</1>, трябва да имате акаунт в itch.io.",
+            "follow": "За да последвате някого, трябва да имате акаунт в itch.io.",
+            "rate_game": "За да оцените игра, трябва да имате акаунт в itch.io.",
+            "comment": "За да публикувате коментар, трябва да имате акаунт в itch.io.",
+            "community": "За да участвате в общностите на itch.io, трябва да влезете с акаунта си. Създаването на акаунт е безплатно и отнема само минутка."
+        },
+        "errors": {
+            "please_enter_a_valid_email_address": "Моля, въведете правилен адрес на е-поща",
+            "accept_terms": "Трябва да приемете Условията за ползване"
+        },
+        "welcome_to_itchio": "Добре дошли в itch.io!",
+        "welcome_back": "Добре дошли отново!",
+        "you_are_logged_out": "Вие излязохте от акаунта си",
+        "page_title": "Вход",
+        "no_account_prompt": "Нямате акаунт? <1>Създайте си</1>",
+        "create_a_new_account": "Създаване на нов акаунт",
+        "looking_for_something_you_bought": "Търсите ли нещо, което сте закупили?",
+        "login_form": {
+            "log_in_button": "Вход",
+            "or": "или",
+            "or_log_in_with_another_site": "Или влезте с акаунта си в друг уеб сайт",
+            "create_account": "Създаване на акаунт",
+            "forgot_password": "Забравена парола",
+            "password": "Парола",
+            "username_or_email": "Потребителско име или е-поща"
+        },
+        "log_in_to_your_itchio_account": "Влезте в акаунта си за itch.io"
     },
     "nags": {
         "unverified_email": {
@@ -698,7 +1008,21 @@
         "count_joined": "{{count}} участници",
         "browse_in_progress": "Протичащи в момента",
         "browse_upcoming_this_month": "Предстоящи този месец",
-        "dont_see_something_you_like_header": "Не виждате нищо интересно?"
+        "dont_see_something_you_like_header": "Не виждате нищо интересно?",
+        "browse_top_past_jams": "Избрани минали конкурси",
+        "brose_featured_jams": "Избрани конкурси",
+        "host_or_explore_links": "<1>Организирайте свой собствен конкурс</1> или <2>разгледайте всички конкурси</2>",
+        "host_your_own_jam_button": "Организирайте свой собствен конкурс",
+        "jam_calendar_header": "Календар на конкурсите",
+        "browse_jams_header": "Разглеждане на конкурсите",
+        "manage_submissions_link": "Управление на Вашите участващи проекти и конкурси",
+        "host_a_jam_button": "Организиране на конкурс",
+        "games_created": "<s>{{count}} игра</s> е била създадена за конкурсите организирани в itch.io.",
+        "games_created_plural": "<s>{{count}} игри</s> са били създадени за конкурсите организирани в itch.io.",
+        "page_summary": "В itch.io можете да организирате и участвате в конкурси за игри, провеждащи се в Интернет. Всеки може лесно да създаде и организира конкурс.",
+        "page_title": "Конкурси за игри в itch.io",
+        "jams_joined_header": "Конкурси, в които сте участвали",
+        "jams_created_header": "Създадени от Вас конкурси"
     },
     "game_grid": {
         "in_bundle": "В пакет"
@@ -717,5 +1041,12 @@
         "already_in_collections": "Този проект вече присъства в следните колекции:",
         "add_reason": "Добавяне на този проект към колекция, с цел да можете да го прегледате по-късно.",
         "dialog_title": "Добавяне на {{project_title}} към колекция"
+    },
+    "blog": {
+        "tag_filter": "Филтриране за {{tag}}. <a>Изчистване на етикета</a>",
+        "empty_message": "Изглежда тук няма публикации",
+        "digest": "Резюме",
+        "updates": "Обновления",
+        "all_posts": "Всички публикации"
     }
 }
