@@ -35,7 +35,9 @@
             "fun_games": "Забавни игри",
             "games": "Игри",
             "feed_unseen_count": "{{count}} нов",
-            "feed_unseen_count_plural": "{{count}} нови"
+            "feed_unseen_count_plural": "{{count}} нови",
+            "jams": "Конкурси",
+            "game_jams": "Конкурси за игри"
         },
         "user_menu": {
             "explore": "Разглеждане",
@@ -48,7 +50,9 @@
             "new_project": "Качване на нов проект",
             "dashboard": "Табло",
             "recommendations": "Препоръки",
-            "library": "Моята библиотека"
+            "library": "Моята библиотека",
+            "game_jams": "Конкурси за игри",
+            "host_game_jam": "Организиране на конкурс за игри"
         }
     },
     "index": {
@@ -90,13 +94,16 @@
             "all_games": "Всички игри",
             "bundles": "Пакети",
             "devlogs": "Новини",
-            "community": "Общност"
+            "community": "Общност",
+            "game_jams": "Конкурси за игри"
         },
         "intro": "<s>itch.io</s> предоставя лесен начин за безплатно откриване и споделяне игри от независими разработчици.",
         "intro_cta": "<1>Добавете играта си</1> или <2>Прочетете ЧЗВ</2>",
         "html5_games": "Игри – HTML5",
         "page_title": "Свалете най-новите игри от независими разработчици",
-        "meta_description": "itch.io предоставя лесен начин за откриване, сваляне и разпространение на игри от независими разработчици в Интернет. Ако Вие сте разработчик, който иска да публикува играта си, или пък просто търсите нещо ново за игра, то itch.io е мястото за Вас."
+        "meta_description": "itch.io предоставя лесен начин за откриване, сваляне и разпространение на игри от независими разработчици в Интернет. Ако Вие сте разработчик, който иска да публикува играта си, или пък просто търсите нещо ново за игра, то itch.io е мястото за Вас.",
+        "view_all_jams": "Преглед на всички конкурси",
+        "featured_jams": "Избрани конкурси за игри"
     },
     "misc": {
         "classifications": {
@@ -208,8 +215,11 @@
             },
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "Участва в {{jam_title}}",
-                "you_rated_this_game": "Вие сте оценили тази игра"
-            }
+                "you_rated_this_game": "Вие сте оценили тази игра",
+                "now_accepting_ratings": "Конкурсът в момента приема оценки за участващите проекти.",
+                "accepting_ratiings": "Конкурсът в момента приема оценки за участващите проекти. <a>Научете повече</a>"
+            },
+            "rate_for_jam": "Оценяване за {{jam_title}}"
         },
         "after_download": {
             "share_this_project": "Споделяне на този проект",
@@ -305,7 +315,10 @@
                 "demo_toggle": "Този файл е демо и може да бъде свален безплатно",
                 "hide_toggle": "Скриване на този файл. Той няма да може да се сваля",
                 "play_in_browser_toggle": "Този файл ще се изпълнява в браузъра",
-                "delete_file_button": "Изтриване на файла"
+                "delete_file_button": "Изтриване на файла",
+                "change_display_name_button": "Промяна на името за показване",
+                "set_price_toggle": "Задаване на различна цена за този файл",
+                "preorder_toggle": "Този файл е заместител за позволяване на предплащания"
             },
             "pricing": {
                 "price_too_low_error": "Моля, посочете по-голяма сума от цената на проекта",
@@ -407,7 +420,12 @@
             "project_url_field": "Адрес на проекта",
             "title_field": "Заглавие",
             "edit_project_title": "Редактиране на проекта",
-            "create_a_new_project_title": "Създаване на нов проект"
+            "create_a_new_project_title": "Създаване на нов проект",
+            "screenshots_header": "Екранни снимки",
+            "add_screenshots": "Добавяне на екранни снимки",
+            "community_discussion_board_info": "Добавяне на обособена страница с форум за общността – с категории, теми, отговори и още",
+            "community_comments_info": "Добавяне на област с коментари в дъното на страницата на проекта",
+            "community_field_info": "Създайте общност около проекта си, като позволите на хората да публикуват коментари на страницата Ви."
         },
         "dashboard": "Табло",
         "hello": "Здравейте!",
@@ -437,6 +455,19 @@
             "views": "Преглеждания",
             "payments": "Плащания",
             "gross_revenue": "Общ приход"
+        },
+        "project_header": {
+            "more": "Още",
+            "admins": "Администратори",
+            "rewards": "Награди",
+            "discussion_board": "Форум",
+            "edit_comments": "Редактиране на коментарите",
+            "interact": "Взаимодействие",
+            "distribute": "Разпространение",
+            "analytics": "Анализи",
+            "metadata": "Метаданни",
+            "devlog": "Дневник на разработчика",
+            "edit_project": "Редактиране на проекта"
         }
     },
     "stripe_checkout": {
@@ -588,5 +619,103 @@
             "loading_more": "Зареждане на още екранни снимки…",
             "empty_message": "Все още няма качени екранни снимки"
         }
+    },
+    "user_login": {
+        "intent": {
+            "jam_submit": "За да можете да участвате в конкурс, трябва да имате акаунт в itch.io."
+        }
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Е-пощата Ви не е потвърдена"
+        }
+    },
+    "library": {
+        "rate_game": {
+            "you_rated_this_project_ago": "Вие сте оценили този проект {{time_ago}}.",
+            "rate_header": "Оценете и напишете рецензия за {{project_title}}",
+            "choose_stars": "Изберете оценка между 1 и 5 звезди.",
+            "delete_button": "Изтриване на оценката и рецензията",
+            "rating_deleted_summary": "Оценката Ви беше изтрита.",
+            "rating_removed_header": "Оценката е премахната",
+            "follow_creator": "Можете да последвате създателя на {{project_title}}, за да получавате информация за новото от него.",
+            "rating_saved_header": "Оценката е запазена"
+        },
+        "gift_button": "Подаряване",
+        "download_button": "Сваляне",
+        "nav": {
+            "things_to_rate": "Неща за оценяване",
+            "things_on_sale": "Неща на разпродажба",
+            "recommended_for_you": "Препоръчано за Вас",
+            "my_purchases": "Моите покупки"
+        },
+        "nav_header": "Библиотека",
+        "empty_collection_message": "Тази колекция е празна",
+        "go_to_collection_link": "Към колекцията",
+        "private_toggle": "Частна",
+        "permalink": "Постоянна връзка",
+        "things_rated_header": "Нещата, които сте оценили",
+        "show_on_my_profile_toggle": "Показване в моя профил",
+        "view_all_link": "Преглед на всичко",
+        "things_you_own_header": "Нещата, които притежавате",
+        "page_title": "Моята библиотека"
+    },
+    "feed": {
+        "event": {
+            "collection_added_count": "Добавен е {{count}} елемент.",
+            "collection_added_count_plural": "Добавени са {{count}} елемента.",
+            "collection_summary": "Колекция с {{count}} елемент.",
+            "collection_summary_plural": "Колекция с {{count}} елемента."
+        },
+        "profile_notice": {
+            "description": "Вашият акаунт няма профилна снимка. Добавете такава, за да могат останалите да Ви разпознават по-лесно!",
+            "add_a_profile_image": "Добавяне на профилна снимка"
+        },
+        "email_warning": {
+            "verify_your_email_address": "Потвърдете своята е-поща"
+        },
+        "event_filter_label": "Филтър:",
+        "upload_a_game_button": "Качване на игра",
+        "manage_my_games_button": "Управление на моите игри",
+        "to_follow": {
+            "to_follow_description": "Ето някои профили на хора, които може би бихте искали да последвате.",
+            "people_to_follow_header": "Хора за следване"
+        },
+        "to_rate": {
+            "to_rate_description": "Ето няколко неща, с които сте сте взаимодействали, но не сте оценили.",
+            "projects_to_rate_header": "Проекти за оценяване"
+        },
+        "latest_featured_games_header": "Последно избрани игри",
+        "featured_tags_header": "Избрани етикети",
+        "filter_ratings_tab": "Оценки",
+        "filter_devlogs_tab": "Журнали на разработчици",
+        "filter_collections_tab": "Колекции",
+        "filter_new_projects_tab": "Нови проекти",
+        "filter_everything_tab": "Всичко",
+        "filter_own_activity_tab": "Моята дейност"
+    },
+    "jams": {
+        "count_joined": "{{count}} участници",
+        "browse_in_progress": "Протичащи в момента",
+        "browse_upcoming_this_month": "Предстоящи този месец",
+        "dont_see_something_you_like_header": "Не виждате нищо интересно?"
+    },
+    "game_grid": {
+        "in_bundle": "В пакет"
+    },
+    "add_to_collection": {
+        "about_this_project_label": "Относно този проект",
+        "private_collection_option": "Частна колекция – само Вие виждате какво съдържа",
+        "manage_collections_link": "Управление на колекциите",
+        "add_button": "Добавяне в колекция",
+        "default_title": "Колекцията на {{username}}",
+        "add_to_new": "Добавяне в нова колекция с име",
+        "private_collection_title": "[Частно] {{title}}",
+        "add_to_existing": "Добавяне в съществуваща колекция",
+        "count_items": "{{count}} елемент",
+        "count_items_plural": "{{count}} елемента",
+        "already_in_collections": "Този проект вече присъства в следните колекции:",
+        "add_reason": "Добавяне на този проект към колекция, с цел да можете да го прегледате по-късно.",
+        "dialog_title": "Добавяне на {{project_title}} към колекция"
     }
 }
