@@ -111,7 +111,7 @@
             "empty_results": "Nous n’avons plus rien à vous recommander pour le moment. Revenez plus tard",
             "refresh_button": "Rafraîchir pour plus",
             "created_projects": "{{project_list}} créée",
-            "dismiss_tooltip": "Ne plus suggérer"
+            "dismiss_tooltip": "Ne plus faire de suggestions"
         }
     },
     "misc": {
@@ -218,7 +218,7 @@
             "published": "Publié",
             "draft": "Brouillon",
             "public": "Public",
-            "restricted": "Privé"
+            "restricted": "Restreint"
         },
         "release_statuses": {
             "on_hold": "En pause",
