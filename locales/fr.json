@@ -92,7 +92,7 @@
         "view_all_on_sale": "Voir toutes les soldes",
         "people_to_follow_description": "Voici des utilisateurs auxquels vous pourriez vouloir vous abonner. <a>Pourquoi s’abonner?</a>",
         "latest_featured_games": "Derniers jeux sélectionnés",
-        "filtering_platform": "N'afficher que les jeux compatibles {{platform_name}}",
+        "filtering_platform": "N’afficher que les jeux compatibles avec {{platform_name}}",
         "view_all_platforms": "Voir toutes les plateformes",
         "browse_content_type": "Naviguer {{content_type}}",
         "nav": {
@@ -106,7 +106,7 @@
         "intro_cta": "<1>Ajoutez votre jeu</1> ou <2>Lisez la FAQ</2>",
         "html5_games": "Jeux HTML5",
         "page_title": "Téléchargez les derniers jeux indépendants",
-        "meta_description": "itch.io est un moyen simple de rechercher, télécharger et distribuer des jeux indés en ligne. Que vous vouliez mettre un jeu en ligne ou juste trouver quelque-chose de nouveau auquel jouer, vous êtes au bon endroit.",
+        "meta_description": "itch.io est un moyen simple de rechercher, télécharger et distribuer des jeux indés en ligne. Que vous vouliez mettre un jeu en ligne ou juste trouver quelque chose de nouveau auquel jouer, vous êtes au bon endroit.",
         "to_follow": {
             "empty_results": "Nous n’avons plus rien à vous recommander pour le moment. Revenez plus tard",
             "refresh_button": "Rafraîchir pour plus",
@@ -164,9 +164,9 @@
         "forms": {
             "required": "Champ obligatoire",
             "save": "Enregistrer",
-            "email_address": "Adresse e-mail",
+            "email_address": "Adresse de courriel",
             "submit": "Mettre en ligne",
-            "form_errors": "Merci de vérifier les informations que vous avez fournies",
+            "form_errors": "Veuillez vérifier les informations que vous avez fournies",
             "search": "Rechercher",
             "optional": "Facultatif"
         },
