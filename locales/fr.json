@@ -165,7 +165,7 @@
             "required": "Champ obligatoire",
             "save": "Enregistrer",
             "email_address": "Adresse de courriel",
-            "submit": "Mettre en ligne",
+            "submit": "Envoyer",
             "form_errors": "Veuillez vérifier les informations que vous avez fournies",
             "search": "Rechercher",
             "optional": "Facultatif"
