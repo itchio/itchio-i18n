@@ -92,7 +92,7 @@
         "view_all_on_sale": "Voir toutes les soldes",
         "people_to_follow_description": "Voici des utilisateurs auxquels vous pourriez vouloir vous abonner. <a>Pourquoi s’abonner?</a>",
         "latest_featured_games": "Derniers jeux sélectionnés",
-        "filtering_platform": "N’afficher que les jeux {{platform_name}}",
+        "filtering_platform": "N'afficher que les jeux compatibles {{platform_name}}",
         "view_all_platforms": "Voir toutes les plateformes",
         "browse_content_type": "Naviguer {{content_type}}",
         "nav": {
