@@ -110,7 +110,7 @@
         "to_follow": {
             "empty_results": "Nous n’avons plus rien à vous recommander pour le moment. Revenez plus tard",
             "refresh_button": "Rafraîchir pour plus",
-            "created_projects": "{{project_list}} vient d’être créé",
+            "created_projects": "{{project_list}} créée",
             "dismiss_tooltip": "Ne plus suggérer"
         }
     },
@@ -172,7 +172,7 @@
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
-            "follow_username": "S’abonner à {{username}}",
+            "follow_username": "Suivre {{username}}",
             "follow": "S’abonner",
             "following_username": "Abonné·e à {{username}}",
             "following": "Abonnements",
@@ -217,7 +217,7 @@
         "project_visibility": {
             "published": "Publié",
             "draft": "Brouillon",
-            "public": "Publique",
+            "public": "Public",
             "restricted": "Privé"
         },
         "release_statuses": {
@@ -232,7 +232,7 @@
         },
         "dismiss": "Ignorer",
         "more_ellip": "Plus…",
-        "view_more": "Voir plus",
+        "view_more": "Afficher plus",
         "loading_more_ellip": "Chargement…"
     },
     "blog": {
