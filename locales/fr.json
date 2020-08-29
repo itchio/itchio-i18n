@@ -228,7 +228,7 @@
             "in_development": "En développement"
         },
         "errors": {
-            "server_error": "Échec de la communication avec le serveur, veuillez réessayer plus tard"
+            "server_error": "Le serveur ne répond pas, réessayez plus tard"
         },
         "dismiss": "Ignorer",
         "more_ellip": "Plus…",
