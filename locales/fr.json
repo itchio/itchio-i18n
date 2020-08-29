@@ -228,7 +228,7 @@
             "in_development": "En développement"
         },
         "errors": {
-            "server_error": "Le serveur ne répond pas, réessayez plus tard"
+            "server_error": "Le serveur ne répond pas, veuillez réessayer plus tard"
         },
         "dismiss": "Ignorer",
         "more_ellip": "Plus…",
@@ -258,7 +258,7 @@
         "no_account_prompt": "Pas de compte ? <1>Créer un compte</1>",
         "intent": {
             "rate_game": "Vous avez besoin d’être connecté à votre compte itch.io pour noter un jeu.",
-            "follow": "Vous avez besoin d’être connecté à votre compte Itch.io avant de pouvoir suivre quelqu’un.",
+            "follow": "Vous avez besoin d’être connecté à votre compte itch.io avant de pouvoir suivre quelqu’un.",
             "community": "Pour participer aux communautés itch.io, il faut se connecter. Créer un compte est gratuit et rapide.",
             "comment": "Il vous faut un compte itch.io pour commenter.",
             "follow_username": "Il vous faut un compte itch.io pour vous abonner à <1>{{username}}</1>.",
