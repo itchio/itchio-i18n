@@ -176,7 +176,7 @@
             "follow": "S’abonner",
             "following_username": "Abonné·e à {{username}}",
             "following": "Abonnements",
-            "unfollow_username": "Se désabonner de {{username}}",
+            "unfollow_username": "Arrêter de suivre {{username}}",
             "unfollow": "Se désabonner"
         },
         "filter_when": {
