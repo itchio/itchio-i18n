@@ -390,7 +390,7 @@
             "leave_a_comment": "Ajouter un commentaire",
             "click_to_leave_a_comment": "Cliquez pour laisser un commentaire…",
             "log_in_to_leave_comment": "<a>Connectez-vous avec itch.io</a> pour laisser un commentaire.",
-            "post_comment": "Poster un commentaire",
+            "post_comment": "Publier un commentaire",
             "write_your_comment": "Écrivez votre commentaire…"
         },
         "info_panel": {
@@ -425,8 +425,8 @@
         "community_post_author": "de {{username}}",
         "community_posts_count": "{{count}} publication",
         "community_posts_count_plural": "{{count}} publications",
-        "post_a_new_topic": "Poster un nouveau sujet",
-        "post_first_topic": "Poster le premier sujet",
+        "post_a_new_topic": "Publier un nouveau sujet",
+        "post_first_topic": "Publier le premier sujet",
         "community_sticky": "Épinglé",
         "upload_list": {
             "preorder": "Pré-commander",
