@@ -221,11 +221,11 @@
         "walking-simulator": "Simulateur de marche",
         "war": "Guerre",
         "western": "Western",
-        "world-war-i": "Première Guerre Mondiale",
+        "world-war-i": "Première Guerre mondiale",
         "space-sim": "Simulation spatiale",
         "traps": "Pièges",
         "strategy-rpg": "RPG stratégie",
-        "world-war-ii": "Seconde Guerre Mondiale",
+        "world-war-ii": "Seconde Guerre mondiale",
         "yaoi": "Yaoi",
         "yuri": "Yuri",
         "zero-gravity": "Gravité zéro",
@@ -263,6 +263,6 @@
         "twin-stick-shooter": "Shooter à deux sticks",
         "score-attack": "Course au score",
         "visualization": "Visualisation",
-        "tycoon": "Magnat"
+        "tycoon": "Tycoon"
     }
 }
