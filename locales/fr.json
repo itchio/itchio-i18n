@@ -240,7 +240,7 @@
         "updates": "Mises à jour",
         "digest": "En bref",
         "empty_message": "Pas d’article en vue pour l’instant",
-        "tag_filter": "Filtré sur {{tag}}. <a>Enlever le filtrage</a>"
+        "tag_filter": "Filtré sur {{tag}}. <a>Supprimer le filtre</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Se connecter à itch.io",
