@@ -558,18 +558,21 @@
         "your_email_address": "อีเมลของคุณ",
         "download_this_product_by_purchasing_it_for": "ดาวน์โหลดผลิตภัณฑ์นี้โดยซื้อในราคา {{price}} ขึ้นไป",
         "preorder_this_product_by_purchasing_it_for": "สั่งซื้อผลิตภัณฑ์นี้ล่วงหน้าโดยซื้อในราคา {{price}} ขึ้นไป",
-        "includes_steam_key": "คุณจะได้รับรหัส Steamคีย์ พร้อมกับการสั่งซื้อของคุณ",
+        "includes_steam_key": "คุณจะได้รับคีย์สตรีมพร้อมกับการสั่งซื้อของคุณ",
         "no_thanks_just_take_me_to_the_downloads": "ไม่เป็นไร พาฉันไปที่หน้าดาวน์โหลด",
-        "free_pay_what_you_want": "โครงการนี้ไม่มีค่าใช้จ่าย แต่ผู้สร้างยอมรับการสนับสนุนของคุณโดยให้คุณจ่ายในสิ่งที่คุณคิดว่ายุติธรรม",
+        "free_pay_what_you_want": "โครงการนี้ไม่มีค่าใช้จ่าย แต่ผู้สร้างยอมรับการสนับสนุนของคุณโดยให้คุณจ่ายในราคาที่คุณคิดว่ายุติธรรม",
         "buy_as_bundle_plural": "คุณสามารถซื้อผลิตภัณฑ์นี้โดยเป็นส่วนหนึ่งของชุดสินค้า {{count}} รายการในราคา {{price}}:",
         "also_buy_as_bundle_plural": "คุณยังสามารถซื้อผลิตภัณฑ์นี้โดยเป็นส่วนหนึ่งของชุดสินค้า {{count}} รายการในราคา {{price}}:",
-        "percent_off_until": "การซื้อทั้งหมดจะลด <s> {{rate}}% </s> จนถึงวันที่ {{end_date}}",
+        "percent_off_until": "การซื้อทั้งหมดจะลด <s>{{rate}}%</s> จนถึงวันที่ {{end_date}}",
         "support_message": "สนับสนุนการพัฒนาโครงการนี้โดยการบริจาค",
         "on_sale_notice": "สินค้านี้กำลังลดราคาอยู่",
         "sold_out_notice": "สินค้านี้จำหน่ายหมดแล้วโปรดกลับมาตรวจสอบในภายหลัง",
         "preorder_title": "สั่งซื้อ \"{{title}}\" ล่วงหน้า",
         "buy_title": "ซื้อ \"{{title}}\"",
-        "download_title": "ดาวน์โหลด \"{{title}}\""
+        "download_title": "ดาวน์โหลด \"{{title}}\"",
+        "support_the_creator_by_paying_above_the_minimum_price": "สนับสนุนผู้สร้างสรรค์โดยจ่ายเงินในจำนวนที่สูงกว่าราคาขั้นต่ำ",
+        "support_the_creator_with_an_additional_contribution": "สนับสนุนผู้สร้างสรรค์โดยการมีส่วนร่วมเพิ่มเติม",
+        "pay_with": "ชำระด้วย"
     },
     "community": {
         "topic_list": {
