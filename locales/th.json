@@ -150,7 +150,13 @@
     },
     "browse": {
         "results_count": "{{count}} ผลลัพธ์",
-        "results_count_plural": "{{count}} ผลลัพธ์"
+        "results_count_plural": "{{count}} ผลลัพธ์",
+        "sort_popular": "ยอดนิยม",
+        "sort_new_and_popular": "ใหม่ยอดนิยม",
+        "sort_top_sellers": "ขายดี",
+        "sort_top_rated": "คะแนนสูง",
+        "sort_most_recent": "ใหม่ล่าสุด",
+        "sort": "จัดเรียง"
     },
     "misc": {
         "accessibility_features": {
@@ -528,7 +534,8 @@
             "more_from_creator": "ดูอย่างอื่นจากผู้สร้างสรรค์คนเดียวกันได้บนหน้าของพวกเขา: {{profile}}",
             "thanks_project_author": "ขอขอบคุณที่ดาวน์โหลด {{project}} โดย {{author}}",
             "thanks_for_downloading_title": "ขอบคุณที่ดาวน์โหลด",
-            "share_this_project": "แบ่งปันโครงการนี้"
+            "share_this_project": "แบ่งปันโครงการนี้",
+            "see_everything": "ดูทั้งหมด"
         },
         "password_required": {
             "header": "ต้องใช้รหัสผ่านเพื่อดูหน้านี้"
@@ -541,7 +548,9 @@
             "title": "รายงานเพจ '{{page_title}}'",
             "submit_report_button": "ส่งรายงาน",
             "email_creator_link": "ส่งอีเมลถึงผู้สร้าง",
-            "support_page_link": "ไปที่หน้าการช่วยเหลือ"
+            "support_page_link": "ไปที่หน้าการช่วยเหลือ",
+            "form_description": "กรุณากรอกข้อมูลในฟอร์มนี้ให้ครบถ้วนเพื่อติดต่อทีมผู้ดูของ itch.io เกี่ยวกับเนื้อหาในหน้านี้ การรายงานของคุณอาจถูกแบ่งปันกับผู้ที่สร้างหน้าหากจำเป็น",
+            "support_from_creator": "พบปัญห่าอยู่หรือเปล่า ต้องการความช่วยเหลือจากผู้สร้างสรรค์หรือไม่?"
         },
         "name_your_own_price": "ตั้งชื่อราคาของคุณ",
         "also_available_header": "นอกจากนี้ยังมีให้โหลดบน",
@@ -572,7 +581,13 @@
         "download_title": "ดาวน์โหลด \"{{title}}\"",
         "support_the_creator_by_paying_above_the_minimum_price": "สนับสนุนผู้สร้างสรรค์โดยจ่ายเงินในจำนวนที่สูงกว่าราคาขั้นต่ำ",
         "support_the_creator_with_an_additional_contribution": "สนับสนุนผู้สร้างสรรค์โดยการมีส่วนร่วมเพิ่มเติม",
-        "pay_with": "ชำระด้วย"
+        "pay_with": "ชำระด้วย",
+        "credit_card": "บัตรเครดิต",
+        "go_back": "ย้อนกลับ",
+        "continue_payment": "ชำระเงินต่อ",
+        "billing_address": "ที่อยู่สำหรับเรียกเก็บเงิน",
+        "generic_error": "เกิดข้อผิดพลาดกับการชำระเงินของคุณ: {{error}}",
+        "contact_support_on_error": "หากยังพบปัญหาอยู่ กรุณาติดต่อ<a>ฝ่ายสนับสนุน itch.io</a> พร้อมด้วยข้อมูลทั้งหมดที่เกี่ยวข้อง"
     },
     "community": {
         "topic_list": {
@@ -616,7 +631,7 @@
             "see_community_guidelines": "ดู <a> หลักเกณฑ์ของชุมชน </a> สำหรับนโยบายชุมชน itch.io"
         },
         "topic": {
-            "create_related_topic": "หากคุณมีสิ่งที่เกี่ยวข้องกับโพสต์ให้ลอง <a> สร้างหัวข้อใน {{category_name}} </a>",
+            "create_related_topic": "หากคุณมีสิ่งที่เกี่ยวข้องกับโพสต์ให้ลอง <a> สร้างหัวข้อใน {{category_name}}</a>",
             "topic_is_autoarchived": "หัวข้อนี้ถูกเก็บถาวรโดยอัตโนมัติและไม่สามารถโพสต์ได้อีกต่อไปเนื่องจากไม่มีการโพสต์ใด ๆ มาระยะเวลานานแล้ว",
             "this_topic_was_locked_by_username": "หัวข้อนี้ถูกล็อกโดย {{username}}",
             "this_topic_is_locked": "หัวข้อนี้ถูกล็อก",
@@ -629,7 +644,7 @@
             "replies_count": "จำนวนตอบกลับ: {{count}}",
             "moderation": "ผู้ดูแล",
             "locked": "ถูกล็อค",
-            "sticky": "หัวข้อเหนียว",
+            "sticky": "ปักหมุด",
             "return_to_topic_list": "กลับไปที่รายการหัวข้อ",
             "subscribe": "สมัครรับข่าวสาร",
             "unsubscribe": "ยกเลิกรับข่าวสาร",
@@ -644,6 +659,24 @@
             "log_in_to_reply": "เข้าสู่ระบบเพื่อตอบกลับ",
             "reply": "ตอบกลับ",
             "topic_is_archived": "หัวข้อนี้ถูกเก็บถาวรและไม่สามารถโพสต์ได้อีกต่อไป"
+        },
+        "post_list": {
+            "deleted_post": "ลบโพสต์",
+            "post_from_blocked_account": "โพสต์จากผู้ใช้ที่ถูกบล็อก"
         }
+    },
+    "collection": {
+        "authors": "คอลแลคชันโดย {{author}}",
+        "last_updated_date": "อัปเดตล่าสุดเมื่อ {{date}}",
+        "edit_collection": "แก้ไขคอลแลคชัน",
+        "edit_contributors": "แก้ไขผู้มีส่วนร่วม",
+        "empty_collection_message": "ดูเหมือนจะไม่มีอะไรในคอลแลคชันนี้",
+        "pending_invitation": "คุณกำลังถูกเชิญเป็นผู้มีส่วนร่วมในคอลแลคชันนี้ <a>ดูการเชิญ</a>",
+        "a_collection_by_author": "คอลแลคชันโดย {{author}}",
+        "page_title": "{{collection_title}} — คอลแลคชันโดย {{author}}",
+        "remove_item_button": "ลบออก...",
+        "blurb_author_says": "{{author}} พูดว่า",
+        "private_collection_message": "คอลแลคชันนี้ไม่เป็นสาธารณะ เฉพาะผู้มีส่วนร่วมด้วยเท่านั้นจึงจะสามารถเห็นเนื้อหานี้ได้",
+        "remove_confirm": "คุณแน่ใจหรือไม่ว่าต้องการลบออกจากคอลแลคชัน"
     }
 }
