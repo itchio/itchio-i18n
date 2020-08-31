@@ -299,7 +299,8 @@
         "comments": {
             "comments_header": "Коментари",
             "click_to_leave_a_comment": "Натиснете тук, за да добавите коментар…",
-            "log_in_to_leave_comment": "<a>Влезте с профила си в itch.io</a>, за да добавите коментар."
+            "log_in_to_leave_comment": "<a>Влезте с профила си в itch.io</a>, за да добавите коментар.",
+            "write_your_comment": "Въведете коментара си…"
         },
         "info_panel": {
             "release_status": "Състояние",
@@ -315,7 +316,17 @@
             "tags": "Етикети",
             "code_license": "Лиценз",
             "asset_license": "Лиценз на материалите",
-            "mentions": "Споменавания"
+            "mentions": "Споменавания",
+            "updated_at": "Обновено",
+            "average_session_duration": "Средна продължителност",
+            "languages": "Езици",
+            "inputs": "Входни устройства",
+            "accessibility": "Достъпност",
+            "singleplayer": "Един играч",
+            "links": "Връзки",
+            "player_count": "Брой играчи",
+            "published_at": "Публикувано",
+            "multiplayer": "Игра с други играчи"
         },
         "post_a_new_topic": "Публикуване на нова тема",
         "layout": {
@@ -349,9 +360,19 @@
                 "you_rated_this_game": "Вие сте оценили тази игра",
                 "now_accepting_ratings": "Конкурсът в момента приема оценки за участващите проекти.",
                 "accepting_ratiings": "Конкурсът в момента приема оценки за участващите проекти. <a>Научете повече</a>",
-                "rating_instructions": "Оценете и коментирайте участието на този проект в конкурса, като посетите страницата му чрез връзката по-горе."
+                "rating_instructions": "Оценете и коментирайте участието на този проект в конкурса, като посетите страницата му чрез връзката по-горе.",
+                "view_the_submission_page": "Преглед на страницата в конкурса"
             },
-            "rate_for_jam": "Оценяване за {{jam_title}}"
+            "rate_for_jam": "Оценяване за {{jam_title}}",
+            "view_all_by_name": "Преглед на всичко от {{name}}",
+            "creator": "Създател",
+            "follow": "Следване",
+            "following": "Следвате",
+            "follow_username": "Следване на {{username}}",
+            "following_username": "Следвате {{username}}",
+            "add_to_collection": "Добавяне към колекция",
+            "rate_this_noun": "Оценяване",
+            "submission_to_jam": "Участва в {{jam_title}}"
         },
         "after_download": {
             "share_this_project": "Споделяне на този проект",
@@ -383,7 +404,24 @@
         },
         "password_required": {
             "header": "За преглед на тази страница е необходима парола"
-        }
+        },
+        "community_header": "Общност",
+        "join_the_community": "Присъединете се към обгността",
+        "community_view_all_posts": "Преглед на всички публикации",
+        "community_posts_count": "{{count}} публикация",
+        "community_posts_count_plural": "{{count}} публикации",
+        "post_first_topic": "Създайте първата тема",
+        "community_sticky": "Закачено",
+        "upload_list": {
+            "preorder": "Предплащане",
+            "if_you_pay_price_or_more": "ако платите {{price}} или повече",
+            "version_name": "Версия {{version_name}}",
+            "download": "Сваляне",
+            "play_in_browser": "Пускане в браузъра",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Този файл ще бъде достъпен след като създателят го качи",
+            "empty_message": "Все още няма нищо за сваляне."
+        },
+        "community_post_author": "от {{username}}"
     },
     "buy_form": {
         "gift_email_instructions": "Ще можете да изберете адрес на е-поща, на която да изпратите подаръка, след като платите",
