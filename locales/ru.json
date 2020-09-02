@@ -166,7 +166,7 @@
         "forms": {
             "required": "Обязательно",
             "save": "Сохранить",
-            "email_address": "Email адрес",
+            "email_address": "Email",
             "submit": "Отправить",
             "optional": "Необязательно",
             "search": "Поиск",
@@ -182,7 +182,7 @@
             "unfollow": "Отписаться"
         },
         "filter_when": {
-            "last_day": "Последний день",
+            "last_day": "Вчера",
             "last_7_days": "Последние 7 дней",
             "last_30_days": "Последние 30 дней"
         },
