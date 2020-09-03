@@ -519,7 +519,10 @@
         "post_a_new_topic": "發表新主題",
         "will_be_available_in": "將在 {{time_remaining}} 之後開放。",
         "install_instructions": "安裝指引",
-        "download_access": "點選下載以取得以下檔案："
+        "download_access": "點選下載以取得以下檔案：",
+        "get_access": "您將取得以下檔案：",
+        "steam_key_bundle_disclaimer": "（注意：{{bundle_title}} 並不包含 Steam 啟動碼）",
+        "get_access_preorder": "您將在發布後取得以下檔案："
     },
     "community": {
         "topic": {
