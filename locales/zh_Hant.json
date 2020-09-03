@@ -381,7 +381,7 @@
         "learn_more": "瞭解更多",
         "upload_your_game_description": "你可以在<s>itch.io</s>免費上傳獨立遊戲。我們會發行你的遊戲，展示遊戲截圖和其他下載內容。我們也會為你提供快速的下載環境。",
         "share_message": "itch.io 是一款免費在線平台，讓你輕鬆發行自己的獨立遊戲。",
-        "upload_or_dashboard": "<1>上傳新遊戲</1> <em></em> <2>打開創作中心</2>"
+        "upload_or_dashboard": "<1>上傳新遊戲</1> <em>或</em> <2>打開創作中心</2>"
     },
     "search": {
         "creators": "創作者：",
