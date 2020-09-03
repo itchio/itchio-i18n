@@ -284,7 +284,8 @@
         },
         "multiplayer_features": {
             "local": "單機多人",
-            "server": "多人網絡聯機遊戲"
+            "server": "網絡多人聯機遊戲",
+            "adhoc": "本地多人聯機"
         },
         "platforms": {
             "web": "網頁"
