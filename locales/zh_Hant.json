@@ -692,7 +692,7 @@
         "billing_address": "帳單地址",
         "included_files": "包含的檔案",
         "agree_to_terms": "完成本次付款就視同您同意 itch.io 的<1>服務條款</1>和<2>隱私權政策</2>。",
-        "i_already_paid_for_this": "我已經付過錢了……",
+        "i_already_paid_for_this": "我已經付過錢了…",
         "percent_off_until": "全部的購買在 {{end_date}} 之前可省下<s> {{rate}}%</s>。",
         "on_sale_notice": "本商品目前特價中。",
         "generic_error": "您的購買遇到了問題：{{error}}",
@@ -704,7 +704,20 @@
         "buy_as_bundle_plural": "你可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）：",
         "free_pay_what_you_want": "這個作品是免費的，但創作者接受您支付一個您認為合適的金額作為支持。",
         "also_buy_as_bundle_plural": "你也可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）：",
-        "includes_steam_key": "你購買後將會收到 Steam 序號."
+        "includes_steam_key": "在您購買後將會收到 一個Steam 序號。",
+        "support_the_creator_by_paying_above_the_minimum_price": "支付高於最低購買價格以支持創作者",
+        "preorder_this_product_by_purchasing_it_for": "支付{{price}}或更高價格以預購本產品。",
+        "download_this_product_by_purchasing_it_for": "支付{{price}}或更高價格以下載本產品。",
+        "email_address_description": "您的付款確認訊息將會被寄到這裡",
+        "gift_email_instructions": "您將在付款後選擇一個電子郵箱來贈送禮物",
+        "this_purchase_is_a_gift": "本次購買是一份禮物",
+        "support_the_creator_with_an_additional_contribution": "用額外的捐助來支持創作者",
+        "pay_with": "付款方式",
+        "check_out_with": "付款方式",
+        "credit_card": "信用卡",
+        "go_back": "返回",
+        "continue_payment": "繼續付款",
+        "contact_support_on_error": "如果問題持續存在，請聯繫<a> itch.io支持</a>並提供所有相關細節。"
     },
     "user_settings": {
         "navigation": {
@@ -771,13 +784,28 @@
         "filter_by_tag": "以標籤過濾",
         "view_all_tags": "檢視全部標籤",
         "filter_group_platform": "平台",
-        "filter_group_price": "價錢",
+        "filter_group_price": "價格",
         "sort": "排序",
-        "sort_popular": "熱門",
+        "sort_popular": "流行",
         "filter_group_genre": "類型",
         "filter_group_misc": "其他",
-        "results_count": "{{count}} 項結果",
-        "results_count_plural": "{{count}} 項結果"
+        "results_count": "{{count}} 個結果",
+        "results_count_plural": "{{count}}個結果",
+        "sort_new_and_popular": "新品&流行",
+        "sort_top_sellers": "最暢銷",
+        "sort_top_rated": "最高評價",
+        "filter_results": "篩選結果",
+        "clear_filters": "清除篩選",
+        "related_collections": "相關的收藏庫",
+        "tag": {
+            "no_description_yet": "目前沒有說明",
+            "suggest_updated_description": "建議更新說明",
+            "suggest_description_for_this_tag": "為此標籤提供說明"
+        },
+        "filter_group_when": "當",
+        "sort_most_recent": "最近的",
+        "upload_your_project": "<a>上傳你的專案</a>到itch.io以顯示在此。",
+        "filter_group_input_methods": "輸入方式"
     },
     "game_download": {
         "trouble_downloading_link": "沒有開始下載？",
@@ -878,6 +906,16 @@
     "collection": {
         "blurb_author_says": "{{author}} 說",
         "edit_blurb": "編輯簡介",
-        "add_a_blurb": "新增簡介"
+        "add_a_blurb": "新增簡介",
+        "authors": "一個{{author}}的收藏庫",
+        "last_updated_date": "{{date}}最後一次更新",
+        "edit_collection": "編輯收藏庫",
+        "edit_contributors": "編輯共用人",
+        "empty_collection_message": "這個收藏庫沒有任何收藏。",
+        "private_collection_message": "這是私人收藏庫，只有共用人可以看到內容",
+        "pending_invitation": "您已收到成為此收藏庫共用人的邀請<a>查看邀請</a>",
+        "a_collection_by_author": "一個{{author}}的收藏庫",
+        "page_title": "{{collection_title}} - {{author}}的收藏庫",
+        "remove_confirm": "確定是否從此收藏庫移除此項目"
     }
 }
