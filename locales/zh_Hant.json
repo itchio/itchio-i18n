@@ -517,7 +517,8 @@
             "thanks_for_downloading_title": "感謝您的下載",
             "check_popup_blocker": "下載將會立刻開始。如果沒有的話，請檢查您的彈出視窗阻擋器。",
             "more_from_creator": "查看該作者的其他作品：{{profile}}。",
-            "view_all_from_jam": "查看Jam的所有內容"
+            "view_all_from_jam": "查看Jam的所有內容",
+            "check_out_more_from_jam_title": "查看 {{jam_title}} 的更多內容"
         },
         "report_form": {
             "email_creator_link": "寄送電子郵件給創作者",
