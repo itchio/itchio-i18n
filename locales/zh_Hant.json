@@ -916,6 +916,7 @@
         "pending_invitation": "您已收到成為此收藏庫共用人的邀請<a>查看邀請</a>",
         "a_collection_by_author": "一個{{author}}的收藏庫",
         "page_title": "{{collection_title}} - {{author}}的收藏庫",
-        "remove_confirm": "確定是否從此收藏庫移除此項目"
+        "remove_confirm": "確定是否從此收藏庫移除此項目",
+        "remove_item_button": "移除..."
     }
 }
