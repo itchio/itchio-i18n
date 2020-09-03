@@ -197,7 +197,9 @@
             "search": "搜尋",
             "optional": "選填",
             "email_address": "電子郵件地址",
-            "required": "必填"
+            "required": "必填",
+            "save": "儲存",
+            "submit": "送出"
         },
         "loading_more_ellip": "載入更多……",
         "release_statuses": {
@@ -239,7 +241,8 @@
             "joystick": "搖桿",
             "dance_pad": "跳舞墊/台",
             "accelerometer": "加速度感測器",
-            "touchscreen": "觸控螢幕"
+            "touchscreen": "觸控螢幕",
+            "gamepad": "控制器（任何型號）"
         },
         "more_ellip": "更多……",
         "durations": {
@@ -283,13 +286,14 @@
             "add_to_collection": "增加到收藏"
         },
         "multiplayer_features": {
-            "local": "單機多人",
-            "server": "網絡多人聯機遊戲",
-            "adhoc": "本地多人聯機"
+            "local": "即席多人遊戲",
+            "server": "網路伺服器多人遊戲",
+            "adhoc": "本地多人連線遊戲"
         },
         "platforms": {
             "web": "網頁"
-        }
+        },
+        "dismiss": "忽略"
     },
     "user_login": {
         "errors": {
@@ -302,7 +306,8 @@
             "forgot_password": "忘記密碼",
             "password": "密碼",
             "username_or_email": "使用者名稱或電子郵件地址",
-            "create_account": "建立帳戶"
+            "create_account": "建立帳戶",
+            "or_log_in_with_another_site": "或由第三方登入"
         },
         "page_title": "登入",
         "welcome_to_itchio": "歡迎來到 itch.io！",
@@ -325,7 +330,8 @@
         "updates": "更新",
         "tag_filter": "過濾到{{tag}}。<a>清除標籤</a>",
         "digest": "摘要",
-        "all_posts": "全部文章"
+        "all_posts": "全部文章",
+        "empty_message": "這裡沒有任何內容"
     },
     "user_register": {
         "register_form": {
