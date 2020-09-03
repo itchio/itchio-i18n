@@ -211,7 +211,9 @@
         },
         "project_visibility": {
             "draft": "草稿",
-            "public": "公開"
+            "public": "公開",
+            "restricted": "限制",
+            "published": "發佈"
         },
         "countdown": {
             "seconds": "秒",
@@ -293,7 +295,8 @@
         "platforms": {
             "web": "網頁"
         },
-        "dismiss": "忽略"
+        "dismiss": "忽略",
+        "view_more": "檢視更多"
     },
     "user_login": {
         "errors": {
