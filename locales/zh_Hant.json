@@ -433,7 +433,8 @@
                 "download": "下載",
                 "you_havent_sent_this_gift_to_anyone_yet": "您還沒有把這份禮物給任何人",
                 "percent_off": "{{percent}}% off",
-                "you_own_this": "您已經擁有本"
+                "you_own_this": "您已經擁有本",
+                "send_gift": "送禮"
             },
             "community": "社群",
             "add_to_collection_short": "收藏",
@@ -451,7 +452,10 @@
             "devlog": "開發日誌",
             "following_username": "正在追蹤 {{username}}",
             "follow_username": "追蹤 {{username}}",
-            "comments": "留言"
+            "comments": "留言",
+            "view_all_by_name": "檢視{{name}}的所有內容",
+            "submission_to_jam": "在{{jam_title}}投稿",
+            "rate_for_jam": "為{{jam_title}}評分"
         },
         "percent_off": "<s>{{percent}}%</s> Off",
         "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 產品序號。",
@@ -463,7 +467,9 @@
             "version_name": "版本 {{version_name}}",
             "if_you_pay_price_or_more": "如果您付款 {{price}} 或更多",
             "play_in_browser": "在瀏覽器中遊玩",
-            "preorder": "預購"
+            "preorder": "預購",
+            "this_file_will_be_available_when_the_creator_uploads_it": "此檔案直到創作者上傳後才可使用",
+            "empty_message": "還沒有內容可以下載。"
         },
         "join_the_community": "加入社群",
         "community_header": "社群",
@@ -488,7 +494,10 @@
             "mentions": "被引用在",
             "updated_at": "更新",
             "published_at": "發佈",
-            "release_date": "發行日期"
+            "release_date": "發行日期",
+            "publisher": "發行人",
+            "multiplayer": "多人遊戲",
+            "singleplayer": "單人遊戲"
         },
         "development_log_header": "開發紀錄",
         "after_download": {
@@ -513,7 +522,12 @@
         "download_now_button": "馬上下載",
         "comments": {
             "write_your_comment": "寫下您的留言……",
-            "comments_header": "留言"
+            "comments_header": "留言",
+            "leave_a_comment_header": "留下評論",
+            "leave_a_comment": "留下評論",
+            "click_to_leave_a_comment": "點擊以留下評論…",
+            "log_in_to_leave_comment": "<a>登入itch.io</a>來留下評論。",
+            "post_comment": "送出評論"
         },
         "password_required": {
             "header": "本頁面需要密碼才能檢視"
@@ -528,7 +542,9 @@
         "get_access_preorder": "您將在發布後取得以下檔案：",
         "preorder_button": "馬上預訂",
         "devlog_view_all_posts": "檢視全部文章",
-        "community_view_all_posts": "檢視全部文章"
+        "community_view_all_posts": "檢視全部文章",
+        "community_post_author": "來自{{username}}",
+        "community_posts_count": "{{count}}篇文章"
     },
     "community": {
         "topic": {
