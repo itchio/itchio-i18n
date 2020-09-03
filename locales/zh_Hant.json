@@ -408,7 +408,11 @@
         "updates_description": "不只您安裝的遊戲會自動更新，客戶端也會在有新功能推出時自動更新。使用我們新的命令列工具的遊戲會產生<em>差異更新檔</em>，確保您只需要下載遊戲有更動的部分。",
         "community_header": "加入社群",
         "download_now": "馬上下載",
-        "community_description": "<1>加入社群</1>以了解更多客戶端開發事項。與 itch.io 其他成員分享功能需求或是反饋。如果您是程式設計師，相信你會很高興聽到整個專案有<2>在 GitHub 上開源</2>，我們期待您的 pull request。"
+        "community_description": "<1>加入社群</1>以了解更多客戶端開發事項。與 itch.io 其他成員分享功能需求或是反饋。如果您是程式設計師，相信你會很高興聽到整個專案有<2>在 GitHub 上開源</2>，我們期待您的 pull request。",
+        "more_info_links": "<1>閱讀常見問題</1>或<2>閱讀應用指南</2>",
+        "learn_more_below": "瞭解更多",
+        "read_the_app_guide": "閱讀應用指南",
+        "summary": "itch.io應用程式，<s>itch</s>，讓你毫不費力地從 itch.io 下載並運行遊戲和軟件。你所有下載的內容都會被保存在一個位置，並且會自動更新。你可以通過應用內瀏覽器訪問收藏和購買的內容，或者瀏覽新遊戲。"
     },
     "game": {
         "more_information": "更多資訊",
