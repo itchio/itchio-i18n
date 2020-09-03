@@ -434,7 +434,8 @@
                 "you_havent_sent_this_gift_to_anyone_yet": "您還沒有把這份禮物給任何人",
                 "percent_off": "{{percent}}% off",
                 "you_own_this": "您已經擁有本",
-                "send_gift": "送禮"
+                "send_gift": "發送禮物",
+                "claimed": "已領取"
             },
             "community": "社群",
             "add_to_collection_short": "收藏",
