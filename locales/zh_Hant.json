@@ -517,7 +517,8 @@
         },
         "post_first_topic": "發表第一個主題",
         "post_a_new_topic": "發表新主題",
-        "will_be_available_in": "將在 {{time_remaining}} 之後開放。"
+        "will_be_available_in": "將在 {{time_remaining}} 之後開放。",
+        "install_instructions": "安裝指引"
     },
     "community": {
         "topic": {
