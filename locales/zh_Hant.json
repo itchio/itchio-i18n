@@ -427,7 +427,9 @@
             "following": "正在追蹤",
             "footer": {
                 "report": "回報問題",
-                "embed": "嵌入代碼"
+                "embed": "嵌入代碼",
+                "view_all_by_username": "檢視{{username}}的所有文章",
+                "updated_date": "於{{date}}已更新"
             },
             "ownership": {
                 "download": "下載",
@@ -435,14 +437,22 @@
                 "percent_off": "{{percent}}% off",
                 "you_own_this": "您已經擁有本",
                 "send_gift": "發送禮物",
-                "claimed": "已領取"
+                "claimed": "已領取",
+                "you_were_gifted_this": "你已收到禮物",
+                "purchased_in_a_bundle_for_price": "以{{price}}購買同捆包",
+                "purchased_for_price": "以{{price}}購買"
             },
             "community": "社群",
             "add_to_collection_short": "收藏",
             "add_to_collection": "增加到收藏",
             "creator": "創作者",
             "jam_submission": {
-                "you_rated_this_game": "您已經對這個遊戲評分"
+                "you_rated_this_game": "您已經對這個遊戲評分",
+                "this_is_a_submission_to_jam_title": "這是已提交於{{jam_title}}的作品",
+                "view_the_submission_page": "檢視提交頁面",
+                "accepting_ratiings": "這個 Jam 正在接受對於已提交作品的評分。 <a>瞭解更多</a>",
+                "now_accepting_ratings": "這個Jam 正在接受對於参赛作品的評分。",
+                "rating_instructions": "訪問上方的提交頁面，以對此Jam進行評分與評論。"
             },
             "related_games_short": "相關",
             "related_games": "相關遊戲",
@@ -504,7 +514,8 @@
         "after_download": {
             "thanks_project_author": "感謝您下載 {{author}} 的 {{project}}。",
             "share_this_project": "分享本專案",
-            "thanks_for_downloading_title": "感謝您的下載"
+            "thanks_for_downloading_title": "感謝您的下載",
+            "check_popup_blocker": "下載將會立刻開始。如果沒有的話，請檢查您的彈出視窗阻擋器。"
         },
         "report_form": {
             "email_creator_link": "寄送電子郵件給創作者",
