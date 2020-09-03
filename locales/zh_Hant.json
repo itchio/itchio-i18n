@@ -600,7 +600,9 @@
             "views_count": "檢視：{{count}}次",
             "topic_is_autoarchived": "此主題近期無人回應，已自動封存，無法再發布任何內容。",
             "create_related_topic": "如果您要發表相關內容，可以考慮<a>在{{category_name}}中創建一個主題</a>。",
-            "unlisted_topic_notice": "<s>一位管理員已隱藏此主題。</ s> 此主題將不會在主題列表中被顯示，但您仍可以進行回復及修改。"
+            "unlisted_topic_notice": "<s>一位管理員已隱藏此主題。</ s> 此主題將不會在主題列表中被顯示，但您仍可以進行回復及修改。",
+            "subscribe": "訂閱",
+            "locked": "已鎖定"
         },
         "new_topic": {
             "topic_tag": "標籤",
@@ -648,7 +650,8 @@
             "like": "讚",
             "view_more_in_thread": "檢視更多",
             "vote_up": "支持",
-            "vote_down": "反對"
+            "vote_down": "反對",
+            "ban": "封鎖..."
         },
         "category": {
             "unsubscribe_from_topics": "取消訂閱",
@@ -700,7 +703,8 @@
         "support_message": "贊助本專案的開發者",
         "buy_as_bundle_plural": "你可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）：",
         "free_pay_what_you_want": "這個作品是免費的，但創作者接受您支付一個您認為合適的金額作為支持。",
-        "also_buy_as_bundle_plural": "你也可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）："
+        "also_buy_as_bundle_plural": "你也可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）：",
+        "includes_steam_key": "你購買後將會收到 Steam 序號."
     },
     "user_settings": {
         "navigation": {
