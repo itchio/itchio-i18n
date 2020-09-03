@@ -517,12 +517,23 @@
             "thanks_for_downloading_title": "感謝您的下載",
             "check_popup_blocker": "下載將會立刻開始。如果沒有的話，請檢查您的彈出視窗阻擋器。",
             "more_from_creator": "查看該作者的其他作品：{{profile}}。",
-            "view_all_from_jam": "查看Jam的所有內容",
-            "check_out_more_from_jam_title": "查看 {{jam_title}} 的更多內容"
+            "view_all_from_jam": "查看Jam上的所有內容",
+            "check_out_more_from_jam_title": "查看 {{jam_title}} 的更多內容",
+            "app_learn_more": "<s>新消息！</s>使用itch.io桌面應用程式來下載和管理您的遊戲庫。<a>瞭解更多</a>",
+            "more_from_itchio_header": "查看itch.io上的所有內容",
+            "powered_by": "<s>Powered by</s> {{itchio_logo}}"
         },
         "report_form": {
             "email_creator_link": "寄送電子郵件給創作者",
-            "support_from_creator": "您遇到麻煩，需要創作者給予您協助嗎？"
+            "support_from_creator": "您遇到麻煩，需要創作者給予您協助嗎？",
+            "support_page_link": "前往官方支援頁面",
+            "submit_report_button": "送出報告",
+            "title": "'{{page_title}}'的報告頁面",
+            "report_received_header": "報告已被接收",
+            "description_label": "描述",
+            "reason_label": "原因",
+            "reason_other": "其他",
+            "form_description": "如果您想瞭解關於本頁面的內容，請填寫此表格給itch.io團隊審查，如有必要，就會將您的報告分享給本頁面的創作者。"
         },
         "community_sticky": "至頂",
         "empty_page_no_uploads": "創作者還沒上傳任何東西……",
@@ -571,14 +582,24 @@
             "next_page": "下一頁",
             "remove_bookmark": "移除書籤",
             "new_reply": "新回覆",
-            "sticky": "至頂",
+            "sticky": "置頂",
             "unsubscribe": "取消訂閱",
-            "replies_count": "回覆：{{count}}",
+            "replies_count": "回覆：{{count}}則",
             "this_topic_was_locked_by_username": "本主題已被 {{username}} 鎖定",
             "this_topic_is_locked": "本主題已被鎖定",
             "return_to_topic_list": "回到主題列表",
             "join_the_discussion": "登入或建立免費的 itch.io 帳號以加入討論。",
-            "a_topic_by_username_created_time_ago": "{{time_ago}} 由 {{username}} 發表的主題"
+            "a_topic_by_username_created_time_ago": "{{time_ago}} 由 {{username}} 發表的主題",
+            "topic_is_archived": "此主題已封存，無法再發布內容",
+            "reply_to_someone_else": "想要回覆其他人？點擊他們文章下方的<s>回覆</s>。",
+            "this_reply_will_go_to_yourself": "這將回覆給您自己。",
+            "this_reply_will_go_to_the_topic_author": "將回覆給主題的作者，{{username}}。",
+            "bookmark": "加入書籤",
+            "moderation": "審核",
+            "views_count": "檢視：{{count}}次",
+            "topic_is_autoarchived": "此主題近期無人回應，已自動封存，無法再發布任何內容。",
+            "create_related_topic": "如果您要發表相關內容，可以考慮<a>在{{category_name}}中創建一個主題</a>。",
+            "unlisted_topic_notice": "<s>一位管理員已隱藏此主題。</ s> 此主題將不會在主題列表中被顯示，但您仍可以進行回復及修改。"
         },
         "new_topic": {
             "topic_tag": "標籤",
@@ -587,14 +608,24 @@
             "locked": "鎖定",
             "sticky": "置頂",
             "moderator_tools": "管理員工具",
-            "new_topic": "新增主題"
+            "new_topic": "新主題",
+            "moderation_options": "選項",
+            "this_a_community_run_message_board": "此為由社群管理的留言板。",
+            "see_community_guidelines": "有關itch.io社群政策，請參見<a>社群方針</a>。",
+            "body": "內文",
+            "your_moderators_are": "itch.io並未管理留言板，管理員為：",
+            "page_title": "發布新主題"
         },
         "post_form": {
             "remove_tag": "移除標籤",
-            "tag_header": "標籤",
+            "tag_header": "加入標籤",
             "subscribe": "訂閱",
             "add_profile_image": "增加個人檔案圖片",
-            "subscribe_to_this_topic": "訂閱本主題"
+            "subscribe_to_this_topic": "訂閱本主題",
+            "save": "儲存",
+            "post": "發布",
+            "subscribe_description": "本主題有新回覆時收到通知",
+            "post_reply": "發布回覆"
         },
         "post_list": {
             "report": "回報",
@@ -607,36 +638,52 @@
             "suspended_account": "已停用的帳戶",
             "edit": "編輯",
             "edits_count": "（已編輯 {{count}} 次）",
-            "edits_count_plural": "（已編輯 {{count}} 次）",
+            "edits_count_plural": "（已編輯{{count}}次）",
             "post_from_suspended_account": "來自已停用帳戶的文章",
             "pinned_post": "置頂文章",
-            "deleted_post": "已刪除的文章"
+            "deleted_post": "已刪除的文章",
+            "post_from_blocked_account": "文章作者已被封鎖",
+            "edit_blocks": "編輯方塊",
+            "like": "讚",
+            "view_more_in_thread": "檢視更多",
+            "vote_up": "支持",
+            "vote_down": "反對"
         },
         "category": {
             "unsubscribe_from_topics": "取消訂閱",
             "search_community_label": "搜尋社群",
             "archived_flag": "已封存",
-            "create_first_topic_button": "發表第一個主題",
+            "create_first_topic_button": "創建第一個主題",
             "topics_count": "{{count}} 個主題",
             "stats": {
                 "topics": "主題"
             },
             "rules_header": "規則",
-            "recent_posts_header": "最近的文章"
+            "recent_posts_header": "最近的文章",
+            "empty_message": "沒有主題",
+            "there_arent_any_topics_yet": "還沒有任何主題",
+            "subscribe_to_new_topics": "訂閱新主題",
+            "list_header_last_topic": "上一個主題",
+            "new_flag": "新",
+            "by_topic_author": "來自{{username}}"
         },
         "topic_list": {
             "locked_flag": "已鎖定",
             "sticky_flag": "置頂",
             "list_header_topic_title": "主題",
             "replies_count": "<s>{{count}}</s> 則回覆",
-            "no_posts_yet": "還沒有文章"
+            "no_posts_yet": "還沒有文章",
+            "views_count": "<s>{{count}}</s>閱覽數",
+            "started_by_author": "起始於{{topic_author}}",
+            "new_flag": "新",
+            "list_header_last_post": "上一篇文章"
         },
         "misc": {
-            "new_topic_button": "新增主題"
+            "new_topic_button": "新主題"
         }
     },
     "buy_form": {
-        "no_thanks_just_take_me_to_the_downloads": "不用了，直接帶我到下載頁面",
+        "no_thanks_just_take_me_to_the_downloads": "不了，謝謝，直接進入下載頁面",
         "your_email_address": "您的電子郵件地址",
         "billing_address": "帳單地址",
         "included_files": "包含的檔案",
@@ -644,7 +691,15 @@
         "i_already_paid_for_this": "我已經付過錢了……",
         "percent_off_until": "全部的購買在 {{end_date}} 之前可省下<s> {{rate}}%</s>。",
         "on_sale_notice": "本商品目前特價中。",
-        "generic_error": "您的購買遇到了問題：{{error}}"
+        "generic_error": "您的購買遇到了問題：{{error}}",
+        "download_title": "下載'{{title}}'",
+        "buy_title": "購買'{{title}}'",
+        "preorder_title": "預購'{{title}}'",
+        "sold_out_notice": "本商品目前已售完，晚點再來。",
+        "support_message": "贊助本專案的開發者",
+        "buy_as_bundle_plural": "你可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）：",
+        "free_pay_what_you_want": "這個作品是免費的，但創作者接受您支付一個您認為合適的金額作為支持。",
+        "also_buy_as_bundle_plural": "你也可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）："
     },
     "user_settings": {
         "navigation": {
