@@ -414,7 +414,8 @@
         "read_the_app_guide": "閱讀應用指南",
         "summary": "itch.io應用程式，<s>itch</s>，讓你毫不費力地從 itch.io 下載並運行遊戲和軟件。你所有下載的內容都會被保存在一個位置，並且會自動更新。你可以通過應用內瀏覽器訪問收藏和購買的內容，或者瀏覽新遊戲。",
         "updates_header": "保持更新",
-        "meta_description": "itch，最適合下載、遊玩獨立遊戲的地方。在您的電腦上下載免費遊戲、管理遊戲庫。現已支援 Windows﹑macOS 與 Linux。"
+        "meta_description": "itch，最適合下載、遊玩獨立遊戲的地方。在您的電腦上下載免費遊戲、管理遊戲庫。現已支援 Windows﹑macOS 與 Linux。",
+        "page_title": "下載應用程式"
     },
     "game": {
         "more_information": "更多資訊",
