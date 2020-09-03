@@ -485,7 +485,10 @@
             "made_with_tools": "製作工具",
             "genre": "類型",
             "rating": "評分",
-            "mentions": "被引用在"
+            "mentions": "被引用在",
+            "updated_at": "更新",
+            "published_at": "發佈",
+            "release_date": "發行日期"
         },
         "development_log_header": "開發紀錄",
         "after_download": {
@@ -522,7 +525,10 @@
         "download_access": "點選下載以取得以下檔案：",
         "get_access": "您將取得以下檔案：",
         "steam_key_bundle_disclaimer": "（注意：{{bundle_title}} 並不包含 Steam 啟動碼）",
-        "get_access_preorder": "您將在發布後取得以下檔案："
+        "get_access_preorder": "您將在發布後取得以下檔案：",
+        "preorder_button": "馬上預訂",
+        "devlog_view_all_posts": "檢視全部文章",
+        "community_view_all_posts": "檢視全部文章"
     },
     "community": {
         "topic": {
