@@ -327,7 +327,8 @@
             "rate_game": "您需要有 itch.io 帳戶才可以給遊戲評分。",
             "follow_username": "您需要有 itch.io 帳戶才能追蹤 <1>{{username}}</1>。",
             "jam_submit": "您需要有 itch.io 帳戶才能提交作品到 Jam。",
-            "follow": "登入帳戶後即可關注其他用戶。"
+            "follow": "登入帳號後即可追蹤其他用戶。",
+            "collection": "登入帳號後即可加入收藏。"
         }
     },
     "blog": {
