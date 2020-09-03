@@ -328,7 +328,9 @@
             "follow_username": "您需要有 itch.io 帳戶才能追蹤 <1>{{username}}</1>。",
             "jam_submit": "您需要有 itch.io 帳戶才能提交作品到 Jam。",
             "follow": "登入帳號後即可追蹤其他用戶。",
-            "collection": "登入帳號後即可加入收藏。"
+            "collection": "登入帳號後即可加入收藏。",
+            "claim_object": "您需要登入或是創建帳號以取得 {{noun}}。",
+            "claim_object_title": "您需要登入或是創建帳號以取得{{title}}。"
         }
     },
     "blog": {
@@ -372,7 +374,9 @@
         "host_a_sale": "發起特價活動",
         "create_account_or_login": "<1>建立帳戶</1> <em>或</em> <2>登入</2>",
         "learn_more_about": "了解更多有關：",
-        "design_your_games_page_description": "建立自定義頁面以讓大家購買或下載您的遊戲。你可以自行選擇顏色、字體、圖像、和影片。因為這是屬於你的遊戲頁面，所以不會出現任何多餘內容。"
+        "design_your_games_page_description": "建立自定義頁面以讓大家購買或下載您的遊戲。你可以自行選擇顏色、字體、圖像、和影片。因為這是屬於你的遊戲頁面，所以不會出現任何多餘內容。",
+        "product_summary2": "你甚至可以為遊戲設置最低購買價格，再讓粉絲自行選擇想要支付的價格。",
+        "product_summary1": "<s>itch.io</s>可以讓你免費在線發佈獨立遊戲。將你的遊戲文件和屏幕截圖全部上傳到一個地方。建立一個以你的遊戲為重點的自定義登錄頁面。"
     },
     "search": {
         "creators": "創作者：",
