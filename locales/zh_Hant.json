@@ -521,7 +521,8 @@
             "check_out_more_from_jam_title": "查看 {{jam_title}} 的更多內容",
             "app_learn_more": "<s>新消息！</s>使用itch.io桌面應用程式來下載和管理您的遊戲庫。<a>瞭解更多</a>",
             "more_from_itchio_header": "查看itch.io上的所有內容",
-            "powered_by": "<s>Powered by</s> {{itchio_logo}}"
+            "powered_by": "<s>Powered by</s> {{itchio_logo}}",
+            "see_everything": "查看全部"
         },
         "report_form": {
             "email_creator_link": "寄送電子郵件給創作者",
