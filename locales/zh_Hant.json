@@ -733,7 +733,17 @@
             "developer_header": "開發者",
             "oauth_applications": "OAuth 應用程式",
             "tax_information": "稅務資訊",
-            "misc_header": "其他"
+            "misc_header": "其他",
+            "publisher_header": "發行人",
+            "two_factor_auth": "雙重驗證",
+            "support_email": "售後信箱",
+            "publisher_get_started": "立刻開始",
+            "revenue_sharing": "收入分成",
+            "payment_processors": "付款受理",
+            "payout_mode": "付款模式",
+            "press_access": "媒體支持",
+            "data_export": "數據匯出",
+            "thirdparty_analytics": "第三方分析"
         },
         "profile": {
             "language_description": "itch.io 使用者界面的語言",
@@ -755,7 +765,8 @@
             "disable_animated_gifs": "停用 GIF 動畫",
             "show_adult_content": "在搜尋和瀏覽時，顯示被標記為成人內容的東西",
             "default_language_option": "預設（多國語言測試階段期間，預設為英文）",
-            "language_community_translation": "<s>itch.io 是由我們的社群成員翻譯。</s> 有些語言只有一部分可以使用。如果您想要在 itch.io 使用您的語言或者是幫忙修正錯誤的話，您可以參與翻譯。 <a>了解更多</a>"
+            "language_community_translation": "<s>itch.io 是由我們的社群成員翻譯。</s> 有些語言只有一部分可以使用。如果您想要在 itch.io 使用您的語言或者是幫忙修正錯誤的話，您可以參與翻譯。 <a>了解更多</a>",
+            "profile_image_description": "將會與您的名字一起顯示在網站上（方框）"
         },
         "account_settings": "帳戶設定",
         "email_addresses": {
@@ -805,7 +816,20 @@
         "filter_group_when": "當",
         "sort_most_recent": "最近的",
         "upload_your_project": "<a>上傳你的專案</a>到itch.io以顯示在此。",
-        "filter_group_input_methods": "輸入方式"
+        "filter_group_input_methods": "輸入方式",
+        "fresh_description": "瀏覽由我們手工篩選並持續更新的專案。不要錯過任何新內容哦。",
+        "filter_group": {
+            "more_options": "更多選項",
+            "fewer_options": "更少選項",
+            "toggle_more_options": "切換更多選項",
+            "clear_filter": "清除篩選"
+        },
+        "filter_everything_else": "其他",
+        "filter_group_session_length": "平均時間長度",
+        "filter_group_multiplayer": "多人連線遊戲",
+        "filter_group_release_status": "銷售狀況",
+        "filter_group_collection": "收藏",
+        "filter_group_accessibility_features": "輔助功能"
     },
     "game_download": {
         "trouble_downloading_link": "沒有開始下載？",
@@ -901,7 +925,9 @@
     },
     "browse_tags": {
         "commonly_tagged_with": "常被標籤為",
-        "find_tag": "搜尋標籤"
+        "find_tag": "搜尋標籤",
+        "page_title": "熱門標籤",
+        "no_description_yet": "還沒有敘述"
     },
     "collection": {
         "blurb_author_says": "{{author}} 說",
@@ -918,5 +944,9 @@
         "page_title": "{{collection_title}} - {{author}}的收藏庫",
         "remove_confirm": "確定是否從此收藏庫移除此項目",
         "remove_item_button": "移除..."
+    },
+    "buy_form_popup": {
+        "author_line": "<1>來自</1> {{author}}",
+        "powered_by_itchio": "powered by {{itchio}}"
     }
 }
