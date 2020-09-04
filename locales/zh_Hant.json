@@ -743,7 +743,10 @@
             "payout_mode": "付款模式",
             "press_access": "媒體支持",
             "data_export": "數據匯出",
-            "thirdparty_analytics": "第三方分析"
+            "thirdparty_analytics": "第三方分析",
+            "basics_header": "基本",
+            "payment_header": "付款",
+            "contact_header": "聯絡"
         },
         "profile": {
             "language_description": "itch.io 使用者界面的語言",
@@ -766,7 +769,8 @@
             "show_adult_content": "在搜尋和瀏覽時，顯示被標記為成人內容的東西",
             "default_language_option": "預設（多國語言測試階段期間，預設為英文）",
             "language_community_translation": "<s>itch.io 是由我們的社群成員翻譯。</s> 有些語言只有一部分可以使用。如果您想要在 itch.io 使用您的語言或者是幫忙修正錯誤的話，您可以參與翻譯。 <a>了解更多</a>",
-            "profile_image_description": "將會與您的名字一起顯示在網站上（方框）"
+            "profile_image_description": "將會與您的名字一起顯示在網站上（方框）",
+            "display_name": "顯示名字"
         },
         "account_settings": "帳戶設定",
         "email_addresses": {
