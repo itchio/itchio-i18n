@@ -131,7 +131,8 @@
             "one_button": "Един бутон",
             "tutorial": "Интерактивно обучение",
             "highcontrast": "Висок контраст",
-            "configurable_controls": "Настройваемо управление"
+            "configurable_controls": "Настройваемо управление",
+            "subtitles": "Надписи"
         },
         "loading_more_ellip": "Зареждане на още…",
         "more_ellip": "Още…",
@@ -300,7 +301,10 @@
             "comments_header": "Коментари",
             "click_to_leave_a_comment": "Натиснете тук, за да добавите коментар…",
             "log_in_to_leave_comment": "<a>Влезте с профила си в itch.io</a>, за да добавите коментар.",
-            "write_your_comment": "Въведете коментара си…"
+            "write_your_comment": "Въведете коментара си…",
+            "leave_a_comment_header": "Добавяне на коментар",
+            "leave_a_comment": "Добавяне на коментар",
+            "post_comment": "Публикуване на коментар"
         },
         "info_panel": {
             "release_status": "Състояние",
@@ -347,7 +351,8 @@
                 "you_havent_sent_this_gift_to_anyone_yet": "Все още не сте изпратили този подарък",
                 "you_were_gifted_this": "Получено като подарък",
                 "purchased_in_a_bundle_for_price": "Закупено в пакет за {{price}}",
-                "purchased_for_price": "Закупено за {{price}}"
+                "purchased_for_price": "Закупено за {{price}}",
+                "claimed": "Получено"
             },
             "footer": {
                 "view_all_by_username": "Преглед на всичко от {{username}}",
@@ -421,7 +426,12 @@
             "this_file_will_be_available_when_the_creator_uploads_it": "Този файл ще бъде достъпен след като създателят го качи",
             "empty_message": "Все още няма нищо за сваляне."
         },
-        "community_post_author": "от {{username}}"
+        "community_post_author": "от {{username}}",
+        "unavailable": "Недостъпно в момента",
+        "download_or_claim_button": "Сваляне или получаване",
+        "name_your_own_price": "Изберете сума по свой избор",
+        "development_log_header": "Журнал на разработката",
+        "in_order_to_access": "За да получите достъп, трябва да заплатите {{price}} или повече."
     },
     "buy_form": {
         "gift_email_instructions": "Ще можете да изберете адрес на е-поща, на която да изпратите подаръка, след като платите",
@@ -565,7 +575,8 @@
             "view_more_in_thread": "Преглед на още в темата",
             "vote_down": "Гласуване отрицателно",
             "vote_up": "Гласуване положително",
-            "deleted_account": "Изтрит акаунт"
+            "deleted_account": "Изтрит акаунт",
+            "edit_blocks": "Редактиране на блокиранията"
         }
     },
     "user_settings": {
@@ -921,7 +932,9 @@
         "access_it": "Получаване на достъп",
         "access_comes_with_key": "С достъпа си получавате ключ за {{key_type}}!",
         "log_in_to_link": "Влезте за свързване",
-        "link_account_header": "Свържете тази страница за сваляне към акаунта си в itch.io"
+        "link_account_header": "Свържете тази страница за сваляне към акаунта си в itch.io",
+        "claim_external_key": "Получете ключ за {{key_type}}",
+        "get_external_key": "Вземете ключ за {{key_type}}"
     },
     "collection": {
         "authors": "колекция от {{author}}",
