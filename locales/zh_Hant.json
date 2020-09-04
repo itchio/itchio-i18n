@@ -600,7 +600,7 @@
             "views_count": "檢視：{{count}}次",
             "topic_is_autoarchived": "此主題近期無人回應，已自動封存，無法再發布任何內容。",
             "create_related_topic": "如果您要發表相關內容，可以考慮<a>在{{category_name}}中創建一個主題</a>。",
-            "unlisted_topic_notice": "<s>一位管理員已隱藏此主題。</ s> 此主題將不會在主題列表中被顯示，但您仍可以進行回復及修改。",
+            "unlisted_topic_notice": "<s>一位管理員已隱藏此主題。</s> 此主題將不會在主題列表中被顯示，但您仍可以進行回復及修改。",
             "subscribe": "訂閱",
             "locked": "已鎖定"
         },
