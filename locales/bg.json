@@ -579,7 +579,23 @@
             "profile": "Профил",
             "email_addresses": "Е-пощи",
             "two_factor_auth": "Двуфакторна защита",
-            "password": "Парола"
+            "password": "Парола",
+            "support_email": "Е-поща за поддръжка",
+            "publisher_get_started": "Започнете от тук",
+            "revenue_sharing": "Разпределение на приходите",
+            "payment_processors": "Платежни оператори",
+            "tax_information": "Данъчна информация",
+            "payout_mode": "Режим за изплащания",
+            "credit_cards": "Кредитни карти",
+            "billing_address": "Платежен адрес",
+            "connected_accounts": "Свързани акаунти",
+            "press_access": "Достъп за пресата",
+            "privacy": "Поверителност",
+            "data_export": "Изнасяне на данни",
+            "api_keys": "Ключове за ППИ",
+            "oauth_applications": "Приложения с OAuth",
+            "thirdparty_analytics": "Външни анализи",
+            "email_notifications": "Известия по е-поща"
         },
         "email_addresses": {
             "additional_emails": {
@@ -797,7 +813,8 @@
             "downloads": "Сваляния",
             "views": "Преглеждания",
             "payments": "Плащания",
-            "gross_revenue": "Общ приход"
+            "gross_revenue": "Общ приход",
+            "following": "Следвате"
         },
         "project_header": {
             "more": "Още",
@@ -837,7 +854,8 @@
         "edit_saved_cards": "Редактиране на запазените карти",
         "choose_a_card": "Изберете карта",
         "payment_error_help": "Ако имате съмнения, моля, свържете се с <a>поддръжката на itch.io</a> и приложете горното съобщение.",
-        "payment_error": "Имаше грешка при обработката на пращането:"
+        "payment_error": "Имаше грешка при обработката на пращането:",
+        "linked_to_account": "Свързан към акаунт"
     },
     "game_download": {
         "share_and_follow": "Споделяне и следване",
@@ -868,7 +886,8 @@
             "preorder_title": "Предплащане на „{{project_title}}“",
             "download_title": "Сваляне на „{{project_title}}“",
             "view_all_my_purchases": "Преглед на всичките ми покупки",
-            "return_to_project": "Назад към проекта"
+            "return_to_project": "Назад към проекта",
+            "discussion_board": "Форум"
         },
         "linked_user_message": "Тази страница е свързана с акаунта {{username}}.",
         "link_my_account": "Свързване на акаунта ми",
@@ -900,7 +919,9 @@
             "receipt_support_information": "Трябва да сте получили и е-писмо с връзка към тази страница. Ако някога загубите адреса на тази страница, можете да помолите отново да получите е-писмото с чрез <a>страницата на поддръжката</a>."
         },
         "access_it": "Получаване на достъп",
-        "access_comes_with_key": "С достъпа си получавате ключ за {{key_type}}!"
+        "access_comes_with_key": "С достъпа си получавате ключ за {{key_type}}!",
+        "log_in_to_link": "Влезте за свързване",
+        "link_account_header": "Свържете тази страница за сваляне към акаунта си в itch.io"
     },
     "collection": {
         "authors": "колекция от {{author}}",
@@ -926,7 +947,39 @@
         "sort_top_sellers": "Най-продавани",
         "sort_top_rated": "Най-високи оценени",
         "sort_most_recent": "Скорошни",
-        "upload_your_project": "<a>Качете своя проект</a> в itch.io и той ще се покаже тук."
+        "upload_your_project": "<a>Качете своя проект</a> в itch.io и той ще се покаже тук.",
+        "filter_group_when": "Кога",
+        "tag": {
+            "no_description_yet": "Все още няма описание",
+            "suggest_updated_description": "Предлагане на ново описание",
+            "suggest_description_for_this_tag": "Предлагане на описание за този етикет"
+        },
+        "view_all_tags": "Преглед на всички етикети",
+        "filter_by_tag": "Филтриране по етикет",
+        "filter_group_input_methods": "Входящи устройства",
+        "filter_group_session_length": "Средна продължителност",
+        "filter_group_multiplayer": "Игра с други играчи",
+        "filter_group_accessibility_features": "Достъпност",
+        "filter_group_type": "Тип",
+        "type_downloadable": "Сваляемо",
+        "filter_group_misc": "Други",
+        "filter_group_release_status": "Състояние",
+        "filter_group_collection": "Колекция",
+        "filter_group": {
+            "more_options": "Още настройки",
+            "fewer_options": "По-малко настройки",
+            "toggle_more_options": "Превключване на допълнителните настройки",
+            "clear_filter": "Изчистване на филтъра"
+        },
+        "filter_results": "Филтриране на резултатите",
+        "clear_filters": "Изчистване",
+        "related_collections": "Подобни колекции",
+        "filter_group_price": "Цена",
+        "filter_group_genre": "Жанр",
+        "filter_everything_else": "Всичко останало",
+        "filter_group_tools": "Инструменти и двигатели",
+        "filter_group_platform": "Система",
+        "fresh_description": "Разгледайте постоянно обновяван набор от проекти, специално подбрани от колекциите на потребителите си. Проверявайте често за нови допълнения."
     },
     "jam": {
         "results": {
@@ -1250,9 +1303,13 @@
         "community_description": "Научете повече относно разработката на приложението <1>в общността ни</1>. Дайте идея за нова функционалност или споделете мнението си с другите членове на itch.io. Ако сте програмист, ще се радвате да научите, че целият проект е с <2>отворен код в GitHub</2>. Ще се радваме на всяка помощ."
     },
     "browse_tags": {
-        "no_description_yet": "Все още няма описание"
+        "no_description_yet": "Все още няма описание",
+        "page_title": "Популярни етикети",
+        "find_tag": "Търсене на етикет",
+        "commonly_tagged_with": "Често използван етикет"
     },
     "buy_form_popup": {
-        "author_line": "<1>от</1> {{author}}"
+        "author_line": "<1>от</1> {{author}}",
+        "powered_by_itchio": "с подкрепата на {{itchio}}"
     }
 }
