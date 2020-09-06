@@ -2,25 +2,45 @@
     "dashboard": {
         "edit_project": {
             "access_control": {
-                "password_label": "密碼"
+                "password_label": "密碼",
+                "restricted_access_settings": "限制訪問設定",
+                "disable_downloads_option": "關閉新的下載和購買",
+                "unlisted_option": "在搜索和瀏覽中不列出",
+                "allow_password_option": "還可以允許密碼查看頁面",
+                "public_access_settings": "公開訪問設定",
+                "access_settings": "訪問設定"
             },
             "cover_uploader": {
-                "remove_image": "刪除圖片"
+                "remove_image": "刪除圖片",
+                "confirm_remove": "您確定要刪除封面圖片嗎？",
+                "replace_image": "代替封面圖片",
+                "upload_button": "上傳封面圖片"
             },
             "screenshots_header": "螢幕截圖",
             "add_screenshots": "新增螢幕截圖",
             "uploads": {
-                "delete_file_button": "刪除檔案"
+                "delete_file_button": "刪除檔案",
+                "play_in_browser_toggle": "該檔案將會在瀏覽器遊玩",
+                "demo_toggle": "該檔案是試玩版和可以免費下載",
+                "change_display_name_button": "改變顯示名字"
             },
             "details_tags_header": "標籤",
             "details_genre_header": "類型",
             "embed_options": {
                 "fullscreen_button_option": "全螢幕按鈕",
                 "height": "高度",
-                "width": "寬度"
+                "width": "寬度",
+                "viewport_dimensions": "視口尺寸",
+                "frame_options": "框架選項",
+                "mobile_friendly_option": "移動友好",
+                "orientation": "方向",
+                "enable_scrollbars_option": "啟用滾動條",
+                "embed_in_page_option": "嵌入頁面",
+                "launch_fullscreen_option": "點擊啟用全畫面"
             },
             "error_dialog": {
-                "confirm_button": "知道了"
+                "confirm_button": "知道了",
+                "title": "在保存您的專案時出現問題"
             },
             "kind_of_project_field": "專案類型",
             "video_field_description": "提供一個 YouTube 或 Vimeo 影片的網址。",
@@ -31,25 +51,94 @@
             "project_url_field": "專案 URL",
             "title_field": "標題",
             "create_a_new_project_title": "建立新專案",
-            "custom_noun_field": "自定義名詞"
+            "custom_noun_field": "自定義名詞",
+            "classification_field_description": "您要上傳什麼？",
+            "default_noun": "留空為預設的'{{default_noun}}'。",
+            "instructions_field_info2": "如果您的遊戲需要先安裝任何庫或程式，你應該還要包含該訊息",
+            "classification_field": "分類",
+            "release_status_field": "發行狀態",
+            "details_section_header": "詳細",
+            "description_field": "描述",
+            "embed_options_header": "嵌入選項",
+            "save_and_view_button": "保存和檢視頁面",
+            "video_field": "遊戲視頻或預告片",
+            "short_description_field": "簡短說明或標語",
+            "instructions_field": "下載和安裝指引",
+            "classification_other": "其他",
+            "types": {
+                "downloadable": "可下載"
+            },
+            "tip_label": "提示",
+            "description_field_description": "這將構成遊戲頁面的內容。",
+            "community_disabled": "已關閉",
+            "community_comments": "評論",
+            "community_discussion_board": "討論板",
+            "pricing_header": "價錢",
+            "uploads_header": "上傳",
+            "upload_files_button": "上傳檔案",
+            "add_external_file_button": "增加外部檔案",
+            "content_guidelines_header": "請確保任何人都可以找到你的頁面",
+            "content_guidelines_info": "發布你的專案之前，請先查看我們的<a>質量準則</a>",
+            "payment_warning_header": "您尚未配置付款設定",
+            "errors": {
+                "invalid_image": "請編輯您的圖片或嘗試其他圖片"
+            },
+            "visibility_access_header": "可見性和訪問",
+            "pricing": {
+                "free_or_donate": "{{money}} 或捐款",
+                "paid": "付費",
+                "no_payments": "沒有付款",
+                "minimum_price_label": "最小價錢",
+                "minimum_price_info": "要付最小價錢去獲得訪問下載遊戲",
+                "default_donation_amount_info": "預設捐款金額",
+                "suggested_donation_label": "建議捐款",
+                "suggested_price_label": "建議價錢"
+            }
         },
         "intro_text": "您是開發者嗎？上傳您的第一個遊戲",
         "project_list": {
             "no_image": "沒有圖片",
-            "edit": "編輯"
+            "edit": "編輯",
+            "analytics": "分析",
+            "widget": "小部件"
         },
         "create_new_project_button": "建立新專案",
         "header": {
             "projects_link": "專案",
             "game_jams_link": "Game Jam",
-            "sales_bundles_link": "特價和組合包"
+            "sales_bundles_link": "特價和組合包",
+            "payments_link": "付款方式",
+            "analytics_link": "分析",
+            "payouts_link": "支出",
+            "coop_bundles_link": "合作組合包"
         },
         "hello": "您好！",
         "project_header": {
             "more": "更多",
             "devlog": "開發日誌",
-            "edit_project": "編輯專案"
-        }
+            "edit_project": "編輯專案",
+            "metadata": "元數據",
+            "analytics": "分析",
+            "distribute": "分發",
+            "interact": "互動",
+            "edit_comments": "編輯評論",
+            "discussion_board": "討論板",
+            "rewards": "獎項",
+            "admins": "管理員"
+        },
+        "stats": {
+            "payments": "付款方式",
+            "views": "檢視",
+            "downloads": "下載",
+            "followers": "追隨者",
+            "following": "追隨中"
+        },
+        "follow_itchio": "在 {{twitter}} 和 {{facebook}} 追隨 itch.io",
+        "page_title": "創作者儀表板",
+        "analytics_summary_header": "摘要",
+        "recently_updated_pages_header": "最近更新頁面",
+        "new_devlog": "新的開發日誌",
+        "dashboard": "儀表板"
     },
     "layout": {
         "header": {
@@ -103,7 +192,7 @@
             "view_profile": "檢視個人檔案",
             "explore": "探索",
             "new_project": "上傳新專案",
-            "library": "我的庫",
+            "library": "我的收藏庫",
             "dashboard": "創作中心"
         }
     },
@@ -117,8 +206,22 @@
             "rating_removed_header": "評分已移除",
             "rate_header": "評分和評論 {{project_title}}",
             "delete_button": "刪除評分和評論",
-            "rating_deleted_summary": "您的評分已被刪除。"
-        }
+            "rating_deleted_summary": "您的評分已被刪除。",
+            "choose_stars": "選擇 1 至 5 星評分。"
+        },
+        "page_title": "我的收藏庫",
+        "view_all_link": "檢視全部",
+        "permalink": "永久連結",
+        "private_toggle": "私人",
+        "go_to_collection_link": "去收藏",
+        "empty_collection_message": "這個收藏是空的",
+        "nav_header": "收藏庫",
+        "nav": {
+            "my_purchases": "我的購買",
+            "recommended_for_you": "推薦給您"
+        },
+        "gift_button": "禮物",
+        "redeem_button": "兌換"
     },
     "index": {
         "free_games": "免費遊戲",
@@ -288,7 +391,7 @@
             "add_to_collection": "增加到收藏"
         },
         "multiplayer_features": {
-            "local": "即席多人遊戲",
+            "local": "本地多人遊戲",
             "server": "網路伺服器多人遊戲",
             "adhoc": "本地多人連線遊戲"
         },
@@ -435,11 +538,11 @@
                 "download": "下載",
                 "you_havent_sent_this_gift_to_anyone_yet": "您還沒有把這份禮物給任何人",
                 "percent_off": "{{percent}}% off",
-                "you_own_this": "您已經擁有本",
+                "you_own_this": "您已經擁有該",
                 "send_gift": "發送禮物",
                 "claimed": "已領取",
                 "you_were_gifted_this": "你已收到禮物",
-                "purchased_in_a_bundle_for_price": "以{{price}}購買同捆包",
+                "purchased_in_a_bundle_for_price": "以{{price}}購買組合包",
                 "purchased_for_price": "以{{price}}購買"
             },
             "community": "社群",
@@ -463,7 +566,7 @@
             "devlog": "開發日誌",
             "following_username": "正在追蹤 {{username}}",
             "follow_username": "追蹤 {{username}}",
-            "comments": "留言",
+            "comments": "評論",
             "view_all_by_name": "檢視{{name}}的所有內容",
             "submission_to_jam": "在{{jam_title}}投稿",
             "rate_for_jam": "為{{jam_title}}評分"
@@ -520,7 +623,7 @@
             "view_all_from_jam": "查看Jam上的所有內容",
             "check_out_more_from_jam_title": "查看 {{jam_title}} 的更多內容",
             "app_learn_more": "<s>新消息！</s>使用itch.io桌面應用程式來下載和管理您的遊戲庫。<a>瞭解更多</a>",
-            "more_from_itchio_header": "查看itch.io上的所有內容",
+            "more_from_itchio_header": "查看 itch.io 上的所有內容",
             "powered_by": "<s>Powered by</s> {{itchio_logo}}",
             "see_everything": "查看全部"
         },
@@ -548,8 +651,8 @@
         "unavailable": "這個 {{game_noun}} 目前無法使用",
         "download_now_button": "馬上下載",
         "comments": {
-            "write_your_comment": "寫下您的留言……",
-            "comments_header": "留言",
+            "write_your_comment": "寫下您的評論……",
+            "comments_header": "評論",
             "leave_a_comment_header": "留下評論",
             "leave_a_comment": "留下評論",
             "click_to_leave_a_comment": "點擊以留下評論…",
@@ -571,7 +674,7 @@
         "devlog_view_all_posts": "檢視全部文章",
         "community_view_all_posts": "檢視全部文章",
         "community_post_author": "來自{{username}}",
-        "community_posts_count": "{{count}}篇文章"
+        "community_posts_count": "{{count}} 篇文章"
     },
     "community": {
         "topic": {
@@ -614,9 +717,9 @@
             "new_topic": "新主題",
             "moderation_options": "選項",
             "this_a_community_run_message_board": "此為由社群管理的留言板。",
-            "see_community_guidelines": "有關itch.io社群政策，請參見<a>社群方針</a>。",
+            "see_community_guidelines": "有關 itch.io 社群政策，請參見<a>社群方針</a>。",
             "body": "內文",
-            "your_moderators_are": "itch.io並未管理留言板，管理員為：",
+            "your_moderators_are": "itch.io 並未管理留言板，管理員為：",
             "page_title": "發布新主題"
         },
         "post_form": {
@@ -677,7 +780,7 @@
             "list_header_topic_title": "主題",
             "replies_count": "<s>{{count}}</s> 則回覆",
             "no_posts_yet": "還沒有文章",
-            "views_count": "<s>{{count}}</s>閱覽數",
+            "views_count": "<s>{{count}}</s> 次閱覽數",
             "started_by_author": "起始於{{topic_author}}",
             "new_flag": "新",
             "list_header_last_post": "上一篇文章"
@@ -701,10 +804,10 @@
         "preorder_title": "預購'{{title}}'",
         "sold_out_notice": "本商品目前已售完，晚點再來。",
         "support_message": "贊助本專案的開發者",
-        "buy_as_bundle_plural": "你可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）：",
+        "buy_as_bundle_plural": "你可以用{{price}}購買包含本產品的組合包（共有{{count}}件商品）：",
         "free_pay_what_you_want": "這個作品是免費的，但創作者接受您支付一個您認為合適的金額作為支持。",
-        "also_buy_as_bundle_plural": "你也可以用{{price}}購買包含本產品的同捆包（共有{{count}}件商品）：",
-        "includes_steam_key": "在您購買後將會收到 一個Steam 序號。",
+        "also_buy_as_bundle_plural": "你也可以用{{price}}購買包含本產品的組合包（共有{{count}}件商品）：",
+        "includes_steam_key": "在您購買後將會收到一個 Steam 序號。",
         "support_the_creator_by_paying_above_the_minimum_price": "支付高於最低購買價格以支持創作者",
         "preorder_this_product_by_purchasing_it_for": "支付{{price}}或更高價格以預購本產品。",
         "download_this_product_by_purchasing_it_for": "支付{{price}}或更高價格以下載本產品。",
@@ -770,7 +873,15 @@
             "default_language_option": "預設（多國語言測試階段期間，預設為英文）",
             "language_community_translation": "<s>itch.io 是由我們的社群成員翻譯。</s> 有些語言只有一部分可以使用。如果您想要在 itch.io 使用您的語言或者是幫忙修正錯誤的話，您可以參與翻譯。 <a>了解更多</a>",
             "profile_image_description": "將會與您的名字一起顯示在網站上（方框）",
-            "display_name": "顯示名字"
+            "display_name": "顯示名字",
+            "display_name_description": "這是代替你的使用者名稱的名字，留空為使用者名稱",
+            "website_description": "在你的個人檔案顯示的自訂網址",
+            "twitter_description": "在你的個人檔案顯示的 Twitter 帳戶",
+            "content_description": "如何向您顯示 itch.io 上的內容",
+            "content": "內容",
+            "disable_autoloading_next_page_when_browsing": "瀏覽時關閉自動讀取下一頁",
+            "click_to_load_games": "需要點擊去執行嵌入的 HTML5 遊戲",
+            "profile_description": "你的個人檔案內容"
         },
         "account_settings": "帳戶設定",
         "email_addresses": {
@@ -781,15 +892,31 @@
             },
             "additional_emails": {
                 "verified_column": "已認證",
-                "resend_verification_email_button": "重送驗證信"
-            }
+                "resend_verification_email_button": "重送驗證信",
+                "email_sent_status": "發送電子信件",
+                "emails_added_header": "電子信箱已新增",
+                "email_column": "電子信箱",
+                "detach_email": "解除電子信箱"
+            },
+            "additional_emails_header": "其他電子郵件",
+            "change_password_instructions": "更改電子郵件地址時，必須驗證該電子郵件地址才能訪問您購買的任何遊戲。 您將收到驗證指示郵件。 出於安全原因，您還必須提供目前密碼才能對電子郵件地址進行任何變更。",
+            "additional_emails_summary": "您可以將其他電子郵件地址鏈接到您的 itch.io 帳戶，以訪問在這些電子郵件地址下購買的任何內容。 例如，您的 PayPal 電子郵件地址可能與常用電子郵件地址不同，因此您想將其添加為其他電子郵件。",
+            "additional_emails_instructions": "新增其他電子郵件後，將向您發送驗證指示。",
+            "add_email_form": {
+                "additional_email_address_label": "其他電子郵件地址",
+                "add_email_button": "新增電子信箱"
+            },
+            "primary_email_header": "主要電子信箱",
+            "primary_email_description": "你的主要電子信箱在 itch.io 要傳送通知給你時使用。"
         },
         "password": {
             "new_password": "新密碼",
             "password": "密碼",
             "current_password": "目前密碼",
             "set_password": "設定密碼",
-            "reset_password": "重設密碼"
+            "reset_password": "重設密碼",
+            "password_again": "重複密碼",
+            "new_password_again": "重複新密碼"
         }
     },
     "browse": {
@@ -811,7 +938,7 @@
         "sort_top_rated": "最高評價",
         "filter_results": "篩選結果",
         "clear_filters": "清除篩選",
-        "related_collections": "相關的收藏庫",
+        "related_collections": "相關的收藏",
         "tag": {
             "no_description_yet": "目前沒有說明",
             "suggest_updated_description": "建議更新說明",
@@ -819,7 +946,7 @@
         },
         "filter_group_when": "當",
         "sort_most_recent": "最近的",
-        "upload_your_project": "<a>上傳你的專案</a>到itch.io以顯示在此。",
+        "upload_your_project": "<a>上傳你的專案</a>到 itch.io 以顯示在此。",
         "filter_group_input_methods": "輸入方式",
         "fresh_description": "瀏覽由我們手工篩選並持續更新的專案。不要錯過任何新內容哦。",
         "filter_group": {
@@ -843,14 +970,26 @@
             "preorder_title": "預購 {{project_title}}",
             "view_rest_in_bundle": "查看組合包的其餘內容",
             "invoice": "收據",
-            "return_to_project": "返回專案"
+            "return_to_project": "返回專案",
+            "view_all_my_purchases": "檢視我的全部購買",
+            "discussion_board": "討論板"
         },
         "start_project_button": "開始",
         "purchase": {
             "thank_you_for_purchasing_author": "感謝您購買 {{author}} 的 {{product_title}}。",
             "thank_you_for_purchasing": "感謝您購買 {{product_title}}。",
             "percent_off": "{{percent}}% off",
-            "linked_user_message": "本購買已經連結到 {{username}} 的帳戶。"
+            "linked_user_message": "本購買已經連結到 {{username}} 的帳戶。",
+            "thank_you_for_donating": "感謝您捐款給 {{product_title}}。",
+            "unique_url_for_your_payment": "該頁面具有用於您付款的唯一 URL。",
+            "save_this_purchase_to_your_account": "保存這個購買到你的帳戶",
+            "link_purchase_links": "<1>創建帳戶</ 1>或<2>登入 itch.io </ 2> 以立即連結此購買。",
+            "link_purchase_warning": "不會丟失您的購買！",
+            "thank_you_for_donating_author": "感謝您捐款給 {{author}} 的 {{product_title}}。",
+            "access_latest_files_from_this_page": "您始終可以從此頁面訪問最新文件。",
+            "receipt_support_information": "您還應該收到一封包含此頁面連結的電子郵件。 如果您丟失了此頁面的 URL，則可以請求從<a>客服頁面</a>通過電子郵件將其發送給您。",
+            "payment_summary": "你在 {{payment_date}} 付款 {{payment_price}} 到這個。",
+            "payment_summary_with_email": "你用電子信箱（{{email_address}}）在 {{payment_date}} 付款 {{payment_price}} 到這個。"
         },
         "version_name": "版本 {{version_name}}",
         "social_share_message_download": "我剛下載了 {{username}} 的 {{title}}",
@@ -865,35 +1004,153 @@
             "region_message": "已知一些地區會阻擋 itch.io 的 CDN。如果您不能下載，則可以嘗試啟用備用下載模式再試試看。",
             "title": "備用下載模式",
             "enable_alternate_download_mode": "啟用備用下載模式"
-        }
+        },
+        "link_account_description": "您可以將此下載頁面連結到 itch.io 帳戶，因此您不必擔心丟失它。 它將與您擁有的其他所有物品一起顯示。",
+        "email_capture": {
+            "provide_email_instructions": "輸入您的電子郵件地址以將其連結到您的購買，以便在丟失此頁面時可以將其找出。",
+            "dont_lose_your_purchase": "不會丟失您的購買！"
+        },
+        "link_my_account": "連結我的帳戶",
+        "log_in_to_link": "登入以連結",
+        "link_account_header": "連結這個下載頁面到你的 itch.io 帳戶",
+        "check_out_more_from_jam_title": "查看更多來由 {{jam_title}}",
+        "check_your_email_for_the_confirmation_link": "檢查你的電子信箱的確認連結。",
+        "preorder_instructions": "該專案的文件尚未發布。等待創作者發布下載文件後，再返回此頁面。",
+        "app_banner": {
+            "get_the_app": "獲得應用程式",
+            "app_description": "安裝和使用 itch.io 桌面應用程式去管理你的遊戲"
+        },
+        "play_in_your_browser": "在你的瀏覽器遊玩",
+        "must_link_account_description": "您必須先將此頁面連結到 itch.io 帳戶，然後才能下載。帳戶是免費的，可讓您跟踪自己收集的所有遊戲。",
+        "access_existing_copy": "您無法領取其他副本，但是可以訪問現有副本。",
+        "claim_external_key": "領取 {{key_type}} 產品序號",
+        "claim_external_key_instructions": "點擊按鈕去領取。",
+        "access_it": "訪問它"
     },
     "stripe_checkout": {
         "password": "密碼",
         "payment_error_help": "如果您不確定，請聯絡 <a>itch.io 客服</a>，並附上上面的訊息。",
         "credit_or_debit_card": "信用卡或簽帳金融卡",
         "name_as_it_appears_on_card": "需跟卡片上面的名字一致",
-        "payment_error": "在處理您的付款時發生了錯誤："
+        "payment_error": "在處理您的付款時發生了錯誤：",
+        "card_ending_last4": "結束在 {{last4}}",
+        "pay_price_button": "付 {{price}}",
+        "choose_a_card": "選擇卡片",
+        "edit_saved_cards": "編輯已保存的卡片",
+        "new_card": "新卡片",
+        "enter_your_password_to_use_your_card": "輸入你的密碼去使用卡片",
+        "buying_as": "作為購買",
+        "gift_instructions": "這次購買是禮物。 結帳後，您將能夠提供收件人的電子郵件。",
+        "save_credit_card_for_future_purchases": "保存信用卡以備將來購買",
+        "manage_cards_link": "您可以通過<a>帳戶設置</a>管理卡片",
+        "donating_price_to": "捐 {{price}} 給：",
+        "paying_price_for": "付 {{price}} 給：",
+        "you_will_receive_files": "你將會收到：",
+        "steam_key": "Steam 序號",
+        "linked_to_account": "已連結到帳戶",
+        "email": "電子信箱",
+        "full_name": "全名"
     },
     "jam": {
         "header": {
             "links": {
                 "screenshots": "螢幕截圖",
                 "community": "社群",
-                "edit_jam": "編輯 Jam"
-            }
+                "edit_jam": "編輯 Jam",
+                "submission_feed": "投稿反饋",
+                "overview": "總覽",
+                "results": "結果",
+                "submissions": "投稿"
+            },
+            "hosted_by": "由 {{hosts}} 主持"
         },
         "results": {
             "submissions": {
-                "ranked_score": "分數：{{score}}"
+                "ranked_score": "分數：{{score}}",
+                "by_author": "由 {{author}}",
+                "view_submission_page": "檢視投稿頁面"
             },
-            "no_rankings_available": "沒有評分"
+            "no_rankings_available": "沒有評分",
+            "results": "結果",
+            "empty_page_message": "這頁沒有結果",
+            "sort_overall": "總體",
+            "empty_message": "結果還沒出爐，請之後再回來",
+            "sort_by_criteria": "按標準"
         },
         "submission": {
             "play_game": "玩遊戲",
-            "results_table_rank": "排名"
+            "results_table_rank": "排名",
+            "results_table_raw_score": "原生分數",
+            "comments": {
+                "post_comment": "發送評論",
+                "leave_a_comment_header": "留下評論",
+                "empty_message": "還沒有已發送評論"
+            },
+            "rate_submission": {
+                "sign_up_to_rate": "<a>註冊 itch.io 帳戶</a>以評分並發表評論。",
+                "save_rating": "保存評分",
+                "vote": "投票",
+                "private_field": "（私人）",
+                "vote_for_this_submission": "投票給這個投稿",
+                "rate_this_submission": "對這個投稿評分",
+                "owner_message": "這是您的投稿，您不允許對其進行評分。 Jam 的其他參與者將可以在這裡為您的專案評分。",
+                "sign_up_to_vote": "<a>註冊 itch.io 帳戶</a>以投票並發表評論。",
+                "save_vote": "保存投票",
+                "you_just_voted": "你剛剛投票了。",
+                "you_voted_ago": "你在 {{timestamp}} 投票了。"
+            },
+            "submitted_by_contributors": "由 {{contributors}} 提交",
+            "time_remaining_before_deadline": "截止時間還有 {{time_duration}}",
+            "results_table_criteria": "標準",
+            "results_table_votes": "投票",
+            "results_table_score": "分數",
+            "edit_this_submission_button": "編輯此投稿",
+            "remove_this_submission_button": "移除此投稿",
+            "a_jam_submission": "Jam 投稿",
+            "view_game_page": "檢視遊戲頁面",
+            "view_project_page": "檢視專案頁面",
+            "link_to_itchio_page": "{{game_title}} 的 itch.io 頁面",
+            "downloads": "下載",
+            "run_project": "執行專案",
+            "results_header": "結果"
         },
         "stats": {
-            "ratings": "評分"
+            "ratings": "評分",
+            "joined": "已加入",
+            "entries": "參賽人數"
+        },
+        "submitter": {
+            "jam_is_now_over": "這個 Jam 已經結束了。它是由 {{start_date}} 至 {{end_date}}。",
+            "countdown": {
+                "voting_ends_in": "投票結束在",
+                "submissions_due_in": "提交截止日期為",
+                "starts_in": "開始在"
+            },
+            "submission_is_closed_for_voting": "投稿時間已結束了，現在進行投票中",
+            "view_results": "檢視結果",
+            "view_entries": "檢視 {{count}} 個參加人數",
+            "join_jam": "加入 Jam",
+            "submit_button": "提交你的專案",
+            "or_leave_jam": "或<a>離開 Jam</a>",
+            "youve_joined": "你已加入這個 Jam。",
+            "joined_instructions": "在 Jam 開始後，回來這頁面提交你的專案。",
+            "leave_jam": "離開 Jam",
+            "submissions_open_from": "開放投稿由 {{start_date}} 至 {{end_date}}"
+        },
+        "submissions": {
+            "filters": {
+                "all_submissions": "全部投稿",
+                "browser_playable": "瀏覽可玩的"
+            },
+            "empty_results": "沒有投稿符合你的過濾",
+            "there_are_no_submissions_yet": "這裡還沒有投稿",
+            "there_were_no_submissions": "這裡沒有投稿",
+            "submissions_will_be_available_after_the_jam_has_ended": "在這個 Jam 結束後將可以投稿",
+            "filter": "過濾"
+        },
+        "screenshots": {
+            "empty_message": "這裡還沒有任何上傳截圖",
+            "loading_more": "讀取更多截圖..."
         }
     },
     "feed": {
@@ -908,7 +1165,24 @@
         "filter_ratings_tab": "評分",
         "filter_devlogs_tab": "開發日誌",
         "filter_collections_tab": "收藏",
-        "filter_everything_tab": "全部"
+        "filter_everything_tab": "全部",
+        "event_filter_label": "過濾：",
+        "filter_own_activity_tab": "我自己的動態",
+        "filter_new_projects_tab": "新專案",
+        "to_follow": {
+            "people_to_follow_header": "人們關注"
+        },
+        "global_feed_tab": "全球動態",
+        "email_warning": {
+            "verify_your_email_address": "驗證你的電子郵件地址"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "增加個人檔案圖片"
+        },
+        "event": {
+            "collection_summary": "{{count}} 個物品的收藏。",
+            "collection_added_count": "已新增 {{count}} 個物品。"
+        }
     },
     "jams": {
         "browse_in_progress": "進行中",
@@ -916,11 +1190,28 @@
         "page_summary": "itch.io 是在線上舉辦和參與 Game Jam 的地方。任何人都可以立刻建立和舉辦一個 Jam。",
         "page_title": "itch.io 上的 Game Jam",
         "jams_joined_header": "您加入的 Jam",
-        "jams_created_header": "您建立的 Jam"
+        "jams_created_header": "您建立的 Jam",
+        "host_a_jam_button": "主持 Jam",
+        "manage_submissions_link": "管理你的投稿和 Jam",
+        "jam_calendar_header": "Jam 日曆",
+        "host_your_own_jam_button": "主持你自己的 Jam",
+        "brose_featured_jams": "特色 Jam",
+        "host_or_explore_links": "<1>主持你自己的 Jam</1> 或 <2>探索全部 Jam</2>",
+        "dont_see_something_you_like_header": "看不到您喜歡的東西嗎？",
+        "count_joined": "{{count}} 個人已加入"
     },
     "add_to_collection": {
         "about_this_project_label": "關於這個專案",
-        "default_title": "{{username}} 的收藏"
+        "default_title": "{{username}} 的收藏",
+        "dialog_title": "增加 {{project_title}} 到收藏",
+        "add_to_existing": "增加到現存的收藏",
+        "add_reason": "將此專案增加到收藏中，以供以後保存。",
+        "already_in_collections": "這個專案已經在以下的收藏：",
+        "count_items": "{{count}} 個物品",
+        "private_collection_option": "私人收藏 — 只有你能看到內容",
+        "private_collection_title": "［私人］ {{title}}",
+        "add_button": "增加到收藏",
+        "manage_collections_link": "管理收藏"
     },
     "nags": {
         "unverified_email": {
@@ -937,20 +1228,23 @@
         "blurb_author_says": "{{author}} 說",
         "edit_blurb": "編輯簡介",
         "add_a_blurb": "新增簡介",
-        "authors": "一個{{author}}的收藏庫",
+        "authors": "{{author}}的收藏",
         "last_updated_date": "{{date}}最後一次更新",
-        "edit_collection": "編輯收藏庫",
+        "edit_collection": "編輯收藏",
         "edit_contributors": "編輯共用人",
-        "empty_collection_message": "這個收藏庫沒有任何收藏。",
-        "private_collection_message": "這是私人收藏庫，只有共用人可以看到內容",
-        "pending_invitation": "您已收到成為此收藏庫共用人的邀請<a>查看邀請</a>",
-        "a_collection_by_author": "一個{{author}}的收藏庫",
-        "page_title": "{{collection_title}} - {{author}}的收藏庫",
-        "remove_confirm": "確定是否從此收藏庫移除此項目",
+        "empty_collection_message": "這個收藏沒有東西。",
+        "private_collection_message": "這是私人收藏，只有共用人可以看到內容",
+        "pending_invitation": "您已收到成為此收藏共用人的邀請<a>查看邀請</a>",
+        "a_collection_by_author": "{{author}}的收藏",
+        "page_title": "{{collection_title}} - {{author}}的收藏",
+        "remove_confirm": "確定是否從此收藏移除此項目",
         "remove_item_button": "移除..."
     },
     "buy_form_popup": {
         "author_line": "<1>來自</1> {{author}}",
         "powered_by_itchio": "powered by {{itchio}}"
+    },
+    "game_grid": {
+        "in_bundle": "在組合包"
     }
 }
