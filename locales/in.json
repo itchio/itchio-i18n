@@ -32,17 +32,17 @@
             "browse_games": "Telusur Game",
             "browse": "Telusur",
             "feed": "Beranda",
-            "games": "Gim",
+            "games": "Game",
             "fun_games": "Game seru",
             "game_development": "Pengembangan game",
-            "indie_game_store": "Toko gim indie",
-            "free_games": "Gim gratis",
+            "indie_game_store": "Toko game indie",
+            "free_games": "Game gratis",
             "jams": "Game Jam",
             "log_in": "Masuk",
-            "search_placeholder": "Cari gim atau kreator",
+            "search_placeholder": "Cari game atau pembuat game",
             "upload_game": "Unggah Game",
-            "sales": "Obral",
-            "feed_unseen_count": "{{count}} umpan baru"
+            "sales": "Diskon",
+            "feed_unseen_count": "{{count}} kiriman baru"
         },
         "footer": {
             "cookies": "Kuki",
