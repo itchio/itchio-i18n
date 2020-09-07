@@ -118,7 +118,9 @@
             "email_address": "Alamat Email",
             "save": "Simpan",
             "required": "Diperlukan",
-            "form_errors": "Mohon periksa informasi yang telah diberikan"
+            "form_errors": "Mohon periksa informasi yang telah diberikan",
+            "optional": "Opsional",
+            "search": "Cari"
         },
         "durations": {
             "days": "Beberapa hari atau lebih",
@@ -133,7 +135,11 @@
             "touchscreen": "Layar sentuh",
             "mouse": "Mouse",
             "keyboard": "Kibor",
-            "dance_pad": "Karpet Dance"
+            "dance_pad": "Karpet Dance",
+            "voice": "Kontrol suara",
+            "gamepad": "Gamepad (apapun)",
+            "joystick": "Joystick",
+            "accelerometer": "Akselerometer"
         },
         "multiplayer_features": {
             "local": "Multiplayer lokal",
@@ -145,7 +151,10 @@
             "highcontrast": "Kontras tinggi",
             "subtitles": "Subtitle",
             "colorblind": "Ramah buta warna",
-            "configurable_controls": "Kontrol dapat dikonfigurasi"
+            "configurable_controls": "Kontrol dapat dikonfigurasi",
+            "tutorial": "Tutorial interaktif",
+            "one_button": "Satu tombol",
+            "blind": "Ramah tunanetra"
         },
         "classifications": {
             "book": "Buku",
@@ -161,8 +170,62 @@
         "view_more": "Lihat lebih banyak",
         "release_statuses": {
             "released": "Telah rilis",
-            "on_hold": "Tertunda"
-        }
+            "on_hold": "Tertunda",
+            "in_development": "Dalam pengembangan",
+            "canceled": "Dibatalkan",
+            "prototype": "Purwarupa"
+        },
+        "countdown": {
+            "days": "hari",
+            "years": "tahun",
+            "months": "bulan",
+            "hours": "jam",
+            "minutes": "menit",
+            "seconds": "detik"
+        },
+        "page_number": "Halaman {{page_number}}",
+        "follow_button": {
+            "follow_username": "Ikuti {{username}}",
+            "follow": "Ikuti",
+            "following_username": "Mengikuti {{username}}",
+            "following": "Mengikuti",
+            "unfollow_username": "Berhenti mengikuti {{username}}",
+            "unfollow": "Berhenti mengikuti"
+        },
+        "filter_when": {
+            "last_day": "Kemarin",
+            "last_7_days": "7 hari terakhir",
+            "last_30_days": "30 hari terakhir"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_price": {
+            "free": "Gratis",
+            "on_sale": "Diskon",
+            "paid": "Berbayar"
+        },
+        "pager": {
+            "next_page": "Halaman selanjutnya",
+            "prev": "Sebelumnya",
+            "next": "Selanjutnya",
+            "current_page_of_total": "Hal {{current_page}} dari {{total_pages}}",
+            "previous_page": "Halaman sebelumnya",
+            "first_page": "Laman awal"
+        },
+        "collection_button": {
+            "add_to_collection": "Tambah ke koleksi"
+        },
+        "lightboxes": {
+            "close": "Tutup"
+        },
+        "project_visibility": {
+            "restricted": "Terbatas",
+            "published": "Diterbitkan",
+            "draft": "Draf",
+            "public": "Publik"
+        },
+        "dismiss": "Tutup"
     },
     "user_login": {
         "no_account_prompt": "Belum punya akun? <1>Buat akun</1>",
