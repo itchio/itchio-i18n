@@ -117,7 +117,8 @@
             "submit": "Kirim",
             "email_address": "Alamat Email",
             "save": "Simpan",
-            "required": "Diperlukan"
+            "required": "Diperlukan",
+            "form_errors": "Mohon periksa informasi yang telah diberikan"
         },
         "durations": {
             "days": "Beberapa hari atau lebih",
@@ -144,7 +145,7 @@
             "highcontrast": "Kontras tinggi",
             "subtitles": "Subtitle",
             "colorblind": "Ramah buta warna",
-            "configurable_controls": "Kontrol yang dapat dikonfigurasi"
+            "configurable_controls": "Kontrol dapat dikonfigurasi"
         },
         "classifications": {
             "book": "Buku",
@@ -156,6 +157,11 @@
             "tool": "Tool",
             "assets": "Aset game",
             "physical_game": "Game fisik"
+        },
+        "view_more": "Lihat lebih banyak",
+        "release_statuses": {
+            "released": "Telah rilis",
+            "on_hold": "Tertunda"
         }
     },
     "user_login": {
