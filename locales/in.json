@@ -71,7 +71,7 @@
         "free_games": "Game gratis",
         "browse_all_tags": "Telusur semua tag",
         "search_games_creators": "Cari game & dan pembuat game",
-        "view_all_blog_posts": "Tampilkan semua pembaruan",
+        "view_all_blog_posts": "Lihat semua pembaruan",
         "from_the_itchio_blog": "Dari blog itch.io",
         "random_game": "Game acak",
         "from_the_blog": "Dari blog",
@@ -88,7 +88,8 @@
         "to_follow": {
             "empty_results": "Kami tidak punya rekomendasi saat ini. Coba lagi nanti",
             "created_projects": "{{project_list}} yang dibuat",
-            "refresh_button": "Refresh untuk lihat lebih banyak"
+            "refresh_button": "Refresh untuk lihat lebih banyak",
+            "dismiss_tooltip": "Jangan beri saran lagi"
         },
         "nav": {
             "community": "Komunitas",
