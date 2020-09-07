@@ -139,7 +139,8 @@
             "voice": "Kontrol suara",
             "gamepad": "Gamepad (apapun)",
             "joystick": "Joystick",
-            "accelerometer": "Akselerometer"
+            "accelerometer": "Akselerometer",
+            "midi_controller": "Pengontrol MIDI"
         },
         "multiplayer_features": {
             "local": "Multiplayer lokal",
