@@ -3,10 +3,10 @@
         "user_menu": {
             "settings": "Pengaturan",
             "account": "Akun",
-            "library": "Pustakaku",
+            "library": "Daftar Koleksiku",
             "explore": "Telusur",
             "account_menu_tooltip": "Menu Akun",
-            "feed": "Umpanku",
+            "feed": "Berandaku",
             "recommendations": "Rekomendasi",
             "game_jams": "Game jam",
             "dashboard": "Dasbor",
@@ -29,18 +29,18 @@
             "community": "Komunitas",
             "devlogs": "Devlog",
             "game_jams": "Game Jam",
-            "browse_games": "Telusur Gim",
+            "browse_games": "Telusur Game",
             "browse": "Telusur",
-            "feed": "Umpan",
+            "feed": "Beranda",
             "games": "Gim",
-            "fun_games": "Gim seru",
-            "game_development": "Pengembangan gim",
+            "fun_games": "Game seru",
+            "game_development": "Pengembangan game",
             "indie_game_store": "Toko gim indie",
             "free_games": "Gim gratis",
-            "jams": "Jam",
+            "jams": "Game Jam",
             "log_in": "Masuk",
             "search_placeholder": "Cari gim atau kreator",
-            "upload_game": "Unggah Gim",
+            "upload_game": "Unggah Game",
             "sales": "Obral",
             "feed_unseen_count": "{{count}} umpan baru"
         },
@@ -76,7 +76,7 @@
         "random_game": "Gim acak",
         "from_the_blog": "Dari blog",
         "view_all_games": "Tampilkan semua gim",
-        "games_by_price": "Gim menurut harga",
+        "games_by_price": "Berdasarkan harga",
         "browse": "Telusur",
         "view_all_games_on_sale": "Tampilkan semua gim yang sedang dalam obral",
         "people_to_follow": "Orang Untuk Diikuti",
@@ -84,10 +84,10 @@
         "recommendations_based_on": "Berdasarkan hal yang kamu pernah beli, unduh, dan beri peringkat",
         "on_sale": "Sedang Diskon",
         "get_the_app": "<s>Dapatkan yang terbaik dari itch.io</s> Pasang dan kelola gim kamu dengan aplikasi desktop kami",
-        "view_something_random": "Lihat sesuatu secara acak",
+        "view_something_random": "Cari secara acak",
         "to_follow": {
             "empty_results": "Kami tidak punya rekomendasi saat ini. Coba lagi nanti",
-            "created_projects": "Terbuat {{project_list}}"
+            "created_projects": "{{project_list}} yang dibuat"
         },
         "nav": {
             "community": "Komunitas",
@@ -96,12 +96,19 @@
             "bundles": "Bundel",
             "game_jams": "Game jam"
         },
-        "browse_content_type": "Cari {{content_type}}",
+        "browse_content_type": "Telusur {{content_type}}",
         "view_all_platforms": "Lihat semua platform",
         "latest_featured_games": "Game Pilihan Terbaru",
-        "view_all_on_sale": "Lihat semua yang sedang di diskon",
+        "view_all_on_sale": "Lihat yang sedang diskon",
         "more_featured_games": "Lebih banyak game pilihan",
-        "html5_games": "Game HTML5"
+        "html5_games": "Game HTML5",
+        "game_dev_on_sale": "Sumber Bahan Pengembangan Game <1>Yang Diskon</1>",
+        "people_to_follow_description": "Berikut ini beberapa akun yang menarik untuk diikuti. <a>Mengapa?</a>",
+        "filtering_platform": "Hanya menampilkan game untuk {{platform_name}}",
+        "intro": "<s>itch.io</s> mempermudah berbagi dan mencari game indie daring secara gratis.",
+        "intro_cta": "<1>Unggah game kamu</1> atau <2>Baca FAQ</2>",
+        "page_title": "Unduh game-game indie terbaru",
+        "meta_description": "itch.io memudahkan kamu untuk mencari, mengunduh, dan mendistribusikan game indie secara online. Bagi kamu pengembang game yang ingin mengunggah game ataupun hanya sekadar mencari game baru untuk dimainkan, itch.io siap menyediakan."
     },
     "misc": {
         "forms": {
