@@ -142,16 +142,20 @@
         "accessibility_features": {
             "textless": "Tanpa teks",
             "highcontrast": "Kontras tinggi",
-            "subtitles": "Subtitle"
+            "subtitles": "Subtitle",
+            "colorblind": "Ramah buta warna",
+            "configurable_controls": "Kontrol yang dapat dikonfigurasi"
         },
         "classifications": {
             "book": "Buku",
             "comic": "Komik",
-            "soundtrack": "Trek lagu",
+            "soundtrack": "Soundtrack",
             "game": "Game",
             "game_mod": "Mod game",
             "other": "Lainnya",
-            "tool": "Tool"
+            "tool": "Tool",
+            "assets": "Aset game",
+            "physical_game": "Game fisik"
         }
     },
     "user_login": {
