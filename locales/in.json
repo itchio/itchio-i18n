@@ -14,7 +14,7 @@
             "view_profile": "Lihat profil",
             "log_out": "Keluar",
             "create": "Buat",
-            "sales_bundles": "Obral & bundel",
+            "sales_bundles": "Diskon & bundel",
             "host_game_jam": "Selenggara game jam"
         },
         "header": {
@@ -59,7 +59,7 @@
     "index": {
         "dont_see_anything_you_like": "Tidak menemukan yang kamu suka?",
         "download_app": "Unduh aplikasi",
-        "popular_tags": "Label Terpopuler",
+        "popular_tags": "Tag Populer",
         "view_all_jams": "Tampilkan semua jam",
         "featured_jams": "Jam pilihan",
         "view_more": "Selengkapnya",
@@ -75,7 +75,7 @@
         "from_the_itchio_blog": "Dari blog itch.io",
         "random_game": "Gim acak",
         "from_the_blog": "Dari blog",
-        "view_all_games": "Tampilkan semua gim",
+        "view_all_games": "Lihat semua gim",
         "games_by_price": "Berdasarkan harga",
         "browse": "Telusur",
         "view_all_games_on_sale": "Tampilkan semua gim yang sedang dalam obral",
