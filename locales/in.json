@@ -60,34 +60,35 @@
         "dont_see_anything_you_like": "Tidak menemukan yang kamu suka?",
         "download_app": "Unduh aplikasi",
         "popular_tags": "Tag Populer",
-        "view_all_jams": "Tampilkan semua jam",
-        "featured_jams": "Jam pilihan",
+        "view_all_jams": "Tampilkan semua game jam",
+        "featured_jams": "Game Jam pilihan",
         "view_more": "Selengkapnya",
-        "fresh_games": "Gim Terbaru",
+        "fresh_games": "GameTerbaru",
         "recommended_for_you": "Direkomendasikan untukmu",
         "view_all": "Tampilkan semua",
-        "with_demo": "Dilengkapi demo",
+        "with_demo": "Disertai demo",
         "top_sellers": "Paling laris",
-        "free_games": "Gim gratis",
-        "browse_all_tags": "Jelajahi semua tag",
-        "search_games_creators": "Cari gim & kreator",
+        "free_games": "Game gratis",
+        "browse_all_tags": "Telusur semua tag",
+        "search_games_creators": "Cari game & dan pembuat game",
         "view_all_blog_posts": "Tampilkan semua pembaruan",
         "from_the_itchio_blog": "Dari blog itch.io",
-        "random_game": "Gim acak",
+        "random_game": "Game acak",
         "from_the_blog": "Dari blog",
-        "view_all_games": "Lihat semua gim",
+        "view_all_games": "Lihat semua game",
         "games_by_price": "Berdasarkan harga",
         "browse": "Telusur",
-        "view_all_games_on_sale": "Tampilkan semua gim yang sedang dalam obral",
+        "view_all_games_on_sale": "Lihat semua gim yang diskon",
         "people_to_follow": "Orang Untuk Diikuti",
-        "fresh_games_description": "Selalu diperbaharui dengan gim terbaru di itch.io",
-        "recommendations_based_on": "Berdasarkan hal yang kamu pernah beli, unduh, dan beri peringkat",
+        "fresh_games_description": "Selalu diperbarui dengan game-game terbaru di itch.io",
+        "recommendations_based_on": "Berdasarkan yang pernah kamu pernah beli, unduh, dan beri rating",
         "on_sale": "Sedang Diskon",
-        "get_the_app": "<s>Dapatkan yang terbaik dari itch.io</s> Pasang dan kelola gim kamu dengan aplikasi desktop kami",
+        "get_the_app": "<s>Dapatkan yang terbaik dari itch.io</s> Pasang dan kelola game kamu dengan aplikasi desktop kami",
         "view_something_random": "Cari secara acak",
         "to_follow": {
             "empty_results": "Kami tidak punya rekomendasi saat ini. Coba lagi nanti",
-            "created_projects": "{{project_list}} yang dibuat"
+            "created_projects": "{{project_list}} yang dibuat",
+            "refresh_button": "Refresh untuk lihat lebih banyak"
         },
         "nav": {
             "community": "Komunitas",
@@ -129,21 +130,65 @@
             "phone": "Ponsel",
             "touchscreen": "Layar sentuh",
             "mouse": "Mouse",
-            "keyboard": "Kibor"
+            "keyboard": "Kibor",
+            "dance_pad": "Karpet Dance"
         },
         "multiplayer_features": {
-            "local": "Multiplayer lokal"
+            "local": "Multiplayer lokal",
+            "server": "Multiplayer Online berbasis server",
+            "adhoc": "Jaringan multiplayer sementara"
         },
         "accessibility_features": {
             "textless": "Tanpa teks",
             "highcontrast": "Kontras tinggi",
-            "subtitles": "Subjudul"
+            "subtitles": "Subtitle"
         },
         "classifications": {
             "book": "Buku",
             "comic": "Komik",
             "soundtrack": "Trek lagu",
-            "game": "Game"
+            "game": "Game",
+            "game_mod": "Mod game",
+            "other": "Lainnya",
+            "tool": "Tool"
         }
+    },
+    "user_login": {
+        "no_account_prompt": "Belum punya akun? <1>Buat akun</1>",
+        "errors": {
+            "please_enter_a_valid_email_address": "Mohon masukkan alamat e-mail yang valid"
+        },
+        "intent": {
+            "claim_object": "Silakan masuk atau buat akun untuk menerima {{noun}}.",
+            "claim_object_title": "Silakan masuk atau buat akun untuk menerima {{title}}."
+        }
+    },
+    "user_register": {
+        "register_form": {
+            "account_preferences_info": "Pertanyaan ini agar itch.io dapat menyesuaikan diri dengan respons kamu, kamu bisa mengganti respons kamu lagi kapan saja.",
+            "interest_gamer": "Saya ingin bermain atau mengunduh game di itch.io",
+            "interest_developer": "Saya ingin mengunggah konten di itch.io",
+            "about_you": "Tentang kamu",
+            "your_email_address": "Alamat email kamu",
+            "password": "Kata sandi",
+            "repeat_password": "Ulangi kata sandi",
+            "url_preview": "URL laman profil kamu adalah",
+            "username": "Nama akun",
+            "other_registration_methods": "Metode daftar lainnya"
+        },
+        "page_title": "Daftar akun"
+    },
+    "developers": {
+        "product_summary1": "<s>itch.io</s> memudahkan penyebaran online game indie kamu secara gratis. Unggah tangkapan layar dan berkas-berkas game kamu sekaligus ke satu tempat. Buatlah laman yang sesuai khusus untuk game kamu.",
+        "page_header": "Buat halaman khusus untuk membagikan ataupun menjual game indie kamu",
+        "product_summary2": "Kamu juga bisa menetapkan harga minimum dari game kamu agar para penggemar dapat membayar sesuai dengan yang mereka mau.",
+        "my_dashboard": "Dasborku",
+        "upload_a_new_game": "Unggah game baru",
+        "account_faq_cta": "<1>Buat akun sekarang</1> atau <2>Baca FAQ</2>",
+        "upload_your_indie_game": "Unggah Game Indie Kamu",
+        "design_your_games_page": "Rancang Halaman Game Kamu",
+        "track_your_game": "Pantau Game Kamu",
+        "host_a_sale": "Adakan Diskon",
+        "host_a_sale_description": "Promosikan game kamu dan tingkatkan pembelian dengan menawarkan diskon harga kapan pun pada game kamu."
     }
 }
