@@ -284,7 +284,8 @@
             "already_have_account": "atau sudah punya akun?",
             "log_in": "Masuk",
             "link_product": "Pembelian <1>{{product}}</1> kamu akan ditautkan ke akunmu setelah mendaftar.",
-            "accept_tos": "Saya setuju dengan <1>Syarat dan Ketentuan</1>"
+            "accept_tos": "Saya setuju dengan <1>Syarat dan Ketentuan</1>",
+            "digest_signup": "Daftarkan saya dalam buletin dua-bulanan intisari itch.io"
         },
         "page_title": "Daftar akun",
         "create_an_account_on_itchio": "Buat akun di itch.io"
