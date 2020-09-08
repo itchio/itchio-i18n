@@ -242,7 +242,12 @@
             "claim_object": "Silakan masuk atau buat akun untuk menerima {{noun}}.",
             "claim_object_title": "Silakan masuk atau buat akun untuk menerima {{title}}."
         },
-        "log_in_to_your_itchio_account": "Masuk ke akun itch.io anda"
+        "log_in_to_your_itchio_account": "Masuk ke akun itch.io kamu",
+        "login_form": {
+            "username_or_email": "Nama akun atau email",
+            "password": "Kata sandi",
+            "forgot_password": "Lupa kata sandi"
+        }
     },
     "user_register": {
         "register_form": {
