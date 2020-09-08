@@ -226,7 +226,12 @@
             "draft": "Draf",
             "public": "Publik"
         },
-        "dismiss": "Tutup"
+        "dismiss": "Tutup",
+        "errors": {
+            "server_error": "Server tidak merespon, coba lagi nanti"
+        },
+        "more_ellip": "Lebih banyak…",
+        "loading_more_ellip": "Memuat lebih banyak…"
     },
     "user_login": {
         "no_account_prompt": "Belum punya akun? <1>Buat akun</1>",
@@ -236,7 +241,8 @@
         "intent": {
             "claim_object": "Silakan masuk atau buat akun untuk menerima {{noun}}.",
             "claim_object_title": "Silakan masuk atau buat akun untuk menerima {{title}}."
-        }
+        },
+        "log_in_to_your_itchio_account": "Masuk ke akun itch.io anda"
     },
     "user_register": {
         "register_form": {
@@ -265,5 +271,12 @@
         "track_your_game": "Pantau Game Kamu",
         "host_a_sale": "Adakan Diskon",
         "host_a_sale_description": "Promosikan game kamu dan tingkatkan pembelian dengan menawarkan diskon harga kapan pun pada game kamu."
+    },
+    "blog": {
+        "all_posts": "Semua postingan",
+        "updates": "Pembaruan",
+        "digest": "Intisari",
+        "empty_message": "Tidak ada postingan di sini",
+        "tag_filter": "Disaring menurut {{tag}}. <a>Hapus tag</a>"
     }
 }
