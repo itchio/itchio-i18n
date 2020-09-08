@@ -261,7 +261,9 @@
             "log_in_button": "Masuk"
         },
         "looking_for_something_you_bought": "Ingin mencari yang sudah kamu beli?",
-        "create_a_new_account": "Buat akun baru"
+        "create_a_new_account": "Buat akun baru",
+        "page_title": "Masuk",
+        "you_are_logged_out": "Anda telah keluar"
     },
     "user_register": {
         "register_form": {
