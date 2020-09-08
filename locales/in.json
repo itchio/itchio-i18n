@@ -241,7 +241,7 @@
         "intent": {
             "claim_object": "Silakan masuk atau buat akun untuk menerima {{noun}}.",
             "claim_object_title": "Silakan masuk atau buat akun untuk menerima {{title}}.",
-            "community": "Anda perlu masuk untuk ikut serta di komunitas itch.io. Membuat akun gratis dan hanya memerlukan beberapa saat."
+            "community": "Kamu perlu masuk untuk ikut serta di komunitas itch.io. Membuat akun gratis dan tidak makan waktu lama."
         },
         "log_in_to_your_itchio_account": "Masuk ke akun itch.io kamu",
         "login_form": {
