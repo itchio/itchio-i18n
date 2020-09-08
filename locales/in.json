@@ -248,7 +248,7 @@
             "follow_username": "Kamu perlu akun itch.io untuk mengikuti <1>{{username}}</1>.",
             "collection": "Kamu perlu akun itch.io sebelum menambahkan ke koleksi.",
             "jam_submit": "Kamu perlu akun itch.io untuk mengirim game jam.",
-            "recent_purchases": "Masuk untuk menautkan pembelian yang anda lakukan."
+            "recent_purchases": "Masuk untuk menautkan pembelian baru kamu."
         },
         "log_in_to_your_itchio_account": "Masuk ke akun itch.io kamu",
         "login_form": {
