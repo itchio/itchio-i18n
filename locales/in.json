@@ -246,7 +246,9 @@
         "login_form": {
             "username_or_email": "Nama akun atau email",
             "password": "Kata sandi",
-            "forgot_password": "Lupa kata sandi"
+            "forgot_password": "Lupa kata sandi",
+            "or_log_in_with_another_site": "Atau masuk dengan situs lain",
+            "create_account": "Buat akun"
         }
     },
     "user_register": {
