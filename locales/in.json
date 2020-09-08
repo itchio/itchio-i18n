@@ -237,7 +237,7 @@
         "no_account_prompt": "Belum punya akun? <1>Buat akun</1>",
         "errors": {
             "please_enter_a_valid_email_address": "Mohon masukkan alamat e-mail yang valid",
-            "accept_terms": "Anda harus menyetujui Kebijakan Layanan"
+            "accept_terms": "Kamu harus menyetujui Syarat dan Ketentuan"
         },
         "intent": {
             "claim_object": "Silakan masuk atau buat akun untuk menerima {{noun}}.",
