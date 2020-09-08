@@ -240,7 +240,8 @@
         },
         "intent": {
             "claim_object": "Silakan masuk atau buat akun untuk menerima {{noun}}.",
-            "claim_object_title": "Silakan masuk atau buat akun untuk menerima {{title}}."
+            "claim_object_title": "Silakan masuk atau buat akun untuk menerima {{title}}.",
+            "community": "Anda perlu masuk untuk ikut serta di komunitas itch.io. Membuat akun gratis dan hanya memerlukan beberapa saat."
         },
         "log_in_to_your_itchio_account": "Masuk ke akun itch.io kamu",
         "login_form": {
@@ -248,9 +249,12 @@
             "password": "Kata sandi",
             "forgot_password": "Lupa kata sandi",
             "or_log_in_with_another_site": "Atau masuk melalui situs lain",
-            "create_account": "Buat akun"
+            "create_account": "Buat akun",
+            "or": "atau",
+            "log_in_button": "Masuk"
         },
-        "looking_for_something_you_bought": "Ingin mencari yang sudah kamu beli?"
+        "looking_for_something_you_bought": "Ingin mencari yang sudah kamu beli?",
+        "create_a_new_account": "Buat akun baru"
     },
     "user_register": {
         "register_form": {
