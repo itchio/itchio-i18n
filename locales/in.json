@@ -279,7 +279,9 @@
             "repeat_password": "Ulangi kata sandi",
             "url_preview": "URL laman profil kamu adalah",
             "username": "Nama akun",
-            "other_registration_methods": "Metode daftar lainnya"
+            "other_registration_methods": "Metode daftar lainnya",
+            "create_account": "Buat akun",
+            "already_have_account": "atau telah mempunyai akun?"
         },
         "page_title": "Daftar akun",
         "create_an_account_on_itchio": "Buat akun di itch.io"
