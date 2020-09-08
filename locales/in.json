@@ -242,7 +242,8 @@
             "claim_object": "Silakan masuk atau buat akun untuk menerima {{noun}}.",
             "claim_object_title": "Silakan masuk atau buat akun untuk menerima {{title}}.",
             "community": "Kamu perlu masuk untuk ikut serta di komunitas itch.io. Membuat akun gratis dan tidak makan waktu lama.",
-            "comment": "Kamu perlu akun itch.io untuk meninggalkan komentar."
+            "comment": "Kamu perlu akun itch.io untuk meninggalkan komentar.",
+            "rate_game": "Anda perlu akun itch.io untuk menilai game."
         },
         "log_in_to_your_itchio_account": "Masuk ke akun itch.io kamu",
         "login_form": {
