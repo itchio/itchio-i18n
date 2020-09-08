@@ -281,7 +281,9 @@
             "username": "Nama akun",
             "other_registration_methods": "Metode daftar lainnya",
             "create_account": "Buat akun",
-            "already_have_account": "atau sudah punya akun?"
+            "already_have_account": "atau sudah punya akun?",
+            "log_in": "Masuk",
+            "link_product": "Pembelian <1>{{product}}</1> anda akan ditautkan ke akun anda setelah anda mendaftar."
         },
         "page_title": "Daftar akun",
         "create_an_account_on_itchio": "Buat akun di itch.io"
