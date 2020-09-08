@@ -244,7 +244,8 @@
             "community": "Kamu perlu masuk untuk ikut serta di komunitas itch.io. Membuat akun gratis dan tidak makan waktu lama.",
             "comment": "Kamu perlu akun itch.io untuk meninggalkan komentar.",
             "rate_game": "Kamu perlu akun itch.io untuk memberi rating.",
-            "follow": "Kamu perlu akun itch.io sebelum mengikuti akun lain."
+            "follow": "Kamu perlu akun itch.io sebelum mengikuti akun lain.",
+            "follow_username": "Anda perlu akun itch.io untuk mengikuti <1>{{username}}</1>."
         },
         "log_in_to_your_itchio_account": "Masuk ke akun itch.io kamu",
         "login_form": {
