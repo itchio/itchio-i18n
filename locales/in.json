@@ -236,7 +236,8 @@
     "user_login": {
         "no_account_prompt": "Belum punya akun? <1>Buat akun</1>",
         "errors": {
-            "please_enter_a_valid_email_address": "Mohon masukkan alamat e-mail yang valid"
+            "please_enter_a_valid_email_address": "Mohon masukkan alamat e-mail yang valid",
+            "accept_terms": "Anda harus menyetujui Kebijakan Layanan"
         },
         "intent": {
             "claim_object": "Silakan masuk atau buat akun untuk menerima {{noun}}.",
@@ -263,7 +264,9 @@
         "looking_for_something_you_bought": "Ingin mencari yang sudah kamu beli?",
         "create_a_new_account": "Buat akun baru",
         "page_title": "Masuk",
-        "you_are_logged_out": "Kamu telah keluar"
+        "you_are_logged_out": "Kamu telah keluar",
+        "welcome_back": "Selamat datang kembali!",
+        "welcome_to_itchio": "Selamat datang di itch.io!"
     },
     "user_register": {
         "register_form": {
