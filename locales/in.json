@@ -247,9 +247,10 @@
             "username_or_email": "Nama akun atau email",
             "password": "Kata sandi",
             "forgot_password": "Lupa kata sandi",
-            "or_log_in_with_another_site": "Atau masuk dengan situs lain",
+            "or_log_in_with_another_site": "Atau masuk melalui situs lain",
             "create_account": "Buat akun"
-        }
+        },
+        "looking_for_something_you_bought": "Ingin mencari yang sudah kamu beli?"
     },
     "user_register": {
         "register_form": {
