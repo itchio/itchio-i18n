@@ -284,7 +284,7 @@
             "already_have_account": "atau sudah punya akun?",
             "log_in": "Masuk",
             "link_product": "Pembelian <1>{{product}}</1> kamu akan ditautkan ke akunmu setelah mendaftar.",
-            "accept_tos": "Saya setuju atas <1>Kebijakan Layanan</1>"
+            "accept_tos": "Saya setuju dengan <1>Syarat dan Ketentuan</1>"
         },
         "page_title": "Daftar akun",
         "create_an_account_on_itchio": "Buat akun di itch.io"
@@ -300,7 +300,15 @@
         "design_your_games_page": "Rancang Halaman Game Kamu",
         "track_your_game": "Pantau Game Kamu",
         "host_a_sale": "Adakan Diskon",
-        "host_a_sale_description": "Promosikan game kamu dan tingkatkan pembelian dengan menawarkan diskon harga kapan pun pada game kamu."
+        "host_a_sale_description": "Promosikan game kamu dan tingkatkan pembelian dengan menawarkan diskon harga kapan pun pada game kamu.",
+        "upload_or_dashboard": "<1>Unggah game baru</1> <em>atau</em> <2>Ke dasbor</2>",
+        "design_your_games_page_description": "Buat laman khusus agar orang-orang dapat mengunduh atau membeli game kamu. Pilih sendiri warna, font, gambar, dan video untuk halaman kamu. Kamu tidak akan mendapati apapun selain yang sudah kamu masukkan sendiri di laman game kamu.",
+        "learn_more": "Selengkapnya",
+        "browser_game_description": "Hasilkan uang dengan menghosting game browser kamu di <s>itch.io</s>.. Game kamu akan tersemat di browser dan pemain dapat menyumbangkan uang sebanyak yang mereka mau apabila mereka menyukai game-mu.",
+        "upload_your_game_description": "Unggah game indie kamu di <s>itch.io</s> secara gratis. Kami akan menghosting game kamu beserta unggahan lain dan tangkapan layar game kamu. Game kamu akan selalu tersedia dan cepat untuk diunduh.",
+        "learn_more_about": "Selengkapnya tentang:",
+        "share_message": "itch.io memudahkan penyebaran online game indie kamu secara gratis.",
+        "create_account_or_login": "<1>Buat akun</1> <em>atau</em> <2>Masuk</2>"
     },
     "blog": {
         "all_posts": "Semua postingan",
