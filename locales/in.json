@@ -246,7 +246,8 @@
             "rate_game": "Kamu perlu akun itch.io untuk memberi rating.",
             "follow": "Kamu perlu akun itch.io sebelum mengikuti akun lain.",
             "follow_username": "Kamu perlu akun itch.io untuk mengikuti <1>{{username}}</1>.",
-            "collection": "Kamu perlu akun itch.io sebelum menambahkan ke koleksi."
+            "collection": "Kamu perlu akun itch.io sebelum menambahkan ke koleksi.",
+            "jam_submit": "Anda perlu akun itch.io untuk mengirim ke jam."
         },
         "log_in_to_your_itchio_account": "Masuk ke akun itch.io kamu",
         "login_form": {
