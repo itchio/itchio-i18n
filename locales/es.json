@@ -679,8 +679,14 @@
             "joined_instructions": "Venga a esta página después de que comience la jam para enviar su proyecto.",
             "view_results": "Ver resultados",
             "countdown": {
-                "starts_in": "Empieza en"
-            }
+                "starts_in": "Empieza en",
+                "voting_ends_in": "La votación finaliza en"
+            },
+            "leave_jam": "Dejar Jam",
+            "submissions_open_from": "Envíos disponibles desde {{start_date}} hasta {{end_date}}",
+            "view_entries": "Ver entrada {{count}}",
+            "view_entries_plural": "Ver entradas {{count}}",
+            "submission_is_closed_for_voting": "La presentación está cerrada y la votación está en curso"
         },
         "header": {
             "links": {
@@ -695,7 +701,9 @@
             "hosted_by": "Alojado por {{hosts}}"
         },
         "stats": {
-            "joined": "Unido"
+            "joined": "Unido",
+            "entries": "Entradas",
+            "ratings": "Clasificaciones"
         },
         "results": {
             "empty_message": "Los resultados no están disponibles todavía, vuelve más tarde",
