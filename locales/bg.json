@@ -37,7 +37,8 @@
             "feed_unseen_count": "{{count}} нов",
             "feed_unseen_count_plural": "{{count}} нови",
             "jams": "Конкурси",
-            "game_jams": "Конкурси за игри"
+            "game_jams": "Конкурси за игри",
+            "feed": "Хронология"
         },
         "user_menu": {
             "explore": "Разглеждане",
@@ -53,7 +54,8 @@
             "library": "Моята библиотека",
             "game_jams": "Конкурси за игри",
             "host_game_jam": "Организиране на конкурс за игри",
-            "account_menu_tooltip": "Меню на акаунта"
+            "account_menu_tooltip": "Меню на акаунта",
+            "feed": "Моята хронология"
         }
     },
     "index": {
@@ -431,7 +433,8 @@
         "download_or_claim_button": "Сваляне или получаване",
         "name_your_own_price": "Изберете сума по свой избор",
         "development_log_header": "Журнал на разработката",
-        "in_order_to_access": "За да получите достъп, трябва да заплатите {{price}} или повече."
+        "in_order_to_access": "За да получите достъп, трябва да заплатите {{price}} или повече.",
+        "donate_button": "Подкрепете това ({{noun}})"
     },
     "buy_form": {
         "gift_email_instructions": "Ще можете да изберете адрес на е-поща, на която да изпратите подаръка, след като платите",
@@ -1126,7 +1129,8 @@
                 "overview": "Преглед",
                 "submissions": "Участващи проекти",
                 "results": "Резултати",
-                "community": "Общност"
+                "community": "Общност",
+                "submission_feed": "Хронология на участващите проекти"
             },
             "hosted_by": "Организиран от {{hosts}}"
         },
@@ -1239,7 +1243,9 @@
         "filter_collections_tab": "Колекции",
         "filter_new_projects_tab": "Нови проекти",
         "filter_everything_tab": "Всичко",
-        "filter_own_activity_tab": "Моята дейност"
+        "filter_own_activity_tab": "Моята дейност",
+        "global_feed_tab": "Глобална хронология",
+        "my_feed_tab": "Моята хронология"
     },
     "jams": {
         "count_joined": "{{count}} участници",
