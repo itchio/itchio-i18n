@@ -468,7 +468,8 @@
         "remove_confirm": "Bunu koleksiyondan kaldırmak istediğine emin misin",
         "blurb_author_says": "{{author}} diyor ki",
         "authors": "{{author}} tarafından bir koleksiyon",
-        "add_a_blurb": "Tanıtım yazısı ekle"
+        "add_a_blurb": "Tanıtım yazısı ekle",
+        "pending_invitation": "Bu koleksiyonun katılımcısı olmanız için bir davetiniz var. <a> Daveti gör </a>"
     },
     "user_register": {
         "create_an_account_on_itchio": "Itch.io'da hesap oluşturun",
@@ -827,6 +828,7 @@
         "payment_error": "Ödemenizi işlerken bir hata oluştu:",
         "credit_or_debit_card": "Kredi ya da banka kartı",
         "gift_instructions": "Bu satınalma hediyedÖdemeden sonra alıcı e-postasını girebilirsiniz.",
-        "password": "Şifre"
+        "password": "Şifre",
+        "youll_be_mailed_your_access_link": "Erişim kodu, e-postanıza gönderilecektir."
     }
 }
