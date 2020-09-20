@@ -744,7 +744,7 @@
             "suspended_account": "已停用的帳戶",
             "edit": "編輯",
             "edits_count": "（已編輯 {{count}} 次）",
-            "edits_count_plural": "（已編輯{{count}}次）",
+            "edits_count_plural": "(已編輯{{count}}次)",
             "post_from_suspended_account": "來自已停用帳戶的文章",
             "pinned_post": "置頂文章",
             "deleted_post": "已刪除的文章",
@@ -989,7 +989,8 @@
             "access_latest_files_from_this_page": "您始終可以從此頁面訪問最新文件。",
             "receipt_support_information": "您還應該收到一封包含此頁面連結的電子郵件。 如果您丟失了此頁面的 URL，則可以請求從<a>客服頁面</a>通過電子郵件將其發送給您。",
             "payment_summary": "你在 {{payment_date}} 付款 {{payment_price}} 到這個。",
-            "payment_summary_with_email": "你用電子信箱（{{email_address}}）在 {{payment_date}} 付款 {{payment_price}} 到這個。"
+            "payment_summary_with_email": "你用電子信箱（{{email_address}}）在 {{payment_date}} 付款 {{payment_price}} 到這個。",
+            "youve_been_gifted": "有人送了{{product_title}}給你。"
         },
         "version_name": "版本 {{version_name}}",
         "social_share_message_download": "我剛下載了 {{username}} 的 {{title}}",
@@ -1025,7 +1026,9 @@
         "access_existing_copy": "您無法領取其他副本，但是可以訪問現有副本。",
         "claim_external_key": "領取 {{key_type}} 產品序號",
         "claim_external_key_instructions": "點擊按鈕去領取。",
-        "access_it": "訪問它"
+        "access_it": "訪問它",
+        "install_instructions_intro": "{{username}}提供的下載及安裝說明:",
+        "access_comes_with_key": "你的領取包附有{{key_type}}產品序號!"
     },
     "stripe_checkout": {
         "password": "密碼",
@@ -1049,7 +1052,10 @@
         "steam_key": "Steam 序號",
         "linked_to_account": "已連結到帳戶",
         "email": "電子信箱",
-        "full_name": "全名"
+        "full_name": "全名",
+        "donating_price_vat_to": "捐贈金額{{price}}連稅:",
+        "paying_price_vat_for": "售價{{price}}連稅:",
+        "youll_be_mailed_your_access_link": "你將收到含存取鏈結的電郵"
     },
     "jam": {
         "header": {
@@ -1135,7 +1141,8 @@
             "youve_joined": "你已加入這個 Jam。",
             "joined_instructions": "在 Jam 開始後，回來這頁面提交你的專案。",
             "leave_jam": "離開 Jam",
-            "submissions_open_from": "開放投稿由 {{start_date}} 至 {{end_date}}"
+            "submissions_open_from": "開放投稿由 {{start_date}} 至 {{end_date}}",
+            "you_can_now_rate_entries": "你現在可以在<a>投稿</a>為不同條目評分"
         },
         "submissions": {
             "filters": {
