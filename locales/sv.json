@@ -1321,8 +1321,15 @@
         "gift_button": "Ge som gåva",
         "rate_game": {
             "rating_saved_header": "Betyg sparat",
-            "follow_creator": "Överväg att följa skaparen av {{project_title}} för att hålla dig uppdaterad om deras senaste utgifter."
-        }
+            "follow_creator": "Överväg att följa skaparen av {{project_title}} för att hålla dig uppdaterad om deras senaste utgifter.",
+            "you_rated_this_project_ago": "Du betygsatte detta projekt {{time_ago}}.",
+            "rating_removed_header": "Betyg borttaget",
+            "rating_deleted_summary": "Ditt betyg har blivit borttaget.",
+            "delete_button": "Ta bort betyg och recension",
+            "choose_stars": "Välj ett betyg mellan 1 och 5 stjärnor.",
+            "rate_header": "Betygsätt och Recensera {{project_title}}"
+        },
+        "redeem_button": "Lös in"
     },
     "nags": {
         "unverified_email": {
