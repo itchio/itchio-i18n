@@ -823,7 +823,7 @@
                 "verified_column": "Verifierad",
                 "resend_verification_email_button": "skicka verifikationsmejl igen",
                 "email_sent_status": "mejl skickat",
-                "detach_email": "Koppla bort e-postadress"
+                "detach_email": "Koppla bort mejladress"
             }
         }
     },
@@ -1051,7 +1051,8 @@
                 "save_rating": "Spara ditt betyg",
                 "you_havent_rated_this_submission_yet": "Du har inte betygsatt detta bidrag än.",
                 "you_just_voted": "Du röstade precis.",
-                "you_voted_ago": "Du röstade {{timestamp}}."
+                "you_voted_ago": "Du röstade {{timestamp}}.",
+                "disqualified_message": "Detta bidrag är diskvalificerat och är inte berättigad till betyg."
             }
         },
         "screenshots": {
@@ -1311,12 +1312,15 @@
         "nav_header": "Bibliotek",
         "nav": {
             "my_purchases": "Mina köp",
-            "recommended_for_you": "Rekommenderat för dig",
+            "recommended_for_you": "Rekommenderat för Dig",
             "things_on_sale": "Saker på REA",
             "things_to_rate": "Saker att betygsätta"
         },
         "download_button": "Ladda ner",
-        "gift_button": "Ge som gåva"
+        "gift_button": "Ge som gåva",
+        "rate_game": {
+            "rating_saved_header": "Betyg sparat"
+        }
     },
     "nags": {
         "unverified_email": {
