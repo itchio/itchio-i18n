@@ -1321,7 +1321,7 @@
         "gift_button": "Ge som gåva",
         "rate_game": {
             "rating_saved_header": "Betyg sparat",
-            "follow_creator": "Överväg att följa skaparen av {{project_title}} för att hålla dig uppdaterad om deras senaste släpp."
+            "follow_creator": "Överväg att följa skaparen av {{project_title}} för att hålla dig uppdaterad om deras senaste utgifter."
         }
     },
     "nags": {
