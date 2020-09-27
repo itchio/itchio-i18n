@@ -20,6 +20,9 @@
         "arcade": "Arkadspel",
         "anime": "Anime",
         "animals": "Djur",
-        "altgame": "Altspel"
+        "altgame": "Altspel",
+        "art-book": "Konstbok",
+        "asteroids": "Asteroider",
+        "automation": "Automatisering"
     }
 }
