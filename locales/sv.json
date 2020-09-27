@@ -957,7 +957,8 @@
                 "submissions_due_in": "Sista inlämning",
                 "voting_ends_in": "Röstningen stänger om"
             },
-            "submission_is_closed_for_voting": "Stängt för bidrag men röstningen pågår just nu"
+            "submission_is_closed_for_voting": "Stängt för bidrag men röstningen pågår just nu",
+            "you_can_now_rate_entries": "Du kan nu betygsätta bidrag från <a>bidragssidan</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Det finns inga bidrag än",
@@ -1314,12 +1315,13 @@
             "my_purchases": "Mina köp",
             "recommended_for_you": "Rekommenderat för Dig",
             "things_on_sale": "Saker på REA",
-            "things_to_rate": "Saker att betygsätta"
+            "things_to_rate": "Saker att Betygsätta"
         },
         "download_button": "Ladda ner",
         "gift_button": "Ge som gåva",
         "rate_game": {
-            "rating_saved_header": "Betyg sparat"
+            "rating_saved_header": "Betyg sparat",
+            "follow_creator": "Överväg att följa skaparen av {{project_title}} för att hålla dig uppdaterad om deras senaste släpp."
         }
     },
     "nags": {
