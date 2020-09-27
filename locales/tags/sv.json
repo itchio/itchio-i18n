@@ -23,6 +23,10 @@
         "altgame": "Altspel",
         "art-book": "Konstbok",
         "asteroids": "Asteroider",
-        "automation": "Automatisering"
+        "automation": "Automatisering",
+        "beat-em-up": "Beat 'em up",
+        "boss-battle": "Boss battle",
+        "atmospheric": "Atmosfärisk",
+        "black-and-white": "Svart och vit"
     }
 }
