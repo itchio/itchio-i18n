@@ -822,7 +822,8 @@
                 "email_column": "Mejladress",
                 "verified_column": "Verifierad",
                 "resend_verification_email_button": "skicka verifikationsmejl igen",
-                "email_sent_status": "mejl skickat"
+                "email_sent_status": "mejl skickat",
+                "detach_email": "Koppla bort e-postadress"
             }
         }
     },
