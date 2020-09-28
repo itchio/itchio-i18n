@@ -382,13 +382,17 @@
             "multiplayer": "Multiplayer",
             "player_count": "Jumlah pemain",
             "links": "Tautan",
-            "mentions": "Berkaitan"
+            "mentions": "Menyebutkan"
         },
         "community_view_all_posts": "Lihat semua postingan",
         "upload_list": {
             "preorder": "Preorder",
             "download": "Unduh",
-            "play_in_browser": "Main di browser"
+            "play_in_browser": "Main di browser",
+            "if_you_pay_price_or_more": "Jika kamu membayar {{price}} atau lebih",
+            "version_name": "Versi {{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "File ini akan tersedia setelah diunggah oleh pembuatnya",
+            "empty_message": "Belum ada yang bisa diunduh."
         },
         "download_access": "Klik unduh untuk mengakses file-file berikut ini:",
         "empty_page": "Tidak ada apa-apa di sini...",
@@ -421,7 +425,24 @@
         "community_posts_count": "{{count}} postingan",
         "post_a_new_topic": "Buat utas baru",
         "post_first_topic": "Buat utas yang pertama",
-        "community_sticky": "Melekat"
+        "community_sticky": "Melekat",
+        "layout": {
+            "view_all_by_name": "Lihat semua karya {{name}}",
+            "creator": "Pembuat",
+            "follow": "Ikuti",
+            "following": "Mengikuti",
+            "follow_username": "Ikuti {{username}}",
+            "following_username": "Mengikuti {{username}}",
+            "add_to_collection": "Tambah ke Koleksi",
+            "add_to_collection_short": "Koleksi",
+            "comments": "Komentar",
+            "community": "Komunitas",
+            "devlog": "Devlog",
+            "edit_your_rating": "Ubah rating-mu",
+            "edit_rating": "Ubah Rating",
+            "rate": "Nilai",
+            "rate_this_noun": "Nilai {{noun}} ini"
+        }
     },
     "search": {
         "creators": "Pembuat:",
