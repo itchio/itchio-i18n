@@ -441,7 +441,45 @@
             "edit_your_rating": "Ubah rating-mu",
             "edit_rating": "Ubah Rating",
             "rate": "Nilai",
-            "rate_this_noun": "Nilai {{noun}} ini"
+            "rate_this_noun": "Nilai {{noun}} ini",
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "Ini adalah pengiriman karya ke {{jam_title}}",
+                "you_rated_this_game": "Kamu telah memberi rating untuk game ini",
+                "view_the_submission_page": "Lihat halaman pengiriman karya",
+                "accepting_ratiings": "Game jam saat ini menerima pemberian rating untuk kiriman karya. <a>Selengkapnya</a>",
+                "now_accepting_ratings": "Game jam saat ini menerima pemberian rating untuk karya-karya yang ikut serta.",
+                "rating_instructions": "Beri komentar dan rating pada kiriman karya game jam ini dengan mengunjungi halaman pengiriman karya melalui tautan di atas."
+            },
+            "rate_for_jam": "Beri rating {{jam_title}}",
+            "submission_to_jam": "Pengiriman karya ke {{jam_title}}",
+            "related_games": "Game serupa",
+            "related_games_short": "Serupa",
+            "ownership": {
+                "you_own_this": "Sudah dimiliki",
+                "send_gift": "Kirim Hadiah",
+                "download": "Unduh",
+                "percent_off": "Diskon {{percent}}%",
+                "you_havent_sent_this_gift_to_anyone_yet": "Kamu belum mengirimkan hadiah ini ke siapapun",
+                "claimed": "Telah diklaim",
+                "you_were_gifted_this": "Kamu mendapat hadiah ini",
+                "purchased_in_a_bundle_for_price": "Dibeli dari bundel seharga {{price}}",
+                "purchased_for_price": "Telah dibeli dengan harga {{price}}"
+            },
+            "footer": {
+                "view_all_by_username": "Lihat semua karya {{username}}",
+                "report": "Laporkan",
+                "embed": "Sematkan",
+                "updated_date": "Diperbarui {{date}}"
+            }
+        },
+        "after_download": {
+            "thanks_project_author": "Terima kasih telah mengunduh {{project}} karya {{author}}.",
+            "check_out_more_from_jam_title": "Lihat lebih banyak lagi dari {{jam_title}}",
+            "share_this_project": "Bagikan proyek ini",
+            "thanks_for_downloading_title": "Terima kasih sudah mengunduh",
+            "more_from_creator": "Kamu bisa mencari lebih banyak karya dari pembuat ini di laman mereka: {{profile}}.",
+            "check_popup_blocker": "Unduhan akan segera dimulai sebentar lagi. Jika gagal, periksa pemblokir popup kamu.",
+            "view_all_from_jam": "Tampilkan semua dari game jam"
         }
     },
     "search": {
