@@ -3,7 +3,7 @@
         "user_menu": {
             "settings": "Pengaturan",
             "account": "Akun",
-            "library": "Daftar Koleksiku",
+            "library": "Pustaka saya",
             "explore": "Telusur",
             "account_menu_tooltip": "Menu Akun",
             "feed": "Berandaku",
@@ -343,7 +343,7 @@
         "download_now": "Unduh sekarang",
         "community_header": "Bergabung dengan komunitas",
         "page_title": "Unduh aplikasi",
-        "meta_description": "itch, cara terbaik untuk mengunduh dan bermain game indie. Unduh game-game gratis dan atur daftar koleksi kamu melalui desktop. Tersedia untuk Windows, macOS, dan Linux."
+        "meta_description": "itch, cara terbaik untuk mengunduh dan bermain game indie. Unduh game-game gratis dan atur pustaka kamu melalui desktop. Tersedia untuk Windows, macOS, dan Linux."
     },
     "game": {
         "get_access_preorder": "Kamu akan mendapat akses untuk file-file berikut ini setelah rilis:",
@@ -479,7 +479,26 @@
             "thanks_for_downloading_title": "Terima kasih sudah mengunduh",
             "more_from_creator": "Kamu bisa mencari lebih banyak karya dari pembuat ini di laman mereka: {{profile}}.",
             "check_popup_blocker": "Unduhan akan segera dimulai sebentar lagi. Jika gagal, periksa pemblokir popup kamu.",
-            "view_all_from_jam": "Tampilkan semua dari game jam"
+            "view_all_from_jam": "Tampilkan semua dari game jam",
+            "more_from_itchio_header": "Lihat lebih banyak lagi dari itch.io",
+            "see_everything": "Lihat semua",
+            "powered_by": "<s>Didukung oleh</s> {{itchio_logo}}",
+            "app_learn_more": "<s>Baru!</s> Cobalah aplikasi desktop itch.io untuk mengunduh dan mengelola pustaka kamu. <a>Selengkapnya</a>"
+        },
+        "report_form": {
+            "form_description": "Mohon lengkapi formulir ini jika kamu ingin menghubungi tim moderasi itch.io perihal isi dari halaman ini. Apabila diperlukan, laporan kamu akan dibagikan dengan pembuat halaman.",
+            "support_from_creator": "Apakah kamu sedang mengalami masalah dan membutuhkan bantuan dari pembuatnya?",
+            "support_page_link": "Buka halaman dukungan resmi",
+            "email_creator_link": "Kirimkan email ke pembuatnya",
+            "submit_report_button": "Kirimkan laporan",
+            "title": "Laporkan halaman '{{page_title}}'",
+            "report_received_header": "Laporan diterima",
+            "description_label": "Deskripsi",
+            "reason_label": "Keluhan",
+            "reason_other": "Lainnya"
+        },
+        "password_required": {
+            "header": "Kata sandi diperlukan untuk melihat halaman ini"
         }
     },
     "search": {
@@ -488,5 +507,12 @@
         "view_all_tags": "Lihat semua tag",
         "browse_all_games": "Telusur semua game",
         "search_results_for_query": "Hasil pencarian '{{query}}'"
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "Utas ini telah diarsipkan dan tidak dapat menerima postingan lagi",
+            "reply": "Balasan",
+            "log_in_to_reply": "Masuk untuk memberi balasan"
+        }
     }
 }
