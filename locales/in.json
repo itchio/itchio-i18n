@@ -767,9 +767,48 @@
             "default_language_option": "Semula (Disetel ke bahasa Inggris selama uji coba beta bahasa)",
             "content": "Konten",
             "show_adult_content": "Tampilkan konten yang ditandai dewasa agar muncul di pencarian & penelusuran",
-            "disable_animated_gifs": "Nonaktifkan animasi gif"
+            "disable_animated_gifs": "Nonaktifkan animasi gif",
+            "disable_autoloading_next_page_when_browsing": "Matikan pemuat otomatis ke halaman berikutnya saat browsing",
+            "click_to_load_games": "Harus mengeklik terlebih dahulu untuk menjalankan sematan game HTML5",
+            "use_dark_theme": "Gunakan tema gelap jika memungkinkan",
+            "profile": "Profil",
+            "profile_description": "Isi dari laman profil kamu"
         },
-        "account_settings": "Pengaturan akun"
+        "account_settings": "Pengaturan akun",
+        "password": {
+            "current_password": "Kata sandi saat ini",
+            "password_again": "Ulangi kata sandi",
+            "reset_password": "Setel ulang kata sandi",
+            "set_password": "Setel kata sandi",
+            "password": "Kata sandi",
+            "new_password": "Kata sandi baru",
+            "new_password_again": "Ulangi kata sandi baru"
+        },
+        "email_addresses": {
+            "primary_email_description": "itch.io akan mengirimkan pemberitahuan ke email utama kamu.",
+            "change_password_instructions": "Saat mengganti alamat email, kamu harus memverifikasi email kamu agar dapat mengakses semua game yang sudah kamu beli. Nantinya kamu akan menerima panduan verifikasi. Demi alasan keamanan, kamu juga harus memasukkan kata sandi kamu saat ini agar bisa melakukan pengubahan terhadap alamat email kamu.",
+            "primary_email_header": "Email utama",
+            "your_primary_email_address": "Alamat email utama kamu: {{email}}",
+            "change_email_form": {
+                "new_email_address": "Alamat email baru",
+                "current_password": "Kata sandi saat ini"
+            },
+            "additional_emails_header": "Email tambahan",
+            "additional_emails_summary": "Kamu bisa menautkan alamat-alamat email tambahan ke akun itch.io kamu untuk memperoleh ke akses ke semua pembelian yang kamu lakukan di alamat-alamat email tersebut. Misalnya, jika alamat email PayPal kamu berbeda dengan alamat email yang biasa kamu gunakan maka kamu bisa menambahkannya sebagai email tambahan.",
+            "additional_emails_instructions": "Kamu akan menerima panduan verifikasi setelah memasukkan email tambahan.",
+            "add_email_form": {
+                "additional_email_address_label": "Alamat Email Tambahan",
+                "add_email_button": "Tambahkan Email"
+            },
+            "additional_emails": {
+                "emails_added_header": "Email telah ditambahkan",
+                "email_column": "Email",
+                "verified_column": "Terverifikasi",
+                "resend_verification_email_button": "kirim ulang verifikasi email",
+                "email_sent_status": "email terkirim",
+                "detach_email": "Pisahkan email"
+            }
+        }
     },
     "browse_tags": {
         "page_title": "Tag teratas",
@@ -780,5 +819,90 @@
     "buy_form_popup": {
         "author_line": "<1>oleh</1> {{author}}",
         "powered_by_itchio": "didukung oleh {{itchio}}"
+    },
+    "stripe_checkout": {
+        "payment_error_help": "Jika ragu, silakan hubungi <a>bantuan itch.io</a> dengan pesan di atas.",
+        "gift_instructions": "Pembelian ini berupa hadiah. Kamu dapat memasukkan email penerima hadiah setelah checkout.",
+        "steam_key": "Steam key",
+        "payment_error": "Ada kesalahan saat memproses pembayaran kamu:",
+        "choose_a_card": "Pilih kartu",
+        "edit_saved_cards": "Ubah kartu tersimpan",
+        "card_ending_last4": "4 digit terakhir adalah {{last4}}",
+        "new_card": "Kartu baru",
+        "enter_your_password_to_use_your_card": "Masukkan kata sandi untuk menggunakan kartu",
+        "password": "Kata sandi",
+        "buying_as": "Membeli sebagai",
+        "credit_or_debit_card": "Kartu debit atau kredit",
+        "save_credit_card_for_future_purchases": "Simpan kartu kredit untuk pembelian-pembelian berikutnya",
+        "manage_cards_link": "Kamu bisa mengatur kartu-kartu kamu melalui <a>Pengaturan Akun</a>",
+        "pay_price_button": "Bayar {{price}}",
+        "paying_price_for": "Membayar {{price}} untuk:",
+        "paying_price_vat_for": "Membayar {{price}} termasuk PPN untuk:",
+        "donating_price_to": "Mendonasikan {{price}} untuk:",
+        "donating_price_vat_to": "Mendonasikan {{price}} termasuk PPN untuk:",
+        "you_will_receive_files": "Kamu akan memperoleh:",
+        "linked_to_account": "Terhubung ke akun",
+        "email": "Email",
+        "youll_be_mailed_your_access_link": "Kamu akan menerima tautan akses kamu",
+        "full_name": "Nama Lengkap",
+        "name_as_it_appears_on_card": "Seperti yang tertera di kartu"
+    },
+    "game_download": {
+        "trouble_downloading_link": "Unduhan tidak memulai?",
+        "check_out_more_from_jam_title": "Lihat yang lainnya dari {{jam_title}}",
+        "alternate_download": {
+            "region_message": "Beberapa wilayah diketahui telah memblokir CDN itch.io. Jika unduhan kamu tidak bisa memulai maka kamu bisa mengaktifkan mode unduhan alternatif lalu coba lagi.",
+            "enable_alternate_download_mode": "Aktifkan mode unduhan alternatif",
+            "title": "Mode Unduhan Alternatif"
+        },
+        "header": {
+            "invoice": "Invoice",
+            "more_menu": "Lebih banyak",
+            "view_rest_in_bundle": "Lihat isi bundel lainnya",
+            "preorder_title": "Preorder {{project_title}}",
+            "download_title": "Unduh {{project_title}}",
+            "view_all_my_purchases": "Lihat semua pembelian",
+            "return_to_project": "Kembali ke proyek",
+            "discussion_board": "Forum diskusi"
+        },
+        "link_account_header": "Tautkan halaman unduhan ini ke akun itch.io kamu",
+        "link_account_description": "Kamu bisa menautkan halaman unduhan ini ke akun itch.io kamu sehingga kamu tidak perlu lagi khawatir kehilangan akses. Tautan ini akan muncul bersama dengan produk-produk lain yang kamu punya.",
+        "claim_external_key": "Klaim {{key_type}} key",
+        "access_comes_with_key": "Dengan akses, kamu juga menerima {{key_type}} key!",
+        "email_capture": {
+            "provide_email_instructions": "Masukkan alamat email kamu untuk menghubungkannya ke pembelian agar kamu bisa mengambilnya lagi apabila kamu kehilangan akses ke halaman ini.",
+            "dont_lose_your_purchase": "Jangan sampai kehilangan pembelian kamu!"
+        },
+        "share_and_follow": "Ikuti & bagikan",
+        "social_share_message_download": "Saya baru saja mengunduh {{title}} dari {{username}}",
+        "or_share_on": "atau bagikan di",
+        "install_instructions_intro": "Panduan pengunduhan dan pemasangan oleh {{username}}:",
+        "recommendations_title": "Tambahan lain yang mungkin menarik bagi kamu",
+        "check_your_email_for_the_confirmation_link": "Periksa tautan konfirmasi di email kamu.",
+        "preorder_instructions": "Proyek ini berisi file-file yang belum dirilis. Silakan kembali lagi ke halaman ini apabila pembuatnya sudah merilis file-file tersebut jika kamu ingin mengunduhnya.",
+        "app_banner": {
+            "get_the_app": "Dapatkan aplikasi",
+            "app_description": "Pasang dan kelola game-game kamu dengan aplikasi desktop itch.io"
+        },
+        "play_in_your_browser": "Mainkan di browser",
+        "start_project_button": "Mulai",
+        "version_name": "Versi {{version_name}}",
+        "linked_user_message": "Halaman ini terhubung ke akun {{username}}.",
+        "link_my_account": "Hubungkan akun saya",
+        "log_in_to_link": "Masuk ke akun untuk menghubungkan",
+        "must_link_account_description": "Kamu harus menautkan halaman ini ke akun itch.io sebelum mengunduh. Tidak cuma gratis, dengan memiliki akun kamu juga dapat melacak game-game yang sudah kamu kumpulkan.",
+        "already_own": "Tampaknya kamu sudah punya ini",
+        "access_existing_copy": "Tidak bisa mengeklaim dua kali, silakan akses yang sudah kamu miliki.",
+        "get_external_key": "Dapatkan {{key_type}} key",
+        "claim_external_key_instructions": "Klik tombol untuk mengeklaim.",
+        "payment_comes_with_key": "Setelah pembayaran, kamu akan menerima {{key_type}} key!",
+        "access_it": "Akses",
+        "purchase": {
+            "youve_been_gifted": "Kamu mendapat hadiah {{product_title}}.",
+            "save_this_purchase_to_your_account": "Simpan pembelian ini ke akun kamu",
+            "link_purchase_links": "<1>Buat akun</1> atau <2>masuk ke itch.io</2> untuk menautkan pembelian ini segera.",
+            "link_purchase_warning": "Jangan sampai kehilangan pembelian kamu!",
+            "thank_you_for_purchasing": "Terima kasih telah membeli {{product_title}}."
+        }
     }
 }
