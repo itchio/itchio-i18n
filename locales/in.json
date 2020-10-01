@@ -536,7 +536,8 @@
             "last_page": "Halaman terakhir",
             "this_topic_is_locked": "Utas ini dikunci",
             "this_topic_was_locked_by_username": "Utas ini dikunci oleh {{username}}",
-            "create_related_topic": "Jika kamu punya hal yang terkait dengan postingan ini, cobalah <a>membuat utas baru di {{category_name}}</a>."
+            "create_related_topic": "Jika kamu punya hal yang terkait dengan postingan ini, cobalah <a>membuat utas baru di {{category_name}}</a>.",
+            "remove_bookmark": "Hapus markah"
         },
         "post_list": {
             "view_more_in_thread": "Lihat lebih banyak di utas",
@@ -663,6 +664,33 @@
         "pending_invitation": "Kamu punya undangan tertunda untuk menjadi kontributor koleksi ini. <a>Lihat undangan</a>",
         "a_collection_by_author": "Koleksi milik {{author}}",
         "page_title": "{{collection_title}} - Koleksi milik {{author}}",
-        "remove_item_button": "Hapus..."
+        "remove_item_button": "Hapus...",
+        "add_a_blurb": "Tuliskan promosi singkat",
+        "edit_blurb": "Ubah teks promosi singkat",
+        "blurb_author_says": "{{author}} mengatakan",
+        "remove_confirm": "Apa kamu yakin ingin menghapus ini dari koleksi"
+    },
+    "browse": {
+        "related_collections": "Koleksi serupa",
+        "tag": {
+            "suggest_updated_description": "Sarankan deskripsi yang diperbarui",
+            "no_description_yet": "Belum ada deskripsi",
+            "suggest_description_for_this_tag": "Sarankan deskripsi untuk tag ini"
+        },
+        "filter_group_platform": "Platform",
+        "results_count_plural": "{{count}} hasil",
+        "results_count": "{{count}} hasil",
+        "sort_popular": "Populer",
+        "sort_new_and_popular": "Baru & Populer",
+        "sort_top_sellers": "Penjualan terlaris",
+        "sort_top_rated": "Penilaian tertinggi",
+        "sort_most_recent": "Terbaru",
+        "upload_your_project": "<a>Unggah proyekmu</a> ke itch.io agar bisa muncul di sini.",
+        "filter_results": "Saring Hasil",
+        "clear_filters": "Hapus saringan",
+        "filter_group_price": "Harga",
+        "filter_group_genre": "Genre",
+        "view_all_tags": "Lihat semua tag",
+        "sort": "Urutkan"
     }
 }
