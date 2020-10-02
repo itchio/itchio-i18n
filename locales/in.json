@@ -291,7 +291,7 @@
         "create_an_account_on_itchio": "Buat akun di itch.io"
     },
     "developers": {
-        "product_summary1": "<s>itch.io</s> memudahkan penyebaran online game indie kamu secara gratis. Unggah tangkapan layar dan berkas-berkas game kamu sekaligus ke satu tempat. Buatlah laman yang sesuai khusus untuk game kamu.",
+        "product_summary1": "<s>itch.io</s> memudahkan penyebaran online game indie kamu secara gratis. Unggah screenshot dan berkas-berkas game kamu sekaligus ke satu tempat. Buatlah laman yang sesuai khusus untuk game kamu.",
         "page_header": "Buat halaman khusus untuk membagikan ataupun menjual game indie kamu",
         "product_summary2": "Kamu juga bisa menetapkan harga minimum dari game kamu agar para penggemar dapat membayar sesuai dengan yang mereka mau.",
         "my_dashboard": "Dasborku",
@@ -306,7 +306,7 @@
         "design_your_games_page_description": "Buat laman khusus agar orang-orang dapat mengunduh atau membeli game kamu. Pilih sendiri warna, font, gambar, dan video untuk laman kamu. Kamu tidak akan melihat apa pun selain yang sudah kamu masukkan sendiri di laman game kamu.",
         "learn_more": "Selengkapnya",
         "browser_game_description": "Hasilkan uang dengan menghosting game browser kamu di <s>itch.io</s>.. Game kamu akan tersemat di browser dan pemain dapat menyumbangkan uang sebanyak yang mereka mau apabila mereka menyukai game-mu.",
-        "upload_your_game_description": "Unggah game indie kamu di <s>itch.io</s> secara gratis. Kami akan menghosting game kamu beserta unggahan lain dan tangkapan layar game kamu. Game kamu akan selalu tersedia dan cepat untuk diunduh.",
+        "upload_your_game_description": "Unggah game indie kamu di <s>itch.io</s> secara gratis. Kami akan menghosting game kamu beserta screenshot dan unggahan-unggahan lain dari game kamu. Game kamu akan selalu tersedia dan dapat diunduh dengan cepat.",
         "learn_more_about": "Selengkapnya tentang:",
         "share_message": "itch.io memudahkan penyebaran online game indie kamu secara gratis.",
         "create_account_or_login": "<1>Buat akun</1> <em>atau</em> <2>Masuk</2>",
@@ -716,7 +716,7 @@
     "user_settings": {
         "navigation": {
             "publisher_get_started": "Mari mulai",
-            "payout_mode": "Cara setor bayaran",
+            "payout_mode": "Cara setor pemasukan",
             "email_notifications": "Pemberitahuan email",
             "basics_header": "Dasar",
             "payment_header": "Pembayaran",
@@ -902,7 +902,257 @@
             "save_this_purchase_to_your_account": "Simpan pembelian ini ke akun kamu",
             "link_purchase_links": "<1>Buat akun</1> atau <2>masuk ke itch.io</2> untuk menautkan pembelian ini segera.",
             "link_purchase_warning": "Jangan sampai kehilangan pembelian kamu!",
-            "thank_you_for_purchasing": "Terima kasih telah membeli {{product_title}}."
+            "thank_you_for_purchasing": "Terima kasih telah membeli {{product_title}}.",
+            "thank_you_for_purchasing_author": "Terima kasih telah membeli {{product_title}} dari {{author}}.",
+            "receipt_support_information": "Kamu biasanya akan menerima email berisi tautan ke halaman ini. Apabila kamu kehilangan akses URL untuk halaman ini maka kamu bisa meminta <a>halaman bantuan</a> untuk mengirimkan URL tersebut ke email kamu.",
+            "thank_you_for_donating": "Terima kasih sudah memberi donasi ke {{product_title}}.",
+            "thank_you_for_donating_author": "Terima kasih sudah memberi donasi untuk {{product_title}} dari {{author}}.",
+            "unique_url_for_your_payment": "Halaman ini memiliki URL unik untuk pembayaran kamu.",
+            "access_latest_files_from_this_page": "Kamu bisa selalu mengakses file-file terbaru dari halaman ini.",
+            "payment_summary": "Kamu membayar ini pada tanggal {{payment_date}} sebesar {{payment_price}}.",
+            "payment_summary_with_email": "Kamu membayar ini pada tanggal {{payment_date}} sebesar {{payment_price}} dengan email {{email_address}}.",
+            "percent_off": "Diskon {{percent}}%",
+            "linked_user_message": "Pembelian ini terhubung dengan akun {{username}}."
         }
+    },
+    "jam": {
+        "submitter": {
+            "countdown": {
+                "starts_in": "Akan mulai dalam waktu",
+                "submissions_due_in": "Pengiriman karya berakhir dalam waktu",
+                "voting_ends_in": "Voting selesai dalam waktu"
+            },
+            "submission_is_closed_for_voting": "Pengiriman karya sudah ditutup dan voting sedang berlangsung",
+            "join_jam": "Ikut game jam",
+            "submit_button": "Kirimkan proyekmu",
+            "or_leave_jam": "atau <a>keluar dari game jam</a>",
+            "youve_joined": "Kamu bergabung dengan game jam ini.",
+            "joined_instructions": "Masuk lagi ke laman ini setelah game jam dimulai untuk mengirimkan proyekmu.",
+            "leave_jam": "Keluar dari game jam",
+            "submissions_open_from": "Pengiriman karya dibuka dari {{start_date}} sampai {{end_date}}",
+            "jam_is_now_over": "Game jam ini sudah selesai. Berlangsung dari {{start_date}} sampai {{end_date}}.",
+            "view_results": "Lihat hasil",
+            "view_entries": "Lihat {{count}} karya",
+            "you_can_now_rate_entries": "Kamu sekarang bisa menilai karya peserta melalui <a>laman pengiriman karya</a>"
+        },
+        "submissions": {
+            "help_submissions_in_need_of_ratings": "Bantu memberi nilai kiriman karya yang memiliki jumlah rating sedikit: <a>Kiriman yang membutuhkan rating</a>",
+            "there_are_no_submissions_yet": "Belum ada kiriman karya",
+            "there_were_no_submissions": "Tidak ada pengiriman karya",
+            "submissions_will_be_available_after_the_jam_has_ended": "Kiriman karya akan tersedia setelah game jam usai",
+            "filters": {
+                "all_submissions": "Semua kiriman karya",
+                "browser_playable": "Dapat dimainkan di browser"
+            },
+            "filter": "Saring",
+            "empty_results": "Tidak ada kiriman karya yang sesuai dengan penyaringanmu",
+            "rated": "Sudah dinilai"
+        },
+        "results": {
+            "submissions_summary": "<s>{{count}} karya</s> telah dikirimkan sejak {{start_date}} hingga {{end_date}}.",
+            "ratings_given_submissions_count": "<s>{{count}} rating</s> telah diberikan pada <s>{{submission_count}} karya</s> ({{percent}}%) sejak {{vote_start_date}} hingga {{vote_end_date}}.",
+            "submissions": {
+                "ranked_criteria_vote_count": "Peringkat {{ordinal_rank}} dalam {{criteria_name}} dengan {{count}} suara",
+                "by_author": "oleh {{author}}",
+                "view_submission_page": "Lihat laman pengiriman karya",
+                "ranked": "Peringkat {{ordinal_rank}}",
+                "ranked_vote_count": "Peringkat {{ordinal_rank}} dengan {{count}} suara",
+                "ranked_rating_count": "Peringkat {{ordinal_rank}} dengan {{count}} rating",
+                "ranked_criteria": "Peringkat {{ordinal_rank}} dalam {{criteria_name}}",
+                "ranked_criteria_rating_count": "Peringkat {{ordinal_rank}} dalam {{criteria_name}} dengan {{count}} rating",
+                "ranked_score": "Skor: {{score}}"
+            },
+            "results": "Hasil",
+            "votes_cast_count": "<s>{{count}}</s> voting telah diberikan sejak {{vote_start_date}} hingga {{vote_end_date}}.",
+            "ratings_given_count": "<s>{{count}} rating</s> telah diberikan sejak {{vote_start_date}} hingga {{vote_end_date}}.",
+            "average_and_median_results": "Nilai rata-rata rating per game adalah <s>{{average_ratings}}</s> dan nilai tengah ratingnya adalah <s>{{median_ratings}}</s>.",
+            "empty_message": "Hasil masih belum tersedia, silakan coba lagi nanti",
+            "empty_page_message": "Tidak ada hasil di halaman ini",
+            "no_rankings_available": "Tidak ada peringkat tersedia",
+            "sort_by_criteria": "Berdasarkan kriteria",
+            "sort_overall": "Keseluruhan"
+        },
+        "submission": {
+            "comments": {
+                "empty_message": "Belum ada yang memberi komentar",
+                "leave_a_comment_header": "Berikan komentar",
+                "post_comment": "Posting komentar"
+            },
+            "score_information": "Skor disesuaikan dari skor murni berdasarkan nilai tengah rating per game di game jam.",
+            "rated_by_people_count": "Sejauh ini telah dinilai oleh {{count}} orang",
+            "rate_submission": {
+                "owner_message": "Ini kiriman karya kamu, tidak diperbolehkan untuk menilai karya sendiri. Namun, peserta lain di game jam ini dapat memberi rating untuk proyek kamu di sini.",
+                "sign_up_to_vote": "<a>Daftar dengan akun itch.io</a> untuk memberi voting dan komentar.",
+                "vote": "Voting",
+                "private_field": "(pribadi)",
+                "vote_for_this_submission": "Beri voting untuk kiriman ini",
+                "rate_this_submission": "Beri rating untuk kiriman ini",
+                "not_open_yet": "Masa pengiriman untuk game jam ini masih belum berakhir. Pemberitan rating dibuka {{start_date}}.",
+                "unavailable_to_rate": "Kamu tidak bisa memberi rating untuk proyek ini karena kamu belum mengirimkan karyamu sendiri. Walau begitu, kamu masih bisa memberi komentar di bawah.",
+                "sign_up_to_rate": "<a>Daftar dengan akun itch.io</a> untuk memberi rating dan komentar.",
+                "you_will_be_able_to_rate_if_you_submit": "Kamu dapat memberi rating terhadap karya ini jika kamu juga mengirimkan karya kamu ke game jam ini.",
+                "other_participants_can_rate": "Orang lain yang ikut serta dalam game jam juga dapat memberi rating pada karyamu.",
+                "save_vote": "Simpan voting",
+                "save_rating": "Simpan rating",
+                "you_havent_rated_this_submission_yet": "Kamu belum memberi rating ke kiriman karya ini.",
+                "you_just_voted": "Kamu baru saja memberikan voting.",
+                "you_voted_ago": "Kamu memberikan voting {{timestamp}}.",
+                "participate_to_rate_message": "Agar bisa memberi rating pada kiriman ini, kamu harus <a>masuk ke akun itch.io</a> dan mengirimkan karyamu sendiri terlebih dahulu. Bagi yang memiliki akun juga bisa memberikan komentar.",
+                "disqualified_message": "Karya ini didiskualifikasi dan tidak memenuhi syarat pemberian rating."
+            },
+            "results_table_criteria": "Kriteria",
+            "results_table_rank": "Peringkat",
+            "results_table_votes": "Voting",
+            "results_table_score": "Skor",
+            "results_table_raw_score": "Skor Murni",
+            "edit_this_submission_button": "Edit kiriman ini",
+            "remove_this_submission_button": "Hapus kiriman ini",
+            "a_jam_submission": "Kiriman karya game jam",
+            "view_game_page": "Lihat laman game",
+            "view_project_page": "Lihat laman proyek",
+            "link_to_itchio_page": "laman itch.io {{game_title}}",
+            "downloads": "Unduhan",
+            "play_game": "Mainkan game",
+            "run_project": "Jalankan proyek",
+            "ranked_from_count_plural": "Peringkat dari <s>{{count}} rating</s>.",
+            "ranked_from_count": "Peringkat dari <s>{{count}} rating</s>.",
+            "results_header": "Hasil",
+            "ranked_with_vote_count": "Peringkat {{ordinal_rank}} dengan {{count}} suara",
+            "submitted_by_contributors": "Dikirimkan oleh {{contributors}}",
+            "time_remaining_before_deadline": "{{time_duration}} sebelum tenggat waktu",
+            "rated_by_people_count_plural": "Sejauh ini telah dinilai oleh {{count}} orang"
+        },
+        "header": {
+            "hosted_by": "Diselenggarakan oleh {{hosts}}",
+            "links": {
+                "community": "Komunitas",
+                "results": "Hasil",
+                "submissions": "Pengiriman karya",
+                "overview": "Keterangan",
+                "screenshots": "Screenshot",
+                "submission_feed": "Beranda pengiriman karya",
+                "edit_jam": "Edit game jam"
+            }
+        },
+        "stats": {
+            "joined": "Telah bergabung",
+            "entries": "Karya",
+            "ratings": "Rating"
+        },
+        "screenshots": {
+            "empty_message": "Belum ada screenshot yang diunggah",
+            "loading_more": "Memuat lebih banyak screenshot..."
+        }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "Pendapatan Kotor",
+            "payments": "Pembayaran",
+            "views": "Tayangan",
+            "downloads": "Unduhan",
+            "followers": "Pengikut",
+            "following": "Mengikuti"
+        },
+        "page_title": "Dasbor Pembuat",
+        "header": {
+            "projects_link": "Proyek",
+            "payments_link": "Pembayaran",
+            "analytics_link": "Analisis",
+            "payouts_link": "Pemasukan",
+            "sales_bundles_link": "Bundel & Diskon",
+            "coop_bundles_link": "Bundel bersama",
+            "game_jams_link": "Game jam"
+        },
+        "create_new_project_button": "Buat proyek baru",
+        "project_list": {
+            "analytics": "Analisis",
+            "widget": "Widget",
+            "edit": "Edit",
+            "no_image": "Tidak Ada Gambar"
+        },
+        "analytics_summary_header": "Rangkuman",
+        "intro_text": "Apakah kamu pengembang game? Unggah game pertama kamu",
+        "not_a_developer_escape": "Nggak kok, langsung ke beranda berita game saja",
+        "new_devlog": "Devlog baru",
+        "hello": "Halo!",
+        "dashboard": "Dasbor",
+        "edit_project": {
+            "create_a_new_project_title": "Buat proyek baru",
+            "edit_project_title": "Edit proyek",
+            "title_field": "Judul",
+            "project_url_field": "URL proyek",
+            "save_and_view_button": "Lihat & simpan halaman",
+            "video_field": "Trailer atau video gameplay",
+            "delete_game_button": "Hapus game",
+            "short_description_field": "Deskripsi singkat atau slogan",
+            "classification_field": "Klasifikasi",
+            "classification_field_description": "Apa yang kamu unggah?",
+            "kind_of_project_field": "Jenis proyek",
+            "release_status_field": "Status perilisan",
+            "details_section_header": "Rincian",
+            "description_field": "Deskripsi",
+            "custom_noun_field": "Sebutan khusus",
+            "custom_noun_field_description": "Kamu bisa mengganti nama sebutan untuk proyek kamu di itch.io dengan memberikan sebutan khusus.",
+            "default_noun": "Biarkan kosong untuk mengembalikan jadi: '{{default_noun}}'.",
+            "classification_other": "Lainnya",
+            "types": {
+                "downloadable": "Dapat diunduh"
+            },
+            "tip_label": "Tips",
+            "description_field_description": "Berikut ini akan menjadi isi dari laman game kamu.",
+            "community_field": "Komunitas",
+            "community_disabled": "Dinonaktifkan",
+            "community_comments": "Komentar",
+            "community_discussion_board": "Forum diskusi",
+            "pricing_header": "Penetapan harga",
+            "uploads_header": "Unggahan",
+            "upload_files_button": "Unggah file",
+            "add_external_file_button": "Tambahkan file eksternal",
+            "file_size_limit": "Batas ukuran file: {{filesize}}. <a>Hubungi kami</a> jika kamu membutuhkan lebih banyak ruang",
+            "content_guidelines_info": "Periksa <a>pedoman kualitas</a> kami sebelum memposting proyek kamu",
+            "payment_warning_header": "Kamu tidak punya pembayaran yang terkonfigurasi",
+            "cover_uploader": {
+                "confirm_remove": "Apa kamu yakin ingin menghapus gambar sampul?",
+                "cover_description": "Gambar sampul akan digunakan setiap kali itch.io menautkan proyek kamu dengan tempat lain di situs ini. Syarat resolusi (minimal: 315x250, Disarankan: 630x500)",
+                "replace_image": "Ganti gambar sampul",
+                "remove_image": "Hapus Gambar",
+                "upload_button": "Unggah Gambar Sampul"
+            },
+            "errors": {
+                "invalid_file": "Ada masalah dengan file yang kamu pilih",
+                "invalid_image": "Mohon edit gambar kamu atau coba dengan yang lain"
+            },
+            "error_dialog": {
+                "confirm_button": "Siap",
+                "title": "Ada masalah saat menyimpan proyek kamu"
+            },
+            "visibility_access_header": "Akses & visibilitas",
+            "access_control": {
+                "disable_downloads_option": "Nonaktifkan unduhan & pembelian baru",
+                "unlisted_option": "Tidak ditampilkan di daftar telusur & cari",
+                "allow_password_option": "Juga mensyaratkan kata sandi untuk melihat laman",
+                "password_label": "Kata sandi",
+                "public_access_settings": "Pengaturan akses publik",
+                "restricted_access_settings": "Pengaturan akses terbatas",
+                "access_settings": "Pengaturan akses"
+            },
+            "embed_options_header": "Pilihan penyematan",
+            "embed_options": {
+                "width": "Lebar",
+                "height": "Tinggi",
+                "viewport_dimensions": "Dimensi viewport"
+            },
+            "video_field_description": "Berikan tautan ke YouTube atau Vimeo.",
+            "short_description_field_description": "Akan muncul saat menautkan ke proyek kamu. Hindari menulis ulang judul proyek",
+            "instructions_field": "Panduan unduh & pemasangan",
+            "project_type_help": "Kamu bisa menambahkan file unduhan tambahan untuk setiap tipe di atas",
+            "instructions_field_info2": "Jika game kamu terlebih dahulu memerlukan penginstalan library atau program tertentu, kamu harus memberikan keterangan tentang hal tersebut",
+            "content_guidelines_header": "Pastikan semua orang bisa menemukan laman kamu",
+            "payment_warning_info": "Jika kamu menetapkan harga minimum di atas 0 maka tidak ada yang bisa mengunduh proyek kamu. <a>Ubah akun</a>",
+            "visibility_access_info": "Gunakan Draf untuk meninjau laman kamu sebelum menampilkannya ke publik. <a>Pelajari lebih lanjut tentang mode akses</a>",
+            "instructions_field_info1": "Teks ini akan ditampilkan ke orang lain saat mereka mengunduh game kamu melalui browser. Mohon masukkan berbagai keterangan mengenai cara penginstalan dan menjalankan hasil unduhan mereka."
+        },
+        "follow_itchio": "Ikuti itch.io di {{twitter}} dan {{facebook}}",
+        "recently_updated_pages_header": "Halaman yang baru diperbarui"
     }
 }
