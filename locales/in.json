@@ -321,7 +321,7 @@
     },
     "app": {
         "summary": "Aplikasi itch.io, <s>itch</s>, memudahkan kamu untuk mengunduh serta menjalankan game dan software dari itch.io. Semua unduhan kamu disimpan di satu tempat dan diperbarui otomatis. Masuk ke pembelian dan koleksi-koleksi kamu, atau cari game-game baru lewat browser di dalam aplikasi.",
-        "browse_description": "Di itch.io pembuat game-lah yang menentukan sendiri bagaimana penampilan halaman proyek mereka. Unduh dan pasang berbagai game sambil menjelajahi <a>desain-desain unik dari halaman para pembuat game<a>.",
+        "browse_description": "Di itch.io pembuat game-lah yang menentukan sendiri bagaimana penampilan halaman proyek mereka. Unduh dan pasang berbagai game sambil menjelajahi <a>desain-desain unik dari halaman para pembuat game</a>.",
         "updates_description": "Tidak hanya otomatis memperbarui game-game yang sudah terpasang, aplikasi ini juga akan berubah otomatis saat kami menambahkan fitur dan fungsi baru. Game yang menggunakan alat command line baru kami akan menghasilkan <em>delta patch</em> sehingga ketika ada game baru, hanya bagian yang diubah yang akan terunduh.",
         "community_description": "Pelajari lebih lanjut mengenai pengembangan aplikasi <1>bersama komunitas</1>. Bagikan permintaan fitur dan umpan balik kamu dengan anggota-anggota itch.io lainnya. Kabar baik bagi kamu yang programmer, seluruh proyek itch.io tersedia secara <2>open source di GitHub</2>, kami menantikan pull request kamu.",
         "open_source": "Open source",
@@ -1190,7 +1190,7 @@
             "add_screenshots": "Tambahkan screenshot",
             "screenshots_header": "Screenshot",
             "details_genre_info": "Pilih kategori yang paling tepat untuk menjelaskan game kamu. Kamu bisa memilih genre tambahan dengan tag-tag di bawah",
-            "community_field_info": "Bangun komunitas untuk proyek kamu dengan membolehkan orang membuat postingan di halaman kamu",
+            "community_field_info": "Bangun komunitas untuk proyek kamu dengan membolehkan orang membuat postingan di halaman kamu.",
             "community_discussion_board_info": "Tambahkan halaman komunitas khusus dengan fitur kategori, utas, balasan & lainnya"
         },
         "follow_itchio": "Ikuti itch.io di {{twitter}} dan {{facebook}}",
@@ -1241,6 +1241,77 @@
         "browse_top_past_jams": "Game Jam Teratas Sebelumnya",
         "page_title": "Game jam di itch.io",
         "page_summary": "itch.io adalah tempat untuk menyelanggara dan ikut serta dalam game jam secara online. Siapapun dapat membuat dan menyelenggarakan game jam dengan cepat.",
-        "browse_upcoming_this_month": "Yang Mendatang Bulan Ini"
+        "browse_upcoming_this_month": "Yang Mendatang Bulan Ini",
+        "browse_in_progress": "Sedang Berlangsung",
+        "count_joined": "{{count}} peserta"
+    },
+    "feed": {
+        "filter_own_activity_tab": "Aktivitas saya sendiri",
+        "filter_everything_tab": "Semuanya",
+        "filter_new_projects_tab": "Proyek baru",
+        "filter_collections_tab": "Koleksi",
+        "filter_devlogs_tab": "Devlog",
+        "filter_ratings_tab": "Rating",
+        "latest_featured_games_header": "Game pilihan terbaru",
+        "featured_tags_header": "Tag pilihan",
+        "to_rate": {
+            "projects_to_rate_header": "Proyek untuk dinilai",
+            "to_rate_description": "Berikut ini adalah karya yang pernah kamu interaksi tapi belum diberi rating."
+        },
+        "to_follow": {
+            "people_to_follow_header": "Saran untuk diikuti",
+            "to_follow_description": "Berikut ini adalah beberapa akun yang mungkin tertarik untuk kamu ikuti."
+        },
+        "my_feed_tab": "Berandaku",
+        "global_feed_tab": "Beranda global",
+        "manage_my_games_button": "Kelola game-game saya",
+        "upload_a_game_button": "Unggah game",
+        "event_filter_label": "Saring:",
+        "email_warning": {
+            "verify_your_email_address": "Verifikasi alamat email kamu"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Tambahkan gambar profil",
+            "description": "Akun kamu belum memiliki gambar profil, tambahkan gambar profil agar orang lain dapat lebih mudah mengenalimu dengan cepat!"
+        },
+        "event": {
+            "collection_summary": "Koleksi dengan {{count}} item.",
+            "collection_added_count": "Menambahkan {{count}} item."
+        }
+    },
+    "library": {
+        "page_title": "Pustakaku",
+        "things_you_own_header": "Yang kamu miliki",
+        "view_all_link": "Lihat semua",
+        "things_rated_header": "Yang sudah kamu rating",
+        "permalink": "Permalink",
+        "private_toggle": "Pribadi",
+        "go_to_collection_link": "Ke koleksi",
+        "empty_collection_message": "Koleksi ini kosong",
+        "nav_header": "Pustaka",
+        "nav": {
+            "my_purchases": "Pembelianku",
+            "recommended_for_you": "Disarankan untukmu",
+            "things_on_sale": "Yang sedang Diskon",
+            "things_to_rate": "Untuk dinilai"
+        },
+        "download_button": "Unduh",
+        "rate_game": {
+            "rating_saved_header": "Rating disimpan",
+            "rating_removed_header": "Rating dihapus",
+            "rating_deleted_summary": "Rating kamu sudah dihapus.",
+            "delete_button": "Hapus ulasan & rating",
+            "rate_header": "Beri Ulasan & Rating {{project_title}}",
+            "you_rated_this_project_ago": "Kamu telah merating proyek ini {{time_ago}}.",
+            "follow_creator": "Cobalah mengikuti pembuat {{project_title}} agar selalu mendapat info terbaru mengenai rilis terbaru mereka."
+        },
+        "redeem_button": "Redeem",
+        "show_on_my_profile_toggle": "Tampilkan di profil saya",
+        "gift_button": "Hadiah"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Alamat email kamu tidak terverifikasi"
+        }
     }
 }
