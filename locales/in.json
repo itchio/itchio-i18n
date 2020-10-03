@@ -1303,7 +1303,8 @@
             "delete_button": "Hapus ulasan & rating",
             "rate_header": "Beri Ulasan & Rating {{project_title}}",
             "you_rated_this_project_ago": "Kamu telah merating proyek ini {{time_ago}}.",
-            "follow_creator": "Cobalah mengikuti pembuat {{project_title}} agar selalu mendapat info terbaru mengenai rilis terbaru mereka."
+            "follow_creator": "Cobalah mengikuti pembuat {{project_title}} agar selalu mendapat info terbaru mengenai rilis terbaru mereka.",
+            "choose_stars": "Pilih rating dari 1 hingga 5 bintang."
         },
         "redeem_button": "Redeem",
         "show_on_my_profile_toggle": "Tampilkan di profil saya",
