@@ -4,7 +4,7 @@
             "settings": "Pengaturan",
             "account": "Akun",
             "library": "Pustakaku",
-            "explore": "Telusur",
+            "explore": "Jelajah",
             "account_menu_tooltip": "Menu Akun",
             "feed": "Berandaku",
             "recommendations": "Rekomendasi",
@@ -15,7 +15,7 @@
             "log_out": "Keluar",
             "create": "Buat",
             "sales_bundles": "Diskon & bundel",
-            "host_game_jam": "Selenggara game jam"
+            "host_game_jam": "Selenggarakan game jam"
         },
         "header": {
             "game_assets": "Aset",
@@ -29,7 +29,7 @@
             "community": "Komunitas",
             "devlogs": "Devlog",
             "game_jams": "Game Jam",
-            "browse_games": "Telusur Game",
+            "browse_games": "Telusuri Game",
             "browse": "Telusur",
             "feed": "Beranda",
             "games": "Game",
@@ -69,7 +69,7 @@
         "with_demo": "Disertai demo",
         "top_sellers": "Paling laris",
         "free_games": "Game gratis",
-        "browse_all_tags": "Telusur semua tag",
+        "browse_all_tags": "Telusuri semua tag",
         "search_games_creators": "Cari game & dan pembuat game",
         "view_all_blog_posts": "Lihat semua pembaruan",
         "from_the_itchio_blog": "Dari blog itch.io",
@@ -98,7 +98,7 @@
             "bundles": "Bundel",
             "game_jams": "Game jam"
         },
-        "browse_content_type": "Telusur {{content_type}}",
+        "browse_content_type": "Telusuri {{content_type}}",
         "view_all_platforms": "Lihat semua platform",
         "latest_featured_games": "Game Pilihan Terbaru",
         "view_all_on_sale": "Lihat yang sedang diskon",
@@ -505,7 +505,7 @@
         "creators": "Pembuat:",
         "published_count": "{{count}} proyek",
         "view_all_tags": "Lihat semua tag",
-        "browse_all_games": "Telusur semua game",
+        "browse_all_games": "Telusuri semua game",
         "search_results_for_query": "Hasil pencarian '{{query}}'"
     },
     "community": {
@@ -980,6 +980,7 @@
             },
             "score_information": "Skor disesuaikan dari skor murni berdasarkan nilai tengah rating per game di game jam.",
             "rated_by_people_count": "Sejauh ini telah dinilai oleh {{count}} orang",
+            "rated_by_people_count_plural": "Sejauh ini telah dinilai oleh {{count}} orang",
             "rate_submission": {
                 "owner_message": "Ini kiriman karya kamu, tidak diperbolehkan untuk menilai karya sendiri. Namun, peserta lain di game jam ini dapat memberi rating untuk proyek kamu di sini.",
                 "sign_up_to_vote": "<a>Daftar dengan akun itch.io</a> untuk memberi voting dan komentar.",
@@ -1019,8 +1020,7 @@
             "results_header": "Hasil",
             "ranked_with_vote_count": "Peringkat {{ordinal_rank}} dengan {{count}} suara",
             "submitted_by_contributors": "Dikirimkan oleh {{contributors}}",
-            "time_remaining_before_deadline": "{{time_duration}} sebelum tenggat waktu",
-            "rated_by_people_count_plural": "Sejauh ini telah dinilai oleh {{count}} orang"
+            "time_remaining_before_deadline": "{{time_duration}} sebelum tenggat waktu"
         },
         "header": {
             "hosted_by": "Diselenggarakan oleh {{hosts}}",
@@ -1140,7 +1140,15 @@
             "embed_options": {
                 "width": "Lebar",
                 "height": "Tinggi",
-                "viewport_dimensions": "Dimensi viewport"
+                "viewport_dimensions": "Dimensi viewport",
+                "frame_options": "Pilihan frame",
+                "mobile_friendly_option": "Ramah untuk ponsel",
+                "mobile_friendly_info": "Proyek kamu dapat berjalan di ponsel (dukungan layar sentuh dan resolusi lebih kecil)",
+                "orientation": "Orientasi layar",
+                "fullscreen_button_option": "Tombol layar penuh",
+                "enable_scrollbars_option": "Aktifkan bilah gulir",
+                "embed_in_page_option": "Sematkan di halaman",
+                "launch_fullscreen_option": "Klik untuk membuka di layar penuh"
             },
             "video_field_description": "Berikan tautan ke YouTube atau Vimeo.",
             "short_description_field_description": "Akan muncul saat menautkan ke proyek kamu. Hindari menulis ulang judul proyek",
@@ -1150,9 +1158,89 @@
             "content_guidelines_header": "Pastikan semua orang bisa menemukan laman kamu",
             "payment_warning_info": "Jika kamu menetapkan harga minimum di atas 0 maka tidak ada yang bisa mengunduh proyek kamu. <a>Ubah akun</a>",
             "visibility_access_info": "Gunakan Draf untuk meninjau laman kamu sebelum menampilkannya ke publik. <a>Pelajari lebih lanjut tentang mode akses</a>",
-            "instructions_field_info1": "Teks ini akan ditampilkan ke orang lain saat mereka mengunduh game kamu melalui browser. Mohon masukkan berbagai keterangan mengenai cara penginstalan dan menjalankan hasil unduhan mereka."
+            "instructions_field_info1": "Teks ini akan ditampilkan ke orang lain saat mereka mengunduh game kamu melalui browser. Mohon masukkan berbagai keterangan mengenai cara penginstalan dan menjalankan hasil unduhan mereka.",
+            "details_genre_header": "Genre",
+            "details_tags_header": "Tag",
+            "pricing": {
+                "free_or_donate": "donasi atau {{money}}",
+                "paid": "Berbayar",
+                "no_payments": "Tidak ada pembayaran",
+                "embed_pricing_info": "Menetapkan harga minimum hanya akan membatasi akses untuk file-file yang bisa didownload. Konten yang disematkan tetap tersedia dengan bebas.",
+                "minimum_price_label": "Harga minimum",
+                "minimum_price_info": "Harga minimum yang harus dibayar untuk akses mengunduh game",
+                "default_donation_amount_info": "Jumlah donasi standar",
+                "payment_disabled_info": "File-file proyek akan tersedia secara bebas dan tidak menerima donasi",
+                "suggest_default_price_label": "Sarankan harga standar alternatif",
+                "suggested_donation_label": "Donasi yang disarankan",
+                "suggested_price_label": "Harga yang disarankan",
+                "default_price_info": "Harga standar akan ditampilkan ketika seseorang akan membeli proyekmu",
+                "price_too_low_error": "Mohon berikan jumlah yang lebih besar daripada harga proyek",
+                "free_price_info": "Orang yang mengunduh proyek kamu akan diminta untuk memberi donasi sebelum memperoleh akses, tetapi mereka tetap dapat mengunduh secara gratis."
+            },
+            "uploads": {
+                "delete_file_button": "Hapus file",
+                "play_in_browser_toggle": "File ini akan dimainkan di browser",
+                "demo_toggle": "File ini adalah demo dan bisa diunduh dengan gratis",
+                "preorder_toggle": "File ini adalah placeholder untuk preoder",
+                "set_price_toggle": "Tetapkan harga yang berbeda untuk file ini",
+                "change_display_name_button": "Ganti nama tampilan",
+                "hide_toggle": "Sembunyikan file ini dan cegah agar tidak bisa diunduh"
+            },
+            "community_comments_info": "Tambahkan utas komentar bersusun di bawah laman proyek",
+            "add_screenshots": "Tambahkan screenshot",
+            "screenshots_header": "Screenshot",
+            "details_genre_info": "Pilih kategori yang paling tepat untuk menjelaskan game kamu. Kamu bisa memilih genre tambahan dengan tag-tag di bawah",
+            "community_field_info": "Bangun komunitas untuk proyek kamu dengan membolehkan orang membuat postingan di halaman kamu",
+            "community_discussion_board_info": "Tambahkan halaman komunitas khusus dengan fitur kategori, utas, balasan & lainnya"
         },
         "follow_itchio": "Ikuti itch.io di {{twitter}} dan {{facebook}}",
-        "recently_updated_pages_header": "Halaman yang baru diperbarui"
+        "recently_updated_pages_header": "Halaman yang baru diperbarui",
+        "project_header": {
+            "edit_project": "Edit proyek",
+            "devlog": "Devlog",
+            "metadata": "Metadata",
+            "analytics": "Analisis",
+            "distribute": "Distribusi",
+            "interact": "Berinteraksi",
+            "edit_comments": "Edit komentar",
+            "discussion_board": "Forum diskusi",
+            "rewards": "Imbalan",
+            "admins": "Admin",
+            "more": "Lebih banyak"
+        }
+    },
+    "add_to_collection": {
+        "dialog_title": "Tambahkan {{project_title}} ke koleksi",
+        "already_in_collections": "Proyek ini sudah ada di koleksi berikut:",
+        "count_items": "{{count}} item",
+        "add_to_existing": "Tambahkan ke koleksi yang sudah ada",
+        "private_collection_title": "[Koleksi pribadi] {{title}}",
+        "add_to_new": "Tambahkan ke koleksi baru yang bernama",
+        "default_title": "Koleksi {{username}}",
+        "manage_collections_link": "Kelola koleksi",
+        "private_collection_option": "Koleksi pribadi — Hanya kamu yang bisa melihat isinya",
+        "about_this_project_label": "Tentang proyek ini",
+        "add_reason": "Tambahkan proyek ini ke koleksi agar bisa disimpan untuk nanti.",
+        "add_button": "Tambah ke koleksi"
+    },
+    "game_grid": {
+        "in_bundle": "Dalam bundel"
+    },
+    "jams": {
+        "jams_created_header": "Game jam yang kamu buat",
+        "jams_joined_header": "Game jam yang kamu ikuti",
+        "games_created": "<s>{{count}}game</s> telah dibuat untuk game jam yang diselenggarakan di itch.io.",
+        "host_a_jam_button": "Selenggarakan game jam",
+        "manage_submissions_link": "Kelola game jam dan pengiriman karya kamu",
+        "browse_jams_header": "Telusuri game jam",
+        "jam_calendar_header": "Kalender Game Jam",
+        "host_your_own_jam_button": "Selenggarakan game jam kamu sendiri",
+        "host_or_explore_links": "<1>Selenggarakan Game Jam Kamu Sendiri</1> atau <2>Jelajahi Semua Game Jam</2>",
+        "dont_see_something_you_like_header": "Tidak menemukan yang kamu suka?",
+        "brose_featured_jams": "Game Jam Pilihan",
+        "browse_top_past_jams": "Game Jam Teratas Sebelumnya",
+        "page_title": "Game jam di itch.io",
+        "page_summary": "itch.io adalah tempat untuk menyelanggara dan ikut serta dalam game jam secara online. Siapapun dapat membuat dan menyelenggarakan game jam dengan cepat.",
+        "browse_upcoming_this_month": "Yang Mendatang Bulan Ini"
     }
 }
