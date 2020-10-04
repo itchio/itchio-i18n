@@ -1,1 +1,78 @@
-{}
+{
+    "layout": {
+        "footer": {
+            "faq": "שאלות נפוצות",
+            "blog": "בלוג",
+            "contact_us": "צור קשר",
+            "terms": "תנאים",
+            "directory": "מדריך",
+            "privacy": "פרטיות"
+        },
+        "header": {
+            "browse": "לדפדף",
+            "browse_games": "לדפדף במשחקים",
+            "upload_game": "העלה משחק",
+            "community": "קהילה",
+            "search_placeholder": "חפש משחקים או יוצרים",
+            "search": "חיפוש",
+            "log_in": "התחבר",
+            "register": "הירשם",
+            "no_notifications": "אין הודעות חדשות",
+            "free_games": "משחקים חינם",
+            "game_development": "פיתוח משחקים",
+            "comics": "קומיקס",
+            "sales": "מכירות",
+            "fun_games": "משחקים כיפיים",
+            "games": "משחקים"
+        },
+        "user_menu": {
+            "create": "צור",
+            "account": "משתמש",
+            "log_out": "התנתק",
+            "settings": "הגדרות",
+            "view_profile": "צפה בפרופיל",
+            "new_project": "העלה פרויקט חדש",
+            "recommendations": "המלצות",
+            "library": "הספריה שלי",
+            "account_menu_tooltip": "תפריט חשבון"
+        }
+    },
+    "index": {
+        "popular_tags": "תגיות נפוצות",
+        "browse": "לדפדף",
+        "games_by_price": "משחקים על פי מחיר",
+        "download_app": "הורד אפליקציה",
+        "view_something_random": "צפה במשהו אקראי",
+        "view_all_games": "צפה בכל המשחקים",
+        "dont_see_anything_you_like": "לא רואה שום דבר שאתה אוהב?",
+        "from_the_blog": "מהבלוג",
+        "random_game": "משחק אקראי",
+        "view_all_blog_posts": "צפה בכל העדכונים",
+        "browse_all_tags": "חפש משחקים ויוצרים",
+        "on_sale": "במחירה",
+        "free_games": "משחקים חינמים",
+        "top_sellers": "הכי נמכרים",
+        "view_all": "צפה בהכל",
+        "recommended_for_you": "מומלץ בשבילך",
+        "recommendations_based_on": "מבוסס על דברים שקנית, הורדת, ודירגת"
+    },
+    "misc": {
+        "inputs": {
+            "accelerometer": "חישן תאוצה"
+        },
+        "filter_when": {
+            "last_30_days": "ב30 ימים האחרונים"
+        },
+        "platforms": {
+            "web": "אינטרנטי"
+        },
+        "filter_price": {
+            "free": "חינם",
+            "on_sale": "במבצע",
+            "paid": "בתשלום"
+        },
+        "pager": {
+            "next_page": "עמוד הבא"
+        }
+    }
+}
