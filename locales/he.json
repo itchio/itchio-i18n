@@ -6,7 +6,9 @@
             "contact_us": "צור קשר",
             "terms": "תנאים",
             "directory": "מדריך",
-            "privacy": "פרטיות"
+            "privacy": "פרטיות",
+            "about": "אודות",
+            "cookies": "עוגיות"
         },
         "header": {
             "browse": "לדפדף",
@@ -23,7 +25,15 @@
             "comics": "קומיקס",
             "sales": "מכירות",
             "fun_games": "משחקים כיפיים",
-            "games": "משחקים"
+            "games": "משחקים",
+            "notifications_count_0": "התראה {{count}}",
+            "notifications_count_1": "{{count}} התראות",
+            "notifications_count_2": "{{count}} התראות",
+            "notifications_count_3": "{{count}} התראות",
+            "feed_unseen_count_0": "{{count}} חדש",
+            "feed_unseen_count_1": "{{count}} חדשים",
+            "feed_unseen_count_2": "{{count}} חדשים",
+            "feed_unseen_count_3": "{{count}} חדשים"
         },
         "user_menu": {
             "create": "צור",
@@ -54,7 +64,11 @@
         "top_sellers": "הכי נמכרים",
         "view_all": "צפה בהכל",
         "recommended_for_you": "מומלץ בשבילך",
-        "recommendations_based_on": "מבוסס על דברים שקנית, הורדת, ודירגת"
+        "recommendations_based_on": "מבוסס על דברים שקנית, הורדת, ודירגת",
+        "from_the_itchio_blog": "מהבלוג של itch.io",
+        "search_games_creators": "חפש משחקים ויוצרים",
+        "view_more": "הצג יותר",
+        "fresh_games": "משחקים טריים"
     },
     "misc": {
         "inputs": {
@@ -74,5 +88,6 @@
         "pager": {
             "next_page": "עמוד הבא"
         }
-    }
+    },
+    "itchio": "itch.io"
 }
