@@ -135,7 +135,12 @@
             "paid": "בתשלום"
         },
         "pager": {
-            "next_page": "עמוד הבא"
+            "next_page": "העמוד הבא",
+            "prev": "קודם",
+            "next": "הבא",
+            "current_page_of_total": "עמוד {{current_page}} מתוך {{total_pages}}",
+            "previous_page": "העמוד הקודם",
+            "first_page": "העמוד הראשון"
         },
         "classifications": {
             "assets": "חומרי גלם למשחקים",
@@ -187,7 +192,92 @@
             "following": "עוקב",
             "unfollow_username": "אל תעקוב אחרי {{username}}",
             "unfollow": "אל תעקוב"
+        },
+        "collection_button": {
+            "add_to_collection": "הוסף לאוסף"
+        },
+        "lightboxes": {
+            "close": "סגור"
+        },
+        "countdown": {
+            "years": "שנים",
+            "months": "חודשים",
+            "days": "ימים",
+            "hours": "שעות",
+            "minutes": "דקות",
+            "seconds": "שניות"
+        },
+        "project_visibility": {
+            "restricted": "מוגבלת",
+            "published": "פורסם",
+            "draft": "טיוטה",
+            "public": "פומבי"
+        },
+        "view_more": "הצג עוד",
+        "dismiss": "התעלם",
+        "release_statuses": {
+            "released": "פורסם",
+            "in_development": "בפיתוח",
+            "on_hold": "בעצירה",
+            "canceled": "בוטל",
+            "prototype": "אב טיפוס"
+        },
+        "errors": {
+            "server_error": "השרת נכשל בתגובה, נסה שוב מאוחר יותר"
+        },
+        "more_ellip": "עוד…",
+        "loading_more_ellip": "טוען עוד…"
+    },
+    "itchio": "itch.io",
+    "user_register": {
+        "create_an_account_on_itchio": "צור חשבון itch.io",
+        "register_form": {
+            "create_account": "צור חשבון",
+            "already_have_account": "או כבר יש לך חשבון?",
+            "log_in": "היכנס",
+            "accept_tos": "אני מקבל את <1>תנאי השירות</1>",
+            "link_product": "הרכישה שלך של <1>{{product}}</1> יקושר אוטומטית לחשבון שלך אחרי ההרשמה."
         }
     },
-    "itchio": "itch.io"
+    "user_login": {
+        "intent": {
+            "comment": "אתה צריך חשבון itch.io לפני שאתה משאיר תגובה.",
+            "community": "אתה צריך להיכנס כדי להשתתף בקהילות באתר itch.io. יצירת חשבון היא בחינם ולוקחת רק כמה רגעים.",
+            "rate_game": "אתה צריך חשבון itch.io לפני שאתה מדרג משחק.",
+            "follow": "אתה צריך חשבון itch.io לפני שאתה עוקב אחרי מישהו.",
+            "follow_username": "אתה צריך חשבון itch.io לפני שאתה יכול לעקוב אחרי <1>{{username}}>/1<.",
+            "collection": "אתה צריך חשבון itch.io לפני שאתה יכול להוסיפ לאוסף.",
+            "jam_submit": "אתה צריך חשבון itch.io לפני שאתה יכול להעלות משחק.",
+            "claim_object": "בבקשה היכנס או הירשם כדי לקבל את ה{{noun}}.",
+            "recent_purchases": "היכנס או חבר רכישה שעשית לאחרונה.",
+            "claim_object_title": "בבקשה היכנס או הירשם כדי לקבל את {{title}}."
+        },
+        "errors": {
+            "please_enter_a_valid_email_address": "בבקשה הכנס כתובת דואר אלקטרוני נכונה",
+            "accept_terms": "אתה חייב להסכים לתנאי השירות"
+        },
+        "no_account_prompt": "אין לך משתמש? <1>צור משתמש</1>",
+        "log_in_to_your_itchio_account": "כנס לחשבון הitch.io שלך",
+        "login_form": {
+            "username_or_email": "שם משתמש או כתובת דואר אלקטרוני",
+            "password": "סיסמא",
+            "forgot_password": "שכחתי סיסמא",
+            "create_account": "צור חשבון",
+            "or_log_in_with_another_site": "או היכנס עם אתר אחר",
+            "or": "או",
+            "log_in_button": "היכנס"
+        },
+        "looking_for_something_you_bought": "מחפש משהו שרכשת?",
+        "create_a_new_account": "צור חשבון חדש",
+        "page_title": "היכנס",
+        "you_are_logged_out": "אתה התנתקת",
+        "welcome_back": "ברוכים השבים!",
+        "welcome_to_itchio": "ברוך הבא לitch.io!"
+    },
+    "blog": {
+        "all_posts": "כל הפוסטים",
+        "updates": "עדכונים",
+        "empty_message": "לא נראה שיש כאן פוסטים",
+        "tag_filter": "מסנן ל{{tag}}. <a>נקה טג</a>"
+    }
 }
