@@ -33,7 +33,12 @@
             "feed_unseen_count_0": "{{count}} חדש",
             "feed_unseen_count_1": "{{count}} חדשים",
             "feed_unseen_count_2": "{{count}} חדשים",
-            "feed_unseen_count_3": "{{count}} חדשים"
+            "feed_unseen_count_3": "{{count}} חדשים",
+            "indie_game_store": "חנות משחקים",
+            "dashboard": "לוח בקרה",
+            "bundles": "חבילות",
+            "game_assets": "חומרי גלם",
+            "feed": "פיד"
         },
         "user_menu": {
             "create": "צור",
@@ -44,7 +49,11 @@
             "new_project": "העלה פרויקט חדש",
             "recommendations": "המלצות",
             "library": "הספריה שלי",
-            "account_menu_tooltip": "תפריט חשבון"
+            "account_menu_tooltip": "תפריט חשבון",
+            "dashboard": "לוח בקרה",
+            "feed": "הפיד שלי",
+            "explore": "חקור",
+            "sales_bundles": "הנחות ומבצעים"
         }
     },
     "index": {
@@ -68,14 +77,54 @@
         "from_the_itchio_blog": "מהבלוג של itch.io",
         "search_games_creators": "חפש משחקים ויוצרים",
         "view_more": "הצג יותר",
-        "fresh_games": "משחקים טריים"
+        "fresh_games": "משחקים טריים",
+        "fresh_games_description": "מתעדכן עם המשחקים הכי חדשים ב-itch.io",
+        "people_to_follow_description": "הנה כמה חשבונות בהם תוכל ליהיות מעוניין בלעקוב. <a>למה לעקוב?</a>",
+        "latest_featured_games": "המשחקים הנבחרים החדשים ביותר",
+        "filtering_platform": "מציג את כל המשחקים ל{{platform_name}}",
+        "nav": {
+            "community": "קהילה",
+            "all_games": "כל המשחקים",
+            "bundles": "חבילות"
+        },
+        "intro": "<s>itch.io</s> מהווה דרך פשוטה למצוא ולשתף משחקים ברשת בחינם.",
+        "intro_cta": "<1>הוסף את המשחק שלך</1> או <2>קרא שאלות נפוצות</2>",
+        "html5_games": "משחקי רשת",
+        "meta_description": "itch.io מהווה דרך פשוטה למצוא, להוריד ולהפיץ משחקים ברשת. בין אם אתה מפתח אשר מחפש להעלות את המשחק שלך או רק מחפש משהו חדש לשחק בו itch.io דואגת לך.",
+        "to_follow": {
+            "refresh_button": "רענן בשביל יותר",
+            "created_projects": "יצר {{project_list}}",
+            "empty_results": "אין לנו הצעות חדשות כרגע. אנא בדוק מאוחר יותר",
+            "dismiss_tooltip": "אל תציע יותר"
+        },
+        "get_the_app": "<s>השג את המירב מ-itch.io!</s> התקן והפעל את המשחקים שלך עם התוכנה שלנו",
+        "with_demo": "עם גרסת נסיון",
+        "people_to_follow": "אנשים לעקוב אחרייהם",
+        "view_all_games_on_sale": "הצג את כל המשחקים בהנחה",
+        "more_featured_games": "עוד משחקים נבחרים",
+        "game_dev_on_sale": "כלים למפתחים <1>בהנחה</1>",
+        "view_all_on_sale": "הצג הכל בהנחה",
+        "view_all_platforms": "הצג את כל הפלטפורמות",
+        "browse_content_type": "גלוש ב{{content_type}}",
+        "page_title": "הורד את המשחקים הכי חדישים"
     },
     "misc": {
         "inputs": {
-            "accelerometer": "חישן תאוצה"
+            "accelerometer": "חישן תאוצה",
+            "gamepad": "שלט",
+            "keyboard": "מקלדת",
+            "mouse": "עכבר",
+            "joystick": "ג'ויסטיק",
+            "touchscreen": "מסך מגע",
+            "voice": "שליטה קולית",
+            "phone": "טלפון נייד",
+            "dance_pad": "לוח ריקודים",
+            "midi_controller": "שלט MIDI"
         },
         "filter_when": {
-            "last_30_days": "ב30 ימים האחרונים"
+            "last_30_days": "ב30 ימים האחרונים",
+            "last_day": "ביום האחרון",
+            "last_7_days": "בשבוע האחרון"
         },
         "platforms": {
             "web": "אינטרנטי"
@@ -87,6 +136,57 @@
         },
         "pager": {
             "next_page": "עמוד הבא"
+        },
+        "classifications": {
+            "assets": "חומרי גלם למשחקים",
+            "other": "אחר",
+            "game": "משחקים",
+            "game_mod": "מודים למשחקים",
+            "physical_game": "משחקים פיזיים",
+            "soundtrack": "פס קולים",
+            "tool": "כלים",
+            "comic": "קומיקס",
+            "book": "ספרים"
+        },
+        "accessibility_features": {
+            "highcontrast": "ניגודיות גבוהה",
+            "textless": "ללא טקסט",
+            "colorblind": "חברותי לעוורי צבעים",
+            "subtitles": "כתוביות",
+            "configurable_controls": "מקשים ניתנים לשינוי",
+            "tutorial": "מדריך אינטראקטיבי",
+            "one_button": "כפתור אחד",
+            "blind": "נגיש לעוורים"
+        },
+        "multiplayer_features": {
+            "server": "מרובה משתתפים באינטרנט",
+            "local": "מרובה משתתפים לוקאליים"
+        },
+        "durations": {
+            "days": "ימים או יותר",
+            "seconds": "מספר שניות",
+            "minutes": "מספר דקות",
+            "half_hour": "כחצי שעה",
+            "hour": "כשעה",
+            "hours": "מספר שעות"
+        },
+        "forms": {
+            "required": "דרוש",
+            "save": "שמור",
+            "email_address": "כתובת דואר אלקטרוני",
+            "submit": "שלח",
+            "optional": "אופציונאלי",
+            "search": "חיפוש",
+            "form_errors": "אנא בדוק את המידע שנתת"
+        },
+        "page_number": "עמוד {{page_number}}",
+        "follow_button": {
+            "follow_username": "עקוב אחרי {{username}}",
+            "follow": "עקוב",
+            "following_username": "עוקב אחרי {{username}}",
+            "following": "עוקב",
+            "unfollow_username": "אל תעקוב אחרי {{username}}",
+            "unfollow": "אל תעקוב"
         }
     },
     "itchio": "itch.io"
