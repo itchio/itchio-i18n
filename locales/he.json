@@ -11,13 +11,13 @@
             "cookies": "עוגיות"
         },
         "header": {
-            "browse": "לדפדף",
-            "browse_games": "לדפדף במשחקים",
+            "browse": "גלוש",
+            "browse_games": "גלוש במשחקים",
             "upload_game": "העלה משחק",
             "community": "קהילה",
             "search_placeholder": "חפש משחקים או יוצרים",
             "search": "חיפוש",
-            "log_in": "התחבר",
+            "log_in": "היכנס",
             "register": "הירשם",
             "no_notifications": "אין הודעות חדשות",
             "free_games": "משחקים חינם",
@@ -57,8 +57,8 @@
         }
     },
     "index": {
-        "popular_tags": "תגיות נפוצות",
-        "browse": "לדפדף",
+        "popular_tags": "תגים פופולארים",
+        "browse": "גלוש",
         "games_by_price": "משחקים על פי מחיר",
         "download_app": "הורד אפליקציה",
         "view_something_random": "צפה במשהו אקראי",
@@ -67,7 +67,7 @@
         "from_the_blog": "מהבלוג",
         "random_game": "משחק אקראי",
         "view_all_blog_posts": "צפה בכל העדכונים",
-        "browse_all_tags": "חפש משחקים ויוצרים",
+        "browse_all_tags": "גלוש בכל התגים",
         "on_sale": "במחירה",
         "free_games": "משחקים חינמים",
         "top_sellers": "הכי נמכרים",
