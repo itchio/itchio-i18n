@@ -281,7 +281,8 @@
         "welcome_back": "مرحبًا بعودتك!",
         "welcome_to_itchio": "مرحبًا بك في itch.io!",
         "errors": {
-            "accept_terms": "يجب عليك قبول شروط الخدمة"
+            "accept_terms": "يجب عليك قبول شروط الخدمة",
+            "please_enter_a_valid_email_address": "אנא הכנס כתובת דואר אלקטרונית נכונה"
         }
     },
     "user_register": {
