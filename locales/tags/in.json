@@ -1,1 +1,11 @@
-{}
+{
+    "tags": {
+        "3d": "3D",
+        "2d": "2D",
+        "action-adventure": "Petualangan-Aksi",
+        "animals": "Satwa",
+        "art-book": "Art Book",
+        "atmospheric": "Bernuansa",
+        "beat-em-up": "Hajar-hajaran"
+    }
+}
