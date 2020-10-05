@@ -46,6 +46,13 @@
         "comedy": "Komedi",
         "creative": "Kreatif",
         "creepy": "Seram",
-        "crime": "Kejahatan"
+        "crime": "Kejahatan",
+        "controller": "Kontroler",
+        "cute": "Imut",
+        "dark": "Gelap",
+        "dark-fantasy": "Fantasi Gelap",
+        "dark-humor": "Humor Gelap",
+        "dating-sim": "Simulasi Kencan",
+        "deck-building": "Penyusunan Dek"
     }
 }
