@@ -31,6 +31,9 @@
         "card-game": "Permainan Kartu",
         "chess": "Catur",
         "chicken": "Ayam",
-        "christmas": "Natal"
+        "christmas": "Natal",
+        "city-builder": "Pembangunan Kota",
+        "casual": "Kasual",
+        "character-customization": "Kustomisasi Karakter"
     }
 }
