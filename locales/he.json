@@ -236,8 +236,19 @@
             "already_have_account": "או כבר יש לך חשבון?",
             "log_in": "היכנס",
             "accept_tos": "אני מקבל את <1>תנאי השירות</1>",
-            "link_product": "הרכישה שלך של <1>{{product}}</1> יקושר אוטומטית לחשבון שלך אחרי ההרשמה."
-        }
+            "link_product": "הרכישה שלך של <1>{{product}}</1> יקושר אוטומטית לחשבון שלך אחרי ההרשמה.",
+            "interest_gamer": "אני מעוניין לשחק או להוריד משחקים בitch.io",
+            "interest_developer": "אני מעוניין להפיץ תוכן בitch.io",
+            "about_you": "על עצמך",
+            "your_email_address": "כתובת הדואר האלקטרוני שלך",
+            "password": "סיסמא",
+            "repeat_password": "חזור על הסיסמא",
+            "url_preview": "דף הפרופיל שלך הייה",
+            "username": "שם משתמש",
+            "other_registration_methods": "שיטות רישום אחרות",
+            "account_preferences_info": "אתה יכול לשנות את התשובות שלך לשאלות אלה מאוחר יותר, הן משמשות כרמז לitch.io כיצד היא אמורה להציג את עצמה בפניך."
+        },
+        "page_title": "רישום חשבון"
     },
     "user_login": {
         "intent": {
@@ -279,5 +290,8 @@
         "updates": "עדכונים",
         "empty_message": "לא נראה שיש כאן פוסטים",
         "tag_filter": "מסנן ל{{tag}}. <a>נקה טג</a>"
+    },
+    "developers": {
+        "page_header": "צור דף מותאם אישית להפצה או למכור באופן מיידי את משחקי האינדי שלך"
     }
 }
