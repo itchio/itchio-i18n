@@ -17,6 +17,11 @@
         "altgame": "Altgame",
         "arcade": "Arkade",
         "automation": "Automasi",
-        "abstract": "Abstrak"
+        "abstract": "Abstrak",
+        "action": "Aksi",
+        "adventure": "Petualangan",
+        "alternate-history": "Sejarah Alternatif",
+        "archery": "Panahan",
+        "black-and-white": "Hitam dan Putih"
     }
 }
