@@ -100,6 +100,13 @@
         "gameboy": "Game Boy",
         "gardening": "Berkebun",
         "gay": "Gay",
-        "generator": "Generator"
+        "generator": "Generator",
+        "ghosts": "Hantu",
+        "gravity": "Gravitasi",
+        "horror": "Horor",
+        "interactive-fiction": "Fiksi Interaktif",
+        "life-simulation": "Simulasi Kehidupan",
+        "magic": "Sihir",
+        "male-protagonist": "Protagonis Laki-Laki"
     }
 }
