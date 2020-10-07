@@ -270,7 +270,7 @@
     },
     "user_register": {
         "register_form": {
-            "account_preferences_info": "Pertanyaan ini agar itch.io dapat menyesuaikan diri dengan respons kamu, kamu bisa mengganti respons kamu lagi kapan saja.",
+            "account_preferences_info": "Pertanyaan ini agar itch.io dapat menyesuaikan dengan tanggapan kamu, kamu bisa mengganti lagi tanggapan kamu kapan saja.",
             "interest_gamer": "Saya ingin bermain atau mengunduh game di itch.io",
             "interest_developer": "Saya ingin mengunggah konten di itch.io",
             "about_you": "Tentang kamu",
