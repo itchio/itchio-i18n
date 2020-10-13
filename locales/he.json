@@ -293,5 +293,18 @@
     },
     "developers": {
         "page_header": "צור דף מותאם אישית להפצה או למכור באופן מיידי את משחקי האינדי שלך"
+    },
+    "jam": {
+        "header": {
+            "links": {
+                "community": "קהילה",
+                "results": "תוצאות",
+                "submissions": "הגשות",
+                "overview": "סקירה כללית",
+                "screenshots": "צילומי מסך",
+                "submission_feed": "פיד הגשות"
+            },
+            "hosted_by": "מארחים {{hosts}}"
+        }
     }
 }
