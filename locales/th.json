@@ -146,7 +146,7 @@
             "language_community_translation": "<s>itch.io ถูกแปลภาษาโดยสมาชิกของชุมชนของเรา</s> บางส่วนอาจขาดหายหรือยังไม่ถูกแปล หากคุณสนใจในการแปลหรือต้องการแก้ไขจุดผิดพลาด (ทั้งภาษาไทยหรืออื่น ๆ) คุณสามารถมีส่วนร่วมได้ <a>เรียนรู้เพิ่มเติม...</a>",
             "language_description": "ภาษาของอินเตอร์เฟซ itch สำหรับผู้ใช้",
             "language": "ภาษา",
-            "change_username": "เปลี่ยน ชื่อผู้ใช้/URL"
+            "change_username": "เปลี่ยนชื่อผู้ใช้ของฉัน/URL"
         }
     },
     "browse": {
@@ -157,7 +157,10 @@
         "sort_top_sellers": "ขายดี",
         "sort_top_rated": "คะแนนสูง",
         "sort_most_recent": "ใหม่ล่าสุด",
-        "sort": "จัดเรียง"
+        "sort": "จัดเรียง",
+        "filter_group": {
+            "fewer_options": "ยุบตัวเลือก"
+        }
     },
     "misc": {
         "accessibility_features": {
@@ -614,7 +617,7 @@
                 "topics": "หัวข้อ"
             },
             "unsubscribe_from_topics": "ยกเลิกรับข่าวสาร",
-            "subscribe_to_new_topics": "สมัครรับข่าวหัวข้อใหม่",
+            "subscribe_to_new_topics": "ติดตามหัวข้อใหม่",
             "search_community_label": "ค้นหาชุมชน",
             "there_arent_any_topics_yet": "ยังไม่มีหัวข้อ",
             "empty_message": "ไม่มีหัวข้อ",
@@ -630,7 +633,8 @@
             "topic_tag": "แท็ก",
             "body": "เนื้อหา",
             "title": "หัวข้อ",
-            "see_community_guidelines": "ดู <a> หลักเกณฑ์ของชุมชน </a> สำหรับนโยบายชุมชน itch.io"
+            "see_community_guidelines": "ดูที่<a>หลักเกณฑ์ของชุมชน</a>สำหรับนโยบายชุมชน itch.io",
+            "sticky": "ปักหมุด"
         },
         "topic": {
             "create_related_topic": "หากคุณมีสิ่งที่เกี่ยวข้องกับโพสต์ให้ลอง <a> สร้างหัวข้อใน {{category_name}}</a>",
@@ -664,7 +668,14 @@
         },
         "post_list": {
             "deleted_post": "ลบโพสต์",
-            "post_from_blocked_account": "โพสต์จากผู้ใช้ที่ถูกบล็อก"
+            "post_from_blocked_account": "โพสต์จากผู้ใช้ที่ถูกบล็อก",
+            "edited": "(มีการแก้ไข)",
+            "post_from_suspended_account": "โพสต์จากบัญชีที่น่าสงสัย"
+        },
+        "post_form": {
+            "add_profile_image": "เพิ่มรูปโปรไฟล์",
+            "save": "บันทึก",
+            "subscribe": "ติดตาม"
         }
     },
     "collection": {
