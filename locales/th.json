@@ -159,7 +159,8 @@
         "sort_most_recent": "ใหม่ล่าสุด",
         "sort": "จัดเรียง",
         "filter_group": {
-            "fewer_options": "ยุบตัวเลือก"
+            "fewer_options": "ยุบตัวเลือก",
+            "more_options": "ตัวเลือกเพิ่มเติม"
         }
     },
     "misc": {
@@ -634,7 +635,8 @@
             "body": "เนื้อหา",
             "title": "หัวข้อ",
             "see_community_guidelines": "ดูที่<a>หลักเกณฑ์ของชุมชน</a>สำหรับนโยบายชุมชน itch.io",
-            "sticky": "ปักหมุด"
+            "sticky": "ปักหมุด",
+            "moderator_tools": "เครื่องมือผู้ดูแล"
         },
         "topic": {
             "create_related_topic": "หากคุณมีสิ่งที่เกี่ยวข้องกับโพสต์ให้ลอง <a> สร้างหัวข้อใน {{category_name}}</a>",
@@ -670,12 +672,27 @@
             "deleted_post": "ลบโพสต์",
             "post_from_blocked_account": "โพสต์จากผู้ใช้ที่ถูกบล็อก",
             "edited": "(มีการแก้ไข)",
-            "post_from_suspended_account": "โพสต์จากบัญชีที่น่าสงสัย"
+            "post_from_suspended_account": "โพสต์จากบัญชีที่น่าสงสัย",
+            "reply": "ตอบกลับ",
+            "edit": "แก้ไข",
+            "delete_topic": "ลบหัวข้อ",
+            "delete": "ลบ",
+            "report": "รายงาน",
+            "ban": "แบน...",
+            "deleted_account": "บัญชีที่ถูกลบ",
+            "suspended_account": "บัญชีที่ถูกระงับ",
+            "pinned_reply": "การตอบกลับที่ปักหมุดไว้",
+            "pinned_post": "การโพสต์ที่ปักหมุดไว้"
         },
         "post_form": {
             "add_profile_image": "เพิ่มรูปโปรไฟล์",
             "save": "บันทึก",
-            "subscribe": "ติดตาม"
+            "subscribe": "ติดตาม",
+            "post": "โพสต์",
+            "subscribe_to_this_topic": "ติดตามหัวข้อนี้",
+            "subscribe_description": "รับการแจ้งเตือนเมื่อมีการตอบกลับบนหัวข้อนี้",
+            "tag_header": "แท็ก",
+            "remove_tag": "ลบแท็ก"
         }
     },
     "collection": {
