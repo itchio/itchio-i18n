@@ -496,7 +496,8 @@
             "category": "หมวดหมู่",
             "release_status": "สถานะ",
             "published_at": "เผยแพร่",
-            "updated_at": "อัปเดต"
+            "updated_at": "อัปเดต",
+            "mentions": "กล่าวถึง"
         },
         "comments": {
             "write_your_comment": "เขียนความเห็นของคุณ…",
