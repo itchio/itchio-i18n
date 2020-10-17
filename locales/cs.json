@@ -447,7 +447,7 @@
         "published_count_1": "{{count}} projekty",
         "published_count_2": "{{count}} projektů",
         "creators": "Tvůrci:",
-        "view_all_tags": "Zobrazit všechny štítky",
+        "view_all_tags": "Zobrazit všechny značky",
         "browse_all_games": "Procházet všechny hry",
         "search_results_for_query": "Výsledky vyhledávání pro '{{query}}'"
     },
@@ -470,7 +470,8 @@
         "learn_more_about": "Zjistit více o:",
         "share_message": "itch.io je jednoduchý způsob jak zdarma distribuovat své nezávislé hry online.",
         "upload_or_dashboard": "<1>Nahrát novou hru</1> <em>nebo</em> <2>Jít na nástěnku</2>",
-        "track_your_game_description": "Mějte přehled o tom, jak lidé sledují vaší hru, s podrobnou analytikou zobrazení, stažení a nákupů. Chcete spustit propagaci ? Vygenerujte klíče ke stažení, které lidem umožní přístup k vaší hře."
+        "track_your_game_description": "Mějte přehled o tom, jak lidé sledují vaší hru, s podrobnou analytikou zobrazení, stažení a nákupů. Chcete spustit propagaci ? Vygenerujte klíče ke stažení, které lidem umožní přístup k vaší hře.",
+        "design_your_games_page_description": "Vytvořte si vlastní stránku pro vaši hru ze které budou lidé kupovat nebo stahovat Vaši hru. Vy vyberete barvy, font, obrázky a videa. Protože je to Vaše herní stránka na které nenajdete nic, co jste tam nedali."
     },
     "app": {
         "meta_description": "itch, nejlepší způsob stahování a hraní indie her. Stahuj hry zdarma a spravuj svojí knihovnu ze svého počítače. Nyní dostupné pro Windows, macOS a Linux.",
