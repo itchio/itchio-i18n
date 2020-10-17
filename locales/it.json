@@ -864,7 +864,7 @@
         "page_title": "Crea un account",
         "register_form": {
             "other_registration_methods": "Altri metodi di registrazione",
-            "username": "Nome D'arte",
+            "username": "Username",
             "url_preview": "La tua pagina del profilo sarà",
             "repeat_password": "Ripeti la tua password",
             "password": "Password",
