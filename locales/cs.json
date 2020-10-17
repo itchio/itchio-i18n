@@ -249,13 +249,15 @@
         "install_instructions": "Pokyny k instalaci",
         "more_information": "Více informací",
         "empty_page": "Zdá se, že tu nic není ...",
-        "community_posts_count_0": "příspěvek",
-        "community_posts_count_1": "příspěvky",
-        "community_posts_count_2": "příspěvků",
+        "community_posts_count_0": "{{count}} příspěvek",
+        "community_posts_count_1": "{{count}} příspěvky",
+        "community_posts_count_2": "{{count}} příspěvků",
         "community_view_all_posts": "Zobrazit všechny příspěvky",
         "join_the_community": "Připojit se ke komunitě",
         "community_header": "Komunita",
-        "download_or_claim_button": "Stáhnot nebo vybrat"
+        "download_or_claim_button": "Stáhnot nebo vybrat",
+        "your_purchase_comes_with_a_steam_key": "K nákupu dostanete Steam klíč.",
+        "community_post_author": "autor: {{username}}"
     },
     "misc": {
         "classifications": {
@@ -493,7 +495,7 @@
         "for_platforms": "Pro <1>Windows</1>, <2>macOS</2> a <3>Linux</3>",
         "tagline": "Stahujte, aktualizujte a hrajte indie hry",
         "start_download": "Začít stahovat",
-        "share_message": "itch, desktopová applikace pro indie hry.",
+        "share_message": "itch, desktopová applikace pro indie hry",
         "open_source": "Otevřený zdroj",
         "browse_header": "Procházejte hry, tak jak tvůrce chtěl",
         "web_games_header": "Prohlížejte hry offline",
