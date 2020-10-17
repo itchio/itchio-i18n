@@ -154,7 +154,7 @@
             "ownership": {
                 "purchased_in_a_bundle_for_price": "Balíček zakoupen za {{price}}",
                 "claimed": "Vyzvednuto",
-                "you_havent_sent_this_gift_to_anyone_yet": "Tento dárek jste ještě nikomu neposlali",
+                "you_havent_sent_this_gift_to_anyone_yet": "Nikomu jste tento dárek ještě neposlali",
                 "percent_off": "-{{percent}}%",
                 "download": "Stáhnout",
                 "send_gift": "Poslat dárek",
@@ -436,7 +436,7 @@
             "repeat_password": "Zopakujte heslo",
             "account_preferences_info": "Odpovědi na tyto otázky můžete změnit později, používají se k tomu, aby naznačily jak se vám má itch.io prezentovat.",
             "digest_signup": "Přihlásit se k odběru itch.io čtnáctideníku",
-            "other_registration_methods": "Ostatní metody registrace",
+            "other_registration_methods": "Ostatní registrační metody",
             "username": "Uživatelské jméno",
             "url_preview": "Vaše profilová stránka bude"
         },
