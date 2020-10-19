@@ -146,7 +146,51 @@
             "language_community_translation": "<s>itch.io ถูกแปลภาษาโดยสมาชิกของชุมชนของเรา</s> บางส่วนอาจขาดหายหรือยังไม่ถูกแปล หากคุณสนใจในการแปลหรือต้องการแก้ไขจุดผิดพลาด (ทั้งภาษาไทยหรืออื่น ๆ) คุณสามารถมีส่วนร่วมได้ <a>เรียนรู้เพิ่มเติม...</a>",
             "language_description": "ภาษาของอินเตอร์เฟซ itch สำหรับผู้ใช้",
             "language": "ภาษา",
-            "change_username": "เปลี่ยนชื่อผู้ใช้ของฉัน/URL"
+            "change_username": "เปลี่ยนชื่อผู้ใช้ของฉัน/URL",
+            "twitter_description": "บัญชี Twitter ที่แสดงบนโปรไฟล์ของคุณ",
+            "account_type_description": "คุณจะใช้บัญชีของคุณอย่างไร",
+            "default_language_option": "ค่าเริ่มต้น (ตั้งค่าเป็นภาษาอังกฤษในระหว่างช่วงทดสอบภาษา)",
+            "disable_animated_gifs": "ปิดภาพ gif ที่เคลื่อนไหวได้",
+            "click_to_load_games": "ต้องคลิกเพื่อเล่นเกมที่ฝังด้วยโค้ด HTML5",
+            "page_header": "โปรไฟล์",
+            "username": "ชื่อผู้ใช้งาน",
+            "username_description": "ใช้ในการเข้าสู่บัญชีและหน้า URL ของคุณ",
+            "you_recently_changed_your_username": "คุณเปลี่ยนชื่อผู้ใช้งานแล้วเมื่อไม่นานมานี้",
+            "url_description": "URL สาธารณะสำหรับบัญชีของคุณ",
+            "profile_image": "รูปโปรไฟล์",
+            "profile_image_description": "แสดงต่อจากชื่อของคุณเมื่อคุณกระทำการใด ๆ บนไซต์ (รูปทรงสี่เหลี่ยม)",
+            "display_name": "ชื่อแทนตัว",
+            "display_name_description": "ชื่อที่แสดงแทนชื่อผู้ใช้งานของคุณ เว้นว่างเพื่อใช้เป็นค่าเริ่มต้นเหมือนกับชื่อผู้ใช้งาน",
+            "website": "เว็บไซต์",
+            "website_description": "URL เพิ่มเติมสำหรับแสดงบนหน้าโปรไฟล์ของคุณ",
+            "account_type": "ชนิดบัญชี",
+            "account_type_gamer": "การเล่นและดาวน์โหลดเกม",
+            "account_type_developer": "การพัฒนาและอัปโหลดเกม",
+            "content": "เนื้อหา",
+            "content_description": "วิธีแสดงเนื้อหาบน itch.io ที่คุณต้องการใช้",
+            "show_adult_content": "แสดงเนื้อหาสำหรับผู้ใหญ่ในการค้นหาและเรียกดู",
+            "disable_autoloading_next_page_when_browsing": "ปิดการโหลดหน้าต่อไปโดยอัตโนมัติเมื่อทำการเรียกดู",
+            "use_dark_theme": "ใช้ธีมสีมืดเมื่อใช้งานได้",
+            "profile": "โปรไฟล์",
+            "profile_description": "เนื้อหาในหน้าโปรไฟล์ของคุณ"
+        },
+        "password": {
+            "current_password": "รหัสผ่านปัจจุบัน",
+            "new_password_again": "ใส่รหัสผ่านใหม่อีกครั้ง",
+            "reset_password": "รีเซ็ตรหัสผ่าน",
+            "set_password": "ตั้งรหัสผ่าน",
+            "password": "รหัสผ่าน",
+            "new_password": "รหัสผ่านใหม่",
+            "password_again": "ใส่รหัสผ่านอีกครั้ง"
+        },
+        "email_addresses": {
+            "change_email_form": {
+                "new_email_address": "ที่อยู่อีเมลใหม่",
+                "current_password": "รหัสผ่านปัจจุบัน"
+            },
+            "primary_email_description": "อีเมลหลักของคุณคือที่อยู่ที่ itch.io จะส่งการแจ้งเตือนใด ๆ ถึงคุณ",
+            "primary_email_header": "อีเมลหลัก",
+            "your_primary_email_address": "ที่อยู่อีเมลหลักของคุณ: {{email}}"
         }
     },
     "browse": {
@@ -160,7 +204,9 @@
         "sort": "จัดเรียง",
         "filter_group": {
             "fewer_options": "ยุบตัวเลือก",
-            "more_options": "ตัวเลือกเพิ่มเติม"
+            "more_options": "ตัวเลือกเพิ่มเติม",
+            "toggle_more_options": "สลับตัวเลือกเพิ่มเติม",
+            "clear_filter": "ล้างตัวกรอง"
         },
         "clear_filters": "ล้าง",
         "upload_your_project": "<a>อัปโหลดโครงการของคุณ</a> ไปยัง itch.io เพื่อให้แสดงผลที่นี่",
@@ -185,7 +231,10 @@
         "type_downloadable": "ดาวน์โหลดได้",
         "filter_group_release_status": "สถานะการเผยแพร่",
         "filter_group_misc": "อื่น ๆ",
-        "filter_group_collection": "คอลเลคชัน"
+        "filter_group_collection": "คอลเลคชัน",
+        "filter_group_tools": "เครื่องมือและตัวขับเคลื่อน",
+        "fresh_description": "ค้นหาชุดโครงการที่มีการอัปเดตอย่างสม่ำเสมอจากคอลเลคชันที่คัดสรรโดยสมาชิกของเรา กลับมาตรวจสอบการเพิ่มเติมใหม่ ๆ ได้",
+        "filter_everything_else": "ทุกอย่างที่มี"
     },
     "misc": {
         "accessibility_features": {
@@ -749,5 +798,15 @@
         "remove_confirm": "คุณแน่ใจหรือไม่ว่าต้องการลบออกจากคอลแลคชัน",
         "add_a_blurb": "เพิ่มคำโฆษณา",
         "edit_blurb": "แก้ไขคำโฆษณา"
+    },
+    "browse_tags": {
+        "page_title": "แท็กยอดนิยม",
+        "find_tag": "ค้นหาแท็ก",
+        "commonly_tagged_with": "โดยทั่วไปถูกแท็กอยู่กับ",
+        "no_description_yet": "ยังไม่มีคำอธิบาย"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>โดย</1> {{author}}",
+        "powered_by_itchio": "ขับเคลื่อนโดย {{itchio}}"
     }
 }
