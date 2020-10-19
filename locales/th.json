@@ -184,7 +184,8 @@
         "filter_group_type": "ชนิด",
         "type_downloadable": "ดาวน์โหลดได้",
         "filter_group_release_status": "สถานะการเผยแพร่",
-        "filter_group_misc": "อื่น ๆ"
+        "filter_group_misc": "อื่น ๆ",
+        "filter_group_collection": "คอลเลคชัน"
     },
     "misc": {
         "accessibility_features": {
