@@ -1074,14 +1074,25 @@
             "submissions": {
                 "ranked_score": "分數：{{score}}",
                 "by_author": "由 {{author}}",
-                "view_submission_page": "檢視投稿頁面"
+                "view_submission_page": "檢視投稿頁面",
+                "ranked": "排行第 {{ordinal_rank}}",
+                "ranked_vote_count": "以 {{count}} 個投票排行第 {{ordinal_rank}}",
+                "ranked_rating_count": "以 {{count}} 個評分排行弟 {{ordinal_rank}}",
+                "ranked_criteria": "在 {{criteria_name}} 內排行弟 {{ordinal_rank}}",
+                "ranked_criteria_vote_count": "以 {{count}} 票在 {{criteria_name}} 分類排行第 {{ordinal_rank}}",
+                "ranked_criteria_rating_count": "以 {{count}} 個評分在 {{criteria_name}} 中排行第 {{ordinal_rank}}"
             },
             "no_rankings_available": "沒有評分",
             "results": "結果",
             "empty_page_message": "這頁沒有結果",
-            "sort_overall": "總體",
+            "sort_overall": "整體",
             "empty_message": "結果還沒出爐，請之後再回來",
-            "sort_by_criteria": "按標準"
+            "sort_by_criteria": "按分類",
+            "votes_cast_count": "在 {{vote_start_date}} 到 {{vote_end_date}} 之間總共送出了 <s>{{count}}</s> 個評分。",
+            "submissions_summary": "在 {{start_date}} 到 {{end_date}} 之間有 <s>{{count}}</s> 個投稿。",
+            "ratings_given_count": "在 {{vote_start_date}} 到 {{vote_end_date}} 之間收到了 <s>{{count}}</s> 個評分。",
+            "ratings_given_submissions_count": "在 {{vote_start_date}} 到 {{vote_end_date}} 之間，共在 <s>{{submission_count}}</s> 個 ({{percent}}%) 投稿上收到 <s>{{count}}</s> 個評分。",
+            "average_and_median_results": "平均每個遊戲收到了 <s>{{average_ratings}}</s> 個評分，中位數是 <s>{{median_ratings}}</s>。"
         },
         "submission": {
             "play_game": "玩遊戲",
@@ -1118,7 +1129,8 @@
             "link_to_itchio_page": "{{game_title}} 的 itch.io 頁面",
             "downloads": "下載",
             "run_project": "執行專案",
-            "results_header": "結果"
+            "results_header": "結果",
+            "score_information": "成績會以競賽中所有遊戲收到的評分的中位數來對原始分數做調整。"
         },
         "stats": {
             "ratings": "評分",
@@ -1153,7 +1165,9 @@
             "there_are_no_submissions_yet": "這裡還沒有投稿",
             "there_were_no_submissions": "這裡沒有投稿",
             "submissions_will_be_available_after_the_jam_has_ended": "在這個 Jam 結束後將可以投稿",
-            "filter": "過濾"
+            "filter": "過濾",
+            "rated": "已評分",
+            "help_submissions_in_need_of_ratings": "幫我們對評分數不足的投稿評分: <a>還需要評分的投稿</a>"
         },
         "screenshots": {
             "empty_message": "這裡還沒有任何上傳截圖",
