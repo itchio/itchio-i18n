@@ -34,7 +34,7 @@
         "chess": "شطرنج",
         "chicken": "دجاج",
         "creative": "إبداعي",
-        "crafting": "الصياغة",
+        "crafting": "صياغة",
         "controller": "ذراع التحكم",
         "comedy": "كوميدي",
         "colorful": "متعدد الألوان",
@@ -187,6 +187,8 @@
         "dice": "نرد",
         "detective": "محقق",
         "destruction": "تحطيم",
-        "classes": "التصنيفات"
+        "classes": "التصنيفات",
+        "coming-of-age": "بلوغ سن الرشد",
+        "cozy": "دافئ"
     }
 }
