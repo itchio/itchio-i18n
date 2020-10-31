@@ -78,9 +78,9 @@
         "view_all_games": "Lihat semua game",
         "games_by_price": "Berdasarkan harga",
         "browse": "Telusur",
-        "view_all_games_on_sale": "Lihat semua gim yang diskon",
+        "view_all_games_on_sale": "Lihat semua game yang diskon",
         "people_to_follow": "Orang Untuk Diikuti",
-        "fresh_games_description": "Selalu diperbarui dengan game-game terbaru di itch.io",
+        "fresh_games_description": "Selalu diperbarui dengan berbagai game terbaru di itch.io",
         "recommendations_based_on": "Berdasarkan yang pernah kamu pernah beli, unduh, dan beri rating",
         "on_sale": "Sedang Diskon",
         "get_the_app": "<s>Dapatkan yang terbaik dari itch.io</s> Pasang dan kelola game kamu dengan aplikasi desktop kami",
@@ -109,7 +109,7 @@
         "filtering_platform": "Hanya menampilkan game untuk {{platform_name}}",
         "intro": "<s>itch.io</s> mempermudah berbagi dan mencari game indie daring secara gratis.",
         "intro_cta": "<1>Unggah game kamu</1> atau <2>Baca FAQ</2>",
-        "page_title": "Unduh game-game indie terbaru",
+        "page_title": "Unduh berbagai game indie terbaru",
         "meta_description": "itch.io memudahkan kamu untuk mencari, mengunduh, dan mendistribusikan game indie secara online. Bagi kamu pengembang game yang ingin mengunggah game ataupun hanya sekadar mencari game baru untuk dimainkan, itch.io siap menyediakan."
     },
     "misc": {
@@ -320,7 +320,7 @@
         "tag_filter": "Disaring menurut {{tag}}. <a>Hapus tag</a>"
     },
     "app": {
-        "summary": "Aplikasi itch.io, <s>itch</s>, memudahkan kamu untuk mengunduh serta menjalankan game dan software dari itch.io. Semua unduhan kamu disimpan di satu tempat dan diperbarui otomatis. Masuk ke pembelian dan koleksi-koleksi kamu, atau cari game-game baru lewat browser di dalam aplikasi.",
+        "summary": "Aplikasi itch.io, <s>itch</s>, memudahkan kamu untuk mengunduh serta menjalankan game dan software dari itch.io. Semua unduhan kamu disimpan di satu tempat dan diperbarui otomatis. Masuk ke pembelian dan daftar koleksi kamu, atau cari berbagai game baru lewat browser di dalam aplikasi.",
         "browse_description": "Di itch.io pembuat game-lah yang menentukan sendiri bagaimana penampilan halaman proyek mereka. Unduh dan instal berbagai game sambil menjelajahi <a>desain-desain unik dari halaman para pembuat game</a>.",
         "updates_description": "Tidak hanya secara otomatis memperbarui game-game yang sudah terinstal, aplikasi ini juga akan berubah otomatis saat kami menambahkan fitur dan fungsi baru. Game yang menggunakan alat command line baru kami akan menghasilkan <em>delta patch</em> sehingga ketika ada game baru, hanya bagian yang diubah yang akan terunduh.",
         "community_description": "Pelajari lebih lanjut mengenai pengembangan aplikasi <1>bersama komunitas</1>. Bagikan permintaan fitur dan umpan balik kamu dengan anggota-anggota itch.io lainnya. Kabar baik bagi kamu yang programmer, seluruh proyek itch.io tersedia secara <2>open source di GitHub</2>, kami menantikan pull request kamu.",
@@ -343,7 +343,7 @@
         "download_now": "Unduh sekarang",
         "community_header": "Bergabung dengan komunitas",
         "page_title": "Unduh aplikasi",
-        "meta_description": "itch, cara terbaik untuk mengunduh dan bermain game indie. Unduh game-game gratis dan atur pustaka kamu melalui desktop. Tersedia untuk Windows, macOS, dan Linux."
+        "meta_description": "itch, cara terbaik untuk mengunduh dan bermain game indie. Unduh berbagai game gratis dan atur pustaka kamu melalui desktop. Tersedia untuk Windows, macOS, dan Linux."
     },
     "game": {
         "get_access_preorder": "Kamu akan mendapat akses untuk file-file berikut ini setelah rilis:",
@@ -1264,7 +1264,7 @@
         },
         "my_feed_tab": "Berandaku",
         "global_feed_tab": "Beranda global",
-        "manage_my_games_button": "Kelola game-game saya",
+        "manage_my_games_button": "Kelola daftar game saya",
         "upload_a_game_button": "Unggah game",
         "event_filter_label": "Saring:",
         "email_warning": {
