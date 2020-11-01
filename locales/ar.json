@@ -1146,10 +1146,33 @@
     },
     "dashboard": {
         "project_list": {
-            "edit": "تعديل"
+            "edit": "تعديل",
+            "no_image": "لا توجد صورة",
+            "analytics": "الاحصائيات"
         },
         "hello": "مرحبًا!",
-        "dashboard": "لوحة المراقبة"
+        "dashboard": "لوحة المراقبة",
+        "stats": {
+            "views": "المشاهدات",
+            "downloads": "التحميلات",
+            "following": "المتابعات",
+            "followers": "المتابعين"
+        },
+        "follow_itchio": "تابع itch.io علي {{twitter}} و {{facebook}}",
+        "create_new_project_button": "إنشاء مشروع جديد",
+        "analytics_summary_header": "الملخص",
+        "intro_text": "هل أنت مطور؟ قم بتحميل لعبتك الأولى",
+        "edit_project": {
+            "edit_project_title": "تعديل المشروع",
+            "title_field": "العنوان",
+            "project_url_field": "رابط المشروع",
+            "save_and_view_button": "حفظ وعرض الصفحة",
+            "video_field": "فيديو اللعب أو المقطع الدعائي",
+            "video_field_description": "قم بتوفير رابط لموقع YouTube أو Vimeo.",
+            "delete_game_button": "حذف اللعبة",
+            "create_a_new_project_title": "إنشاء مشروع جديد"
+        },
+        "recently_updated_pages_header": "الصفحات التي تم تحديثها مؤخرًا"
     },
     "library": {
         "page_title": "مكتبتي",
