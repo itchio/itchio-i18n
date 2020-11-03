@@ -1077,7 +1077,8 @@
                 "save_rating": "حفظ التقييم",
                 "you_havent_rated_this_submission_yet": "لم تقيم هذه المشاركة بعد.",
                 "you_just_voted": "لقد قمت للتو بالصويت.",
-                "you_voted_ago": "لقد قمت بالتصويت {{timestamp}}."
+                "you_voted_ago": "لقد قمت بالتصويت {{timestamp}}.",
+                "disqualified_message": "هذه المشاركة غير مؤهلة للتقييم."
             },
             "ranked_from_count_0": "تم تقييمه بناءً علي <s> عدد {{count}} تقييم </s>.",
             "ranked_from_count_1": "تم تقييمه بناءً علي <s> عدد {{count}} تقييم </s>.",
@@ -1116,6 +1117,10 @@
                 "all_submissions": "كل التقديمات"
             },
             "help_submissions_in_need_of_ratings": "ساعد في تقييم التقديمات التي لديها تقييمات قليلة: <a>تقديمات بحاجة لتقييم</a>"
+        },
+        "screenshots": {
+            "empty_message": "لم يتم تحميل أي لقطات شاشة حتى الآن",
+            "loading_more": "جارٍ تحميل المزيد من لقطات الشاشة ..."
         }
     },
     "collection": {
@@ -1156,7 +1161,9 @@
             "views": "المشاهدات",
             "downloads": "التحميلات",
             "following": "المتابعات",
-            "followers": "المتابعين"
+            "followers": "المتابعين",
+            "gross_revenue": "إجمالي الإيرادات",
+            "payments": "المدفوعات"
         },
         "follow_itchio": "تابع itch.io علي {{twitter}} و {{facebook}}",
         "create_new_project_button": "إنشاء مشروع جديد",
@@ -1170,9 +1177,37 @@
             "video_field": "فيديو اللعب أو المقطع الدعائي",
             "video_field_description": "قم بتوفير رابط لموقع YouTube أو Vimeo.",
             "delete_game_button": "حذف اللعبة",
-            "create_a_new_project_title": "إنشاء مشروع جديد"
+            "create_a_new_project_title": "إنشاء مشروع جديد",
+            "kind_of_project_field": "نوع المشروع",
+            "release_status_field": "حالة الإصدار",
+            "short_description_field": "وصف قصير أو شعار",
+            "classification_field": "التصنيف",
+            "classification_field_description": "ما الذي تقوم برفعه؟",
+            "details_section_header": "التفصيل",
+            "description_field": "الوصف",
+            "custom_noun_field_description": "يمكنك تغيير الطريقة التي يشير بها itch.io إلى مشروعك من خلال توفير اسم مخصص.",
+            "instructions_field": "تعليمات التنزيل والتثبيت",
+            "default_noun": "اتركه فارغًا ليكون افتراضيًا : \"{{default_noun}}\".",
+            "classification_other": "آخر",
+            "types": {
+                "downloadable": "قابل للتحميل"
+            },
+            "project_type_help": "يمكنك إضافة ملفات إضافية قابلة للتنزيل لأي من الأنواع المذكورة أعلاه",
+            "custom_noun_field": "اسم مخصص",
+            "tip_label": "إكرامية"
         },
-        "recently_updated_pages_header": "الصفحات التي تم تحديثها مؤخرًا"
+        "recently_updated_pages_header": "الصفحات التي تم تحديثها مؤخرًا",
+        "header": {
+            "projects_link": "المشاريع",
+            "payments_link": "المدفوعات",
+            "payouts_link": "الدّفعات",
+            "sales_bundles_link": "الخصومات و الحزَم",
+            "coop_bundles_link": "الحزم التعاونية",
+            "game_jams_link": "كوم الألعاب",
+            "analytics_link": "التحليلات"
+        },
+        "not_a_developer_escape": "خذني إلى موجز الألعاب",
+        "new_devlog": "نشر تطوير جديد"
     },
     "library": {
         "page_title": "مكتبتي",
