@@ -1153,7 +1153,8 @@
         "project_list": {
             "edit": "تعديل",
             "no_image": "لا توجد صورة",
-            "analytics": "الاحصائيات"
+            "analytics": "الاحصائيات",
+            "widget": "تضامن"
         },
         "hello": "مرحبًا!",
         "dashboard": "لوحة المراقبة",
@@ -1163,7 +1164,7 @@
             "following": "المتابعات",
             "followers": "المتابعين",
             "gross_revenue": "إجمالي الإيرادات",
-            "payments": "المدفوعات"
+            "payments": "عملية دفع"
         },
         "follow_itchio": "تابع itch.io علي {{twitter}} و {{facebook}}",
         "create_new_project_button": "إنشاء مشروع جديد",
@@ -1194,12 +1195,44 @@
             },
             "project_type_help": "يمكنك إضافة ملفات إضافية قابلة للتنزيل لأي من الأنواع المذكورة أعلاه",
             "custom_noun_field": "اسم مخصص",
-            "tip_label": "إكرامية"
+            "tip_label": "إكرامية",
+            "short_description_field_description": "تظهر عندما ننشئ رابط لمشروعك. تجنب تكرار عنوان مشروعك",
+            "community_field": "المجتمع",
+            "community_disabled": "معطل",
+            "community_comments": "التعليقات",
+            "community_discussion_board": "لوحة النقاش",
+            "pricing_header": "التسعير",
+            "uploads_header": "المرفوعات",
+            "upload_files_button": "رفع ملفات",
+            "add_external_file_button": "إضافة ملف خارجي",
+            "content_guidelines_header": "تأكد من أن الجميع يمكنهم العثور على صفحتك",
+            "content_guidelines_info": "راجع <a> إرشادات الجودة </a> قبل نشر مشروعك",
+            "payment_warning_header": "ليس لديك إعدادات للدفع مهيئة",
+            "cover_uploader": {
+                "confirm_remove": "هل أنت متأكد أنك تريد إزالة صورة الغلاف؟",
+                "replace_image": "استبدال صورة الغلاف",
+                "remove_image": "إزالة الصورة",
+                "upload_button": "رفع صورة للغلاف",
+                "cover_description": "يتم استخدام صورة الغلاف عندما يريد itch.io عرض مشروعك من مكانٍ آخر في الموقع. مطلوب (الحد الأدنى: 315 × 250 ، الموصى به: 630 × 500)"
+            },
+            "errors": {
+                "invalid_file": "هناك مشكلة في الملف الذي حددته",
+                "invalid_image": "يرجى تعديل صورتك أو تجربة واحدة أخرى"
+            },
+            "visibility_access_header": "الرؤية والوصول",
+            "error_dialog": {
+                "confirm_button": "حسناً",
+                "title": "حدثت مشكلة أثناء حفظ مشروعك"
+            },
+            "description_field_description": "سيشكل هذا محتوى صفحة اللعبة الخاصة بك.",
+            "instructions_field_info2": "إذا كانت لعبتك تتطلب تثبيت أي مكتبات أو برامج أولاً ، فيجب عليك تضمين هذه المعلومات",
+            "instructions_field_info1": "سيُعرض هذا النص على شخص ما عندما يقوم بتنزيل لعبتك من خلال متصفحه. قم بتضمين أي معلومات حول كيفية تثبيت وتشغيل ما يقومون بتنزيله.",
+            "payment_warning_info": "إذا قمت بتعيين حد أدنى للسعر أعلى من 0 ، فلن يتمكن أحد من تنزيل مشروعك. <a> تحرير الحساب </a>"
         },
         "recently_updated_pages_header": "الصفحات التي تم تحديثها مؤخرًا",
         "header": {
             "projects_link": "المشاريع",
-            "payments_link": "المدفوعات",
+            "payments_link": "عمليات الدفع",
             "payouts_link": "الدّفعات",
             "sales_bundles_link": "الخصومات و الحزَم",
             "coop_bundles_link": "الحزم التعاونية",
@@ -1207,7 +1240,8 @@
             "analytics_link": "التحليلات"
         },
         "not_a_developer_escape": "خذني إلى موجز الألعاب",
-        "new_devlog": "نشر تطوير جديد"
+        "new_devlog": "نشر تطوير جديد",
+        "page_title": "لوحة تحكم المنشئ"
     },
     "library": {
         "page_title": "مكتبتي",
@@ -1243,6 +1277,11 @@
     "nags": {
         "unverified_email": {
             "title": "لم يتم التحقق من بريدك الإلكتروني"
+        }
+    },
+    "feed": {
+        "profile_notice": {
+            "description": "لا يحتوي حسابك على صورة للملف الشخصي ، أضف صورة حتى يسهل على الآخرين التعرف عليك في لمح البصر!"
         }
     }
 }
