@@ -98,7 +98,7 @@
         "to_follow": {
             "created_projects": "Opprettet {{project_list}}",
             "empty_results": "Vi har ingen flere anbefalinger akkurat nå. Kom tilbake senere",
-            "refresh_button": "Last inn på nytt for mer...",
+            "refresh_button": "Last inn på nytt for mer",
             "dismiss_tooltip": "Ikke foreslå mer"
         },
         "view_something_random": "Prøv lykken",
@@ -273,7 +273,8 @@
         "welcome_back": "Velkommen tilbake!",
         "welcome_to_itchio": "Velkommen til itch.io!",
         "errors": {
-            "accept_terms": "Du må akseptere Bruksvilkårene"
+            "accept_terms": "Du må akseptere Bruksvilkårene",
+            "please_enter_a_valid_email_address": "Vennligst skriv inn en gyldig epostadresse"
         }
     },
     "user_register": {
