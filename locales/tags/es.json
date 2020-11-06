@@ -234,6 +234,7 @@
         "turn-based-strategy": "Estrategia por turnos",
         "violent": "Violento",
         "war": "Guerra",
-        "zombies": "Zombis"
+        "zombies": "Zombis",
+        "score-attack": "Puntuación de ataque"
     }
 }
