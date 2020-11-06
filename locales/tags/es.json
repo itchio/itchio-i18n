@@ -239,6 +239,18 @@
         "shoot-em-up": "Dispárales a todos",
         "side-scroller": "Desplazamiento lateral",
         "slice-of-life": "Recuentos de la vida",
-        "tactical": "Táctico"
+        "tactical": "Táctico",
+        "tycoon": "Simulación económica",
+        "western": "Occidental",
+        "yaoi": "Yaoi",
+        "traps": "Trampas",
+        "turn-based": "Basado en turnos",
+        "twin-stick-shooter": "Tirador gemelo",
+        "vampire": "Vampiro",
+        "versus": "Contra",
+        "voice-acting": "Actuación de voz",
+        "walking-simulator": "Simulador de caminar",
+        "world-war-i": "Primera guerra mundial",
+        "world-war-ii": "Segunda guerra mundial"
     }
 }
