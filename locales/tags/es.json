@@ -215,6 +215,19 @@
         "singleplayer": "Un jugador",
         "simulation": "Simulación",
         "shooter": "Disparos",
-        "sandbox": "Mundo abierto"
+        "sandbox": "Mundo abierto",
+        "skating": "Skating",
+        "slime": "Slime",
+        "split-screen": "Pantalla dividida",
+        "survival-horror": "Horror de supervivencia",
+        "text-based": "Basado en texto",
+        "third-person-shooter": "Shooter en Tercera Persona",
+        "time-attack": "Tiempo de ataque",
+        "tower-defense": "Defensa de torres",
+        "virtual-pet": "Mascota virtual",
+        "virtual-reality": "Realidad Virtual (RV)",
+        "visual-novel": "Novela visual",
+        "visualization": "Visualización",
+        "zero-gravity": "Gravedad Cero"
     }
 }
