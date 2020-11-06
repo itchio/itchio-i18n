@@ -235,6 +235,10 @@
         "violent": "Violento",
         "war": "Guerra",
         "zombies": "Zombis",
-        "score-attack": "Puntuación de ataque"
+        "score-attack": "Puntuación de ataque",
+        "shoot-em-up": "Dispárales a todos",
+        "side-scroller": "Desplazamiento lateral",
+        "slice-of-life": "Recuentos de la vida",
+        "tactical": "Táctico"
     }
 }
