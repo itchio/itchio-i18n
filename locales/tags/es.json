@@ -228,6 +228,12 @@
         "virtual-reality": "Realidad Virtual (RV)",
         "visual-novel": "Novela visual",
         "visualization": "Visualización",
-        "zero-gravity": "Gravedad Cero"
+        "zero-gravity": "Gravedad Cero",
+        "trading": "Comercio",
+        "transgender": "Transgénero",
+        "turn-based-strategy": "Estrategia por turnos",
+        "violent": "Violento",
+        "war": "Guerra",
+        "zombies": "Zombis"
     }
 }
