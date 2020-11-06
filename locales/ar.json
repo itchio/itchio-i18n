@@ -1196,7 +1196,7 @@
             "project_type_help": "يمكنك إضافة ملفات إضافية قابلة للتنزيل لأي من الأنواع المذكورة أعلاه",
             "custom_noun_field": "اسم مخصص",
             "tip_label": "إكرامية",
-            "short_description_field_description": "تظهر عندما ننشئ رابط لمشروعك. تجنب تكرار عنوان مشروعك",
+            "short_description_field_description": "يظهر عندما ننشر رابط لمشروعك. تجنب تكرار عنوان مشروعك",
             "community_field": "المجتمع",
             "community_disabled": "معطل",
             "community_comments": "التعليقات",
