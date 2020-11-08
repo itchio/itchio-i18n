@@ -505,7 +505,7 @@
             "title": "报告 “{{page_title}}”"
         },
         "password_required": {
-            "header": "需要密码才能查看这个页面"
+            "header": "请输入密码以查看本页"
         }
     },
     "community": {
