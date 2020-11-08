@@ -1227,7 +1227,25 @@
             "description_field_description": "سيشكل هذا محتوى صفحة اللعبة الخاصة بك.",
             "instructions_field_info2": "إذا كانت لعبتك تتطلب تثبيت أي مكتبات أو برامج أولاً ، فيجب عليك تضمين هذه المعلومات",
             "instructions_field_info1": "سيُعرض هذا النص على شخص ما عندما يقوم بتنزيل لعبتك من خلال متصفحه. قم بتضمين أي معلومات حول كيفية تثبيت وتشغيل ما يقومون بتنزيله.",
-            "payment_warning_info": "إذا قمت بتعيين حد أدنى للسعر أعلى من 0 ، فلن يتمكن أحد من تنزيل مشروعك. <a> تحرير الحساب </a>"
+            "payment_warning_info": "إذا قمت بتعيين حد أدنى للسعر أعلى من 0 ، فلن يتمكن أحد من تنزيل مشروعك. <a> تحرير الحساب </a>",
+            "file_size_limit": "حد حجم الملف: {{filesize}}. <a> اتصل بنا </a> إذا كنت بحاجة إلى مساحة أكبر",
+            "access_control": {
+                "disable_downloads_option": "تعطيل عمليات التنزيل والمشتريات الجديدة",
+                "unlisted_option": "غير مدرج في البحث والتصفح",
+                "allow_password_option": "أيضًا اسمح بكلمة مرور لعرض الصفحة",
+                "public_access_settings": "إعدادات الوصول العام",
+                "password_label": "كلمه السر"
+            },
+            "embed_options": {
+                "width": "العرض",
+                "height": "الارتفاع",
+                "frame_options": "اعدادات الاطارات في الثانية",
+                "mobile_friendly_option": "متوافق مع الجوال",
+                "mobile_friendly_info": "يمكن تشغيل مشروعك على الهواتف المحمولة (دقة أقل ولكن هناك دعم للمس)",
+                "fullscreen_button_option": "زر ملء الشاشة",
+                "launch_fullscreen_option": "انقر لبدء التشغيل في وضع ملء الشاشة"
+            },
+            "details_genre_header": "النوع"
         },
         "recently_updated_pages_header": "الصفحات التي تم تحديثها مؤخرًا",
         "header": {
