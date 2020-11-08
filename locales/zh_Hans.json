@@ -430,7 +430,7 @@
             "if_you_pay_price_or_more": "如果您支付不少于{{price}}",
             "version_name": "版本 {{version_name}}",
             "this_file_will_be_available_when_the_creator_uploads_it": "此文件将在创建者上传后可用",
-            "empty_message": "目前暂不提供下载。"
+            "empty_message": "目前没有可供下载的内容。"
         },
         "layout": {
             "view_all_by_name": "查看 {{name}} 的全部内容",
