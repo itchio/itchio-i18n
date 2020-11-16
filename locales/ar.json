@@ -1282,7 +1282,10 @@
             },
             "community_comments_info": "أضف سلسلة تعليق متداخلة إلى أسفل صفحة المشروع",
             "community_field_info": "قم ببناء مجتمع لمشروعك عن طريق السماح للأشخاص بالنشر على صفحتك.",
-            "details_genre_info": "حدد أفضل فئة تصف لعبتك. يمكنك اختيار أنواع إضافية ضمن العلامات أدناه"
+            "details_genre_info": "حدد أفضل فئة تصف لعبتك. يمكنك اختيار أنواع إضافية ضمن العلامات أدناه",
+            "community_discussion_board_info": "أضف صفحة مجتمع مخصصة مع الفئات والمواضيع والردود والمزيد",
+            "add_screenshots": "أضف لقطات شاشة",
+            "screenshots_header": "لقطات الشاشة"
         },
         "recently_updated_pages_header": "الصفحات التي تم تحديثها مؤخرًا",
         "header": {
@@ -1296,7 +1299,20 @@
         },
         "not_a_developer_escape": "خذني إلى موجز الألعاب",
         "new_devlog": "نشر تطوير جديد",
-        "page_title": "لوحة تحكم المنشئ"
+        "page_title": "لوحة تحكم المنشئ",
+        "project_header": {
+            "edit_project": "تحرير المشروع",
+            "metadata": "بيانات التعريف",
+            "analytics": "التحليلات",
+            "interact": "تَفَاعَل",
+            "edit_comments": "تحرير التعليقات",
+            "discussion_board": "لوحة النقاش",
+            "rewards": "المكافآت",
+            "admins": "المشرفون",
+            "more": "المزيد",
+            "devlog": "منشور",
+            "distribute": "التوزيع"
+        }
     },
     "library": {
         "page_title": "مكتبتي",
@@ -1336,7 +1352,92 @@
     },
     "feed": {
         "profile_notice": {
-            "description": "لا يحتوي حسابك على صورة للملف الشخصي ، أضف صورة حتى يسهل على الآخرين التعرف عليك في لمح البصر!"
-        }
+            "description": "لا يحتوي حسابك على صورة للملف الشخصي ، أضف صورة حتى يسهل على الآخرين التعرف عليك في لمح البصر!",
+            "add_a_profile_image": "أضف صورة الملف الشخصي"
+        },
+        "featured_tags_header": "العلامات المميزة",
+        "to_rate": {
+            "projects_to_rate_header": "مشاريع للتقييم",
+            "to_rate_description": "إليك بعض الأشياء التي تفاعلت معها ولكنك لم تقيمها."
+        },
+        "global_feed_tab": "تغذية عالمية",
+        "filter_own_activity_tab": "نشاطي الخاص",
+        "filter_everything_tab": "كل شىء",
+        "filter_new_projects_tab": "مشاريع جديدة",
+        "filter_collections_tab": "المجموعات",
+        "filter_devlogs_tab": "منشورات",
+        "filter_ratings_tab": "التقييمات",
+        "to_follow": {
+            "to_follow_description": "فيما يلي بعض الحسابات التي قد تكون مهتمًا بمتابعتها.",
+            "people_to_follow_header": "أشخاص للمتابعة"
+        },
+        "manage_my_games_button": "إدارة ألعابي",
+        "upload_a_game_button": "رفع لعبة",
+        "event_filter_label": "تصفية :",
+        "event": {
+            "collection_added_count_0": "تم إضافة {{count}} منتج.",
+            "collection_added_count_1": "تم إضافة {{count}} منتج.",
+            "collection_added_count_2": "تم إضافة {{count}} منتج.",
+            "collection_added_count_3": "تم إضافة {{count}} منتجات.",
+            "collection_added_count_4": "تم إضافة {{count}} منتج.",
+            "collection_added_count_5": "تم إضافة {{count}} منتج.",
+            "collection_summary_0": "مجموعة تحتوي على {{count}} عنصر.",
+            "collection_summary_1": "مجموعة تحتوي على {{count}} عنصر.",
+            "collection_summary_2": "مجموعة تحتوي على {{count}} عنصر.",
+            "collection_summary_3": "مجموعة تحتوي على {{count}} عناصر.",
+            "collection_summary_4": "مجموعة تحتوي على {{count}} عنصر.",
+            "collection_summary_5": "مجموعة تحتوي على {{count}} عنصر."
+        },
+        "email_warning": {
+            "verify_your_email_address": "التحقق من عنوان بريدك الإلكتروني"
+        },
+        "my_feed_tab": "خلاصتي",
+        "latest_featured_games_header": "أحدث الألعاب المميزة"
+    },
+    "add_to_collection": {
+        "add_reason": "أضف هذا المشروع إلى مجموعة لحفظه لوقت لاحق.",
+        "count_items_0": "{{count}} عنصر",
+        "count_items_1": "{{count}} عنصر",
+        "count_items_2": "{{count}} عنصر",
+        "count_items_3": "{{count}} عناصر",
+        "count_items_4": "{{count}} عنصر",
+        "count_items_5": "{{count}} عنصر",
+        "add_to_existing": "أضف إلى مجموعة موجودة",
+        "private_collection_title": "{{title}} [خاص]",
+        "add_to_new": "أضف إلى مجموعة جديدة بعنوان",
+        "default_title": "مجموعة {{username}}",
+        "add_button": "أضف إلى المجموعة",
+        "private_collection_option": "مجموعة خاصة - يمكنك أنت فقط رؤية المحتويات",
+        "about_this_project_label": "عن هذا المشروع",
+        "already_in_collections": "هذا المشروع موجود بالفعل في المجموعات التالية:",
+        "manage_collections_link": "إدارة المجموعات",
+        "dialog_title": "أضف {{project_title}} إلى مجموعة"
+    },
+    "game_grid": {
+        "in_bundle": "في حزمة"
+    },
+    "jams": {
+        "jams_created_header": "الكوم التي أنشأتها",
+        "jams_joined_header": "الكوم التي انضممت إليها",
+        "page_title": "كوم الألعاب علي itch.io",
+        "host_a_jam_button": "قم بإستضافة كومة",
+        "browse_jams_header": "تصفح الكوم",
+        "jam_calendar_header": "تقويم الكومة",
+        "host_your_own_jam_button": "قم بإستضافة الكومة الخاصة بك",
+        "dont_see_something_you_like_header": "لا ترى شيئًا يعجبك؟",
+        "browse_upcoming_this_month": "القادم هذا الشهر",
+        "brose_featured_jams": "الكوم المميزة",
+        "browse_top_past_jams": "أعلي القوم السابقة",
+        "browse_in_progress": "قيد الإنجاز",
+        "host_or_explore_links": "<1>إستضف كومتك الخاصة</ 1> أو <2>إستكشف كل الكوم </2>",
+        "page_summary": "itch.io هو مكان للاستضافة والمشاركة في كوم الألعاب عبر الإنترنت. يمكن لأي شخص إنشاء واستضافة كومة على الفور.",
+        "count_joined": "انضم {{count}}",
+        "manage_submissions_link": "إدارة المشاركات و الكوم",
+        "games_created_0": "<s>{{count}}لعبة</s> تم إنشائها للكوم المستضافة عل itch.io.",
+        "games_created_1": "<s>{{count}}لعبة</s> تم إنشائها للكوم المستضافة عل itch.io.",
+        "games_created_2": "<s>{{count}}لعبة</s> تم إنشائها للكوم المستضافة عل itch.io.",
+        "games_created_3": "<s>{{count}}العاب</s> تم إنشائها للكوم المستضافة عل itch.io.",
+        "games_created_4": "<s>{{count}}لعبة</s> تم إنشائها للكوم المستضافة عل itch.io.",
+        "games_created_5": "<s>{{count}}لعبة</s> تم إنشائها للكوم المستضافة عل itch.io."
     }
 }
