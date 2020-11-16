@@ -38,7 +38,9 @@
             "dashboard": "לוח בקרה",
             "bundles": "חבילות",
             "game_assets": "חומרי גלם",
-            "feed": "פיד"
+            "feed": "פיד",
+            "game_jams": "Game Jams",
+            "jams": "Jams"
         },
         "user_menu": {
             "create": "צור",
