@@ -327,6 +327,12 @@
                 "submission_feed": "פיד הגשות"
             },
             "hosted_by": "מארחים {{hosts}}"
+        },
+        "results": {
+            "ratings_given_submissions_count_0": "<s>דירוג {{count}}</s> ניתן ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}.",
+            "ratings_given_submissions_count_1": "<s>{{count}} דירוגים</s> ניתנו ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}.",
+            "ratings_given_submissions_count_2": "<s>{{count}} דירוגים</s> ניתנו ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}.",
+            "ratings_given_submissions_count_3": "<s>{{count}} דירוגים</s> ניתנו ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}."
         }
     },
     "search": {
@@ -380,5 +386,11 @@
         "will_be_available_in": "יהיה זמין {{time_remaining}}.",
         "download_or_claim_button": "הורד או קבל",
         "download_now_button": "הורד עכשיו"
+    },
+    "buy_form": {
+        "gift_email_instructions": "אתה תבחר אימייל לשלוח את המתנה לאחר ששילמת"
+    },
+    "browse": {
+        "fresh_description": "גלה לקט של פרוייקטים המתעדכן כל הזמן הנבחר על ידי משתתפינו. בדוק שוב בשביל עדכונים נוספים."
     }
 }
