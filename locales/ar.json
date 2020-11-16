@@ -1154,7 +1154,7 @@
             "edit": "تعديل",
             "no_image": "لا توجد صورة",
             "analytics": "الاحصائيات",
-            "widget": "تضامن"
+            "widget": "الأداة المصغرة"
         },
         "hello": "مرحبًا!",
         "dashboard": "لوحة المراقبة",
@@ -1234,19 +1234,55 @@
                 "unlisted_option": "غير مدرج في البحث والتصفح",
                 "allow_password_option": "أيضًا اسمح بكلمة مرور لعرض الصفحة",
                 "public_access_settings": "إعدادات الوصول العام",
-                "password_label": "كلمه السر"
+                "password_label": "كلمه السر",
+                "restricted_access_settings": "إعدادات الوصول المقيد",
+                "access_settings": "إعدادات الوصول"
             },
             "embed_options": {
                 "width": "العرض",
                 "height": "الارتفاع",
-                "frame_options": "اعدادات الاطارات في الثانية",
+                "frame_options": "خيارات الإطار",
                 "mobile_friendly_option": "متوافق مع الجوال",
                 "mobile_friendly_info": "يمكن تشغيل مشروعك على الهواتف المحمولة (دقة أقل ولكن هناك دعم للمس)",
                 "fullscreen_button_option": "زر ملء الشاشة",
-                "launch_fullscreen_option": "انقر لبدء التشغيل في وضع ملء الشاشة"
+                "launch_fullscreen_option": "انقر لبدء التشغيل في وضع ملء الشاشة",
+                "viewport_dimensions": "أبعاد منفذ العرض",
+                "orientation": "التوجيه",
+                "enable_scrollbars_option": "تفعيل أشرطة التمرير",
+                "embed_in_page_option": "تضمين في الصفحة"
             },
             "details_genre_header": "النوع",
-            "visibility_access_info": "استخدم المسودة لمراجعة صفحتك قبل جعلها عامة. <a> تعرف على المزيد حول أوضاع الوصول </a>"
+            "visibility_access_info": "استخدم المسودة لمراجعة صفحتك قبل جعلها عامة. <a> تعرف على المزيد حول أوضاع الوصول </a>",
+            "embed_options_header": "خيارات التضمين",
+            "details_tags_header": "العلامات",
+            "pricing": {
+                "free_or_donate": "{{money}} أو تبرع",
+                "no_payments": "لا مدفوعات",
+                "minimum_price_info": "الحد الأدنى للسعر الذي يجب دفعه للحصول على إمكانية تنزيل اللعبة",
+                "default_donation_amount_info": "مبلغ التبرع الإفتراضي",
+                "payment_disabled_info": "ستكون ملفات المشروع متاحة مجانًا ولا يمكن تقديم أي تبرعات",
+                "suggest_default_price_label": "اقترح سعرًا افتراضيًا بديلًا",
+                "suggested_donation_label": "مبالغ التبرع المقترحة",
+                "suggested_price_label": "السعر المقترح",
+                "default_price_info": "يظهر السعر الافتراضي عندما يحاول شخص ما شراء مشروعك",
+                "embed_pricing_info": "سيؤدي تحديد حد أدنى للسعر إلى تقييد الوصول إلى الملفات القابلة للتنزيل فقط. المحتوى المضمن متاح مجانًا.",
+                "minimum_price_label": "الحد الأدنى للسعر",
+                "free_price_info": "سيُطلب من شخص ما يقوم بتنزيل مشروعك التبرع قبل الوصول إليه. يمكنهم التخطي للتنزيل مجانًا.",
+                "price_too_low_error": "يرجى تقديم مبلغ أكبر من سعر المشروع",
+                "paid": "مدفوع"
+            },
+            "uploads": {
+                "delete_file_button": "حذف الملف",
+                "play_in_browser_toggle": "سيتم تشغيل هذا الملف في المتصفح",
+                "hide_toggle": "إخفاء هذا الملف ومنع تحميله",
+                "demo_toggle": "هذا الملف عرض توضيحي ويمكن تنزيله مجانًا",
+                "set_price_toggle": "حدد سعرًا مختلفًا لهذا الملف",
+                "change_display_name_button": "تغيير اسم العرض",
+                "preorder_toggle": "هذا الملف هو عنصر نائب للطلب المسبق"
+            },
+            "community_comments_info": "أضف سلسلة تعليق متداخلة إلى أسفل صفحة المشروع",
+            "community_field_info": "قم ببناء مجتمع لمشروعك عن طريق السماح للأشخاص بالنشر على صفحتك.",
+            "details_genre_info": "حدد أفضل فئة تصف لعبتك. يمكنك اختيار أنواع إضافية ضمن العلامات أدناه"
         },
         "recently_updated_pages_header": "الصفحات التي تم تحديثها مؤخرًا",
         "header": {
