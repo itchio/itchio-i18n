@@ -831,6 +831,8 @@
         "gift_instructions": "Bu satınalma hediyedÖdemeden sonra alıcı e-postasını girebilirsiniz.",
         "password": "Şifre",
         "youll_be_mailed_your_access_link": "Erişim kodu, e-postanıza gönderilecektir.",
-        "payment_error_help": "Eğer emin değilseniz lütfen üstteki mesajla birlikte <a>itch.io support</a> ile iletişime geçin."
+        "payment_error_help": "Eğer emin değilseniz lütfen üstteki mesajla birlikte <a>itch.io support</a> ile iletişime geçin.",
+        "new_card": "Yeni kart",
+        "buying_as": "olarak satın alıyorum"
     }
 }
