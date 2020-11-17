@@ -354,7 +354,8 @@
                 "email_sent_status": "e-posta gönderildi",
                 "resend_verification_email_button": "doğrulama e-postasını tekrar gönder",
                 "verified_column": "Doğrulanmış",
-                "email_column": "E-posta"
+                "email_column": "E-posta",
+                "emails_added_header": "E-postalar eklendi"
             },
             "add_email_form": {
                 "add_email_button": "E-posta adresi ekle",
@@ -829,6 +830,7 @@
         "credit_or_debit_card": "Kredi ya da banka kartı",
         "gift_instructions": "Bu satınalma hediyedÖdemeden sonra alıcı e-postasını girebilirsiniz.",
         "password": "Şifre",
-        "youll_be_mailed_your_access_link": "Erişim kodu, e-postanıza gönderilecektir."
+        "youll_be_mailed_your_access_link": "Erişim kodu, e-postanıza gönderilecektir.",
+        "payment_error_help": "Eğer emin değilseniz lütfen üstteki mesajla birlikte <a>itch.io support</a> ile iletişime geçin."
     }
 }
