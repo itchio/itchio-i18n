@@ -255,6 +255,7 @@
         "yuri": "Yuri",
         "turn-based-combat": "Combate por turnos",
         "team-based": "Orientado a equipos",
-        "voxel": "Voxel"
+        "voxel": "Voxel",
+        "touch-friendly": "Pantalla-Tactil "
     }
 }
