@@ -225,7 +225,7 @@
         "time-attack": "Tiempo de ataque",
         "tower-defense": "Defensa de torres",
         "virtual-pet": "Mascota virtual",
-        "virtual-reality": "Realidad Virtual (RV)",
+        "virtual-reality": "Realidad virtual (RV)",
         "visual-novel": "Novela visual",
         "visualization": "Visualización",
         "zero-gravity": "Gravedad Cero",
@@ -253,6 +253,7 @@
         "world-war-i": "Primera guerra mundial",
         "world-war-ii": "Segunda guerra mundial",
         "yuri": "Yuri",
-        "turn-based-combat": "Combate por turnos"
+        "turn-based-combat": "Combate por turnos",
+        "team-based": "Orientado a equipos"
     }
 }
