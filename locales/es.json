@@ -680,14 +680,15 @@
             "view_results": "Ver resultados",
             "countdown": {
                 "starts_in": "Empieza en",
-                "voting_ends_in": "La votación finaliza en"
+                "voting_ends_in": "La votación finaliza en",
+                "submissions_due_in": "Entregas pendientes en"
             },
             "leave_jam": "Dejar Jam",
             "submissions_open_from": "Envíos disponibles desde {{start_date}} hasta {{end_date}}",
             "view_entries": "Ver entrada {{count}}",
             "view_entries_plural": "Ver entradas {{count}}",
             "submission_is_closed_for_voting": "La presentación está cerrada y la votación está en curso",
-            "jam_is_now_over": "Esta jam ha finalizado. Duró del {{start_date}} al {{end_date}}"
+            "jam_is_now_over": "Esta jam ha finalizado. Duró del {{start_date}} al {{end_date}}."
         },
         "header": {
             "links": {
