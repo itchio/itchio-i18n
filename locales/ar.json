@@ -1230,7 +1230,7 @@
             "payment_warning_info": "إذا قمت بتعيين حد أدنى للسعر أعلى من 0 ، فلن يتمكن أحد من تنزيل مشروعك. <a> تحرير الحساب </a>",
             "file_size_limit": "حد حجم الملف: {{filesize}}. <a> راسلنا </a> إذا كنت بحاجة إلى مساحة أكبر",
             "access_control": {
-                "disable_downloads_option": "تعطيل عمليات التنزيل والمشتريات الجديدة",
+                "disable_downloads_option": "الالغاء اي اشتراء جديد او اي تحميل جديدة",
                 "unlisted_option": "غير مدرج في البحث والتصفح",
                 "allow_password_option": "أيضًا اسمح بكلمة مرور لعرض الصفحة",
                 "public_access_settings": "إعدادات الوصول العام",
