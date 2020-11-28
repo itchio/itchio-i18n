@@ -687,7 +687,7 @@
             "view_entries": "Ver entrada {{count}}",
             "view_entries_plural": "Ver entradas {{count}}",
             "submission_is_closed_for_voting": "La presentación está cerrada y la votación está en curso",
-            "jam_is_now_over": "El Jam ya se acabó. Corrió desde el {{start_date}} hasta el {{end_date}}."
+            "jam_is_now_over": "Esta jam ha finalizado. Duró del {{start_date}} al {{end_date}}"
         },
         "header": {
             "links": {
