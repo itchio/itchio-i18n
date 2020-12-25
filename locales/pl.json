@@ -67,7 +67,7 @@
         "download_app": "Pobierz aplikację",
         "view_something_random": "Losowy wybór",
         "view_all_games": "Pokaż wszystkie gry",
-        "dont_see_anything_you_like": "Nie możesz znaleźć niczego co ci się podoba?",
+        "dont_see_anything_you_like": "Nie możesz znaleźć niczego, co ci się podoba?",
         "from_the_blog": "Z bloga",
         "random_game": "Losowa gra",
         "get_the_app": "<s>W pełni skorzystaj z itch.io!</s> Instaluj i zarządzaj grami dzięki naszej aplikacji",
@@ -275,7 +275,7 @@
         "welcome_to_itchio": "Witaj na itch.io!",
         "errors": {
             "accept_terms": "Musisz zaakceptować regulamin",
-            "please_enter_a_valid_email_address": "Proszę podać aktualny adres e-mail"
+            "please_enter_a_valid_email_address": "Proszę podać poprawny adres e-mail"
         },
         "you_are_logged_out": "Wylogowano"
     },
