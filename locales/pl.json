@@ -842,7 +842,7 @@
         "purchase": {
             "link_purchase_links": "<1>Utwórz konto</1> lub <2>zaloguj się do itch.io</2>, żeby od razu przypisać ten zakup.",
             "thank_you_for_purchasing": "Dziękujemy za zakup {{product_title}}.",
-            "payment_summary": "Zapłacono za to {{payment_price}} w dniu {{payment_date}}.",
+            "payment_summary": "Zapłaciłeś za to {{payment_price}} w dniu {{payment_date}}.",
             "payment_summary_with_email": "Zapłacono za to {{payment_price}} w dniu {{payment_date}} używając e-maila {{email_address}}.",
             "link_purchase_warning": "Nie strać swojego zakupu!",
             "thank_you_for_purchasing_author": "Dziękujemy za zakup {{product_title}} od {{author}}.",
