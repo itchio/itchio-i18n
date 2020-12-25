@@ -277,7 +277,7 @@
             "accept_terms": "Musisz zaakceptować regulamin",
             "please_enter_a_valid_email_address": "Proszę wpisać aktualny adres e-mail"
         },
-        "you_are_logged_out": "Wylogowano"
+        "you_are_logged_out": "Zostałeś wylogowany"
     },
     "user_register": {
         "create_an_account_on_itchio": "Stwórz konto na itch.io",
