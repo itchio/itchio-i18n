@@ -1347,7 +1347,7 @@
         },
         "download_button": "Pobierz",
         "gift_button": "Prezent",
-        "things_rated_header": "Ocenione rzeczy",
+        "things_rated_header": "Rzeczy, które oceniłeś",
         "rate_game": {
             "rating_saved_header": "Zapisano ocenę",
             "follow_creator": "Rozważ śledzenie twórcy {{project_title}}, aby być na bieżąco z najnowszymi wydaniami.",
