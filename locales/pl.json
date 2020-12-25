@@ -275,9 +275,9 @@
         "welcome_to_itchio": "Witaj na itch.io!",
         "errors": {
             "accept_terms": "Musisz zaakceptować regulamin",
-            "please_enter_a_valid_email_address": "Proszę wpisać aktualny adres e-mail"
+            "please_enter_a_valid_email_address": "Proszę podać aktualny adres e-mail"
         },
-        "you_are_logged_out": "Zostałeś wylogowany"
+        "you_are_logged_out": "Wylogowano"
     },
     "user_register": {
         "create_an_account_on_itchio": "Stwórz konto na itch.io",
@@ -287,7 +287,7 @@
             "log_in": "Zaloguj",
             "link_product": "Twój zakup <1>{{product}}</1> zostanie automatycznie przypisany do konta po rejestracji.",
             "accept_tos": "Akceptuję <1>Regulamin</1>",
-            "digest_signup": "Zapisz mnie na dwumiesięczny newsletter itch.io",
+            "digest_signup": "Zapisz mnie na codwutygodniowy biuletyn itch.io",
             "interest_gamer": "Jestem zainteresowany graniem lub ściąganiem gier na itch.io",
             "interest_developer": "Interesuje mnie dystrybuowanie zawartości na itch.io",
             "account_preferences_info": "Możesz później zmienić swoje odpowiedzi na te pytania, używane są w celu podpowiedzenia itch.io jak ma się tobie prezentować.",
@@ -653,7 +653,7 @@
         "download_this_product_by_purchasing_it_for": "Pobierz ten produkt płacąc za niego {{price}} lub więcej.",
         "your_email_address": "Twój adres e-mail",
         "email_address_description": "Twoje potwierdzenie zakupu zostanie wysłane na",
-        "gift_email_instructions": "Wybierz e-mail, na który zostanie wysłany prezent, po zapłaceniu",
+        "gift_email_instructions": "Po dokonaniu płatności, wybierzesz adres e-mail, na który chcesz wysłać prezent",
         "i_already_paid_for_this": "Już za to zapłaciłem...",
         "included_files": "Dołączone pliki",
         "agree_to_terms": "Przez dokończenie płatności wyrażasz zgodę na <1>Regulamin</1> oraz <2>Politykę prywatności</2> itch.io.",
