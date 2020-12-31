@@ -744,7 +744,8 @@
             "play_game": "Jugar"
         },
         "submissions": {
-            "filter": "Filtro"
+            "filter": "Filtro",
+            "rated": "Calificado"
         },
         "screenshots": {
             "loading_more": "Cargando más capturas..."
