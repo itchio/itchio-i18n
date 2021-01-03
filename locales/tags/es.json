@@ -258,6 +258,11 @@
         "voxel": "Voxel",
         "touch-friendly": "Pantalla Táctil",
         "slasher": "Slasher",
-        "steampunk": "Steampunk"
+        "steampunk": "Steampunk",
+        "spoopy": "Spoopy",
+        "story-rich": "Historia enriquecida",
+        "tilemap": "Herramientas basadas en \"Tilemap\"",
+        "top-down-adventure": "Aventura Cenital",
+        "top-down-shooter": "Shooter Cenital"
     }
 }
