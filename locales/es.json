@@ -745,7 +745,9 @@
         },
         "submissions": {
             "filter": "Filtro",
-            "rated": "Calificado"
+            "rated": "Calificado",
+            "there_are_no_submissions_yet": "Todavía no hay envíos",
+            "there_were_no_submissions": "No hubo ningún envío"
         },
         "screenshots": {
             "loading_more": "Cargando más capturas..."
