@@ -717,7 +717,9 @@
             "results": "Resultados",
             "sort_by_criteria": "Por criterio",
             "no_rankings_available": "Clasificaciones no disponibles",
-            "average_and_median_results": "El número promedio de calificaciones por juego fue <s>{{average_ratings}}</s> y la mediana fue <s>{{median_ratings}}</s>."
+            "average_and_median_results": "El número promedio de calificaciones por juego fue <s>{{average_ratings}}</s> y la mediana fue <s>{{median_ratings}}</s>.",
+            "ratings_given_count": "Se dio <s>{{count}} valoración</s> entre {{vote_start_date}} y {{vote_end_date}}.",
+            "ratings_given_count_plural": "Se dieron <s>{{count}} valoraciones</s> entre {{vote_start_date}} y {{vote_end_date}}.\n"
         },
         "submission": {
             "view_game_page": "Ver página del juego",
