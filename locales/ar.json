@@ -369,7 +369,7 @@
     },
     "game": {
         "empty_page": "لا يبدو أن هناك أي شيء هنا...",
-        "more_information": "مزيد من المعلومات",
+        "more_information": "معلومات اكثر",
         "install_instructions": "تعليمات التثبيت",
         "download_header": "تحميل",
         "unavailable": "{{game_noun}} غير متوفرة",
