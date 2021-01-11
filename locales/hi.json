@@ -1,5 +1,5 @@
 {
-    "itchio": "इत्चइओ",
+    "itchio": "इच.आइओ",
     "layout": {
         "footer": {
             "about": "हमारे बारे में",
@@ -25,7 +25,7 @@
             "dashboard": "डैशबोर्ड",
             "jams": "जेम्स",
             "notifications_count": "{{count}} सूचना",
-            "notifications_count_plural": "{{count}} सूचना",
+            "notifications_count_plural": "{{count}} सूचनाएं",
             "no_notifications": "कोई नई सूचनाएं नहीं है",
             "free_games": "मुफ्त गेम्स",
             "indie_game_store": "इंडी इंडी स्टोरगेम",
@@ -34,7 +34,116 @@
             "sales": "बिक्री",
             "bundles": "बंडलस",
             "game_assets": "साधन",
-            "fun_games": "मजेदार गेमस"
+            "fun_games": "मजेदार गेमस",
+            "feed_unseen_count": "नए",
+            "feed_unseen_count_plural": "नए",
+            "games": "खेल"
+        },
+        "user_menu": {
+            "account_menu_tooltip": "खाता मेन्यू",
+            "library": "मेरा संग्रह",
+            "recommendations": "छाँटे हुए खेल",
+            "host_game_jam": "खेल जैम आयोजित करें",
+            "game_jams": "खेल जैम",
+            "dashboard": "नियंत्रण-पट्ट",
+            "new_project": "नई परियोजना डालें",
+            "sales_bundles": "बिक्री व गट्ठा",
+            "view_profile": "पार्श्वचित्र देखें",
+            "settings": "समायोजन",
+            "account": "खाता",
+            "create": "बनायें",
+            "explore": "ढूँढ़े"
         }
+    },
+    "misc": {
+        "inputs": {
+            "voice": "ध्वनि नियंत्रण",
+            "touchscreen": "टच स्क्रीन",
+            "joystick": "जॉयस्टिक",
+            "gamepad": "गेमपैड (कोई भी)",
+            "mouse": "माउस",
+            "keyboard": "कुंजीपटल"
+        },
+        "multiplayer_features": {
+            "adhoc": "तदर्थ नेटवर्कड् मल्टीप्लेयर",
+            "local": "स्थानीय मल्टीप्लेयर",
+            "server": "सर्वर आधारित नेटवर्कड् मल्टीप्लेयर"
+        },
+        "accessibility_features": {
+            "textless": "काम अक्षरों वाला",
+            "blind": "अंधे के अनुकूल",
+            "one_button": "एक बटन",
+            "tutorial": "परस्पर संवादात्मक शिक्षण",
+            "highcontrast": "अधिक विषमता",
+            "configurable_controls": "बदलने योग्य नियंत्रण",
+            "subtitles": "उपशीर्षक",
+            "colorblind": "रंग अंधा सुविधाजनक"
+        },
+        "classifications": {
+            "book": "किताबें",
+            "comic": "चित्रकथा",
+            "tool": "उपकरण",
+            "other": "विविध",
+            "soundtrack": "संगीत का धावन पथ",
+            "physical_game": "शारीरिक खेल",
+            "game_mod": "खेल की विविधताएं",
+            "assets": "खेल के साधन",
+            "game": "खेलों"
+        }
+    },
+    "index": {
+        "to_follow": {
+            "dismiss_tooltip": "और न सलाहें",
+            "refresh_button": "अधिक के लिए ताजा करें",
+            "empty_results": "अभी हमारे पास आपको कुछ अच्छा दिखने को नहीं है। कृपया बाद में आयें",
+            "created_projects": "बना ली है {{project_list}}"
+        },
+        "meta_description": "इच.आइओ एक आसान तरीका है ऑनलाइन इंडी खेल खोजने, संग्रहीत करने व फैलाने का. चाहें आप बनाने वाले हो और अपने खेल को डालने वाले हों या सिर्फ कुछ नया खेलने को ढूँढ़ने वाले हो इच.आइओ आपके लिए है।",
+        "page_title": "नए इंडी खेल संग्रहीत करें",
+        "html5_games": "एचटीएमएल5 खेल",
+        "intro_cta": "<1>अपना खेल जोड़ें</1> या <2>अक्सर पूछे जाने वाले प्रश्न पढ़ें</2>",
+        "intro": "<s>इच.आइओ</s>एक सरल तरीका है इंडी खेलों को मुफ़्त में खोजने व साझा करने का.",
+        "nav": {
+            "community": "समुदाय",
+            "devlogs": "विकास कि जानकारी",
+            "game_jams": "खेल जैम्स",
+            "bundles": "गट्ठें",
+            "all_games": "सभी खेल"
+        },
+        "browse_content_type": "{{content_type}} खोजें",
+        "view_all_platforms": "सभी मंच देखें",
+        "filtering_platform": "सभी गेम्स को {{platform_name}}के आधार पर छाटें",
+        "latest_featured_games": "नए विशेष रुप से प्रदर्शित खेल",
+        "people_to_follow_description": "यहाँ कुछ खातें जिनका अनुसरण करने में आप जहां तक रुचि लेंगे <a>क्यों अनुसरण करें?</a>",
+        "view_all_on_sale": "सभी देखें जो छूट पर हैं",
+        "game_dev_on_sale": "खेल बनाने के साधन <1>छूट पर</1>",
+        "more_featured_games": "अधिक विशेष रुप से प्रदर्शित खेल",
+        "view_all_games_on_sale": "सभी खेल देखें जो छूट पर हैं",
+        "people_to_follow": "लोग जिनका आप अनुसरण कर सकते हैं",
+        "fresh_games_description": "इच.आइओ के गेम्स के साथ लगातार सूचित किया जा रहा है",
+        "view_all_jams": "सभी जैम्स देखें",
+        "featured_jams": "विशेष रुप से प्रदर्शित जैम",
+        "view_more": "अधिक देखें",
+        "fresh_games": "नए खेल",
+        "recommendations_based_on": "वस्तुएं जिनको आपने खरीदा है, संग्रहीत किया है व मूल्यांकित किया है के आधार पर",
+        "recommended_for_you": "शायद आपको पसंद आयें",
+        "view_all": "सभी देखें",
+        "with_demo": "उदाहरण के साथ",
+        "top_sellers": "प्रमुख विक्रेता",
+        "free_games": "मुफ़्त खेल",
+        "on_sale": "छूट पर",
+        "browse_all_tags": "सभी टैग्स खोजें",
+        "search_games_creators": "खेल व खेल बनाने वालों को ढूँढ़े",
+        "view_all_blog_posts": "सभी सुधार देखें",
+        "from_the_itchio_blog": "इच.आइओ के ब्लॉग से",
+        "random_game": "कोई भी खेल",
+        "from_the_blog": "ब्लॉग से",
+        "dont_see_anything_you_like": "आपको ऐसा कुछ नहीं दिखा जो पसंद आया?",
+        "view_all_games": "सभी खेल देखें",
+        "view_something_random": "कुछ अनियमित देखें",
+        "download_app": "एप्प संग्रहीत करें",
+        "games_by_price": "खेल दाम के हिसाब से",
+        "browse": "खोजें",
+        "popular_tags": "प्रसिद्ध टैग्स"
     }
 }
