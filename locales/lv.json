@@ -1,1 +1,51 @@
-{}
+{
+    "dashboard": {
+        "project_header": {
+            "more": "vairāk"
+        }
+    },
+    "index": {
+        "view_all_games": "aplūkot visas spēles",
+        "download_app": "ielādē aplikāciju",
+        "games_by_price": "spēles pēc cenas"
+    },
+    "layout": {
+        "user_menu": {
+            "account_menu_tooltip": "konta iestatijumi",
+            "library": "mana galerija",
+            "recommendations": "ieteikumi",
+            "new_project": "augšupielādē jaunu projektu",
+            "view_profile": "aplūko profilu",
+            "settings": "iestatijumi",
+            "log_out": "izreģistrējies",
+            "account": "konts",
+            "create": "uzstaisi",
+            "explore": "izspēti"
+        },
+        "header": {
+            "games": "spēles",
+            "fun_games": "jautras spēles",
+            "comics": "komiksi",
+            "free_games": "bezmaksas spēles",
+            "notifications_count_0": "nulle",
+            "notifications_count_1": "viens",
+            "notifications_count_2": "citi",
+            "register": "reģistrējies",
+            "log_in": "pieslēdzies",
+            "search": "meklē",
+            "search_placeholder": "meglē spēles vai radītājus",
+            "upload_game": "augšupielādē spēli",
+            "browse_games": "pārlūkot spēles",
+            "browse": "pārlūkot"
+        },
+        "footer": {
+            "cookies": "cepumi",
+            "directory": "vārdnīca",
+            "terms": "noteikumi",
+            "contact_us": "kontaktējaties ar mums",
+            "blog": "emuārs",
+            "about": "par ko"
+        }
+    },
+    "itchio": "itch.io"
+}
