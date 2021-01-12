@@ -94,7 +94,85 @@
             "game": "खेलों"
         },
         "durations": {
-            "seconds": "कुछ सेकंड्‌स"
+            "seconds": "कुछ सेकंड्‌स",
+            "days": "दिन या ज्यादा",
+            "hours": "कुछ घंटे",
+            "hour": "लगभग एक घंटा",
+            "half_hour": "लगभग आधा घंटा",
+            "minutes": "कुछ मिनट्स"
+        },
+        "loading_more_ellip": "अधिक लोड हो रहे हैं…",
+        "more_ellip": "अधिक…",
+        "errors": {
+            "server_error": "सर्वर की प्रतिक्रिया पाना असफल रहा, बाद में प्रयास करें"
+        },
+        "release_statuses": {
+            "prototype": "मूल",
+            "canceled": "रद्द करना",
+            "on_hold": "रोके हुए है",
+            "in_development": "विकास के अंतर्गत",
+            "released": "प्रकाशित"
+        },
+        "dismiss": "खारिज करें",
+        "view_more": "और देखें",
+        "project_visibility": {
+            "public": "सार्वजनिक",
+            "draft": "प्रारूप",
+            "published": "प्रकाशित",
+            "restricted": "वर्जित"
+        },
+        "countdown": {
+            "seconds": "सेकंडों",
+            "minutes": "मिनटों",
+            "hours": "घंटों",
+            "days": "दिनों",
+            "months": "महीनों",
+            "years": "वर्षों"
+        },
+        "lightboxes": {
+            "close": "बंद करें"
+        },
+        "collection_button": {
+            "add_to_collection": "संग्रह में जोड़े"
+        },
+        "pager": {
+            "first_page": "पहला पृष्ठ",
+            "previous_page": "पिछला पृष्ठ",
+            "current_page_of_total": "{{total_pages}}पृष्ठों में से {{current_page}} पृष्ठ",
+            "next": "अगला",
+            "prev": "पिछला",
+            "next_page": "अगला पृष्ठ"
+        },
+        "filter_price": {
+            "paid": "रुपयों से",
+            "on_sale": "छूट पर",
+            "free": "मुफ़्त"
+        },
+        "platforms": {
+            "web": "वेब"
+        },
+        "filter_when": {
+            "last_30_days": "अंतिम ३० दिन",
+            "last_7_days": "अंतिम ७ दिन",
+            "last_day": "अंतिम दिन"
+        },
+        "follow_button": {
+            "unfollow": "अनुसरण छोड़े",
+            "unfollow_username": "{{username}} का अनुसरण करना छोड़े",
+            "following": "अनुसरण कर रहे हैं",
+            "following_username": "{{username}} का अनुसरण कर रहे हैं",
+            "follow": "अनुसरण",
+            "follow_username": "{{username}} का अनुसरण करें"
+        },
+        "page_number": "प्रष्ठ {{page_number}}",
+        "forms": {
+            "form_errors": "कृपया आपके द्वारा दी गई जानकारी को जांच ले",
+            "search": "खोजें",
+            "optional": "वैकल्पिक",
+            "submit": "प्रस्तुत",
+            "email_address": "ई-मेल एड्रेस",
+            "save": "सुरक्षित",
+            "required": "आवश्यक"
         }
     },
     "index": {
@@ -151,5 +229,12 @@
         "games_by_price": "खेल दाम के हिसाब से",
         "browse": "खोजें",
         "popular_tags": "प्रसिद्ध टैग्स"
+    },
+    "blog": {
+        "tag_filter": "{{tag}} पर छाना जा रहा है. <a>टैग मिटाए</a>",
+        "empty_message": "यहां कोई पोस्ट नहीं दिखाई देती है",
+        "digest": "संग्रह",
+        "updates": "सुधार",
+        "all_posts": "सभी पोस्ट्स"
     }
 }
