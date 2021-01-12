@@ -62,7 +62,10 @@
             "joystick": "जॉयस्टिक",
             "gamepad": "गेमपैड (कोई भी)",
             "mouse": "माउस",
-            "keyboard": "कुंजीपटल"
+            "keyboard": "कुंजीपटल",
+            "midi_controller": "एमआईडीआई नियंत्रक",
+            "dance_pad": "नृत्य तकती",
+            "phone": "स्मार्टफोन"
         },
         "multiplayer_features": {
             "adhoc": "तदर्थ नेटवर्कड् मल्टीप्लेयर",
@@ -89,6 +92,9 @@
             "game_mod": "खेल की विविधताएं",
             "assets": "खेल के साधन",
             "game": "खेलों"
+        },
+        "durations": {
+            "seconds": "कुछ सेकंड्‌स"
         }
     },
     "index": {
