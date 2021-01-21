@@ -841,10 +841,14 @@
         "alternate_download": {
             "enable_alternate_download_mode": "Alternatif indirme modunu etkinleştir",
             "title": "Alternatif İndirme Modu",
-            "region_message": "Bazı bölgelerin itch.io'nun CDN'ini(içerik dağıtım ağı) engellediği biliniyor. Eğer indirmeleriniz başlamıyorsa, alternatif indirme modunu etkinleştirip tekrar deneyin."
+            "region_message": "Bazı bölgelerin itch.io'nun CDN'ini (içerik dağıtım ağı) engellediği biliniyor. Eğer indirmeleriniz başlamıyorsa, alternatif indirme modunu etkinleştirip tekrar deneyin."
         },
         "trouble_downloading_link": "İndirmeler başlamıyor mu?",
         "or_share_on": "ya da şunun üzerinden paylaşın",
-        "recommendations_title": "Bunlar da ilgini çekebilir"
+        "recommendations_title": "Bunlar da ilgini çekebilir",
+        "check_your_email_for_the_confirmation_link": "Onay bağlantısı için e-postanızı kontrol edin.",
+        "app_banner": {
+            "get_the_app": "Uygulamayı edinin"
+        }
     }
 }
