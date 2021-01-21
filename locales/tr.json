@@ -860,7 +860,8 @@
             "view_rest_in_bundle": "Geri kalanını pakette görüntüle",
             "discussion_board": "Tartışma panosu ",
             "return_to_project": "Projeye geri dön",
-            "preorder_title": "{{project_title}} için ön sipariş"
+            "preorder_title": "{{project_title}} için ön sipariş",
+            "view_all_my_purchases": "Tüm satın alımlarımı görüntüle"
         },
         "start_project_button": "Başla"
     }
