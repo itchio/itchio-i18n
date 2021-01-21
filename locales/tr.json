@@ -871,7 +871,25 @@
         "purchase": {
             "access_latest_files_from_this_page": "Bu sayfadan her zaman en güncel dosyalara erişebilirsiniz.",
             "thank_you_for_donating": "{{product_title}}'a bağış yaptığınız için teşekkürler.",
-            "thank_you_for_purchasing": "{{product_title}}'ı satın aldığınız için teşekkürler."
-        }
+            "thank_you_for_purchasing": "{{product_title}}'ı satın aldığınız için teşekkürler.",
+            "link_purchase_warning": "Satın alımını kaybetme!",
+            "link_purchase_links": "Bu satın alımı anında bağlamak için <1>Hesap oluşturun</1> veya <2>itch.io'ya giriş yapın</2>.",
+            "save_this_purchase_to_your_account": "Bu satın alımı hesabınıza kaydedin",
+            "youve_been_gifted": "Bir hediyeniz var: {{product_title}}."
+        },
+        "email_capture": {
+            "provide_email_instructions": "Satın alımınızı ilişkilendirmek için e-posta adresinizi girin. Bu şekilde bu sayfayı kaybetseniz bile ürünü alabilirsiniz.",
+            "dont_lose_your_purchase": "Satın alımını kaybetme!"
+        },
+        "access_it": "Eriş",
+        "access_comes_with_key": "Erişiminiz bir tane {{key_type}} kodu ile birlikte geliyor!",
+        "payment_comes_with_key": "Ödemeniz bir tane {{key_type}} kodu ile geliyor!",
+        "claim_external_key_instructions": "Almak için tuşa tıklayın.",
+        "claim_external_key": "{{key_type}} kodunuzu edinin",
+        "get_external_key": "{{key_type}} kodunuzu alın",
+        "access_existing_copy": "Başka bir kopya daha edinemezsiniz, fakat şu anda sahip olduğunuz kopyaya erişebilirsiniz.",
+        "already_own": "Bu ürüne zaten sahipmişsiniz gibi görünüyor",
+        "must_link_account_description": "İndirmeden önce bu sayfayı bir itch.io hesabına bağlamanız gerekmektedir. Hesap açmak ücretsizdir ve topladığınız tüm oyunların kaydını tutar.",
+        "link_account_description": "Bu indirme sayfasını kaybetmemek için itch.io hesabınıza bağlayabilirsiniz. Sahip olduğunuz diğer şeyler arasında görüntülenecektir."
     }
 }
