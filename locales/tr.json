@@ -864,6 +864,7 @@
             "view_all_my_purchases": "Tüm satın alımlarımı görüntüle"
         },
         "start_project_button": "Başla",
-        "linked_user_message": "Bu sayfa {{username}} hesabına bağlı."
+        "linked_user_message": "Bu sayfa {{username}} hesabına bağlı.",
+        "link_my_account": "Hesabımı bağla"
     }
 }
