@@ -855,7 +855,7 @@
         "version_name": "Sürüm {{version_name}}",
         "play_in_your_browser": "Tarayıcınızda oynayın",
         "header": {
-            "more_menu": "Daha fazla ",
+            "more_menu": "Daha fazla",
             "invoice": "Fatura"
         },
         "start_project_button": "Başla"
