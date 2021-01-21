@@ -842,6 +842,7 @@
             "enable_alternate_download_mode": "Alternatif indirme modunu etkinleştir."
         },
         "trouble_downloading_link": "İndirmeler başlamıyor mu?",
-        "or_share_on": "ya da şunun üzerinden paylaşın"
+        "or_share_on": "ya da şunun üzerinden paylaşın",
+        "recommendations_title": "Bunlar da ilgini çekebilir"
     }
 }
