@@ -848,7 +848,9 @@
         "recommendations_title": "Bunlar da ilgini çekebilir",
         "check_your_email_for_the_confirmation_link": "Onay bağlantısı için e-postanızı kontrol edin.",
         "app_banner": {
-            "get_the_app": "Uygulamayı edinin"
-        }
+            "get_the_app": "Uygulamayı edinin",
+            "app_description": "itch.io masaüstü uygulaması ile oyunlarınızı indirin ve düzenleyin."
+        },
+        "preorder_instructions": "Bu proje henüz yayınlanmamış dosyalar içermektedir. İndirebilmek için yapımcı bu dosyaları yayınladığı zaman tekrar gelin."
     }
 }
