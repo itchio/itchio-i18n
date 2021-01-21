@@ -866,7 +866,12 @@
         "start_project_button": "Başla",
         "linked_user_message": "Bu sayfa {{username}} hesabına bağlı.",
         "link_my_account": "Hesabımı bağla",
-        "link_account_header": "Bu indirme sayfasını, itch.io hesabınıza bağlayın.",
-        "log_in_to_link": "Bağlamak için giriş yapın"
+        "link_account_header": "Bu indirme sayfasını itch.io hesabınıza bağlayın",
+        "log_in_to_link": "Bağlamak için giriş yapın",
+        "purchase": {
+            "access_latest_files_from_this_page": "Bu sayfadan her zaman en güncel dosyalara erişebilirsiniz.",
+            "thank_you_for_donating": "{{product_title}}'a bağış yaptığınız için teşekkürler.",
+            "thank_you_for_purchasing": "{{product_title}}'ı satın aldığınız için teşekkürler."
+        }
     }
 }
