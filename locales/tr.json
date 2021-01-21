@@ -853,6 +853,10 @@
         },
         "preorder_instructions": "Bu proje henüz yayınlanmamış dosyalar içermektedir. İndirebilmek için yapımcı bu dosyaları yayınladığı zaman tekrar gelin.",
         "version_name": "Sürüm {{version_name}}",
-        "play_in_your_browser": "Tarayıcınızda oynayın"
+        "play_in_your_browser": "Tarayıcınızda oynayın",
+        "header": {
+            "more_menu": "Daha fazla "
+        },
+        "start_project_button": "Başla"
     }
 }
