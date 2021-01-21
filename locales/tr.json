@@ -852,6 +852,7 @@
             "app_description": "itch.io masaüstü uygulaması ile oyunlarınızı indirin ve düzenleyin"
         },
         "preorder_instructions": "Bu proje henüz yayınlanmamış dosyalar içermektedir. İndirebilmek için yapımcı bu dosyaları yayınladığı zaman tekrar gelin.",
-        "version_name": "Sürüm {{version_name}}"
+        "version_name": "Sürüm {{version_name}}",
+        "play_in_your_browser": "Tarayıcınızda oynayın"
     }
 }
