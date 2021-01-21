@@ -839,7 +839,7 @@
     "game_download": {
         "social_share_message_download": "Az önce {{username}} tarafından {{title}} indirdim",
         "alternate_download": {
-            "enable_alternate_download_mode": "Alternatif indirme modunu etkinleştir."
+            "enable_alternate_download_mode": "Alternatif indirme modunu etkinleştir"
         },
         "trouble_downloading_link": "İndirmeler başlamıyor mu?",
         "or_share_on": "ya da şunun üzerinden paylaşın",
