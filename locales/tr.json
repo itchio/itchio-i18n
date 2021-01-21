@@ -835,5 +835,8 @@
         "new_card": "Yeni kart",
         "buying_as": "olarak satın alıyorum",
         "enter_your_password_to_use_your_card": "Kartınızı kullanmak için parolanızı girin."
+    },
+    "game_download": {
+        "social_share_message_download": "Az önce {{username}} tarafından {{title}} indirdim."
     }
 }
