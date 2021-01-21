@@ -840,7 +840,8 @@
         "social_share_message_download": "Az önce {{username}} tarafından {{title}} indirdim",
         "alternate_download": {
             "enable_alternate_download_mode": "Alternatif indirme modunu etkinleştir",
-            "title": "Alternatif İndirme Modu"
+            "title": "Alternatif İndirme Modu",
+            "region_message": "Bazı bölgelerin itch.io'nun CDN'ini(içerik dağıtım ağı) engellediği biliniyor. Eğer indirmeleriniz başlamıyorsa, alternatif indirme modunu etkinleştirip tekrar deneyin."
         },
         "trouble_downloading_link": "İndirmeler başlamıyor mu?",
         "or_share_on": "ya da şunun üzerinden paylaşın",
