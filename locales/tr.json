@@ -865,6 +865,8 @@
         },
         "start_project_button": "Başla",
         "linked_user_message": "Bu sayfa {{username}} hesabına bağlı.",
-        "link_my_account": "Hesabımı bağla"
+        "link_my_account": "Hesabımı bağla",
+        "link_account_header": "Bu indirme sayfasını, itch.io hesabınıza bağlayın.",
+        "log_in_to_link": "Bağlamak için giriş yapın"
     }
 }
