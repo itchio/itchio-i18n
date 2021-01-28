@@ -1,0 +1,72 @@
+{
+    "layout": {
+        "header": {
+            "devlogs": "Utvikler",
+            "notifications_count": "{{count}} varsling",
+            "notifications_count_plural": "{{count}} varsling",
+            "feed_unseen_count": "{{count}} Antall",
+            "feed_unseen_count_plural": "{{count}} Antall",
+            "community": "Samfunn",
+            "comics": "Tegneserie",
+            "bundles": "Pakker",
+            "game_assets": "Gjenstander",
+            "games": "Spill",
+            "browse": "Bla gjennom",
+            "browse_games": "Bla gjennom spill",
+            "game_jams": "Spill",
+            "upload_game": "Last opp",
+            "search_placeholder": "Søk etter spill eller skapere",
+            "search": "Søk",
+            "log_in": "Logg inn",
+            "register": "Registrer",
+            "dashboard": "Kontrollpanel",
+            "jams": "Vaier er fastklemt",
+            "no_notifications": "Ingen nye varslinger",
+            "free_games": "GRATISSPILL",
+            "indie_game_store": "Indie spillbutikk",
+            "game_development": "Utvikling",
+            "sales": "Salg",
+            "fun_games": "Spill",
+            "feed": "Feed"
+        },
+        "footer": {
+            "about": "Om",
+            "faq": "FAQ",
+            "blog": "Blogg",
+            "contact_us": "Kontakt oss",
+            "terms": "Vilkår",
+            "directory": "Mappe",
+            "privacy": "Personvern",
+            "cookies": "Informasjonskapsler"
+        },
+        "user_menu": {
+            "explore": "Utforsk",
+            "create": "Ny",
+            "account": "Account",
+            "log_out": "Logg ut",
+            "settings": "Innstillinger",
+            "view_profile": "Vis profil",
+            "host_game_jam": "Vert spilljam",
+            "sales_bundles": "Salg og bunter",
+            "new_project": "Last opp nytt prosjekt",
+            "dashboard": "Kontrollpanel",
+            "game_jams": "Spill",
+            "recommendations": "Anbefalinger",
+            "library": "bibliotek",
+            "feed": "Feeden min",
+            "account_menu_tooltip": "Min konto"
+        }
+    },
+    "developers": {
+        "track_your_game_description": "Følg med på hvordan folk ser på spillet ditt med detaljert analyse som konverterer visninger, nedlastinger og kjøp."
+    },
+    "itchio": "itch.io",
+    "index": {
+        "popular_tags": "Populære stikkord",
+        "browse": "Bla gjennom",
+        "games_by_price": "Spill etter pris",
+        "download_app": "last ned app",
+        "view_something_random": "Se på noe tilfeldig",
+        "view_all_games": "SE ALLE SPILL"
+    }
+}
