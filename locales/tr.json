@@ -97,7 +97,7 @@
             "bundles": "Paketler",
             "game_jams": "Oyun Maratonları",
             "community": "Topluluk",
-            "devlogs": "Geliştirici günlükleri"
+            "devlogs": "Geliştirici Günlükleri"
         },
         "intro": "<s>itch.io</s>, çevrimiçi bağımsız oyunlar bulmanın ve paylaşmanın kolay bir yoludur.",
         "html5_games": "HTML5 oyunları",
@@ -846,8 +846,8 @@
         "donating_price_to": "Şuna {{price}} bağışlanıyor:",
         "paying_price_vat_for": "Şunun için KDV dahil {{price}} ödeniyor:",
         "paying_price_for": "Şunun için {{price}} ödeniyor:",
-        "save_credit_card_for_future_purchases": "Kredi kartınızı gelecekteki satın alımlarınız için kaydedin.",
-        "card_ending_last4": "{{Last4}} içinde bitiyor",
+        "save_credit_card_for_future_purchases": "Kredi kartınızı gelecekteki satın alımlarınız için kaydedin",
+        "card_ending_last4": "{{last4}} içinde bitiyor",
         "steam_key": "Steam anahtarı",
         "name_as_it_appears_on_card": "Kartın üzerinde göründüğü gibi",
         "you_will_receive_files": "Şunu edineceksiniz:",
@@ -900,7 +900,7 @@
             "thank_you_for_purchasing_author": "{{author}} tarafından yapılan {{product_title}}'ı satın aldığınız için teşekkürler.",
             "linked_user_message": "Bu satın alım {{username}} hesabıyla bağlantılandı.",
             "percent_off": "%{{percent}} indirimde",
-            "payment_summary_with_email": "{{email_address}} postasıyla {{payment_date}} tarihinde {{payment_date}} ödediniz.",
+            "payment_summary_with_email": "{{email_address}} e-postasıyla {{payment_date}} tarihinde {{payment_price}} ödediniz.",
             "payment_summary": "{{payment_date}} tarihinde {{payment_price}} ödediniz.",
             "unique_url_for_your_payment": "Bu sayfanın ödemeniz için farklı bir URL'si var."
         },
@@ -918,7 +918,7 @@
         "already_own": "Bu ürüne zaten sahipmişsiniz gibi görünüyor",
         "must_link_account_description": "İndirmeden önce bu sayfayı bir itch.io hesabına bağlamanız gerekmektedir. Hesap açmak ücretsizdir ve topladığınız tüm oyunların kaydını tutar.",
         "link_account_description": "Bu indirme sayfasını kaybetmemek için itch.io hesabınıza bağlayabilirsiniz. Sahip olduğunuz diğer şeyler arasında görüntülenecektir.",
-        "check_out_more_from_jam_title": "{{jam_title}}'dan daha çok şey inceleyin.",
+        "check_out_more_from_jam_title": "{{jam_title}} 'dan daha çok şey inceleyin",
         "share_and_follow": "Paylaş & takip et",
         "install_instructions_intro": "{{username}} tarafından sağlanan indirme ve kurulum yönergeleri:"
     },
@@ -986,7 +986,7 @@
             "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
             "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
             "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
-            "ranked_with_vote_count_plural": "{{count}} oyla {{ordinal_rank}} sırada",
+            "ranked_with_vote_count_plural": "{{count}} oy(lar)la {{ordinal_rank}} sırada",
             "results_header": "Sonuçlar",
             "ranked_from_count": "<s> {{count}} derecelendirmeye </s> göre sıralanmıştır.",
             "ranked_from_count_plural": "<s> {{count}} derecelendirme(ler)ye </s> göre sıralanmıştır.",
@@ -1015,7 +1015,7 @@
             "submissions": {
                 "ranked_score": "Puan: {{score}}",
                 "ranked_criteria_rating_count": "{{criteria_name}} içinde {{count}} derecelendirmesine sahip {{ordinal_rank}}. Sırada",
-                "ranked_criteria_rating_count_plural": "{{criteria_name}} içinde {{count}} derecelendirmesine sahip {{ordinal_rank}}. Sırada",
+                "ranked_criteria_rating_count_plural": "{{criteria_name}} içinde {{count}} derecelendirme(ler)sine sahip {{ordinal_rank}}. Sırada",
                 "ranked_criteria_vote_count": "{{count}} oyla {{criteria_name}} içinde {{ordinal_rank}} sırada",
                 "ranked_criteria_vote_count_plural": "{{count}} oy(lar)la {{criteria_name}} içinde {{ordinal_rank}} sırada",
                 "ranked": "{{ordinal_rank}}. Sırada",
@@ -1028,11 +1028,11 @@
                 "by_author": "{{author}} tarafından"
             },
             "ratings_given_submissions_count": "<s> {{count}} derecelendirme </s>, {{vote_start_date}} ile {{vote_end_date}} tarihleri arasında <s> {{submission_count}} girdiye </s> (% {{percent}}) verildi.",
-            "ratings_given_submissions_count_plural": "<s> {{count}} derecelendirme(ler) </s>, {{vote_start_date}} ile {{vot_end_date}} tarihleri arasında <s> {{submission_count}} girdiye </s> (% {{percent}}) verildi.",
+            "ratings_given_submissions_count_plural": "<s> {{count}} derecelendirme(ler) </s>, {{vote_start_date}} ile {{vote_end_date}} tarihleri arasında <s> {{submission_count}} girdiye </s> (% {{percent}}) verildi.",
             "ratings_given_count": "<s> {{count}} derecelendirme </s>, {{vote_start_date}} ile {{vote_end_date}} arasında verildi.",
             "ratings_given_count_plural": "<s> {{count}} derecelendirme(ler) </s>, {{vote_start_date}} ile {{vote_end_date}} arasında verildi.",
             "votes_cast_count": "<s> {{count}} </s> oy {{vote_start_date}} ile {{vote_end_date}} arasında verildi.",
-            "votes_cast_count_plural": "<s>{{count}}</s> oy(lar) {{vote_start_date}} ile {{vote_start_date}} arasında verildi.",
+            "votes_cast_count_plural": "<s> {{count}} </s> oy(lar) {{vote_start_date}} ile {{vote_end_date}} arasında verildi.",
             "submissions_summary": "<s> {{start_date}} ile {{end_date}} arasında {{count}} mesaj </s> gönderildi.",
             "submissions_summary_plural": "<s> {{start_date}} ile {{end_date}} arasında {{count}} mesaj(lar) </s> gönderildi.",
             "results": "Sonuçlar",
@@ -1095,7 +1095,7 @@
     "feed": {
         "event": {
             "collection_added_count": "{{count}} öğe eklendi.",
-            "collection_added_count_plural": "{{count}} öğe eklendi.",
+            "collection_added_count_plural": "{{count}} öğe(ler) eklendi.",
             "collection_summary": "{{count}} öğeli bir koleksiyon.",
             "collection_summary_plural": "{{count}} öğeli bir koleksiyon(lar)."
         },
@@ -1132,7 +1132,21 @@
         "count_joined": "{{count}} katıldı",
         "browse_in_progress": "Devam etmekte",
         "browse_top_past_jams": "Geçmişteki En Popüler Maratonlar",
-        "brose_featured_jams": "Önerilen Maratonlar"
+        "brose_featured_jams": "Önerilen Maratonlar",
+        "jams_created_header": "Oluşturduğunuz jam'ler",
+        "jams_joined_header": "Katıldığınız Jam'ler",
+        "page_title": "İtch.io'da Oyun Maratonları",
+        "page_summary": "itch.io, çevrimiçi oyun reçellerini barındırmak ve bunlara katılmak için bir yerdir. Herkes anında bir jam oluşturabilir ve barındırabilir.",
+        "games_created": "itch.io'da barındırılan jam'ler için <s> {{count}} oyun </s> oluşturuldu.",
+        "games_created_plural": "itch.io'da barındırılan jam'ler için <s> {{count}} oyun(lar) </s> oluşturuldu.",
+        "host_a_jam_button": "Jam yönet",
+        "manage_submissions_link": "Gönderimlerinizi ve jam'lerinizi yönetin",
+        "browse_jams_header": "Jam'lere Göz At",
+        "jam_calendar_header": "Jam Takvimi",
+        "host_your_own_jam_button": "Kendi Jam'inizi Yönetin",
+        "host_or_explore_links": "<1> Kendi Jam'inizi Düzenleyin </1> veya <2> Tüm Jam'leri Keşfedin </2>",
+        "dont_see_something_you_like_header": "Hoşunuza giden bir şey görmüyor musunuz?",
+        "browse_upcoming_this_month": "Bu Ay Gelecek"
     },
     "dashboard": {
         "header": {
@@ -1147,7 +1161,8 @@
         "project_list": {
             "no_image": "Resim yok",
             "analytics": "Analiz",
-            "edit": "Düzenle"
+            "edit": "Düzenle",
+            "widget": "Araç"
         },
         "create_new_project_button": "Yeni bir proje oluştur",
         "page_title": "Yaratıcı Kontrol Paneli",
@@ -1288,12 +1303,37 @@
             "devlog": "Geliştirici Günlüğü",
             "edit_project": "Projeyi düzenleyin",
             "distribute": "Dağıtım",
-            "interact": "Etkileşim"
+            "interact": "Etkileşim",
+            "metadata": "Meta veriler",
+            "analytics": "Analitik",
+            "edit_comments": "Yorumları düzenle",
+            "discussion_board": "Tartışma panosu",
+            "rewards": "Ödüller",
+            "admins": "Yöneticiler",
+            "more": "Daha"
         }
     },
     "nags": {
         "unverified_email": {
             "title": "E-posta adresiniz onaylanmadı"
         }
+    },
+    "add_to_collection": {
+        "dialog_title": "Koleksiyona {{project_title}} ekleyin",
+        "add_reason": "Daha sonra kaydetmek üzere bu projeyi bir koleksiyona ekleyin.",
+        "already_in_collections": "Bu proje zaten şu koleksiyonlarda:",
+        "private_collection_title": "[Gizli] {{title}}",
+        "count_items": "{{count}} öğe",
+        "count_items_plural": "{{count}} öğe(ler)",
+        "add_to_existing": "Mevcut koleksiyona ekle",
+        "add_to_new": "Başlıklı yeni koleksiyona ekle",
+        "default_title": "{{username}} Koleksiyonu",
+        "add_button": "Koleksiyona ekle",
+        "manage_collections_link": "Koleksiyonları yönetin",
+        "private_collection_option": "Özel koleksiyon - İçeriği yalnızca siz görebilirsiniz",
+        "about_this_project_label": "Bu proje hakkında"
+    },
+    "game_grid": {
+        "in_bundle": "Pakette"
     }
 }
