@@ -1167,5 +1167,10 @@
         "not_a_developer_escape": "Hayır, beni oyun akışına götür",
         "intro_text": "Bir geliştirici misiniz? İlk oyununuzu yükleyin",
         "analytics_summary_header": "Özet"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "E-posta adresiniz onaylanmadı"
+        }
     }
 }
