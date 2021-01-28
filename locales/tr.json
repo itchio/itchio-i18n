@@ -405,7 +405,8 @@
         "filter_group_multiplayer": "Çok oyunculu oynama türleri",
         "filter_group_accessibility_features": "Erişilebilirlik desteği",
         "filter_group_session_length": "Ortalama oyun süresi",
-        "filter_group_when": "Zaman"
+        "filter_group_when": "Zaman",
+        "filter_group_input_methods": "Giriş yöntemleri"
     },
     "browse_tags": {
         "page_title": "Popüeler etiketler",
@@ -842,7 +843,9 @@
         "donating_price_vat_to": "Şuna KDV dahil {{price}} bağışlanıyor:",
         "donating_price_to": "Şuna {{price}} bağışlanıyor:",
         "paying_price_vat_for": "Şunun için KDV dahil {{price}} ödeniyor:",
-        "paying_price_for": "Şunun için {{price}} ödeniyor:"
+        "paying_price_for": "Şunun için {{price}} ödeniyor:",
+        "save_credit_card_for_future_purchases": "Kredi kartınızı gelecekteki satın alımlarınız için kaydedin.",
+        "card_ending_last4": "{{Last4}} içinde bitiyor"
     },
     "game_download": {
         "social_share_message_download": "Az önce {{username}} tarafından {{title}} indirdim",
@@ -886,7 +889,12 @@
             "youve_been_gifted": "Bir hediyeniz var: {{product_title}}.",
             "receipt_support_information": "Ayrıca bu sayfaya bağlantı içeren bir e-posta almış olmalısınız. Bu sayfanın URL'sini kaybederseniz, <a> destek sayfasından </a> size e-posta ile gönderilmesini isteyebilirsiniz.",
             "thank_you_for_donating_author": "{{author}} tarafından yapılan {{product_title}}'a bağış yaptığınız için teşekkürler.",
-            "thank_you_for_purchasing_author": "{{author}} tarafından yapılan {{product_title}}'ı satın aldığınız için teşekkürler."
+            "thank_you_for_purchasing_author": "{{author}} tarafından yapılan {{product_title}}'ı satın aldığınız için teşekkürler.",
+            "linked_user_message": "Bu satın alım {{username}} hesabıyla bağlantılandı.",
+            "percent_off": "%{{percent}} indirimde",
+            "payment_summary_with_email": "{{email_address}} postasıyla {{payment_date}} tarihinde {{payment_date}} ödediniz.",
+            "payment_summary": "{{payment_date}} tarihinde {{payment_price}} ödediniz.",
+            "unique_url_for_your_payment": "Bu sayfanın ödemeniz için farklı bir URL'si var."
         },
         "email_capture": {
             "provide_email_instructions": "Satın alımınızı ilişkilendirmek için e-posta adresinizi girin. Bu şekilde bu sayfayı kaybetseniz bile ürünü alabilirsiniz.",
@@ -911,15 +919,25 @@
             "joined_instructions": "Projeni eklemek için jam başladıktan sonra bu sayfaya gel.",
             "youve_joined": "Bu jame katıldınız.",
             "or_leave_jam": "ya da <a>jamden ayrıl</a>",
-            "join_jam": "Jame katıl"
+            "join_jam": "Jame katıl",
+            "view_results": "Sonuçları göster",
+            "submissions_open_from": "Teklifler {{start_date}} tarihinden {{end_date}} tarihine kadar açık",
+            "submit_button": "Projenizi gönderin"
         },
         "stats": {
             "entries": "Mesaj",
-            "joined": "Katldı"
+            "joined": "Katldı",
+            "ratings": "Değerlendirmeler"
         },
         "header": {
             "links": {
-                "edit_jam": "Jami düzenle"
+                "edit_jam": "Jami düzenle",
+                "submission_feed": "Teklif faaliyetleri",
+                "screenshots": "Ekran Görüntüleri",
+                "overview": "Genel Bakış",
+                "submissions": "Teklifler",
+                "results": "Sonuçlar",
+                "community": "Topluluk"
             },
             "hosted_by": "{{hosts}} tarafından yönetiliyor"
         }
