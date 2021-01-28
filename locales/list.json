@@ -1,1 +1,7 @@
-{}
+{
+    "layout": {
+        "header": {
+            "devlogs": "Developer Logs"
+        }
+    }
+}
