@@ -850,7 +850,9 @@
         "card_ending_last4": "{{Last4}} içinde bitiyor",
         "steam_key": "Steam anahtarı",
         "name_as_it_appears_on_card": "Kartın üzerinde göründüğü gibi",
-        "you_will_receive_files": "Şunu edineceksiniz:"
+        "you_will_receive_files": "Şunu edineceksiniz:",
+        "pay_price_button": "{{price}} öde",
+        "manage_cards_link": "Kartlarınızı <a>Hesap Ayarları</a> kısmından düzenleyebilirsiniz"
     },
     "game_download": {
         "social_share_message_download": "Az önce {{username}} tarafından {{title}} indirdim",
