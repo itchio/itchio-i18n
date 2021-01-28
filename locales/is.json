@@ -35,7 +35,7 @@
             "bundles": "Knippi",
             "notifications_count": "{{count}} Tilkynning",
             "notifications_count_plural": "{{count}} Tilkynningar",
-            "devlogs": "þróunarlogar"
+            "devlogs": "Forritaraskrár"
         },
         "user_menu": {
             "explore": "Skoða",
