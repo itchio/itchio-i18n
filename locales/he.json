@@ -40,7 +40,8 @@
             "game_assets": "חומרי גלם",
             "feed": "פיד",
             "game_jams": "Game Jams",
-            "jams": "Jams"
+            "jams": "Jams",
+            "devlogs": "יומני מפתח"
         },
         "user_menu": {
             "create": "צור",
