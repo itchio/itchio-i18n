@@ -321,7 +321,8 @@
             "collection": "Вам потрібен акаунт itch.io перш ніж додавати до колекції.",
             "jam_submit": "Вам потрібен акаунт itch.io для участі в джемах.",
             "claim_object": "Просимо ввійти або створити акаунт для отримання {{noun}}.",
-            "recent_purchases": "Ввійдіть в акаунт, щоб приєднати ваші останні придбання."
+            "recent_purchases": "Ввійдіть в акаунт, щоб приєднати ваші останні придбання.",
+            "claim_object_title": "Будь ласка, увійдіть або створіть обліковий запис, щоб заявити {{title}}."
         },
         "no_account_prompt": "Відсутній акаунт? <1>Створіть його</1>",
         "page_title": "Увійти",
@@ -329,7 +330,8 @@
         "welcome_back": "З поверненням!",
         "welcome_to_itchio": "Вітаємо на itch.io!",
         "errors": {
-            "accept_terms": "Ви маєте прийняти Умови обслуговування"
+            "accept_terms": "Ви маєте прийняти Умови обслуговування",
+            "please_enter_a_valid_email_address": "Будь ласка, введіть дійсну адресу електронної пошти"
         }
     },
     "user_register": {
@@ -552,7 +554,22 @@
         },
         "community_posts_count_0": "{{count}} пост",
         "community_posts_count_1": "{{count}} пости",
-        "community_posts_count_2": "{{count}} постів"
+        "community_posts_count_2": "{{count}} постів",
+        "password_required": {
+            "header": "Для перегляду цієї сторінки потрібен пароль"
+        },
+        "report_form": {
+            "form_description": "Заповніть цю форму, якщо вам потрібно зв’язатись із командою модератора itch.io щодо вмісту цієї сторінки. За необхідності ваш звіт може бути наданий творцю сторінки.",
+            "support_from_creator": "Виникають проблеми, чи потрібна вам підтримка творця?",
+            "support_page_link": "Перейдіть на офіційну сторінку підтримки",
+            "email_creator_link": "Написати на пошту розробника",
+            "submit_report_button": "Подати звіт",
+            "title": "Поскаржитися на сторінку \"{{page_title}}\"",
+            "report_received_header": "Звіт отримано",
+            "description_label": "Опис",
+            "reason_label": "Причина",
+            "reason_other": "Інший"
+        }
     },
     "community": {
         "topic": {
@@ -581,7 +598,9 @@
             "first_page": "Перша сторінка",
             "last_page": "Остання сторінка",
             "this_topic_is_locked": "Ця тема заблокована",
-            "this_topic_was_locked_by_username": "Ця тема була заблокована {{username}}"
+            "this_topic_was_locked_by_username": "Ця тема була заблокована {{username}}",
+            "topic_is_autoarchived": "Цю тему було заархівовано автоматично і її більше не можна розміщувати, оскільки протягом певного часу не було жодних публікацій.",
+            "create_related_topic": "Якщо у вас є щось пов’язане з публікацією, розгляньте <a> створення теми в категорії {{category_name}} </a>."
         },
         "post_list": {
             "deleted_post": "Видалене повідомлення",
@@ -604,7 +623,9 @@
             "edits_count_0": "{{count}} редагування)",
             "edits_count_1": "{{count}} редагування)",
             "edits_count_2": "{{count}} редагувань)",
-            "edited": "(змінено)"
+            "edited": "(змінено)",
+            "view_more_in_thread": "Переглянути більше у темі",
+            "post_from_suspended_account": "Публікація з призупиненого облікового запису"
         },
         "post_form": {
             "add_profile_image": "Додати зображення профілю",
@@ -800,7 +821,13 @@
             },
             "primary_email_description": "Іtch.io буде надсилати всі сповіщення на ваш основний email.",
             "change_password_instructions": "Коли ви змінюєте свій email, для доступу до ваших ігор потрібно його верифікувати. Верифікаційні інструкції будуть надіслані вам електронною поштою. Ви також маєте ввести поточний пароль для будь-яких змін з вашим email.",
-            "additional_emails_header": "Додаткові email адреси"
+            "additional_emails_header": "Додаткові email адреси",
+            "additional_emails_summary": "Ви можете зв’язати додаткові адреси електронної пошти зі своїм обліковим записом itch.io, щоб отримати доступ до всього, що було придбано за цими адресами електронної пошти. Наприклад, ваша електронна адреса PayPal може відрізнятися від вашої звичайної електронної адреси, тому ви хочете додати її як додаткову електронну адресу.",
+            "additional_emails_instructions": "Після додавання додаткового електронного листа вам надішлють інструкції з перевірки.",
+            "additional_emails": {
+                "email_column": "Email",
+                "verified_column": "Верифіковано"
+            }
         }
     },
     "stripe_checkout": {
@@ -968,7 +995,13 @@
                 "ranked_vote_count_2": "{{ordinal_rank}} місце з {{count}} голосами",
                 "ranked_rating_count_0": "{{ordinal_rank}} місце з {{count}} оцінкою",
                 "ranked_rating_count_1": "{{ordinal_rank}} місце з {{count}} оцінками",
-                "ranked_rating_count_2": "{{ordinal_rank}} місце з {{count}} оцінками"
+                "ranked_rating_count_2": "{{ordinal_rank}} місце з {{count}} оцінками",
+                "ranked_criteria_vote_count_0": "Рейтинг{{ordinal_rank}} у групі {{criteria_name}} з {{count}} голосами",
+                "ranked_criteria_vote_count_1": "Рейтинг{{ordinal_rank}} у групі {{criteria_name}} з {{count}} голосами",
+                "ranked_criteria_vote_count_2": "Рейтинг{{ordinal_rank}} у групі {{criteria_name}} з {{count}} голосами",
+                "ranked_criteria_rating_count_0": "Рейтинг{{ordinal_rank}} у групі {{criteria_name}} з оцінкою {{count}}",
+                "ranked_criteria_rating_count_1": "Рейтинг{{ordinal_rank}} у групі {{criteria_name}} з оцінкою {{count}}",
+                "ranked_criteria_rating_count_2": "Рейтинг{{ordinal_rank}} у групі {{criteria_name}} з оцінкою {{count}}"
             },
             "submissions_summary_0": "<s>{{count}}робота</s> була подана з {{start_date}} по {{end_date}}.",
             "submissions_summary_1": "<s>{{count}}роботи</s> були подані з {{start_date}} по {{end_date}}.",
@@ -1025,7 +1058,8 @@
                 "save_rating": "Зберегти оцінку",
                 "you_havent_rated_this_submission_yet": "Ви ще не оцінили цей проект.",
                 "you_just_voted": "Ви щойно проголосували.",
-                "you_voted_ago": "Ви проголосували о {{timestamp}}."
+                "you_voted_ago": "Ви проголосували о {{timestamp}}.",
+                "disqualified_message": "Цей запис дискваліфікований і не підходить для оцінки."
             },
             "rated_by_people_count_0": "Наразі оцінила {{count}} персона",
             "rated_by_people_count_1": "Наразі оцінили {{count}} персони",
@@ -1035,7 +1069,8 @@
             "ranked_from_count_2": "Місце визначено на основі <s>{{count}} оцінок</s>.",
             "ranked_with_vote_count_0": "{{ordinal_rank}} місце з {{count}} голосом",
             "ranked_with_vote_count_1": "{{ordinal_rank}} місце з {{count}} голосами",
-            "ranked_with_vote_count_2": "{{ordinal_rank}} місце з {{count}} голосами"
+            "ranked_with_vote_count_2": "{{ordinal_rank}} місце з {{count}} голосами",
+            "score_information": "Оцінка коригується з необробленої оцінки на середню кількість оцінок за гру у варенні."
         },
         "screenshots": {
             "empty_message": "Ще не вивантажено жодного знятка",
@@ -1148,7 +1183,8 @@
                 "enable_scrollbars_option": "Ввімкнути скролбари",
                 "embed_in_page_option": "Вбудовано в сторінку",
                 "launch_fullscreen_option": "Клікніть для запуску на весь екран",
-                "viewport_dimensions": "Розміри вікна"
+                "viewport_dimensions": "Розміри вікна",
+                "frame_options": "Параметри кадру"
             },
             "details_genre_header": "Жанр",
             "details_tags_header": "Теги",
@@ -1166,7 +1202,8 @@
                 "suggested_donation_label": "Пропонований розмір пожертви",
                 "suggested_price_label": "Пропонована ціна",
                 "default_price_info": "Стандартна ціна, вказана коли хтось намагається придбати ваш проект",
-                "price_too_low_error": "Прошу обрати суму більшу за ціну проекту"
+                "price_too_low_error": "Прошу обрати суму більшу за ціну проекту",
+                "suggest_default_price_label": "Запропонуйте альтернативну ціну за замовчуванням"
             },
             "uploads": {
                 "delete_file_button": "Видалити файл",
@@ -1174,7 +1211,8 @@
                 "hide_toggle": "Сховати цей файл та заблокувати його завантаження",
                 "demo_toggle": "Цей файл - демо версія та може завантажуватись безкоштовно",
                 "set_price_toggle": "Встановіть іншу ціну для цього файлу",
-                "preorder_toggle": "Цей файл — плейсхолдер передзамовлення"
+                "preorder_toggle": "Цей файл — плейсхолдер передзамовлення",
+                "change_display_name_button": "Змінити відображуване ім’я"
             },
             "add_screenshots": "Додати знятки",
             "screenshots_header": "Знятки",
@@ -1183,7 +1221,10 @@
             "description_field_description": "Вміст сторінки вашої гри.",
             "community_field_info": "Зберіть спільноту вашого проекту, дозволивши людям залишати повідомлення на вашій сторінці.",
             "community_comments_info": "Стрічка коментарів в кінці сторінки проекту",
-            "community_discussion_board_info": "Окрема сторінка спільноти з категоріями, темами, відповідями, тощо"
+            "community_discussion_board_info": "Окрема сторінка спільноти з категоріями, темами, відповідями, тощо",
+            "custom_noun_field": "Власний іменник",
+            "custom_noun_field_description": "Ви можете змінити спосіб посилання itch.io на ваш проект, вказавши власний іменник.",
+            "embed_options_header": "Вставити варіанти"
         },
         "project_header": {
             "edit_project": "Редагувати проект",
@@ -1212,7 +1253,10 @@
         "private_collection_option": "Особиста колекція — тільки ви можете бачити вміст",
         "about_this_project_label": "Про цей проект",
         "add_reason": "Додати цей проект в колекцію, щоб потім до нього повернутись.",
-        "add_to_new": "Додати в нову колекцію з назвою"
+        "add_to_new": "Додати в нову колекцію з назвою",
+        "count_items_0": "Елемент {{count}}",
+        "count_items_1": "Елемент {{count}}",
+        "count_items_2": "Елемент {{count}}"
     },
     "game_grid": {
         "in_bundle": "В комплекті"
@@ -1233,7 +1277,10 @@
         "count_joined": "{{count}} доєднались",
         "manage_submissions_link": "Управління вашими джемами та поданими роботами",
         "browse_jams_header": "Перегляд джемів",
-        "browse_upcoming_this_month": "Найближчі цього місяця"
+        "browse_upcoming_this_month": "Найближчі цього місяця",
+        "games_created_0": "<s> {{count}} гра </s> створена для джемів, розміщених на сайті itch.io.",
+        "games_created_1": "<s> {{count}} гра </s> створена для джемів, розміщених на сайті itch.io.",
+        "games_created_2": "<s> {{count}} гра </s> створена для джемів, розміщених на сайті itch.io."
     },
     "feed": {
         "filter_own_activity_tab": "Моя власна активність",
@@ -1249,7 +1296,8 @@
             "to_rate_description": "Ось кілька проектів з якими ви взаємодіяли, проте не оцінили."
         },
         "to_follow": {
-            "to_follow_description": "Ось кілька акаунтів на яких вам було б цікаво підписатись."
+            "to_follow_description": "Ось кілька акаунтів на яких вам було б цікаво підписатись.",
+            "people_to_follow_header": "Люди, яким слід"
         },
         "my_feed_tab": "Моя стрічка",
         "global_feed_tab": "Глобальна стрічка",
@@ -1260,7 +1308,8 @@
             "verify_your_email_address": "Підтвердіть свій mail"
         },
         "profile_notice": {
-            "add_a_profile_image": "Додайте зображення профілю"
+            "add_a_profile_image": "Додайте зображення профілю",
+            "description": "У вашому обліковому записі немає зображення профілю, додайте його, щоб інші могли легше ідентифікувати вас з першого погляду!"
         },
         "event": {
             "collection_summary_0": "Колекція з {{count}} предмету.",
@@ -1288,7 +1337,12 @@
             "things_to_rate": "Можна оцінити"
         },
         "download_button": "Завантажити",
-        "gift_button": "Подарувати"
+        "gift_button": "Подарувати",
+        "private_toggle": "Приватна",
+        "rate_game": {
+            "follow_creator": "Подумайте про те, щоб стежити за творцем {{project_title}}, щоб бути в курсі останніх випусків."
+        },
+        "redeem_button": "Викупити"
     },
     "nags": {
         "unverified_email": {
