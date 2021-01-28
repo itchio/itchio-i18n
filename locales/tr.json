@@ -361,7 +361,7 @@
                 "add_email_button": "E-posta adresi ekle",
                 "additional_email_address_label": "Ek E-posta Adresi"
             },
-            "additional_emails_summary": "Bu e-posta adresleri altında satın alınan herhangi bir şeye erişmek için ek e-posta adreslerini itch.io hesabınıza bağlayabilirsiniz. Örneğin, PayPal e-posta adresiniz normal e-posta adresinizden farklı olabilir, bu nedenle ek e-posta olarak eklemek isteyebilirsiniz."
+            "additional_emails_summary": "Başka e-posta adresleriniz ile satın aldığınız herhangi bir şeye erişim sağlamak için bu adresleri itch.io hesabınıza ek e-postalar bağlayabilirsiniz. Örneğin, PayPal e-posta adresiniz normal e-posta adresinizden farklı olabilir, bu nedenle onu ek e-posta olarak ekleyebilirsiniz. "
         },
         "account_settings": "Hesap ayarları"
     },
