@@ -36,7 +36,8 @@
             "search_placeholder": "meglē spēles vai radītājus",
             "upload_game": "augšupielādē spēli",
             "browse_games": "pārlūkot spēles",
-            "browse": "pārlūkot"
+            "browse": "pārlūkot",
+            "devlogs": "Izstrādātāju žurnāli"
         },
         "footer": {
             "cookies": "cepumi",
