@@ -826,7 +826,15 @@
             "additional_emails_instructions": "Після додавання додаткового електронного листа вам надішлють інструкції з перевірки.",
             "additional_emails": {
                 "email_column": "Email",
-                "verified_column": "Верифіковано"
+                "verified_column": "Верифіковано",
+                "resend_verification_email_button": "відправити ще раз електронний лист для верифікації",
+                "email_sent_status": "лист надіслано",
+                "detach_email": "Від’єднати електронну пошту",
+                "emails_added_header": "Скринькі додані"
+            },
+            "add_email_form": {
+                "additional_email_address_label": "Додаткові адреси електронних пошт",
+                "add_email_button": "Додати Email"
             }
         }
     },
@@ -961,7 +969,8 @@
             "submission_is_closed_for_voting": "Прийом проектів завершено та триває голосування",
             "view_entries_0": "Переглянути {{count}} роботу",
             "view_entries_1": "Переглянути {{count}} роботи",
-            "view_entries_2": "Переглянути {{count}} робіт"
+            "view_entries_2": "Переглянути {{count}} робіт",
+            "you_can_now_rate_entries": "Тепер ви можете оцінювати записи на <a>сторінці проєкта</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Заявлені проекти ще відсутні",
@@ -1340,7 +1349,14 @@
         "gift_button": "Подарувати",
         "private_toggle": "Приватна",
         "rate_game": {
-            "follow_creator": "Подумайте про те, щоб стежити за творцем {{project_title}}, щоб бути в курсі останніх випусків."
+            "follow_creator": "Подумайте про те, щоб стежити за творцем {{project_title}}, щоб бути в курсі останніх випусків.",
+            "rating_saved_header": "Оцінка збережена",
+            "rating_removed_header": "Оцінка видалена",
+            "rating_deleted_summary": "Ваша оцінка була видалена.",
+            "delete_button": "Видалити оцінку та відгук",
+            "choose_stars": "Виберіть оцінку від 1 до 5 зірок.",
+            "rate_header": "Оцініть і залиште відгук про {{project_title}}",
+            "you_rated_this_project_ago": "Ви оцініли цей проект {{time_ago}}."
         },
         "redeem_button": "Викупити"
     },
