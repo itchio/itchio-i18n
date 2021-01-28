@@ -267,7 +267,7 @@
         "welcome_to_itchio": "Itch.io'ya hoş geldiniz!",
         "errors": {
             "accept_terms": "Hizmet Koşullarını kabul etmelisiniz",
-            "please_enter_a_valid_email_address": "Lütfen geçerli bir e-posta adresi giriniz."
+            "please_enter_a_valid_email_address": "Lütfen geçerli bir e-posta adresi giriniz"
         }
     },
     "user_settings": {
@@ -389,7 +389,7 @@
         "filter_group_platform": "Platform",
         "view_all_tags": "Tüm etiketleri gör",
         "filter_by_tag": "Etikete göre filtrele",
-        "results_count_plural": "{{count}} sonuç",
+        "results_count_plural": "{{count}} sonuçlar",
         "results_count": "{{count}} sonuç",
         "sort_popular": "Popüler",
         "sort_new_and_popular": "Yeni ve Popüler",
@@ -735,7 +735,7 @@
             "this_topic_is_locked": "Başlık kilitli",
             "this_topic_was_locked_by_username": "Bu başlık {{username}} tarafından kilitlendi",
             "this_reply_will_go_to_yourself": "Kendinizi yanıtlayacaksınız.",
-            "this_reply_will_go_to_the_topic_author": "Bu yanıt konu sahibi olan {{username}}'ne gidecektir",
+            "this_reply_will_go_to_the_topic_author": "Bu yanıt konu sahibi olan {{username}}'ne gidecektir.",
             "topic_is_autoarchived": "Bir süredir hiçbir gönderi olmadığı için, bu konu otomatik olarak arşivlenmiştir ve yeni gönderi oluşturulamayacaktır.",
             "create_related_topic": "Gönderiyle ilgili bir şey varsa, <a> {{category_name}} </a> içinde bir konu oluşturmayı düşünün."
         },
@@ -831,11 +831,11 @@
         "credit_or_debit_card": "Kredi ya da banka kartı",
         "gift_instructions": "Bu satınalma hediyedÖdemeden sonra alıcı e-postasını girebilirsiniz.",
         "password": "Şifre",
-        "youll_be_mailed_your_access_link": "Erişim kodu, e-postanıza gönderilecektir.",
+        "youll_be_mailed_your_access_link": "Erişim kodu, e-postanıza gönderilecektir",
         "payment_error_help": "Eğer emin değilseniz lütfen üstteki mesajla birlikte <a>itch.io support</a> ile iletişime geçin.",
         "new_card": "Yeni kart",
         "buying_as": "olarak satın alıyorum",
-        "enter_your_password_to_use_your_card": "Kartınızı kullanmak için parolanızı girin.",
+        "enter_your_password_to_use_your_card": "Kartınızı kullanmak için parolanızı girin",
         "full_name": "Tam İsim",
         "email": "E-posta",
         "linked_to_account": "Hesaba bağlandı",
@@ -903,5 +903,25 @@
         "must_link_account_description": "İndirmeden önce bu sayfayı bir itch.io hesabına bağlamanız gerekmektedir. Hesap açmak ücretsizdir ve topladığınız tüm oyunların kaydını tutar.",
         "link_account_description": "Bu indirme sayfasını kaybetmemek için itch.io hesabınıza bağlayabilirsiniz. Sahip olduğunuz diğer şeyler arasında görüntülenecektir.",
         "check_out_more_from_jam_title": "{{jam_title}}'dan daha çok şey inceleyin."
+    },
+    "jam": {
+        "submitter": {
+            "jam_is_now_over": "Bu jam artık bitti. {{start_date}} tarihinden {{end_date}} tarihine kadar sürdü.",
+            "leave_jam": "Jamden ayrıl",
+            "joined_instructions": "Projeni eklemek için jam başladıktan sonra bu sayfaya gel.",
+            "youve_joined": "Bu jame katıldınız.",
+            "or_leave_jam": "ya da <a>jamden ayrıl</a>",
+            "join_jam": "Jame katıl"
+        },
+        "stats": {
+            "entries": "Mesaj",
+            "joined": "Katldı"
+        },
+        "header": {
+            "links": {
+                "edit_jam": "Jami düzenle"
+            },
+            "hosted_by": "{{hosts}} tarafından yönetiliyor"
+        }
     }
 }
