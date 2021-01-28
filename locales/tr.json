@@ -1230,7 +1230,11 @@
             "access_control": {
                 "access_settings": "Erişim ayarları",
                 "unlisted_option": "Arama ve göz atmada listelenmemiş",
-                "disable_downloads_option": "Yeni indirmeleri ve satın almaları devre dışı bırakın"
+                "disable_downloads_option": "Yeni indirmeleri ve satın almaları devre dışı bırakın",
+                "restricted_access_settings": "Kısıtlı erişim ayarları",
+                "public_access_settings": "Genel erişim ayarları",
+                "password_label": "Şifre",
+                "allow_password_option": "Sayfayı görüntülemek için bir şifreye izin ver"
             },
             "visibility_access_info": "Sayfanızı herkese açık hale getirmeden önce gözden geçirmek için Taslak'ı kullanın. <a> Erişim modları hakkında daha fazla bilgi edinin </a>",
             "visibility_access_header": "Görünürlük & erişim",
@@ -1273,7 +1277,12 @@
             "details_section_header": "Detaylar",
             "release_status_field": "Yayın durumu",
             "classification_field": "Sınıflandırma",
-            "short_description_field_description": "Projenize bağlandığımızda gösterilir. Projenizin başlığını kopyalamaktan kaçının"
+            "short_description_field_description": "Projenize bağlandığımızda gösterilir. Projenizin başlığını kopyalamaktan kaçının",
+            "instructions_field": "Talimatları indirin & kurun",
+            "custom_noun_field_description": "Özel bir isim sağlayarak itch.io'nun projenize nasıl atıfta bulunduğunu değiştirebilirsiniz.",
+            "custom_noun_field": "Özel isim",
+            "kind_of_project_field": "Bu türdeki proje",
+            "classification_field_description": "Ne yüklüyorsun?"
         },
         "project_header": {
             "devlog": "Devlog",
