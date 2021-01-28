@@ -2,6 +2,9 @@
     "layout": {
         "footer": {
             "blog": "Blag"
+        },
+        "header": {
+            "devlogs": "Logaí Forbróra"
         }
     }
 }
