@@ -1166,7 +1166,18 @@
         "recently_updated_pages_header": "Son güncellenen sayfalar",
         "not_a_developer_escape": "Hayır, beni oyun akışına götür",
         "intro_text": "Bir geliştirici misiniz? İlk oyununuzu yükleyin",
-        "analytics_summary_header": "Özet"
+        "analytics_summary_header": "Özet",
+        "edit_project": {
+            "short_description_field": "Kısa açıklama veya kapanış sözleri",
+            "delete_game_button": "Oyunu sil",
+            "video_field_description": "YouTube veya Vimeo'ya bir bağlantı sağlayın.",
+            "video_field": "Oynanış videosu veya fragmanı",
+            "save_and_view_button": "Kaydet & sayfayı görüntüle",
+            "project_url_field": "Proje URL'si",
+            "title_field": "Başlık",
+            "edit_project_title": "Projeyi düzenle",
+            "create_a_new_project_title": "Yeni bir proje oluştur"
+        }
     },
     "nags": {
         "unverified_email": {
