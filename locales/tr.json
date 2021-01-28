@@ -1064,10 +1064,14 @@
     "library": {
         "page_title": "Benim Kütüphanem",
         "rate_game": {
-            "rating_deleted_summary": "Değerlendirmen silindi.",
+            "rating_deleted_summary": "Senin değerlendirmen silindi.",
             "rating_removed_header": "Değerlendirme silindi",
             "follow_creator": "En son sürümlerinden haberdar olmak için {{project_title}} yapımcısını takip etmeyi düşünün.",
-            "rating_saved_header": "Oylama kaydedildi"
+            "rating_saved_header": "Oylama kaydedildi",
+            "you_rated_this_project_ago": "Bu projeyi {{time_ago}} değerlendirdiniz.",
+            "rate_header": "Değerlendir & İncele {{project_title}}",
+            "choose_stars": "1 ile 5 yıldız arasında bir derecelendirme seçin.",
+            "delete_button": "Değerlendirmeyi & incelemeyi sil"
         },
         "gift_button": "Hediye",
         "nav": {
