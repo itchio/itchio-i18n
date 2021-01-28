@@ -1089,7 +1089,8 @@
         "show_on_my_profile_toggle": "Profilimde görüntüle",
         "view_all_link": "Hepsini Gör",
         "things_you_own_header": "Sahip oldukların",
-        "download_button": "İndir"
+        "download_button": "İndir",
+        "redeem_button": "Kod Kullanın"
     },
     "feed": {
         "event": {
@@ -1158,6 +1159,13 @@
             "views": "Görüntülenmeler",
             "payments": "Ödemeler",
             "gross_revenue": "Brüt gelir"
-        }
+        },
+        "dashboard": "Gösterge Paneli",
+        "hello": "Merhaba!",
+        "new_devlog": "Yeni geliştirici günlüğü",
+        "recently_updated_pages_header": "Son güncellenen sayfalar",
+        "not_a_developer_escape": "Hayır, beni oyun akışına götür",
+        "intro_text": "Bir geliştirici misiniz? İlk oyununuzu yükleyin",
+        "analytics_summary_header": "Özet"
     }
 }
