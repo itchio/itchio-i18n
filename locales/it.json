@@ -16,7 +16,7 @@
             "browse_games": "Sfoglia giochi",
             "game_jams": "Game Jam",
             "upload_game": "Carica un gioco",
-            "devlogs": "Devlog",
+            "devlogs": "Registri degli sviluppatori",
             "community": "Comunità",
             "search_placeholder": "Cerca giochi o autori",
             "search": "Cerca",
@@ -104,7 +104,7 @@
         "meta_description": "itch.io è un posto che ti permette di trovare, scaricare e distribuire giochi Indie. Se sei uno sviluppatore che cerca un posto dove caricare giochi oppure solo qualcuno che cerca nuovi giochi, itch.io ha quello che cerci.",
         "nav": {
             "community": "Comunità",
-            "devlogs": "In Sviluppo",
+            "devlogs": "Registros del desarrollador",
             "game_jams": "Jam dei giochi",
             "bundles": "Offerte",
             "all_games": "Tutti i giochi"
@@ -864,7 +864,7 @@
         "page_title": "Crea un account",
         "register_form": {
             "other_registration_methods": "Altri metodi di registrazione",
-            "username": "Username",
+            "username": "Nome utente",
             "url_preview": "La tua pagina del profilo sarà",
             "repeat_password": "Ripeti la tua password",
             "password": "Password",
@@ -1261,7 +1261,7 @@
         "featured_tags_header": "Etichette più usate",
         "latest_featured_games_header": "Giochi in primo piano",
         "filter_ratings_tab": "Recensioni",
-        "filter_devlogs_tab": "Diari di sviluppo",
+        "filter_devlogs_tab": "Registros del desarrollador",
         "filter_collections_tab": "Collezioni",
         "filter_new_projects_tab": "Nuovi progetti",
         "filter_everything_tab": "Tutto",
