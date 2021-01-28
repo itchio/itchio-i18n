@@ -978,7 +978,8 @@
                 "rate_this_submission": "Bu gönderime oy verin",
                 "vote_for_this_submission": "Bu gönderime oy verin",
                 "private_field": "(özel)",
-                "vote": "Oy"
+                "vote": "Oy",
+                "unavailable_to_rate": "Kendi girdinizi göndermediğiniz için bu projeye puan veremezsiniz. Yine de aşağıya bir yorum bırakabilirsiniz."
             },
             "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
             "rated_by_people_count_plural": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
@@ -1017,7 +1018,14 @@
                 "ranked_criteria_rating_count_plural": "{{criteria_name}} içinde {{count}} derecelendirmesine sahip {{ordinal_rank}}. Sırada",
                 "ranked_criteria_vote_count": "{{count}} oyla {{criteria_name}} içinde {{ordinal_rank}} sırada",
                 "ranked_criteria_vote_count_plural": "{{count}} oy(lar)la {{criteria_name}} içinde {{ordinal_rank}} sırada",
-                "ranked": "{{ordinal_rank}}. Sırada"
+                "ranked": "{{ordinal_rank}}. Sırada",
+                "ranked_criteria": "{{ordinal_rank}}, {{criteria_name}} adıyla değerlendirildi",
+                "ranked_rating_count": "{{ordinal_rank}}, {{count}} değerlendirme ile sıralandı",
+                "ranked_rating_count_plural": "{{ordinal_rank}}, {{count}} değerlendirmeleri ile sıralandı",
+                "ranked_vote_count": "{{ordinal_rank}}, {{count}} oy ile değerlendirildi",
+                "ranked_vote_count_plural": "{{ordinal_rank}}, {{count}} oyları ile değerlendirildi",
+                "view_submission_page": "Gönderim sayfasını görüntüle",
+                "by_author": "{{author}} tarafından"
             },
             "ratings_given_submissions_count": "<s> {{count}} derecelendirme </s>, {{vote_start_date}} ile {{vote_end_date}} tarihleri arasında <s> {{submission_count}} girdiye </s> (% {{percent}}) verildi.",
             "ratings_given_submissions_count_plural": "<s> {{count}} derecelendirme(ler) </s>, {{vote_start_date}} ile {{vot_end_date}} tarihleri arasında <s> {{submission_count}} girdiye </s> (% {{percent}}) verildi.",
@@ -1027,7 +1035,13 @@
             "votes_cast_count_plural": "<s>{{count}}</s> oy(lar) {{vote_start_date}} ile {{vote_start_date}} arasında verildi.",
             "submissions_summary": "<s> {{start_date}} ile {{end_date}} arasında {{count}} mesaj </s> gönderildi.",
             "submissions_summary_plural": "<s> {{start_date}} ile {{end_date}} arasında {{count}} mesaj(lar) </s> gönderildi.",
-            "results": "Sonuçlar"
+            "results": "Sonuçlar",
+            "sort_overall": "Genel",
+            "sort_by_criteria": "Kriterlere göre",
+            "no_rankings_available": "Sıralama yok",
+            "empty_page_message": "Bu sayfada sonuç yok",
+            "empty_message": "Sonuçlar henüz mevcut değil, daha sonra tekrar gelin",
+            "average_and_median_results": "Oyun başına ortalama derecelendirme sayısı <s>{{average_ratings}}</s> ve orta değeri <s>{{median_ratings}}</s> idi."
         },
         "submissions": {
             "rated": "Oy",
@@ -1039,11 +1053,38 @@
             },
             "help_submissions_in_need_of_ratings": "Az derecelendirmeye sahip gönderimleri derecelendirmeye yardımcı olun: <a> Derecelendirilmesi gereken gönderimler </a>",
             "submissions_will_be_available_after_the_jam_has_ended": "Jam bittikten sonra gönderimler kullanılabilir olacak",
-            "there_were_no_submissions": "Gönderim yok"
+            "there_were_no_submissions": "Gönderim yok",
+            "there_are_no_submissions_yet": "Henüz gönderim yok"
+        },
+        "screenshots": {
+            "loading_more": "Daha fazla ekran görüntüsü yükleniyor...",
+            "empty_message": "Henüz yüklenmiş bir ekran görüntüsü yok"
         }
     },
     "library": {
-        "page_title": "Benim Kütüphanem"
+        "page_title": "Benim Kütüphanem",
+        "rate_game": {
+            "rating_deleted_summary": "Değerlendirmen silindi.",
+            "rating_removed_header": "Değerlendirme silindi",
+            "follow_creator": "En son sürümlerinden haberdar olmak için {{project_title}} yapımcısını takip etmeyi düşünün.",
+            "rating_saved_header": "Oylama kaydedildi"
+        },
+        "gift_button": "Hediye",
+        "nav": {
+            "things_to_rate": "Değerlendirilebilecek Şeyler",
+            "things_on_sale": "İndirimdekiler",
+            "recommended_for_you": "Senin İçin Önerilenler",
+            "my_purchases": "Satın Alımlarım"
+        },
+        "nav_header": "Kütüphane",
+        "empty_collection_message": "Bu koleksiyon boş",
+        "go_to_collection_link": "Koleksiyona git",
+        "private_toggle": "Gizli",
+        "permalink": "Kalıcı bağlantı",
+        "things_rated_header": "Oyladıkların",
+        "show_on_my_profile_toggle": "Profilimde görüntüle",
+        "view_all_link": "Hepsini Gör",
+        "things_you_own_header": "Sahip oldukların"
     },
     "feed": {
         "event": {
@@ -1051,16 +1092,67 @@
             "collection_added_count_plural": "{{count}} öğe eklendi.",
             "collection_summary": "{{count}} öğeli bir koleksiyon.",
             "collection_summary_plural": "{{count}} öğeli bir koleksiyon(lar)."
-        }
+        },
+        "profile_notice": {
+            "description": "Hesabınızda profil resmi yok, bir tane ekleyin, böylece başkalarının sizi bir bakışta tanıması daha kolay olur!",
+            "add_a_profile_image": "Bir profil resmi ekle"
+        },
+        "email_warning": {
+            "verify_your_email_address": "E-posta adresinizi onaylayın"
+        },
+        "event_filter_label": "Filtre:",
+        "upload_a_game_button": "Bir oyun yükle",
+        "manage_my_games_button": "Oyunlarımı yönet",
+        "global_feed_tab": "Küresel hareketler",
+        "my_feed_tab": "Hareketlerim",
+        "to_follow": {
+            "to_follow_description": "Takip etmek isteyebileceğin bazı hesaplar.",
+            "people_to_follow_header": "Takip edilecek kişiler"
+        },
+        "to_rate": {
+            "to_rate_description": "İşte etkileşimde bulunduğunuz ancak derecelendirmediğiniz bazı şeyler.",
+            "projects_to_rate_header": "Oylanacak projeler"
+        },
+        "featured_tags_header": "Öne çıkan etiketler",
+        "latest_featured_games_header": "Öne çıkan en son oyunlar",
+        "filter_ratings_tab": "Değerlendirmeler",
+        "filter_devlogs_tab": "Geliştirici Günlükleri",
+        "filter_collections_tab": "Koleksiyonlar",
+        "filter_new_projects_tab": "Yeni projeler",
+        "filter_everything_tab": "Her şey",
+        "filter_own_activity_tab": "Kendi aktivitem"
     },
     "jams": {
         "count_joined": "{{count}} katıldı",
         "browse_in_progress": "Devam etmekte",
-        "browse_top_past_jams": "Geçmişteki En Popüler Maratonlar"
+        "browse_top_past_jams": "Geçmişteki En Popüler Maratonlar",
+        "brose_featured_jams": "Önerilen Maratonlar"
     },
     "dashboard": {
         "header": {
-            "game_jams_link": "Oyun Maratonları"
+            "game_jams_link": "Oyun Maratonları",
+            "coop_bundles_link": "Kooperatif paketler",
+            "sales_bundles_link": "Satışlar & paketler",
+            "payouts_link": "Ödeme",
+            "analytics_link": "Analiz",
+            "payments_link": "Ödemeler",
+            "projects_link": "Projeler"
+        },
+        "project_list": {
+            "no_image": "Resim yok",
+            "analytics": "Analiz",
+            "edit": "Düzenle"
+        },
+        "create_new_project_button": "Yeni bir proje oluştur",
+        "page_title": "Yaratıcı Kontrol Paneli",
+        "follow_itchio": "Itch.io'yu {{twitter}} ve {{facebook}}'ta takip edin",
+        "stats": {
+            "following": "Takip ediliyor",
+            "followers": "Takipçiler",
+            "downloads": "İndirilenler",
+            "views": "Görüntülenmeler",
+            "payments": "Ödemeler",
+            "gross_revenue": "Brüt gelir"
         }
     }
 }
