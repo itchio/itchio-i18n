@@ -361,7 +361,7 @@
                 "add_email_button": "E-posta adresi ekle",
                 "additional_email_address_label": "Ek E-posta Adresi"
             },
-            "additional_emails_summary": "Başka e-posta adresleriniz ile satın aldığınız herhangi bir şeye erişim sağlamak için bu adresleri itch.io hesabınıza ek e-postalar bağlayabilirsiniz. Örneğin, PayPal e-posta adresiniz normal e-posta adresinizden farklı olabilir, bu nedenle onu ek e-posta olarak ekleyebilirsiniz. "
+            "additional_emails_summary": "Bu e-posta adresleri altında satın alınan herhangi bir şeye erişmek için ek e-posta adreslerini itch.io hesabınıza bağlayabilirsiniz. Örneğin, PayPal e-posta adresiniz normal e-posta adresinizden farklı olabilir, bu nedenle ek e-posta olarak eklemek isteyebilirsiniz."
         },
         "account_settings": "Hesap ayarları"
     },
@@ -470,7 +470,8 @@
         "blurb_author_says": "{{author}} diyor ki",
         "authors": "{{author}} tarafından bir koleksiyon",
         "add_a_blurb": "Tanıtım yazısı ekle",
-        "pending_invitation": "Bu koleksiyonun katılımcısı olmanız için bir davetiniz var. <a> Daveti gör </a>"
+        "pending_invitation": "Bu koleksiyonun katılımcısı olmanız için bir davetiniz var. <a> Daveti gör </a>",
+        "edit_blurb": "Açıklamayı düzenle"
     },
     "user_register": {
         "create_an_account_on_itchio": "Itch.io'da hesap oluşturun",
@@ -834,7 +835,14 @@
         "payment_error_help": "Eğer emin değilseniz lütfen üstteki mesajla birlikte <a>itch.io support</a> ile iletişime geçin.",
         "new_card": "Yeni kart",
         "buying_as": "olarak satın alıyorum",
-        "enter_your_password_to_use_your_card": "Kartınızı kullanmak için parolanızı girin."
+        "enter_your_password_to_use_your_card": "Kartınızı kullanmak için parolanızı girin.",
+        "full_name": "Tam İsim",
+        "email": "E-posta",
+        "linked_to_account": "Hesaba bağlandı",
+        "donating_price_vat_to": "Şuna KDV dahil {{price}} bağışlanıyor:",
+        "donating_price_to": "Şuna {{price}} bağışlanıyor:",
+        "paying_price_vat_for": "Şunun için KDV dahil {{price}} ödeniyor:",
+        "paying_price_for": "Şunun için {{price}} ödeniyor:"
     },
     "game_download": {
         "social_share_message_download": "Az önce {{username}} tarafından {{title}} indirdim",
@@ -893,6 +901,7 @@
         "access_existing_copy": "Başka bir kopya daha edinemezsiniz, fakat şu anda sahip olduğunuz kopyaya erişebilirsiniz.",
         "already_own": "Bu ürüne zaten sahipmişsiniz gibi görünüyor",
         "must_link_account_description": "İndirmeden önce bu sayfayı bir itch.io hesabına bağlamanız gerekmektedir. Hesap açmak ücretsizdir ve topladığınız tüm oyunların kaydını tutar.",
-        "link_account_description": "Bu indirme sayfasını kaybetmemek için itch.io hesabınıza bağlayabilirsiniz. Sahip olduğunuz diğer şeyler arasında görüntülenecektir."
+        "link_account_description": "Bu indirme sayfasını kaybetmemek için itch.io hesabınıza bağlayabilirsiniz. Sahip olduğunuz diğer şeyler arasında görüntülenecektir.",
+        "check_out_more_from_jam_title": "{{jam_title}}'dan daha çok şey inceleyin."
     }
 }
