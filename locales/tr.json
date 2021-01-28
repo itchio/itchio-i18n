@@ -945,7 +945,7 @@
         },
         "stats": {
             "entries": "Mesaj",
-            "joined": "Katldı",
+            "joined": "Katıldı",
             "ratings": "Değerlendirmeler"
         },
         "header": {
@@ -982,14 +982,14 @@
                 "unavailable_to_rate": "Kendi girdinizi göndermediğiniz için bu projeye puan veremezsiniz. Yine de aşağıya bir yorum bırakabilirsiniz."
             },
             "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
-            "rated_by_people_count_plural": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
+            "rated_by_people_count_plural": "Şimdiye kadar {{count}} kişi(ler) tarafından değerlendirildi",
             "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
             "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
             "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
             "ranked_with_vote_count_plural": "{{count}} oyla {{ordinal_rank}} sırada",
             "results_header": "Sonuçlar",
             "ranked_from_count": "<s> {{count}} derecelendirmeye </s> göre sıralanmıştır.",
-            "ranked_from_count_plural": "<s> {{count}} derecelendirmeden </s> sıralanmıştır.",
+            "ranked_from_count_plural": "<s> {{count}} derecelendirme(ler)ye </s> göre sıralanmıştır.",
             "score_information": "Skor, ham puandan jam içindeki oyun başına ortalama derecelendirme sayısına göre ayarlanır.",
             "run_project": "Projeyi çalıştır",
             "play_game": "Oyunu oyna",
@@ -1176,7 +1176,108 @@
             "project_url_field": "Proje URL'si",
             "title_field": "Başlık",
             "edit_project_title": "Projeyi düzenle",
-            "create_a_new_project_title": "Yeni bir proje oluştur"
+            "create_a_new_project_title": "Yeni bir proje oluştur",
+            "screenshots_header": "Ekran görüntüleri",
+            "add_screenshots": "Ekran görüntüsü ekleyin",
+            "community_discussion_board_info": "Kategoriler, ileti dizileri, yanıtlar ve daha fazlasını içeren özel bir topluluk sayfası ekleyin",
+            "community_comments_info": "Proje sayfasının altına yuvalanmış bir yorum dizisi ekleyin",
+            "community_field_info": "İnsanların sayfanıza gönderi göndermesine izin vererek projeniz için bir topluluk oluşturun.",
+            "uploads": {
+                "change_display_name_button": "Görünen adı değiştir",
+                "set_price_toggle": "Bu dosya için farklı bir fiyat belirleyin",
+                "preorder_toggle": "Bu dosya bir ön sipariş yer tutucusudur",
+                "demo_toggle": "Bu dosya bir demodur ve ücretsiz olarak indirilebilir",
+                "hide_toggle": "Bu dosyayı saklayın ve indirilmesini engelleyin",
+                "play_in_browser_toggle": "Bu dosya tarayıcıda oynatılacak",
+                "delete_file_button": "Dosyayı sil"
+            },
+            "community_comments": "Yorumlar",
+            "project_type_help": "Yukarıdaki türlerden herhangi biri için ek indirilebilir dosyalar ekleyebilirsiniz",
+            "default_noun": "Varsayılan olarak boş bırakın: '{{default_noun}}'.",
+            "pricing": {
+                "price_too_low_error": "Lütfen proje fiyatından daha yüksek bir miktar belirtin",
+                "default_price_info": "Birisi projenizi satın almaya çalıştığında gösterilen varsayılan fiyat",
+                "suggested_price_label": "Önerilen fiyat",
+                "suggested_donation_label": "Önerilen bağış",
+                "suggest_default_price_label": "Alternatif bir varsayılan fiyat önerin",
+                "payment_disabled_info": "Projenin dosyaları ücretsiz olarak erişilebilir olacak ve bağış yapılamayacak",
+                "default_donation_amount_info": "Varsayılan bağış tutarı",
+                "free_price_info": "Projenizi indiren birinden erişim sağlanmadan önce bağış istenecektir. Ücretsiz olarak indirmek için atlayabilirler.",
+                "minimum_price_info": "Oyuna indirme erişimi için ödenmesi gereken minimum fiyat",
+                "minimum_price_label": "Minimum fiyat",
+                "embed_pricing_info": "Minimum fiyat belirlemek, yalnızca indirilebilir dosyalara erişimi kısıtlayacaktır. Gömülü içerik ücretsiz olarak mevcuttur.",
+                "no_payments": "Ödeme yok",
+                "paid": "Ücretli",
+                "free_or_donate": "{{money}} veya bağış yapın"
+            },
+            "details_genre_info": "Oyununuzu en iyi tanımlayan kategoriyi seçin. Aşağıdaki etiketlerle ek türler seçebilirsiniz",
+            "details_tags_header": "Etiketler",
+            "details_genre_header": "Tür",
+            "embed_options": {
+                "launch_fullscreen_option": "Tam ekranda başlatmak için tıklayın",
+                "embed_in_page_option": "Sayfaya yerleştir",
+                "enable_scrollbars_option": "Kaydırma çubuklarını etkinleştir",
+                "fullscreen_button_option": "Tam ekran düğmesi",
+                "orientation": "Oryantasyon",
+                "mobile_friendly_info": "Projeniz cep telefonlarında çalışabilir (daha küçük çözünürlük ve dokunmatik destek)",
+                "mobile_friendly_option": "Mobil uyumlu",
+                "frame_options": "Çerçeve seçenekleri",
+                "height": "Yükseklik",
+                "width": "Genişlik",
+                "viewport_dimensions": "Görüntü alanı boyutları"
+            },
+            "embed_options_header": "Gömme seçenekleri",
+            "access_control": {
+                "access_settings": "Erişim ayarları",
+                "unlisted_option": "Arama ve göz atmada listelenmemiş",
+                "disable_downloads_option": "Yeni indirmeleri ve satın almaları devre dışı bırakın"
+            },
+            "visibility_access_info": "Sayfanızı herkese açık hale getirmeden önce gözden geçirmek için Taslak'ı kullanın. <a> Erişim modları hakkında daha fazla bilgi edinin </a>",
+            "visibility_access_header": "Görünürlük & erişim",
+            "error_dialog": {
+                "title": "Projenizi kaydederken bir sorun oluştu",
+                "confirm_button": "Anladım"
+            },
+            "errors": {
+                "invalid_image": "Lütfen resminizi düzenleyin veya başka bir tane deneyin",
+                "invalid_file": "Seçtiğiniz dosyayla ilgili bir sorun var"
+            },
+            "cover_uploader": {
+                "upload_button": "Kapak Resmi Yükle",
+                "remove_image": "Resmi Kaldır",
+                "replace_image": "Kapak Resmini Değiştir",
+                "cover_description": "Kapak resmi, itch.io projenize sitenin başka bir bölümünden bağlanmak istediğinde kullanılır. Gerekli (Minimum: 315x250, Önerilen: 630x500)",
+                "confirm_remove": "Kapak resmini kaldırmak istediğinizden emin misiniz?"
+            },
+            "payment_warning_info": "0'ın üzerinde bir minimum fiyat belirlerseniz, hiç kimse projenizi indiremez. <a> Hesabı düzenle </a>",
+            "payment_warning_header": "Yapılandırılmış ödemeniz yok",
+            "content_guidelines_info": "Projenizi göndermeden önce <a> kalite yönergelerimizi </a> inceleyin",
+            "content_guidelines_header": "Herkesin sayfanızı bulabileceğinden emin olun",
+            "file_size_limit": "Dosya boyutu sınırı: {{filesize}}. Daha fazla alana ihtiyacınız olursa <a> bize ulaşın </a>",
+            "add_external_file_button": "Harici dosya ekle",
+            "upload_files_button": "Dosyaları yükle",
+            "uploads_header": "Yüklemeler",
+            "pricing_header": "Fiyatlandırma",
+            "community_discussion_board": "Tartışma panosu",
+            "community_disabled": "Devre dışı",
+            "community_field": "Topluluk",
+            "instructions_field_info1": "Bu metin, oyununuzu tarayıcılarından indirirken birine gösterilecektir. İndirdiklerini nasıl yükleyeceğiniz ve çalıştıracağınızla ilgili tüm bilgileri ekleyin.",
+            "instructions_field_info2": "Oyununuz herhangi bir kitaplık veya programın yüklenmesini gerektiriyorsa, önce bu bilgileri de eklemelisiniz",
+            "description_field_description": "Bu, oyun sayfanızın içeriğini oluşturacaktır.",
+            "tip_label": "İpucu",
+            "types": {
+                "downloadable": "İndirilebilir"
+            },
+            "classification_other": "Diğer",
+            "description_field": "Açıklama",
+            "details_section_header": "Detaylar",
+            "release_status_field": "Yayın durumu",
+            "classification_field": "Sınıflandırma",
+            "short_description_field_description": "Projenize bağlandığımızda gösterilir. Projenizin başlığını kopyalamaktan kaçının"
+        },
+        "project_header": {
+            "devlog": "Devlog",
+            "edit_project": "Projeyi düzenleyin"
         }
     },
     "nags": {
