@@ -1285,8 +1285,10 @@
             "classification_field_description": "Ne yüklüyorsun?"
         },
         "project_header": {
-            "devlog": "Devlog",
-            "edit_project": "Projeyi düzenleyin"
+            "devlog": "Geliştirici Günlüğü",
+            "edit_project": "Projeyi düzenleyin",
+            "distribute": "Dağıtım",
+            "interact": "Etkileşim"
         }
     },
     "nags": {
