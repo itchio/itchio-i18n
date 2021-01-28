@@ -355,7 +355,8 @@
                 "resend_verification_email_button": "doğrulama e-postasını tekrar gönder",
                 "verified_column": "Doğrulanmış",
                 "email_column": "E-posta",
-                "emails_added_header": "E-postalar eklendi"
+                "emails_added_header": "E-postalar eklendi",
+                "detach_email": "E-postayı kaldır"
             },
             "add_email_form": {
                 "add_email_button": "E-posta adresi ekle",
@@ -847,7 +848,9 @@
         "paying_price_for": "Şunun için {{price}} ödeniyor:",
         "save_credit_card_for_future_purchases": "Kredi kartınızı gelecekteki satın alımlarınız için kaydedin.",
         "card_ending_last4": "{{Last4}} içinde bitiyor",
-        "steam_key": "Steam anahtarı"
+        "steam_key": "Steam anahtarı",
+        "name_as_it_appears_on_card": "Kartın üzerinde göründüğü gibi",
+        "you_will_receive_files": "Şunu edineceksiniz:"
     },
     "game_download": {
         "social_share_message_download": "Az önce {{username}} tarafından {{title}} indirdim",
@@ -874,7 +877,8 @@
             "discussion_board": "Tartışma panosu",
             "return_to_project": "Projeye geri dön",
             "preorder_title": "{{project_title}} için ön sipariş",
-            "view_all_my_purchases": "Tüm satın alımlarımı görüntüle"
+            "view_all_my_purchases": "Tüm satın alımlarımı görüntüle",
+            "download_title": "İndir: {{project_title}}"
         },
         "start_project_button": "Başla",
         "linked_user_message": "Bu sayfa {{username}} hesabına bağlı.",
@@ -913,7 +917,8 @@
         "must_link_account_description": "İndirmeden önce bu sayfayı bir itch.io hesabına bağlamanız gerekmektedir. Hesap açmak ücretsizdir ve topladığınız tüm oyunların kaydını tutar.",
         "link_account_description": "Bu indirme sayfasını kaybetmemek için itch.io hesabınıza bağlayabilirsiniz. Sahip olduğunuz diğer şeyler arasında görüntülenecektir.",
         "check_out_more_from_jam_title": "{{jam_title}}'dan daha çok şey inceleyin.",
-        "share_and_follow": "Paylaş & takip et"
+        "share_and_follow": "Paylaş & takip et",
+        "install_instructions_intro": "{{username}} tarafından sağlanan indirme ve kurulum yönergeleri:"
     },
     "jam": {
         "submitter": {
