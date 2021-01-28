@@ -361,7 +361,8 @@
                 "add_email_button": "E-posta adresi ekle",
                 "additional_email_address_label": "Ek E-posta Adresi"
             },
-            "additional_emails_summary": "Bu e-posta adresleri altında satın alınan herhangi bir şeye erişmek için ek e-posta adreslerini itch.io hesabınıza bağlayabilirsiniz. Örneğin, PayPal e-posta adresiniz normal e-posta adresinizden farklı olabilir, bu nedenle ek e-posta olarak eklemek isteyebilirsiniz."
+            "additional_emails_summary": "Bu e-posta adresleri altında satın alınan herhangi bir şeye erişmek için ek e-posta adreslerini itch.io hesabınıza bağlayabilirsiniz. Örneğin, PayPal e-posta adresiniz normal e-posta adresinizden farklı olabilir, bu nedenle ek e-posta olarak eklemek isteyebilirsiniz.",
+            "additional_emails_instructions": "Ek bir e-posta adresi eklediğinizde doğrulama için e-posta gönderilecektir."
         },
         "account_settings": "Hesap ayarları"
     },
@@ -845,7 +846,8 @@
         "paying_price_vat_for": "Şunun için KDV dahil {{price}} ödeniyor:",
         "paying_price_for": "Şunun için {{price}} ödeniyor:",
         "save_credit_card_for_future_purchases": "Kredi kartınızı gelecekteki satın alımlarınız için kaydedin.",
-        "card_ending_last4": "{{Last4}} içinde bitiyor"
+        "card_ending_last4": "{{Last4}} içinde bitiyor",
+        "steam_key": "Steam anahtarı"
     },
     "game_download": {
         "social_share_message_download": "Az önce {{username}} tarafından {{title}} indirdim",
@@ -910,7 +912,8 @@
         "already_own": "Bu ürüne zaten sahipmişsiniz gibi görünüyor",
         "must_link_account_description": "İndirmeden önce bu sayfayı bir itch.io hesabına bağlamanız gerekmektedir. Hesap açmak ücretsizdir ve topladığınız tüm oyunların kaydını tutar.",
         "link_account_description": "Bu indirme sayfasını kaybetmemek için itch.io hesabınıza bağlayabilirsiniz. Sahip olduğunuz diğer şeyler arasında görüntülenecektir.",
-        "check_out_more_from_jam_title": "{{jam_title}}'dan daha çok şey inceleyin."
+        "check_out_more_from_jam_title": "{{jam_title}}'dan daha çok şey inceleyin.",
+        "share_and_follow": "Paylaş & takip et"
     },
     "jam": {
         "submitter": {
