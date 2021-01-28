@@ -930,9 +930,18 @@
             "youve_joined": "Bu jame katıldınız.",
             "or_leave_jam": "ya da <a>jamden ayrıl</a>",
             "join_jam": "Jame katıl",
-            "view_results": "Sonuçları göster",
+            "view_results": "Sonuçlara gözat",
             "submissions_open_from": "Teklifler {{start_date}} tarihinden {{end_date}} tarihine kadar açık",
-            "submit_button": "Projenizi gönderin"
+            "submit_button": "Projenizi gönderin",
+            "you_can_now_rate_entries": "Artık <a> gönderimler sayfasından </a> mesajları derecelendirebilirsiniz",
+            "submission_is_closed_for_voting": "Gönderim kapatıldı ve oylama şu anda devam ediyor",
+            "countdown": {
+                "voting_ends_in": "Oylama sona erecek",
+                "submissions_due_in": "Son teslim tarihi",
+                "starts_in": "İçinde başlayacak"
+            },
+            "view_entries": "{{count}} mesaja bak",
+            "view_entries_plural": "{{count}} mesajlara bak"
         },
         "stats": {
             "entries": "Mesaj",
@@ -950,6 +959,108 @@
                 "community": "Topluluk"
             },
             "hosted_by": "{{hosts}} tarafından yönetiliyor"
+        },
+        "submission": {
+            "rate_submission": {
+                "disqualified_message": "Bu mesaj diskalifiye edildi ve derecelendirme için uygun değil.",
+                "you_voted_ago": "{{timestamp}} oy verdiniz.",
+                "you_just_voted": "Az önce oy verdin.",
+                "you_havent_rated_this_submission_yet": "Bu gönderiyi henüz değerlendirmediniz.",
+                "save_rating": "Derecelendirmeyi kaydet",
+                "save_vote": "Oyu kaydet",
+                "other_participants_can_rate": "Sıkışmaya giren diğer kişiler, girişinizi derecelendirebilir.",
+                "you_will_be_able_to_rate_if_you_submit": "Bu jam'e gönderirseniz, bu girişi değerlendirebileceksiniz.",
+                "participate_to_rate_message": "Bu gönderimi derecelendirmek için <a> itch.io'da oturum açmış </a> ve kendi girişinizi göndermiş olmalısınız. Hesabı olan herkes yorum bırakabilir.",
+                "sign_up_to_vote": "Oy vermek ve yorum bırakmak için <a> bir itch.io hesabıyla kaydolun </a>.",
+                "sign_up_to_rate": "Değerlendirmek ve yorum bırakmak için <a> bir itch.io hesabıyla kaydolun </a>.",
+                "owner_message": "Bu sizin gönderiniz, oy vermenize izin verilmiyor. Jam'in diğer katılımcıları projenizi burada değerlendirebilecekler.",
+                "not_open_yet": "Bu jamin gönderim süresi henüz sona ermedi. Derecelendirme {{start_date}} açılır.",
+                "rate_this_submission": "Bu gönderime oy verin",
+                "vote_for_this_submission": "Bu gönderime oy verin",
+                "private_field": "(özel)",
+                "vote": "Oy"
+            },
+            "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
+            "rated_by_people_count_plural": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
+            "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
+            "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
+            "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
+            "ranked_with_vote_count_plural": "{{count}} oyla {{ordinal_rank}} sırada",
+            "results_header": "Sonuçlar",
+            "ranked_from_count": "<s> {{count}} derecelendirmeye </s> göre sıralanmıştır.",
+            "ranked_from_count_plural": "<s> {{count}} derecelendirmeden </s> sıralanmıştır.",
+            "score_information": "Skor, ham puandan jam içindeki oyun başına ortalama derecelendirme sayısına göre ayarlanır.",
+            "run_project": "Projeyi çalıştır",
+            "play_game": "Oyunu oyna",
+            "downloads": "İndirilenler",
+            "link_to_itchio_page": "{{game_title}} itch.io sayfası",
+            "comments": {
+                "empty_message": "Henüz kimse yorum göndermedi",
+                "post_comment": "Yorum Gönder",
+                "leave_a_comment_header": "yorum Yap"
+            },
+            "view_project_page": "Proje sayfasını görüntüle",
+            "view_game_page": "Oyun sayfasını görüntüle",
+            "a_jam_submission": "Jam gönderimi",
+            "remove_this_submission_button": "Bu gönderimi kaldır",
+            "edit_this_submission_button": "Bu gönderimi düzenleyin",
+            "results_table_raw_score": "Ham puan",
+            "results_table_score": "Puan",
+            "results_table_votes": "Oylar",
+            "results_table_rank": "Sıra",
+            "results_table_criteria": "Kriterler"
+        },
+        "results": {
+            "submissions": {
+                "ranked_score": "Puan: {{score}}",
+                "ranked_criteria_rating_count": "{{criteria_name}} içinde {{count}} derecelendirmesine sahip {{ordinal_rank}}. Sırada",
+                "ranked_criteria_rating_count_plural": "{{criteria_name}} içinde {{count}} derecelendirmesine sahip {{ordinal_rank}}. Sırada",
+                "ranked_criteria_vote_count": "{{count}} oyla {{criteria_name}} içinde {{ordinal_rank}} sırada",
+                "ranked_criteria_vote_count_plural": "{{count}} oy(lar)la {{criteria_name}} içinde {{ordinal_rank}} sırada",
+                "ranked": "{{ordinal_rank}}. Sırada"
+            },
+            "ratings_given_submissions_count": "<s> {{count}} derecelendirme </s>, {{vote_start_date}} ile {{vote_end_date}} tarihleri arasında <s> {{submission_count}} girdiye </s> (% {{percent}}) verildi.",
+            "ratings_given_submissions_count_plural": "<s> {{count}} derecelendirme(ler) </s>, {{vote_start_date}} ile {{vot_end_date}} tarihleri arasında <s> {{submission_count}} girdiye </s> (% {{percent}}) verildi.",
+            "ratings_given_count": "<s> {{count}} derecelendirme </s>, {{vote_start_date}} ile {{vote_end_date}} arasında verildi.",
+            "ratings_given_count_plural": "<s> {{count}} derecelendirme(ler) </s>, {{vote_start_date}} ile {{vote_end_date}} arasında verildi.",
+            "votes_cast_count": "<s> {{count}} </s> oy {{vote_start_date}} ile {{vote_end_date}} arasında verildi.",
+            "votes_cast_count_plural": "<s>{{count}}</s> oy(lar) {{vote_start_date}} ile {{vote_start_date}} arasında verildi.",
+            "submissions_summary": "<s> {{start_date}} ile {{end_date}} arasında {{count}} mesaj </s> gönderildi.",
+            "submissions_summary_plural": "<s> {{start_date}} ile {{end_date}} arasında {{count}} mesaj(lar) </s> gönderildi.",
+            "results": "Sonuçlar"
+        },
+        "submissions": {
+            "rated": "Oy",
+            "empty_results": "Filtrenizle eşleşen gönderim yok",
+            "filter": "Filtrele",
+            "filters": {
+                "browser_playable": "Oynatılabilir tarayıcı",
+                "all_submissions": "Tüm gönderimler"
+            },
+            "help_submissions_in_need_of_ratings": "Az derecelendirmeye sahip gönderimleri derecelendirmeye yardımcı olun: <a> Derecelendirilmesi gereken gönderimler </a>",
+            "submissions_will_be_available_after_the_jam_has_ended": "Jam bittikten sonra gönderimler kullanılabilir olacak",
+            "there_were_no_submissions": "Gönderim yok"
+        }
+    },
+    "library": {
+        "page_title": "Benim Kütüphanem"
+    },
+    "feed": {
+        "event": {
+            "collection_added_count": "{{count}} öğe eklendi.",
+            "collection_added_count_plural": "{{count}} öğe eklendi.",
+            "collection_summary": "{{count}} öğeli bir koleksiyon.",
+            "collection_summary_plural": "{{count}} öğeli bir koleksiyon(lar)."
+        }
+    },
+    "jams": {
+        "count_joined": "{{count}} katıldı",
+        "browse_in_progress": "Devam etmekte",
+        "browse_top_past_jams": "Geçmişteki En Popüler Maratonlar"
+    },
+    "dashboard": {
+        "header": {
+            "game_jams_link": "Oyun Maratonları"
         }
     }
 }
