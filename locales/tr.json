@@ -1084,7 +1084,8 @@
         "things_rated_header": "Oyladıkların",
         "show_on_my_profile_toggle": "Profilimde görüntüle",
         "view_all_link": "Hepsini Gör",
-        "things_you_own_header": "Sahip oldukların"
+        "things_you_own_header": "Sahip oldukların",
+        "download_button": "İndir"
     },
     "feed": {
         "event": {
