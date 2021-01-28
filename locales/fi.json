@@ -38,7 +38,7 @@
             "game_assets": "Käyttövälineet",
             "notifications_count": "{{count}} ilmoitus",
             "notifications_count_plural": "{{count}} ilmoitukset",
-            "devlogs": "Kehityslokit"
+            "devlogs": "Kehittäjien lokit"
         },
         "user_menu": {
             "explore": "Tutki",
