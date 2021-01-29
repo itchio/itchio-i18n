@@ -107,7 +107,7 @@
             "all_games": "كل الألعاب",
             "bundles": "العروض",
             "game_jams": "كوم الألعاب",
-            "devlogs": "سجلات التطوير",
+            "devlogs": "سجلات المطور",
             "community": "المجتمع"
         },
         "intro": "<s>itch.io</s> هي طريقة بسيطة لإيجاد ومشاركة الألعاب المستقلة عبر الإنترنت مجانًا.",
@@ -1365,7 +1365,7 @@
         "filter_everything_tab": "كل شىء",
         "filter_new_projects_tab": "مشاريع جديدة",
         "filter_collections_tab": "المجموعات",
-        "filter_devlogs_tab": "منشورات",
+        "filter_devlogs_tab": "سجلات المطور",
         "filter_ratings_tab": "التقييمات",
         "to_follow": {
             "to_follow_description": "فيما يلي بعض الحسابات التي قد تكون مهتمًا بمتابعتها.",
