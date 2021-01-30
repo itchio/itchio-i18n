@@ -688,7 +688,8 @@
             "view_entries": "Ver entrada {{count}}",
             "view_entries_plural": "Ver entradas {{count}}",
             "submission_is_closed_for_voting": "La presentación está cerrada y la votación está en curso",
-            "jam_is_now_over": "Esta jam ha finalizado. Duró del {{start_date}} al {{end_date}}."
+            "jam_is_now_over": "Esta jam ha finalizado. Duró del {{start_date}} al {{end_date}}.",
+            "you_can_now_rate_entries": "Ahora se puede calificar las entradas desde la <a>página de envíos</a>"
         },
         "header": {
             "links": {
@@ -770,7 +771,8 @@
             "filter": "Filtro",
             "rated": "Calificado",
             "there_are_no_submissions_yet": "Todavía no hay envíos",
-            "there_were_no_submissions": "No hubo ningún envío"
+            "there_were_no_submissions": "No hubo ningún envío",
+            "submissions_will_be_available_after_the_jam_has_ended": "Los envíos estarán disponibles después de que la jam se cierre"
         },
         "screenshots": {
             "loading_more": "Cargando más capturas...",
