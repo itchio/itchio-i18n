@@ -773,7 +773,9 @@
             "ranked_from_count": "Clasificado de <s> {{count}} rating </s>.",
             "submitted_by_contributors": "Enviado por {{contributors}}",
             "time_remaining_before_deadline": "{{time_duration}} antes de la fecha límite",
-            "rated_by_people_count_plural": "Calificado por {{count}} personas hasta ahora"
+            "rated_by_people_count_plural": "Calificado por {{count}} personas hasta ahora",
+            "edit_this_submission_button": "Editar este envío",
+            "remove_this_submission_button": "Eliminar este envío"
         },
         "submissions": {
             "filter": "Filtro",
@@ -781,7 +783,12 @@
             "there_are_no_submissions_yet": "Todavía no hay envíos",
             "there_were_no_submissions": "No hubo ningún envío",
             "submissions_will_be_available_after_the_jam_has_ended": "Los envíos estarán disponibles después de que la jam se cierre",
-            "help_submissions_in_need_of_ratings": "Ayude a valorar sumisiones con pocas valoraciones: <a>Sumisiones con necesidad de valoraciones</a>"
+            "help_submissions_in_need_of_ratings": "Ayude a valorar sumisiones con pocas valoraciones: <a>Sumisiones con necesidad de valoraciones</a>",
+            "filters": {
+                "all_submissions": "Todos los envíos",
+                "browser_playable": "Jugable en el navegador"
+            },
+            "empty_results": "Ningún envío coincide con tu filtro"
         },
         "screenshots": {
             "loading_more": "Cargando más capturas...",
