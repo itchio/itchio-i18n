@@ -717,7 +717,14 @@
                 "view_submission_page": "Ver página de sumisiones",
                 "ranked_rating_count": "En {{ordinal_rank}} posición con {{count}} valoración",
                 "ranked_rating_count_plural": "En {{ordinal_rank}} posición con {{count}} valoraciones",
-                "ranked_criteria": "En posición {{ordinal_rank}} de {{criteria_name}}"
+                "ranked_criteria": "En posición {{ordinal_rank}} de {{criteria_name}}",
+                "ranked_criteria_vote_count": "Clasificado {{ordinal_rank}} en {{criteria_name}} con {{count}} voto",
+                "ranked_criteria_vote_count_plural": "Clasificado {{ordinal_rank}} en {{criteria_name}} con {{count}} votos",
+                "ranked": "Clasificado {{ordinal_rank}}",
+                "ranked_vote_count": "Clasificado {{ordinal_rank}} con {{count}} voto",
+                "ranked_vote_count_plural": "Clasificado {{ordinal_rank}} con {{count}} votos",
+                "ranked_criteria_rating_count": "Clasificado {{ordinal_rank}} en {{criteria_name}} con {{count}} calificación",
+                "ranked_criteria_rating_count_plural": "Clasificado {{ordinal_rank}} en {{criteria_name}} con {{count}} calificaciones"
             },
             "results": "Resultados",
             "sort_by_criteria": "Por criterio",
@@ -730,7 +737,8 @@
             "ratings_given_submissions_count": "Se dio <s>{{count}} valoración</s> a <s>{{submission_count}} sumisiones</s> ({{percent}}%) entre {{vote_start_date}} y {{vote_end_date}}.",
             "ratings_given_submissions_count_plural": "Se dieron <s>{{count}} valoraciones</s> a <s>{{submission_count}} sumisiones</s> ({{percent}}%) entre {{vote_start_date}} y {{vote_end_date}}.",
             "submissions_summary": "<s>{{count}} entrada</s> fue enviada entre {{start_date}} y {{end_date}}.",
-            "submissions_summary_plural": "<s>{{count}} entradas</s> fueron enviadas entre {{start_date}} {{end_date}}."
+            "submissions_summary_plural": "<s>{{count}} entradas</s> fueron enviadas entre {{start_date}} {{end_date}}.",
+            "sort_overall": "En total"
         },
         "submission": {
             "view_game_page": "Ver página del juego",
@@ -777,7 +785,11 @@
             "time_remaining_before_deadline": "{{time_duration}} antes de la fecha límite",
             "rated_by_people_count_plural": "Calificado por {{count}} personas hasta ahora",
             "edit_this_submission_button": "Editar este envío",
-            "remove_this_submission_button": "Eliminar este envío"
+            "remove_this_submission_button": "Eliminar este envío",
+            "results_table_criteria": "Criterios",
+            "results_table_rank": "Clasificación",
+            "results_table_raw_score": "Puntuación Bruta",
+            "rated_by_people_count": "Calificado por {{count}} persona hasta ahora"
         },
         "submissions": {
             "filter": "Filtro",
