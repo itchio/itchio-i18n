@@ -713,14 +713,22 @@
             "empty_page_message": "No hay resultados en esta página",
             "submissions": {
                 "ranked_score": "Puntuación: {{score}}",
-                "by_author": "por {{author}}"
+                "by_author": "por {{author}}",
+                "view_submission_page": "Ver página de sumisiones",
+                "ranked_rating_count": "En {{ordinal_rank}} posición con {{count}} valoración",
+                "ranked_rating_count_plural": "En {{ordinal_rank}} posición con {{count}} valoraciones",
+                "ranked_criteria": "En posición {{ordinal_rank}} de {{criteria_name}}"
             },
             "results": "Resultados",
             "sort_by_criteria": "Por criterio",
             "no_rankings_available": "Clasificaciones no disponibles",
             "average_and_median_results": "El número promedio de calificaciones por juego fue <s>{{average_ratings}}</s> y la mediana fue <s>{{median_ratings}}</s>.",
             "ratings_given_count": "Se dio <s>{{count}} valoración</s> entre {{vote_start_date}} y {{vote_end_date}}.",
-            "ratings_given_count_plural": "Se dieron <s>{{count}} valoraciones</s> entre {{vote_start_date}} y {{vote_end_date}}."
+            "ratings_given_count_plural": "Se dieron <s>{{count}} valoraciones</s> entre {{vote_start_date}} y {{vote_end_date}}.",
+            "votes_cast_count": "Se emitió <s>{{count}}</s> voto entre {{vote_start_date}} y {{vote_end_date}}.",
+            "votes_cast_count_plural": "Se emitieron <s>{{count}}</s> votos entre {{vote_start_date}} y {{vote_end_date}}.",
+            "ratings_given_submissions_count": "Se dio <s>{{count}} valoración</s> a <s>{{submission_count}} sumisiones</s> ({{percent}}%) entre {{vote_start_date}} y {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "Se dieron <s>{{count}} valoraciones</s> a <s>{{submission_count}} sumisiones</s> ({{percent}}%) entre {{vote_start_date}} y {{vote_end_date}}."
         },
         "submission": {
             "view_game_page": "Ver página del juego",
@@ -772,7 +780,8 @@
             "rated": "Calificado",
             "there_are_no_submissions_yet": "Todavía no hay envíos",
             "there_were_no_submissions": "No hubo ningún envío",
-            "submissions_will_be_available_after_the_jam_has_ended": "Los envíos estarán disponibles después de que la jam se cierre"
+            "submissions_will_be_available_after_the_jam_has_ended": "Los envíos estarán disponibles después de que la jam se cierre",
+            "help_submissions_in_need_of_ratings": "Ayude a valorar sumisiones con pocas valoraciones: <a>Sumisiones con necesidad de valoraciones</a>"
         },
         "screenshots": {
             "loading_more": "Cargando más capturas...",
