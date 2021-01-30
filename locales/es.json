@@ -728,7 +728,9 @@
             "votes_cast_count": "Se emitió <s>{{count}}</s> voto entre {{vote_start_date}} y {{vote_end_date}}.",
             "votes_cast_count_plural": "Se emitieron <s>{{count}}</s> votos entre {{vote_start_date}} y {{vote_end_date}}.",
             "ratings_given_submissions_count": "Se dio <s>{{count}} valoración</s> a <s>{{submission_count}} sumisiones</s> ({{percent}}%) entre {{vote_start_date}} y {{vote_end_date}}.",
-            "ratings_given_submissions_count_plural": "Se dieron <s>{{count}} valoraciones</s> a <s>{{submission_count}} sumisiones</s> ({{percent}}%) entre {{vote_start_date}} y {{vote_end_date}}."
+            "ratings_given_submissions_count_plural": "Se dieron <s>{{count}} valoraciones</s> a <s>{{submission_count}} sumisiones</s> ({{percent}}%) entre {{vote_start_date}} y {{vote_end_date}}.",
+            "submissions_summary": "<s>{{count}} entrada</s> fue enviada entre {{start_date}} y {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} entradas</s> fueron enviadas entre {{start_date}} {{end_date}}."
         },
         "submission": {
             "view_game_page": "Ver página del juego",
