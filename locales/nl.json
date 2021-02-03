@@ -110,7 +110,7 @@
         "to_follow": {
             "created_projects": "{{project_list}} aangemaakt",
             "empty_results": "We hebben voor nu even geen aanbevelingen meer. Kijk later weer",
-            "refresh_button": "Vernieuw voor meer...",
+            "refresh_button": "Vernieuw voor meer",
             "dismiss_tooltip": "Niet meer aanbevelen"
         }
     },
@@ -421,7 +421,8 @@
             "collection": "Je hebt een account op itch.io nodig voordat je iets aan een collectie toe kan voegen.",
             "jam_submit": "Je hebt een account op itch.io nodig zodat je een spel voor een jam in kan sturen.",
             "claim_object": "Log alsjeblieft in of maak een account om de {{noun}} te claimen",
-            "recent_purchases": "Log in om aankopen die je recent hebt gemaakt te kunnen koppelen."
+            "recent_purchases": "Log in om aankopen die je recent hebt gemaakt te kunnen koppelen.",
+            "claim_object_title": "Log in of maak een account om {{title}} te claimen."
         },
         "no_account_prompt": "Heb je geen account? <1>Maak een account</1>",
         "you_are_logged_out": "Je bent uitgelogd",
@@ -429,7 +430,8 @@
         "welcome_back": "Welkom terug!",
         "welcome_to_itchio": "Welkom bij itch.io!",
         "errors": {
-            "accept_terms": "Je moet de Gebruikersvoorwaarden accepteren"
+            "accept_terms": "Je moet de Gebruikersvoorwaarden accepteren",
+            "please_enter_a_valid_email_address": "Voer alsjeblieft een geldig mail adres in"
         }
     },
     "user_register": {
