@@ -38,7 +38,7 @@
             "games": "Spil",
             "feed_unseen_count": "{{count}} ny",
             "feed_unseen_count_plural": "{{count}} nye",
-            "feed": "Feed"
+            "feed": "Foder"
         },
         "user_menu": {
             "explore": "Udforsk",
