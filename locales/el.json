@@ -36,7 +36,8 @@
             "feed_unseen_count_plural": "{{count}} νέα",
             "dashboard": "Ταμπλό",
             "feed": "Νέα",
-            "devlogs": "Αρχεία καταγραφής προγραμματιστών"
+            "devlogs": "Αρχεία καταγραφής προγραμματιστών",
+            "jams": "Jams"
         },
         "user_menu": {
             "explore": "Εξερεύνησε",
