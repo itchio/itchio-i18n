@@ -643,10 +643,10 @@
             "report_received_header": "ได้รับรายงานแล้ว",
             "title": "รายงานเพจ '{{page_title}}'",
             "submit_report_button": "ส่งรายงาน",
-            "email_creator_link": "ส่งอีเมลถึงผู้สร้าง",
+            "email_creator_link": "ส่งอีเมลถึงผู้สร้างสรรค์",
             "support_page_link": "ไปที่หน้าการช่วยเหลือ",
-            "form_description": "กรุณากรอกข้อมูลในฟอร์มนี้ให้ครบถ้วนเพื่อติดต่อทีมผู้ดูของ itch.io เกี่ยวกับเนื้อหาในหน้านี้ การรายงานของคุณอาจถูกแบ่งปันกับผู้ที่สร้างหน้าหากจำเป็น",
-            "support_from_creator": "พบปัญห่าอยู่หรือเปล่า ต้องการความช่วยเหลือจากผู้สร้างสรรค์หรือไม่?"
+            "form_description": "กรุณากรอกข้อมูลในฟอร์มนี้ให้ครบถ้วนเพื่อติดต่อทีมผู้ดูแลของ itch.io เกี่ยวกับเนื้อหาในหน้านี้ การรายงานของคุณอาจถูกแบ่งปันกับผู้ที่สร้างหน้าหากจำเป็น",
+            "support_from_creator": "พบปัญหาอยู่หรือเปล่า ต้องการความช่วยเหลือจากผู้สร้างสรรค์หรือไม่?"
         },
         "name_your_own_price": "ตั้งชื่อราคาของคุณ",
         "also_available_header": "นอกจากนี้ยังมีให้โหลดบน",
@@ -824,5 +824,59 @@
     "buy_form_popup": {
         "author_line": "<1>โดย</1> {{author}}",
         "powered_by_itchio": "ขับเคลื่อนโดย {{itchio}}"
+    },
+    "stripe_checkout": {
+        "payment_error_help": "หากไม่แน่ใจ กรุณาติดต่อ<a>ฝ่ายสนับสนุน itch.io</a> พร้อมข้อความด้านบน",
+        "card_ending_last4": "หมดอายุใน {{last4}}",
+        "buying_as": "ซื้อในชื่อ",
+        "gift_instructions": "การชำระเงินนี้เป็นของขวัญ คุณจะสามารถใส่ที่อยู่อีเมลของผู้รับได้หลังจากขำระเงินเรียบร้อยแล้ว",
+        "manage_cards_link": "คุณสามารถจัดการบัตรของคุณได้ที่<a>การตั้งค่าบัญชี",
+        "donating_price_vat_to": "ชำระค่าธรรมเนียมการบริจาคจำนวน {{price}} ไปยัง:",
+        "payment_error": "เกิดข้อผิดพลาดขณะกำลังประมวลผลธุรกรรมของคุณ:",
+        "choose_a_card": "เลือกบัตร",
+        "edit_saved_cards": "แก้ไขบัตรที่เลือก",
+        "new_card": "บัตรใหม่",
+        "enter_your_password_to_use_your_card": "ป้อนรหัสผ่านเพื่อใช้งานบัตรของคุณ",
+        "password": "รหัสผ่าน",
+        "credit_or_debit_card": "บัตรเครดิตหรือเดบิต",
+        "save_credit_card_for_future_purchases": "บันทึกบัตเครดิตไว้สำหรับการชำระเงินครั้งถัดไป",
+        "pay_price_button": "ชำระ",
+        "paying_price_for": "ชำระเงินจำนวน {{price}} สำหรับ:",
+        "donating_price_to": "บริจาคเงินจำนวน {{price}} ไปยัง:",
+        "paying_price_vat_for": "ชำระค่าธรรมเนียม {{price}} สำหรับ:",
+        "you_will_receive_files": "คุณจะได้รับ:",
+        "steam_key": "รับคีย์สตรีม",
+        "linked_to_account": "ลิงก์เข้ากับบัญชี",
+        "email": "ส่งมาที่อีเมล",
+        "youll_be_mailed_your_access_link": "คุณจะได้รับอีเมลพร้อมลิงก์เข้าถึง",
+        "full_name": "ชื่อจริง",
+        "name_as_it_appears_on_card": "ดังที่แสดงบนบัตร"
+    },
+    "game_download": {
+        "social_share_message_download": "เราเพิ่งดาวน์โหลด {{title}} โดย {{username}}",
+        "trouble_downloading_link": "การดาวน์โหลดยังไม่เริ่มต้นอีกหรือไม่?",
+        "install_instructions_intro": "ขั้นตอนการดาวน์โหลดและติดตั้งโดยผู้ใช้ {{username}}:",
+        "alternate_download": {
+            "region_message": "บางภูมิภาคอาจทำการปิดกั้นการเข้าถึง CDN  ของ itch.io กับคุณ หากการดาวน์โหลดยังไม่เริ่มต้น ของเปิดใช้งานโหมดการดาวโหลดอื่นแล้วลองอีกครั้ง",
+            "enable_alternate_download_mode": "เปิดใช้โหมดการดาวโหลดอื่น",
+            "title": "โหมดการดาวน์โหลดอื่น"
+        },
+        "app_banner": {
+            "app_description": "ติดตั้งและจัดการเกมของคุณด้วยแอป itch.io บนเดสก์ทอป",
+            "get_the_app": "รับแอป"
+        },
+        "share_and_follow": "แบ่งปันและติดตาม",
+        "or_share_on": "หรือแบ่งปันไปที่",
+        "recommendations_title": "คุณอาจสนใจ",
+        "check_out_more_from_jam_title": "ดูเพิ่มเติมจาก {{jam_title}}",
+        "check_your_email_for_the_confirmation_link": "ตรวจสอบอีเมลของคุณสำหรับรหัสยืนยัน",
+        "preorder_instructions": "โครงการนี้ยังไม่ได้ปล่อยตัวไฟล์แต่อย่างใด กลับมาตรวจดูหน้านี้เมื่อผู้สร้างปล่อยไฟล์แล้วอีกครั้งในภายหลัง",
+        "play_in_your_browser": "เล่นในเบราว์เซอร์",
+        "header": {
+            "invoice": "ใบแจ้งหนี้",
+            "more_menu": "เพิ่มเติม"
+        },
+        "start_project_button": "เริ่ม",
+        "version_name": "เวอร์ชัน {{version_name}}"
     }
 }
