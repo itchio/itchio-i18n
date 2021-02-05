@@ -97,7 +97,7 @@
             "devlogs": "บันทึกของนักพัฒนา",
             "upload_game": "อัปโหลดเกม",
             "browse_games": "ค้นหาเกม",
-            "browse": "ค้นหา",
+            "browse": "ค้นดู",
             "game_jams": "แจมเกม"
         },
         "footer": {
@@ -190,7 +190,23 @@
             },
             "primary_email_description": "อีเมลหลักของคุณคือที่อยู่ที่ itch.io จะส่งการแจ้งเตือนใด ๆ ถึงคุณ",
             "primary_email_header": "อีเมลหลัก",
-            "your_primary_email_address": "ที่อยู่อีเมลหลักของคุณ: {{email}}"
+            "your_primary_email_address": "ที่อยู่อีเมลหลักของคุณ: {{email}}",
+            "change_password_instructions": "เมื่อคุณเปลี่ยนแปลงที่อยู่อีเมลของคุณ จำเป็นต้องมีการยืนยันตัวตนก่อนเพื่อเข้าถึงเกมใด ๆ ที่ซื้อไว้ คุณจะได้รับอีเมลพร้อมวิธีการยืนยัน ด้วยเหตุผลด้านความปลอดภัยคุณยังต้องให้รหัสผ่านปัจจุบันบันก่อนทำการเปลี่ยนแปลงที่อยู่อีเมล",
+            "additional_emails_summary": "คุณสามารถเพิ่มอีเมลทางเลือกเพื่อให้สามารถเข้าถึงการชำระเงินด้วยบัญชีเหล่านี้ได้ ตัวอย่างเช่น ที่อยู่อีเมลของบัญชี PayPal ของคุณอาจแตกต่างกับ itch.io เลือกเพิ่มอีเมลนั้นเพื่อให้เข้าถึงได้ร่วมกันก็ได้เช่นกัน",
+            "additional_emails_header": "อีเมลทางเลือก",
+            "additional_emails_instructions": "คุณจะได้รับอีเมลพร้อมขัั้นตอนการยืนยันหลัังจากการเพิ่มอีเมลทางเลือกแล้ว",
+            "add_email_form": {
+                "additional_email_address_label": "อีเมลทางเลือก",
+                "add_email_button": "เพิ่มอีเมล"
+            },
+            "additional_emails": {
+                "emails_added_header": "เพิ่มอีเมลแล้ว",
+                "email_column": "อีเมล",
+                "verified_column": "ยืนยันแล้ว",
+                "resend_verification_email_button": "ส่งรหัสยืนยันอีกครั้ว",
+                "email_sent_status": "ส่งอีเมลแล้ว",
+                "detach_email": "นำอีเมลออก"
+            }
         }
     },
     "browse": {
@@ -232,7 +248,7 @@
         "filter_group_release_status": "สถานะการเผยแพร่",
         "filter_group_misc": "อื่น ๆ",
         "filter_group_collection": "คอลเลคชัน",
-        "filter_group_tools": "เครื่องมือและตัวขับเคลื่อน",
+        "filter_group_tools": "เครื่องมือและเอนจิน",
         "fresh_description": "ค้นหาชุดโครงการที่มีการอัปเดตอย่างสม่ำเสมอจากคอลเลคชันที่คัดสรรโดยสมาชิกของเรา กลับมาตรวจสอบการเพิ่มเติมใหม่ ๆ ได้",
         "filter_everything_else": "ทุกอย่างที่มี"
     },
@@ -639,7 +655,7 @@
     },
     "buy_form": {
         "this_purchase_is_a_gift": "การซื้อนี้เป็นของขวัญ",
-        "agree_to_terms": "การทำชำระเงินเสร็จให้สมบูรณ์แสดงว่าคุณยอมรับ <1> ข้อกำหนดในการให้บริการ </1> และ <2> นโยบายความเป็นส่วนตัว </2> ของ itch.io",
+        "agree_to_terms": "การทำธุรกรรมนี้ให้สมบูรณ์แสดงว่าคุณยอมรับ<1>ข้อกำหนดการให้บริการ</1>และ<2>นโยบายความเป็นส่วนตัว</2>ของ itch.io",
         "included_files": "ไฟล์ที่รวมอยู่ด้วย",
         "i_already_paid_for_this": "ฉันจ่ายเงินไปแล้วนะ...",
         "gift_email_instructions": "คุณจะสามารถเลือกอีเมลเพื่อส่งของขวัญให้หลังจากที่คุณชำระเงินแล้ว",
@@ -712,7 +728,7 @@
             "see_community_guidelines": "ดูที่<a>หลักเกณฑ์ของชุมชน</a>สำหรับนโยบายชุมชน itch.io",
             "sticky": "ปักหมุด",
             "moderator_tools": "เครื่องมือผู้ดูแล",
-            "locked": "ล็อกอยู่",
+            "locked": "ถูกล็อค",
             "moderation_options": "ตัวเลือก",
             "i_agree_to_the_rules_above": "ฉันยอมรับกฎข้างต้น",
             "new_topic": "หัวข้อใหม่",
@@ -768,8 +784,8 @@
             "edits_count": "(แก้ไข {{count}} ครั้ง)",
             "like": "ถูกใจ",
             "view_more_in_thread": "ดูเพิ่มเติมในเธรด",
-            "vote_up": "โหวตให้",
-            "vote_down": "โหวตแพ้"
+            "vote_up": "โหวตขึ้น",
+            "vote_down": "โหวตลง"
         },
         "post_form": {
             "add_profile_image": "เพิ่มรูปโปรไฟล์",
@@ -801,7 +817,7 @@
     },
     "browse_tags": {
         "page_title": "แท็กยอดนิยม",
-        "find_tag": "ค้นหาแท็ก",
+        "find_tag": "ค้นแท็ก",
         "commonly_tagged_with": "โดยทั่วไปถูกแท็กอยู่กับ",
         "no_description_yet": "ยังไม่มีคำอธิบาย"
     },
