@@ -830,7 +830,7 @@
         "card_ending_last4": "หมดอายุใน {{last4}}",
         "buying_as": "ซื้อในชื่อ",
         "gift_instructions": "การชำระเงินนี้เป็นของขวัญ คุณจะสามารถใส่ที่อยู่อีเมลของผู้รับได้หลังจากขำระเงินเรียบร้อยแล้ว",
-        "manage_cards_link": "คุณสามารถจัดการบัตรของคุณได้ที่<a>การตั้งค่าบัญชี",
+        "manage_cards_link": "คุณสามารถจัดการบัตรของคุณได้ที่<a>การตั้งค่าบัญชี</a>",
         "donating_price_vat_to": "ชำระค่าธรรมเนียมการบริจาคจำนวน {{price}} ไปยัง:",
         "payment_error": "เกิดข้อผิดพลาดขณะกำลังประมวลผลธุรกรรมของคุณ:",
         "choose_a_card": "เลือกบัตร",
@@ -840,7 +840,7 @@
         "password": "รหัสผ่าน",
         "credit_or_debit_card": "บัตรเครดิตหรือเดบิต",
         "save_credit_card_for_future_purchases": "บันทึกบัตเครดิตไว้สำหรับการชำระเงินครั้งถัดไป",
-        "pay_price_button": "ชำระ",
+        "pay_price_button": "ชำระ {{price}}",
         "paying_price_for": "ชำระเงินจำนวน {{price}} สำหรับ:",
         "donating_price_to": "บริจาคเงินจำนวน {{price}} ไปยัง:",
         "paying_price_vat_for": "ชำระค่าธรรมเนียม {{price}} สำหรับ:",
@@ -857,7 +857,7 @@
         "trouble_downloading_link": "การดาวน์โหลดยังไม่เริ่มต้นอีกหรือไม่?",
         "install_instructions_intro": "ขั้นตอนการดาวน์โหลดและติดตั้งโดยผู้ใช้ {{username}}:",
         "alternate_download": {
-            "region_message": "บางภูมิภาคอาจทำการปิดกั้นการเข้าถึง CDN  ของ itch.io กับคุณ หากการดาวน์โหลดยังไม่เริ่มต้น ของเปิดใช้งานโหมดการดาวโหลดอื่นแล้วลองอีกครั้ง",
+            "region_message": "บางภูมิภาคอาจทำการปิดกั้นการเข้าถึง CDN ของ itch.io กับคุณ หากการดาวน์โหลดยังไม่เริ่มต้น ของเปิดใช้งานโหมดการดาวโหลดอื่นแล้วลองอีกครั้ง",
             "enable_alternate_download_mode": "เปิดใช้โหมดการดาวโหลดอื่น",
             "title": "โหมดการดาวน์โหลดอื่น"
         },
@@ -874,9 +874,19 @@
         "play_in_your_browser": "เล่นในเบราว์เซอร์",
         "header": {
             "invoice": "ใบแจ้งหนี้",
-            "more_menu": "เพิ่มเติม"
+            "more_menu": "เพิ่มเติม",
+            "return_to_project": "กลับหน้าโครงการ",
+            "view_rest_in_bundle": "ดูรายการอื่นในบันเดิล",
+            "preorder_title": "พรีออเดอร์ {{project_title}}",
+            "download_title": "ดาวน์โหลด {{project_title}}",
+            "view_all_my_purchases": "ดูการทำธุรกรรมทั้งหมดของฉัน",
+            "discussion_board": "บอร์ดพูดคุย"
         },
         "start_project_button": "เริ่ม",
-        "version_name": "เวอร์ชัน {{version_name}}"
+        "version_name": "เวอร์ชัน {{version_name}}",
+        "link_my_account": "เชื่อมโยงกับบัญชีของฉัน",
+        "link_account_header": "เชื่อมโยงหน้าดาวน์โหลดนี้เข้ากับบัญชี itch.io ของคุณ",
+        "linked_user_message": "หน้านี้เขื่อมโยงเข้ากับบัญชี {{username}}",
+        "log_in_to_link": "เข้าสู่ระบบเพื่อเชื่อมโยง"
     }
 }
