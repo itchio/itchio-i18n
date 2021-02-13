@@ -130,6 +130,16 @@
         "funny": "خنده دار",
         "frog": "قورباغه ها",
         "forest": "جنگل",
-        "tennis": "تنیس"
+        "tennis": "تنیس",
+        "zombies": "زامبی ها",
+        "world-war-ii": "جنگ جهانی دوم",
+        "world-war-i": "جنگ جهانی اول",
+        "war": "جنگ",
+        "trading": "تجارت",
+        "tower-defense": "برج دفاعی",
+        "time-travel": "زمان سفر",
+        "time-attack": "زمان حمله",
+        "third-person-shooter": "تیرانداز سوم شخص",
+        "third-person": "سوم شخص"
     }
 }
