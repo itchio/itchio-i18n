@@ -2,7 +2,7 @@
     "itchio": "itch.io",
     "layout": {
         "footer": {
-            "faq": "الأسئلة المتكررة‏‪‪‌‌",
+            "faq": "الأسئلة المتكررة",
             "blog": "المدونة",
             "contact_us": "تواصل معنا",
             "terms": "الشروط والأحكام",
@@ -1028,12 +1028,12 @@
             "submissions_summary_3": "<s> عدد {{count}} مشاركات </s> تم تقديمهم في الفترة ما بين {{start_date}} و {{end_date}}.",
             "submissions_summary_4": "<s> عدد {{count}} مشاركة </s> تم تقديمهم في الفترة ما بين {{start_date}} و {{end_date}}.",
             "submissions_summary_5": "<s> عدد {{count}} مشاركة </s> تم تقديمها في الفترة ما بين {{start_date}} و {{end_date}}.",
-            "ratings_given_submissions_count_0": "<s> عدد {{count}} تقييم </s> تم منحه <s> إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_1": "<s> عدد {{count}} تقييم </s> تم منحه <s> إلي {{submission_count}} مشاركة (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_2": "<s> عدد {{count}} تقييم </s> تم منحهم <s> إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_3": "<s> عدد {{count}} تقييمات </s> تم منحهم <s> إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_4": "<s> عدد {{count}} تقييم </s> تم منحهم <s> إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_5": "<s> عدد {{count}} تقييم </s> تم منحهم <s> إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}."
+            "ratings_given_submissions_count_0": "<s> عدد {{count}} تقييم </s> تم منحه إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_1": "<s> عدد {{count}} تقييم </s> تم منحه إلي {{submission_count}} مشاركة (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_2": "<s> عدد {{count}} تقييم </s> تم منحهم إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_3": "<s> عدد {{count}} تقييمات </s> تم منحهم إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_4": "<s> عدد {{count}} تقييم </s> تم منحهم إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_5": "<s> عدد {{count}} تقييم </s> تم منحهم إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}."
         },
         "submission": {
             "comments": {
@@ -1429,7 +1429,7 @@
         "brose_featured_jams": "الكوم المميزة",
         "browse_top_past_jams": "أعلي القوم السابقة",
         "browse_in_progress": "قيد الإنجاز",
-        "host_or_explore_links": "<1>إستضف كومتك الخاصة</ 1> أو <2>إستكشف كل الكوم </2>",
+        "host_or_explore_links": "<1>إستضف كومتك الخاصة</1> أو <2>إستكشف كل الكوم</2>",
         "page_summary": "itch.io هو مكان للاستضافة والمشاركة في كوم الألعاب عبر الإنترنت. يمكن لأي شخص إنشاء واستضافة كومة على الفور.",
         "count_joined": "انضم {{count}}",
         "manage_submissions_link": "إدارة المشاركات و الكوم",

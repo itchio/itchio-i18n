@@ -378,7 +378,6 @@
             "follow_username": "Следване на {{username}}",
             "following_username": "Следвате {{username}}",
             "add_to_collection": "Добавяне към колекция",
-            "rate_this_noun": "Оценяване",
             "submission_to_jam": "Участва в {{jam_title}}"
         },
         "after_download": {
@@ -429,11 +428,9 @@
             "empty_message": "Все още няма нищо за сваляне."
         },
         "community_post_author": "от {{username}}",
-        "unavailable": "Недостъпно в момента",
         "download_or_claim_button": "Сваляне или получаване",
         "name_your_own_price": "Изберете сума по свой избор",
         "development_log_header": "Журнал на разработката",
-        "in_order_to_access": "За да получите достъп, трябва да заплатите {{price}} или повече.",
         "donate_button": "Подкрепете това ({{noun}})"
     },
     "buy_form": {
