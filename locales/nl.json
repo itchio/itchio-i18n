@@ -32,7 +32,7 @@
             "game_development": "Spelontwikkeling",
             "comics": "Strips",
             "sales": "Aanbiedingen",
-            "devlogs": "Ontwikkelaarslogboeken",
+            "devlogs": "Ontwikkelaarsblogs",
             "fun_games": "Leuke spellen",
             "games": "Spellen",
             "feed_unseen_count": "{{count}} nieuw",
@@ -95,7 +95,7 @@
         "filtering_platform": "Alle spellen gefilterd op {{platform_name}}",
         "view_all_platforms": "Bekijk alle platformen",
         "nav": {
-            "devlogs": "Ontwikkelaars blogs",
+            "devlogs": "Ontwikkelaarsblogs",
             "community": "Community",
             "all_games": "Alle spellen",
             "bundles": "Bundels",
@@ -431,7 +431,7 @@
         "welcome_to_itchio": "Welkom bij itch.io!",
         "errors": {
             "accept_terms": "Je moet de Gebruikersvoorwaarden accepteren",
-            "please_enter_a_valid_email_address": "Voer alsjeblieft een geldig mail adres in"
+            "please_enter_a_valid_email_address": "Voer alsjeblieft een geldig emailadres in"
         }
     },
     "user_register": {
@@ -1269,7 +1269,7 @@
         "filter_everything_tab": "Alles",
         "filter_new_projects_tab": "Nieuwe projecten",
         "filter_collections_tab": "Collecties",
-        "filter_devlogs_tab": "Devlogs",
+        "filter_devlogs_tab": "Ontwikkelaarsblogs",
         "filter_ratings_tab": "Beoordelingen",
         "latest_featured_games_header": "Recent uitgelichte spellen",
         "featured_tags_header": "Uitgelichte labels",
