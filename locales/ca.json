@@ -99,7 +99,7 @@
             "all_games": "Tots els jocs",
             "bundles": "Paquets",
             "game_jams": "Game jams",
-            "devlogs": "Devlogs",
+            "devlogs": "Diaris de desenvolupament",
             "community": "Comunitat"
         },
         "intro": "<s>itch.io</s> és una manera simple de trobar i compartir jocs independents en línia i de franc.",
@@ -1269,7 +1269,7 @@
         "filter_everything_tab": "Tot",
         "filter_new_projects_tab": "Projectes nous",
         "filter_collections_tab": "Col·leccions",
-        "filter_devlogs_tab": "Devlogs",
+        "filter_devlogs_tab": "Diaris de desenvolupament",
         "filter_ratings_tab": "Puntuacions",
         "latest_featured_games_header": "Darrers jocs destacats",
         "featured_tags_header": "Etiquetes destacades",
