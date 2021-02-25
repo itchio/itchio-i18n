@@ -94,7 +94,7 @@
         "nav": {
             "community": "Komunitas",
             "all_games": "Semua Game",
-            "devlogs": "Devlog",
+            "devlogs": "Catatan pengembangan",
             "bundles": "Bundel",
             "game_jams": "Game jam"
         },
@@ -1250,7 +1250,7 @@
         "filter_everything_tab": "Semuanya",
         "filter_new_projects_tab": "Proyek baru",
         "filter_collections_tab": "Koleksi",
-        "filter_devlogs_tab": "Devlog",
+        "filter_devlogs_tab": "Catatan pengembangan",
         "filter_ratings_tab": "Rating",
         "latest_featured_games_header": "Game pilihan terbaru",
         "featured_tags_header": "Tag pilihan",
