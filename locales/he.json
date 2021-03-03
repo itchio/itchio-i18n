@@ -484,14 +484,37 @@
                 "send_gift": "שלחו מתנה",
                 "download": "הורדה",
                 "percent_off": "{{percent}}% הנחה",
-                "you_havent_sent_this_gift_to_anyone_yet": "טרם שלחת מתנה זו"
+                "you_havent_sent_this_gift_to_anyone_yet": "עדיין לא שלחת מתנה זו",
+                "claimed": "מומש",
+                "you_were_gifted_this": "נתנו לך את המתנה הזו",
+                "purchased_in_a_bundle_for_price": "נרכש בחבילה עבור {{price}}",
+                "purchased_for_price": "נרכש ב{{price}}"
+            },
+            "footer": {
+                "view_all_by_username": "צפה בהכל על-ידי {{username}}",
+                "embed": "שבץ",
+                "updated_date": "עודכן {{date}}",
+                "report": "דווח"
+            },
+            "jam_submission": {
+                "this_is_a_submission_to_jam_title": "זו הגשה ל{{jam_title}}",
+                "view_the_submission_page": "צפה בעמוד ההגשות",
+                "accepting_ratiings": "הג'אם מקבל דירוגים להגשות כרגע. <a>למד עוד</a>",
+                "you_rated_this_game": "דירגת את המשחק הזה",
+                "now_accepting_ratings": "הג'אם כרגע מקבל דירוגים לפריטים.",
+                "rating_instructions": "דרג ותגיב על הפריט הזה בשביל הג'אם על ידי כניסה לעמוד ההגשה מהלינק למעלה."
             }
         },
         "community_post_author": "על-ידי {{username}}",
         "community_posts_count_0": "הודעה אחת",
         "community_posts_count_1": "שתי הודעות",
         "community_posts_count_2": "{{count}} הודעות",
-        "community_posts_count_3": "{{count}} הודעות"
+        "community_posts_count_3": "{{count}} הודעות",
+        "after_download": {
+            "share_this_project": "שתף את הפרוייקט הזה",
+            "thanks_for_downloading_title": "תודה שהורדת",
+            "thanks_project_author": "תודה שהורדת את {{project}} על ידי {{author}}."
+        }
     },
     "buy_form": {
         "gift_email_instructions": "אתה תבחר אימייל לשלוח את המתנה לאחר ששילמת"
