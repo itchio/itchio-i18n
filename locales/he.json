@@ -513,7 +513,14 @@
         "after_download": {
             "share_this_project": "שתף את הפרוייקט הזה",
             "thanks_for_downloading_title": "תודה שהורדת",
-            "thanks_project_author": "תודה שהורדת את {{project}} על ידי {{author}}."
+            "thanks_project_author": "תודה שהורדת את {{project}} על ידי {{author}}.",
+            "check_popup_blocker": "ההורדה אמורה להתחיל תוך כמה רגעים. אם היא לא, בדוק את חוסם הפופ אפים שלך.",
+            "check_out_more_from_jam_title": "ראה עוד משחקים מה {{jam_title}}",
+            "view_all_from_jam": "ראה הכל מהג'אם",
+            "more_from_itchio_header": "ראה עוד מitch.io",
+            "see_everything": "ראה הכל",
+            "app_learn_more": "<s>חדש!</s> תבדוק את האפליקציה החדשה לשולחן העבודה של itch.io כדי להוריד ולנהל את הספרייה שלך. <a>למד עוד</a>",
+            "more_from_creator": "אתה יכול למצוא עוד דברים מהיוצר הזה בעמוד שלהם: {{profile}}."
         }
     },
     "buy_form": {
