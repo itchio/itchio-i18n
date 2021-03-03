@@ -455,7 +455,9 @@
             "play_in_browser": "שחקו בדפדפן",
             "if_you_pay_price_or_more": "בעבור {{price}} ומעלה",
             "version_name": "גרסא {{version_name}}",
-            "this_file_will_be_available_when_the_creator_uploads_it": "הקובץ יהיה זמין כשהיוצרים יעלו אותו"
+            "this_file_will_be_available_when_the_creator_uploads_it": "הקובץ יהיה זמין כשהיוצרים יעלו אותו",
+            "download": "הורד",
+            "empty_message": "שום דבר לא זמין להורדה כרגע."
         },
         "layout": {
             "view_all_by_name": "הצג הכל מאת {{name}}",
