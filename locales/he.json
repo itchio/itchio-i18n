@@ -39,7 +39,7 @@
             "bundles": "חבילות",
             "game_assets": "חומרי גלם",
             "feed": "פיד",
-            "game_jams": "s",
+            "game_jams": "ריבת משחקים",
             "jams": "Jams",
             "devlogs": "יומני מפתח"
         },
@@ -174,7 +174,8 @@
         },
         "multiplayer_features": {
             "server": "מרובה משתתפים באינטרנט",
-            "local": "מרובה משתתפים לוקאליים"
+            "local": "מרובה משתתפים לוקאליים",
+            "adhoc": "משחק רשת אד-הוק רב-משתתפים"
         },
         "durations": {
             "days": "ימים או יותר",
@@ -398,7 +399,7 @@
         "preorder_button": "הזמינו מראש עכשיו",
         "buy_now_button": "קנה עכשיו",
         "name_your_own_price": "בחר כמה לשלם",
-        "price_or_more": "",
+        "price_or_more": "{{price}} <s>או יותר</s>",
         "development_log_header": "יומן פיתוח",
         "devlog_view_all_posts": "צפה בכל הפוסטים",
         "your_purchase_comes_with_a_steam_key": "הרכישה שלך מגיעה עם מפתח לסטים.",
@@ -409,10 +410,10 @@
             "comments_header": "תגובות",
             "leave_a_comment_header": "להשאיר תגובה",
             "leave_a_comment": "להשאיר תגובה",
-            "post_comment": "",
+            "post_comment": "פרסמו תגובה",
             "write_your_comment": "רשום את התגובה שלך…",
             "click_to_leave_a_comment": "הקלק כדי להשאיר תגובה...",
-            "log_in_to_leave_comment": ""
+            "log_in_to_leave_comment": "<a>התחברו עם משתמש itch.io</a> כדי להשאיר תגובה."
         },
         "info_panel": {
             "updated_at": "עודכן",
@@ -437,11 +438,46 @@
             "multiplayer": "מרובה שחקנים",
             "player_count": "מספר שחקנים",
             "singleplayer": "שחקן יחיד",
-            "links": "קישורים"
+            "links": "קישורים",
+            "mentions": "אזכורים"
         },
         "percent_off": "<s>{{percent}}%</s> הנחה",
         "in_order_to_access": "כדי לגשת ל{{noun}} הזה, עליך לקנות את זה במחיר המינימלי של {{price}} או יותר.",
-        "on_sale": "במבצע!"
+        "on_sale": "במבצע!",
+        "community_header": "קהילה",
+        "join_the_community": "הצטרפו לקהילה",
+        "community_view_all_posts": "הצג את כל ההודעות",
+        "post_a_new_topic": "פרסם נושא חדש",
+        "post_first_topic": "פרסם נושא ראשון",
+        "community_sticky": "דביק",
+        "upload_list": {
+            "preorder": "הזמנה מראש",
+            "play_in_browser": "שחקו בדפדפן",
+            "if_you_pay_price_or_more": "בעבור {{price}} ומעלה",
+            "version_name": "גרסא {{version_name}}",
+            "this_file_will_be_available_when_the_creator_uploads_it": "הקובץ יהיה זמין כשהיוצרים יעלו אותו"
+        },
+        "layout": {
+            "view_all_by_name": "הצג הכל מאת {{name}}",
+            "creator": "יוצר",
+            "follow": "עקוב",
+            "following": "עוקבים אחר",
+            "following_username": "עוקב אחר {{username}}",
+            "add_to_collection": "הוסף לאוסף",
+            "add_to_collection_short": "אוסף",
+            "comments": "תגובות",
+            "community": "קהילה",
+            "edit_your_rating": "ערוך דירוג",
+            "edit_rating": "ערוך דירוג",
+            "rate": "דירוג",
+            "follow_username": "עקוב אחר {{username}}",
+            "devlog": "יומן פיתוח"
+        },
+        "community_post_author": "על-ידי {{username}}",
+        "community_posts_count_0": "הודעה אחת",
+        "community_posts_count_1": "שתי הודעות",
+        "community_posts_count_2": "{{count}} הודעות",
+        "community_posts_count_3": "{{count}} הודעות"
     },
     "buy_form": {
         "gift_email_instructions": "אתה תבחר אימייל לשלוח את המתנה לאחר ששילמת"
