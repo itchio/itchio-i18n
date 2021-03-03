@@ -56,7 +56,9 @@
             "dashboard": "לוח בקרה",
             "feed": "הפיד שלי",
             "explore": "חקור",
-            "sales_bundles": "הנחות ומבצעים"
+            "sales_bundles": "הנחות ומבצעים",
+            "host_game_jam": "צור גיים ג'אם",
+            "game_jams": "גיים ג'אם"
         }
     },
     "index": {
@@ -88,7 +90,8 @@
         "nav": {
             "community": "קהילה",
             "all_games": "כל המשחקים",
-            "bundles": "חבילות"
+            "bundles": "חבילות",
+            "devlogs": "יומני מפתח"
         },
         "intro": "<s>itch.io</s> מהווה דרך פשוטה למצוא ולשתף משחקים ברשת בחינם.",
         "intro_cta": "<1>הוסף את המשחק שלך</1> או <2>קרא שאלות נפוצות</2>",
@@ -393,5 +396,20 @@
     },
     "browse": {
         "fresh_description": "גלה לקט של פרוייקטים המתעדכן כל הזמן הנבחר על ידי משתתפינו. בדוק שוב בשביל עדכונים נוספים."
+    },
+    "library": {
+        "download_button": "הורד",
+        "gift_button": "מתנה",
+        "rate_game": {
+            "rating_saved_header": "דירוגים שנשמרו",
+            "rating_removed_header": "דירוג נמחק",
+            "delete_button": "מחק דירוג וביקורת",
+            "rate_header": "דרג ובקר את {{project_title}}",
+            "you_rated_this_project_ago": "דירגת פרויקט זה {{time_ago}}",
+            "follow_creator": "תשקול לעקוב אחר היוצר של {{project_title}} כדי להישאר מעודכנים",
+            "rating_deleted_summary": "הדירוג שלך נמחק",
+            "choose_stars": "בחר דירוג בין אחד לחמישה כוכבים"
+        },
+        "redeem_button": "ממש"
     }
 }
