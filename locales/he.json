@@ -474,7 +474,18 @@
             "rate": "דרג",
             "follow_username": "עקוב אחר {{username}}",
             "devlog": "יומן פיתוח",
-            "related_games_short": "קשור"
+            "related_games_short": "קשור",
+            "rate_this_noun": "דרג את ה-{{noun}} הזה",
+            "rate_for_jam": "דרג עבור {{jam_title}}",
+            "submission_to_jam": "הגשה בעבור {{jam_title}}",
+            "related_games": "משחקים נוספים",
+            "ownership": {
+                "you_own_this": "בבעלותך",
+                "send_gift": "שלחו מתנה",
+                "download": "הורדה",
+                "percent_off": "{{percent}}% הנחה",
+                "you_havent_sent_this_gift_to_anyone_yet": "טרם שלחת מתנה זו"
+            }
         },
         "community_post_author": "על-ידי {{username}}",
         "community_posts_count_0": "הודעה אחת",
