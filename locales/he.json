@@ -471,9 +471,10 @@
             "community": "קהילה",
             "edit_your_rating": "ערוך דירוג",
             "edit_rating": "ערוך דירוג",
-            "rate": "דירוג",
+            "rate": "דרג",
             "follow_username": "עקוב אחר {{username}}",
-            "devlog": "יומן פיתוח"
+            "devlog": "יומן פיתוח",
+            "related_games_short": "קשור"
         },
         "community_post_author": "על-ידי {{username}}",
         "community_posts_count_0": "הודעה אחת",
