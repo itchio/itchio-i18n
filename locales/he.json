@@ -520,7 +520,22 @@
             "more_from_itchio_header": "ראה עוד מitch.io",
             "see_everything": "ראה הכל",
             "app_learn_more": "<s>חדש!</s> תבדוק את האפליקציה החדשה לשולחן העבודה של itch.io כדי להוריד ולנהל את הספרייה שלך. <a>למד עוד</a>",
-            "more_from_creator": "אתה יכול למצוא עוד דברים מהיוצר הזה בעמוד שלהם: {{profile}}."
+            "more_from_creator": "אתה יכול למצוא עוד דברים מהיוצר הזה בעמוד שלהם: {{profile}}.",
+            "powered_by": ""
+        },
+        "report_form": {
+            "email_creator_link": "שלח דואל אל היוצר",
+            "support_from_creator": "אתה נתקל בבעיות, אתה צריך תמיכה מהיוצר?",
+            "support_page_link": "עבור אל עמוד התמיכה הרשמי",
+            "submit_report_button": "הגש דיווח",
+            "report_received_header": "דיווח התקבל",
+            "title": "דווח על העמוד '{{page_title}}'",
+            "description_label": "תיאור",
+            "reason_label": "סיבה",
+            "reason_other": "אחר"
+        },
+        "password_required": {
+            "header": "סיסמה מתבקשת כדי לגשת לעמוד הזה"
         }
     },
     "buy_form": {
@@ -543,5 +558,15 @@
             "choose_stars": "בחר דירוג בין אחד לחמישה כוכבים"
         },
         "redeem_button": "ממש"
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "הנושא הזה בארכיון ואי אפשר לפרסם בו יותר",
+            "reply": "הגב",
+            "log_in_to_reply": "התחבר כדי להגיב",
+            "join_the_discussion": "הצטרף אל השיחה. התחבר או תיצור חשבון itch.io בחינם כדי להמשיך.",
+            "reply_to_someone_else": "רוצה להגיב למישהו אחר? לחץ על",
+            "unlisted_topic_notice": "<s>מנהל הסיר את העמוד הזה.</s> הוא לא זמין ברשימת הנושאים אבל אתה עדיין יכול להגיב ולערוך."
+        }
     }
 }
