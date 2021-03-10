@@ -258,12 +258,12 @@
         "intent": {
             "community": "Sinun pitää kirjautua osallistuaksesi itch.io:n yhteisöihin. Tilin luominen on ilmaista ja kestää vain hetken.",
             "comment": "Tarvitset itch.io tilin ennenkuin voit kommentoida.",
-            "rate_game": "Tarvitset itch.io -tilin ennen kuin voit arvostella pelin.",
+            "rate_game": "Tarvitset itch.io-tilin ennen kuin voit arvostella pelin.",
             "follow": "Tarvitset itch.io tilin seurataksesi jotakuta.",
             "follow_username": "Tarvitset itch.io-tilin ennen kuin voit seurata käyttäjää <1>{{username}}</1>.",
             "collection": "Tarvitset itch.io-tilin ennen kuin voit lisätä kokoelmaan.",
             "jam_submit": "Tarvitset itch.io-tilin ennen kuin voit osallistua jamiin.",
-            "claim_object": "Kirjaudu sisään tai luo tunnus lunastaaksesi tuotteen {{noun}}",
+            "claim_object": "Kirjaudu sisään tai luo tunnus lunastaaksesi tuotteen {{noun}}.",
             "claim_object_title": "Kirjaudu sisään tai luo tili lunastaaksesi {{title}}.",
             "recent_purchases": "Kirjaudu sisään linkataksesi juuri tekemäsi ostokset."
         },
