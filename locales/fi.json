@@ -258,7 +258,7 @@
         "intent": {
             "community": "Sinun pitää kirjautua osallistuaksesi itch.io:n yhteisöihin. Tilin luominen on ilmaista ja kestää vain hetken.",
             "comment": "Tarvitset itch.io tilin ennenkuin voit kommentoida.",
-            "rate_game": "Tarvitset itch.io tilin ennenkuin voit arvostella pelin.",
+            "rate_game": "Tarvitset itch.io -tilin ennen kuin voit arvostella pelin.",
             "follow": "Tarvitset itch.io tilin seurataksesi jotakuta.",
             "follow_username": "Tarvitset itch.io-tilin ennen kuin voit seurata käyttäjää <1>{{username}}</1>.",
             "collection": "Tarvitset itch.io-tilin ennen kuin voit lisätä kokoelmaan.",
