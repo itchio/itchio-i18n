@@ -269,7 +269,8 @@
         },
         "no_account_prompt": "Eikö sinulla ole tunnusta? <1>Luo tunnus</1>",
         "errors": {
-            "accept_terms": "Sinun täytyy hyväksyä käyttöehdot"
+            "accept_terms": "Sinun täytyy hyväksyä käyttöehdot",
+            "please_enter_a_valid_email_address": "Syötä voimassa oleva sähköpostiosoite"
         },
         "welcome_to_itchio": "Tervetuloa itch.io -sivustolle!",
         "welcome_back": "Tervetuloa takaisin!",
