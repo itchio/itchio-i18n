@@ -518,7 +518,7 @@
         "create_account_or_login": "<1>Bir hesap oluşturun</1> <em>veya</em><2>Giriş yapın</2>",
         "upload_or_dashboard": "<1>Yeni bir oyun yükleyin</1> <em>veya</em> <2>Kontrol panelini açın</2>",
         "design_your_games_page_description": "İnsanların oyununuzu indirebilecekleri veya satın alabilecekleri özelleştirilmiş bir sayfa yaratın. Renkleri, yazı tiplerini, resimleri ve videoları siz seçin. Bu sizin oyununuzun sayfası olacağı için, sayfada sizin koymadığınız hiçbir şey yer almayacaktır.",
-        "track_your_game_description": "İnsanların oyununuzun sayfasını nasıl incelediğini, görüntüleme sayısı, indirmeler ve satın almaların da dahil olduğu detaylı analizler ile takip edin. Oyununuzu promosyon olarak dağıtmak mı istiyorsunuz?İnsanların oyununuza erişip onu indirebilmeleri için indirme anahtarı oluşturup dağıtın."
+        "track_your_game_description": "İnsanların oyununuzun sayfasını nasıl incelediğini, görüntüleme sayısı, indirmeler ve satın almaların da dahil olduğu detaylı analizler ile takip edin. Oyununuzu promosyon olarak dağıtmak mı istiyorsunuz? İnsanların oyununuza erişip onu indirebilmeleri için indirme anahtarı oluşturup dağıtın."
     },
     "search": {
         "creators": "Geliştiriciler:",
