@@ -327,7 +327,8 @@
         "summary": "Perisian itch.io, <s>itch</s>, membolehkan anda memuat turun dan main permainan serta perisian dari itch.io. Semua muat turun disimpan di satu tempat dan dikemas kini secara automatik. Akses koleksi dan pembelian anda, atau cari permainan baharu melalui penyemak imbas dalam-perisian.",
         "tagline": "Pasang, kemas kini dan main permainan indie",
         "share_message": "itch, perisian desktop untuk permainan indie",
-        "open_source": "Sumber terbuka"
+        "open_source": "Sumber terbuka",
+        "browse_description": "Dalam itch.io, pereka dapat mengawal reka bentuk halaman projek mereka. Pelayar yang dibina masuk memberikan anda peluang untuk memuat turun permainan video sambil anda terokai <a>reka bentuk halaman pereka kami</a>."
     },
     "search": {
         "view_all_tags": "Tunjukkan semua tag",
@@ -349,7 +350,7 @@
         "account_faq_cta": "<1>Cipta akaun sekarang</1> atau <2>Baca FAQ</2>",
         "upload_a_new_game": "Muat naik permainan baru",
         "page_header": "Cipta halaman sendiri untuk mengagihkan atau menjual permainan indie anda dengan segera",
-        "track_your_game_description": "Perhatikan bagaimana orang melihat permainan anda dengan analitik terperinci yang menukar pandangan, muat turun dan pembelian. Ingin menjalankan promosi? Hasilkan kekunci muat turun untuk memberi akses ke permainan anda.",
+        "track_your_game_description": "Perhatikan bagaimana orang melihat permainan anda dengan analitik terperinci yang merangkumi bilangan pandangan, muat turun serta pembelian. Ingin menganjurkan promosi? Janakan kekunci muat turun untuk memberi akses kepada permainan anda.",
         "upload_your_game_description": "Muat naik permainan indie anda di <s>itch.io</s> secara percuma. Kami hoskan permainan anda, bersama-sama dengan tangkapan skrin permainan anda dan lain-lain muat turun. Muat turun anda sentiasa tersedia dan sentiasa pantas.",
         "browser_game_description": "Buat duit dari permainan penyemak imbas anda dengan menghoskannya di <s>itch.io</s>. Permainan anda akan disiarkan di penyemak imbas dan pemain boleh menderma apa-apa jumlah yang mereka mahu jika mereka sukakannya.",
         "host_a_sale_description": "Promosikan permainan anda dan dapatkan lebih pembelian dengan menawarkan harga berdiskaun untuk sebarang jangka masa.",
