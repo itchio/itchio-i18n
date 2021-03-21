@@ -527,7 +527,17 @@
             "this_reply_will_go_to_yourself": "Odpovídáte sami sobě.",
             "reply_to_someone_else": "Chcete někomu odpovědět? Klikněte na <s>odpovědět</s> pod tímto příspěvkem.",
             "unlisted_topic_notice": "<s>Moderátor skryl toto téma.</s> Není viditelné v listu témat ale stále můžeš odpovídat a upravovat.",
-            "join_the_discussion": "Připojte se k diskuzi. Pro pokračování se přihlaste nebo si vytvořte bezplatný itch.io účet."
+            "join_the_discussion": "Připojte se k diskuzi. Pro pokračování se přihlaste nebo si vytvořte bezplatný itch.io účet.",
+            "new_reply": "Nová odpověď",
+            "remove_bookmark": "Odstranit záložku",
+            "bookmark": "Záložka",
+            "unsubscribe": "Zrušit odběr",
+            "subscribe": "Odebírat",
+            "return_to_topic_list": "Zpět na seznam témat",
+            "views_count": "Zhlédnutí: {{count}}",
+            "this_reply_will_go_to_the_topic_author": "Odpovídáte autorovi tohoto tématu, {{username}}.",
+            "locked": "Uzamčeno",
+            "replies_count": "Odpovědi: {{count}}"
         }
     }
 }
