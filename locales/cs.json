@@ -134,7 +134,8 @@
             "more_from_creator": "Více od tohoto tvůrce můžete najít na jeho stránce: {{profile}}.",
             "thanks_project_author": "Děkujeme za stažení {{project}} od {{author}}.",
             "thanks_for_downloading_title": "Děkujeme za stažení",
-            "share_this_project": "Sdílet tento projekt"
+            "share_this_project": "Sdílet tento projekt",
+            "more_from_itchio_header": "Podívejte se na víc z itch.io"
         },
         "layout": {
             "jam_submission": {
@@ -257,7 +258,24 @@
         "community_header": "Komunita",
         "download_or_claim_button": "Stáhnot nebo vybrat",
         "your_purchase_comes_with_a_steam_key": "K nákupu dostanete Steam klíč.",
-        "community_post_author": "autor: {{username}}"
+        "community_post_author": "autor: {{username}}",
+        "name_your_own_price": "Zadejte svou vlastní cenu",
+        "post_first_topic": "Zveřejnit první téma",
+        "report_form": {
+            "form_description": "Vyplňte prosím tento formulář, pokud potřebujete kontaktovat moderátorský tým itch.io ohledně obsahu této stránky. Vaše hlášení bude sdíleno s tvůrcem této stránky, bude-li to nutné.",
+            "support_from_creator": "Narazili jste na problém a potřebujete pomoc od tvůrce?",
+            "support_page_link": "Přejděte na oficiální stránku podpory",
+            "email_creator_link": "Pošlete tvůrci e-mail",
+            "submit_report_button": "Odeslat hlášení",
+            "title": "Nahlásit stránku '{{page_title}}'",
+            "report_received_header": "Hlášení obdrženo",
+            "description_label": "Popis",
+            "reason_label": "Důvod",
+            "reason_other": "Jiný"
+        },
+        "password_required": {
+            "header": "Pro zhlédnutí této stránky je nutné zadat heslo"
+        }
     },
     "misc": {
         "classifications": {
@@ -500,5 +518,14 @@
         "browse_header": "Procházejte hry, tak jak tvůrce chtěl",
         "web_games_header": "Prohlížejte hry offline",
         "web_games_description": "Můžete synchronizovat jakékoliv prohlížečové hry přímo do aplikace, a hrát je offlie kdykoliv chcete. Jakmile budete zase online, můžete je aktualizovat, pokud bude potřeba."
+    },
+    "community": {
+        "topic": {
+            "topic_is_archived": "Toto téma bylo archivováno a již v něm nelze zveřejňovat příspěvky",
+            "reply": "Odpovědět",
+            "log_in_to_reply": "K odpovědi se přihlašte",
+            "this_reply_will_go_to_yourself": "Odpovídáte sami sobě.",
+            "reply_to_someone_else": "Chcete někomu odpovědět? Klikněte na <s>odpovědět</s> pod tímto příspěvkem."
+        }
     }
 }
