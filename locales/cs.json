@@ -547,7 +547,62 @@
             "this_topic_is_locked": "Tohle téma je uzamčené",
             "this_topic_was_locked_by_username": "Tohle téma bylo uzamčeno uživatelem {{username}}",
             "topic_is_autoarchived": "Tohle téma bylo automaticky archivováno a není možné do něj přispívat, protože tu nikdo dlouho nikdo nic nepřispěl.",
-            "a_topic_by_username_created_time_ago": "Téma založené uživatelem {{username}} bylo vytvořeno před {{time_ago}}"
+            "a_topic_by_username_created_time_ago": "Téma založené uživatelem {{username}} bylo vytvořeno před {{time_ago}}",
+            "create_related_topic": "Pokud máš nějaké téma co je podobné tak popřemýšlej<a> o založení témata v {{category_name}}</a>."
+        },
+        "post_list": {
+            "view_more_in_thread": "Zobrazit více v příspěvkách",
+            "post_from_blocked_account": "Příspěvek z zablokovaného účtu",
+            "deleted_post": "Smazaný příspěvek",
+            "edit_blocks": "Uprav blokování",
+            "edits_count_plural": "({{count}} edity)",
+            "edit": "Upravit",
+            "edits_count_0": "({{count}}} edit)",
+            "edits_count_1": "({{count}} editů)",
+            "edits_count_2": "({{count}} edity)",
+            "reply": "Odpověď",
+            "like": "Oblíbený",
+            "delete_topic": "Smazat téma",
+            "delete": "Smazat",
+            "report": "Nahlásit",
+            "ban": "Zabanovat...",
+            "vote_up": "Hlasovat pro zvýšení",
+            "vote_down": "Hlasovat pro snížení",
+            "deleted_account": "Smazaný účet",
+            "suspended_account": "Zablokovaný účet",
+            "pinned_post": "Připnutý příspěvek",
+            "edited": "(upraveno)",
+            "post_from_suspended_account": "Příspěvek z zablokovaného účtu",
+            "pinned_reply": "Připnutá odpověď"
+        },
+        "post_form": {
+            "add_profile_image": "Přidej profilový obrázek",
+            "save": "Uložit",
+            "post": "Přidat",
+            "subscribe": "Odebírat",
+            "subscribe_to_this_topic": "Odebírat toto téma",
+            "subscribe_description": "Dostávej oznámení z tohoto témata",
+            "tag_header": "Přidej Tag",
+            "remove_tag": "Odstraň tag",
+            "post_reply": "Pošli odpověď"
+        },
+        "new_topic": {
+            "moderator_tools": "Nástroje pro správce",
+            "sticky": "Připnutý",
+            "locked": "Zamknuté",
+            "moderation_options": "Nastavení",
+            "i_agree_to_the_rules_above": "Souhlasím s pravidly uvedenými zde",
+            "new_topic": "Nové téma",
+            "this_a_community_run_message_board": "Toto je příspěvková tabule spravovaná komunitou.",
+            "title": "Nadpis",
+            "body": "Střed",
+            "topic_tag": "Přidej tag",
+            "your_moderators_are": "itch.io nespravuje tyto tabule, vaši správci jsou:",
+            "page_title": "Přidej nové téma",
+            "see_community_guidelines": "Přečti si<a>Pravidla pro komunitu</a>itch.io."
+        },
+        "misc": {
+            "new_topic_button": "Nové téma"
         }
     }
 }
