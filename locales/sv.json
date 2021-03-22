@@ -502,8 +502,8 @@
             "support_page_link": "Gå till den officiella hjälpsidan",
             "email_creator_link": "Mejla skaparen",
             "submit_report_button": "Skicka rapport",
-            "title": "Rapportera sidan '{{page_title}}'",
-            "report_received_header": "Rapport mottagen",
+            "title": "Anmäl sidan '{{page_title}}'",
+            "report_received_header": "Anmälan mottagen",
             "description_label": "Beskrivning",
             "reason_label": "Anledning",
             "reason_other": "Annat"
