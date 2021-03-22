@@ -761,7 +761,7 @@
             "thirdparty_analytics": "Analysverktyg från tredjepart"
         },
         "profile": {
-            "language_community_translation": "<s>itch.io är översatt av sina sina medlemmar.</s> Vissa språk är bara delvis tillgängliga. Om du vill se itch.io i ditt språk eller hjälpa till att fixa några misstag ut upptäckt är du välkommen att hjälpa till. <a>Läs mer</a>",
+            "language_community_translation": "<s>itch.io är översatt av sina medlemmar.</s> Vissa språk är bara delvis tillgängliga. Om du vill se itch.io i ditt språk eller hjälpa till att fixa några misstag är du välkommen att hjälpa till. <a>Läs mer</a>",
             "language": "Språk",
             "language_description": "Språk som itch.io:s användargränssnitt finns för",
             "page_header": "Profil",
@@ -821,7 +821,7 @@
                 "emails_added_header": "Mejladresser tilllagda",
                 "email_column": "Mejladress",
                 "verified_column": "Verifierad",
-                "resend_verification_email_button": "Skicka om verifikationsmejl",
+                "resend_verification_email_button": "skicka om verifikationsmejl",
                 "email_sent_status": "mejl skickat",
                 "detach_email": "Koppla bort mejladress"
             }
