@@ -31,7 +31,7 @@
             "indie_game_store": "Webbutik för indiespel",
             "game_development": "Spelutveckling",
             "comics": "Serier",
-            "sales": "REA",
+            "sales": "Reor",
             "bundles": "Paketerbjudande",
             "game_assets": "Resurser",
             "fun_games": "Roliga spel",
@@ -274,7 +274,7 @@
         "welcome_to_itchio": "Välkommen till itch.io!",
         "errors": {
             "accept_terms": "Du måste acceptera slutanvändaravtalet",
-            "please_enter_a_valid_email_address": "Var snäll och skriv en riktig mejladress"
+            "please_enter_a_valid_email_address": "Var snäll och skriv en giltig mejladress"
         }
     },
     "user_register": {
@@ -319,7 +319,7 @@
         "create_account_or_login": "<1>Skapa ett konto</1> <em>eller</em> <2>Logga in</2>",
         "upload_or_dashboard": "<1>Ladda upp ett spel</1> <em>eller</em> <2>Gå till din dashboard</2>",
         "design_your_games_page_description": "Skapa en egen sida för ditt spel där folk kan köpa eller ladda ner det. Du bestämmer färg, font, bilder och videos som ska visas. Eftersom det är ditt spels sida kommer du inte hitta något där som du inte valt att visa.",
-        "track_your_game_description": "Håll koll på hur många som besökt ditt spels sida med detaljerad analys av besök, nedladdningar och köp. Vill du promota ditt spel? Skapa nedladdningsnycklar för att ge tillgång till ditt spel utan att behöva betala för det."
+        "track_your_game_description": "Håll koll på hur många som besökt ditt spels sida med detaljerad analys av besök, nedladdningar och köp. Vill du marknadsföra ditt spel? Skapa nedladdningsnycklar för att ge folk tillgång till ditt spel."
     },
     "search": {
         "creators": "Skapare:",
@@ -497,7 +497,7 @@
             "app_learn_more": "<s>Nytt!</s> Testa itch.io:s app för att ladda ner och hantera ditt bibliotek. <a>Läs mer</a>"
         },
         "report_form": {
-            "form_description": "Var snäll och fyll i detta formulär om du måste kontakta itch.ios moderationsteam om innehållet av den här sidan. Din rapport kan bli delad med sidans skapare om nödvändigt.",
+            "form_description": "Var snäll och fyll i detta formulär om du behöver kontakta itch.ios moderationsteam gällande innehållet av den här sidan. Din rapport kan bli delad med sidans skapare om nödvändigt.",
             "support_from_creator": "Har du trubbel, behöver du hjälp från skaparen?",
             "support_page_link": "Gå till den officiella hjälpsidan",
             "email_creator_link": "Mejla skaparen",
@@ -540,7 +540,7 @@
             "last_page": "Sista sidan",
             "this_topic_is_locked": "Detta tema är låst",
             "this_topic_was_locked_by_username": "Detta tema låstes av {{username}}",
-            "topic_is_autoarchived": "Detta ämna har blivit auto-arkiverat och kan inte längre bli postad i eftersom att det inte har varit postat i på länge.",
+            "topic_is_autoarchived": "Detta ämne har blivit auto-arkiverat och kan inte längre bli postad i eftersom att det inte har postats några inlägg på ett tag.",
             "create_related_topic": "Ifall du har någonting relaterat att posta överväg att <a>skapa ett ämne i {{category_name}}</a>."
         },
         "post_list": {
@@ -810,11 +810,11 @@
             },
             "primary_email_description": "Din primära e-post är där itch.io kommer skicka notifieringar till dig.",
             "change_password_instructions": "När du byter din e-post måste du verifiera den nya innan du får tillgång till de spel du köpt. Vi skickar instruktioner för verifikationsprocessen. Av säkerhetsskäl måste mata in ditt nuvarande lösenord för att ändra din e-postadress.",
-            "additional_emails_header": "Ytterligare e-postkonton",
+            "additional_emails_header": "Ytterligare mejladresser",
             "additional_emails_summary": "Du kan linka flera mejladresser till ditt itch.io-konto för att få tillstånd till allt köpt under de mejladresserna. Till exempel, din PayPal-adress kan vara olik din vanliga mejladress och då kan du lägga till det som en extra mejladress.",
             "additional_emails_instructions": "Du kommer bli mejlad om verifikationsinstruktioner efter att ha lagt till en till mejladress.",
             "add_email_form": {
-                "additional_email_address_label": "Ytterligare adresser",
+                "additional_email_address_label": "Ytterligare mejladresser",
                 "add_email_button": "Lägg till mejladress"
             },
             "additional_emails": {
