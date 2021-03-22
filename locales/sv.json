@@ -498,10 +498,10 @@
         },
         "report_form": {
             "form_description": "Var snäll och fyll i detta formulär om du behöver kontakta itch.ios moderationsteam gällande innehållet av den här sidan. Din rapport kan bli delad med sidans skapare om nödvändigt.",
-            "support_from_creator": "Har du trubbel, behöver du hjälp från skaparen?",
+            "support_from_creator": "Har du något problem, behöver du hjälp från skaparen?",
             "support_page_link": "Gå till den officiella hjälpsidan",
             "email_creator_link": "Mejla skaparen",
-            "submit_report_button": "Skicka in rapport",
+            "submit_report_button": "Skicka rapport",
             "title": "Rapportera sidan '{{page_title}}'",
             "report_received_header": "Rapport mottagen",
             "description_label": "Beskrivning",
@@ -563,8 +563,8 @@
             "suspended_account": "Suspenderat konto",
             "pinned_reply": "Pinnat svar",
             "pinned_post": "Pinnat inlägg",
-            "edited": "(ändrat)",
-            "post_from_suspended_account": "Post från upphävt konto"
+            "edited": "(redigerad)",
+            "post_from_suspended_account": "Inlägg från avstängt konto"
         },
         "post_form": {
             "add_profile_image": "Lägg till profilbild",
@@ -821,7 +821,7 @@
                 "emails_added_header": "Mejladresser tilllagda",
                 "email_column": "Mejladress",
                 "verified_column": "Verifierad",
-                "resend_verification_email_button": "skicka verifikationsmejl igen",
+                "resend_verification_email_button": "Skicka om verifikationsmejl",
                 "email_sent_status": "mejl skickat",
                 "detach_email": "Koppla bort mejladress"
             }
