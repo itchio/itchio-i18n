@@ -96,7 +96,7 @@
         "nav": {
             "all_games": "Всички игри",
             "bundles": "Пакети",
-            "devlogs": "Новини от разработчиците",
+            "devlogs": "Журнали на разработчици",
             "community": "Общност",
             "game_jams": "Конкурси за игри"
         },
@@ -378,7 +378,8 @@
             "follow_username": "Следване на {{username}}",
             "following_username": "Следвате {{username}}",
             "add_to_collection": "Добавяне към колекция",
-            "submission_to_jam": "Участва в {{jam_title}}"
+            "submission_to_jam": "Участва в {{jam_title}}",
+            "rate_this_noun": "Оценяване"
         },
         "after_download": {
             "share_this_project": "Споделяне на този проект",
@@ -431,7 +432,9 @@
         "download_or_claim_button": "Сваляне или получаване",
         "name_your_own_price": "Изберете сума по свой избор",
         "development_log_header": "Журнал на разработката",
-        "donate_button": "Подкрепете това ({{noun}})"
+        "donate_button": "Подкрепете това ({{noun}})",
+        "in_order_to_access": "За да получите достъп до този продукто ({{noun}}), трябва да платите {{price}} или повече.",
+        "unavailable": "Този артикул ({{game_noun}}) в момента е недостъпен"
     },
     "buy_form": {
         "gift_email_instructions": "Ще можете да изберете адрес на е-поща, на която да изпратите подаръка, след като платите",
@@ -565,7 +568,7 @@
             "deleted_post": "Изтрита публикация",
             "post_from_blocked_account": "Публикация от блокиран акаунт",
             "edits_count": "({{count}} редакция)",
-            "edits_count_plural": "({{count}} редакции)",
+            "edits_count_plural": "({{count}} промени)",
             "reply": "Отговаряне",
             "like": "Харесване",
             "edit": "Редактиране",
