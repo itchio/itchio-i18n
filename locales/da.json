@@ -106,7 +106,10 @@
         "intro_cta": "<1>Tilføj dit spil</1> eller <2>Læs FAQen</2>",
         "html5_games": "HTML5-spil",
         "page_title": "Hent de nyeste indiespil",
-        "meta_description": "itch.io er en nem måde at finde, hente og distribuere indiespil online. Uanset om du er en udvikler med et spil at uploade, eller bare én der søger noget nyt at spille, så har itch.io dig dækket."
+        "meta_description": "itch.io er en nem måde at finde, hente og distribuere indiespil online. Uanset om du er en udvikler med et spil at uploade, eller bare én der søger noget nyt at spille, så har itch.io dig dækket.",
+        "to_follow": {
+            "refresh_button": "Opdater for mere"
+        }
     },
     "misc": {
         "classifications": {
