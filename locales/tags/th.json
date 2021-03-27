@@ -209,6 +209,8 @@
         "altgame": "เกมทางเลือก",
         "fast-paced": "เกมที่เดินรวดเร็ว",
         "breakout": "ฝ่าวงล้อม",
-        "atmospheric": "บรรยากาศ"
+        "atmospheric": "บรรยากาศ",
+        "deck-building": "เกมจัดกระดาน",
+        "classes": "คลาส"
     }
 }
