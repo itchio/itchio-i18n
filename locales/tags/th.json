@@ -204,7 +204,7 @@
         "food": "อาหาร",
         "fmv": "FMV",
         "female-protagonist": "ตัวเอกหญิง",
-        "experimental": "ทดลอง",
+        "experimental": "งานทดลอง",
         "drm-free": "DRM ฟรี",
         "altgame": "เกมทางเลือก",
         "fast-paced": "เกมที่เดินรวดเร็ว",
@@ -212,6 +212,7 @@
         "atmospheric": "บรรยากาศ",
         "deck-building": "เกมจัดกระดาน",
         "classes": "คลาส",
-        "destruction": "การทำลาย"
+        "destruction": "การทำลาย",
+        "flappy-bird": "Flappy Bird"
     }
 }
