@@ -186,7 +186,7 @@
         "halloween": "ฮาโลวีน",
         "hacking": "แฮ็ค",
         "hack-and-slash": "แฮ็คและเฉือน",
-        "grayscale": "โทนสีเทา",
+        "grayscale": "ขาวดำ",
         "gravity": "แรงโน้มถ่วง",
         "golf": "กอล์ฟ",
         "ghosts": "ผี",
@@ -211,6 +211,7 @@
         "breakout": "ฝ่าวงล้อม",
         "atmospheric": "บรรยากาศ",
         "deck-building": "เกมจัดกระดาน",
-        "classes": "คลาส"
+        "classes": "คลาส",
+        "destruction": "การทำลาย"
     }
 }
