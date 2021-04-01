@@ -34,7 +34,9 @@
             "upload_game": "augšupielādē spēli",
             "browse_games": "pārlūkot spēles",
             "browse": "pārlūkot",
-            "devlogs": "Izstrādātāju žurnāli"
+            "devlogs": "Izstrādātāju žurnāli",
+            "no_notifications": "nav jauni paziņojumi",
+            "sales": "pārdošana"
         },
         "footer": {
             "cookies": "cepumi",
