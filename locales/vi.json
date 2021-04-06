@@ -67,11 +67,38 @@
         "browse_all_tags": "Xem tất cả các nhãn",
         "free_games": "Trò chơi miễn phí",
         "on_sale": "Đang giảm giá",
-        "recommended_for_you": "Game bạn có thể sẽ thích",
-        "fresh_games": "Game mới ra lò",
+        "recommended_for_you": "Có thể bạn sẽ thích",
+        "fresh_games": "Trò chơi mới ra lò",
         "view_more": "Xem thêm",
         "top_sellers": "Bán chạy nhất",
         "with_demo": "Có bản dùng thử",
-        "view_all": "Xem tất cả"
+        "view_all": "Xem tất cả",
+        "view_all_jams": "Xem tất cả các jam",
+        "fresh_games_description": "Cập nhật thường xuyên với những trò chơi mới nhất trên itch.io",
+        "view_all_games_on_sale": "Xem tất cả trò chơi đang giảm giá",
+        "html5_games": "Trò chơi trên HTML5",
+        "page_title": "Tải về các trò chơi indie mới nhất"
+    },
+    "misc": {
+        "accessibility_features": {
+            "colorblind": "Thân thiện với người mù màu",
+            "subtitles": "Có phụ đề",
+            "blind": "Thân thiện với người khiếm thị",
+            "textless": "Không sử dụng chữ"
+        },
+        "inputs": {
+            "joystick": "Cần điều khiển",
+            "midi_controller": "Bộ điều khiển MIDI"
+        },
+        "durations": {
+            "seconds": "Một vài giây",
+            "hour": "Khoảng một tiếng",
+            "hours": "Một vài tiếng"
+        },
+        "classifications": {
+            "game": "Trò chơi",
+            "physical_game": "Trò chơi đóng hộp",
+            "other": "Khác"
+        }
     }
 }
