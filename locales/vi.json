@@ -144,12 +144,14 @@
             "unfollow": "Bỏ theo dõi",
             "follow": "Theo dõi",
             "following": "Đang theo dõi",
-            "unfollow_username": "Bỏ theo dõi {{username}}"
+            "unfollow_username": "Bỏ theo dõi {{username}}",
+            "following_username": "Đang theo dõi {{username}}"
         },
         "page_number": "Trang {{page_number}}",
         "filter_price": {
             "free": "Miễn phí",
-            "paid": "Trả phí"
+            "paid": "Trả phí",
+            "on_sale": "Đang giảm giá"
         }
     }
 }
