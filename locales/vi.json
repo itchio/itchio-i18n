@@ -77,14 +77,16 @@
         "fresh_games_description": "Cập nhật thường xuyên với những trò chơi mới nhất trên itch.io",
         "view_all_games_on_sale": "Xem tất cả trò chơi đang giảm giá",
         "html5_games": "Trò chơi trên HTML5",
-        "page_title": "Tải về các trò chơi indie mới nhất"
+        "page_title": "Tải về các trò chơi indie mới nhất",
+        "people_to_follow": "Những người để theo dõi"
     },
     "misc": {
         "accessibility_features": {
             "colorblind": "Thân thiện với người mù màu",
             "subtitles": "Có phụ đề",
             "blind": "Thân thiện với người khiếm thị",
-            "textless": "Không sử dụng chữ"
+            "textless": "Không sử dụng chữ",
+            "highcontrast": "Độ tương phản cao"
         },
         "inputs": {
             "joystick": "Cần điều khiển",
@@ -93,7 +95,8 @@
         "durations": {
             "seconds": "Một vài giây",
             "hour": "Khoảng một tiếng",
-            "hours": "Một vài tiếng"
+            "hours": "Một vài tiếng",
+            "minutes": "Một vài phút"
         },
         "classifications": {
             "game": "Trò chơi",
