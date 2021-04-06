@@ -130,10 +130,26 @@
         "forms": {
             "required": "Bắt buộc",
             "save": "Lưu",
-            "email_address": "Địa chỉ email"
+            "email_address": "Địa chỉ email",
+            "submit": "Lưu",
+            "optional": "Tuỳ chọn",
+            "search": "Tìm kiếm",
+            "form_errors": "Vui lòng kiểm tra thông tin bạn cung cấp"
         },
         "platforms": {
             "web": "Web"
+        },
+        "follow_button": {
+            "follow_username": "Theo dõi {{username}}",
+            "unfollow": "Bỏ theo dõi",
+            "follow": "Theo dõi",
+            "following": "Đang theo dõi",
+            "unfollow_username": "Bỏ theo dõi {{username}}"
+        },
+        "page_number": "Trang {{page_number}}",
+        "filter_price": {
+            "free": "Miễn phí",
+            "paid": "Trả phí"
         }
     }
 }
