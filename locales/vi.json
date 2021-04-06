@@ -16,7 +16,11 @@
             "search": "Tìm kiếm",
             "games": "Trò chơi",
             "feed": "Bảng tin",
-            "notifications_count": "{{count}} thông báo"
+            "notifications_count": "{{count}} thông báo",
+            "feed_unseen_count": "{{count}} chưa đọc",
+            "browse": "Khám phá",
+            "jams": "Jams",
+            "sales": "Khuyến mãi"
         },
         "footer": {
             "about": "Giới thiệu",
@@ -35,7 +39,11 @@
             "account": "Tài khoản",
             "settings": "Cài đặt",
             "view_profile": "Xem hồ sơ",
-            "recommendations": "Khuyến nghị"
+            "recommendations": "Khuyến nghị",
+            "create": "Tạo mới",
+            "sales_bundles": "Khuyến mãi & gói",
+            "new_project": "Tạo dự án mới",
+            "game_jams": "Game jams"
         }
     },
     "itchio": "itch.io"
