@@ -7,13 +7,21 @@
             "log_in": "Đăng nhập",
             "register": "Đăng ký",
             "no_notifications": "Không có thông báo mới",
-            "free_games": "Trò chơi miễn phí"
+            "free_games": "Trò chơi miễn phí",
+            "bundles": "Gói",
+            "search_placeholder": "Tìm kiếm trò chơi hoặc nhà sáng tạo",
+            "indie_game_store": "Cửa hàng trò chơi indie",
+            "game_development": "Phát triển trò chơi"
         },
         "footer": {
             "about": "Giới thiệu",
             "contact_us": "Liên hệ với chúng tôi",
             "terms": "Điều khoản",
-            "privacy": "Quyền riêng tư"
+            "privacy": "Quyền riêng tư",
+            "faq": "Câu hỏi thường gặp"
+        },
+        "user_menu": {
+            "dashboard": "Bảng điều khiển"
         }
     },
     "itchio": "itch.io"
