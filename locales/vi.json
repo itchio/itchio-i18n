@@ -12,7 +12,11 @@
             "search_placeholder": "Tìm kiếm trò chơi hoặc nhà sáng tạo",
             "indie_game_store": "Cửa hàng trò chơi indie",
             "game_development": "Phát triển trò chơi",
-            "community": "Cộng đồng"
+            "community": "Cộng đồng",
+            "search": "Tìm kiếm",
+            "games": "Trò chơi",
+            "feed": "Bảng tin",
+            "notifications_count": "{{count}} thông báo"
         },
         "footer": {
             "about": "Giới thiệu",
@@ -20,11 +24,18 @@
             "terms": "Điều khoản",
             "privacy": "Quyền riêng tư",
             "faq": "Câu hỏi thường gặp",
-            "blog": "Blog"
+            "blog": "Blog",
+            "cookies": "Cookies"
         },
         "user_menu": {
             "dashboard": "Bảng điều khiển",
-            "host_game_jam": "Tạo game jam"
+            "host_game_jam": "Tạo game jam",
+            "log_out": "Đăng xuất",
+            "explore": "Khám phá",
+            "account": "Tài khoản",
+            "settings": "Cài đặt",
+            "view_profile": "Xem hồ sơ",
+            "recommendations": "Khuyến nghị"
         }
     },
     "itchio": "itch.io"
