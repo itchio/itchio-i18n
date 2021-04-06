@@ -203,15 +203,23 @@
     "blog": {
         "all_posts": "Tất cả bài đăng",
         "digest": "Tổng hợp",
-        "tag_filter": "Đang lọc theo {{tag}}. <a>Bỏ nhãn</a>"
+        "tag_filter": "Đang lọc theo {{tag}}. <a>Bỏ nhãn</a>",
+        "updates": "Cập nhật"
     },
     "user_login": {
         "errors": {
-            "please_enter_a_valid_email_address": "Vui lòng điền một địa chỉ email hợp lệ"
+            "please_enter_a_valid_email_address": "Vui lòng điền một địa chỉ email hợp lệ",
+            "accept_terms": "Bạn phải chấp nhận Điều khoản Dịch vụ"
         },
         "no_account_prompt": "Không có tài khoản? <1>Tạo tài khoản mới</1>",
         "login_form": {
-            "or_log_in_with_another_site": "Hoặc đăng nhập bằng trang mạng khác"
+            "or_log_in_with_another_site": "Hoặc đăng nhập bằng trang mạng khác",
+            "password": "Mật khẩu",
+            "forgot_password": "Quên mật khẩu",
+            "username_or_email": "Tên đăng nhập hoặc email",
+            "create_account": "Tạo tài khoản",
+            "or": "hoặc",
+            "log_in_button": "Đăng nhập"
         },
         "looking_for_something_you_bought": "Muốn tìm những thứ bạn đã mua?",
         "intent": {
@@ -220,9 +228,16 @@
             "follow": "Bạn cần một tài khoản trên itch.io trước khi bạn có thể theo dõi một ai đó.",
             "follow_username": "Bạn cần một tài khoản trên itch.io trước khi bạn có thể theo dõi <1>{{username}}</1>.",
             "claim_object": "Vui lòng đăng nhập hoặc tạo một tài khoản để nhận {{noun}} này.",
-            "claim_object_title": "Vui lòng đăng nhập hoặc tạo một tài khoản để nhận {{title}}."
+            "claim_object_title": "Vui lòng đăng nhập hoặc tạo một tài khoản để nhận {{title}}.",
+            "recent_purchases": "Đăng nhập để liên kết các nội dung bạn đã thanh toán gần đây.",
+            "community": "Bạn cần đăng nhập để tham gia vào cộng đồng trên itch.io. Việc tạo tài khoản là miễn phí và chỉ mất một lúc."
         },
-        "welcome_back": "Chào mừng trở lại!"
+        "welcome_back": "Chào mừng trở lại!",
+        "welcome_to_itchio": "Chào mừng đến với itch.io!",
+        "log_in_to_your_itchio_account": "Đăng nhập vào tài khoản itch.io của bạn",
+        "create_a_new_account": "Tạo một tài khoản mới",
+        "page_title": "Đăng nhập",
+        "you_are_logged_out": "Bạn đã đăng xuất"
     },
     "user_register": {
         "create_an_account_on_itchio": "Tạo một tài khoản trên itch.io",
@@ -231,7 +246,16 @@
             "accept_tos": "Tôi chấp nhận <1>Điều khoản Dịch vụ</1>",
             "about_you": "Về bạn",
             "interest_gamer": "Tôi quan tâm đến việc chơi hoặc tải về các trò chơi trên itch.io",
-            "digest_signup": "Tôi muốn đăng kí nhận bản tin tổng hợp mỗi nửa tháng của itch.io"
+            "digest_signup": "Tôi muốn đăng kí nhận bản tin tổng hợp mỗi nửa tháng của itch.io",
+            "already_have_account": "hoặc đã có tài khoản?",
+            "log_in": "Đăng nhập",
+            "account_preferences_info": "Bạn có thể thay đổi các câu trả lời này sau, chúng được dùng để gợi ý cách itch.io hiển thị với bạn.",
+            "interest_developer": "Tôi quan tâm đến việc đóng góp nội dung trên itch.io",
+            "your_email_address": "Địa chỉ email",
+            "password": "Mật khẩu",
+            "repeat_password": "Nhập lại mật khẩu",
+            "username": "Tên đăng nhập",
+            "other_registration_methods": "Phương thức đăng ký khác"
         }
     }
 }
