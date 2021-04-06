@@ -197,7 +197,8 @@
         "dismiss": "Bỏ qua",
         "errors": {
             "server_error": "Máy chủ không phản hồi, vui lòng thử lại sau"
-        }
+        },
+        "more_ellip": "Thêm..."
     },
     "blog": {
         "all_posts": "Tất cả bài đăng"
