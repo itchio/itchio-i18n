@@ -251,13 +251,31 @@
             "already_have_account": "hoặc đã có tài khoản?",
             "log_in": "Đăng nhập",
             "account_preferences_info": "Bạn có thể thay đổi các câu trả lời này sau, chúng được dùng để gợi ý cách itch.io hiển thị với bạn.",
-            "interest_developer": "Tôi quan tâm đến việc đóng góp nội dung trên itch.io",
+            "interest_developer": "Tôi quan tâm đến việc phân phát nội dung trên itch.io",
             "your_email_address": "Địa chỉ email",
             "password": "Mật khẩu",
             "repeat_password": "Nhập lại mật khẩu",
             "username": "Tên đăng nhập",
-            "other_registration_methods": "Phương thức đăng ký khác",
-            "create_account": "Tạo tài khoản"
-        }
+            "other_registration_methods": "Phương thức đăng kí khác",
+            "create_account": "Tạo tài khoản",
+            "url_preview": "Trang hồ sơ của bạn sẽ là"
+        },
+        "page_title": "Đăng kí tài khoản"
+    },
+    "developers": {
+        "my_dashboard": "Bảng điều khiển của tôi",
+        "page_header": "Tạo một trang tùy biến để phân phát hoặc bán các trò chơi indie của bạn ngay tức thì",
+        "upload_a_new_game": "Đăng tải một trò chơi mới",
+        "product_summary1": "<s>itch.io</s> là một cách đơn giản để phân phát các trò chơi indie của bạn trên mạng một cách miễn phí. Tải các tệp trò chơi và ảnh chụp màn hình lên cùng một chỗ. Tạo một trang tùy biến riêng nơi trò chơi của bạn là tâm điểm sự chú ý.",
+        "product_summary2": "Bạn cũng có thể đặt mức giá tối thiểu cho trò chơi của bạn, cho phép các người hâm mộ có thể trả bao nhiêu họ muốn.",
+        "account_faq_cta": "<1>Tạo một tài khoản ngay<1> hoặc <2>Đọc các câu hỏi thường gặp<2>",
+        "upload_your_indie_game": "Đăng tải trò chơi indie của bạn",
+        "design_your_games_page": "Thiết kế trang trò chơi của bạn",
+        "track_your_game": "Theo dõi trò chơi của bạn",
+        "host_a_sale": "Tổ chức khuyến mãi",
+        "host_a_sale_description": "Quảng cáo trò chơi của bạn và có thêm nhiều lượt mua hơn bằng cách giảm giá trò chơi của bạn vào bất cứ lúc nào.",
+        "learn_more": "Tìm hiểu thêm",
+        "browser_game_description": "Kiếm tiền từ trò chơi trình duyệt của bạn bằng cách đăng nó trên <s>itch.io</s>. Trò chơi của bạn được đưa thẳng lên trình duyệt và người chơi có thể đóng góp bao nhiêu họ muốn nếu họ yêu thích trò chơi của bạn.",
+        "upload_your_game_description": "Đăng tải các trò chơi indie của bạn lên <s>itch.io</s> miễn phí. Chúng tôi đưa trò chơi của bạn lên mạng, cùng với ảnh chụp màn hình và các nội dung tải xuống khác. Nội dung tải xuống của bạn luôn sẵn có và nhanh chóng."
     }
 }
