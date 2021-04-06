@@ -198,9 +198,40 @@
         "errors": {
             "server_error": "Máy chủ không phản hồi, vui lòng thử lại sau"
         },
-        "more_ellip": "Thêm..."
+        "more_ellip": "Thêm…"
     },
     "blog": {
-        "all_posts": "Tất cả bài đăng"
+        "all_posts": "Tất cả bài đăng",
+        "digest": "Tổng hợp",
+        "tag_filter": "Đang lọc theo {{tag}}. <a>Bỏ nhãn</a>"
+    },
+    "user_login": {
+        "errors": {
+            "please_enter_a_valid_email_address": "Vui lòng điền một địa chỉ email hợp lệ"
+        },
+        "no_account_prompt": "Không có tài khoản? <1>Tạo tài khoản mới</1>",
+        "login_form": {
+            "or_log_in_with_another_site": "Hoặc đăng nhập bằng trang mạng khác"
+        },
+        "looking_for_something_you_bought": "Muốn tìm những thứ bạn đã mua?",
+        "intent": {
+            "comment": "Bạn cần một tài khoản trên itch.io trước khi bạn có thể bình luận.",
+            "rate_game": "Bạn cần một tài khoản trên itch.io trước khi bạn có thể đánh giá một trò chơi.",
+            "follow": "Bạn cần một tài khoản trên itch.io trước khi bạn có thể theo dõi một ai đó.",
+            "follow_username": "Bạn cần một tài khoản trên itch.io trước khi bạn có thể theo dõi <1>{{username}}</1>.",
+            "claim_object": "Vui lòng đăng nhập hoặc tạo một tài khoản để nhận {{noun}} này.",
+            "claim_object_title": "Vui lòng đăng nhập hoặc tạo một tài khoản để nhận {{title}}."
+        },
+        "welcome_back": "Chào mừng trở lại!"
+    },
+    "user_register": {
+        "create_an_account_on_itchio": "Tạo một tài khoản trên itch.io",
+        "register_form": {
+            "link_product": "Việc thanh toán <1>{{product}}</1> của bạn sẽ tự động liên kết đến tài khoản của bạn sau khi bạn đăng kí.",
+            "accept_tos": "Tôi chấp nhận <1>Điều khoản Dịch vụ</1>",
+            "about_you": "Về bạn",
+            "interest_gamer": "Tôi quan tâm đến việc chơi hoặc tải về các trò chơi trên itch.io",
+            "digest_signup": "Tôi muốn đăng kí nhận bản tin tổng hợp mỗi nửa tháng của itch.io"
+        }
     }
 }
