@@ -204,7 +204,8 @@
         "all_posts": "Tất cả bài đăng",
         "digest": "Tổng hợp",
         "tag_filter": "Đang lọc theo {{tag}}. <a>Bỏ nhãn</a>",
-        "updates": "Cập nhật"
+        "updates": "Cập nhật",
+        "empty_message": "Hình như không có bài đăng nào ở đây"
     },
     "user_login": {
         "errors": {
@@ -255,7 +256,8 @@
             "password": "Mật khẩu",
             "repeat_password": "Nhập lại mật khẩu",
             "username": "Tên đăng nhập",
-            "other_registration_methods": "Phương thức đăng ký khác"
+            "other_registration_methods": "Phương thức đăng ký khác",
+            "create_account": "Tạo tài khoản"
         }
     }
 }
