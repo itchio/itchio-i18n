@@ -1,7 +1,20 @@
 {
     "layout": {
         "header": {
-            "devlogs": "Nhật ký nhà phát triển"
+            "devlogs": "Nhật ký nhà phát triển",
+            "comics": "Truyện tranh",
+            "upload_game": "Đăng tải trò chơi",
+            "log_in": "Đăng nhập",
+            "register": "Đăng ký",
+            "no_notifications": "Không có thông báo mới",
+            "free_games": "Trò chơi miễn phí"
+        },
+        "footer": {
+            "about": "Giới thiệu",
+            "contact_us": "Liên hệ với chúng tôi",
+            "terms": "Điều khoản",
+            "privacy": "Quyền riêng tư"
         }
-    }
+    },
+    "itchio": "itch.io"
 }
