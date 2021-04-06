@@ -161,11 +161,45 @@
         "pager": {
             "next": "Tiếp",
             "previous_page": "Trang trước đó",
-            "first_page": "Trang đầu tiên"
+            "first_page": "Trang đầu tiên",
+            "next_page": "Trang tiếp theo",
+            "prev": "Trước",
+            "current_page_of_total": "Trang {{current_page}} trên {{total_pages}}"
         },
         "release_statuses": {
-            "canceled": "Đã hủy bỏ"
+            "canceled": "Đã hủy bỏ",
+            "released": "Đã ra mắt",
+            "in_development": "Đang phát triển",
+            "on_hold": "Tạm hoãn"
         },
-        "loading_more_ellip": "Đang tải thêm…"
+        "loading_more_ellip": "Đang tải thêm…",
+        "collection_button": {
+            "add_to_collection": "Thêm vào bộ sưu tập"
+        },
+        "lightboxes": {
+            "close": "Đóng"
+        },
+        "countdown": {
+            "days": "ngày",
+            "years": "năm",
+            "months": "tháng",
+            "hours": "giờ",
+            "minutes": "phút",
+            "seconds": "giây"
+        },
+        "project_visibility": {
+            "restricted": "Giới hạn",
+            "published": "Đã xuất bản",
+            "draft": "Bản nháp",
+            "public": "Công khai"
+        },
+        "view_more": "Xem thêm",
+        "dismiss": "Bỏ qua",
+        "errors": {
+            "server_error": "Máy chủ không phản hồi, vui lòng thử lại sau"
+        }
+    },
+    "blog": {
+        "all_posts": "Tất cả bài đăng"
     }
 }
