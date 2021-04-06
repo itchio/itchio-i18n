@@ -11,17 +11,20 @@
             "bundles": "Gói",
             "search_placeholder": "Tìm kiếm trò chơi hoặc nhà sáng tạo",
             "indie_game_store": "Cửa hàng trò chơi indie",
-            "game_development": "Phát triển trò chơi"
+            "game_development": "Phát triển trò chơi",
+            "community": "Cộng đồng"
         },
         "footer": {
             "about": "Giới thiệu",
             "contact_us": "Liên hệ với chúng tôi",
             "terms": "Điều khoản",
             "privacy": "Quyền riêng tư",
-            "faq": "Câu hỏi thường gặp"
+            "faq": "Câu hỏi thường gặp",
+            "blog": "Blog"
         },
         "user_menu": {
-            "dashboard": "Bảng điều khiển"
+            "dashboard": "Bảng điều khiển",
+            "host_game_jam": "Tạo game jam"
         }
     },
     "itchio": "itch.io"
