@@ -43,8 +43,19 @@
             "create": "Tạo mới",
             "sales_bundles": "Khuyến mãi & gói",
             "new_project": "Tạo dự án mới",
-            "game_jams": "Game jams"
+            "game_jams": "Game jam",
+            "account_menu_tooltip": "Menu tài khoản"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "index": {
+        "popular_tags": "Nhãn phố biến",
+        "games_by_price": "Trò chơi theo giá",
+        "view_all_games": "Xem tất cả trò chơi",
+        "from_the_blog": "Từ trang blog",
+        "random_game": "Trò chơi ngẫu nhiên",
+        "get_the_app": "<s>Sử dụng itch.io hiệu quả nhất!</s> Cài đặt và quản lí trò chơi của bạn với ứng dụng trên máy tính của chúng tôi",
+        "from_the_itchio_blog": "Từ trang blog của itch.io",
+        "view_all_blog_posts": "Xem tất cả các bản cập nhật"
+    }
 }
