@@ -152,6 +152,20 @@
             "free": "Miễn phí",
             "paid": "Trả phí",
             "on_sale": "Đang giảm giá"
-        }
+        },
+        "filter_when": {
+            "last_day": "Trong ngày",
+            "last_7_days": "Trong 7 ngày",
+            "last_30_days": "Trong 30 ngày"
+        },
+        "pager": {
+            "next": "Tiếp",
+            "previous_page": "Trang trước đó",
+            "first_page": "Trang đầu tiên"
+        },
+        "release_statuses": {
+            "canceled": "Đã hủy bỏ"
+        },
+        "loading_more_ellip": "Đang tải thêm…"
     }
 }
