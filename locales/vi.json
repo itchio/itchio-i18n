@@ -79,7 +79,11 @@
         "html5_games": "Trò chơi trên HTML5",
         "page_title": "Tải về các trò chơi indie mới nhất",
         "people_to_follow": "Những người để theo dõi",
-        "more_featured_games": "Nhiều game nổi bật khác"
+        "more_featured_games": "Nhiều game nổi bật khác",
+        "game_dev_on_sale": "Tài nguyên phát triển game <1>đang khuyến mại</1>",
+        "to_follow": {
+            "created_projects": "Đã tạo {{project_list}}"
+        }
     },
     "misc": {
         "accessibility_features": {
@@ -87,22 +91,46 @@
             "subtitles": "Có phụ đề",
             "blind": "Thân thiện với người khiếm thị",
             "textless": "Không sử dụng chữ",
-            "highcontrast": "Độ tương phản cao"
+            "highcontrast": "Độ tương phản cao",
+            "configurable_controls": "Điều khiển tuỳ chỉnh được",
+            "tutorial": "Hướng dẫn tương tác",
+            "one_button": "Một nút"
         },
         "inputs": {
             "joystick": "Cần điều khiển",
-            "midi_controller": "Bộ điều khiển MIDI"
+            "midi_controller": "Bộ điều khiển MIDI",
+            "touchscreen": "Màn hình cảm ứng",
+            "accelerometer": "Gia tốc kế",
+            "keyboard": "Bàn phím",
+            "mouse": "Chuột",
+            "gamepad": "Gamepad (bất kỳ)",
+            "voice": "Điều khiển bằng giọng nói",
+            "phone": "Điện thoại thông minh"
         },
         "durations": {
             "seconds": "Một vài giây",
             "hour": "Khoảng một tiếng",
             "hours": "Một vài tiếng",
-            "minutes": "Một vài phút"
+            "minutes": "Một vài phút",
+            "half_hour": "Khoảng nửa tiếng",
+            "days": "Nhiều ngày hoặc hơn"
         },
         "classifications": {
             "game": "Trò chơi",
             "physical_game": "Trò chơi đóng hộp",
-            "other": "Khác"
+            "other": "Khác",
+            "comic": "Truyện tranh",
+            "tool": "Công cụ",
+            "book": "Sách"
+        },
+        "multiplayer_features": {
+            "server": "Nhiều người chơi dựa trên mạng lưới server",
+            "local": "Nhiều người chơi nội bộ"
+        },
+        "forms": {
+            "required": "Yêu cầu",
+            "save": "Lưu",
+            "email_address": "Địa chỉ email"
         }
     }
 }
