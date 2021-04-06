@@ -65,6 +65,10 @@
         "recommendations_based_on": "Dựa vào những gì bạn đã mua, tải về, và đánh giá",
         "search_games_creators": "Tìm kiếm trò chơi & nhà phát triển",
         "browse_all_tags": "Xem tất cả các nhãn",
-        "free_games": "Trò chơi miễn phí"
+        "free_games": "Trò chơi miễn phí",
+        "on_sale": "Đang giảm giá",
+        "recommended_for_you": "Game bạn có thể sẽ thích",
+        "fresh_games": "Game mới ra lò",
+        "view_more": "Xem thêm"
     }
 }
