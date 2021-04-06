@@ -61,6 +61,10 @@
         "view_all_blog_posts": "Xem tất cả các bản cập nhật",
         "dont_see_anything_you_like": "Không thấy thứ bạn thích?",
         "download_app": "Tải ứng dụng",
-        "browse": "Khám phá"
+        "browse": "Khám phá",
+        "recommendations_based_on": "Dựa vào những gì bạn đã mua, tải về, và đánh giá",
+        "search_games_creators": "Tìm kiếm trò chơi & nhà phát triển",
+        "browse_all_tags": "Xem tất cả các nhãn",
+        "free_games": "Trò chơi miễn phí"
     }
 }
