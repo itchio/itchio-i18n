@@ -20,7 +20,11 @@
             "feed_unseen_count": "{{count}} chưa đọc",
             "browse": "Khám phá",
             "jams": "Jams",
-            "sales": "Khuyến mãi"
+            "sales": "Khuyến mãi",
+            "game_assets": "Tài nguyên",
+            "browse_games": "Khám phá trò chơi",
+            "game_jams": "Game Jam",
+            "dashboard": "Bảng điều khiển"
         },
         "footer": {
             "about": "Giới thiệu",
@@ -29,7 +33,8 @@
             "privacy": "Quyền riêng tư",
             "faq": "Câu hỏi thường gặp",
             "blog": "Blog",
-            "cookies": "Cookies"
+            "cookies": "Cookies",
+            "directory": "Chỉ mục"
         },
         "user_menu": {
             "dashboard": "Bảng điều khiển",
@@ -80,10 +85,21 @@
         "page_title": "Tải về các trò chơi indie mới nhất",
         "people_to_follow": "Những người để theo dõi",
         "more_featured_games": "Nhiều game nổi bật khác",
-        "game_dev_on_sale": "Tài nguyên phát triển game <1>đang khuyến mại</1>",
+        "game_dev_on_sale": "Tài nguyên phát triển game <1>đang khuyến mãi</1>",
         "to_follow": {
             "created_projects": "Đã tạo {{project_list}}"
-        }
+        },
+        "nav": {
+            "game_jams": "Các game jam",
+            "all_games": "Tất cả trò chơi",
+            "bundles": "Gói"
+        },
+        "view_something_random": "Xem gì đó ngẫu nhiên",
+        "featured_jams": "Các jam đặc sắc",
+        "view_all_on_sale": "Xem tất cả đang giảm giá",
+        "latest_featured_games": "Trò chơi nổi bật mới nhất",
+        "filtering_platform": "Đang lọc tất cả các game cho {{platform_name}}",
+        "browse_content_type": "Duyệt {{content_type}}"
     },
     "misc": {
         "accessibility_features": {
@@ -278,6 +294,10 @@
         "browser_game_description": "Kiếm tiền từ trò chơi trình duyệt của bạn bằng cách đăng nó trên <s>itch.io</s>. Trò chơi của bạn được đưa thẳng lên trình duyệt và người chơi có thể đóng góp bao nhiêu họ muốn nếu họ yêu thích trò chơi của bạn.",
         "upload_your_game_description": "Đăng tải các trò chơi indie của bạn lên <s>itch.io</s> miễn phí. Chúng tôi đưa trò chơi của bạn lên mạng, cùng với ảnh chụp màn hình và các nội dung tải xuống khác. Nội dung tải xuống của bạn luôn sẵn có và nhanh chóng.",
         "learn_more_about": "Tìm hiểu thêm về:",
-        "create_account_or_login": "<1>Tạo tài khoản</1> <em>hoặc</emM <2>Đăng nhập</2>"
+        "create_account_or_login": "<1>Tạo một tài khoản</1> <em>hoặc</em> <2>Đăng nhập</2>",
+        "upload_or_dashboard": "<1>Đăng tải một trò chơi mới</1> <em>hoặc</em> <2>Đi đến bảng điều khiển</2>"
+    },
+    "search": {
+        "view_all_tags": "Xem tất cả các nhãn"
     }
 }
