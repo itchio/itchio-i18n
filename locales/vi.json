@@ -386,7 +386,16 @@
             "author": "Tác giả",
             "genre": "Thể loại",
             "tags": "Nhãn",
-            "authors": "Các tác giả"
+            "authors": "Các tác giả",
+            "languages": "Ngôn ngữ",
+            "inputs": "Điều khiển",
+            "multiplayer": "Nhiều người chơi",
+            "player_count": "Số người chơi",
+            "singleplayer": "Một người chơi",
+            "links": "Liên kết",
+            "mentions": "Nhắc đến",
+            "average_session_duration": "Thời lượng trung bình",
+            "accessibility": "Khả năng truy cập"
         },
         "community_sticky": "Đã dán",
         "upload_list": {
@@ -464,11 +473,22 @@
             "title": "Báo cáo trang '{{page_title}}'",
             "reason_label": "Nguyên nhân",
             "reason_other": "Khác",
-            "form_description": "Hãy hoàn tất đơn này nếu bạn cần liên lạc với đội kiểm duyệt của itch.io về nội dung của trang này. Báo cáo của bạn có thể sẽ được chia sẻ với nhà sáng tạo của trang này nếu cần thiết."
+            "form_description": "Hãy hoàn tất đơn này nếu bạn cần liên lạc với đội kiểm duyệt của itch.io về nội dung của trang này. Báo cáo của bạn có thể sẽ được chia sẻ với nhà sáng tạo của trang này nếu cần thiết.",
+            "report_received_header": "Đã nhận báo cáo",
+            "description_label": "Miêu tả"
         },
         "password_required": {
             "header": "Mật khẩu là cần thiết để xem trang này"
-        }
+        },
+        "your_purchase_comes_with_a_steam_key": "Thanh toán của bạn đi kèm với một khoá Steam.",
+        "steam_key_bundle_disclaimer": "(Chú ý: Khoá Steam không bao gồm trong {{bundle_title}})",
+        "join_the_community": "Tham gia cộng đồng",
+        "community_view_all_posts": "Xem tất cả bài đăng",
+        "community_post_author": "bởi {{username}}",
+        "post_a_new_topic": "Đăng một chủ đề mới",
+        "post_first_topic": "Đăng chủ đề đầu tiên",
+        "community_header": "Cộng đồng",
+        "community_posts_count": "{{count}} bài đăng"
     },
     "community": {
         "topic": {
@@ -498,7 +518,8 @@
             "first_page": "Trang đầu tiên",
             "last_page": "Trang cuối cùng",
             "unlisted_topic_notice": "<s>Một nhà kiểm duyệt đã bỏ công khai chủ đề này.</s> Nó không được hiển thị trong danh sách chủ đề nhưng bạn vẫn có thể trả lời và tạo thay đổi.",
-            "create_related_topic": "Nếu bạn có một thứ gì đó có liên quan để đăng hãy xem xét việc <a>tạo một chủ đề trong {{category_name}}</a>."
+            "create_related_topic": "Nếu bạn có một thứ gì đó có liên quan để đăng hãy xem xét việc <a>tạo một chủ đề trong {{category_name}}</a>.",
+            "remove_bookmark": "Bỏ dấu trang"
         },
         "post_list": {
             "edit": "Chỉnh sửa",
