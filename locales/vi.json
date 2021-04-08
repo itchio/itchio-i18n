@@ -319,7 +319,8 @@
         "view_all_tags": "Xem tất cả các nhãn",
         "published_count": "{{count}} dự án",
         "search_results_for_query": "Kết quả tìm kiếm cho '{{query}}'",
-        "browse_all_games": "Khám phá tất cả trò chơi"
+        "browse_all_games": "Khám phá tất cả trò chơi",
+        "creators": "Nhà sáng tạo:"
     },
     "app": {
         "open_source": "Mã nguồn mở",
@@ -329,7 +330,13 @@
         "share_message": "itch, ứng dụng máy tính dành cho trò chơi indie",
         "more_info_links": "<1>Đọc thêm câu hỏi thường gặp</1> hoặc <2>Đọc hướng dẫn ứng dụng</2>",
         "browse_header": "Khám phá trò chơi như cách nhà sáng tạo muốn",
-        "updates_header": "Luôn được cập nhật"
+        "updates_header": "Luôn được cập nhật",
+        "learn_more_below": "Tìm hiểu thêm ở dưới",
+        "contribute_link": "Muốn đóng góp? <a>Xem mã nguồn trên GitHub</a>",
+        "updates": "Cập nhật",
+        "read_the_app_guide": "Đọc hướng dẫn sử dụng",
+        "download_now": "Tải xuống ngay",
+        "community_header": "Tham gia cộng đồng"
     },
     "game": {
         "get_access": "Bạn sẽ có quyền truy cập các tệp sau:",
@@ -348,6 +355,10 @@
         "on_sale": "Đang khuyễn mãi!",
         "price_or_more": "{{price}} <s>hoặc hơn</s>",
         "in_order_to_access": "Để có thể truy cập {{noun}} này bạn phải mua nó với giá hoặc hơn mức giá tối thiểu là {{price}}.",
-        "devlog_view_all_posts": "Xem tất cả bài đăng"
+        "devlog_view_all_posts": "Xem tất cả bài đăng",
+        "empty_page": "Có vẻ như không có gì ở đây...",
+        "unavailable": "{{game_noun}} này hiện không có sẵn",
+        "download_or_claim_button": "Tải xuống hoặc nhận",
+        "development_log_header": "Nhật ký phát triển"
     }
 }
