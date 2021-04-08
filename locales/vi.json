@@ -19,12 +19,13 @@
             "notifications_count": "{{count}} thông báo",
             "feed_unseen_count": "{{count}} chưa đọc",
             "browse": "Khám phá",
-            "jams": "Jams",
+            "jams": "Jam",
             "sales": "Khuyến mãi",
             "game_assets": "Tài nguyên",
             "browse_games": "Khám phá trò chơi",
             "game_jams": "Game Jam",
-            "dashboard": "Bảng điều khiển"
+            "dashboard": "Bảng điều khiển",
+            "fun_games": "Game vui"
         },
         "footer": {
             "about": "Giới thiệu",
