@@ -92,14 +92,17 @@
         "nav": {
             "game_jams": "Các game jam",
             "all_games": "Tất cả trò chơi",
-            "bundles": "Gói"
+            "bundles": "Gói",
+            "devlogs": "Nhật ký phát triển"
         },
         "view_something_random": "Xem gì đó ngẫu nhiên",
         "featured_jams": "Các jam đặc sắc",
         "view_all_on_sale": "Xem tất cả đang giảm giá",
         "latest_featured_games": "Trò chơi nổi bật mới nhất",
         "filtering_platform": "Đang lọc tất cả các game cho {{platform_name}}",
-        "browse_content_type": "Duyệt {{content_type}}"
+        "browse_content_type": "Duyệt {{content_type}}",
+        "people_to_follow_description": "Đây là một số tài khoản bạn có thể quan tâm và theo dõi. <a>Tại sao theo dõi?</a>",
+        "view_all_platforms": "Xem tất cả các nền tảng"
     },
     "misc": {
         "accessibility_features": {
@@ -298,6 +301,12 @@
         "upload_or_dashboard": "<1>Đăng tải một trò chơi mới</1> <em>hoặc</em> <2>Đi đến bảng điều khiển</2>"
     },
     "search": {
-        "view_all_tags": "Xem tất cả các nhãn"
+        "view_all_tags": "Xem tất cả các nhãn",
+        "published_count": "{{count}} dự án",
+        "search_results_for_query": "Kết quả tìm kiếm cho '{{query}}'"
+    },
+    "app": {
+        "open_source": "Mã nguồn mở",
+        "for_platforms": "Cho <1>Windows</1>, <2>macOS</2>, and <3>Linux</3>"
     }
 }
