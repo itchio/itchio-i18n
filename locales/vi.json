@@ -1,7 +1,7 @@
 {
     "layout": {
         "header": {
-            "devlogs": "Nhật ký nhà phát triển",
+            "devlogs": "Nhật kí phát triển",
             "comics": "Truyện tranh",
             "upload_game": "Đăng tải trò chơi",
             "log_in": "Đăng nhập",
@@ -336,7 +336,11 @@
         "updates": "Cập nhật",
         "read_the_app_guide": "Đọc hướng dẫn sử dụng",
         "download_now": "Tải xuống ngay",
-        "community_header": "Tham gia cộng đồng"
+        "community_header": "Tham gia cộng đồng",
+        "web_games_header": "Trò chơi trình duyệt ngoại tuyến",
+        "web_games_description": "Bạn có thể đồng bộ bất kì trò chơi trình duyệt nào vào chính ứng dụng, cho phép bạn chơi chúng offline bất cứ lúc nào bạn muốn. Một khi bạn có mạng trở lại, bạn sẽ có thể nhận các bản cập nhật nếu cần thiết.",
+        "languages_header": "Có sẵn trên ngôn ngữ của bạn",
+        "page_title": "Tải xuống ứng dụng"
     },
     "game": {
         "get_access": "Bạn sẽ có quyền truy cập các tệp sau:",
@@ -433,11 +437,11 @@
             },
             "jam_submission": {
                 "view_the_submission_page": "Xem trang đệ trình",
-                "accepting_ratiings": "Jam này hiện tại đang chấp nhận đánh giá cho nội dung. <a>Tìm hiểu thêm</a>",
+                "accepting_ratiings": "Jam này hiện tại đang chấp nhận đánh giá cho các mục thi. <a>Tìm hiểu thêm</a>",
                 "you_rated_this_game": "Bạn đã đánh giá trò chơi này",
-                "rating_instructions": "Đánh giá và bình luận nội dung này cho jam bằng cách truy cập trang đệ trình từ liên kết phía trên.",
-                "this_is_a_submission_to_jam_title": "Đây là nội dung được gửi đến {{jam_title}}",
-                "now_accepting_ratings": "Jam này hiện đang chấp nhận đánh giá cho các nội dung."
+                "rating_instructions": "Đánh giá và bình luận mục thi này cho jam bằng cách truy cập trang đệ trình từ liên kết phía trên.",
+                "this_is_a_submission_to_jam_title": "Đây là một mục thi được gửi đến {{jam_title}}",
+                "now_accepting_ratings": "Jam này hiện đang chấp nhận đánh giá cho các mục thi."
             },
             "view_all_by_name": "Xem tất cả bởi {{name}}",
             "follow": "Theo dõi",
@@ -450,7 +454,8 @@
             "edit_your_rating": "Chỉnh sửa đánh giá của bạn",
             "edit_rating": "Chỉnh sửa đánh giá",
             "rate": "Đánh giá",
-            "rate_this_noun": "Đánh giá {{noun}} này"
+            "rate_this_noun": "Đánh giá {{noun}} này",
+            "submission_to_jam": "Mục thi của {{jam_title}}"
         },
         "after_download": {
             "thanks_for_downloading_title": "Cảm ơn vì đã tải xuống",
@@ -488,7 +493,10 @@
         "post_a_new_topic": "Đăng một chủ đề mới",
         "post_first_topic": "Đăng chủ đề đầu tiên",
         "community_header": "Cộng đồng",
-        "community_posts_count": "{{count}} bài đăng"
+        "community_posts_count": "{{count}} bài đăng",
+        "more_information": "Thêm thông tin",
+        "install_instructions": "Hướng dẫn cài đặt",
+        "download_header": "Tải xuống"
     },
     "community": {
         "topic": {
@@ -535,8 +543,8 @@
             "delete": "Xóa",
             "report": "Báo cáo",
             "ban": "Cấm...",
-            "vote_up": "Vote lên",
-            "vote_down": "Vote xuống",
+            "vote_up": "Bình chọn lên",
+            "vote_down": "Bình chọn xuống",
             "deleted_account": "Tài khoản đã bị xóa",
             "suspended_account": "Tài khoản đã bị đình chỉ",
             "pinned_reply": "Bài trả lời được ghim",
@@ -632,7 +640,7 @@
         "continue_payment": "Tiếp tục thanh toán",
         "billing_address": "Địa chỉ thanh toán",
         "generic_error": "Đã có một vấn đề với thanh toán của bạn: {{error}}",
-        "contact_support_on_error": "Nếu vấn đề tái diễn, vui lòng liên hệ <a>hỗ trợ itch.io</a> với những thông tin có liên quan.",
+        "contact_support_on_error": "Nếu vấn đề tái diễn, vui lòng liên hệ <a>bộ phận hỗ trợ itch.io</a> với những thông tin có liên quan.",
         "gift_email_instructions": "Bạn sẽ chọn một email để gửi quà đến sau khi bạn trả tiền",
         "agree_to_terms": "Bằng việc hoàn thành thanh toán bạn chấp nhận <1>Điều khoản Dịch vụ</1> và <2>Chính sách Quyền riêng tư</2> của itch.io."
     },
@@ -857,7 +865,7 @@
             "unique_url_for_your_payment": "Trang này có một URL độc nhất cho thanh toán của bạn.",
             "access_latest_files_from_this_page": "Bạn luôn có thể truy cập những tệp mới nhất từ trang này.",
             "payment_summary": "Bạn đã trả tiền cho nó vào {{payment_date}} với giá {{payment_price}}.",
-            "payment_summary_with_email": "Bạn đã trả tiền cho nó vào {{payment_date}} với giá {{payment_price}} với email {{email_address}}.",
+            "payment_summary_with_email": "Bạn đã trả tiền cho nó vào {{payment_date}} với giá {{payment_price}} bằng email {{email_address}}.",
             "percent_off": "Giảm {{percent}}%",
             "linked_user_message": "Thanh toán này đã được liên kết với tài khoản {{username}}.",
             "thank_you_for_donating_author": "Cảm ơn vì đã đóng góp cho {{product_title}} bởi {{author}}.",
@@ -885,9 +893,9 @@
         "save_credit_card_for_future_purchases": "Lưu thẻ tín dụng cho các lần mua tiếp theo",
         "manage_cards_link": "Bạn có thể quản lí thẻ của bạn từ trang <a>Tùy chọn tài khoản</a> của bạn",
         "pay_price_button": "Trả {{price}}",
-        "paying_price_for": "Trả {{price}} cho:",
-        "donating_price_to": "Đóng góp {{price}} cho:",
-        "donating_price_vat_to": "Đóng góp {{price}} + thuế GTGT cho:",
+        "paying_price_for": "Đang trả {{price}} cho:",
+        "donating_price_to": "Đang đóng góp {{price}} cho:",
+        "donating_price_vat_to": "Đang đóng góp {{price}} + thuế GTGT cho:",
         "steam_key": "Khóa Steam",
         "you_will_receive_files": "Bạn sẽ nhận được:",
         "linked_to_account": "Đã liên kết đến tài khoản",
@@ -895,14 +903,14 @@
         "youll_be_mailed_your_access_link": "Bạn sẽ được gửi liên kết truy cập của bạn",
         "full_name": "Tên đầy đủ",
         "name_as_it_appears_on_card": "Như nó được hiển thị trên thẻ",
-        "paying_price_vat_for": "Trả {{price}} + thuế GTGT cho:"
+        "paying_price_vat_for": "Đang trả {{price}} + thuế GTGT cho:"
     },
     "jam": {
         "header": {
             "links": {
                 "results": "Kết quả",
                 "community": "Cộng đồng",
-                "submissions": "Đệ trình",
+                "submissions": "Mục thi",
                 "overview": "Tổng quát",
                 "screenshots": "Ảnh chụp màn hình",
                 "edit_jam": "Chỉnh sửa jam",
@@ -928,14 +936,185 @@
             "submissions_open_from": "Cho phép gửi từ {{start_date}} đến {{end_date}}",
             "jam_is_now_over": "Jam này đã kết thúc. Nó đã chạy từ {{start_date}} đến {{end_date}}.",
             "view_results": "Xem kết quả",
-            "view_entries": "Xem {{count}} mục tham gia",
+            "view_entries": "Xem {{count}} mục thi",
             "submission_is_closed_for_voting": "Quá trình gửi đã được đóng và hiện đang tiến hành bỏ phiếu",
             "or_leave_jam": "hoặc <a>rời jam</a>",
             "joined_instructions": "Hãy quay lại trang này sau khi jam bắt đầu để gửi dự án của bạn.",
             "you_can_now_rate_entries": "Bạn bây giờ có thể đánh giá các mục tham gia trong <a>trang đệ trình</a>"
         },
         "submissions": {
-            "there_are_no_submissions_yet": "Hiện chưa có ai gửi gì cả"
+            "there_are_no_submissions_yet": "Hiện chưa có ai gửi gì cả",
+            "there_were_no_submissions": "Đã không có mục thi nào cả",
+            "submissions_will_be_available_after_the_jam_has_ended": "Các mục thi sẽ khả dụng sau khi jam kết thúc",
+            "help_submissions_in_need_of_ratings": "Giúp đánh giá các mục thi đang có ít đánh giá: <a>Các mục thi đang cần đánh giá</a>",
+            "filters": {
+                "all_submissions": "Tất cả mục thi",
+                "browser_playable": "Chơi được trên trình duyệt"
+            },
+            "filter": "Lọc",
+            "empty_results": "Không có mục thi trùng khớp với bộ lọc của bạn",
+            "rated": "Đã đánh giá"
+        },
+        "results": {
+            "votes_cast_count": "<s>{{count}}</s> lượt bình chọn đã được gửi giữa {{vote_start_date}} đến {{vote_end_date}}.",
+            "results": "Kết quả",
+            "submissions_summary": "<s>{{count}} mục thi</s> đã được gửi giữa {{start_date}} đến {{end_date}}.",
+            "ratings_given_count": "<s>{{count}} đánh giá</s> đã được gửi giữa {{vote_start_date}} đến {{vote_end_date}}.",
+            "ratings_given_submissions_count": "<s>{{count}} đánh giá</s> đã được gửi đến <s>{{submission_count}} mục thi</s> ({{percent}}%) giữa {{vote_start_date}} đến {{vote_end_date}}.",
+            "average_and_median_results": "Số đánh giá trung bình mỗi trò chơi là <s>{{average_ratings}}</s> và số trung vi của nó là <s>{{median_ratings}}</s>.",
+            "empty_message": "Hiện chưa có kết quả khả dụng, hãy quay lại sau",
+            "empty_page_message": "Không có kết quả trên trang này",
+            "no_rankings_available": "Không có xếp hạng khả dụng",
+            "sort_by_criteria": "Theo tiêu chí",
+            "sort_overall": "Tổng quan",
+            "submissions": {
+                "by_author": "bởi {{author}}",
+                "view_submission_page": "Xem trang đệ trình",
+                "ranked": "Đã xếp hạng {{ordinal_rank}}",
+                "ranked_vote_count": "Đã xếp hạng {{ordinal_rank}} với {{count}} lượt bình chọn",
+                "ranked_criteria": "Đã xếp hạng {{ordinal_rank}} trong {{criteria_name}}",
+                "ranked_criteria_rating_count": "Đã xếp hạng {{ordinal_rank}} trong {{criteria_name}} với {{count}} đánh giá",
+                "ranked_score": "Điểm số: {{score}}",
+                "ranked_rating_count": "Đã xếp hạng {{ordinal_rank}} với {{count}} đánh giá",
+                "ranked_criteria_vote_count": "Đã xếp hạng {{ordinal_rank}} trong {{criteria_name}} với {{count}} lượt bình chọn"
+            }
+        },
+        "submission": {
+            "results_header": "Kết quả",
+            "submitted_by_contributors": "Đã được gửi bởi {{contributors}}",
+            "rate_submission": {
+                "vote": "Bình chọn",
+                "private_field": "(riêng tư)",
+                "vote_for_this_submission": "Bình chọn cho mục thi này",
+                "rate_this_submission": "Đánh giá mục thi này",
+                "owner_message": "Đây là mục thi của bạn, bạn không được phép đánh giá nó. Các người tham gia khác sẽ có thể đánh giá dự án của bạn ở đây.",
+                "unavailable_to_rate": "Bạn không thể đánh giá dự án này vì bạn đã không gửi dự án của bạn. Bạn vẫn có thể để lại bình luận ở phía dưới.",
+                "sign_up_to_rate": "<a>Đăng nhập với một tài khoản itch.io</a> để đánh giá và để lại bình luận.",
+                "you_will_be_able_to_rate_if_you_submit": "Bạn sẽ có thể đánh giá mục thi này nếu bạn gửi đến jam này.",
+                "other_participants_can_rate": "Những người khác mà đã tham gia jam sẽ có thể đánh giá mục thi của bạn.",
+                "save_vote": "Lưu bình chọn",
+                "save_rating": "Lưu đánh giá",
+                "you_havent_rated_this_submission_yet": "Bạn chưa đánh giá mục thi này.",
+                "you_just_voted": "Bạn vừa đã bình chọn xong.",
+                "you_voted_ago": "Bạn đã bình chọn {{timestamp}}.",
+                "disqualified_message": "Mục thi này đã bị loại và không đủ điều kiện để xếp hạng.",
+                "not_open_yet": "Thời gian nhận gửi của jam này chưa kết thúc. Đánh giá sẽ mở vào {{start_date}}.",
+                "sign_up_to_vote": "<a>Đăng nhập với một tài khoản itch.io</a> để bình chọn và để lại bình luận.",
+                "participate_to_rate_message": "Để có thể đánh giá mục thi này bạn cần phải <a>đã đăng nhập vào itch.io</a> và đã gửi đi mục thi của bạn. Bất cứ ai có tài khoản đều có thể để lại bình luận."
+            },
+            "results_table_criteria": "Tiêu chí",
+            "results_table_rank": "Xếp hạng",
+            "results_table_votes": "Lượt bình chọn",
+            "results_table_score": "Điểm số",
+            "results_table_raw_score": "Điểm số thô",
+            "edit_this_submission_button": "Chỉnh sửa mục thi này",
+            "a_jam_submission": "Một mục thi jam",
+            "view_game_page": "Xem trang trò chơi",
+            "view_project_page": "Xem trang dự án",
+            "comments": {
+                "leave_a_comment_header": "Để lại bình luận",
+                "post_comment": "Đăng bình luận",
+                "empty_message": "Chưa có ai đăng bài bình luận nào cả"
+            },
+            "link_to_itchio_page": "Trang itch.io của {{game_title}}",
+            "downloads": "Lượt tải về",
+            "play_game": "Chơi trò chơi",
+            "run_project": "Chạy dự án",
+            "ranked_from_count": "Đã xếp hạng từ <s>{{count}} đánh giá</s>.",
+            "ranked_from_count_plural": "Đã xếp hạng từ <s>{{count}} đánh giá</s>.",
+            "ranked_with_vote_count": "Đã xếp hạng {{ordinal_rank}} với {{count}} lượt bình chọn",
+            "time_remaining_before_deadline": "{{time_duration}} trước hạn chốt",
+            "rated_by_people_count_plural": "Đã được đánh giá bởi {{count}} người đến nay",
+            "rated_by_people_count": "Đã được đánh giá bởi {{count}} người đến nay",
+            "remove_this_submission_button": "Xóa bỏ mục thi này",
+            "score_information": "Điểm số được điều chỉnh từ điểm số thô dựa vào số đánh giá trung vi mỗi trò chơi trong jam này."
+        },
+        "screenshots": {
+            "empty_message": "Hiện chưa có ảnh chụp màn hình được gửi lên",
+            "loading_more": "Đang tải thêm ảnh chụp màn hình..."
         }
+    },
+    "dashboard": {
+        "stats": {
+            "gross_revenue": "Tổng thu nhập",
+            "payments": "Thanh toán",
+            "views": "Lượt xem",
+            "downloads": "Lượt tải về",
+            "followers": "Người theo dõi",
+            "following": "Đang theo dõi"
+        },
+        "create_new_project_button": "Tạo dự án mới",
+        "page_title": "Bảng điều khiển nhà sáng tạo",
+        "header": {
+            "projects_link": "Các dự án",
+            "analytics_link": "Phân tích",
+            "payouts_link": "Thanh toán",
+            "sales_bundles_link": "Khuyến mãi & gói",
+            "coop_bundles_link": "Gói co-op",
+            "game_jams_link": "Game jam",
+            "payments_link": "Khoản trả"
+        },
+        "project_list": {
+            "edit": "Chỉnh sửa",
+            "analytics": "Phân tích",
+            "widget": "Widget",
+            "no_image": "Không có ảnh"
+        },
+        "analytics_summary_header": "Tổng quát",
+        "not_a_developer_escape": "Không, dẫn tôi đến trang trò chơi",
+        "recently_updated_pages_header": "Trang đã cập nhật gần đây",
+        "new_devlog": "Nhật kí phát triển mới",
+        "hello": "Xin chào!",
+        "dashboard": "Bảng điều khiển",
+        "edit_project": {
+            "create_a_new_project_title": "Tạo một dự án mới",
+            "edit_project_title": "Chỉnh sửa dự án",
+            "title_field": "Tiêu đề",
+            "project_url_field": "URL dự án",
+            "save_and_view_button": "Lưu & xem trang",
+            "video_field": "Video hoặc trailer trò chơi",
+            "video_field_description": "Nhập một liên kết đến YouTube hoặc Vimeo.",
+            "delete_game_button": "Xóa trò chơi",
+            "short_description_field": "Mô tả hoặc câu giới thiệu ngắn",
+            "community_disabled": "Vô hiệu hóa",
+            "upload_files_button": "Tải các tệp lên",
+            "classification_field": "Phân loại",
+            "classification_field_description": "Bạn đang tải lên cái gì?",
+            "kind_of_project_field": "Kiểu dự án",
+            "release_status_field": "Tình trạng phát hành",
+            "details_section_header": "Chi tiết",
+            "description_field": "Miêu tả",
+            "custom_noun_field": "Danh từ tùy chỉnh",
+            "instructions_field": "Hướng dẫn tải xuống & cài đặt",
+            "default_noun": "Để trống để mặc định thành: '{{default_noun}}'.",
+            "classification_other": "Khác",
+            "types": {
+                "downloadable": "Tải xuống được"
+            },
+            "tip_label": "Gợi ý",
+            "description_field_description": "Đây sẽ tạo nên nội dung của trang trò chơi của bạn.",
+            "instructions_field_info2": "Nếu trò chơi của bạn yêu cầu thêm bất cứ thư viện hoặc chương trình nào được cài đặt bạn cũng nên bao gồm thông tin đó",
+            "community_field": "Cộng đồng",
+            "community_comments": "Bình luận",
+            "community_discussion_board": "Bảng thảo luận",
+            "pricing_header": "Giá cả",
+            "uploads_header": "Tải lên",
+            "add_external_file_button": "Thêm tệp ngoài",
+            "file_size_limit": "Kích cỡ tệp tối đa: {{filesize}}. <a>Liên hệ với chúng tôi</a> nếu bạn cần thêm chỗ",
+            "content_guidelines_header": "Hãy đảm bảo rằng mọi người đều có thể tìm thấy trang của bạn",
+            "content_guidelines_info": "Xem lại <a>nguyên tắc chất lượng</a> của chúng tôi trước khi đăng tải dự án của bạn",
+            "payment_warning_header": "Bạn chưa có định cấu hình thanh toán",
+            "cover_uploader": {
+                "confirm_remove": "Bạn có chắc chắn bạn muốn gỡ bỏ ảnh bìa?",
+                "cover_description": "Ảnh bìa được sử dụng bất cứ khi itch.io muốn liên kết dự án của bạn từ một nơi khác của trang. Bắt buộc (Tối thiểu: 315x250, Khuyến nghị: 630x500)"
+            },
+            "short_description_field_description": "Được hiển thị khi chúng tôi liên kết đến dự án của bạn. Tránh cùng với tiêu đề của dự án của bạn",
+            "custom_noun_field_description": "Bạn có thể thay đổi cách mà itch.io đề cập đến dự án của bạn bằng cách tạo một danh từ tùy chỉnh.",
+            "project_type_help": "Bạn có thể thêm các tệp tải xuống bổ sung cho bất cứ loại nào ở trên",
+            "instructions_field_info1": "Đoạn văn bản này sẽ được hiển thi cho bất cứ ai khi họ đang tải xuống trò chơi của bạn thông qua trình duyệt của họ. Bao gồm bất cứ thông tin nào về cách cài đặt và chạy những gì họ đang tải xuống.",
+            "payment_warning_info": "Nếu bạn đặt mức giá tối thiểu lớn hơn 0 sẽ không có ai có thể tải xuống dự án của bạn. <a>Chỉnh sửa hồ sơ</a>"
+        },
+        "follow_itchio": "Theo dõi itch.io trên {{twitter}} và {{facebook}}",
+        "intro_text": "Bạn có phải một nhà phát triển? Đăng tải trò chơi đầu tiên của bạn"
     }
 }
