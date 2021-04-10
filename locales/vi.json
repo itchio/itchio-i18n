@@ -39,7 +39,7 @@
         },
         "user_menu": {
             "dashboard": "Bảng điều khiển",
-            "host_game_jam": "Tạo game jam",
+            "host_game_jam": "Tổ chức game jam",
             "log_out": "Đăng xuất",
             "explore": "Khám phá",
             "account": "Tài khoản",
@@ -656,9 +656,9 @@
         "private_collection_message": "Bộ sưu tập này là riêng tư, chỉ có các người đóng góp mới có thể xem nội dung của nó",
         "pending_invitation": "Bạn đang có lời mời làm người đóng góp của bộ sưu tập này đang chờ được xử lí. <a>Xem lời mời</a>",
         "page_title": "{{collection_title}} - Bộ sưu tập bởi {{author}}",
-        "remove_item_button": "Bỏ...",
+        "remove_item_button": "Xóa...",
         "edit_blurb": "Chỉnh sửa thông điệp",
-        "remove_confirm": "Bạn có chắc chắn bạn muốn bỏ nó khỏi bộ sưu tập không"
+        "remove_confirm": "Bạn có chắc chắn bạn muốn xóa nó khỏi bộ sưu tập không"
     },
     "browse": {
         "sort_popular": "Nổi bật",
@@ -1106,15 +1106,203 @@
             "payment_warning_header": "Bạn chưa có định cấu hình thanh toán",
             "cover_uploader": {
                 "confirm_remove": "Bạn có chắc chắn bạn muốn gỡ bỏ ảnh bìa?",
-                "cover_description": "Ảnh bìa được sử dụng bất cứ khi itch.io muốn liên kết dự án của bạn từ một nơi khác của trang. Bắt buộc (Tối thiểu: 315x250, Khuyến nghị: 630x500)"
+                "cover_description": "Ảnh bìa được sử dụng bất cứ khi itch.io muốn liên kết dự án của bạn từ một nơi khác của trang. Bắt buộc (Tối thiểu: 315x250, Khuyến nghị: 630x500)",
+                "replace_image": "Thay đổi ảnh bìa",
+                "upload_button": "Đăng tải ảnh bìa",
+                "remove_image": "Gỡ ảnh bìa"
             },
             "short_description_field_description": "Được hiển thị khi chúng tôi liên kết đến dự án của bạn. Tránh cùng với tiêu đề của dự án của bạn",
             "custom_noun_field_description": "Bạn có thể thay đổi cách mà itch.io đề cập đến dự án của bạn bằng cách tạo một danh từ tùy chỉnh.",
             "project_type_help": "Bạn có thể thêm các tệp tải xuống bổ sung cho bất cứ loại nào ở trên",
             "instructions_field_info1": "Đoạn văn bản này sẽ được hiển thi cho bất cứ ai khi họ đang tải xuống trò chơi của bạn thông qua trình duyệt của họ. Bao gồm bất cứ thông tin nào về cách cài đặt và chạy những gì họ đang tải xuống.",
-            "payment_warning_info": "Nếu bạn đặt mức giá tối thiểu lớn hơn 0 sẽ không có ai có thể tải xuống dự án của bạn. <a>Chỉnh sửa hồ sơ</a>"
+            "payment_warning_info": "Nếu bạn đặt mức giá tối thiểu lớn hơn 0 sẽ không có ai có thể tải xuống dự án của bạn. <a>Chỉnh sửa hồ sơ</a>",
+            "errors": {
+                "invalid_file": "Đã có một sự cố với tệp mà bạn đã chọn",
+                "invalid_image": "Hãy chỉnh sửa ảnh của bạn hoặc thử một cái khác"
+            },
+            "error_dialog": {
+                "confirm_button": "Đã hiểu",
+                "title": "Đã có một sự cố trong khi lưu dự án của bạn"
+            },
+            "visibility_access_header": "Khả năng hiển thị & tiếp cận",
+            "access_control": {
+                "disable_downloads_option": "Vô hiệu hóa tải xuống & thanh toán mới",
+                "unlisted_option": "Không hiển thị trên tìm kiếm & khám phá",
+                "allow_password_option": "Đồng thời cho phép dùng mật khẩu để xem trang",
+                "password_label": "Mật khẩu",
+                "public_access_settings": "Cài đặt quyền truy cập công khai",
+                "access_settings": "Cài đặt quyền truy cập",
+                "restricted_access_settings": "Cài đặt quyền truy cập giới hạn"
+            },
+            "embed_options": {
+                "orientation": "Chiều xoay màn hình",
+                "viewport_dimensions": "Kích thước khung nhìn",
+                "width": "Chiều rộng",
+                "height": "Chiều cao",
+                "frame_options": "Tùy chọn khung",
+                "mobile_friendly_option": "Thân thiện với điện thoại",
+                "fullscreen_button_option": "Nút toàn màn hình",
+                "enable_scrollbars_option": "Kích hoạt thanh cuộn",
+                "embed_in_page_option": "Nhúng trên trang",
+                "launch_fullscreen_option": "Nhấn để khởi chạy toàn màn hình",
+                "mobile_friendly_info": "Dự án của bạn có thể chạy trên điện thoại di động (kích thước nhỏ hơn và hỗ trợ cảm ứng)"
+            },
+            "embed_options_header": "Tùy chọn nhúng",
+            "details_genre_header": "Thể loại",
+            "details_tags_header": "Nhãn",
+            "pricing": {
+                "free_or_donate": "{{money}} hoặc đóng góp",
+                "paid": "Trả phí",
+                "no_payments": "Không cần thanh toán",
+                "embed_pricing_info": "Việc đặt mức giá tối thiểu sẽ giới hạn quyền truy cập vào các tệp tải xuống được. Nội dung được nhúng là có sẵn miễn phí.",
+                "minimum_price_label": "Mức giá tối thiểu",
+                "minimum_price_info": "Mức giá ít nhất cần phải trả để có quyền tải xuống trò chơi",
+                "default_donation_amount_info": "Số tiền đóng góp mặc định",
+                "payment_disabled_info": "Các tệp của dự án này sẽ được cung cấp miễn phí và không có khoản đóng góp nào có thể được tạo",
+                "suggest_default_price_label": "Đề xuất giá mặc định thay thế",
+                "suggested_donation_label": "Khoản đóng góp đề xuất",
+                "suggested_price_label": "Mức giá đề xuất",
+                "default_price_info": "Mức giá đề xuất được hiển thị khi ai đó mua dự án của bạn",
+                "price_too_low_error": "Vui lòng nhập một mức giá lớn hơn mức giá của dự án",
+                "free_price_info": "Những ai tải xuống dự án của bạn sẽ được hỏi về việc đóng góp trước khi có quyền truy cập. Họ có thể bỏ qua để tải nó xuống miễn phí."
+            },
+            "uploads": {
+                "delete_file_button": "Xóa tệp",
+                "play_in_browser_toggle": "Tệp này sẽ được chơi trên trình duyệt",
+                "demo_toggle": "Tệp này là bản dùng thử và có thể được tải xuống miễn phí",
+                "preorder_toggle": "Tệp này là để giữ tệp được đặt trước",
+                "set_price_toggle": "Đặt một mức giá khác cho tệp này",
+                "change_display_name_button": "Thay đổi tên hiển thị",
+                "hide_toggle": "Ẩn tệp này và ngăn không cho tải xuống"
+            },
+            "community_comments_info": "Thêm một chuỗi nhận xét chồng ở phía dưới trang dự án",
+            "community_discussion_board_info": "Thêm một trang cộng đồng chuyên dụng với các danh mục, chủ đề, bài trả lời & hơn thế",
+            "add_screenshots": "Thêm ảnh chụp màn hình",
+            "screenshots_header": "Ảnh chụp màn hình",
+            "visibility_access_info": "Sử dụng Bản nháp để xem xét trang của bạn trước khi công khai nó. <a>Tìm hiểu thêm về các chế độ truy cập</a>",
+            "details_genre_info": "Chọn một thể loại mà mô tả tốt nhất trò chơi của bạn. Bạn có thể chọn thêm các thể loại bổ sung với các nhãn phía dưới",
+            "community_field_info": "Xây dựng một cộng đồng cho dự án của bạn bằng cách cho phép mọi người đăng lên trang của bạn."
         },
         "follow_itchio": "Theo dõi itch.io trên {{twitter}} và {{facebook}}",
-        "intro_text": "Bạn có phải một nhà phát triển? Đăng tải trò chơi đầu tiên của bạn"
+        "intro_text": "Bạn có phải một nhà phát triển? Đăng tải trò chơi đầu tiên của bạn",
+        "project_header": {
+            "metadata": "Siêu dữ liệu",
+            "more": "Thêm",
+            "edit_project": "Chỉnh sửa dự án",
+            "analytics": "Phân tích",
+            "distribute": "Phân phát",
+            "interact": "Tương tác",
+            "edit_comments": "Chỉnh sửa nhận xét",
+            "discussion_board": "Bảng thảo luận",
+            "rewards": "Phần thưởng",
+            "admins": "Người quản trị",
+            "devlog": "Nhật kí phát triển"
+        }
+    },
+    "add_to_collection": {
+        "add_reason": "Thêm dự án này vào một bộ sưu tập để lưu nó để dành sau.",
+        "count_items": "{{count}} mục",
+        "add_to_existing": "Thêm vào bộ sưu tập hiện có",
+        "private_collection_title": "[Riêng tư] {{title}}",
+        "add_to_new": "Thêm vào bộ sưu tập mới có tiêu đề",
+        "default_title": "Bộ sưu tập của {{username}}",
+        "add_button": "Thêm vào bộ sưu tập",
+        "manage_collections_link": "Quản lí bộ sưu tập",
+        "about_this_project_label": "Về dự án này",
+        "dialog_title": "Thêm {{project_title}} vào bộ sưu tập",
+        "already_in_collections": "Dự án này đã có trong các bộ sưu tập sau:",
+        "private_collection_option": "Bộ sưu tập riêng tư — Chỉ bạn mới có thể xem nội dung"
+    },
+    "jams": {
+        "host_a_jam_button": "Tổ chức một jam",
+        "jams_created_header": "Jam bạn đã tạo",
+        "jams_joined_header": "Jam bạn đã tham gia",
+        "page_title": "Game Jam trên itch.io",
+        "page_summary": "itch.io là một nơi để tổ chức và tham gia các game jam trực tuyến. Bất cứ ai cũng có thể tạo và tổ chức một jam ngay tức thì.",
+        "manage_submissions_link": "Quản lí các mục thi và jam của bạn",
+        "browse_jams_header": "Khám phá các jam",
+        "jam_calendar_header": "Lịch jam",
+        "host_your_own_jam_button": "Tổ chức jam của bạn",
+        "dont_see_something_you_like_header": "Không thấy gì bạn thích?",
+        "browse_upcoming_this_month": "Sắp tới trong tháng này",
+        "brose_featured_jams": "Các jam đặc sắc",
+        "browse_top_past_jams": "Tốp jam từ trước",
+        "browse_in_progress": "Đang diễn ra",
+        "count_joined": "{{count}} đã tham gia",
+        "games_created": "<s>{{count}} trò chơi</s> đã được tạo cho các jam được tổ chức trên itch.io.",
+        "host_or_explore_links": "<1>Tổ chức jam của bạn</1> hoặc <2>Khám phá tất cả jam</2>"
+    },
+    "feed": {
+        "filter_ratings_tab": "Các đánh giá",
+        "filter_own_activity_tab": "Hoạt động của tôi",
+        "filter_everything_tab": "Tất cả mọi thứ",
+        "filter_new_projects_tab": "Các dự án mới",
+        "filter_devlogs_tab": "Nhật kí phát triển",
+        "latest_featured_games_header": "Các trò chơi nổi bật mới nhất",
+        "featured_tags_header": "Các nhãn nổi bật",
+        "to_rate": {
+            "projects_to_rate_header": "Các dự án để đánh giá",
+            "to_rate_description": "Đây là một số những thứ bạn đã tương tác với nhưng chưa đánh giá."
+        },
+        "to_follow": {
+            "people_to_follow_header": "Những người để theo dõi",
+            "to_follow_description": "Đây là những tài khoản bạn có thể quan tâm đến việc theo dõi."
+        },
+        "my_feed_tab": "Bảng tin của tôi",
+        "global_feed_tab": "Bảng tin toàn cầu",
+        "upload_a_game_button": "Đăng tải một trò chơi",
+        "email_warning": {
+            "verify_your_email_address": "Xác minh địa chỉ email của bạn"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Thêm một ảnh đại diện",
+            "description": "Tài khoản của bạn chưa có ảnh đại diện, hãy thêm một cái để những người khác dễ dàng nhận ra bạn trong nháy mắt!"
+        },
+        "event": {
+            "collection_summary": "Một bộ sưu tập với {{count}} mục.",
+            "collection_added_count": "Đã thêm {{count}} mục."
+        },
+        "filter_collections_tab": "Các bộ sưu tập",
+        "manage_my_games_button": "Quản lí trò chơi của tôi",
+        "event_filter_label": "Lọc:"
+    },
+    "game_grid": {
+        "in_bundle": "Trong gói"
+    },
+    "library": {
+        "private_toggle": "Riêng tư",
+        "nav": {
+            "things_on_sale": "Những thứ đang giảm giá",
+            "my_purchases": "Thanh toán của tôi",
+            "recommended_for_you": "Có thể bạn sẽ thích",
+            "things_to_rate": "Những thứ để đánh giá"
+        },
+        "download_button": "Tải xuống",
+        "page_title": "Thư viện của tôi",
+        "things_you_own_header": "Những thứ bạn sở hữu",
+        "view_all_link": "Xem tất cả",
+        "show_on_my_profile_toggle": "Hiển thị trên hồ sơ của tôi",
+        "things_rated_header": "Những thứ bạn đã đánh giá",
+        "permalink": "Đường dẫn tĩnh",
+        "go_to_collection_link": "Đi đến bộ sưu tập",
+        "empty_collection_message": "Bộ sưu tập này rỗng",
+        "nav_header": "Thư viện",
+        "gift_button": "Gửi quà",
+        "rate_game": {
+            "rating_saved_header": "Xếp hạng đã lưu",
+            "follow_creator": "Hãy xem xét việc theo dõi nhà sáng tạo của {{project_title}} để cập nhật các bản phát hành mới của họ.",
+            "rating_deleted_summary": "Xếp hạng của bạn đã được xóa.",
+            "delete_button": "Xóa xếp hạng & đánh giá",
+            "choose_stars": "Chọn một xếp hạng từ 1 đến 5 sao.",
+            "rate_header": "Xếp hạng & Đánh giá {{project_title}}",
+            "rating_removed_header": "Xếp hạng đã xóa",
+            "you_rated_this_project_ago": "Bạn đã xếp hạng dự án này {{time_ago}}."
+        },
+        "redeem_button": "Nhận"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Địa chỉ email của bạn chưa được xác minh"
+        }
     }
 }
