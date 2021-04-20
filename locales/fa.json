@@ -238,7 +238,12 @@
     "game": {
         "info_panel": {
             "asset_license": "مجوز پکیج"
-        }
+        },
+        "more_information": "اطلاعات بیشتر",
+        "download_header": "بارگیری",
+        "unavailable": "این {{game_noun}} هم‌اکنون در دسترس نیست",
+        "purchase_header": "خرید",
+        "install_instructions": "دستورالعمل نصب"
     },
     "blog": {
         "all_posts": "همه‌ی پست‌ها",
@@ -306,7 +311,48 @@
     },
     "jam": {
         "stats": {
-            "ratings": "رتبه بندی"
+            "ratings": "رتبه‌بندی‌ها"
+        }
+    },
+    "developers": {
+        "my_dashboard": "داشبورد من",
+        "upload_a_new_game": "بارگذاری یک بازی جدید",
+        "account_faq_cta": "<1>اکنون یک حساب جدید بسازید</1> یا <2>پرسش‌های متداول را بخوانید</2>",
+        "upload_your_indie_game": "بازی مستقل خود را بارگذاری کنید",
+        "design_your_games_page": "صفحه بازی خود را طراحی کنید",
+        "track_your_game": "بازی خود را ردیابی کنید",
+        "learn_more": "بیشتر بدانید",
+        "learn_more_about": "بیشتر بدانید درباره:",
+        "share_message": "itch.io راهکاری ساده برای توزیع آنلاین و رایگان بازی مستقل شماست.",
+        "create_account_or_login": "<1>ساخت یک حساب</1> <em>یا</em> <2>ورود</2>",
+        "upload_or_dashboard": "<1>بارگذاری بازی جدید</1> <em>یا</em> <2>رفتن به داشبورد</2>"
+    },
+    "search": {
+        "view_all_tags": "نمایش همه تگ‌ها",
+        "creators": "سازندگان:",
+        "browse_all_games": "مرور همه بازی‌ها",
+        "search_results_for_query": "جستجوی نتایج برای '{{query}}'",
+        "published_count": "{{count}} پروژه",
+        "published_count_plural": "{{count}} پروژه"
+    },
+    "app": {
+        "open_source": "متن‌باز",
+        "share_message": "itch، برنامه دسکتاپ برای بازی‌های مستقل",
+        "tagline": "بازی‌های مستقل را نصب، به‌روز رسانی و بازی کنید",
+        "start_download": "شروع دانلود",
+        "more_info_links": "<1>در پرسش‌های متداول بیشتر بخوانید</1> یا <2>راهنمای برنامه را بخوانید</2>",
+        "read_the_app_guide": "راهنمای برنامه را بخوانید",
+        "updates": "به‌روز رسانی‌ها",
+        "languages_header": "در زبان شما موجود است",
+        "download_now": "اکنون بارگیری کن",
+        "community_header": "پیوستن به انجمن",
+        "page_title": "دانلود برنامه",
+        "for_platforms": "برای <1>ویندوز</1>, <2>مکینتاش</2>, و <3>لینوکس</3>",
+        "contribute_link": "می‌خواهید مشارکت کنید؟ <a>مشاهده سورس در گیت‌هاب</a>"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "آدرس ایمیل شما تأیید نشده است"
         }
     }
 }
