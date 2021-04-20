@@ -303,5 +303,10 @@
         },
         "create_an_account_on_itchio": "ساخت یک حساب کاربری در itch.io",
         "page_title": "ثبت نام حساب کاربری"
+    },
+    "jam": {
+        "stats": {
+            "ratings": "رتبه بندی"
+        }
     }
 }
