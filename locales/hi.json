@@ -480,6 +480,34 @@
         "name_your_own_price": "स्वयं मूल्य बताएं",
         "in_order_to_access": "{{noun}} इस तक पहुँच पाने के लिए आपको इसे न्यूनतम {{price}} अथवा न्यूनतम से अधिक मूल्य पर खरीदना होगा।",
         "steam_key_bundle_disclaimer": "(ध्यान दें: स्टीम कुंजी {{bundle_title}} में शामिल नहीं है)",
-        "community_view_all_posts": "सभी पोस्ट्स देखें"
+        "community_view_all_posts": "सभी पोस्ट्स देखें",
+        "after_download": {
+            "share_this_project": "इस परियोजना(प्रोजेक्ट) को साझा करें",
+            "thanks_for_downloading_title": "डाउनलोड करने के लिए धन्यवाद",
+            "thanks_project_author": "{{author}} के {{project}} को डाउनलोड करने के लिए धन्यवाद।",
+            "more_from_creator": "आप समान निर्माता के पृष्ठ पर उसी के द्वारा निर्मित और अधिक खोज सकते हैं: {{profile}}।",
+            "check_popup_blocker": "डाउनलोड को कुछ क्षणों में प्रारंभ हो जाना चाहिए। अगर ये नहीं होता, तब अपना पॉप अप ब्लॉकर जाँचे।",
+            "check_out_more_from_jam_title": "{{jam_title}} से और देखें",
+            "view_all_from_jam": "जैम से सभी देखें",
+            "more_from_itchio_header": "इच.आईओ से अधिक देखें",
+            "see_everything": "सब कुछ देखें",
+            "powered_by": "{{itchio_logo}}<s>द्वारा संचालित</s>",
+            "app_learn_more": "<s>नया!</s> इच.आईओ के डेस्कटॉप एप को भी एक बार प्रयोग करें अपने संग्रह को प्रबंधित करने को व इसमें डाउनलोड करने को। <a>अधिक जाने</a>"
+        },
+        "report_form": {
+            "support_from_creator": "क्या आपको समस्या हो रही है, क्या आपको निर्माता से सहायता चाहिए?",
+            "support_page_link": "आधिकारिक सहायता पृष्ठ पर जाएँ",
+            "email_creator_link": "निर्माता को ईमेल करें",
+            "submit_report_button": "रिपोर्ट प्रस्तुत(सबमिट) करें",
+            "title": "'{{page_title}}' पृष्ठ को रिपोर्ट करें",
+            "report_received_header": "रिपोर्ट प्राप्त हो गई",
+            "description_label": "विवरण",
+            "reason_label": "कारण",
+            "reason_other": "अन्य",
+            "form_description": "कृपया इस फॉर्म को भर दीजिए अगर आपको इस पृष्ठ की सामग्री के बारे में इच.आईओ की संतुलन स्थापित करने टीम से संपर्क करने की आवश्यकता है। आपकी रिपोर्ट पृष्ठ निर्माता से साझा की जाएगी आवश्यकता पड़ने पर।"
+        },
+        "password_required": {
+            "header": "इस पृष्ठ को देखने के लिए कूट शब्द(पासवर्ड) अनिवार्य है"
+        }
     }
 }
