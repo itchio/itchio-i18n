@@ -8,7 +8,7 @@
             "contact_us": "हमसे संपर्क करें",
             "terms": "शर्तें",
             "directory": "डाईरेक्ट्री",
-            "privacy": "एकांत",
+            "privacy": "एकांत(प्राईवेसी)",
             "cookies": "कुकीज़"
         },
         "header": {
@@ -33,7 +33,7 @@
             "comics": "चित्रकथाएँ",
             "sales": "बिक्री",
             "bundles": "बन्डलस्",
-            "game_assets": "साधन",
+            "game_assets": "संसाधन",
             "fun_games": "मजेदार गेमस",
             "games": "खेल",
             "feed_unseen_count": "{{count}} नया",
@@ -68,7 +68,8 @@
             "keyboard": "कुंजीपटल",
             "midi_controller": "एमआईडीआई नियंत्रक",
             "dance_pad": "नृत्य तकती",
-            "phone": "स्मार्टफोन"
+            "phone": "स्मार्टफोन",
+            "accelerometer": "एक्सलरोमीटर"
         },
         "multiplayer_features": {
             "adhoc": "तदर्थ नेटवर्कड् मल्टीप्लेयर",
@@ -79,7 +80,7 @@
             "textless": "कम अक्षरों वाला",
             "blind": "अंधे के अनुकूल",
             "one_button": "एक बटन",
-            "tutorial": "परस्पर संवादात्मक शिक्षण",
+            "tutorial": "परस्पर संवादात्मक(इनट्रैक्टिव) शिक्षण",
             "highcontrast": "अधिक विषमता",
             "configurable_controls": "विन्यास योग्य(Configurable) नियंत्रण",
             "subtitles": "उपशीर्षक",
@@ -181,7 +182,7 @@
     "index": {
         "to_follow": {
             "dismiss_tooltip": "और न सलाहें",
-            "refresh_button": "अधिक के लिए ताजा करें",
+            "refresh_button": "अधिक के लिए पुनः ताजा(रिफ्रेश) करें",
             "empty_results": "अभी हमारे पास आपको कुछ अच्छा दिखने को नहीं है। कृपया बाद में आयें",
             "created_projects": "बना ली है {{project_list}}"
         },
@@ -192,7 +193,7 @@
         "intro": "<s>इच.आइओ</s>एक सरल तरीका है इंडी खेलों को मुफ़्त में खोजने व साझा करने का.",
         "nav": {
             "community": "समुदाय",
-            "devlogs": "विकास की जानकारी",
+            "devlogs": "विकास की जानकारी(डेवलपर लॉग्स)",
             "game_jams": "खेल जैम्स",
             "bundles": "गट्ठें",
             "all_games": "सभी खेल"
@@ -207,7 +208,7 @@
         "more_featured_games": "अधिक विशेष रुप से प्रदर्शित खेल",
         "view_all_games_on_sale": "सभी खेल देखें जो छूट पर हैं",
         "people_to_follow": "लोग जिनका आप अनुसरण कर सकते हैं",
-        "fresh_games_description": "इच.आइओ के नए गेम्स के साथ लगातार सूचित किया जा रहा है",
+        "fresh_games_description": "इच.आइओ के नए खेलों के बारे में लगातार सूचित किया जा रहा है",
         "view_all_jams": "सभी जैम्स देखें",
         "featured_jams": "विशेष रुप से प्रदर्शित जैम",
         "view_more": "अधिक देखें",
@@ -318,7 +319,7 @@
         "create_account_or_login": "<1>खाता बनाएं</1> <em>या</em> <2>लॉगिन</2>",
         "upload_or_dashboard": "<1>एक नया खेल डालें</1> <em>या</em> <2>डैशबोर्ड में जाएँ</2>",
         "design_your_games_page_description": "एक अनुकूलित आपके खेल के लिए अपना पृष्ठ बनाएँ जहां लोग आपका खेल खरीदे या डाउनलोड करें। आप रंग, फ़ॉन्ट्स, चित्र व वीडियो चुनेंगे। क्योंकि ये आपका खेल पृष्ठ है इसमें आप ऐसा कुछ नहीं पायेंगे जो आप वहाँ डाल नहीं सकते।",
-        "track_your_game_description": "अपनी नजरें रखें की कैसे लोग आपका खेल देख रहे हैं विस्तृत विश्लेषणविद्या(एनालिटिक्स) के साथ जो की देखना, डाउनलोडस् व बिक्री को दिखाता है। अपने खेल को बढ़ावा देना चाहते हैं? डाउनलोड कुंजियाँ बनाएं व लोगों को खेल तक पहुँच दीजिए।"
+        "track_your_game_description": "अपनी नजरें रखें की कैसे लोग आपका खेल देख रहे हैं विस्तृत विश्लेषणविद्या(एनालिटिक्स) के साथ जो की देखना, डाउनलोडस् व बिक्री को दिखाता है। अपने खेल को बढ़ावा देना चाहते हैं? डाउनलोड कुंजियाँ बनाएं व लोगों को खेल तक पहुँच(एक्सेस) दीजिए।"
     },
     "search": {
         "creators": "निर्माता:",
@@ -478,7 +479,7 @@
         "download_demo_header": "उदाहरण(डेमो) डाउनलोड करें",
         "download_or_claim_button": "डाउनलोड या मांग करें",
         "name_your_own_price": "स्वयं मूल्य बताएं",
-        "in_order_to_access": "{{noun}} इस तक पहुँच पाने के लिए आपको इसे न्यूनतम {{price}} अथवा न्यूनतम से अधिक मूल्य पर खरीदना होगा।",
+        "in_order_to_access": "{{noun}} इस तक पहुँच(एक्सेस) पाने के लिए आपको इसे न्यूनतम {{price}} अथवा न्यूनतम से अधिक मूल्य पर खरीदना होगा।",
         "steam_key_bundle_disclaimer": "(ध्यान दें: स्टीम कुंजी {{bundle_title}} में शामिल नहीं है)",
         "community_view_all_posts": "सभी पोस्ट्स देखें",
         "after_download": {
@@ -508,6 +509,134 @@
         },
         "password_required": {
             "header": "इस पृष्ठ को देखने के लिए कूट शब्द(पासवर्ड) अनिवार्य है"
+        },
+        "community_sticky": "चिपका रहने वाला"
+    },
+    "community": {
+        "topic": {
+            "subscribe": "सदस्यता लें (सबस्क्राइब)",
+            "return_to_topic_list": "विषय सूची पर वापिस जाएँ",
+            "topic_is_archived": "इस विषय को अधिक पुराना मान लिया गया है और अब इसमें कुछ भी नहीं पोस्ट किया जा सकता",
+            "reply": "प्रतिक्रिया(उत्तर)",
+            "log_in_to_reply": "प्रतिक्रिया देने के लिए लॉग इन करें",
+            "unlisted_topic_notice": "<s>एक प्रबंधक(मोडरेटर) ने इस विषय को गैर-सूचीबद्ध कर दिया है।</s> यह विषय सूची में दिखाई नहीं देगा किन्तु आप इसमें प्रतिक्रिया दे सकते हैं या संपादित कर सकते हैं।",
+            "join_the_discussion": "चर्चा-परिचर्चा में जुड़े। आगे बढ़ने के लिए लॉग इन करें या एक मुफ़्त इच.आईओ खाता बनाए।",
+            "reply_to_someone_else": "किसी और को प्रतिक्रिया देना चाहते हैं? उनकी पोस्ट के नीचे <s>प्रतिक्रिया</s> दबाएँ।",
+            "this_reply_will_go_to_yourself": "यह प्रतिक्रिया आप ही को जाएगी।",
+            "this_reply_will_go_to_the_topic_author": "यह प्रतिक्रिया विषय के लेखक, {{username}} को जाएगी।",
+            "new_reply": "नई प्रतिक्रिया",
+            "remove_bookmark": "पृष्ठ स्मृति(बुकमार्क) हटाएँ",
+            "bookmark": "पृष्ठ स्मृति(बुकमार्क)",
+            "unsubscribe": "सदस्यता समाप्त करें (अनसबस्क्राइब)",
+            "views_count": "देखा गया: {{count}} बार",
+            "sticky": "चिपका रहने वाला",
+            "locked": "बंद",
+            "moderation": "संतुलन स्थापन(मोडरेशन)",
+            "a_topic_by_username_created_time_ago": "एक विषय {{username}} के द्वारा {{time_ago}} पहले बनाया गया",
+            "next_page": "अगला पृष्ठ",
+            "first_page": "प्रथम पृष्ठ",
+            "last_page": "अंतिम पृष्ठ",
+            "this_topic_is_locked": "यह विषय बंद हो चुका है",
+            "replies_count": "प्रतिक्रियाएँ: {{count}}",
+            "previous_page": "पिछला पृष्ठ",
+            "this_topic_was_locked_by_username": "यह विषय {{username}} के द्वारा बंद किया गया था",
+            "topic_is_autoarchived": "बहुत समय से इस विषय में कोई पोस्ट नहीं थी अतः यह विषय अपने आप अधिक पुराना मान लिया गया और अब इसमें कुछ नहीं पोस्ट किया जा सकता।",
+            "create_related_topic": "अगर आपके पास कुछ संबंधित पोस्ट करने को हो तो <a>{{category_name}} में एक विषय बनाएँ</a>।"
+        },
+        "post_list": {
+            "edit": "संपादित करें",
+            "view_more_in_thread": "थ्रेड में अधिक देखें",
+            "edits_count": "({{count}} सम्पादन)",
+            "edits_count_plural": "({{count}} सम्पादन)",
+            "deleted_post": "हटायी जा चुकी पोस्ट",
+            "post_from_blocked_account": "अवरोधित(ब्लॉक्ड) खाते से पोस्ट",
+            "edit_blocks": "अवरोधन(ब्लॉक्स) को संपादित करें",
+            "reply": "प्रतिक्रिया",
+            "like": "पसंद करें",
+            "delete_topic": "विषय हटाएँ",
+            "delete": "हटाएँ",
+            "report": "रिपोर्ट",
+            "ban": "प्रतिबंधित करें...",
+            "vote_up": "पक्ष में मत दें",
+            "vote_down": "डाउन मत दें",
+            "suspended_account": "निलंबित खाता",
+            "pinned_reply": "पिन्ड प्रतिक्रिया",
+            "pinned_post": "पिन्ड पोस्ट",
+            "edited": "(संपादित)",
+            "deleted_account": "हटाया गया खाता",
+            "post_from_suspended_account": "निलंबित खाते से पोस्ट"
+        },
+        "post_form": {
+            "add_profile_image": "प्रोफाइल चित्र जोड़ें",
+            "save": "सहेजे",
+            "post": "पोस्ट",
+            "subscribe": "सदस्यता लें(सबस्क्राइब)",
+            "subscribe_description": "इस विषय पर नई प्रतिक्रियाओं की सूचनाएँ पाएँ",
+            "tag_header": "टैग",
+            "remove_tag": "टैग हटाएँ",
+            "post_reply": "प्रतिक्रिया पोस्ट करें",
+            "subscribe_to_this_topic": "इस विषय की सदस्यता लें(सबस्क्राइब)"
+        },
+        "new_topic": {
+            "sticky": "चिपका रहने वाला",
+            "locked": "बंद",
+            "moderation_options": "विकल्प",
+            "i_agree_to_the_rules_above": "मैं उपर्युक्त नियमों से सहमत हूँ",
+            "new_topic": "नया विषय",
+            "this_a_community_run_message_board": "यह एक समुदायचालित संदेश पट्ट है।",
+            "title": "शीर्षक",
+            "body": "बॉडी",
+            "topic_tag": "टैग",
+            "your_moderators_are": "इच.आईओ इन पट्टों को संतुलित(मोडरेट) नहीं करता है, आपके संतुलनकर्ता(मोडरेटर्स) हैं:",
+            "page_title": "एक नया विषय पोस्ट करें",
+            "moderator_tools": "संतुलन कर्ता उपकरण(मोडरेटर टूल्स)",
+            "see_community_guidelines": "इच.आईओ की समुदाय नीति के लिए <a>समुदाय दिशा निर्देशों</a> को देखें।"
+        },
+        "topic_list": {
+            "no_posts_yet": "अभी तक कोई पोस्ट्स नहीं",
+            "started_by_author": "{{topic_author}} के द्वारा प्रारंभ किया गया",
+            "sticky_flag": "चिपका रहने वाला",
+            "locked_flag": "बंद",
+            "list_header_topic_title": "विषय",
+            "list_header_last_post": "अंतिम पोस्ट",
+            "views_count": "<s>{{count}}</s> बार देखा गया",
+            "views_count_plural": "<s>{{count}}</s> बार देखा गया",
+            "replies_count": "<s>{{count}}</s> प्रतिक्रिया",
+            "replies_count_plural": "<s>{{count}}</s> प्रतिक्रियाएँ",
+            "new_flag": "नया"
+        },
+        "misc": {
+            "new_topic_button": "नया विषय"
+        },
+        "category": {
+            "empty_message": "यहाँ कोई विषय नहीं है",
+            "there_arent_any_topics_yet": "यहाँ अभी तक कोई विषय नहीं है",
+            "subscribe_to_new_topics": "नए विषयों की सदस्यता लें(सबस्क्राइब)",
+            "unsubscribe_from_topics": "सदस्यता छोड़ें(अनसबस्क्राइब)",
+            "stats": {
+                "topics": "विषयों"
+            },
+            "rules_header": "नियमों",
+            "list_header_last_topic": "अंतिम विषय",
+            "new_flag": "नया",
+            "archived_flag": "अधिक पुराना",
+            "by_topic_author": "{{username}} के द्वारा",
+            "topics_count": "{{count}} विषय",
+            "topics_count_plural": "{{count}} विषयों",
+            "create_first_topic_button": "प्रथम विषय बनाएँ",
+            "search_community_label": "समुदाय में खोजें",
+            "recent_posts_header": "हाल ही के पोस्ट्स"
         }
+    },
+    "buy_form": {
+        "download_title": "डाउनलोड '{{title}}'",
+        "buy_title": "'{{title}}' खरीदें",
+        "on_sale_notice": "यह उत्पाद(प्रोडक्ट) छूट पर है।",
+        "support_message": "इस परियोजना(प्रोजेक्ट) के विकास को दान देकर सहायता दें",
+        "percent_off_until": "सभी खरीदें <s>{{rate}}%</s> {{end_date}} तक छूट पर हैं।",
+        "buy_as_bundle_plural": "आप इस उत्पाद(प्रोडक्ट) को एक {{count}} के बन्डल के रूप में {{price}} पर खरीद सकते हैं:",
+        "preorder_title": "'{{title}}' पूर्वादेशित(प्री-ऑर्डर) करें",
+        "sold_out_notice": "यह उत्पाद(प्रोडक्ट) वर्तमान में बेच जा चुका है, बाद में फिर से देखें।",
+        "also_buy_as_bundle_plural": "आप इस उत्पाद(प्रोडक्ट) को एक {{count}} के बन्डल के रूप में भी {{price}} पर खरीद सकते हैं:"
     }
 }
