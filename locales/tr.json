@@ -895,7 +895,7 @@
             "link_purchase_links": "Bu satın alımı anında bağlamak için <1>Hesap oluşturun</1> veya <2>itch.io'ya giriş yapın</2>.",
             "save_this_purchase_to_your_account": "Bu satın alımı hesabınıza kaydedin",
             "youve_been_gifted": "Bir hediyeniz var: {{product_title}}.",
-            "receipt_support_information": "Ayrıca bu sayfaya bağlantı içeren bir e-posta almış olmalısınız. Bu sayfanın URL'sini kaybederseniz, <a> destek sayfasından </a> size e-posta ile gönderilmesini isteyebilirsiniz.",
+            "receipt_support_information": "Ayrıca bu sayfaya bağlantı içeren bir e-posta almış olmalısınız. Bu sayfanın URL'sini kaybederseniz, <a>destek sayfasından</a> size e-posta ile gönderilmesini isteyebilirsiniz.",
             "thank_you_for_donating_author": "{{author}} tarafından yapılan {{product_title}}'a bağış yaptığınız için teşekkürler.",
             "thank_you_for_purchasing_author": "{{author}} tarafından yapılan {{product_title}}'ı satın aldığınız için teşekkürler.",
             "linked_user_message": "Bu satın alım {{username}} hesabıyla bağlantılandı.",
