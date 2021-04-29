@@ -579,5 +579,11 @@
         "unverified_email": {
             "title": "Adresa ta de e-mail nu este verificată"
         }
+    },
+    "library": {
+        "gift_button": "Cadou"
+    },
+    "browse": {
+        "filter_group_price": "Preț"
     }
 }
