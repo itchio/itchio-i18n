@@ -933,7 +933,7 @@
             "default_noun": "Déjelo en blanco para que el valor predeterminado sea: '{{default_noun}}'.",
             "project_type_help": "Puede agregar archivos descargables adicionales para cualquiera de los tipos anteriores",
             "description_field_description": "Esto constituirá el contenido de su página de juego.",
-            "community_disabled": "Discapacitado",
+            "community_disabled": "Desactivada",
             "pricing_header": "Precios",
             "uploads_header": "Subidas",
             "add_external_file_button": "Agregar archivo externo",
