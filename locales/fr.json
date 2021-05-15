@@ -638,7 +638,7 @@
         "percent_off_until": "<s>{{rate}}%</s> de réduction sur tout achat avant {{end_date}}.",
         "also_buy_as_bundle_plural": "Également disponible dans un bundle contenant {{count}} produits pour {{price}} :",
         "buy_as_bundle_plural": "Disponible dans un bundle contenant {{count}} produits pour {{price}} :",
-        "free_pay_what_you_want": "Ce projet est gratuit, mais vous pouvez soutenir son créateur par un don du montant de votre choix.",
+        "free_pay_what_you_want": "Ce projet est en prix libre, vous pouvez soutenir son ou sa créatrice par un don du montant de votre choix.",
         "no_thanks_just_take_me_to_the_downloads": "Non merci, montrez-moi les téléchargements",
         "includes_steam_key": "Vous recevrez une clé Steam avec votre achat.",
         "preorder_this_product_by_purchasing_it_for": "Pré-commandez ce produit en l’achetant pour {{price}} ou plus.",
