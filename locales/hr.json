@@ -1,1 +1,19 @@
-{}
+{
+    "layout": {
+        "header": {
+            "browse_games": "Pretraži igre",
+            "browse": "Pretraži"
+        },
+        "footer": {
+            "cookies": "Kolačići",
+            "privacy": "Privatnost",
+            "directory": "Indeks stranice",
+            "terms": "Uvjeti",
+            "contact_us": "Kontaktirajte nas",
+            "blog": "Blog",
+            "faq": "FAQ",
+            "about": "O nama"
+        }
+    },
+    "itchio": "itch.io"
+}
