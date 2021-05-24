@@ -8,7 +8,13 @@
             "dashboard": "Nadzorna ploča",
             "register": "Registriraj se",
             "log_in": "Prijavi se",
-            "community": "Zajednica"
+            "community": "Zajednica",
+            "notifications_count_0": "{{count}} obavijest",
+            "notifications_count_1": "{{count}} obavijesti",
+            "notifications_count_2": "{{count}} obavijesti",
+            "jams": "Jam-ovi",
+            "search": "Pretraži",
+            "search_placeholder": "Pretraži igre ili autore"
         },
         "footer": {
             "cookies": "Kolačići",
