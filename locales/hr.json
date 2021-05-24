@@ -2,7 +2,13 @@
     "layout": {
         "header": {
             "browse_games": "Pretraži igre",
-            "browse": "Pretraži"
+            "browse": "Pretraži",
+            "devlogs": "Dnevnici programera",
+            "game_jams": "Game jam-ovi",
+            "dashboard": "Nadzorna ploča",
+            "register": "Registriraj se",
+            "log_in": "Prijavi se",
+            "community": "Zajednica"
         },
         "footer": {
             "cookies": "Kolačići",
