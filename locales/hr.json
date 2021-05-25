@@ -14,7 +14,13 @@
             "notifications_count_2": "{{count}} obavijesti",
             "jams": "Jam-ovi",
             "search": "Pretraži",
-            "search_placeholder": "Pretraži igre ili autore"
+            "search_placeholder": "Pretraži igre ili autore",
+            "games": "Igre",
+            "fun_games": "Zabavne igre",
+            "bundles": "Paketi",
+            "comics": "Stripovi",
+            "free_games": "Besplatne igre",
+            "no_notifications": "Nema novih obavijesti"
         },
         "footer": {
             "cookies": "Kolačići",
@@ -25,7 +31,37 @@
             "blog": "Blog",
             "faq": "FAQ",
             "about": "O nama"
+        },
+        "user_menu": {
+            "recommendations": "Preporuke",
+            "game_jams": "Game jam-ovi",
+            "dashboard": "Nadzorna ploča",
+            "settings": "Postavke",
+            "log_out": "Odjavi se",
+            "account": "Račun",
+            "create": "Stvori",
+            "explore": "Istraži"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "index": {
+        "html5_games": "HTML5 igre",
+        "nav": {
+            "bundles": "Paketi",
+            "all_games": "Sve igre"
+        },
+        "view_all_platforms": "Pogledaj sve platforme",
+        "view_all_jams": "Pogledaj sve jam-ove",
+        "featured_jams": "Istaknuti jam-ovi",
+        "fresh_games": "Svježe igre",
+        "recommended_for_you": "Preporuke za tebe",
+        "view_all": "Pogledaj sve",
+        "with_demo": "Sa demo verzijom",
+        "top_sellers": "Najprodavanije",
+        "free_games": "Besplatne igre",
+        "from_the_itchio_blog": "Iz itch.io bloga",
+        "random_game": "Nasumična igra",
+        "from_the_blog": "Iz bloga",
+        "download_app": "Preuzmi aplikaciju"
+    }
 }
