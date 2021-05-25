@@ -657,6 +657,64 @@
         "email_address_description": "आपके भुगतान का पुष्टीकरण यहाँ भेजा जाएगा",
         "gift_email_instructions": "आप एक ईमेल प्राप्त करेंगे उपहार भेजने के लिए आपके भुगतान के बाद",
         "agree_to_terms": "इच.आईओ को एक भुगतान पूरा करते हुए आप <1> सेवा की शर्तें</1> व <2>निजता(प्राईवेसी) नीति</2> से सहमत होंगे।",
-        "support_the_creator_with_an_additional_contribution": "निर्माता को एक अतिरिक्त योगदान देकर निर्माता की सहायता करें"
+        "support_the_creator_with_an_additional_contribution": "निर्माता को एक अतिरिक्त योगदान देकर निर्माता की सहायता करें",
+        "generic_error": "आपकी खरीद में कुछ समस्या हुई: {{error}}",
+        "contact_support_on_error": "अगर समस्या स्थिर है, तब कृपया <a>इच.आईओ सहायता टीम</a> से समस्त आवश्यक विवरण(डिटेल्स) के साथ संपर्क करें।"
+    },
+    "browse": {
+        "results_count_plural": "{{count}} परिणाम",
+        "sort_top_rated": "प्रमुख मूल्यांकित",
+        "sort_new_and_popular": "नए व प्रसिद्ध",
+        "results_count": "{{count}} परिणाम",
+        "sort_popular": "प्रसिद्ध",
+        "sort_top_sellers": "प्रमुख विक्रेता",
+        "sort_most_recent": "सबसे नया",
+        "upload_your_project": "यहाँ पर दिखाने के लिए इच.आईओ पर<a> अपनी परियोजना(प्रोजेक्ट) डालें।</a>",
+        "filter_results": "परिणाम श्रेणित(फ़िल्टर) करें",
+        "clear_filters": "साफ",
+        "related_collections": "संबंधित संग्रह",
+        "view_all_tags": "समस्त टैग्स देखें",
+        "filter_group_price": "मूल्य",
+        "filter_group_genre": "शैली",
+        "tag": {
+            "no_description_yet": "अभी तक कोई विवरण नहीं",
+            "suggest_updated_description": "अद्यतिद(अपडेटिड) विवरण सुझाएँ",
+            "suggest_description_for_this_tag": "इस टैग के लिए विवरण सुझाएँ"
+        },
+        "filter_group_platform": "मंच(प्लेटफॉर्म)",
+        "filter_by_tag": "टैग से छाँटे",
+        "filter_group_when": "कब",
+        "filter_group_session_length": "औसत सत्र अवधि",
+        "filter_group_multiplayer": "मल्टीप्लेयर विशेषताएँ",
+        "filter_group_type": "प्रकार",
+        "type_downloadable": "डाउनलोड योग्य",
+        "filter_group_release_status": "प्रकाशन स्थिति",
+        "filter_group_misc": "विविध(एमआईएससी)",
+        "filter_group_collection": "संग्रह",
+        "filter_group": {
+            "more_options": "अधिक विकल्प",
+            "fewer_options": "कम विकल्प",
+            "toggle_more_options": "टॉगल अधिक विकल्प"
+        },
+        "filter_group_input_methods": "प्रविष्ट(इनपुट) करने के तरीकें",
+        "filter_group_accessibility_features": "पहुँच(ऐक्सेसबिलिटी) विशेषताएँ",
+        "filter_group_tools": "टूल्स व इंजिन्स",
+        "fresh_description": "परियोजनाओं(प्रोजेक्ट्स) का निरंतर अद्यतिद(अपडेटिङ) सेट जो की हमारे सदस्यों द्वारा व्यवयस्थित किए गए संग्रह से लिया गया है। नए जोड़ों के लिए दुबारा जाँचे।"
+    },
+    "collection": {
+        "add_a_blurb": "एक विज्ञापन जोड़ें",
+        "authors": "{{author}} के द्वारा एक संग्रह",
+        "last_updated_date": "{{date}} को अंतिम बार अद्यतिद(अपडेटिड)",
+        "edit_collection": "संग्रह संपादित करें",
+        "edit_contributors": "अंशदाता(कन्ट्रिब्यूटर) संपादित करें",
+        "empty_collection_message": "इस संग्रह में कुछ नहीं है।",
+        "private_collection_message": "संग्रह निजी है, मात्र अंशदाता(कन्ट्रिब्यूटरस्) इसकी सामग्री को देख सकते हैं",
+        "pending_invitation": "आपके लिए इस संग्रह का अंशदाता(कन्ट्रिब्यूटर) बनने के लिए एक अनिर्णित आमंत्रण है। <a>आमंत्रण देखें</a>",
+        "a_collection_by_author": "{{author}} के द्वारा एक संग्रह",
+        "page_title": "{{collection_title}}- {{author}} के द्वारा संग्रह",
+        "remove_item_button": "मिटाएँ...",
+        "edit_blurb": "विज्ञापन संपादित करें",
+        "blurb_author_says": "{{author}} कहता है",
+        "remove_confirm": "क्या आप वाकई इसे संग्रह से हटाना चाहते हैं"
     }
 }
