@@ -694,12 +694,14 @@
         "filter_group": {
             "more_options": "अधिक विकल्प",
             "fewer_options": "कम विकल्प",
-            "toggle_more_options": "टॉगल अधिक विकल्प"
+            "toggle_more_options": "टॉगल अधिक विकल्प",
+            "clear_filter": "छँटाई(फ़िल्टर) साफ करें"
         },
         "filter_group_input_methods": "प्रविष्ट(इनपुट) करने के तरीकें",
         "filter_group_accessibility_features": "पहुँच(ऐक्सेसबिलिटी) विशेषताएँ",
         "filter_group_tools": "टूल्स व इंजिन्स",
-        "fresh_description": "परियोजनाओं(प्रोजेक्ट्स) का निरंतर अद्यतिद(अपडेटिङ) सेट जो की हमारे सदस्यों द्वारा व्यवयस्थित किए गए संग्रह से लिया गया है। नए जोड़ों के लिए दुबारा जाँचे।"
+        "fresh_description": "परियोजनाओं(प्रोजेक्ट्स) का निरंतर अद्यतिद(अपडेटिङ) सेट जो की हमारे सदस्यों द्वारा व्यवयस्थित किए गए संग्रह से लिया गया है। नए जोड़ों के लिए दुबारा जाँचे।",
+        "filter_everything_else": "अन्य सब कुछ"
     },
     "collection": {
         "add_a_blurb": "एक विज्ञापन जोड़ें",
@@ -716,5 +718,60 @@
         "edit_blurb": "विज्ञापन संपादित करें",
         "blurb_author_says": "{{author}} कहता है",
         "remove_confirm": "क्या आप वाकई इसे संग्रह से हटाना चाहते हैं"
+    },
+    "user_settings": {
+        "navigation": {
+            "password": "कूट शब्द(पासवर्ड)",
+            "basics_header": "मूलभूत",
+            "payment_header": "भुगतान",
+            "publisher_header": "प्रकाशक",
+            "contact_header": "संपर्क",
+            "misc_header": "विविध",
+            "profile": "प्रोफाइल",
+            "email_addresses": "ईमेल पतें",
+            "two_factor_auth": "द्वितीय कारक प्रमाणीकरण(टू फैक्टर ऑथेन्टकैशन)",
+            "support_email": "सहायता ईमेल",
+            "publisher_get_started": "प्रारंभ करें",
+            "revenue_sharing": "आय साझा करें",
+            "payment_processors": "भुगतान संसाधक(प्रोसेसरस्)",
+            "tax_information": "कर(टैक्स) जानकारी",
+            "payout_mode": "भुगतान का तरीका(मोड)",
+            "credit_cards": "क्रेडिट कार्ड्स",
+            "billing_address": "बिलिंग पता",
+            "connected_accounts": "जुड़े हुए खातें",
+            "privacy": "निजता",
+            "data_export": "डाटा निर्यात",
+            "api_keys": "एपीआई कुंजियाँ",
+            "thirdparty_analytics": "तृतीय-पक्ष(पार्टी) विश्लेषण",
+            "email_notifications": "ईमेल सूचनाएँ",
+            "oauth_applications": "ओऔथ(OAuth) एप्लीकेशन्स"
+        },
+        "account_settings": "खाता समायोजन(सेटिंग्स)",
+        "profile": {
+            "website": "वेबसाईट",
+            "language": "भाषा",
+            "language_description": "इच.आईओ उपयोगकर्ता अंतरपृष्ठ(इंटरफेस) की भाषा",
+            "page_header": "प्रोफाइल",
+            "username": "प्रयोगकर्ता का नाम",
+            "username_description": "आपके खाते में लॉग इन करने में व आपके पृष्ठ यूआरएल में प्रयोग किया जाता है",
+            "you_recently_changed_your_username": "अपने हाल ही में अपना प्रयोगकर्ता नाम(यूजरनेम) बदल है",
+            "url_description": "आपके खाते का सार्वजनिक यूआरएल",
+            "display_name": "प्रदर्शित नाम",
+            "display_name_description": "आपके प्रयोगकर्ता नाम(यूजरनेम) के स्थान पर प्रदर्शित, प्रयोगकर्ता नाम को डीफॉल्ट करने के लिए खाली छोड़ दें",
+            "language_community_translation": "<s>इच.आईओ हमारे समुदाय के सदस्यों द्वारा अनुवादित किया जाता है।</s> कुछ भाषाएँ मात्र आंशिक उपलब्ध हैं। अगर आप इच.आईओ को अपनी भाषा में देखना चाहते हैं अथवा किसी गलती को सुधारने में सहायता करना चाहते हैं तो आप योगदान दे सकते हैं। <a>अधिक जानें</a>",
+            "change_username": "मेरा प्रयोगकर्ता नाम(यूजरनेम)/यूआरएल बदलें",
+            "profile_image": "पार्श्वचित्र(प्रोफाइल इमेज)",
+            "profile_image_description": "आपके नाम के आगे दिखता है जब आप साइट पर कोई क्रिया करते हैं (वर्ग आयाम(स्क्वेर डाईमेन्शनस्))"
+        }
+    },
+    "browse_tags": {
+        "page_title": "प्रमुख टैग्स",
+        "find_tag": "टैग खोजें",
+        "commonly_tagged_with": "से सामान्यतः टैग्ड",
+        "no_description_yet": "अभी तक कोई विवरण नहीं"
+    },
+    "buy_form_popup": {
+        "author_line": "{{author}}<1>के द्वारा</1>",
+        "powered_by_itchio": "{{itchio}} द्वारा संचालित"
     }
 }
