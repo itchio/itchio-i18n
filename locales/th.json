@@ -894,6 +894,16 @@
         "get_external_key": "ดูคีย์ {{key_type}}",
         "access_existing_copy": "คุณไม่สามารถเคลมอีกหนึ่งไฟล์ได้ แต่คุณสามารถเข้าถึงไฟล์ที่คุณมีอยู่ได้",
         "claim_external_key": "รับคีย์ {{key_type}}",
-        "claim_external_key_instructions": "กดปุ่มเพื่อรับมัน"
+        "claim_external_key_instructions": "กดปุ่มเพื่อรับมัน",
+        "payment_comes_with_key": "การชำระเงินของคุณจะมีคีย์ {{key_type}} ด้วย!",
+        "access_it": "เข้าถึงเลย",
+        "access_comes_with_key": "การเข้าถึงของคุณมีคีย์{{key_type}}ด้วย!",
+        "purchase": {
+            "youve_been_gifted": "{{product_title}}"
+        },
+        "email_capture": {
+            "provide_email_instructions": "ใส่อีเมลของคุณเพื่อลิงก์กับธูรกรรมของคุณซึ่งสามารถนำมาใช้ได้ในภายหลังอีกหากคุณไม่ได้บันทึกหน้านี้ไว้",
+            "dont_lose_your_purchase": "อย่าพลาดธุรกรรมของคุณ!"
+        }
     }
 }
