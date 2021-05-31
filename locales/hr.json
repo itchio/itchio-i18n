@@ -20,7 +20,9 @@
             "bundles": "Paketi",
             "comics": "Stripovi",
             "free_games": "Besplatne igre",
-            "no_notifications": "Nema novih obavijesti"
+            "no_notifications": "Nema novih obavijesti",
+            "sales": "Sniženja",
+            "indie_game_store": "Trgovina indie igara"
         },
         "footer": {
             "cookies": "Kolačići",
@@ -34,13 +36,14 @@
         },
         "user_menu": {
             "recommendations": "Preporuke",
-            "game_jams": "Game jam-ovi",
+            "game_jams": "Game jamovi",
             "dashboard": "Nadzorna ploča",
             "settings": "Postavke",
             "log_out": "Odjavi se",
             "account": "Račun",
             "create": "Stvori",
-            "explore": "Istraži"
+            "explore": "Istraži",
+            "library": "Moja zbirka"
         }
     },
     "itchio": "itch.io",
@@ -48,7 +51,9 @@
         "html5_games": "HTML5 igre",
         "nav": {
             "bundles": "Paketi",
-            "all_games": "Sve igre"
+            "all_games": "Sve igre",
+            "community": "Zajednica",
+            "game_jams": "Game jamovi"
         },
         "view_all_platforms": "Pogledaj sve platforme",
         "view_all_jams": "Pogledaj sve jam-ove",
@@ -62,6 +67,9 @@
         "from_the_itchio_blog": "Iz itch.io bloga",
         "random_game": "Nasumična igra",
         "from_the_blog": "Iz bloga",
-        "download_app": "Preuzmi aplikaciju"
+        "download_app": "Preuzmi aplikaciju",
+        "page_title": "Preuzmi najnovije indie igre",
+        "view_all_games_on_sale": "Sve igre na sniženju",
+        "on_sale": "Na sniženju"
     }
 }
