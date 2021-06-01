@@ -13,7 +13,7 @@
         "header": {
             "devlogs": "Logaí Forbróra",
             "browse": "Brabhsáil",
-            "browse_games": "Cluichí",
+            "browse_games": "Brabhsáil Cluichí",
             "community": "Pobal",
             "upload_game": "Uaslódáil Cluiche",
             "search_placeholder": "Cuardaigh cluichí nó cruthaitheoirí",
@@ -21,7 +21,12 @@
             "log_in": "Logáil isteach",
             "register": "Cláraigh",
             "dashboard": "Deais",
-            "game_jams": "Meithil Cluichí"
+            "game_jams": "Meithil Cluichí",
+            "notifications_count_0": "fógra {{count}}",
+            "notifications_count_1": "{{count}} fhógra",
+            "notifications_count_2": "{{count}} fhógra",
+            "notifications_count_3": "{{count}} bhfógra",
+            "notifications_count_4": "{{count}} fógraí"
         }
     },
     "itchio": "itch.io"
