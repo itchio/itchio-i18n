@@ -35,7 +35,12 @@
             "feed_unseen_count_4": "",
             "no_notifications": "Níl fógraí nua",
             "games": "Cluichí",
-            "feed": "Fotha"
+            "feed": "Fotha",
+            "comics": "Greannáin",
+            "free_games": "Cluichí saor in aisce",
+            "indie_game_store": "Siopa cluichí neamhspleácha",
+            "game_development": "Forbairt cluiche",
+            "sales": "Sladmhargaí"
         },
         "user_menu": {
             "create": "Cruthaigh",
