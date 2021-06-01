@@ -22,13 +22,37 @@
             "register": "Cláraigh",
             "dashboard": "Deais",
             "game_jams": "Meithleacha Cluichí",
-            "notifications_count_0": "fógra {{count}}",
+            "notifications_count_0": "Fógra amháin",
             "notifications_count_1": "{{count}} fhógra",
             "notifications_count_2": "{{count}} fhógra",
             "notifications_count_3": "{{count}} bhfógra",
             "notifications_count_4": "{{count}} fógraí",
-            "jams": "Meithleacha"
+            "jams": "Meithleacha",
+            "feed_unseen_count_0": "",
+            "feed_unseen_count_1": "",
+            "feed_unseen_count_2": "",
+            "feed_unseen_count_3": "",
+            "feed_unseen_count_4": "",
+            "no_notifications": "Níl fógraí nua",
+            "games": "Cluichí",
+            "feed": "Fotha"
+        },
+        "user_menu": {
+            "create": "Cruthaigh",
+            "account": "Cuntas",
+            "log_out": "Logáil amach",
+            "settings": "Socruithe",
+            "sales_bundles": "Sladmhargaidh ⁊ beartáin",
+            "new_project": "Uaslódáil tionscadal nua",
+            "dashboard": "Deais",
+            "recommendations": "Moltaí",
+            "library": "Mo leabharlann",
+            "feed": "M'fhotha",
+            "account_menu_tooltip": "Roghchlár an Chuntais"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "index": {
+        "browse": "Brabhsáil"
+    }
 }
