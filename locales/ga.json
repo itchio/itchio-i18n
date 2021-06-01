@@ -1,10 +1,20 @@
 {
     "layout": {
         "footer": {
-            "blog": "Blag"
+            "blog": "Blag",
+            "about": "Eolas",
+            "faq": "Ceisteanna Coitianta",
+            "contact_us": "Teagmháil",
+            "terms": "Téarmaí",
+            "directory": "Eolaire",
+            "privacy": "Príobháideachas",
+            "cookies": "Fianáin"
         },
         "header": {
-            "devlogs": "Logaí Forbróra"
+            "devlogs": "Logaí Forbróra",
+            "browse": "Brabhsáil",
+            "browse_games": "Cluichí"
         }
-    }
+    },
+    "itchio": "itch.io"
 }
