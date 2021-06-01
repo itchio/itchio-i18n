@@ -40,7 +40,8 @@
             "free_games": "Cluichí saor in aisce",
             "indie_game_store": "Siopa cluichí neamhspleácha",
             "game_development": "Forbairt cluiche",
-            "sales": "Sladmhargaí"
+            "sales": "Sladmhargaí",
+            "bundles": "Beartáin"
         },
         "user_menu": {
             "create": "Cruthaigh",
@@ -69,6 +70,6 @@
         "search_games_creators": "Cuardaigh cluichí ⁊ cruthaitheorí",
         "on_sale": "Ar Shladmhargadh",
         "free_games": "Saor in aisce",
-        "top_sellers": "Cluichí sárdhíola"
+        "top_sellers": "Cluichí móréilimh"
     }
 }
