@@ -63,6 +63,8 @@
         "games_by_price": "cluichí de réir praghais",
         "download_app": "Íoslódáil aip",
         "from_the_blog": "Ón mblag",
-        "get_the_app": "<s>Bain gach aon tairbhe as itch.io!</s> Suiteáil agus bainistigh do chluichí lenár aip deisce"
+        "get_the_app": "<s>Bain gach aon tairbhe as itch.io!</s> Suiteáil agus bainistigh do chuid cluichí lenár n-aip deisce",
+        "from_the_itchio_blog": "Ó bhlag itch.io",
+        "view_all_blog_posts": "Gach postáil"
     }
 }
