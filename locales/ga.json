@@ -21,12 +21,13 @@
             "log_in": "Logáil isteach",
             "register": "Cláraigh",
             "dashboard": "Deais",
-            "game_jams": "Meithil Cluichí",
+            "game_jams": "Meithleacha Cluichí",
             "notifications_count_0": "fógra {{count}}",
             "notifications_count_1": "{{count}} fhógra",
             "notifications_count_2": "{{count}} fhógra",
             "notifications_count_3": "{{count}} bhfógra",
-            "notifications_count_4": "{{count}} fógraí"
+            "notifications_count_4": "{{count}} fógraí",
+            "jams": "Meithleacha"
         }
     },
     "itchio": "itch.io"
