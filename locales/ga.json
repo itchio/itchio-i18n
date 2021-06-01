@@ -58,6 +58,11 @@
     },
     "itchio": "itch.io",
     "index": {
-        "browse": "Brabhsáil"
+        "browse": "Brabhsáil",
+        "dont_see_anything_you_like": "Nach bhfeiceann tú aon rud ann is maith leat?",
+        "games_by_price": "cluichí de réir praghais",
+        "download_app": "Íoslódáil aip",
+        "from_the_blog": "Ón mblag",
+        "get_the_app": "<s>Bain gach aon tairbhe as itch.io!</s> Suiteáil agus bainistigh do chluichí lenár aip deisce"
     }
 }
