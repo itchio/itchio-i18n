@@ -13,7 +13,14 @@
         "header": {
             "devlogs": "Logaí Forbróra",
             "browse": "Brabhsáil",
-            "browse_games": "Cluichí"
+            "browse_games": "Cluichí",
+            "community": "Pobal",
+            "upload_game": "Uaslódáil Cluiche",
+            "search_placeholder": "Cuardaigh cluichí nó cruthaitheoirí",
+            "search": "Cuardaigh",
+            "log_in": "Logáil isteach",
+            "register": "Cláraigh",
+            "dashboard": "Deais"
         }
     },
     "itchio": "itch.io"
