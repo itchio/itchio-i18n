@@ -894,16 +894,48 @@
         "get_external_key": "ดูคีย์ {{key_type}}",
         "access_existing_copy": "คุณไม่สามารถเคลมอีกหนึ่งไฟล์ได้ แต่คุณสามารถเข้าถึงไฟล์ที่คุณมีอยู่ได้",
         "claim_external_key": "รับคีย์ {{key_type}}",
-        "claim_external_key_instructions": "กดปุ่มเพื่อรับมัน",
+        "claim_external_key_instructions": "กดปุ่มเพื่อรับ",
         "payment_comes_with_key": "การชำระเงินของคุณจะมีคีย์ {{key_type}} ด้วย!",
         "access_it": "เข้าถึงเลย",
         "access_comes_with_key": "การเข้าถึงของคุณมีคีย์{{key_type}}ด้วย!",
         "purchase": {
-            "youve_been_gifted": "{{product_title}}"
+            "youve_been_gifted": "{{product_title}}",
+            "save_this_purchase_to_your_account": "บันทึการชำระเงินนี้ไปยังบัญชีของคุณ",
+            "link_purchase_links": "<1>สร้างบัญชี</1>หรือ<2>เข้าสู่ระบบ itch.io</2> เพื่อรับลิงมายังการชำระเงินนี้อย่างสะดวก",
+            "thank_you_for_purchasing_author": "ขอขอบคุณสำหรับการซื้อ {{product_title}} จาก {{author}}",
+            "link_purchase_warning": "อย่าพลาดการชำระเงินของคุณ!",
+            "thank_you_for_purchasing": "ขอขอบคุณสำหรับการชำระเงิน {{product_title}}",
+            "thank_you_for_donating": "ขอขอบคุณสำหรับการบริจาคให้ {{product_title}}",
+            "thank_you_for_donating_author": "ขอขอบคุณสำหรับการบริจาคให้ {{product_title}} โดย {{author}}",
+            "unique_url_for_your_payment": "หน้านี้มียูอาร์แอลจำเพาะสำหรับการชำระเงินของคุณ",
+            "access_latest_files_from_this_page": "คุณสามารถเข้าถึงไฟล์ล่าสุดจากหน้าได้ตลอดเวลา",
+            "payment_summary": "คูณได้ชำระเงินเมื่อ {{payment_date}} เป็นจำนวน {{payment_price}}",
+            "payment_summary_with_email": "คุณได้ชำระเงินเมื่อ {{payment_date}} เป็นจำนวน {{payment_price}} พร้อมด้วยอีเมล {{email_address}}",
+            "percent_off": "ลดราคา {{percent}}%",
+            "linked_user_message": "การชำระเงินนี้ผูกกับบัญชีผู้ใช้ {{username}}",
+            "receipt_support_information": "คุณควรได้รับอีเมลพร้อมลิงก์มายังหน้านี้ด้วยเช่นกัน หากคุณทำหาย คุณสามารถส่งคำขอรับอีเมลอีกครั้งได้จากหน้า<a>การสนับสนุน</a>"
         },
         "email_capture": {
             "provide_email_instructions": "ใส่อีเมลของคุณเพื่อลิงก์กับธูรกรรมของคุณซึ่งสามารถนำมาใช้ได้ในภายหลังอีกหากคุณไม่ได้บันทึกหน้านี้ไว้",
             "dont_lose_your_purchase": "อย่าพลาดธุรกรรมของคุณ!"
+        }
+    },
+    "jam": {
+        "header": {
+            "hosted_by": "จัดโดย {{hosts}}",
+            "links": {
+                "results": "ผลลัพธ์",
+                "submissions": "การส่ง",
+                "overview": "ภาพรวม",
+                "screenshots": "ภาพจับหน้าจอ",
+                "submission_feed": "ฟีดการส่ง",
+                "edit_jam": "แก้ไขแจม",
+                "community": "ชุมชน"
+            }
+        },
+        "stats": {
+            "joined": "เข้าร่วม",
+            "entries": "การส่ง"
         }
     }
 }
