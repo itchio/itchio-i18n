@@ -826,6 +826,44 @@
         "powered_by_itchio": "{{itchio}} द्वारा संचालित"
     },
     "stripe_checkout": {
-        "payment_error": "आपके भुगतान के प्रसंस्करण(प्रोसेसिंग) में कुछ त्रुटि(एरर) हुई:"
+        "payment_error": "आपके भुगतान के प्रसंस्करण(प्रोसेसिंग) में कुछ त्रुटि(एरर) हुई:",
+        "credit_or_debit_card": "क्रेडिट या डेबिट कार्ड",
+        "payment_error_help": "अगर आप अनिश्चित हैं तो, <a>इच.आईओ सहायक टीम से</a> उपर्युक्त संदेश के साथ संपर्क करें।",
+        "choose_a_card": "एक कार्ड चुनें",
+        "edit_saved_cards": "सहेजे हुए कार्ड्स संपादित करें",
+        "card_ending_last4": "{{last4}} में समाप्त हो रहा है",
+        "new_card": "नया कार्ड",
+        "enter_your_password_to_use_your_card": "अपना कार्ड प्रयोग करने के लिए के लिए अपना कूटशब्द(पासवर्ड) प्रविष्ट(एंटर) करें",
+        "password": "कूटशब्द(पासवर्ड)",
+        "buying_as": "के रूप में खरीद रहें(बाइंग एज)",
+        "gift_instructions": "यह खरीद एक उपहार है। आप चेकआउट के बाद प्राप्तकर्ता का ईमेल दे सकेंगे।",
+        "save_credit_card_for_future_purchases": "आगामी खरीदों के लिए क्रेडिट कार्ड सहेजें",
+        "manage_cards_link": "आप अपने <a>खाता समायोजन(सेटिंग्स)</a> से आपके कार्ड्स को प्रबंधित(मैनेज) कर सकते हैं",
+        "pay_price_button": "{{price}} का भुगतान करें",
+        "paying_price_for": "{{price}} का भुगतान के लिए कर रहें हैं:",
+        "donating_price_to": "{{price}} को दान कर रहे हैं:",
+        "donating_price_vat_to": "{{price}} का वैट आईएनसी(VAT inc.) को दान कर रहे हैं:",
+        "you_will_receive_files": "आप प्राप्त करेंगे:",
+        "steam_key": "स्टीम कुंजी(की)",
+        "email": "ईमेल",
+        "youll_be_mailed_your_access_link": "आपको आपकी पहुँच(एक्सेस) लिंक मेल कर दी जाएगी",
+        "full_name": "पूर्ण नाम",
+        "paying_price_vat_for": "{{price}} वैट आईएनसी(VAT inc.) का भुगतान के लिए कर रहे हैं:",
+        "linked_to_account": "खाते से जुड़ा(लिंक्ड) है",
+        "name_as_it_appears_on_card": "जैसा ये कार्ड में प्रदर्शित(एप्पीयर) होता है"
+    },
+    "game_download": {
+        "social_share_message_download": "मैंने अभी {{title}} द्वारा {{username}} को डाउनलोड किया",
+        "check_out_more_from_jam_title": "{{jam_title}} से और अधिक देखें",
+        "share_and_follow": "साझा व अनुपालन करें",
+        "or_share_on": "या पर साझा करें",
+        "install_instructions_intro": "डाउनलोड व इंस्टॉल निर्देश {{username}} के द्वारा:",
+        "alternate_download": {
+            "enable_alternate_download_mode": "वैकल्पिक(ऑल्टर्नेट) डाउनलोड मोड चालू करें",
+            "title": "वैकल्पिक(ऑल्टर्नेट) डाउनलोड मोड",
+            "region_message": "कुछ क्षेत्र इच.आईओ के सीडीएन(CDN) को ब्लॉक करे हुए हैं। अगर आपके डाउनलोडस् शुरू नहीं हो रहे हैं तब आप वैकल्पिक(ऑल्टर्नेट) डाउनलोड मोड को चालू कर के पुनः प्रयास कर सकते हैं।"
+        },
+        "trouble_downloading_link": "डाउनलोडस् प्रारंभ नहीं हो रहें?",
+        "recommendations_title": "अधिक जिनमें आपको शायद रुचि होगी"
     }
 }
