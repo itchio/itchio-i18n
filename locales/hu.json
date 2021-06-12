@@ -278,7 +278,15 @@
         }
     },
     "game": {
-        "on_sale": "Akciós!"
+        "on_sale": "Akciós!",
+        "report_form": {
+            "description_label": "Leírás",
+            "reason_label": "Indok",
+            "reason_other": "Egyéb"
+        },
+        "password_required": {
+            "header": "Jelszó szükséges az oldal megtekintéséhez"
+        }
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
@@ -316,7 +324,8 @@
         "contribute_link": "Szeretne közreműködni? <a>Tekintse meg a forrást a GitHub-on</a>",
         "updates": "Frissítések",
         "read_the_app_guide": "Olvassa el az alkalmazás útmutatóját",
-        "summary": "Az itch.io alkalmazás, <s>itch</s>, lehetővé teszi, hogy könnyedén töltsön le és futtasson játékokat és szoftvereket az itch.io webhelyről. Az összes letöltését egyetlen helyen tárolja és automatikusan frissíti. Hozzáférhet gyűjteményeihez és vásárlásaihoz, vagy tallózhat új játékok között az alkalmazáson belüli böngészőn keresztül."
+        "summary": "Az itch.io alkalmazás, <s>itch</s>, lehetővé teszi, hogy könnyedén töltsön le és futtasson játékokat és szoftvereket az itch.io webhelyről. Az összes letöltését egyetlen helyen tárolja és automatikusan frissíti. Hozzáférhet gyűjteményeihez és vásárlásaihoz, vagy tallózhat új játékok között az alkalmazáson belüli böngészőn keresztül.",
+        "updates_header": "Mindig frissítve"
     },
     "search": {
         "search_results_for_query": "\"{{query}}\" keresési eredményei",
@@ -538,7 +547,9 @@
         "things_rated_header": "Dolgok, amiket értékeltél",
         "show_on_my_profile_toggle": "Megjelenítés a profilomon",
         "view_all_link": "Összes megtekintése",
-        "things_you_own_header": "Dolgok, amiket birtokolsz"
+        "things_you_own_header": "Dolgok, amiket birtokolsz",
+        "page_title": "A könyvtáram",
+        "go_to_collection_link": "A gyűjtemény megtekintése"
     },
     "nags": {
         "unverified_email": {
@@ -587,7 +598,8 @@
             "results_table_score": "Pontszám",
             "results_table_votes": "Szavazatok",
             "results_table_rank": "Helyezés",
-            "results_table_criteria": "Kritérium"
+            "results_table_criteria": "Kritérium",
+            "a_jam_submission": "Egy beküldött jam alkotás"
         },
         "results": {
             "submissions": {
@@ -625,12 +637,19 @@
         "submitter": {
             "countdown": {
                 "voting_ends_in": "A voksolás véget ér",
-                "starts_in": "Elindul"
+                "starts_in": "Elindul",
+                "submissions_due_in": "Az alkotások beküldésének határideje"
             },
             "view_results": "Eredmények megtekintése",
             "youve_joined": "Csatlakoztál ehhez a jam-hez.",
             "or_leave_jam": "vagy <a>hagyd el a jam-et</a>",
-            "submit_button": "Küldd be a projektedet"
+            "submit_button": "Küldd be a projektedet",
+            "join_jam": "Csatlakozás a jamhoz",
+            "jam_is_now_over": "Ennek a jamnak vége van. {{start_date}}-től {{end_date}}-ig tartott.",
+            "submission_is_closed_for_voting": "Az alkotások beküldése lezáródott és a szavazás folyamatban van",
+            "submissions_open_from": "Az alkotások {{start_date}}-től {{end_date}}-ig küldhetőek be",
+            "joined_instructions": "Gyere vissza erre az oldalra és tedd közzé a projekted, miután a jam elkezdődött.",
+            "leave_jam": "Jam elhagyása"
         },
         "stats": {
             "ratings": "Értékelések",
@@ -642,7 +661,8 @@
                 "screenshots": "Képernyőfotók",
                 "overview": "Áttekintés",
                 "results": "Eredmények",
-                "community": "Közösség"
+                "community": "Közösség",
+                "edit_jam": "Jam szerkesztése"
             },
             "hosted_by": "A házigazda: {{hosts}}"
         }
@@ -663,7 +683,15 @@
         "filter_collections_tab": "Gyűjtemények",
         "filter_new_projects_tab": "Új projektek",
         "filter_everything_tab": "Minden",
-        "filter_own_activity_tab": "Saját aktivitásom"
+        "filter_own_activity_tab": "Saját aktivitásom",
+        "event_filter_label": "Szűrő:",
+        "email_warning": {
+            "verify_your_email_address": "Hitelesítsd az email címedet"
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Adj meg egy profilképet",
+            "description": "A fiókodnak nincsen profilképe, adj hozzá egyet, így a többiek egy pillanat alatt fel tudnak ismerni!"
+        }
     },
     "jams": {
         "count_joined": "{{count}} csatlakozott",
@@ -700,7 +728,10 @@
             "access_latest_files_from_this_page": "Erről az oldalról mindig elérheted a legfrissebb fájlokat.",
             "unique_url_for_your_payment": "Ennek az oldalnak egyedi URL címe van a fizetéshez.",
             "thank_you_for_donating_author": "Köszönjük, hogy támogattad a(z) {{product_title}} projektet, amit {{author}} alkotott.",
-            "thank_you_for_donating": "Köszönjük, hogy támogattad a(z) {{product_title}} projektet."
+            "thank_you_for_donating": "Köszönjük, hogy támogattad a(z) {{product_title}} projektet.",
+            "thank_you_for_purchasing": "Köszönjük, hogy megvetted a(z) {{product_title}}-t.",
+            "thank_you_for_purchasing_author": "Köszönjük, hogy megvetted a(z) {{product_title}}-t {{author}}-tól.",
+            "link_purchase_warning": "Ne veszítsd el a vásárlásodat!"
         },
         "email_capture": {
             "provide_email_instructions": "Írd be az e-mail címed, hogy hozzákösd a fiókodhoz, így mindig be tudod szerezni, ha elveszíted ezt az oldalt.",
@@ -747,7 +778,8 @@
         "trouble_downloading_link": "Nem indul a letöltés?",
         "or_share_on": "vagy oszt meg",
         "social_share_message_download": "Letöltöttem {{username}}, {{title}} nevű projektjét",
-        "share_and_follow": "Megosztás és követés"
+        "share_and_follow": "Megosztás és követés",
+        "check_out_more_from_jam_title": "Nézzen meg többet erről: {{jam_title}}"
     },
     "stripe_checkout": {
         "name_as_it_appears_on_card": "Ahogy a kártyán fel van tüntetve",
@@ -763,7 +795,7 @@
         "manage_cards_link": "A kártyáidat a <a>Fiókbeállítások</a>-ból tudod kezelni",
         "save_credit_card_for_future_purchases": "Hitelkártya mentése későbbi vásárlásokhoz",
         "credit_or_debit_card": "Hitel- vagy betéti kártya",
-        "gift_instructions": "Ez a vásárlás ajándék. A címzett e-mail címét a vásárlás után tudod megadni.",
+        "gift_instructions": "Ez a vásárlás egy ajándék. A címzett e-mail címét a vásárlás után tudod megadni.",
         "password": "Jelszó",
         "enter_your_password_to_use_your_card": "Írd be a jelszavad a kártya használatához",
         "new_card": "Új kártya",
@@ -771,7 +803,8 @@
         "edit_saved_cards": "Mentett kártyák szerkesztése",
         "choose_a_card": "Válassz kártyát",
         "payment_error_help": "Ha nem vagy biztos benne, vedd fel a kapcsolatot <a>az itch.io támogatással</a> a fentebb lévő üzenettel.",
-        "payment_error": "Hiba történt a fizetés feldolgozásakor:"
+        "payment_error": "Hiba történt a fizetés feldolgozásakor:",
+        "buying_as": "Vásárlás, mint"
     },
     "user_settings": {
         "email_addresses": {
@@ -796,7 +829,8 @@
                 "new_email_address": "Új e-mail cím"
             },
             "your_primary_email_address": "Az elsődleges e-mail címed: {{email}}",
-            "primary_email_header": "Elsődleges e-mail cím"
+            "primary_email_header": "Elsődleges e-mail cím",
+            "additional_emails_instructions": "További e-mail hozzáadása után postázzuk az ellenőrzési utasításokat."
         },
         "password": {
             "new_password_again": "Új jelszó ismét",
@@ -811,7 +845,74 @@
             "profile_description": "A profiloldalad tartalma",
             "profile": "Profil",
             "use_dark_theme": "Sötét téma használata, ahol lehetséges",
-            "click_to_load_games": "Klikkelés megkövetelése, hogy fusson a beágyazott HTML5 játék"
+            "click_to_load_games": "Klikkelés megkövetelése, hogy fusson a beágyazott HTML5 játék",
+            "language": "Nyelv",
+            "profile_image": "Profilkép",
+            "website": "Weboldal",
+            "account_type_gamer": "Játékok letöltése, és játszása",
+            "account_type_developer": "Játékok fejlesztése és feltöltése",
+            "default_language_option": "Alapértelmezett (angol nyelvre állítva a béta nyelveken)",
+            "content": "Tartalom",
+            "show_adult_content": "A felnőttként megjelölt tartalom megjelenítése a keresés és böngészés során",
+            "disable_animated_gifs": "Animált gifek kikapcsolása",
+            "disable_autoloading_next_page_when_browsing": "Az automatikusan betöltődő oldalak kikapcsolása böngészés közben",
+            "account_type_description": "Hogy fogod használni a fiókodat",
+            "content_description": "Hogyan jelenik meg az itch.io webhelyen található tartalom"
+        },
+        "account_settings": "Fiók beállításai",
+        "navigation": {
+            "basics_header": "Alapok",
+            "payment_header": "Fizetés",
+            "developer_header": "Fejlesztő",
+            "contact_header": "Kapcsolat",
+            "profile": "Fiók",
+            "password": "Jelszó",
+            "email_addresses": "Email címek",
+            "two_factor_auth": "Kétlépcsős azonosítás",
+            "misc_header": "Egyéb",
+            "support_email": "Támogatási email",
+            "publisher_get_started": "Vágj bele",
+            "publisher_header": "Kiadó"
+        }
+    },
+    "community": {
+        "topic": {
+            "new_reply": "Új válasz",
+            "reply": "Válasz",
+            "replies_count": "Válaszok: {{count}}",
+            "unsubscribe": "Leiratkozás",
+            "subscribe": "Feliratkozás",
+            "locked": "Lezárt",
+            "moderation": "Moderáció",
+            "views_count": "Megtekintések: {{count}}",
+            "next_page": "Következő oldal",
+            "previous_page": "Előző oldal",
+            "first_page": "Első oldal",
+            "last_page": "Utolsó oldal",
+            "join_the_discussion": "Csatlakozz a beszélgetéshez. Jelentkezz be vagy készíts ingyen egy itch.io fiókot a folytatáshoz."
+        },
+        "post_list": {
+            "deleted_account": "Törölt fiók"
+        },
+        "post_form": {
+            "save": "Mentés",
+            "subscribe": "Feliratkozás",
+            "add_profile_image": "Profilkép hozzáadása"
+        },
+        "category": {
+            "new_flag": "Új",
+            "rules_header": "Szabályok",
+            "unsubscribe_from_topics": "Leiratkozás"
+        },
+        "topic_list": {
+            "new_flag": "Új"
+        }
+    },
+    "browse": {
+        "filter_group": {
+            "more_options": "Több opció",
+            "fewer_options": "Kevesebb opció",
+            "clear_filter": "Szűrő törlése"
         }
     }
 }
