@@ -612,7 +612,8 @@
             "list_header_last_topic": "Last topic",
             "new_flag": "New",
             "archived_flag": "Archived",
-            "by_topic_author": "by {{username}}"
+            "by_topic_author": "by {{username}}",
+            "view_this_communitys_rules": "View this community's rules..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> view",
