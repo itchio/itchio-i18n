@@ -625,7 +625,8 @@
             "sticky_flag": "Sticky",
             "locked_flag": "Locked",
             "list_header_topic_title": "Topic",
-            "list_header_last_post": "Last post"
+            "list_header_last_post": "Last post",
+            "no_replies_yet": "No replies yet"
         }
     },
     "buy_form": {
