@@ -514,7 +514,6 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "This topic is archived and can no longer be posted in",
             "reply": "Reply",
             "log_in_to_reply": "Log in to reply",
             "unlisted_topic_notice": "<s>A moderator has unlisted this topic.</s> It is not visible on the topic listing but you can still reply and make edits.",
@@ -541,7 +540,8 @@
             "this_topic_is_locked": "This topic is locked",
             "this_topic_was_locked_by_username": "This topic was locked by {{username}}",
             "topic_is_autoarchived": "This topic has been auto-archived and can no longer be posted in because there haven't been any posts in a while.",
-            "create_related_topic": "If you have a something related to post consider <a>creating a topic in {{category_name}}</a>."
+            "create_related_topic": "If you have a something related to post consider <a>creating a topic in {{category_name}}</a>.",
+            "topic_is_archived": "This topic is archived. It is unlisted and no new posts can be made."
         },
         "post_list": {
             "deleted_post": "Deleted post",
