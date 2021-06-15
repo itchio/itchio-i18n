@@ -1337,5 +1337,8 @@
         "unverified_email": {
             "title": "Your email address is not verified"
         }
+    },
+    "notifications": {
+        "page_title": "Notifications"
     }
 }
