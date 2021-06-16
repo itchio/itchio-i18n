@@ -936,6 +936,41 @@
         "stats": {
             "joined": "เข้าร่วม",
             "entries": "การส่ง"
+        },
+        "submitter": {
+            "join_jam": "สมัคร jam",
+            "submit_button": "ส่งงาน",
+            "or_leave_jam": "หรือ <a>ออกจาก jam</a>",
+            "youve_joined": "คุณได้เข้าร่วม jam นี้แล้ว",
+            "joined_instructions": "มาที่หน้านี้หลังจาก jam เริ่มเพื่อส่งงานรของคุณ",
+            "leave_jam": "ออกจาก jam",
+            "submissions_open_from": "เปิดรับให้ส่งงานตั้งแต่ {{start_date}} ถึง {{end_date}}",
+            "jam_is_now_over": "jam นี้สิ้นสุดลงแล้ว เริ่มจาก {{start_date}} และจบ {{end_date}}",
+            "view_results": "ดูผลลัพธ์",
+            "countdown": {
+                "starts_in": "เริ่มใน",
+                "submissions_due_in": "กำหนดส่งใน",
+                "voting_ends_in": "การลงคะแนนจะสิ้นสุดลงใน"
+            },
+            "submission_is_closed_for_voting": "ปิดการส่งและกำลังลงคะแนนเสียงอยู่",
+            "you_can_now_rate_entries": "ขณะนี้คุณสามารถให้คะแนนผลงานจาก <a>submissions page</a> ได้แล้ว",
+            "view_entries": "ดู {{count}} รายการ"
+        },
+        "submissions": {
+            "there_were_no_submissions": "ไม่มีการส่งผลงาน",
+            "help_submissions_in_need_of_ratings": "ช่วยให้คะแนนผลงานที่มีการให้คะแนนน้อย: <a>Submissions in need of ratings</a>",
+            "filters": {
+                "all_submissions": "ผลงานทั้งหมด",
+                "browser_playable": "เล่นได้ในเบราว์เซอร์"
+            },
+            "filter": "กรอง",
+            "empty_results": "ไม่มีงานที่ตรงกับตัวกรองของคุณ",
+            "rated": "ให้คะแนนแล้ว",
+            "there_are_no_submissions_yet": "ยังไม่มีผลงานส่ง",
+            "submissions_will_be_available_after_the_jam_has_ended": "สามารถดูผลงานจากคนอื่นได้หลังจาก jam สิ้นสุดลง"
+        },
+        "results": {
+            "results": "ผลลัพธ์"
         }
     }
 }
