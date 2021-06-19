@@ -892,6 +892,17 @@
         "link_account_header": "इस डाउनलोड पृष्ठ को अपने इच.आईओ से खाते से जोड़ें(लिंक करें)",
         "log_in_to_link": "लिंक पर लॉग इन करें",
         "link_my_account": "मेरा खाता जोड़ें(लिंक करें)",
-        "linked_user_message": "यह पृष्ठ {{username}} के खाते से जुड़ा(लिंक) है।"
+        "linked_user_message": "यह पृष्ठ {{username}} के खाते से जुड़ा(लिंक) है।",
+        "email_capture": {
+            "dont_lose_your_purchase": "अपनी खरीद को न खोएँ!"
+        },
+        "access_it": "इस तक पहुँच(एक्सेस प्राप्त करें)",
+        "access_comes_with_key": "आपकी पहुँच(एक्सेस) एक {{key_type}} कुंजी(की) के साथ आती है!",
+        "payment_comes_with_key": "आपका भुगतान एक {{key_type}} कुंजी(की) के साथ आता है!",
+        "claim_external_key_instructions": "प्राप्त करने के लिए बटन दबाएँ।",
+        "claim_external_key": "{{key_type}} कुंजी(की) को प्राप्त करें",
+        "get_external_key": "{{key_type}} कुंजी प्राप्त करें",
+        "access_existing_copy": "आप एक अन्य कॉपी नहीं प्राप्त कर सकते, पर अपनी पूर्व अवस्थित का प्रयोग कर सकते हैं।",
+        "already_own": "ऐसा लगता है आप इसे पहले हि प्राप्त कर चुके हैं"
     }
 }
