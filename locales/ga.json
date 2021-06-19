@@ -54,7 +54,9 @@
             "recommendations": "Moltaí",
             "library": "Mo leabharlann",
             "feed": "M'fhotha",
-            "account_menu_tooltip": "Roghchlár an Chuntais"
+            "account_menu_tooltip": "Roghchlár an Chuntais",
+            "view_profile": "Mo phróifíl",
+            "host_game_jam": "Eagraigh meitheal cluichí"
         }
     },
     "itchio": "itch.io",
