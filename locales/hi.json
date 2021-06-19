@@ -603,7 +603,8 @@
             "views_count_plural": "<s>{{count}}</s> बार देखा गया",
             "replies_count": "<s>{{count}}</s> प्रतिक्रिया",
             "replies_count_plural": "<s>{{count}}</s> प्रतिक्रियाएँ",
-            "new_flag": "नया"
+            "new_flag": "नया",
+            "no_replies_yet": "अभी तक कोई प्रतिक्रिया नहीं"
         },
         "misc": {
             "new_topic_button": "नया विषय"
@@ -625,7 +626,8 @@
             "topics_count_plural": "{{count}} विषयों",
             "create_first_topic_button": "प्रथम विषय बनाएँ",
             "search_community_label": "समुदाय में खोजें",
-            "recent_posts_header": "हाल ही के पोस्ट्स"
+            "recent_posts_header": "हाल ही के पोस्ट्स",
+            "view_this_communitys_rules": "इस समुदाय के नियमों को देखें..."
         }
     },
     "buy_form": {
@@ -701,7 +703,8 @@
         "filter_group_accessibility_features": "पहुँच(ऐक्सेसबिलिटी) विशेषताएँ",
         "filter_group_tools": "टूल्स व इंजिन्स",
         "fresh_description": "परियोजनाओं(प्रोजेक्ट्स) का निरंतर अद्यतिद(अपडेटिङ) सेट जो की हमारे सदस्यों द्वारा व्यवयस्थित किए गए संग्रह से लिया गया है। नए जोड़ों के लिए दुबारा जाँचे।",
-        "filter_everything_else": "अन्य सब कुछ"
+        "filter_everything_else": "अन्य सब कुछ",
+        "sort": "भेद (सॉर्ट)"
     },
     "collection": {
         "add_a_blurb": "एक विज्ञापन जोड़ें",
@@ -864,6 +867,21 @@
             "region_message": "कुछ क्षेत्र इच.आईओ के सीडीएन(CDN) को ब्लॉक करे हुए हैं। अगर आपके डाउनलोडस् शुरू नहीं हो रहे हैं तब आप वैकल्पिक(ऑल्टर्नेट) डाउनलोड मोड को चालू कर के पुनः प्रयास कर सकते हैं।"
         },
         "trouble_downloading_link": "डाउनलोडस् प्रारंभ नहीं हो रहें?",
-        "recommendations_title": "अधिक जिनमें आपको शायद रुचि होगी"
+        "recommendations_title": "अधिक जिनमें आपको शायद रुचि होगी",
+        "header": {
+            "preorder_title": "{{project_title}} के लिए पूर्वदेशित(प्री-ऑर्डर) करें",
+            "view_rest_in_bundle": "शेष बन्डल में देखें",
+            "more_menu": "अधिक",
+            "invoice": "बीजक(इन्वाइस)"
+        },
+        "version_name": "प्रसंस्करण(वर्ज़न) {{version_name}}",
+        "start_project_button": "प्रारंभ",
+        "play_in_your_browser": "अपने ब्राउजर में खेलें",
+        "app_banner": {
+            "app_description": "इच.आईओ एप्प से खेलों को इंस्टॉल व प्रबंधित करें",
+            "get_the_app": "एप्प प्राप्त करें"
+        },
+        "preorder_instructions": "इस परियोजना(प्रोजेक्ट) में वो फ़ाईल्स हैं जो अभी तक प्रकाशित नहीं हुई हैं। इनको डाउनलोड करने के लिए तब वापस आयें जब निर्माता ने फ़ाइल्स को प्रकाशित कर दिया हो।",
+        "check_your_email_for_the_confirmation_link": "पुष्टीकरण लिंक के लिए अपने ईमेल को जाँचे।"
     }
 }
