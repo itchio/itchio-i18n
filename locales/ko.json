@@ -521,7 +521,7 @@
             "post_reply": "답글 작성"
         },
         "topic": {
-            "topic_is_archived": "이 주제는 보관되었으며 더 이상 작성할 수 없음",
+            "topic_is_archived": "이 주제는 보관되었습니다. 이제 목록에 표시되지 않으며 새로운 글을 작성할 수 없습니다.",
             "reply": "답장",
             "log_in_to_reply": "답장하려면 로그인",
             "unlisted_topic_notice": "<s>관리자가 이 주제를 목록에서 내렸습니다.</s> 주제 목록에서 보이지는 않지만 답장과 편집은 가능합니다.",
@@ -607,7 +607,8 @@
             "list_header_last_topic": "마지막 주제",
             "new_flag": "신규",
             "archived_flag": "보관됨",
-            "by_topic_author": "{{username}} 작성"
+            "by_topic_author": "{{username}} 작성",
+            "view_this_communitys_rules": "커뮤니티 규칙을 확인해주세요..."
         },
         "topic_list": {
             "views_count": "조회수 <s>{{count}}</s>",
@@ -618,7 +619,8 @@
             "sticky_flag": "고정",
             "locked_flag": "잠김",
             "list_header_topic_title": "주제",
-            "list_header_last_post": "마지막 글"
+            "list_header_last_post": "마지막 글",
+            "no_replies_yet": "댓글 없음"
         }
     },
     "buy_form": {
@@ -1314,5 +1316,8 @@
         "unverified_email": {
             "title": "이메일이 인증되지 않았습니다"
         }
+    },
+    "notifications": {
+        "page_title": "알림"
     }
 }
