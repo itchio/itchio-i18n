@@ -811,7 +811,8 @@
             "list_header_last_topic": "Son başlık",
             "new_flag": "Yeni",
             "archived_flag": "Arşivdekiler",
-            "by_topic_author": "yazar: {{username}}"
+            "by_topic_author": "yazar: {{username}}",
+            "view_this_communitys_rules": "Bu topluluğun kurallarını görüntüle..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> görüntüleme",
@@ -824,7 +825,8 @@
             "sticky_flag": "Yapışık",
             "locked_flag": "Kilitli",
             "list_header_topic_title": "Başlık",
-            "list_header_last_post": "Son ileti"
+            "list_header_last_post": "Son ileti",
+            "no_replies_yet": "Henüz yanıt yok"
         }
     },
     "stripe_checkout": {
@@ -982,7 +984,7 @@
                 "unavailable_to_rate": "Kendi girdinizi göndermediğiniz için bu projeye puan veremezsiniz. Yine de aşağıya bir yorum bırakabilirsiniz."
             },
             "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
-            "rated_by_people_count_plural": "Şimdiye kadar {{count}} kişi(ler) tarafından değerlendirildi",
+            "rated_by_people_count_plural": "Şimdiye dek {{count}} kişi tarafından oylandı.",
             "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
             "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
             "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
@@ -1335,5 +1337,8 @@
     },
     "game_grid": {
         "in_bundle": "Pakette"
+    },
+    "notifications": {
+        "page_title": "Bildirimler"
     }
 }
