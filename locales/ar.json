@@ -89,14 +89,14 @@
         "recommendations_based_on": "تبعًا للأشياء التي إشتريتها وحملتها وقيمتها",
         "fresh_games": "العاب حديثة",
         "view_more": "عرض المزيد",
-        "featured_jams": "الكوم المميزة",
-        "view_all_jams": "عرض كل الكوم",
+        "featured_jams": "التحديات المميزة",
+        "view_all_jams": "عرض كل التحديات",
         "fresh_games_description": "تٌحدث بإستمرار بأحدث الألعاب على itch.io",
         "people_to_follow": "أشخاص لمتابعتهم",
-        "view_all_games_on_sale": "عرض جميع الألعاب المعروضة للبيع",
+        "view_all_games_on_sale": "عرض جميع الألعاب في التخفيضات",
         "more_featured_games": "مزيد من الألعاب المميزة",
-        "game_dev_on_sale": "موارد تطوير الألعاب <1>المعروضة للبيع</1>",
-        "view_all_on_sale": "عرض كل المعروض للبيع",
+        "game_dev_on_sale": "موارد تطوير الألعاب <1>في التخفيضات</1>",
+        "view_all_on_sale": "عرض كل التخفيضات",
         "get_the_app": "<s>احصل على أقصى استفادة من itch.io!</s> قم بتثبيت ألعابك وإدارتها من خلال تطبيق سطح المكتب",
         "people_to_follow_description": "هاهي بعض الحسابات التي ربما تكون مهتمًا بمتابعتها. <a>لماذا ستتابعهم؟</a>",
         "latest_featured_games": "احدث الألعاب المميزة",
@@ -106,7 +106,7 @@
         "nav": {
             "all_games": "كل الألعاب",
             "bundles": "العروض",
-            "game_jams": "كوم الألعاب",
+            "game_jams": "تحديات الألعاب",
             "devlogs": "سجلات المطور",
             "community": "المجتمع"
         },
@@ -125,14 +125,14 @@
     "misc": {
         "classifications": {
             "game": "الألعاب",
-            "assets": "أصول الألعاب",
+            "assets": "موارد الألعاب",
             "game_mod": "تعديلات الألعاب",
             "soundtrack": "الموسيقى التصويرية",
             "other": "متنوع",
             "tool": "الأدوات",
             "comic": "القصص المصورة",
             "book": "الكتب",
-            "physical_game": "الألعاب الجسدية"
+            "physical_game": "الألعاب الملموسة"
         },
         "accessibility_features": {
             "colorblind": "مناسب لعمى الألوان",
