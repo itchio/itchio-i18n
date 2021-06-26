@@ -1,8 +1,8 @@
 {
     "layout": {
         "header": {
-            "browse_games": "Pretraži igre",
-            "browse": "Pretraži",
+            "browse_games": "Istraži igre",
+            "browse": "Istraži",
             "devlogs": "Dnevnici programera",
             "game_jams": "Game jam-ovi",
             "dashboard": "Nadzorna ploča",
@@ -17,12 +17,14 @@
             "search_placeholder": "Pretraži igre ili autore",
             "games": "Igre",
             "fun_games": "Zabavne igre",
-            "bundles": "Paketi",
+            "bundles": "Bundle-ovi",
             "comics": "Stripovi",
             "free_games": "Besplatne igre",
             "no_notifications": "Nema novih obavijesti",
             "sales": "Sniženja",
-            "indie_game_store": "Trgovina indie igara"
+            "indie_game_store": "Trgovina indie igara",
+            "feed": "Novosti",
+            "game_development": "Razvoj igara"
         },
         "footer": {
             "cookies": "Kolačići",
@@ -43,14 +45,17 @@
             "account": "Račun",
             "create": "Stvori",
             "explore": "Istraži",
-            "library": "Moja zbirka"
+            "library": "Moja zbirka",
+            "sales_bundles": "Sniženja i bundle-ovi",
+            "host_game_jam": "Organiziraj game jam",
+            "view_profile": "Pogledaj profil"
         }
     },
     "itchio": "itch.io",
     "index": {
         "html5_games": "HTML5 igre",
         "nav": {
-            "bundles": "Paketi",
+            "bundles": "Bundle-ovi",
             "all_games": "Sve igre",
             "community": "Zajednica",
             "game_jams": "Game jamovi"
@@ -70,6 +75,15 @@
         "download_app": "Preuzmi aplikaciju",
         "page_title": "Preuzmi najnovije indie igre",
         "view_all_games_on_sale": "Sve igre na sniženju",
-        "on_sale": "Na sniženju"
+        "on_sale": "Na sniženju",
+        "view_more": "Pogledaj više",
+        "view_all_games": "Pogledaj sve igre",
+        "games_by_price": "Igre po cijeni",
+        "browse": "Istraži"
+    },
+    "misc": {
+        "classifications": {
+            "game": "Igre"
+        }
     }
 }
