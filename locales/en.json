@@ -283,7 +283,7 @@
             "create_account": "Create account",
             "already_have_account": "or already have an account?",
             "log_in": "Log in",
-            "link_product": "Your purchase of <1>{{product}}</1> will link to you account automatically after you register.",
+            "link_product": "Your purchase of <1>{{product}}</1> will link to your account automatically after you register.",
             "accept_tos": "I accept the <1>Terms of Service</1>",
             "digest_signup": "Sign me up for the bi-monthly itch.io digest newsletter",
             "interest_gamer": "I'm interested in playing or downloading games on itch.io",
@@ -1339,6 +1339,7 @@
         }
     },
     "notifications": {
-        "page_title": "Notifications"
+        "page_title": "Notifications",
+        "unseen_label": "New"
     }
 }
