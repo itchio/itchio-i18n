@@ -894,7 +894,8 @@
         "link_my_account": "मेरा खाता जोड़ें(लिंक करें)",
         "linked_user_message": "यह पृष्ठ {{username}} के खाते से जुड़ा(लिंक) है।",
         "email_capture": {
-            "dont_lose_your_purchase": "अपनी खरीद को न खोएँ!"
+            "dont_lose_your_purchase": "अपनी खरीद को न खोएँ!",
+            "provide_email_instructions": "अपना ईमेल पता दर्ज करें अपनी खरीद के साथ जोड़ने(लिंक) करने के लिए जिससे आप इस खरीद को पुनः प्राप्त कर सकेंगे अगर आप इस पृष्ठ को गंवा देते हैं।"
         },
         "access_it": "इस तक पहुँच(एक्सेस प्राप्त करें)",
         "access_comes_with_key": "आपकी पहुँच(एक्सेस) एक {{key_type}} कुंजी(की) के साथ आती है!",
@@ -903,6 +904,62 @@
         "claim_external_key": "{{key_type}} कुंजी(की) को प्राप्त करें",
         "get_external_key": "{{key_type}} कुंजी प्राप्त करें",
         "access_existing_copy": "आप एक अन्य कॉपी नहीं प्राप्त कर सकते, पर अपनी पूर्व अवस्थित का प्रयोग कर सकते हैं।",
-        "already_own": "ऐसा लगता है आप इसे पहले हि प्राप्त कर चुके हैं"
+        "already_own": "ऐसा लगता है आप इसे पहले हि प्राप्त कर चुके हैं",
+        "purchase": {
+            "linked_user_message": "यह खरीद {{username}} के खाते से जुड़ी(लिंक्ड) है।",
+            "percent_off": "{{percent}}% छूट",
+            "payment_summary_with_email": "आपने इसके लिए {{payment_date}} पर {{payment_price}} का {{email_address}} इस ईमेल के साथ भुगतान किया था।",
+            "payment_summary": "आपने इसके लिए {{payment_date}} पर {{payment_price}} का भुगतान किया था।",
+            "receipt_support_information": "इस पृष्ठ की लिंक के साथ आपको एक ईमेल भी प्राप्त होना चाहिए। अगर आप इस पृष्ठ का यूआरएल कभी भी गंवा देते हैं तो आप इसको <a>सहायता पृष्ठ</a> से आपको ईमेल करने का अनुरोध(रीक्वेस्ट) कर सकते हैं।",
+            "access_latest_files_from_this_page": "आप इस पृष्ठ से हमेशा फाइल्स तक पहुँच(उनको एक्सेस कर) सकते हैं।",
+            "unique_url_for_your_payment": "आपके भुगतान के लिए इस पृष्ठ पर एक अद्वितीय यूआरएल है।",
+            "thank_you_for_donating_author": "{{product_title}} द्वारा {{author}} को दान देने के लिए आपका धन्यवाद।",
+            "thank_you_for_donating": "{{product_title}} को दान देने के लिए आपका धन्यवाद।",
+            "thank_you_for_purchasing_author": "{{product_title}} द्वारा {{author}} को खरीदने के लिए आपका धन्यवाद।",
+            "thank_you_for_purchasing": "{{product_title}} को खरीदने के लिए आपका धन्यवाद।",
+            "link_purchase_warning": "अपनी खरीद न गँवाये!",
+            "link_purchase_links": "इस खरीद को तुरंत जोड़ने(लिंक) करने के लिए <1>एक खाता बनाएँ</1> अथवा <2>इच.आईओ में लॉगिन करें</2>।",
+            "save_this_purchase_to_your_account": "अपने खाते में इस खरीद को सहेजें",
+            "youve_been_gifted": "आपको {{product_title}} की भेंट प्रदान की गई।"
+        }
+    },
+    "jam": {
+        "submitter": {
+            "you_can_now_rate_entries": "आप अब प्रविष्टियों को <a>सबमिशन्स पृष्ठ</a> से रेट कर सकते हैं",
+            "submission_is_closed_for_voting": "प्रस्तुतीकरण(सबमिशन) बंद हो चुके हैं व वोटिंग प्रगति पर है",
+            "countdown": {
+                "voting_ends_in": "वोटिंग समाप्त होगी",
+                "submissions_due_in": "प्रस्तुतीकरण(सबमिशन्स) का समय समाप्त होगा",
+                "starts_in": "प्रारंभ होगा"
+            },
+            "view_entries": "{{count}} प्रविष्टि देखें",
+            "view_entries_plural": "{{count}} प्रविष्टियाँ देखें",
+            "view_results": "परिणाम देखें",
+            "jam_is_now_over": "यह जैम अब समाप्त हो चुका है। यह {{start_date}} से {{end_date}} तक चला था।",
+            "submissions_open_from": "प्रस्तुतीकरण(सबमिशन्स) {{start_date}} से {{end_date}} तक खुले हैं",
+            "leave_jam": "जैम छोड़ें",
+            "joined_instructions": "जब जैम आपकी परियोजना(प्रोजेक्ट) लेने लगे उसके बाद इस पृष्ठ पर पुनः आए।",
+            "youve_joined": "आप इस जैम से जुड़ (जॉइंड) चुके हैं।",
+            "or_leave_jam": "अथवा <a>जैम छोड़ें</a>",
+            "submit_button": "अपनी परियोजना(प्रोजेक्ट) प्रस्तुत करें",
+            "join_jam": "जैम से जुड़ें(जॉइन)"
+        },
+        "stats": {
+            "ratings": "रेटिंग्स",
+            "entries": "प्रविष्टियाँ",
+            "joined": "जुड़े हैं(जॉइंड)"
+        },
+        "header": {
+            "links": {
+                "edit_jam": "जैम संपादित करें",
+                "submission_feed": "प्रस्तुतीकरण फ़ीड(सबमिशन फ़ीड)",
+                "screenshots": "स्क्रीन परिचित्र(स्क्रीनशॉट्स)",
+                "overview": "अवलोकन(ओवर्व्यू)",
+                "submissions": "प्रस्तुत परियोजनाएँ(सबमिशन्स)",
+                "results": "परिणाम",
+                "community": "समुदाय"
+            },
+            "hosted_by": "{{hosts}} के द्वारा आयोजित"
+        }
     }
 }
