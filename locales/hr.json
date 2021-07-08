@@ -103,7 +103,7 @@
         "latest_featured_games": "Najnovije istaknute igre",
         "people_to_follow_description": "Evo nekoliko računa koji bi vas mogli zanimati. <a>Zašto pratiti?</a>",
         "view_all_on_sale": "Vidi sve na akciji",
-        "game_dev_on_sale": "Resursi za Game Dev <1>Na Akciji</1>",
+        "game_dev_on_sale": "Resursi za Game Dev <1>Na Sniženju</1>",
         "more_featured_games": "Više istaknutih Igara",
         "people_to_follow": "Ljude za Pratiti",
         "recommendations_based_on": "Bazirano na stvari koje ste kupili, instalirali, i ocijenili",
@@ -129,7 +129,113 @@
         },
         "accessibility_features": {
             "subtitles": "Prijevodi",
-            "colorblind": "Za daltoniste"
+            "colorblind": "Za daltoniste",
+            "one_button": "Jedan botun"
+        },
+        "inputs": {
+            "keyboard": "Tipkovnica",
+            "mouse": "Miš"
+        },
+        "loading_more_ellip": "Učitavanje više…",
+        "more_ellip": "Više…",
+        "release_statuses": {
+            "prototype": "Prototip",
+            "canceled": "Prekinuto",
+            "on_hold": "Na pauzi"
+        },
+        "dismiss": "Odbaci",
+        "view_more": "Vidi više",
+        "project_visibility": {
+            "public": "Javno",
+            "published": "Izbačeno",
+            "restricted": "Zabranjeno"
+        },
+        "countdown": {
+            "seconds": "sekunde",
+            "minutes": "minute",
+            "hours": "sati",
+            "days": "dani",
+            "months": "mjeseci",
+            "years": "godine"
+        },
+        "lightboxes": {
+            "close": "Zatvori"
+        },
+        "collection_button": {
+            "add_to_collection": "Dodaj u kolekciju"
+        },
+        "pager": {
+            "first_page": "Prva stranica",
+            "previous_page": "Prošla stanica",
+            "current_page_of_total": "Stranica {{current_page}} od {{total_pages}}",
+            "next": "Sljedeće",
+            "prev": "Prošlo",
+            "next_page": "Sljedeća stranica"
+        },
+        "filter_price": {
+            "on_sale": "Na Sniženju",
+            "free": "Besplatno"
+        },
+        "platforms": {
+            "web": "Mreža"
+        },
+        "filter_when": {
+            "last_30_days": "Zadnjih 30 dana",
+            "last_7_days": "Zadnjih 7 dana",
+            "last_day": "Zadnji dan"
+        },
+        "follow_button": {
+            "unfollow": "Odprati",
+            "following": "Pratite",
+            "following_username": "Pratite {{username}}",
+            "follow": "Prati",
+            "follow_username": "Prati {{username}}"
+        },
+        "page_number": "Stranica {{page_number}}",
+        "forms": {
+            "search": "Pretraži",
+            "email_address": "Email Adresa",
+            "save": "Spremi",
+            "required": "Potrebno"
+        },
+        "durations": {
+            "days": "Dana ili više",
+            "hours": "Nekoliko sati",
+            "hour": "Oko sat",
+            "half_hour": "Oko pola sata",
+            "minutes": "Nekoliko minuta",
+            "seconds": "Nekoliko sekundi"
         }
+    },
+    "game": {
+        "community_posts_count_0": "",
+        "community_posts_count_1": "",
+        "community_posts_count_2": "",
+        "community_post_author": "od {{username}}",
+        "info_panel": {
+            "languages": "Jezici"
+        },
+        "comments": {
+            "click_to_leave_a_comment": "Klikni za ostaviti komentar...",
+            "leave_a_comment": "Ostavi komentar",
+            "leave_a_comment_header": "Ostavi komentar",
+            "comments_header": "Komentari"
+        },
+        "on_sale": "Na Sniženju!",
+        "name_your_own_price": "Recite svoju cijenu",
+        "download_demo_header": "Instaliraj demo",
+        "purchase_header": "Kupi",
+        "download_header": "Instaliraj"
+    },
+    "user_login": {
+        "login_form": {
+            "or": "ili",
+            "create_account": "Napravite račun",
+            "forgot_password": "Zaboravljena lozinka",
+            "password": "Lozinka"
+        }
+    },
+    "blog": {
+        "updates": "Ažuriranja"
     }
 }
