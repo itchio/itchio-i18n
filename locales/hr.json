@@ -17,14 +17,19 @@
             "search_placeholder": "Pretraži igre ili autore",
             "games": "Igre",
             "fun_games": "Zabavne igre",
-            "bundles": "Bundle-ovi",
+            "bundles": "Bundlovi",
             "comics": "Stripovi",
             "free_games": "Besplatne igre",
             "no_notifications": "Nema novih obavijesti",
             "sales": "Sniženja",
             "indie_game_store": "Trgovina indie igara",
             "feed": "Novosti",
-            "game_development": "Razvoj igara"
+            "game_development": "Razvoj igara",
+            "feed_unseen_count_0": "{{count}} novo",
+            "feed_unseen_count_1": "{{count}} novi",
+            "feed_unseen_count_2": "{{count}} novi",
+            "game_assets": "Dodatci",
+            "upload_game": "Prebaci Igru"
         },
         "footer": {
             "cookies": "Kolačići",
@@ -46,19 +51,23 @@
             "create": "Stvori",
             "explore": "Istraži",
             "library": "Moja zbirka",
-            "sales_bundles": "Sniženja i bundle-ovi",
+            "sales_bundles": "Sniženja i paketi",
             "host_game_jam": "Organiziraj game jam",
-            "view_profile": "Pogledaj profil"
+            "view_profile": "Pogledaj profil",
+            "account_menu_tooltip": "Računski meni",
+            "feed": "Moje novosti",
+            "new_project": "Prebaci novi projekt"
         }
     },
     "itchio": "itch.io",
     "index": {
         "html5_games": "HTML5 igre",
         "nav": {
-            "bundles": "Bundle-ovi",
+            "bundles": "Paketi",
             "all_games": "Sve igre",
             "community": "Zajednica",
-            "game_jams": "Game jamovi"
+            "game_jams": "Game jamovi",
+            "devlogs": "Programerski Dnevnik"
         },
         "view_all_platforms": "Pogledaj sve platforme",
         "view_all_jams": "Pogledaj sve jam-ove",
@@ -79,11 +88,48 @@
         "view_more": "Pogledaj više",
         "view_all_games": "Pogledaj sve igre",
         "games_by_price": "Igre po cijeni",
-        "browse": "Istraži"
+        "browse": "Istraži",
+        "to_follow": {
+            "dismiss_tooltip": "Nemojte više predlagati",
+            "refresh_button": "Osvježite stranicu za više",
+            "empty_results": "Mi nemamo više preporuka. Pogledajte opet kasnije",
+            "created_projects": "Napravljen {{project_list}}"
+        },
+        "meta_description": "itch.io je jednostavan način za pronaći, instalirati i dijeliti indie igre online. Ako ste programer koji gleda za podijeliti svoju igru ili samo netko tko gleda nešto novo za igrati itch.io ima Vas pokrivenog.",
+        "intro_cta": "<1>Dodaj svoju igru</1> ili <2>Pročitajte FAQ</2>",
+        "intro": "<s>itch.io</s> je jednostavan način za pronaći i dijeliti indie igre online za besplatno.",
+        "browse_content_type": "Pretražite {{content_type}}",
+        "filtering_platform": "Filtriranje svih igara na {{platform_name}}",
+        "latest_featured_games": "Najnovije istaknute igre",
+        "people_to_follow_description": "Evo nekoliko računa koji bi vas mogli zanimati. <a>Zašto pratiti?</a>",
+        "view_all_on_sale": "Vidi sve na akciji",
+        "game_dev_on_sale": "Resursi za Game Dev <1>Na Akciji</1>",
+        "more_featured_games": "Više istaknutih Igara",
+        "people_to_follow": "Ljude za Pratiti",
+        "recommendations_based_on": "Bazirano na stvari koje ste kupili, instalirali, i ocijenili",
+        "browse_all_tags": "Pretražite sve tagove",
+        "search_games_creators": "Potražite igre i stvaratelje",
+        "view_all_blog_posts": "Pogledajte sva ažuriranja",
+        "get_the_app": "<s>Dobite maksimum od itch.io!</s> Instalirajte i upravljajte svojim igricama sa našom desktop aplikacijom",
+        "dont_see_anything_you_like": "Ne vidite ništa što volite?",
+        "view_something_random": "Pogledaj nešto nasumično",
+        "popular_tags": "Popularni Tagovi"
     },
     "misc": {
         "classifications": {
-            "game": "Igre"
+            "game": "Igre",
+            "book": "Knjige",
+            "comic": "Stripovi",
+            "tool": "Alati",
+            "other": "Razno",
+            "soundtrack": "Zvučni zapisi",
+            "physical_game": "Fizikalne igre",
+            "game_mod": "Modifikacije za igre",
+            "assets": "Resursi za igre"
+        },
+        "accessibility_features": {
+            "subtitles": "Prijevodi",
+            "colorblind": "Za daltoniste"
         }
     }
 }
