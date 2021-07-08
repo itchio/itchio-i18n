@@ -494,5 +494,11 @@
             "thanks_for_downloading_title": "Obrigado pela descarga",
             "share_this_project": "Partilhar este projeto"
         }
+    },
+    "dashboard": {
+        "edit_project": {
+            "kind_of_project_field": "Tipo de projeto",
+            "description_field": "Descrição"
+        }
     }
 }
