@@ -3,7 +3,7 @@
         "header": {
             "browse_games": "Istraži igre",
             "browse": "Istraži",
-            "devlogs": "Dnevnici programera",
+            "devlogs": "Zapisnici razvojnih inženjera",
             "game_jams": "Game jam-ovi",
             "dashboard": "Nadzorna ploča",
             "register": "Registriraj se",
@@ -14,7 +14,7 @@
             "notifications_count_2": "{{count}} obavijesti",
             "jams": "Jam-ovi",
             "search": "Pretraži",
-            "search_placeholder": "Pretraži igre ili autore",
+            "search_placeholder": "traženje igre ili autora",
             "games": "Igre",
             "fun_games": "Zabavne igre",
             "bundles": "Bundlovi",
