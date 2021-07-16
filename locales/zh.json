@@ -891,7 +891,7 @@
                 "vote": "投票"
             },
             "rated_by_people_count": "{{count}}位用户已打分",
-            "rated_by_people_count_plural": "{{count}}位用户已打分",
+            "rated_by_people_count_plural": "目前共有{{count}}人评分",
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "submitted_by_contributors": "由 {{contributors}} 提交",
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
@@ -1316,5 +1316,9 @@
             "game": "游戏"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "notifications": {
+        "unseen_label": "新",
+        "page_title": "通知"
+    }
 }
