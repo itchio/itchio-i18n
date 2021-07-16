@@ -586,7 +586,7 @@
             "unlisted_topic_notice": "<s>一位管理员已将此主题隐藏。</s>此主题将不会在主题列表中被显示，但您仍可以回复并进行修改。",
             "log_in_to_reply": "登录回复",
             "reply": "回复",
-            "topic_is_archived": "此主题已被归档，无法再发布评论"
+            "topic_is_archived": "此主题已被归档，无法再发布评论。"
         }
     },
     "game": {
@@ -897,7 +897,7 @@
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
             "results_header": "结果",
             "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
-            "ranked_from_count_plural": "从<s>{{count}}次评分</s>而所排名",
+            "ranked_from_count_plural": "从<s>{{count}}次评分</s>而排名。",
             "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
             "run_project": "运行项目",
             "play_game": "玩游戏",
