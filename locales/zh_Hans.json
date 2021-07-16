@@ -510,7 +510,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "此主题已被归档，无法再发布评论",
+            "topic_is_archived": "此主题已被归档。因此，它已被隐藏，而任何人无法再进行评论。",
             "reply": "回复",
             "log_in_to_reply": "登录回复",
             "unlisted_topic_notice": "<s>一位管理员已将此主题隐藏。</s>此主题将不会在主题列表中被显示，但您仍可以回复并进行修改。",
@@ -607,7 +607,8 @@
             "list_header_last_topic": "最后一个话题",
             "new_flag": "新",
             "archived_flag": "已归档",
-            "by_topic_author": "由 {{username}} 发表"
+            "by_topic_author": "由 {{username}} 发表",
+            "view_this_communitys_rules": "查看社区规则..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s>查看",
@@ -618,7 +619,8 @@
             "sticky_flag": "置顶",
             "locked_flag": "已锁定",
             "list_header_topic_title": "主题",
-            "list_header_last_post": "最后的帖子"
+            "list_header_last_post": "最后的帖子",
+            "no_replies_yet": "暂无回复"
         }
     },
     "buy_form": {
@@ -1314,5 +1316,9 @@
         "unverified_email": {
             "title": "您的电子邮件地址未通过验证"
         }
+    },
+    "notifications": {
+        "unseen_label": "新",
+        "page_title": "通知"
     }
 }
