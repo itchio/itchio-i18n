@@ -586,7 +586,7 @@
             "unlisted_topic_notice": "<s>一位管理员已将此主题隐藏。</s>此主题将不会在主题列表中被显示，但您仍可以回复并进行修改。",
             "log_in_to_reply": "登录回复",
             "reply": "回复",
-            "topic_is_archived": "此主题已被归档，无法再发布评论。"
+            "topic_is_archived": "此主题已被归档。因此，它已被隐藏，而无法再发布评论。"
         }
     },
     "game": {
