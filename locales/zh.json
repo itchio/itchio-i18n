@@ -421,8 +421,7 @@
         "sort_top_sellers": "热销",
         "sort_new_and_popular": "新品 & 热门",
         "sort_popular": "人气",
-        "results_count": "{{count}}项结果",
-        "results_count_plural": "{{count}}个结果",
+        "results_count": "{{count}}个结果",
         "filter_everything_else": "其他"
     },
     "collection": {
@@ -553,7 +552,7 @@
             "like": "点赞",
             "reply": "回复",
             "edits_count": "（{{count}}次编辑）",
-            "edits_count_plural": "（已编辑{{count}}次）",
+            "edits_count_plural": "（{{count}}次编辑）",
             "edit_blocks": "编辑块",
             "post_from_blocked_account": "从被禁止的帐户发布",
             "deleted_post": "已删除的帖子"
@@ -586,7 +585,7 @@
             "unlisted_topic_notice": "<s>一位管理员已将此主题隐藏。</s>此主题将不会在主题列表中被显示，但您仍可以回复并进行修改。",
             "log_in_to_reply": "登录回复",
             "reply": "回复",
-            "topic_is_archived": "此主题已被归档。因此，它已被隐藏，而无法再发布评论。"
+            "topic_is_archived": "此主题已被归档。因此，它已被隐藏，而任何人无法再进行评论。"
         }
     },
     "game": {
@@ -891,13 +890,13 @@
                 "vote": "投票"
             },
             "rated_by_people_count": "{{count}}位用户已打分",
-            "rated_by_people_count_plural": "目前共有{{count}}人评分",
+            "rated_by_people_count_plural": "目前共有{{count}}位用户评分",
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "submitted_by_contributors": "由 {{contributors}} 提交",
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
             "results_header": "结果",
             "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
-            "ranked_from_count_plural": "从<s>{{count}}次评分</s>而排名。",
+            "ranked_from_count_plural": "依据<s>{{count}}个评分</s>而排名。",
             "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
             "run_project": "运行项目",
             "play_game": "玩游戏",
