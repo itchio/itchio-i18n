@@ -422,7 +422,7 @@
         "sort_new_and_popular": "新品 & 热门",
         "sort_popular": "人气",
         "results_count": "{{count}}项结果",
-        "results_count_plural": "{{count}}项结果",
+        "results_count_plural": "{{count}}个结果",
         "filter_everything_else": "其他"
     },
     "collection": {
@@ -484,7 +484,8 @@
             "started_by_author": "由 {{topic_author}} 发起",
             "replies_count": "<s>{{count}}</s> 回复",
             "no_posts_yet": "还没有帖子",
-            "views_count": "<s>{{count}}</s> 查看"
+            "views_count": "<s>{{count}}</s> 查看",
+            "no_replies_yet": "暂无回复"
         },
         "category": {
             "by_topic_author": "由 {{username}} 发表",
@@ -502,7 +503,8 @@
             "there_arent_any_topics_yet": "目前还没有任何主题",
             "empty_message": "没有主题",
             "create_first_topic_button": "创建第一个主题",
-            "topics_count": "{{count}} 个主题"
+            "topics_count": "{{count}} 个主题",
+            "view_this_communitys_rules": "查看社区规则..."
         },
         "misc": {
             "new_topic_button": "新主题"
@@ -551,7 +553,7 @@
             "like": "点赞",
             "reply": "回复",
             "edits_count": "（{{count}}次编辑）",
-            "edits_count_plural": "（{{count}}次编辑）",
+            "edits_count_plural": "（已编辑{{count}}次）",
             "edit_blocks": "编辑块",
             "post_from_blocked_account": "从被禁止的帐户发布",
             "deleted_post": "已删除的帖子"
@@ -895,7 +897,7 @@
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
             "results_header": "结果",
             "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
-            "ranked_from_count_plural": "排名依据<s>{{count}}个评分</s>。",
+            "ranked_from_count_plural": "从<s>{{count}}次评分</s>而所排名",
             "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
             "run_project": "运行项目",
             "play_game": "玩游戏",
