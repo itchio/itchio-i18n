@@ -275,7 +275,7 @@
         "welcome_to_itchio": "Witaj na itch.io!",
         "errors": {
             "accept_terms": "Musisz zaakceptować regulamin",
-            "please_enter_a_valid_email_address": "Proszę wpisać poprawny adres e-mail "
+            "please_enter_a_valid_email_address": "Proszę podać poprawny adres e-mail"
         },
         "you_are_logged_out": "Wylogowano"
     },
