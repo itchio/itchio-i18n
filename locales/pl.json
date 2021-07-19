@@ -91,11 +91,11 @@
         "view_all_games_on_sale": "Wszystkie gry na wyprzedaży",
         "more_featured_games": "Więcej polecanych gier",
         "game_dev_on_sale": "Zasoby Game Dev <1>Wyprzedaż</1>",
-        "view_all_on_sale": "Wszystko na wyprzedaży",
+        "view_all_on_sale": "Zobacz wszystko na wyprzedaży",
         "people_to_follow_description": "Oto kilka kont, których możesz być zainteresowany śledzeniem. <a>Po co śledzić?</a>",
         "latest_featured_games": "Najnowsze polecane gry",
         "filtering_platform": "Filtrowanie wszystkich gier na {{platform_name}}",
-        "view_all_platforms": "Wszystkie platformy",
+        "view_all_platforms": "Zobacz wszystkie platformy",
         "browse_content_type": "Przeglądaj {{content_type}}",
         "nav": {
             "all_games": "Wszystkie gry",
@@ -275,7 +275,7 @@
         "welcome_to_itchio": "Witaj na itch.io!",
         "errors": {
             "accept_terms": "Musisz zaakceptować regulamin",
-            "please_enter_a_valid_email_address": "Proszę wpisać aktualny adres e-mail"
+            "please_enter_a_valid_email_address": "Proszę wpisać poprawny adres e-mail "
         },
         "you_are_logged_out": "Wylogowano"
     },
