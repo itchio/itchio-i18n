@@ -385,7 +385,7 @@
             "post_from_suspended_account": "Post z zawieszonego konta"
         },
         "topic": {
-            "topic_is_archived": "Ten wątek został zarchiwizowany i nie można w nim pisać",
+            "topic_is_archived": "Ten wątek jest archiwalny. Został ukryty i nie można w nim tworzyć nowych postów.",
             "reply": "Odpowiedz",
             "log_in_to_reply": "Zaloguj się aby odpowiedzieć",
             "unlisted_topic_notice": "<s>Moderator ukrył ten temat.</s> Nie jest on widoczny na liście wątków, ale wciąż możesz na niego odpowiedzieć i go edytować.",
@@ -461,7 +461,8 @@
             "new_flag": "Nowy",
             "archived_flag": "Zarchiwizowane",
             "unsubscribe_from_topics": "Anuluj subskrypcję",
-            "by_topic_author": "od {{username}}"
+            "by_topic_author": "od {{username}}",
+            "view_this_communitys_rules": "Wyświetl reguły dla tej społeczności..."
         },
         "topic_list": {
             "views_count_0": "<s>{{count}}</s> wyświetlenie",
@@ -476,7 +477,8 @@
             "locked_flag": "Zablokowany",
             "list_header_topic_title": "Temat",
             "list_header_last_post": "Ostatni post",
-            "no_posts_yet": "Na razie brak postów"
+            "no_posts_yet": "Na razie brak postów",
+            "no_replies_yet": "Nie ma jeszcze odpowiedzi"
         }
     },
     "game": {
@@ -1364,5 +1366,9 @@
         "unverified_email": {
             "title": "Twój adres e-mail nie jest zweryfikowany"
         }
+    },
+    "notifications": {
+        "unseen_label": "Nowe",
+        "page_title": "Powiadomienia"
     }
 }
