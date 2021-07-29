@@ -160,7 +160,8 @@
                 "download": "Stáhnout",
                 "send_gift": "Poslat dárek",
                 "you_own_this": "Tuto položku vlastníte",
-                "purchased_for_price": "Zakoupeno za {{price}}"
+                "purchased_for_price": "Zakoupeno za {{price}}",
+                "you_were_gifted_this": "Toto vám někdo daroval"
             },
             "submission_to_jam": "Podání do {{jam_title}}",
             "rate_for_jam": "Ohodnotit pro {{jam_title}}",
@@ -275,7 +276,8 @@
         },
         "password_required": {
             "header": "Pro zhlédnutí této stránky je nutné zadat heslo"
-        }
+        },
+        "community_sticky": "Zvýrazněné"
     },
     "misc": {
         "classifications": {
