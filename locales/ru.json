@@ -1364,5 +1364,8 @@
         "unverified_email": {
             "title": "Ваш email не подтверждён"
         }
+    },
+    "notifications": {
+        "unseen_label": "Новые"
     }
 }
