@@ -619,7 +619,8 @@
             "list_header_last_topic": "Последняя тема",
             "new_flag": "Новое",
             "archived_flag": "В архиве",
-            "by_topic_author": "от {{username}}"
+            "by_topic_author": "от {{username}}",
+            "view_this_communitys_rules": "Посмотреть правила этого сообщества..."
         },
         "topic_list": {
             "views_count_0": "<s>{{count}}</s> просмотр",
@@ -634,7 +635,8 @@
             "sticky_flag": "Закреплено",
             "locked_flag": "Заблокировано",
             "list_header_topic_title": "Тема",
-            "list_header_last_post": "Последний пост"
+            "list_header_last_post": "Последний пост",
+            "no_replies_yet": "Ответов пока нет"
         }
     },
     "buy_form": {
@@ -1366,6 +1368,7 @@
         }
     },
     "notifications": {
-        "unseen_label": "Новые"
+        "unseen_label": "Новые",
+        "page_title": "Уведомления"
     }
 }
