@@ -130,18 +130,25 @@
         "accessibility_features": {
             "subtitles": "Prijevodi",
             "colorblind": "Za daltoniste",
-            "one_button": "Jedan botun"
+            "one_button": "Jedan botun",
+            "textless": "Bez teksta",
+            "highcontrast": "Visoki kontrast",
+            "configurable_controls": "Podesive kontrole"
         },
         "inputs": {
             "keyboard": "Tipkovnica",
-            "mouse": "Miš"
+            "mouse": "Miš",
+            "dance_pad": "Plesna podloga",
+            "accelerometer": "Akcelerometar",
+            "voice": "Glasovno upravljanje"
         },
         "loading_more_ellip": "Učitavanje više…",
         "more_ellip": "Više…",
         "release_statuses": {
             "prototype": "Prototip",
             "canceled": "Prekinuto",
-            "on_hold": "Na pauzi"
+            "on_hold": "Na pauzi",
+            "in_development": "U razvoju"
         },
         "dismiss": "Odbaci",
         "view_more": "Vidi više",
@@ -196,7 +203,10 @@
             "search": "Pretraži",
             "email_address": "Email Adresa",
             "save": "Spremi",
-            "required": "Potrebno"
+            "required": "Potrebno",
+            "form_errors": "Molimo vas provjerite informacije koje ste podnijeli",
+            "optional": "Neobavezno",
+            "submit": "Podnesi"
         },
         "durations": {
             "days": "Dana ili više",
@@ -232,10 +242,59 @@
             "or": "ili",
             "create_account": "Napravite račun",
             "forgot_password": "Zaboravljena lozinka",
-            "password": "Lozinka"
-        }
+            "password": "Lozinka",
+            "log_in_button": "Prijava",
+            "or_log_in_with_another_site": "Ili prijavi se preko druge stranice",
+            "username_or_email": "Korisničko ime ili elektronička pošta"
+        },
+        "errors": {
+            "please_enter_a_valid_email_address": "Molimo unesite valjanu adresu e-pošte",
+            "accept_terms": "Morate prihvatiti Uvjete pružanja usluge"
+        },
+        "welcome_to_itchio": "Dobrodošli na itch.io!",
+        "welcome_back": "Dobrodošli natrag!",
+        "you_are_logged_out": "Odjavljeni ste",
+        "page_title": "Prijava",
+        "intent": {
+            "collection": "Prije dodavanja u zbirku trebat će vam račun na itch.io.",
+            "follow": "Trebat će vam račun na itch.io da biste mogli pratiti nekoga.",
+            "rate_game": "Prije ocjenjivanja igre trebat će vam račun na itch.io.",
+            "comment": "Trebat će vam račun na itch.io da biste mogli ostaviti komentar.",
+            "community": "Morat ćete se prijaviti za sudjelovanje u zajednicama na itch.io. Izrada novog računa je besplatna i traje samo nekoliko trenutaka."
+        },
+        "create_a_new_account": "Kreiraj novi račun",
+        "looking_for_something_you_bought": "Tražite nešto što ste kupili?",
+        "log_in_to_your_itchio_account": "Prijavi se u svoj itch.io račun"
     },
     "blog": {
-        "updates": "Ažuriranja"
+        "updates": "Ažuriranja",
+        "all_posts": "Svi postovi"
+    },
+    "developers": {
+        "browser_game_description": "Zaradite novac od igre u pregledniku stavljajući ju na<s> itch.io </s>. Vaša je igra ugrađena u preglednik i igrači mogu donirati bilo koji iznos ako im se vaša igra sviđa.",
+        "learn_more": "Saznaj više",
+        "host_a_sale": "Organiziraj popust",
+        "design_your_games_page": "Dizajniraj stranicu svoje igre",
+        "my_dashboard": "Moja Nadzorna ploča",
+        "product_summary2": "Možete čak postaviti i minimalnu cijenu za svoju igru, dajući obožavateljima mogućnost da za vašu igru plate onoliko koliko oni žele.",
+        "page_header": "Izradite prilagođenu stranicu za trenutnu distribuciju ili prodaju svojih indie igara"
+    },
+    "user_register": {
+        "page_title": "Registrirajte račun",
+        "register_form": {
+            "other_registration_methods": "Ostali načini registracije",
+            "username": "Korisničko ime",
+            "url_preview": "Vaša profilna stranica biti će",
+            "repeat_password": "Ponovite lozinku",
+            "password": "Lozinka",
+            "your_email_address": "Vaša adresa e-pošte",
+            "interest_developer": "Zainteresiran sam za distribuciju sadržaja na itch.io",
+            "interest_gamer": "Zainteresiran sam za igranje ili preuzimanje igara na itch.io",
+            "accept_tos": "Prihvaćam <1>Uvjete pružanja usluge</1>",
+            "log_in": "Prijava",
+            "already_have_account": "ili već imate svoj račun?",
+            "create_account": "Kreiraj račun"
+        },
+        "create_an_account_on_itchio": "Kreiraj račun na itch.io"
     }
 }
