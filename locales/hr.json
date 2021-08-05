@@ -218,24 +218,126 @@
         }
     },
     "game": {
-        "community_posts_count_0": "",
-        "community_posts_count_1": "",
-        "community_posts_count_2": "",
+        "community_posts_count_0": "post",
+        "community_posts_count_1": "posta",
+        "community_posts_count_2": "postova",
         "community_post_author": "od {{username}}",
         "info_panel": {
-            "languages": "Jezici"
+            "languages": "Jezici",
+            "mentions": "Spominjanja",
+            "links": "Poveznice",
+            "singleplayer": "Jedan igrač",
+            "player_count": "Broj igrača",
+            "multiplayer": "Više igrača",
+            "accessibility": "Pristupačnost",
+            "inputs": "Ulazni uređaji",
+            "average_session_duration": "Prosječna sesija",
+            "code_license": "Licenca",
+            "tags": "Oznake",
+            "made_with_tools": "Napravljeno sa",
+            "genre": "Žanr",
+            "author": "Autor",
+            "authors": "Autori",
+            "rating": "Ocjena",
+            "release_date": "Datum izlaska",
+            "publisher": "Izdavač",
+            "platforms": "Platforme",
+            "category": "Kategorija",
+            "release_status": "Status",
+            "published_at": "Objavljeno",
+            "updated_at": "Ažurirano"
         },
         "comments": {
             "click_to_leave_a_comment": "Klikni za ostaviti komentar...",
             "leave_a_comment": "Ostavi komentar",
             "leave_a_comment_header": "Ostavi komentar",
-            "comments_header": "Komentari"
+            "comments_header": "Komentari",
+            "write_your_comment": "Napišite svoj komentar…",
+            "post_comment": "Objavi komentar",
+            "log_in_to_leave_comment": "<a>Prijavite se putem itch.io</a> da biste ostavili komentar."
         },
         "on_sale": "Na Sniženju!",
         "name_your_own_price": "Recite svoju cijenu",
         "download_demo_header": "Instaliraj demo",
         "purchase_header": "Kupi",
-        "download_header": "Instaliraj"
+        "download_header": "Instaliraj",
+        "after_download": {
+            "app_learn_more": "<s>Novo!</s> Isprobajte desktop aplikaciju od itch.io za preuzimanje i upravljanje vašom zbirkom. <a>Saznajte više</a>",
+            "powered_by": "<s>Pokreće</s> {{itchio_logo}}",
+            "see_everything": "Pogledaj sve",
+            "check_out_more_from_jam_title": "Pogledajte više od {{jam_title}}",
+            "check_popup_blocker": "Preuzimanje bi trebalo početi svaki trenutak. Ako se to ne dogodi, provjerite svoj blokator skočnih prozora.",
+            "more_from_creator": "Više od istog kreatora možete pronaći na njihovoj stranici: {{profile}}.",
+            "thanks_project_author": "Hvala na preuzimanju {{project}} od {{author}}.",
+            "thanks_for_downloading_title": "Hvala na preuzimanju",
+            "share_this_project": "Podijelite ovaj projekt"
+        },
+        "layout": {
+            "jam_submission": {
+                "you_rated_this_game": "Ocijenili ste ovu igru"
+            },
+            "footer": {
+                "updated_date": "Ažurirano {{date}}",
+                "report": "Prijavi",
+                "view_all_by_username": "Prikaži sve od {{username}}"
+            },
+            "ownership": {
+                "purchased_for_price": "Kupljeno za {{price}}",
+                "purchased_in_a_bundle_for_price": "Kupljeno u paketu za {{price}}",
+                "you_were_gifted_this": "Ovo vam je poklonjeno",
+                "you_havent_sent_this_gift_to_anyone_yet": "Ovaj poklon još niste poslali nikome",
+                "percent_off": "{{percent}}% popusta",
+                "download": "Preuzmi",
+                "send_gift": "Pošalji poklon",
+                "you_own_this": "Posjeduješ ovo"
+            },
+            "related_games": "Srodne igre",
+            "rate_this_noun": "Ocijeni {{noun}}",
+            "rate": "Ocijeni",
+            "edit_rating": "Uredite ocjenu",
+            "edit_your_rating": "Uredite svoju ocjenu",
+            "community": "Zajednica",
+            "comments": "Komentari",
+            "add_to_collection_short": "Zbirka",
+            "add_to_collection": "Dodaj u zbirku",
+            "following_username": "Prati {{username}}",
+            "follow_username": "Prati {{username}}",
+            "following": "Prati",
+            "follow": "Prati",
+            "creator": "Kreator"
+        },
+        "upload_list": {
+            "empty_message": "Ništa još nije dostupno za preuzimanje.",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Ova će datoteka biti dostupna kada je kreator prenese",
+            "version_name": "Verzija {{version_name}}",
+            "if_you_pay_price_or_more": "ako platiš {{price}} ili više",
+            "play_in_browser": "Igraj u pregledniku",
+            "download": "Preuzmi",
+            "preorder": "Prednaruči"
+        },
+        "join_the_community": "Pridruži se zajednici",
+        "community_header": "Zajednica",
+        "empty_page_no_uploads": "Kreator nije još ništa prenio...",
+        "donate_button": "Podržite {{noun}}",
+        "steam_key_bundle_disclaimer": "(Napomena: Steam ključ nije uključen u {{bundle_title}})",
+        "your_purchase_comes_with_a_steam_key": "Uz vašu kupnju dobivate Steam ključ.",
+        "devlog_view_all_posts": "Pogledajte sve postove",
+        "in_order_to_access": "Da biste pristupili {{noun}}, potrebno je kupiti po minimalnoj cijeni od {{price}} ili iznad nje.",
+        "development_log_header": "Dnevnik razvoja",
+        "price_or_more": "{{price}} <s>ili više</s>",
+        "percent_off": "<s>{{percent}}%</s> popusta",
+        "buy_now_button": "Kupi sada",
+        "preorder_button": "Prednaručite sada",
+        "download_now_button": "Preuzmi sada",
+        "will_be_available_in": "Biti će dostupno za {{time_remaining}}.",
+        "also_available_header": "Dostupno i na",
+        "available_header": "Dostupno na",
+        "get_access_preorder": "Nakon objavljivanja dobit ćete pristup sljedećim datotekama:",
+        "get_access": "Dobit ćete pristup sljedećim datotekama:",
+        "download_access": "Kliknite preuzmi sada za pristup sljedećim datotekama:",
+        "install_instructions": "Upute za instalaciju",
+        "more_information": "Više informacija",
+        "empty_page": "Čini se da ovdje nema ničega..."
     },
     "user_login": {
         "login_form": {
@@ -277,7 +379,12 @@
         "design_your_games_page": "Dizajniraj stranicu svoje igre",
         "my_dashboard": "Moja Nadzorna ploča",
         "product_summary2": "Možete čak postaviti i minimalnu cijenu za svoju igru, dajući obožavateljima mogućnost da za vašu igru plate onoliko koliko oni žele.",
-        "page_header": "Izradite prilagođenu stranicu za trenutnu distribuciju ili prodaju svojih indie igara"
+        "page_header": "Izradite prilagođenu stranicu za trenutnu distribuciju ili prodaju svojih indie igara",
+        "track_your_game_description": "Pratite kako ljudi gledaju vašu igru s detaljnom analitikom koja obuhvaća preglede, preuzimanja i kupnje. Želite pokrenuti promociju? Generirajte ključeve za preuzimanje kako biste ljudima omogućili pristup vašoj igri.",
+        "design_your_games_page_description": "Izradite prilagođenu stranicu za svoju igru na kojoj ljudi kupuju ili preuzimaju vašu igru. Vi birate boje, fontove, slike i video zapise. Budući da je to vaša stranica igre, na njoj nećete pronaći ništa što niste sami tamo stavili.",
+        "create_account_or_login": "<1>Kreiraj račun</1> <em>ili</em> <2>Prijava</2>",
+        "share_message": "itch.io jednostavan je način besplatne distribucije vaših indie igara na internetu.",
+        "learn_more_about": "Saznaj više o:"
     },
     "user_register": {
         "page_title": "Registrirajte račun",
@@ -296,5 +403,35 @@
             "create_account": "Kreiraj račun"
         },
         "create_an_account_on_itchio": "Kreiraj račun na itch.io"
+    },
+    "app": {
+        "meta_description": "itch, najbolji način za preuzimanje i igranje indie igara. Preuzmite besplatne igre i upravljajte svojom bibliotekom sa radne površine. Sada je dostupan za Windows, macOS i Linux.",
+        "page_title": "Preuzmi aplikaciju",
+        "community_description": "Saznajte više o razvoju aplikacije <1>u našoj zajednici</1>. Podijelite zahtjeve za značajke i općenite povratne informacije s ostalim članovima itch.io. Ako ste programer, bit će vam drago čuti da je cijeli projekt <2>otvorenog koda na GitHubu</2>, radujemo se vašim zahtjevima za povlačenjem.",
+        "community_header": "Pridruži se zajednici",
+        "download_now": "Preuzmi sada",
+        "languages_description": "Aplikacija itch dostupna je na više od 20 jezika, zahvaljujući zajednici itch.io! <a>Saznajte više o prevođenju</a>",
+        "languages_header": "Dostupno na vašem jeziku",
+        "web_games_description": "Možete sinkronizirati sve igre temeljene na pregledniku izravno u aplikaciji, što vam omogućuje da ih igrate bez povezivanja na internet kad god želite. Kad se ponovno povežete na internet, po potrebi ćete moći preuzeti sva ažuriranja.",
+        "web_games_header": "Igre u pregledniku bez povezivanja na internet",
+        "updates_description": "Ne samo da će se igre koje ste instalirali automatski ažurirati, već će se i aplikacija automatski transformirati dok pokrećemo nove funkcionalnosti i značajke. Igre koje koriste naše nove alate za naredbeni redak generirat će <em>delta zakrpe</em>, osiguravajući da preuzimate samo ono što se promijenilo kada izađu nove igre.",
+        "updates_header": "Uvijek ažurirano",
+        "browse_description": "Na itch.io kreatori kontroliraju kako izgledaju stranice njihovih projekata. Ugrađeni preglednik omogućuje vam preuzimanje i instaliranje igara dok istražujete <a>jedinstvene dizajne stranica naših kreatora</a>.",
+        "read_the_app_guide": "Pročitajte vodič za aplikaciju",
+        "updates": "Ažuriranja",
+        "learn_more_below": "Saznajte više u nastavku",
+        "summary": "itch.io aplikacija, <s> itch </s>, omogućuje vam da bez napora preuzimate i pokrećete igre i softver s itch.io. Sva vaša preuzimanja čuvaju se na jednom mjestu i automatski se ažuriraju. Pristupite svojim zbirkama i kupnjama ili pretražujte nove igre putem preglednika u aplikaciji.",
+        "for_platforms": "Za <1>Windows</1>, <2>macOS</2>, i <3>Linux</3>",
+        "start_download": "Započni preuzimanje",
+        "tagline": "Instalirajte, ažurirajte i igrajte indie igre",
+        "share_message": "itch, desktop aplikacija za indie igre"
+    },
+    "search": {
+        "search_results_for_query": "Rezultati pretraživanja za '{{query}}'",
+        "browse_all_games": "Pretražuj sve igre",
+        "view_all_tags": "Pogledaj sve oznake",
+        "published_count_0": "{{count}} projekt",
+        "published_count_1": "{{count}} projekta",
+        "published_count_2": "{{count}} projekti"
     }
 }
