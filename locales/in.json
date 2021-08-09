@@ -283,7 +283,7 @@
             "create_account": "Buat akun",
             "already_have_account": "atau sudah punya akun?",
             "log_in": "Masuk",
-            "link_product": "Pembelian <1>{{product}}</1> kamu akan ditautkan ke akunmu setelah mendaftar.",
+            "link_product": "Kamu membeli <1>{{product}}</1> akan ditautkan ke akunmu setelah mendaftar.",
             "accept_tos": "Saya setuju dengan <1>Syarat dan Ketentuan</1>",
             "digest_signup": "Daftarkan saya untuk berlangganan buletin dwibulanan itch.io"
         },
@@ -310,7 +310,7 @@
         "learn_more_about": "Selengkapnya tentang:",
         "share_message": "itch.io memudahkan penyebaran online game indie kamu secara gratis.",
         "create_account_or_login": "<1>Buat akun</1> <em>atau</em> <2>Masuk</2>",
-        "track_your_game_description": "Pantau bagaimana kesan orang-orang terhadap game kamu dengan analisis tayangan, unduhan, dan pembelian terperinci. Ingin mengadakan promosi? Hasilkan download key untuk memberikan akses game kamu ke orang lain."
+        "track_your_game_description": "Pantau bagaimana kesan orang-orang terhadap game kamu dengan analisis tayangan, unduhan, dan pembelian terperinci. Ingin mengadakan promosi? Hasilkan kunci unduhan untuk memberikan akses game kamu ke orang lain."
     },
     "blog": {
         "all_posts": "Semua postingan",
@@ -510,7 +510,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Utas ini telah diarsipkan dan tidak dapat menerima postingan lagi",
+            "topic_is_archived": "Topik ini telah diarsipkan dan tidak dapat menerima postingan lagi",
             "reply": "Balasan",
             "log_in_to_reply": "Masuk untuk memberi balasan",
             "unsubscribe": "Berhenti ikuti utas",
@@ -593,7 +593,8 @@
             "recent_posts_header": "Postingan terbaru",
             "new_flag": "Baru",
             "archived_flag": "Terarsip",
-            "by_topic_author": "oleh {{username}}"
+            "by_topic_author": "oleh {{username}}",
+            "view_this_communitys_rules": "Lihat aturan komunitas..."
         },
         "topic_list": {
             "started_by_author": "dimulai oleh {{topic_author}}",
@@ -604,7 +605,8 @@
             "sticky_flag": "Terlekat",
             "locked_flag": "Terkunci",
             "list_header_topic_title": "Utas",
-            "list_header_last_post": "Postingan terakhir"
+            "list_header_last_post": "Postingan terakhir",
+            "no_replies_yet": "Belum ada balasan"
         },
         "post_form": {
             "add_profile_image": "Tambahkan gambar profil",
@@ -980,7 +982,7 @@
             },
             "score_information": "Skor disesuaikan dari skor murni berdasarkan nilai tengah rating per game di game jam.",
             "rated_by_people_count": "Sejauh ini telah dinilai oleh {{count}} orang",
-            "rated_by_people_count_plural": "Sejauh ini telah dinilai oleh {{count}} orang",
+            "rated_by_people_count_plural": "Dinilai oleh {{count}} orang sejauh ini",
             "rate_submission": {
                 "owner_message": "Ini kiriman karya kamu, tidak diperbolehkan untuk menilai karya sendiri. Namun, peserta lain di game jam ini dapat memberi rating untuk proyek kamu di sini.",
                 "sign_up_to_vote": "<a>Daftar dengan akun itch.io</a> untuk memberi voting dan komentar.",
@@ -1314,5 +1316,9 @@
         "unverified_email": {
             "title": "Alamat email kamu tidak terverifikasi"
         }
+    },
+    "notifications": {
+        "unseen_label": "Baru",
+        "page_title": "Pemberitahuan"
     }
 }
