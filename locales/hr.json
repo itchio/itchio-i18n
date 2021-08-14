@@ -461,7 +461,10 @@
             "page_header": "Profil",
             "language_description": "Jezik itch.io korisničkog sučelja",
             "language": "Jezik",
-            "language_community_translation": "<s>itch.io prevode članovi naše zajednice.</s> Neki jezici su samo djelomično dostupni. Ako želite vidjeti itch.io na svom jeziku ili pomoći u ispravljanju grešaka možete doprinijeti. <a>Saznajte više</a>"
+            "language_community_translation": "<s>itch.io prevode članovi naše zajednice.</s> Neki jezici su samo djelomično dostupni. Ako želite vidjeti itch.io na svom jeziku ili pomoći u ispravljanju grešaka možete doprinijeti. <a>Saznajte više</a>",
+            "profile_description": "Sadržaj stranice vašeg profila",
+            "profile": "Profil",
+            "use_dark_theme": "Koristi tamnu temu gdje je moguće"
         },
         "navigation": {
             "thirdparty_analytics": "Analitika trećih strana",
@@ -490,7 +493,27 @@
             "payment_header": "Plaćanje",
             "basics_header": "Osnovno"
         },
-        "account_settings": "Postavke računa"
+        "account_settings": "Postavke računa",
+        "email_addresses": {
+            "additional_emails_header": "Dodatne adrese e-pošte",
+            "change_password_instructions": "Kad promijenite svoju adresu e-pošte, morate je potvrditi za pristup svim igrama koje ste kupili. Upute za potvrdu bit će vam poslane e-poštom. Iz sigurnosnih razloga morate unijeti i svoju trenutnu lozinku kako biste učinili bilo kakve promjene svojoj adresi e-pošte.",
+            "primary_email_description": "Vaša primarna adresa e-pošte je mjesto na koje ćete dobivati sve itch.io obavijesti.",
+            "change_email_form": {
+                "current_password": "Trenutna lozinka",
+                "new_email_address": "Nova adresa e-pošte"
+            },
+            "your_primary_email_address": "Vaša primarna adresa e-pošte: {{email}}",
+            "primary_email_header": "Primarna adresa e-pošte"
+        },
+        "password": {
+            "new_password_again": "Ponovite novu lozinku",
+            "password_again": "Ponovite lozinku",
+            "new_password": "Nova lozinka",
+            "password": "Lozinka",
+            "current_password": "Trenutna lozinka",
+            "set_password": "Postavi lozinku",
+            "reset_password": "Promjena lozinke"
+        }
     },
     "buy_form_popup": {
         "powered_by_itchio": "omogućuje {{itchio}}"
