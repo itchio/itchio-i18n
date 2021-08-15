@@ -54,9 +54,9 @@
             "sales_bundles": "Sniženja i paketi",
             "host_game_jam": "Organiziraj game jam",
             "view_profile": "Pogledaj profil",
-            "account_menu_tooltip": "Računski meni",
+            "account_menu_tooltip": "Izbornik računa",
             "feed": "Moje novosti",
-            "new_project": "Prebaci novi projekt"
+            "new_project": "Prenesi novi projekt"
         }
     },
     "itchio": "itch.io",
@@ -113,7 +113,8 @@
         "get_the_app": "<s>Dobite maksimum od itch.io!</s> Instalirajte i upravljajte svojim igricama sa našom desktop aplikacijom",
         "dont_see_anything_you_like": "Ne vidite ništa što volite?",
         "view_something_random": "Pogledaj nešto nasumično",
-        "popular_tags": "Popularni Tagovi"
+        "popular_tags": "Popularni Tagovi",
+        "fresh_games_description": "Konstantno se ažurira najnovijim igrama na itch.io"
     },
     "misc": {
         "classifications": {
@@ -133,14 +134,17 @@
             "one_button": "Jedan botun",
             "textless": "Bez teksta",
             "highcontrast": "Visoki kontrast",
-            "configurable_controls": "Podesive kontrole"
+            "configurable_controls": "Podesive kontrole",
+            "blind": "Za slijepe",
+            "tutorial": "Interaktivni vodič"
         },
         "inputs": {
             "keyboard": "Tipkovnica",
             "mouse": "Miš",
             "dance_pad": "Plesna podloga",
             "accelerometer": "Akcelerometar",
-            "voice": "Glasovno upravljanje"
+            "voice": "Glasovno upravljanje",
+            "gamepad": "Kontroler (svi)"
         },
         "loading_more_ellip": "Učitavanje više…",
         "more_ellip": "Više…",
@@ -215,6 +219,10 @@
             "half_hour": "Oko pola sata",
             "minutes": "Nekoliko minuta",
             "seconds": "Nekoliko sekundi"
+        },
+        "multiplayer_features": {
+            "server": "Više igrača preko mrežnog servera",
+            "local": "Više igrača lokalno"
         }
     },
     "game": {
@@ -337,7 +345,21 @@
         "download_access": "Kliknite preuzmi sada za pristup sljedećim datotekama:",
         "install_instructions": "Upute za instalaciju",
         "more_information": "Više informacija",
-        "empty_page": "Čini se da ovdje nema ničega..."
+        "empty_page": "Čini se da ovdje nema ničega...",
+        "password_required": {
+            "header": "Za pregled ove stranice potrebna je lozinka"
+        },
+        "report_form": {
+            "reason_other": "Ostalo",
+            "reason_label": "Razlog",
+            "description_label": "Opis",
+            "report_received_header": "Izvješće je primljeno",
+            "title": "Prijavi stranicu '{{page_title}}'",
+            "submit_report_button": "Predajte izvješće",
+            "email_creator_link": "Kontaktirajte kreatora putem e-pošte",
+            "support_page_link": "Idite na službenu stranicu podrške",
+            "support_from_creator": "Imate li problema, trebate li podršku kreatora?"
+        }
     },
     "user_login": {
         "login_form": {
@@ -370,7 +392,8 @@
     },
     "blog": {
         "updates": "Ažuriranja",
-        "all_posts": "Svi postovi"
+        "all_posts": "Svi postovi",
+        "tag_filter": "Filtriranje po {{tag}}. <a>Očisti oznaku</a>"
     },
     "developers": {
         "browser_game_description": "Zaradite novac od igre u pregledniku stavljajući ju na<s> itch.io </s>. Vaša je igra ugrađena u preglednik i igrači mogu donirati bilo koji iznos ako im se vaša igra sviđa.",
@@ -546,5 +569,11 @@
         "filter_by_tag": "Filtriraj po oznakama",
         "view_all_tags": "Pogledaj sve oznake",
         "filter_group_platform": "Platforma"
+    },
+    "community": {
+        "topic": {
+            "log_in_to_reply": "Prijavite se da biste odgovorili",
+            "reply": "Odgovori"
+        }
     }
 }
