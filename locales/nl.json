@@ -514,7 +514,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Dit onderwerp is gearchiveerd en er kan niet meer in gereageerd worden",
+            "topic_is_archived": "Dit onderwerp is gearchiveerd. Het is verborgen en er kunnen geen nieuwe berichten worden geplaatst.",
             "reply": "Reageren",
             "log_in_to_reply": "Log in om te reageren",
             "unlisted_topic_notice": "<s>Een moderator heeft dit onderwerp onzichtbaar gemaakt.</s>Je kunt het niet zien op de lijst met onderwerpen, maar je kunt er nog steeds in reageren en bewerkingen maken.",
@@ -612,7 +612,8 @@
             "list_header_last_topic": "Nieuwste onderwerp",
             "new_flag": "Nieuw",
             "archived_flag": "Gearchiveerd",
-            "by_topic_author": "door {{username}}"
+            "by_topic_author": "door {{username}}",
+            "view_this_communitys_rules": "Bekijk de regels van deze community..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> view",
@@ -625,7 +626,8 @@
             "sticky_flag": "Vastgeprikt",
             "locked_flag": "Vergrendeld",
             "list_header_topic_title": "Onderwerp",
-            "list_header_last_post": "Nieuwste bericht"
+            "list_header_last_post": "Nieuwste bericht",
+            "no_replies_yet": "Nog geen reacties"
         }
     },
     "buy_form": {
@@ -1335,5 +1337,9 @@
         "unverified_email": {
             "title": "Je email-adres is niet geverifieerd"
         }
+    },
+    "notifications": {
+        "unseen_label": "Nieuw",
+        "page_title": "Meldingen"
     }
 }
