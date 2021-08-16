@@ -651,7 +651,7 @@
         "filter_group_price": "Preț"
     },
     "buy_form": {
-        "agree_to_terms": "Prin completarea a unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
+        "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
         "included_files": "Fișiere incluse",
         "preorder_title": "Pre-comandați '{{title}}'",
         "buy_title": "Cumpărați '{{title}}'",
@@ -669,6 +669,27 @@
         "percent_off_until": "Reducere <s>{{rate}}%</s> la toate achizițiile până la {{end_date}}.",
         "support_message": "Susțineți dezvoltarea acestui proiect prin donarea",
         "on_sale_notice": "Acest produs este la o reducere.",
-        "download_title": "Descărcați '{{title}}'"
+        "download_title": "Descărcați '{{title}}'",
+        "contact_support_on_error": "Dacă problema persistă, vă rugăm să contactați <a>itch.io suport</a> cu toate detaliile relevante.",
+        "generic_error": "Există o problemă cu achiziția dvs: {{error}}",
+        "billing_address": "Adresa de facturare",
+        "continue_payment": "Continuă plata",
+        "go_back": "Du-te înapoi",
+        "credit_card": "Carte",
+        "check_out_with": "Plătiți cu",
+        "support_the_creator_with_an_additional_contribution": "Sprijiniți creatorul cu o contribuție suplimentară",
+        "support_the_creator_by_paying_above_the_minimum_price": "Sprijiniți creatorul plătind peste prețul minim"
+    },
+    "collection": {
+        "remove_item_button": "Eliminați...",
+        "page_title": "{{collection_title}} - Colectarea de {{author}}",
+        "a_collection_by_author": "O colecție de {{author}}",
+        "pending_invitation": "Aveți o invitație în așteptare pentru a contribui la această colecție. <a>Consultați invitația</a>",
+        "private_collection_message": "Această colecție este privată, numai contribuitorii îi pot vedea conținutul",
+        "empty_collection_message": "Nu există nimic în această colecție.",
+        "edit_contributors": "Editează contribuitori",
+        "edit_collection": "Editează colecția",
+        "last_updated_date": "ultima actualizare {{date}}",
+        "authors": "o colecție de {{author}}"
     }
 }
