@@ -648,7 +648,13 @@
         "gift_button": "Cadou"
     },
     "browse": {
-        "filter_group_price": "Preț"
+        "filter_group_price": "Preț",
+        "sort": "Sortare",
+        "sort_most_recent": "Cele mai recente",
+        "sort_top_rated": "Cele mai votate",
+        "sort_top_sellers": "Cele mai bine vândute",
+        "sort_new_and_popular": "Nou și popular",
+        "sort_popular": "Popular"
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
@@ -692,6 +698,10 @@
         "edit_contributors": "Editează contribuitori",
         "edit_collection": "Editează colecția",
         "last_updated_date": "ultima actualizare {{date}}",
-        "authors": "o colecție de {{author}}"
+        "authors": "o colecție de {{author}}",
+        "remove_confirm": "Sunteți sigur că doriți să eliminați acest lucru din colecție",
+        "blurb_author_says": "{{author}} spune",
+        "edit_blurb": "Editează textul",
+        "add_a_blurb": "Adaugă un text"
     }
 }
