@@ -654,7 +654,11 @@
         "sort_top_rated": "Cele mai votate",
         "sort_top_sellers": "Cele mai bine vândute",
         "sort_new_and_popular": "Nou și popular",
-        "sort_popular": "Popular"
+        "sort_popular": "Popular",
+        "results_count_0": "{{count}} rezultat",
+        "results_count_1": "{{count}} rezultate",
+        "results_count_2": "{{count}} de rezultate",
+        "results_count_plural": "{{count}} rezultate"
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
