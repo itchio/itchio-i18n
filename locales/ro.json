@@ -593,7 +593,11 @@
             "views_count_1": "<s>{{count}}</s> vizualizări",
             "views_count_2": "<s>{{count}}</s> vizualizări",
             "list_header_last_post": "Ultima postare",
-            "new_flag": "Nou"
+            "new_flag": "Nou",
+            "no_replies_yet": "Nicio răspunsuri încă",
+            "list_header_topic_title": "Subiect",
+            "locked_flag": "Închis",
+            "sticky_flag": "Fixat"
         },
         "category": {
             "view_this_communitys_rules": "Vezi regulile acestei comunități...",
@@ -650,6 +654,21 @@
         "agree_to_terms": "Prin completarea a unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
         "included_files": "Fișiere incluse",
         "preorder_title": "Pre-comandați '{{title}}'",
-        "buy_title": "Cumpărați '{{title}}'"
+        "buy_title": "Cumpărați '{{title}}'",
+        "i_already_paid_for_this": "Am plătit deja pentru asta...",
+        "gift_email_instructions": "Vei alege un e-mail la care să trimiți cadoul după ce ai plătit",
+        "email_address_description": "Confirmarea plății va fi trimisă aici",
+        "your_email_address": "Adresa ta de email",
+        "download_this_product_by_purchasing_it_for": "Descărcați acest produs achiziționându-l pentru {{price}} sau mai mult.",
+        "preorder_this_product_by_purchasing_it_for": "Precomandați acest produs achiziționându-l pentru {{price}} sau mai mult.",
+        "includes_steam_key": "Veți primi o cheie Steam cu achiziția dvs.",
+        "no_thanks_just_take_me_to_the_downloads": "Nu, mulțumesc, doar du-mă la descărcări",
+        "free_pay_what_you_want": "Acest proiect este gratuit, dar creatorul acceptă sprijinul dvs., permițându-vă să plătiți ceea ce credeți că este corect.",
+        "buy_as_bundle_plural": "Puteți cumpăra acest produs ca parte a unui pachet de {{count}} articole pentru {{price}}:",
+        "also_buy_as_bundle_plural": "De asemenea, puteți cumpăra acest produs ca parte a unui pachet de {{count}} articole pentru {{price}}:",
+        "percent_off_until": "Reducere <s>{{rate}}%</s> la toate achizițiile până la {{end_date}}.",
+        "support_message": "Susțineți dezvoltarea acestui proiect prin donarea",
+        "on_sale_notice": "Acest produs este la o reducere.",
+        "download_title": "Descărcați '{{title}}'"
     }
 }
