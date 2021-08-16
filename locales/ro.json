@@ -678,7 +678,9 @@
         "credit_card": "Carte",
         "check_out_with": "Plătiți cu",
         "support_the_creator_with_an_additional_contribution": "Sprijiniți creatorul cu o contribuție suplimentară",
-        "support_the_creator_by_paying_above_the_minimum_price": "Sprijiniți creatorul plătind peste prețul minim"
+        "support_the_creator_by_paying_above_the_minimum_price": "Sprijiniți creatorul plătind peste prețul minim",
+        "pay_with": "Plătiți cu",
+        "this_purchase_is_a_gift": "Această achiziție este un cadou."
     },
     "collection": {
         "remove_item_button": "Eliminați...",
