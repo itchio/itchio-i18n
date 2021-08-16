@@ -584,7 +584,14 @@
             "subscribe_description": "Primiți notificări de răspunsuri noi la subiect"
         },
         "topic_list": {
-            "no_posts_yet": "Nicio postare încă"
+            "no_posts_yet": "Nicio postare încă",
+            "started_by_author": "început de {{topic_author}}",
+            "replies_count_0": "<s>{{count}}</s> răspuns",
+            "replies_count_1": "<s>{{count}}</s> răspunsuri",
+            "replies_count_2": "<s>{{count}}</s> răspunsuri",
+            "views_count_0": "<s>{{count}}</s> vizualizare",
+            "views_count_1": "<s>{{count}}</s> vizualizări",
+            "views_count_2": "<s>{{count}}</s> vizualizări"
         },
         "category": {
             "view_this_communitys_rules": "Vezi regulile acestei comunități...",
@@ -596,7 +603,16 @@
             "empty_message": "Nu există subiecte",
             "topics_count_0": "{{count}} subiect",
             "topics_count_1": "{{count}} subiecte",
-            "topics_count_2": "{{count}} subiecte"
+            "topics_count_2": "{{count}} subiecte",
+            "archived_flag": "Arhivate",
+            "list_header_last_topic": "Ultimul subiect",
+            "rules_header": "Reguli",
+            "stats": {
+                "topics": "Subiecte"
+            },
+            "unsubscribe_from_topics": "Dezabonați-vă",
+            "subscribe_to_new_topics": "Abonați-vă la subiecte noi",
+            "create_first_topic_button": "Creați primul subiect"
         },
         "misc": {
             "new_topic_button": "Subiect nou"
