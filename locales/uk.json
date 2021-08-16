@@ -573,7 +573,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Ця тема заархівована і в ній вже не можна додавати дописи",
+            "topic_is_archived": "Ця тема заархівована. Він не відображається у списку, і не можна додавати нові дописи.",
             "reply": "Відповісти",
             "log_in_to_reply": "Ввійдіть в акаунт, щоб відповісти",
             "unlisted_topic_notice": "<s>Модератор сховав цю тему.</s> Її не видно в списку тем, проте ви все ще можете в ній писати та редагувати повідомлення.",
@@ -674,7 +674,8 @@
             "by_topic_author": "від {{username}}",
             "topics_count_0": "{{count}} тема",
             "topics_count_1": "{{count}} теми",
-            "topics_count_2": "{{count}} тем"
+            "topics_count_2": "{{count}} тем",
+            "view_this_communitys_rules": "Переглянути правила цієї спільноти..."
         },
         "topic_list": {
             "no_posts_yet": "Пости ще відсутні",
@@ -689,7 +690,8 @@
             "views_count_2": "<s>{{count}}</s> переглядів",
             "replies_count_0": "<s>{{count}}</s> повідомлення",
             "replies_count_1": "<s>{{count}}</s> повідомлення",
-            "replies_count_2": "<s>{{count}}</s> повідомлень"
+            "replies_count_2": "<s>{{count}}</s> повідомлень",
+            "no_replies_yet": "Відповідей поки немає"
         }
     },
     "browse": {
@@ -1364,5 +1366,9 @@
         "unverified_email": {
             "title": "Ваш email не верифіковано"
         }
+    },
+    "notifications": {
+        "unseen_label": "Нові",
+        "page_title": "Повідомлення"
     }
 }
