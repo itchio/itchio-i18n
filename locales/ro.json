@@ -112,7 +112,7 @@
         "to_follow": {
             "created_projects": "S-a creat {{project_list}}",
             "empty_results": "Nu mai sunt recomandări. Incearcă mai târziu",
-            "refresh_button": "Reîmprospătează pentru mai multe...",
+            "refresh_button": "Reîmprospătează pentru mai multe",
             "dismiss_tooltip": "Nu mai sugera"
         }
     },
@@ -518,7 +518,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Acest subiect este arhivat și nu mai pot fi adăugate comentarii",
+            "topic_is_archived": "Acest subiect este în arhivă: nu este listat și nu puteți posta mesaje noi.",
             "reply": "Răspunde",
             "log_in_to_reply": "Conectează-te pentru a răspunde",
             "unlisted_topic_notice": "<s>Un moderator a ascuns subiectul.</s> Acesta nu mai este vizibil în listă dar încă poate fi editat și se pot primi comentarii.",
@@ -545,7 +545,7 @@
             "this_topic_is_locked": "Acest subiect este blocat",
             "this_topic_was_locked_by_username": "Subiectul a fost blocat de {{username}}",
             "create_related_topic": "Dacă vrei să postezi ceva asemănător poți <a>crea un subiect în {{category_name}}</a>.",
-            "topic_is_autoarchived": "Acest subiect a fost auto-arhivat și nu mai poate avea postări noi deoarece nimeni nu a mai postat de ceva timp."
+            "topic_is_autoarchived": "Acest subiect a fost auto-arhivat și nu mai poate posta postări noi, deoarece nimeni nu a postat de ceva timp."
         },
         "post_list": {
             "deleted_post": "Postare ștearsă",
@@ -565,14 +565,56 @@
             "edits_count_1": "({{count}} modificări)",
             "edits_count_2": "({{count}} modificări)",
             "edits_count_plural": "({{count}} modificări)",
-            "edit_blocks": "Modifică blocuri"
+            "edit_blocks": "Modifică blocuri",
+            "pinned_post": "Mesaj fixat",
+            "pinned_reply": "Răspuns fixat",
+            "vote_down": "Votează împotrivă",
+            "vote_up": "Votează pentru",
+            "ban": "Blochează..."
         },
         "post_form": {
             "subscribe_to_this_topic": "Abonează-te la acest subiect",
             "subscribe": "Abonează-te",
             "post": "Postează",
             "save": "Salvează",
-            "add_profile_image": "Adaugă poză de profil"
+            "add_profile_image": "Adaugă poză de profil",
+            "post_reply": "Publică un răspuns",
+            "remove_tag": "Elimină eticheta",
+            "tag_header": "Etichetă",
+            "subscribe_description": "Primiți notificări de răspunsuri noi la subiect"
+        },
+        "topic_list": {
+            "no_posts_yet": "Nicio postare încă"
+        },
+        "category": {
+            "view_this_communitys_rules": "Vezi regulile acestei comunități...",
+            "by_topic_author": "după {{username}}",
+            "new_flag": "Nou",
+            "recent_posts_header": "Postări recente",
+            "search_community_label": "Căutați în comunitate",
+            "there_arent_any_topics_yet": "Nu există încă subiecte",
+            "empty_message": "Nu există subiecte",
+            "topics_count_0": "{{count}} subiect",
+            "topics_count_1": "{{count}} subiecte",
+            "topics_count_2": "{{count}} subiecte"
+        },
+        "misc": {
+            "new_topic_button": "Subiect nou"
+        },
+        "new_topic": {
+            "page_title": "Postează un subiect nou",
+            "your_moderators_are": "itch.io nu moderează aceste panouri, moderatorii dvs. sunt:",
+            "topic_tag": "Etichetă",
+            "body": "Mesaj",
+            "title": "Titlu",
+            "see_community_guidelines": "Consultați <a>Regulile comunității</a> pentru itch.io politica comunitară.",
+            "this_a_community_run_message_board": "Aceasta o comunitate rula mesaj bord.",
+            "new_topic": "Subiect nou",
+            "i_agree_to_the_rules_above": "Sunt de acord cu regulile de mai sus",
+            "moderation_options": "Opțiuni",
+            "locked": "Închis",
+            "sticky": "Fixat",
+            "moderator_tools": "Instrumente de moderator"
         }
     },
     "nags": {
