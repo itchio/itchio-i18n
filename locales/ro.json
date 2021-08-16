@@ -591,7 +591,9 @@
             "replies_count_2": "<s>{{count}}</s> răspunsuri",
             "views_count_0": "<s>{{count}}</s> vizualizare",
             "views_count_1": "<s>{{count}}</s> vizualizări",
-            "views_count_2": "<s>{{count}}</s> vizualizări"
+            "views_count_2": "<s>{{count}}</s> vizualizări",
+            "list_header_last_post": "Ultima postare",
+            "new_flag": "Nou"
         },
         "category": {
             "view_this_communitys_rules": "Vezi regulile acestei comunități...",
@@ -643,5 +645,11 @@
     },
     "browse": {
         "filter_group_price": "Preț"
+    },
+    "buy_form": {
+        "agree_to_terms": "Prin completarea a unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
+        "included_files": "Fișiere incluse",
+        "preorder_title": "Pre-comandați '{{title}}'",
+        "buy_title": "Cumpărați '{{title}}'"
     }
 }
