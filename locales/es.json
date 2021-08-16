@@ -407,7 +407,7 @@
             "unlisted_topic_notice": "<s>Un moderador ha hecho privado este tema.</s> Ya no es visible en la lista de temas pero todavía puedes responder y editar.",
             "log_in_to_reply": "Inicia sesión para responder",
             "reply": "Responder",
-            "topic_is_archived": "Este tema está archivado y ya no se puede participar en él"
+            "topic_is_archived": "Este tema está archivado. No está listado y no se pueden realizar nuevas publicaciones."
         },
         "misc": {
             "new_topic_button": "Tema nuevo"
@@ -429,7 +429,8 @@
             "stats": {
                 "topics": "Temas"
             },
-            "unsubscribe_from_topics": "Cancela la suscripción"
+            "unsubscribe_from_topics": "Cancela la suscripción",
+            "view_this_communitys_rules": "Ver las reglas de esta comunidad..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> Ver",
@@ -442,7 +443,8 @@
             "started_by_author": "Iniciado por {{topic_author}}",
             "replies_count": "<s>{{count}}</s> Responder",
             "replies_count_plural": "<s>{{count}}</s> Responder a varios",
-            "no_posts_yet": "No hay publicaciones aún"
+            "no_posts_yet": "No hay publicaciones aún",
+            "no_replies_yet": "Aún no hay respuestas"
         }
     },
     "game": {
@@ -1335,5 +1337,9 @@
         "empty_collection_message": "Esta colección está vacía",
         "nav_header": "Biblioteca",
         "redeem_button": "Redimir"
+    },
+    "notifications": {
+        "unseen_label": "Nuevos",
+        "page_title": "Notificaciones"
     }
 }
