@@ -509,5 +509,8 @@
         "unverified_email": {
             "title": "آدرس ایمیل شما تأیید نشده است"
         }
+    },
+    "feed": {
+        "filter_devlogs_tab": "گزارش های توسعه دهندگان"
     }
 }
