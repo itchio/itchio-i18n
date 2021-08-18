@@ -35,7 +35,7 @@
         "creepy": "عجیب و غریب",
         "creative": "خلاق",
         "cozy": "دنج",
-        "controller": "کنترل کننده",
+        "controller": "کنترلر",
         "comedy": "نمایش خنده دار",
         "colorful": "رنگارنگ",
         "co-op": "همکاری",
@@ -44,7 +44,7 @@
         "christmas": "کریسمس",
         "chicken": "مرغ",
         "chess": "شطرنج",
-        "character-customization": "شخصیت سفارشی",
+        "character-customization": "سفارشی سازی شخصیت",
         "card-game": "بازی کارتی",
         "bullet-hell": "جهنم گلوله",
         "breakout": "شکستن",
@@ -146,6 +146,18 @@
         "abstract": "انتزاعی",
         "alternate-history": "تاریخ متناوب",
         "automation": "اتوماسیون",
-        "atmospheric": "جوی"
+        "atmospheric": "جوی",
+        "fps": "تیر اندازی اول شخص",
+        "feel-good": "احساس خوب",
+        "fast-paced": "پرشتاب",
+        "fairy-tale": "افسانه",
+        "erotic": "شهوت انگیز",
+        "dystopian": "فاسدگرانه",
+        "dungeon-crawler": "خزنده سیاه چال",
+        "drm-free": "بدون DRM",
+        "dark-humor": "طنز تلخ",
+        "cult-classic": "کلاسیک فرقه",
+        "crafting": "دست سازی",
+        "coming-of-age": "رسیدن به بلوغ"
     }
 }
