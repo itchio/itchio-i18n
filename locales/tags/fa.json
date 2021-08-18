@@ -44,7 +44,7 @@
         "christmas": "کریسمس",
         "chicken": "مرغ",
         "chess": "شطرنج",
-        "character-customization": "شخصی سازی شخصیت",
+        "character-customization": "شخصیت سفارشی",
         "card-game": "بازی کارتی",
         "bullet-hell": "جهنم گلوله",
         "breakout": "شکستن",
@@ -54,7 +54,7 @@
         "black-and-white": "سیاه و سفید",
         "asteroids": "سیارک ها",
         "art-book": "کتاب هنری",
-        "archery": "تیراندازی",
+        "archery": "کمانداری",
         "arcade": "آرکید",
         "anime": "انیمه",
         "animals": "حیوانات",
@@ -140,6 +140,10 @@
         "time-travel": "زمان سفر",
         "time-attack": "زمان حمله",
         "third-person-shooter": "تیرانداز سوم شخص",
-        "third-person": "سوم شخص"
+        "third-person": "سوم شخص",
+        "casual": "تفننی",
+        "beat-em-up": "کتک کاری",
+        "abstract": "انتزاعی",
+        "alternate-history": "تاریخ متناوب"
     }
 }
