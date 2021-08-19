@@ -31,11 +31,11 @@
         "dark": "تاریک",
         "cyberpunk": "سایبرپانک",
         "cute": "جذاب",
-        "crime": "جرم",
+        "crime": "جنایت",
         "creepy": "عجیب و غریب",
         "creative": "خلاق",
-        "cozy": "دنج",
-        "controller": "کنترلر",
+        "cozy": "راحت",
+        "controller": "دسته",
         "comedy": "طنز",
         "colorful": "رنگارنگ",
         "co-op": "دو نفره",
@@ -258,6 +258,11 @@
         "otome": "اتوم",
         "fmv": "FMV",
         "altgame": "بازی آلت",
-        "4x": "4ایکس"
+        "4x": "4ایکس",
+        "turn-based-strategy": "استراتژی نوبتی",
+        "turn-based-combat": "مبارزه نوبتی",
+        "turn-based": "نوبتی",
+        "traps": "تله ها",
+        "transgender": "ترنسجندر"
     }
 }
