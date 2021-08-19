@@ -514,7 +514,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Dieses Thema ist archiviert und es kann nicht länger darin gepostet werden",
+            "topic_is_archived": "Dieses Thema ist archiviert und es kann nicht länger darin gepostet werden.",
             "reply": "Antworten",
             "log_in_to_reply": "Anmelden, um zu antworten",
             "unlisted_topic_notice": "<s>Ein Moderator hat dieses Thema versteckt.</s> Es ist nicht mehr in der Themenliste sichtbar, aber du kannst noch immer antworten und Bearbeitungen machen.",
