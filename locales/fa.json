@@ -538,7 +538,35 @@
         "trouble_downloading_link": "بارگیری ها شروع نمی شوند؟",
         "or_share_on": "یا اشتراک گذاری در",
         "social_share_message_download": "من فقط {{title}} را توسط {{username}} بارگیری کردم",
-        "share_and_follow": "به اشتراک بگذارید و دنبال کنید"
+        "share_and_follow": "به اشتراک بگذارید و دنبال کنید",
+        "claim_external_key": "طلب کلید {{key_type}}",
+        "get_external_key": "دریافت کلید {{key_type}}",
+        "access_existing_copy": "نمی توانید نسخه دیگری را دریافت کنید ، اما می توانید به نسخه موجود خود دسترسی پیدا کنید.",
+        "already_own": "به نظر می رسد شما صاحب این هستید",
+        "must_link_account_description": "قبل از بارگیری ، باید این صفحه را به یک حساب itch.io پیوند دهید. حساب ها رایگان هستند و به شما امکان می دهد هر بازی را که جمع آوری کرده اید پیگیری کنید.",
+        "link_account_description": "می توانید این صفحه بارگیری را به یک حساب itch.io پیوند دهید تا هرگز نگران از دست دادن آن نباشید. در کنار هر چیز دیگری که مالک آن هستید نشان داده می شود.",
+        "link_account_header": "این صفحه بارگیری را به حساب itch.io خود پیوند دهید",
+        "log_in_to_link": "برای پیوند وارد شوید",
+        "link_my_account": "پیوند حساب من",
+        "linked_user_message": "این صفحه به حساب {{username}} پیوند داده شده است.",
+        "header": {
+            "discussion_board": "تابلوی بحث",
+            "return_to_project": "بازگشت به پروژه",
+            "view_all_my_purchases": "مشاهده همه خریدهای من",
+            "download_title": "بارگیری {{project_title}}",
+            "preorder_title": "پیش خرید برای {{project_title}}",
+            "view_rest_in_bundle": "مشاهده همه در بسته",
+            "more_menu": "بیشتر",
+            "invoice": "صورتحساب"
+        },
+        "version_name": "نسخه {{version_name}}",
+        "start_project_button": "شروع",
+        "play_in_your_browser": "در مرورگر خود بازی کنید",
+        "app_banner": {
+            "app_description": "بازی های خود را با برنامه دسکتاپ itch.io نصب و مدیریت کنید",
+            "get_the_app": "دریافت برنامه"
+        },
+        "preorder_instructions": "این پروژه دارای فایل هایی است که هنوز منتشر نشده اند. وقتی سازنده فایل ها را برای بارگیری منتشر کرد ، به این صفحه برگردید."
     },
     "user_settings": {
         "email_addresses": {
