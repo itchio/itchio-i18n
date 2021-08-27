@@ -510,7 +510,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Topik ini telah diarsipkan dan tidak dapat menerima postingan lagi",
+            "topic_is_archived": "Utas ini telah diarsipkan. Utas ini telah tidak terdaftar dan tidak dapat menerima post lagi.",
             "reply": "Balasan",
             "log_in_to_reply": "Masuk untuk memberi balasan",
             "unsubscribe": "Berhenti ikuti utas",
