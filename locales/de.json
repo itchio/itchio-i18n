@@ -612,7 +612,8 @@
             "list_header_last_topic": "Letztes Thema",
             "new_flag": "Neu",
             "archived_flag": "Archiviert",
-            "by_topic_author": "von {{username}}"
+            "by_topic_author": "von {{username}}",
+            "view_this_communitys_rules": "Sehe dir die Regeln dieser Community an..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> Aufruf",
@@ -625,7 +626,8 @@
             "sticky_flag": "Angepinnt",
             "locked_flag": "Geschlossen",
             "list_header_topic_title": "Thema",
-            "list_header_last_post": "Letzter Post"
+            "list_header_last_post": "Letzter Post",
+            "no_replies_yet": "Noch keine Antworten"
         }
     },
     "buy_form": {
@@ -1335,5 +1337,9 @@
             "you_rated_this_project_ago": "Du hast dieses Projekt vor {{time_ago}} bewertet."
         },
         "redeem_button": "Einlösen"
+    },
+    "notifications": {
+        "unseen_label": "Neu",
+        "page_title": "Benachrichtigungen"
     }
 }
