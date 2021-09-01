@@ -573,7 +573,27 @@
     "community": {
         "topic": {
             "log_in_to_reply": "Prijavite se da biste odgovorili",
-            "reply": "Odgovori"
+            "reply": "Odgovori",
+            "this_topic_was_locked_by_username": "{{username}} je zaključao ovu temu razgovora",
+            "this_topic_is_locked": "Ova tema razgovora je zaključana",
+            "last_page": "Posljednja stranica",
+            "first_page": "Prva stranica",
+            "previous_page": "Prošla stanica",
+            "next_page": "Sljedeća stranica",
+            "a_topic_by_username_created_time_ago": "Tema razgovora od {{username}} stvorena datuma {{time_ago}}",
+            "views_count": "Pregledi: {{count}}",
+            "replies_count": "Odgovori: {{count}}",
+            "locked": "Zaključano",
+            "return_to_topic_list": "Povratak na listu tema razgovora",
+            "subscribe": "Pretplati me",
+            "unsubscribe": "Otkaži pretplatu",
+            "bookmark": "Zabilježi",
+            "remove_bookmark": "Ukloni zabilješku",
+            "new_reply": "Novi odgovor",
+            "this_reply_will_go_to_the_topic_author": "Ovaj odgovor će ići autoru teme razgovora, {{username}}.",
+            "this_reply_will_go_to_yourself": "Ovaj odgovor će ići vama.",
+            "join_the_discussion": "Pridružite se diskusiji. Prijavite se ili stvorite besplatni itch.io račun za nastavak.",
+            "unlisted_topic_notice": "<s>Moderator je uklonio ovu temu razgovora s liste.</s> Više nije vidljiva na popisu tema razgovora, ali i dalje možete odgovoriti i unijeti izmjene."
         }
     }
 }
