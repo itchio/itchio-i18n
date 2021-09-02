@@ -875,7 +875,7 @@
             "interest_gamer": "Voglio giocare e scaricare giochi su itch.io",
             "digest_signup": "Fammi unire alla newsletter bimestrale di itch.io",
             "accept_tos": "Ho letto e accetto i <1>Termini di Servizio</1>",
-            "link_product": "L'acquisto di <1>{{product}}</1> sara collegato al tuo account dopo la registrazione.",
+            "link_product": "L'acquisto di <1>{{product}}</1> sarà automaticamente collegato al tuo account dopo la registrazione.",
             "log_in": "Loggati",
             "already_have_account": "oppure hai già un account?",
             "create_account": "Unisciti a itch.io"
@@ -1228,7 +1228,7 @@
             "unlisted_topic_notice": "<s>Un moderatore ha tolto questo argomento dalla lista.</s> Non è più visibile ma puoi sempre rispondere o modificarlo.",
             "log_in_to_reply": "Loggati per rispondere",
             "reply": "Rispondi",
-            "topic_is_archived": "Questo argomento è stato archiviato e non è più visibile"
+            "topic_is_archived": "Questo argomento è stato archiviato. Non è in elenco e nessun nuovo post può essere creato."
         }
     },
     "feed": {
