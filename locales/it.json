@@ -1146,7 +1146,8 @@
             "empty_message": "Sembra che non ci siano commenti",
             "create_first_topic_button": "Posta il primo commento",
             "topics_count": "{{count}} commento",
-            "topics_count_plural": "{{count}} commenti"
+            "topics_count_plural": "{{count}} commenti",
+            "view_this_communitys_rules": "Leggi le regole delle community..."
         },
         "misc": {
             "new_topic_button": "Nuovo commento"
