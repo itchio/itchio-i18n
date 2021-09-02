@@ -839,7 +839,7 @@
         "creators": "Creatori:"
     },
     "developers": {
-        "track_your_game_description": "Guarda sempre il modo in cui le persone vedono il tuo gioco con analisi dettagliate su visite, downloads e acquisti. Vuoi fare una promozione? Genera delle \"chiavi\" per il download per far accedere le persone al tuo gioco.",
+        "track_your_game_description": "Guarda sempre il modo in cui le persone vedono il tuo gioco con analisi dettagliate su visite, download e acquisti. Vuoi fare una promozione? Genera delle chiavi per il download per far accedere le persone al tuo gioco.",
         "upload_or_dashboard": "<1>Carica un gioco</1> <em>oppure</em> <2>Vai alla dashboard</2>",
         "create_account_or_login": "<1>Crea un account</1> <em>oppure</em> <2>Loggati</2>",
         "share_message": "itch.io è un modo semplice di distribuire i tuoi giochi online gratuitamente.",
@@ -1147,7 +1147,7 @@
             "create_first_topic_button": "Posta il primo commento",
             "topics_count": "{{count}} commento",
             "topics_count_plural": "{{count}} commenti",
-            "view_this_communitys_rules": "Leggi le regole delle community..."
+            "view_this_communitys_rules": "Leggi le regole della community..."
         },
         "misc": {
             "new_topic_button": "Nuovo commento"
