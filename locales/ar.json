@@ -545,7 +545,7 @@
             "subscribe": "إشتراك",
             "replies_count": "الردود:{{count}}",
             "views_count": "المشاهدات:{{count}}",
-            "topic_is_archived": "تم أرشفة هذا الموضوع ولم يعد بالإمكان المشاركة به",
+            "topic_is_archived": "تم أرشفة هذا الموضوع. ولم يعد بالإمكان المشاركة به.",
             "unlisted_topic_notice": "<s>قام أحد المشرفين بإلغاء إدراج هذا الموضوع.</s> إنه غير مرئي في قائمة الموضوعات ولكن لا يزال بإمكانك الرد وإجراء التعديلات.",
             "join_the_discussion": "اشترك في النقاش. سجل الدخول أو انشئ حساب itch.io مجانًا للمتابعة.",
             "reply_to_someone_else": "هل تريد الرد على شخص آخر؟ أضغط <s>رد</s> تحت منشوره.",
@@ -634,7 +634,8 @@
             "topics_count_2": "{{count}} موضوع",
             "topics_count_3": "{{count}} مواضيع",
             "topics_count_4": "{{count}} مواضيع",
-            "topics_count_5": "{{count}}"
+            "topics_count_5": "{{count}}",
+            "view_this_communitys_rules": "تعرف علي قوانين هذا المجتمع..."
         },
         "topic_list": {
             "new_flag": "جديد",
@@ -655,7 +656,8 @@
             "replies_count_2": "<s>{{count}}</s> رد",
             "replies_count_3": "<s>{{count}}</s> ردود",
             "replies_count_4": "<s>{{count}}</s> ردود",
-            "replies_count_5": "<s>{{count}}</s>"
+            "replies_count_5": "<s>{{count}}</s>",
+            "no_replies_yet": "لا ردود حتي الآن"
         },
         "misc": {
             "new_topic_button": "موضوع جديد"
@@ -1439,5 +1441,9 @@
         "games_created_3": "<s>{{count}}العاب</s> تم إنشائها للكوم المستضافة عل itch.io.",
         "games_created_4": "<s>{{count}}لعبة</s> تم إنشائها للكوم المستضافة عل itch.io.",
         "games_created_5": "<s>{{count}}لعبة</s> تم إنشائها للكوم المستضافة عل itch.io."
+    },
+    "notifications": {
+        "unseen_label": "جديد",
+        "page_title": "الاشعارات"
     }
 }
