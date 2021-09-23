@@ -433,7 +433,7 @@
         "name_your_own_price": "Изберете сума по свой избор",
         "development_log_header": "Журнал на разработката",
         "donate_button": "Подкрепете това ({{noun}})",
-        "in_order_to_access": "За да получите достъп до този продукто ({{noun}}), трябва да платите {{price}} или повече.",
+        "in_order_to_access": "За да получите достъп до този продукт ({{noun}}), трябва да платите {{price}} или повече.",
         "unavailable": "Този артикул ({{game_noun}}) в момента е недостъпен"
     },
     "buy_form": {
@@ -471,7 +471,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Тази тема е заключена и в нея вече не може да се пише",
+            "topic_is_archived": "Тази тема е заключена. Тя вече не се показва никъде и в нея не може да се пише.",
             "reply": "Отговор",
             "log_in_to_reply": "Влезте, за да отговорите",
             "unlisted_topic_notice": "<s>Тази тема е скрита от модератор.</s> Тя няма да се вижда в списъка с теми, но въпреки това можете да отговаряте и да правите редакции.",
@@ -517,7 +517,8 @@
             "empty_message": "Няма теми",
             "create_first_topic_button": "Създаване на първата тема",
             "topics_count": "{{count}} тема",
-            "topics_count_plural": "{{count}} теми"
+            "topics_count_plural": "{{count}} теми",
+            "view_this_communitys_rules": "Преглед на правилата на тази общност…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> преглеждане",
@@ -530,7 +531,8 @@
             "sticky_flag": "Закачено",
             "locked_flag": "Заключено",
             "list_header_topic_title": "Тема",
-            "list_header_last_post": "Последна публикация"
+            "list_header_last_post": "Последна публикация",
+            "no_replies_yet": "Все още няма отговори"
         },
         "misc": {
             "new_topic_button": "Нова тема"
@@ -568,7 +570,7 @@
             "deleted_post": "Изтрита публикация",
             "post_from_blocked_account": "Публикация от блокиран акаунт",
             "edits_count": "({{count}} редакция)",
-            "edits_count_plural": "({{count}} промени)",
+            "edits_count_plural": "({{count}} редакции)",
             "reply": "Отговаряне",
             "like": "Харесване",
             "edit": "Редактиране",
@@ -1335,5 +1337,9 @@
     "buy_form_popup": {
         "author_line": "<1>от</1> {{author}}",
         "powered_by_itchio": "с подкрепата на {{itchio}}"
+    },
+    "notifications": {
+        "unseen_label": "Нови",
+        "page_title": "Известия"
     }
 }
