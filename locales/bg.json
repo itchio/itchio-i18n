@@ -378,7 +378,8 @@
             "follow_username": "Следване на {{username}}",
             "following_username": "Следвате {{username}}",
             "add_to_collection": "Добавяне към колекция",
-            "submission_to_jam": "Участва в {{jam_title}}"
+            "submission_to_jam": "Участва в {{jam_title}}",
+            "rate_this_noun": "Оценете това"
         },
         "after_download": {
             "share_this_project": "Споделяне на този проект",
