@@ -1318,6 +1318,7 @@
         }
     },
     "notifications": {
-        "page_title": "알림"
+        "page_title": "알림",
+        "unseen_label": "신규"
     }
 }
