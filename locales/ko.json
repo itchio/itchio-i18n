@@ -281,7 +281,7 @@
             "create_account": "계정 만들기",
             "already_have_account": "아니면 이미 계정을 가지셨나요?",
             "log_in": "로그인",
-            "link_product": "구매내역 <1>{{product}}</1>은/는 등록을 하신 뒤에 당신 계정에 자동으로 연결됩니다.",
+            "link_product": "<1>{{product}}</1>의 구매내역은 등록 후 계정에 자동으로 연결됩니다.",
             "accept_tos": "저는 <1>이용약관</1>에 동의 합니다",
             "digest_signup": "매월 2번씩 발행되는 itch.io 뉴스레터에 구독",
             "interest_gamer": "저는 itch.io에 있는 게임들을 플레이하거나 다운로드 하는 데에 관심 있습니다",
