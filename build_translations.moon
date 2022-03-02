@@ -93,7 +93,7 @@ if args.format == "lua"
 
     table.insert translations, {
       :found
-      completion_ratio: found / #source_keys
+      -- completion_ratio: found / #source_keys
     }
 
 import parse_tags, chunk_to_syntax from require "helpers.compiler"
