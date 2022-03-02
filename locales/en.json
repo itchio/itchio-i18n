@@ -168,7 +168,8 @@
             "submit": "Submit",
             "optional": "Optional",
             "search": "Search",
-            "form_errors": "Please check the information you provided"
+            "form_errors": "Please check the information you provided",
+            "confirm": "Confirm"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
