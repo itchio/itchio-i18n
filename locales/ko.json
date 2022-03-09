@@ -166,7 +166,8 @@
             "submit": "제출",
             "optional": "선택",
             "search": "검색",
-            "form_errors": "제공한 정보를 확인해주세요"
+            "form_errors": "제공한 정보를 확인해주세요",
+            "confirm": "확인"
         },
         "platforms": {
             "web": "웹"
