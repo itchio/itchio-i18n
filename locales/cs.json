@@ -524,7 +524,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Toto téma bylo archivováno a již v něm nelze zveřejňovat příspěvky",
+            "topic_is_archived": "Toto téma bylo archivováno. Nejde již v něm zveřejňovat příspěvky.",
             "reply": "Odpovědět",
             "log_in_to_reply": "K odpovědi se přihlašte",
             "this_reply_will_go_to_yourself": "Odpovídáte sami sobě.",
@@ -629,7 +629,12 @@
             "unsubscribe_from_topics": "Odhlásit odběr",
             "subscribe_to_new_topics": "Přihlaste se k odběru nových témat",
             "empty_message": "Nejsou zde žádná témata",
-            "create_first_topic_button": "Vytvořte první téma"
+            "create_first_topic_button": "Vytvořte první téma",
+            "view_this_communitys_rules": "Zobrazit pravidla této komunity",
+            "by_topic_author": "od {{username}}",
+            "archived_flag": "Archivované",
+            "search_community_label": "Prohledejte komunitu",
+            "there_arent_any_topics_yet": "Nejsou zde zatím žádné témata"
         }
     },
     "buy_form": {
