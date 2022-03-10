@@ -333,7 +333,8 @@
             "submit": "Odeslat",
             "optional": "Nepovinný",
             "search": "Hledat",
-            "form_errors": "Prosím zkontroluj informace které jsi odeslal"
+            "form_errors": "Prosím zkontroluj informace které jsi odeslal",
+            "confirm": "Potvrdit"
         },
         "page_number": "Strana {{page_number}}",
         "follow_button": {
@@ -605,6 +606,43 @@
         },
         "misc": {
             "new_topic_button": "Nové téma"
+        },
+        "topic_list": {
+            "no_replies_yet": "Zatím žádné odpovědi",
+            "list_header_last_post": "Poslední příspěvek",
+            "list_header_topic_title": "Téma",
+            "locked_flag": "Zamčeno",
+            "new_flag": "Nový",
+            "replies_count_0": "<s>{{count}}</s> odpověď",
+            "replies_count_1": "<s>{{count}}</s> odpovědi",
+            "replies_count_2": "<s>{{count}}</s> odpovědi",
+            "no_posts_yet": "Zatím žádné příspěvky"
+        },
+        "category": {
+            "new_flag": "Nový",
+            "list_header_last_topic": "Poslední téma",
+            "recent_posts_header": "Poslední příspěvky",
+            "rules_header": "Pravidla",
+            "stats": {
+                "topics": "Témata"
+            },
+            "unsubscribe_from_topics": "Odhlásit odběr",
+            "subscribe_to_new_topics": "Přihlaste se k odběru nových témat",
+            "empty_message": "Nejsou zde žádná témata",
+            "create_first_topic_button": "Vytvořte první téma"
         }
+    },
+    "buy_form": {
+        "includes_steam_key": "S nákupem obdržíte Steam klíč.",
+        "free_pay_what_you_want": "Tento projekt je zdarma, ale tvůrce přijímá vaši podporu tím, že vám umožňuje platit to, co považujete za spravedlivé.",
+        "buy_as_bundle_plural": "Tento produkt můžete také zakoupit jako součást balíčku {{count}} položek za {{price}}:",
+        "also_buy_as_bundle_plural": "Tento produkt můžete také zakoupit jako součást balíčku {{count}} položek za {{price}}:",
+        "percent_off_until": "Všechny nákupy jsou <s>{{rate}}%</s> se slevou do {{end_date}}.",
+        "support_message": "Podpořte rozvoj tohoto projektu darem",
+        "on_sale_notice": "Tento produkt je v prodeji.",
+        "sold_out_notice": "Tento produkt je momentálně vyprodaný, vraťte se později.",
+        "preorder_title": "Předobjednávka '{{title}}'",
+        "buy_title": "Koupit '{{title}}'",
+        "download_title": "Stažení '{{title}}'"
     }
 }
