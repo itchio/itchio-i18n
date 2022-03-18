@@ -263,7 +263,7 @@
             "updated_at": "به روز شد"
         },
         "more_information": "اطلاعات بیشتر",
-        "download_header": "بارگیری",
+        "download_header": "دانلود",
         "unavailable": "این {{game_noun}} هم‌اکنون در دسترس نیست",
         "purchase_header": "خرید",
         "install_instructions": "دستورالعمل نصب",
@@ -280,16 +280,16 @@
             "submit_report_button": "ارائه گزارش"
         },
         "after_download": {
-            "app_learn_more": "<s> جدید! </s> برای بارگیری و مدیریت کتابخانه خود برنامه رومیزی itch.io را امتحان کنید. <a> بیشتر بیاموزید </a>",
-            "powered_by": "<s>طراحی شده توسط </s> {{itchio_logo}}",
-            "see_everything": "همه چیز را ببینید",
-            "more_from_itchio_header": "اطلاعات بیشتر را از itch.io ببینید",
-            "view_all_from_jam": "مشاهده همه از گردهمایی",
-            "check_out_more_from_jam_title": "از {{jam_title}} بیشتر ببینید",
-            "check_popup_blocker": "بارگیری باید به زودی شروع شود. اگر چنین نشد ، مسدود کننده پنجره خود را بررسی کنید.",
+            "app_learn_more": "<s>جدید!</s> برای دانلود و مدیریت کتابخانه‌ی خود، نرم‌افزار دسکتاپ itch.io را امتحان کنید. <a>اطلاعات بیشتر</a>",
+            "powered_by": "<s>قدرت گرفته از</s> {{itchio_logo}}",
+            "see_everything": "مشاهده‌ی همه چیز",
+            "more_from_itchio_header": "مشاهده‌ی موارد بیشتر از itch.io",
+            "view_all_from_jam": "مشاهده‌ی همه‌ی موارد رویداد",
+            "check_out_more_from_jam_title": "مشاهده‌ی موارد بیشتر از {{jam_title}}",
+            "check_popup_blocker": "دانلود باید به زودی شروع شود. در صورت شروع نشدن، لطفا مسدود کننده‌ی پاپ‌آپ مرورگر خود را بررسی کنید.",
             "more_from_creator": "می توانید موارد بیشتری را از همین سازنده در صفحه آنها پیدا کنید: {{profile}}.",
-            "thanks_project_author": "از بارگیری {{project}} توسط {{author}} متشکریم.",
-            "thanks_for_downloading_title": "تشکر برای بارگیری کردن",
+            "thanks_project_author": "از دانلود {{project}} توسط {{author}} متشکریم.",
+            "thanks_for_downloading_title": "از دانلود شما متشکریم",
             "share_this_project": "این پروژه را به اشتراک بگذارید"
         },
         "layout": {
@@ -314,7 +314,7 @@
                 "claimed": "دریافت شده",
                 "you_havent_sent_this_gift_to_anyone_yet": "شما هنوز این هدیه را برای کسی نفرستاده اید",
                 "percent_off": "{{percent}}% تخفیف",
-                "download": "بارگیری",
+                "download": "دانلود",
                 "send_gift": "ارسال هدیه",
                 "you_own_this": "شما صاحب این هستید"
             },
@@ -336,15 +336,15 @@
             "following": "دنبال می کنید",
             "follow": "دنبال کردن",
             "creator": "سازنده",
-            "view_all_by_name": "مشاهده همه بر اساس {{name}}"
+            "view_all_by_name": "نمایش همه‌ی کارهای {{name}}"
         },
         "upload_list": {
-            "empty_message": "هنوز چیزی برای بارگیری در دسترس نیست.",
+            "empty_message": "هنوز چیزی برای دانلود در دسترس نیست.",
             "this_file_will_be_available_when_the_creator_uploads_it": "این فایل وقتی در دسترس خواهد بود که سازنده آن را بارگذاری کند",
             "version_name": "نسخه {{version_name}}",
             "if_you_pay_price_or_more": "اگر {{price}} یا بیشتر بپردازید",
             "play_in_browser": "در مرورگر بازی کنید",
-            "download": "بارگیری",
+            "download": "دانلود",
             "preorder": "پیش خرید"
         },
         "community_sticky": "چسبنده",
@@ -378,15 +378,15 @@
         "name_your_own_price": "قیمت خود را بگویید",
         "buy_now_button": "اکنون خرید کنید",
         "preorder_button": "اکنون پیش خرید کنید",
-        "download_now_button": "اکنون بارگیری کنید",
-        "download_or_claim_button": "بارگیری یا درخواست کنید",
+        "download_now_button": "اکنون دانلود کنید",
+        "download_or_claim_button": "دانلود یا خرید",
         "will_be_available_in": "در دسترس خواهد بود {{time_remaining}}.",
         "also_available_header": "همچنین موجود در",
         "available_header": "موجود در",
-        "download_demo_header": "دانلود نسخه ی نمایشی",
-        "get_access_preorder": "به فایل های زیر پس از انتشار دسترسی پیدا خواهید کرد:",
-        "get_access": "به فایل های زیر دسترسی پیدا خواهید کرد:",
-        "download_access": "برای دسترسی به فایل های زیر ، بارگیری را کلیک کنید:",
+        "download_demo_header": "دانلود نسخه‌ی نمایشی",
+        "get_access_preorder": "به فایل‌های زیر پس از انتشار دسترسی پیدا خواهید کرد:",
+        "get_access": "به فایل‌های زیر دسترسی پیدا خواهید کرد:",
+        "download_access": "برای دسترسی به فایل‌های زیر، روی دانلود کلیک کنید:",
         "empty_page": "به نظر می رسد اینجا هیچ چیزی نباشد ...",
         "password_required": {
             "header": "برای مشاهده این صفحه به یک گذرواژه نیاز است"
@@ -459,6 +459,11 @@
     "jam": {
         "stats": {
             "ratings": "رتبه‌بندی‌ها"
+        },
+        "submission": {
+            "run_project": "اجرای پروژه",
+            "play_game": "اجرای بازی",
+            "downloads": "دانلودها"
         }
     },
     "developers": {
@@ -475,7 +480,7 @@
         "upload_or_dashboard": "<1>بارگذاری بازی جدید</1> <em>یا</em> <2>رفتن به داشبورد</2>",
         "track_your_game_description": "با تجزیه و تحلیل دقیق شامل بازدیدها ، بارگیری ها و خریدها ، نحوه مشاهده افراد از بازی شما را دنبال کنید. آیا می خواهید تبلیغاتی انجام دهید؟ برای دسترسی دادن افراد به بازی شما کلیدهای بارگیری ایجاد کنید.",
         "design_your_games_page_description": "یک صفحه سفارشی برای بازی خود ایجاد کنید که افراد بازی شما را خریداری یا بارگیری کنند. شما رنگ ها ، فونت ها ، تصاویر و فیلم ها را انتخاب می کنید. از آنجا که صفحه بازی شما است ، چیزی را که در آن قرار نداده اید در آن پیدا نخواهید کرد.",
-        "upload_your_game_description": "بازی مستقل خود را به صورت رایگان در <s>itch.io</s>بارگذاری کنید. ما میزبان بازی شما ، همراه با اسکرین شات های بازی شما و سایر بارگیری ها هستیم. بارگیری های شما همیشه در دسترس و همیشه سریع است.",
+        "upload_your_game_description": "بازی مستقل خود را به صورت رایگان در <s>itch.io</s>آپلود کنید. ما میزبان بازی شما، همراه با اسکرین‌شات‌ها و سایر فایل‌های آن خواهیم بود. فایل‌های شما همیشه در دسترس بوده و همیشه به سرعت قابل دانلود هستند.",
         "browser_game_description": "با میزبانی بازی مرورگر خود در <s>itch.io</s> از بازی درآمد کسب کنید. بازی شما در مرورگر جاسازی شده است و بازیکنان می توانند هر مبلغی را که می خواهند در صورت علاقه به بازی شما اهدا کنند.",
         "host_a_sale_description": "با ارائه بازی های خود با قیمت تخفیف دار در هر دوره زمانی ، بازی های خود را تبلیغ کنید و خریدهای بیشتری کسب کنید.",
         "host_a_sale": "میزبانی حراج",
@@ -502,7 +507,7 @@
         "languages_header": "در زبان شما موجود است",
         "download_now": "اکنون بارگیری کن",
         "community_header": "پیوستن به انجمن",
-        "page_title": "دانلود برنامه",
+        "page_title": "دانلود اپ",
         "for_platforms": "برای <1>ویندوز</1>, <2>مکینتاش</2>, و <3>لینوکس</3>",
         "contribute_link": "می‌خواهید مشارکت کنید؟ <a>مشاهده سورس در گیت‌هاب</a>",
         "meta_description": "itch ، بهترین راه برای بارگیری و بازی بازی های مستقل است. بازی های رایگان را بارگیری کرده و کتابخانه خود را از دسکتاپ خود مدیریت کنید. اکنون برای Windows ، macOS و Linux در دسترس است.",
@@ -526,34 +531,34 @@
         "filter_devlogs_tab": "گزارش های توسعه دهنده"
     },
     "game_download": {
-        "check_your_email_for_the_confirmation_link": "ایمیل خود را برای پیوند تأیید بررسی کنید.",
+        "check_your_email_for_the_confirmation_link": "ایمیل خود را برای لینک تایید بررسی کنید.",
         "alternate_download": {
-            "region_message": "برخی از مناطق CDN مربوط به itch.io را مسدود می کنند. اگر بارگیری های شما شروع نمی شود ، می توانید حالت بارگیری جایگزین را فعال کرده و دوباره امتحان کنید.",
-            "title": "حالت بارگیری جایگزین",
-            "enable_alternate_download_mode": "حالت بارگیری جایگزین را فعال کنید"
+            "region_message": "برخی کشورها، CDN سرور itch.io را مسدود کرده‌اند. اگر دانلود شروع نمی‌شود، می‌توانید حالت دانلود جایگزین را فعال کرده و دوباره امتحان کنید.",
+            "title": "حالت دانلود جایگزین",
+            "enable_alternate_download_mode": "فعال کردن حالت دانلود جایگزین"
         },
-        "check_out_more_from_jam_title": "از {{jam_title}} بیشتر ببینید",
-        "recommendations_title": "ممکن است به اینها نیز علاقه داشته باشید",
-        "install_instructions_intro": "دستورالعمل ها را از {{username}} بارگیری و نصب کنید:",
-        "trouble_downloading_link": "بارگیری ها شروع نمی شوند؟",
+        "check_out_more_from_jam_title": "مشاهده‌ی موارد بیشتر از {{jam_title}}",
+        "recommendations_title": "ممکن است این موارد را نیز دوست داشته باشید",
+        "install_instructions_intro": "دستورالعمل‌های دانلود و نصب به نقل از {{username}}:",
+        "trouble_downloading_link": "دانلودها شروع نمی‌شوند؟",
         "or_share_on": "یا اشتراک گذاری در",
-        "social_share_message_download": "من فقط {{title}} را توسط {{username}} بارگیری کردم",
+        "social_share_message_download": "الان {{title}} ساخته شده توسط {{username}} رو دانلود کردم",
         "share_and_follow": "به اشتراک بگذارید و دنبال کنید",
         "claim_external_key": "طلب کلید {{key_type}}",
         "get_external_key": "دریافت کلید {{key_type}}",
         "access_existing_copy": "نمی توانید نسخه دیگری را دریافت کنید ، اما می توانید به نسخه موجود خود دسترسی پیدا کنید.",
-        "already_own": "به نظر می رسد شما صاحب این هستید",
-        "must_link_account_description": "قبل از بارگیری ، باید این صفحه را به یک حساب itch.io پیوند دهید. حساب ها رایگان هستند و به شما امکان می دهد هر بازی را که جمع آوری کرده اید پیگیری کنید.",
-        "link_account_description": "می توانید این صفحه بارگیری را به یک حساب itch.io پیوند دهید تا هرگز نگران از دست دادن آن نباشید. در کنار هر چیز دیگری که مالک آن هستید نشان داده می شود.",
-        "link_account_header": "این صفحه بارگیری را به حساب itch.io خود پیوند دهید",
+        "already_own": "به نظر می‌رسد شما صاحب این هستید",
+        "must_link_account_description": "قبل از دانلود، باید این صفحه را به یک حساب itch.io وصل کنید. ساخت حساب رایگان بوده و با استفاده از آن می‌توانید بازی‌هایی که خریده‌اید را دنبال کنید.",
+        "link_account_description": "می‌توانید این صفحه‌ی دانلود را به یک حساب itch.io وصل کنید تا هرگز آن را از دست ندهید. در این صورت، صفحه‌ی مورد نظر در کنار موارد دیگری که خریده‌اید نشان داده خواهد شد.",
+        "link_account_header": "این صفحه‌ی دانلود را به حساب itch.io خود وصل کنید",
         "log_in_to_link": "برای پیوند وارد شوید",
         "link_my_account": "پیوند حساب من",
         "linked_user_message": "این صفحه به حساب {{username}} پیوند داده شده است.",
         "header": {
             "discussion_board": "تابلوی بحث",
             "return_to_project": "بازگشت به پروژه",
-            "view_all_my_purchases": "مشاهده همه خریدهای من",
-            "download_title": "بارگیری {{project_title}}",
+            "view_all_my_purchases": "نمایش همه‌ی خریدهای من",
+            "download_title": "دانلود {{project_title}}",
             "preorder_title": "پیش خرید برای {{project_title}}",
             "view_rest_in_bundle": "مشاهده همه در بسته",
             "more_menu": "بیشتر",
@@ -564,9 +569,9 @@
         "play_in_your_browser": "در مرورگر خود بازی کنید",
         "app_banner": {
             "app_description": "بازی های خود را با برنامه دسکتاپ itch.io نصب و مدیریت کنید",
-            "get_the_app": "دریافت برنامه"
+            "get_the_app": "دریافت اپ"
         },
-        "preorder_instructions": "این پروژه دارای فایل هایی است که هنوز منتشر نشده اند. وقتی سازنده فایل ها را برای بارگیری منتشر کرد ، به این صفحه برگردید."
+        "preorder_instructions": "این پروژه دارای فایل‌هایی است که هنوز منتشر نشده‌اند. وقتی سازنده فایل‌ها را منتشر کرد می‌توانید به این صفحه برگردید."
     },
     "user_settings": {
         "email_addresses": {
@@ -614,8 +619,8 @@
             "content_description": "چگونه محتوا در itch.io به شما نشان داده شود",
             "content": "محتوا",
             "default_language_option": "پیش فرض (در حالت بتای زبانها روی انگلیسی تنظیم شده است)",
-            "account_type_developer": "توسعه و بارگذاری بازی ها",
-            "account_type_gamer": "انجام و بارگیری بازی ها",
+            "account_type_developer": "توسعه و آپلود بازی‌ها",
+            "account_type_gamer": "اجرا و دانلود بازی‌ها",
             "account_type_description": "چگونه از حساب خود استفاده خواهید کرد",
             "account_type": "نوع حساب کاربری",
             "twitter_description": "حساب توییتر برای نمایش در نمایه شما",
@@ -697,6 +702,9 @@
             "access_control": {
                 "password_label": "گذرواژه"
             }
+        },
+        "stats": {
+            "downloads": "دانلودها"
         }
     },
     "buy_form_popup": {
@@ -721,7 +729,7 @@
         "filter_group_collection": "مجموعه",
         "filter_group_misc": "متفرقه",
         "filter_group_release_status": "وضعیت انتشار",
-        "type_downloadable": "قابل بارگیری",
+        "type_downloadable": "قابل دانلود",
         "filter_group_type": "نوع",
         "filter_group_accessibility_features": "ویژگی های دسترسی",
         "filter_group_multiplayer": "ویژگی های چند نفره",
@@ -769,11 +777,11 @@
         "i_already_paid_for_this": "من قبلاً هزینه این را پرداخته ام ...",
         "email_address_description": "تأیید پرداخت شما در اینجا ارسال می شود",
         "your_email_address": "آدرس ایمیل شما",
-        "download_this_product_by_purchasing_it_for": "این محصول را با خرید به قیمت {{price}} یا بیشتر بارگیری کنید.",
+        "download_this_product_by_purchasing_it_for": "این محصول را با خرید به قیمت {{price}} یا بیشتر دانلود کنید.",
         "preorder_this_product_by_purchasing_it_for": "با قیمت {{price}} یا بیشتر این محصول را پیش خرید کنید.",
         "gift_email_instructions": "پس از پرداخت وجه ، ایمیلی را برای ارسال هدیه انتخاب خواهید کرد",
         "includes_steam_key": "با خرید خود یک کلید Steam دریافت خواهید کرد.",
-        "no_thanks_just_take_me_to_the_downloads": "نه متشکرم ، فقط من را به قسمت بارگیری ها ببرید",
+        "no_thanks_just_take_me_to_the_downloads": "نه ممنون، من را به قسمت دانلودها ببر",
         "free_pay_what_you_want": "این پروژه رایگان است اما سازنده حمایت های شما را با پرداخت مقداری که فکر می کنید منصفانه است می پذیرد.",
         "buy_as_bundle_plural": "شما می توانید این محصول را در بخشی از مجموعه ای از {{count}} مورد به قیمت {{price}} خریداری کنید:",
         "also_buy_as_bundle_plural": "همچنین می توانید این محصول را در بخشی از مجموعه ای از {{count}} موارد به قیمت {{price}} خریداری کنید:",
@@ -783,7 +791,7 @@
         "sold_out_notice": "این محصول در حال حاضر کامل فروخته شده است ، بعداً بررسی کنید.",
         "preorder_title": "پیش خرید '{{title}}'",
         "buy_title": "خرید '{{title}}'",
-        "download_title": "بارگیری '{{title}}'"
+        "download_title": "دانلود '{{title}}'"
     },
     "collection": {
         "remove_confirm": "آیا مطمئن هستید که می خواهید این مورد را از مجموعه حذف کنید",
