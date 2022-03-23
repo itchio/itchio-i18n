@@ -422,7 +422,8 @@
         "sort_new_and_popular": "新品 & 热门",
         "sort_popular": "人气",
         "results_count": "{{count}}个结果",
-        "filter_everything_else": "其他"
+        "filter_everything_else": "其他",
+        "results_count_plural": "{{count}}个结果"
     },
     "collection": {
         "remove_confirm": "您确定将该商品从该合集移除吗",
@@ -890,13 +891,13 @@
                 "vote": "投票"
             },
             "rated_by_people_count": "{{count}}位用户已打分",
-            "rated_by_people_count_plural": "目前共有{{count}}位用户评分",
+            "rated_by_people_count_plural": "{{count}}位用户已打分",
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "submitted_by_contributors": "由 {{contributors}} 提交",
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
             "results_header": "结果",
             "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
-            "ranked_from_count_plural": "依据<s>{{count}}个评分</s>而排名。",
+            "ranked_from_count_plural": "排名依据<s>{{count}}个评分</s>。",
             "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
             "run_project": "运行项目",
             "play_game": "玩游戏",
@@ -1266,7 +1267,8 @@
             "submit": "提交",
             "email_address": "电子邮箱",
             "save": "保存",
-            "required": "必填"
+            "required": "必填",
+            "confirm": "确认"
         },
         "durations": {
             "days": "一天及以上",
