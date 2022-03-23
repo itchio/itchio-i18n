@@ -166,7 +166,8 @@
             "submit": "提交",
             "optional": "可选",
             "search": "搜索",
-            "form_errors": "请检查您提供的信息"
+            "form_errors": "请检查您提供的信息",
+            "confirm": "确认"
         },
         "page_number": "第{{page_number}}页",
         "follow_button": {
