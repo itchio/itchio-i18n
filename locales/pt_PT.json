@@ -130,10 +130,10 @@
             "colorblind": "Adaptado para daltónicos",
             "subtitles": "Legendas",
             "configurable_controls": "Controlos configuráveis",
-            "highcontrast": "Alto-contraste",
+            "highcontrast": "Alto contraste",
             "tutorial": "Tutorial interativo",
             "one_button": "Um botão",
-            "blind": "Adaptado para cegueira",
+            "blind": "Adaptado para cegos",
             "textless": "Sem texto"
         },
         "multiplayer_features": {
@@ -162,9 +162,9 @@
             "days": "Dias ou mais"
         },
         "forms": {
-            "required": "Requerido",
+            "required": "Obrigatório",
             "save": "Guardar",
-            "email_address": "Endereço de Email",
+            "email_address": "Endereço de e-mail",
             "submit": "Submeter",
             "optional": "Opcional",
             "search": "Pesquisar",
@@ -188,7 +188,7 @@
             "current_page_of_total": "Página {{current_page}} de {{total_pages}}"
         },
         "filter_price": {
-            "on_sale": "Em Promoção",
+            "on_sale": "Em promoção",
             "free": "Grátis",
             "paid": "Pago"
         },
@@ -202,16 +202,16 @@
         },
         "loading_more_ellip": "A carregar mais…",
         "errors": {
-            "server_error": "O servidor não está a responder, por favor, tenta novamente mais tarde"
+            "server_error": "O servidor não está a responder, tenta novamente mais tarde"
         },
         "collection_button": {
-            "add_to_collection": "Adicionar à coleção"
+            "add_to_collection": "Adicionar a uma coleção"
         },
-        "more_ellip": "Mais...",
+        "more_ellip": "Mais…",
         "release_statuses": {
             "prototype": "Protótipo",
             "canceled": "Cancelado",
-            "on_hold": "Em espera",
+            "on_hold": "Em suspenso",
             "in_development": "Em desenvolvimento",
             "released": "Lançado"
         },
@@ -255,7 +255,7 @@
             "already_have_account": "ou já tens uma conta?",
             "create_account": "Criar conta"
         },
-        "create_an_account_on_itchio": "Cria uma conta no itch.io"
+        "create_an_account_on_itchio": "Criar uma conta no itch.io"
     },
     "user_login": {
         "errors": {
@@ -265,18 +265,18 @@
         "welcome_back": "Bem-vindo(a) de volta!",
         "you_are_logged_out": "Terminaste a sessão",
         "page_title": "Iniciar sessão",
-        "no_account_prompt": "Não tens uma conta? <1>Cria uma conta</1>",
+        "no_account_prompt": "Não tens uma conta? <1>Criar uma conta</1>",
         "intent": {
-            "claim_object_title": "Por favor, inicia sessão ou cria uma conta para reivindicar {{title}}.",
+            "claim_object_title": "Por favor, inicia sessão ou cria uma conta reivindicares {{title}}.",
             "recent_purchases": "Inicia sessão para vincular quaisquer compras que efetuaste recentemente.",
-            "claim_object": "Por favor, inicia sessão ou cria uma conta para reivindicar {{noun}}.",
-            "jam_submit": "Precisas de uma conta no itch.io antes que possas submeter a uma jam.",
-            "collection": "Precisas de uma conta no itch.io antes que possas adicionar a uma coleção.",
-            "follow_username": "Precisas de uma conta no itch.io antes que possas seguir <1>{{username}}</1>.",
-            "follow": "Precisas de uma conta no itch.io antes que possas seguir alguém.",
-            "rate_game": "Precisas de uma conta no itch.io antes que possas avaliar um jogo.",
-            "comment": "Precisas de uma conta no itch.io antes de deixar um comentário.",
-            "community": "Precisas de iniciar sessão para participar nas comunidades do itch.io. Criar uma conta é grátis e leva apenas alguns momentos."
+            "claim_object": "Por favor, inicia sessão ou cria uma conta para reivindicares {{noun}}.",
+            "jam_submit": "Precisas de uma conta no itch.io antes de poderes submeter a uma jam.",
+            "collection": "Precisas de uma conta no itch.io antes de poderes adicionar a uma coleção.",
+            "follow_username": "Precisas de uma conta no itch.io antes de poderes seguir <1>{{username}}</1>.",
+            "follow": "Precisas de uma conta no itch.io antes de poderes seguir alguém.",
+            "rate_game": "Precisas de uma conta no itch.io antes de poderes avaliar um jogo.",
+            "comment": "Precisas de uma conta no itch.io antes de poderes deixar um comentário.",
+            "community": "Precisas de iniciar sessão para participar nas comunidades do itch.io. Criar uma conta é grátis e leva apenas uns instantes."
         },
         "create_a_new_account": "Criar nova conta",
         "looking_for_something_you_bought": "Procuras algo que compraste?",
@@ -287,16 +287,16 @@
             "password": "Palavra-passe",
             "or": "ou",
             "create_account": "Criar conta",
-            "username_or_email": "Nome de utilizador ou email"
+            "username_or_email": "Nome de utilizador ou e-mail"
         },
         "log_in_to_your_itchio_account": "Inicia sessão na tua conta itch.io"
     },
     "blog": {
-        "tag_filter": "A filtrar por {{tag}}. <a>Limpar marcador</a>",
-        "empty_message": "Parece que não há publicações aqui",
+        "tag_filter": "A filtrar por {{tag}}. <a>Apagar marcador</a>",
+        "empty_message": "Parece que não há artigos aqui",
         "digest": "Boletim",
         "updates": "Atualizações",
-        "all_posts": "Todas as publicações"
+        "all_posts": "Todos os artigos"
     },
     "developers": {
         "learn_more": "Sabe Mais",
