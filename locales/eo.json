@@ -3,20 +3,28 @@
     "layout": {
         "footer": {
             "about": "Pri",
-            "blog": "Blogo"
+            "blog": "Blogo",
+            "privacy": "Privateco",
+            "contact_us": "Kontakti nin"
         },
         "header": {
             "community": "Forumo",
             "search": "Serĉi",
             "log_in": "Ensaluti",
             "register": "Registriĝi",
-            "devlogs": "Programistoj"
+            "devlogs": "Programistoj",
+            "games": "Ludoj",
+            "fun_games": "Amuzaj ludoj"
+        },
+        "user_menu": {
+            "settings": "Agordoj"
         }
     },
     "index": {
         "nav": {
             "community": "Forumo"
-        }
+        },
+        "games_by_price": "Ludoj per prezo"
     },
     "misc": {
         "pager": {
