@@ -14,7 +14,8 @@
             "register": "Registriĝi",
             "devlogs": "Programistoj",
             "games": "Ludoj",
-            "fun_games": "Amuzaj ludoj"
+            "fun_games": "Amuzaj ludoj",
+            "upload_game": "Alŝuti ludon"
         },
         "user_menu": {
             "settings": "Agordoj"
@@ -24,7 +25,8 @@
         "nav": {
             "community": "Forumo"
         },
-        "games_by_price": "Ludoj per prezo"
+        "games_by_price": "Ludoj per prezo",
+        "download_app": "Elŝuti aplikaĵon"
     },
     "misc": {
         "pager": {
