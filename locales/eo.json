@@ -27,24 +27,44 @@
             "community": "Forumo"
         },
         "games_by_price": "Ludoj per prezo",
-        "download_app": "Elŝuti aplikaĵon"
+        "download_app": "Elŝuti aplikaĵon",
+        "view_all_games": "Vidi ĉiujn ludojn"
     },
     "misc": {
         "pager": {
             "next": "Sekva"
+        },
+        "classifications": {
+            "tool": "Iloj",
+            "book": "Libroj"
+        },
+        "forms": {
+            "email_address": "Retpoŝta adreso"
+        },
+        "follow_button": {
+            "unfollow_username": "Malsekvi {{username}}",
+            "following_username": "Vi sekvas {{username}}",
+            "follow_username": "Sekvi {{username}}"
         }
     },
     "user_login": {
         "login_form": {
-            "username_or_email": "Salutnomo aŭ retpoŝtadreso",
+            "username_or_email": "Uzantnomo aŭ retpoŝtadreso",
             "password": "Pasvorto"
+        },
+        "errors": {
+            "please_enter_a_valid_email_address": "Bonvolu tajpi validan retpoŝtadreson"
+        },
+        "intent": {
+            "follow_username": "Vi bezonas konton en itch.io antaŭ vi povas sekvi <1>{{username}</1>."
         }
     },
     "user_register": {
         "register_form": {
-            "username": "Salutnomo",
+            "username": "Uzantnomo",
             "password": "Pasvorto",
-            "repeat_password": "Pasvorto-ripeto"
+            "repeat_password": "Pasvorto-ripeto",
+            "your_email_address": "Via retpoŝta adreso"
         }
     },
     "developers": {
@@ -54,20 +74,35 @@
         "community_header": "Aliĝu al la komunumo"
     },
     "game": {
-        "buy_now_button": "Aĉeti nun"
+        "buy_now_button": "Aĉeti nun",
+        "info_panel": {
+            "singleplayer": "Unu ludanto",
+            "languages": "Lingvoj"
+        },
+        "layout": {
+            "following_username": "Vi sekvas {{username}}",
+            "follow_username": "Sekvi {{username}}"
+        }
     },
     "browse": {
-        "related_collections": "Rilataj kolektoj"
+        "related_collections": "Rilataj kolektoj",
+        "filter_group_when": "Kiam"
     },
     "user_settings": {
         "profile": {
-            "username": "Salutnomo"
+            "username": "Salutnomo",
+            "language": "Lingvo"
         },
         "navigation": {
-            "password": "Pasvorto"
+            "password": "Pasvorto",
+            "email_addresses": "Retpoŝtaj adresoj",
+            "profile": "Profilo"
         }
     },
     "stripe_checkout": {
         "password": "Pasvorto"
+    },
+    "buy_form": {
+        "your_email_address": "Via retpoŝta adreso"
     }
 }
