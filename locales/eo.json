@@ -15,7 +15,8 @@
             "devlogs": "Programistoj",
             "games": "Ludoj",
             "fun_games": "Amuzaj ludoj",
-            "upload_game": "Alŝuti ludon"
+            "upload_game": "Alŝuti ludon",
+            "search_placeholder": "Serĉi ludojn aŭ kreantojn"
         },
         "user_menu": {
             "settings": "Agordoj"
