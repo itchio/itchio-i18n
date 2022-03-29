@@ -340,11 +340,11 @@
         "community_description": "Descobre mais sobre o desenvolvimento da aplicação <1>na nossa comunidade</1>. Partilha pedidos de funcionalidades e feedback geral com outros membros do itch.io. Se souberes programar, ficarás contente por saber que todo o projeto é de <2>código aberto no GitHub</2>. Aguardamos ansiosamente pelas tuas contribuições.",
         "community_header": "Junta-te à comunidade",
         "download_now": "Descarregar agora",
-        "languages_description": "A aplicação do itch está disponível em mais de 20 idiomas, graças à comunidade do itch.io! <a>Descobre mais sobre as traduções</a>",
+        "languages_description": "A aplicação do itch está disponível em mais de 20 idiomas, graças à comunidade do itch.io! <a>Mais informações acerca das traduções</a>",
         "languages_header": "Disponível no teu idioma",
-        "web_games_description": "Podes sincronizar todos os jogos baseados em navegador diretamente na aplicação, permitindo que os jogues offline sempre que quiseres. Quando voltares a estar online, poderás fazer qualquer atualização caso seja necessário.",
+        "web_games_description": "Podes sincronizar qualquer jogo baseado em navegador diretamente na aplicação, permitindo que os jogues sempre que quiseres mesmo sem ligação à internet. Assim que voltares a estar online, poderás descarregar atualizações caso seja necessário.",
         "web_games_header": "Jogos de navegador offline",
-        "updates_description": "Não só irão os jogos que instalaste ser atualizados automaticamente, como também a aplicação em si será automaticamente transformada à medida que lançamos novos recursos e funcionalidades. Os jogos que utilizarem as nossas novas ferramentas de linha de comandos vão gerar <em>delta patches</em>, garantindo que descarregas apenas o que mudou quando novos jogos forem lançados."
+        "updates_description": "Não são só os jogos instalados que se atualizam automaticamente, a aplicação em si também se transformará de forma automática à medida que lançarmos novos recursos e funcionalidades. Os jogos que utilizarem as nossas novas ferramentas de linha de comandos irão gerar <em>atualizações delta</em>, garantindo que descarregas apenas o que mudou quando forem lançados jogos novos."
     },
     "search": {
         "search_results_for_query": "Resultados da pesquisa por '{{query}}'",
