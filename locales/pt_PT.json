@@ -62,7 +62,7 @@
         "nav": {
             "community": "Comunidade",
             "all_games": "Todos os Jogos",
-            "devlogs": "Devlogs",
+            "devlogs": "Diários dos Produtores",
             "game_jams": "Game jams",
             "bundles": "Pacotes"
         },
@@ -70,11 +70,11 @@
         "intro_cta": "<1>Adiciona o teu jogo</1> ou <2>Lê as perguntas frequentes</2>",
         "html5_games": "Jogos HTML5",
         "page_title": "Descarrega os jogos indie mais recentes",
-        "meta_description": "O itch.io é uma maneira simples de encontrar, descarregar e distribuir jogos indie online. Quer sejas um produtor que procura submeter o seu jogo ou apenas alguém que procura algo novo para jogar, o itch.io tem tudo o que precisas.",
+        "meta_description": "O itch.io é uma maneira simples de encontrar, descarregar e distribuir jogos indie na internet. Quer sejas um produtor que procura submeter o seu jogo ou apenas alguém que procura algo novo para jogar, o itch.io tem tudo o que precisas.",
         "to_follow": {
             "created_projects": "Criou {{project_list}}",
             "empty_results": "Neste momento não temos mais nenhuma recomendação. Volta mais tarde",
-            "refresh_button": "Atualiza para mais conteúdos...",
+            "refresh_button": "Atualiza para mais conteúdos",
             "dismiss_tooltip": "Não voltar a sugerir"
         },
         "download_app": "Descarregar app",
@@ -84,7 +84,7 @@
         "view_all_games": "Ver todos os jogos",
         "view_something_random": "Ver algo aleatório",
         "games_by_price": "Jogos por preço",
-        "get_the_app": "<s>Aproveita ao máximo o itch.io!</s> Instala e organiza os teus jogos com a nossa app para computador",
+        "get_the_app": "<s>Aproveita o itch.io ao máximo!</s> Instala e gere os teus jogos com a nossa aplicação para computador",
         "random_game": "Jogo aleatório",
         "from_the_blog": "Do blog",
         "recommendations_based_on": "Com base nas coisas que compraste, descarregaste e avaliaste",
@@ -144,7 +144,7 @@
         "inputs": {
             "keyboard": "Teclado",
             "mouse": "Rato",
-            "gamepad": "Comando (qualquer)",
+            "gamepad": "Comando",
             "joystick": "Joystick",
             "touchscreen": "Ecrã tátil",
             "voice": "Controlo por voz",
@@ -168,7 +168,8 @@
             "submit": "Submeter",
             "optional": "Opcional",
             "search": "Pesquisar",
-            "form_errors": "Por favor, verifica as informações que introduziste"
+            "form_errors": "Por favor, verifica as informações que introduziste",
+            "confirm": "Confirmar"
         },
         "page_number": "Página {{page_number}}",
         "follow_button": {
@@ -259,7 +260,8 @@
     },
     "user_login": {
         "errors": {
-            "accept_terms": "Tens de aceitar os Termos de Serviço"
+            "accept_terms": "Tens de aceitar os Termos de Serviço",
+            "please_enter_a_valid_email_address": "Por favor, introduz um endereço de e-mail válido"
         },
         "welcome_to_itchio": "Bem-vindo(a) ao itch.io!",
         "welcome_back": "Bem-vindo(a) de volta!",
@@ -300,7 +302,7 @@
     },
     "developers": {
         "learn_more": "Saber mais",
-        "host_a_sale_description": "Promove os teus jogos e consegue mais vendas oferecendo-os a um preço com desconto por um período de tempo.",
+        "host_a_sale_description": "Promove os teus jogos e consegue mais vendas oferecendo-os a um preço com desconto por um determinado período de tempo.",
         "host_a_sale": "Organiza promoções",
         "track_your_game": "Acompanha o teu jogo",
         "design_your_games_page": "Personaliza a página do jogo",
@@ -317,7 +319,7 @@
         "learn_more_about": "Descobre mais sobre:",
         "upload_your_game_description": "Submete o teu jogo indie no <s>itch.io</s> gratuitamente. Nós hospedamos o teu jogo, juntamente com as respetivas capturas de ecrã e outros conteúdos adicionais. As tuas descargas estão sempre disponíveis e rápidas.",
         "browser_game_description": "Ganha dinheiro com o teu jogo de navegador ao submetê-lo no <s>itch.io</s>. O jogo é incorporado no navegador e se os jogadores gostarem dele podem doar o montante que entenderem.",
-        "track_your_game_description": "Acompanha a forma como as pessoas vêm o teu jogo com análises detalhadas sobre as visualizações, downloads e compras. Queres fazer uma promoção? Gera chaves de download para dar às pessoas acesso ao teu jogo.",
+        "track_your_game_description": "Acompanha a forma como as pessoas veem o teu jogo com análises detalhadas sobre visualizações, descargas e compras. Queres organizar uma promoção? Gera chaves de descarga para dar às pessoas acesso ao teu jogo.",
         "design_your_games_page_description": "Cria uma página personalizada onde as pessoas podem comprar ou descarregar o teu jogo. És tu que escolhes as cores, tipos de letra, imagens e vídeos. Como se trata da página do teu próprio jogo, não irás encontrar nada que não tenhas lá colocado."
     },
     "app": {
@@ -370,12 +372,12 @@
         "download_demo_header": "Descarregar demo",
         "get_access_preorder": "Vais ter acesso aos seguintes ficheiros assim que forem lançados:",
         "get_access": "Vais ter acesso aos seguintes ficheiros:",
-        "download_access": "Clica em Descarregar agora para aceder aos seguintes ficheiros:",
+        "download_access": "Clica em \"Descarregar agora\" para teres acesso aos seguintes ficheiros:",
         "purchase_header": "Comprar",
         "unavailable": "Este {{game_noun}} não se encontra disponível",
         "download_header": "Descarregar",
         "install_instructions": "Instruções de instalação",
-        "more_information": "Mais informação",
+        "more_information": "Mais informações",
         "empty_page": "Parece que não há nada aqui...",
         "your_purchase_comes_with_a_steam_key": "A tua compra vem com uma chave Steam.",
         "devlog_view_all_posts": "Ver todas as publicações",
