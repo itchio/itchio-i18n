@@ -357,7 +357,7 @@
         "creators": "Criadores:"
     },
     "game": {
-        "development_log_header": "Blog de desenvolvimento",
+        "development_log_header": "Diário de desenvolvimento",
         "price_or_more": "{{price}} <s>ou mais</s>",
         "percent_off": "<s>{{percent}}%</s> de desconto",
         "on_sale": "Em Promoção!",
@@ -379,9 +379,9 @@
         "install_instructions": "Instruções de instalação",
         "more_information": "Mais informações",
         "empty_page": "Parece que não há nada aqui...",
-        "your_purchase_comes_with_a_steam_key": "A tua compra vem com uma chave Steam.",
+        "your_purchase_comes_with_a_steam_key": "A tua compra inclui um código Steam.",
         "devlog_view_all_posts": "Ver todas as publicações",
-        "in_order_to_access": "Para aceder a este produto ({{noun}}) é necessário adquiri-lo ao preço mínimo de {{price}}.",
+        "in_order_to_access": "Para ter acesso a ({{noun}}) é necessário fazer a compra com valor igual ou superior a {{price}}.",
         "layout": {
             "community": "Comunidade",
             "comments": "Comentários",
@@ -483,7 +483,7 @@
         },
         "empty_page_no_uploads": "O criador ainda não submeteu nada...",
         "donate_button": "Apoia este {{noun}}",
-        "steam_key_bundle_disclaimer": "(Nota: Chave Steam não incluída em {{bundle_title}})",
+        "steam_key_bundle_disclaimer": "(Nota: não está incluído código Steam em {{bundle_title}})",
         "after_download": {
             "powered_by": "<s>Distribuído por</s> {{itchio_logo}}",
             "see_everything": "Ver tudo",
