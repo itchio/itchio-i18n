@@ -494,7 +494,8 @@
             "more_from_creator": "Podes encontrar mais conteúdos do mesmo criador na página: {{profile}}.",
             "thanks_project_author": "Obrigado por teres descarregado {{project}} de {{author}}.",
             "thanks_for_downloading_title": "Obrigado por teres descarregado",
-            "share_this_project": "Partilhar este projeto"
+            "share_this_project": "Partilhar este projeto",
+            "app_learn_more": "<s>Novo!</s> Experimenta a aplicação para computador do itch.io para descarregares e gerires a tua biblioteca. <a>Mais info aqui</a>"
         }
     },
     "dashboard": {
