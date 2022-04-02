@@ -170,7 +170,8 @@
             "submit": "Wyślij",
             "optional": "Opcjonalny",
             "search": "Szukaj",
-            "form_errors": "Sprawdź wprowadzone informacje"
+            "form_errors": "Sprawdź wprowadzone informacje",
+            "confirm": "Potwierdź"
         },
         "page_number": "Strona {{page_number}}",
         "follow_button": {
