@@ -224,7 +224,8 @@
             "email_address": "Indirizzo Email",
             "save": "Salva",
             "required": "Richiesto",
-            "form_errors": "Ricontrolla le informazioni che hai scritto"
+            "form_errors": "Ricontrolla le informazioni che hai scritto",
+            "confirm": "Conferma"
         },
         "durations": {
             "days": "Qualche giorno o forse di più",
@@ -460,14 +461,14 @@
                 "participate_to_rate_message": "Per recensire questa consegna devi essere <a>loggato su itch.io</a> e aver consegnato il tuo lavoro. Chiunque ha un account può lasciare un commento."
             },
             "rated_by_people_count": "Votato da {{count}} persona",
-            "rated_by_people_count_plural": "Votato da {{count}} persone finora",
+            "rated_by_people_count_plural": "Valutato da {{count}} persone fin'ora",
             "time_remaining_before_deadline": "Hai ancora {{time_duration}} prima della scadenza",
             "submitted_by_contributors": "Consegnato da {{contributors}}",
             "ranked_with_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
             "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
             "results_header": "Risultati",
             "ranked_from_count": "Classificato da <s>{{count}}recensione</s>.",
-            "ranked_from_count_plural": "Stabilito da <s>{{count}} voti</s>.",
+            "ranked_from_count_plural": "Classificato da <s>{{count}} valutazioni</s>.",
             "score_information": "La classifica è regolata da un punteggio grezzo ad un numero medio di recensioni per gioco della jam.",
             "run_project": "Esegui il progetto",
             "play_game": "Gioca",
@@ -839,7 +840,7 @@
         "creators": "Creatori:"
     },
     "developers": {
-        "track_your_game_description": "Guarda sempre il modo in cui le persone vedono il tuo gioco con analisi dettagliate su visite, download e acquisti. Vuoi fare una promozione? Genera delle chiavi per il download per far accedere le persone al tuo gioco.",
+        "track_your_game_description": "Tieni d'occhio il modo in cui le persone guardano il tuo gioco con analisi dettagliate su visite, download e acquisti. Vuoi fare una promozione? Genera delle chiavi per il download per far accedere le persone al tuo gioco.",
         "upload_or_dashboard": "<1>Carica un gioco</1> <em>oppure</em> <2>Vai alla dashboard</2>",
         "create_account_or_login": "<1>Crea un account</1> <em>oppure</em> <2>Loggati</2>",
         "share_message": "itch.io è un modo semplice di distribuire i tuoi giochi online gratuitamente.",
@@ -1230,7 +1231,7 @@
             "unlisted_topic_notice": "<s>Un moderatore ha tolto questo argomento dalla lista.</s> Non è più visibile ma puoi sempre rispondere o modificarlo.",
             "log_in_to_reply": "Loggati per rispondere",
             "reply": "Rispondi",
-            "topic_is_archived": "Questo argomento è stato archiviato. Non è in elenco e nessun nuovo post può essere creato."
+            "topic_is_archived": "Questa discussione è stata archiviata. Non è in elenco e nessun nuovo post può essere creato."
         }
     },
     "feed": {
