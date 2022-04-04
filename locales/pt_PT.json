@@ -496,12 +496,33 @@
             "thanks_for_downloading_title": "Obrigado por teres descarregado",
             "share_this_project": "Partilhar este projeto",
             "app_learn_more": "<s>Novo!</s> Experimenta a aplicação para computador do itch.io para descarregares e gerires a tua biblioteca. <a>Mais info aqui</a>"
+        },
+        "password_required": {
+            "header": "É necessária uma palavra-passe para visualizar esta página"
+        },
+        "report_form": {
+            "reason_other": "Outro",
+            "reason_label": "Motivo",
+            "description_label": "Descrição",
+            "report_received_header": "Denúncia recebida",
+            "title": "Denunciar '{{page_title}}'",
+            "submit_report_button": "Submeter denúncia",
+            "email_creator_link": "Enviar e-mail ao criador",
+            "support_page_link": "Aceder à página de suporte oficial",
+            "support_from_creator": "Estás a ter problemas? Precisas de contactar o criador?",
+            "form_description": "Por favor, preenche este formulário se precisares de contactar a equipa de moderação do itch.io sobre o conteúdo desta página. A tua denúncia poderá ser partilhada com o criador da página caso seja necessário."
         }
     },
     "dashboard": {
         "edit_project": {
             "kind_of_project_field": "Tipo de projeto",
             "description_field": "Descrição"
+        }
+    },
+    "community": {
+        "topic": {
+            "log_in_to_reply": "Inicia sessão para responder",
+            "reply": "Responder"
         }
     }
 }
