@@ -350,7 +350,8 @@
             "submit": "ส่ง",
             "email_address": "ที่อยู่อีเมล",
             "save": "บันทึก",
-            "required": "จำเป็น"
+            "required": "จำเป็น",
+            "confirm": "ยืนยัน"
         },
         "durations": {
             "days": "มากกว่า 1 วันที่แล้ว",
@@ -715,7 +716,8 @@
             "there_arent_any_topics_yet": "ยังไม่มีหัวข้อ",
             "empty_message": "ไม่มีหัวข้อ",
             "create_first_topic_button": "สร้างหัวข้อแรก",
-            "topics_count": "{{count}} หัวข้อ"
+            "topics_count": "{{count}} หัวข้อ",
+            "view_this_communitys_rules": "ดูกฎระเบียบของชุมชนนี้..."
         },
         "misc": {
             "new_topic_button": "หัวข้อใหม่"
@@ -972,6 +974,11 @@
         },
         "results": {
             "results": "ผลลัพธ์"
+        }
+    },
+    "dashboard": {
+        "edit_project": {
+            "payment_warning_header": "คุณยังไม่ได้ตั้งค่าการทำธุรกรรม"
         }
     }
 }
