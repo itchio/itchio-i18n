@@ -317,7 +317,8 @@
             "optional": "Optioneel",
             "search": "Zoeken",
             "form_errors": "Controleer alsjeblieft de informatie die je hebt ingevuld",
-            "required": "Vereist"
+            "required": "Vereist",
+            "confirm": "Bevestigen"
         },
         "durations": {
             "seconds": "Een paar seconden",
