@@ -557,7 +557,9 @@
             "i_agree_to_the_rules_above": "Concordo com as regras acima",
             "moderation_options": "Opções",
             "sticky": "Fixo",
-            "moderator_tools": "Ferramentas de moderação"
+            "moderator_tools": "Ferramentas de moderação",
+            "page_title": "Publicar um novo tópico",
+            "your_moderators_are": "O itch.io não modera estes fóruns. Os moderadores são:"
         },
         "post_form": {
             "post_reply": "Publicar resposta",
@@ -592,6 +594,16 @@
             "edit_blocks": "Editar bloqueios",
             "post_from_blocked_account": "Publicação de uma conta bloqueada",
             "deleted_post": "Publicação eliminada"
+        },
+        "category": {
+            "there_arent_any_topics_yet": "Ainda não há tópicos",
+            "empty_message": "Não há tópicos",
+            "create_first_topic_button": "Criar o primeiro tópico",
+            "topics_count": "{{count}} tópico",
+            "topics_count_plural": "{{count}} tópicos"
+        },
+        "misc": {
+            "new_topic_button": "Novo tópico"
         }
     }
 }
