@@ -545,7 +545,8 @@
             "this_reply_will_go_to_yourself": "Esta resposta irá para ti.",
             "reply_to_someone_else": "Queres responder a alguém? Clica em <s>responder</s> na parte inferior da publicação.",
             "join_the_discussion": "Junta-te à conversa. Inicia sessão ou cria gratuitamente uma conta itch.io para continuar.",
-            "unlisted_topic_notice": "<s>Um moderador retirou este tópico da listagem.</s> Apesar de não estar visível, ainda podes responder e fazer alterações."
+            "unlisted_topic_notice": "<s>Um moderador retirou este tópico da listagem.</s> Apesar de não estar visível, ainda podes responder e fazer alterações.",
+            "locked": "Fechado"
         },
         "new_topic": {
             "topic_tag": "Etiqueta",
@@ -600,10 +601,59 @@
             "empty_message": "Não há tópicos",
             "create_first_topic_button": "Criar o primeiro tópico",
             "topics_count": "{{count}} tópico",
-            "topics_count_plural": "{{count}} tópicos"
+            "topics_count_plural": "{{count}} tópicos",
+            "view_this_communitys_rules": "Ver as regras desta comunidade...",
+            "by_topic_author": "por {{username}}",
+            "archived_flag": "Arquivado",
+            "new_flag": "Novo",
+            "list_header_last_topic": "Último tópico",
+            "recent_posts_header": "Publicações recentes",
+            "rules_header": "Regras",
+            "stats": {
+                "topics": "Tópicos"
+            },
+            "unsubscribe_from_topics": "Cancelar subscrição",
+            "subscribe_to_new_topics": "Subscrever novos tópicos",
+            "search_community_label": "Pesquisar"
         },
         "misc": {
             "new_topic_button": "Novo tópico"
+        },
+        "topic_list": {
+            "no_replies_yet": "Ainda não há respostas",
+            "list_header_last_post": "Última publicação",
+            "list_header_topic_title": "Tópico",
+            "locked_flag": "Fechado",
+            "sticky_flag": "Fixo",
+            "new_flag": "Novo",
+            "started_by_author": "iniciado por {{topic_author}}",
+            "replies_count": "<s>{{count}}</s> resposta",
+            "replies_count_plural": "<s>{{count}}</s> respostas",
+            "no_posts_yet": "Ainda não há publicações",
+            "views_count": "<s>{{count}}</s> visualização",
+            "views_count_plural": "<s>{{count}}</s> visualizações"
         }
+    },
+    "buy_form": {
+        "agree_to_terms": "Ao completares o pagamento estás a concordar com os <1>Termos de Serviço</1> e a <2>Política de Privacidade</2>.",
+        "included_files": "Ficheiros incluídos",
+        "i_already_paid_for_this": "Já paguei por isto...",
+        "gift_email_instructions": "Após o pagamento poderás escolher um e-mail para onde o presente será enviado",
+        "email_address_description": "A confirmação de pagamento será enviada para aqui",
+        "your_email_address": "O teu endereço de e-mail",
+        "download_this_product_by_purchasing_it_for": "Descarrega este produto comprando-o por {{price}} ou mais.",
+        "preorder_this_product_by_purchasing_it_for": "Pré-reserva este produto comprando-o por {{price}} ou mais.",
+        "includes_steam_key": "Irás receber um código Steam com a tua compra.",
+        "no_thanks_just_take_me_to_the_downloads": "Não obrigado, mostra-me apenas as descargas",
+        "free_pay_what_you_want": "Este projeto é gratuito, no entanto o criador aceita o teu apoio, permitindo que pagues o que achares mais justo.",
+        "buy_as_bundle_plural": "Podes comprar este produto num pacote com {{count}} itens por {{price}}:",
+        "also_buy_as_bundle_plural": "Podes também comprar este produto num pacote com {{count}} itens por {{price}}:",
+        "percent_off_until": "Todas as compras estão com <s>{{rate}}%</s> de desconto até {{end_date}}.",
+        "support_message": "Apoia o desenvolvimento deste projeto com uma doação",
+        "on_sale_notice": "Este produto está em promoção.",
+        "sold_out_notice": "Este produto está atualmente esgotado, volta mais tarde.",
+        "preorder_title": "Pré-reservar '{{title}}'",
+        "buy_title": "Comprar '{{title}}'",
+        "download_title": "Descarregar '{{title}}'"
     }
 }
