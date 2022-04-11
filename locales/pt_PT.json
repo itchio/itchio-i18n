@@ -654,6 +654,7 @@
         "sold_out_notice": "Este produto está atualmente esgotado, volta mais tarde.",
         "preorder_title": "Pré-reservar '{{title}}'",
         "buy_title": "Comprar '{{title}}'",
-        "download_title": "Descarregar '{{title}}'"
+        "download_title": "Descarregar '{{title}}'",
+        "this_purchase_is_a_gift": "Esta compra é um presente"
     }
 }
