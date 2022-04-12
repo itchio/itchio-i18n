@@ -160,7 +160,8 @@
             "required": "Gerekli",
             "save": "Kaydet",
             "email_address": "E-Posta Adresi",
-            "submit": "Gönder"
+            "submit": "Gönder",
+            "confirm": "Onaylamak"
         },
         "follow_button": {
             "following_username": "{{username}} takip ediliyor",
@@ -984,14 +985,14 @@
                 "unavailable_to_rate": "Kendi girdinizi göndermediğiniz için bu projeye puan veremezsiniz. Yine de aşağıya bir yorum bırakabilirsiniz."
             },
             "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
-            "rated_by_people_count_plural": "Şimdiye dek {{count}} kişi tarafından oylandı.",
+            "rated_by_people_count_plural": "Şu ana kadar {{count}} kişi tarafından derecelendirildi",
             "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
             "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
             "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
             "ranked_with_vote_count_plural": "{{count}} oy(lar)la {{ordinal_rank}} sırada",
             "results_header": "Sonuçlar",
             "ranked_from_count": "<s> {{count}} derecelendirmeye </s> göre sıralanmıştır.",
-            "ranked_from_count_plural": "<s> {{count}} derecelendirme(ler)ye </s> göre sıralanmıştır.",
+            "ranked_from_count_plural": "<s>{{count}} puanla</s> derecelendirildi.",
             "score_information": "Skor, ham puandan jam içindeki oyun başına ortalama derecelendirme sayısına göre ayarlanır.",
             "run_project": "Projeyi çalıştır",
             "play_game": "Oyunu oyna",
