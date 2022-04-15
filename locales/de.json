@@ -168,7 +168,8 @@
             "search": "Suchen",
             "save": "Speichern",
             "submit": "Absenden",
-            "form_errors": "Bitte überprüfe die Informationen, die du eingegeben hast"
+            "form_errors": "Bitte überprüfe die Informationen, die du eingegeben hast",
+            "confirm": "bestätigen"
         },
         "page_number": "Seite {{page_number}}",
         "follow_button": {
