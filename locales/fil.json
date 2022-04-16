@@ -1,1 +1,306 @@
-{}
+{
+    "layout": {
+        "footer": {
+            "cookies": "Mga Cookie",
+            "privacy": "Pribasiya",
+            "directory": "Directory",
+            "terms": "Mga Tuntunin",
+            "contact_us": "Makipag-ugnayan sa amin",
+            "blog": "Blog",
+            "faq": "FAQ",
+            "about": "Tungkol dito"
+        },
+        "user_menu": {
+            "settings": "Ayos ng Account",
+            "new_project": "Mag-upload ng bagong project",
+            "view_profile": "Tignan ang profile",
+            "sales_bundles": "Mga Benta & bundles",
+            "feed": "Balitaan ko"
+        },
+        "header": {
+            "feed_unseen_count": "{{count}} bago",
+            "feed_unseen_count_plural": "Mga {{count}} bago",
+            "games": "Mga Laro",
+            "fun_games": "Mga Nakakasayang Laro",
+            "game_assets": "Mga Asset",
+            "bundles": "Mga Bundle",
+            "indie_game_store": "Tindahan ng Indie Games",
+            "free_games": "Mga libreng laro",
+            "no_notifications": "Walang mga bagong notifikasyon",
+            "notifications_count": "{{count}} notifikasyon",
+            "notifications_count_plural": "Mga {{count}} notifikasyon",
+            "jams": "Mga Jam",
+            "register": "Magregister",
+            "log_in": "Maglogin",
+            "search": "Maghanap",
+            "upload_game": "Mag-upload ng Laro",
+            "game_jams": "Mga Game Jam",
+            "sales": "Mga Benta",
+            "search_placeholder": "Maghanap ng mga laro o creator",
+            "feed": "Balitaan",
+            "browse_games": "Maghanap ng Laro",
+            "browse": "Maghanap",
+            "comics": "Mga Komik",
+            "community": "Pamayanan"
+        }
+    },
+    "misc": {
+        "filter_when": {
+            "last_30_days": "Nakaraang 30 araw",
+            "last_7_days": "Nakaraang 7 araw",
+            "last_day": "Nakaraang Araw"
+        },
+        "forms": {
+            "search": "Maghanap",
+            "required": "Kinakailangan"
+        },
+        "classifications": {
+            "comic": "Mga Komik",
+            "soundtrack": "Mga Soundtrack",
+            "book": "Mga Aklat",
+            "game": "Mga Laro"
+        },
+        "project_visibility": {
+            "published": "Nilatha"
+        },
+        "countdown": {
+            "seconds": "mga segundo",
+            "minutes": "mga minuto",
+            "hours": "mga oras",
+            "days": "mga araw",
+            "months": "mga buwan",
+            "years": "mga taon"
+        },
+        "lightboxes": {
+            "close": "Isara"
+        },
+        "collection_button": {
+            "add_to_collection": "I-dagdag sa koleksyon"
+        },
+        "pager": {
+            "first_page": "Unang pahina",
+            "previous_page": "Nakaraang pahina",
+            "current_page_of_total": "Ika-{{current_page}} pahina sa {{total_pages}}",
+            "next": "Sunod",
+            "prev": "Nakaraan",
+            "next_page": "Sunod na pahina"
+        },
+        "filter_price": {
+            "paid": "May bayad",
+            "on_sale": "Naka-sale",
+            "free": "Libre"
+        },
+        "durations": {
+            "days": "Mga ilang araw o mahigit",
+            "hour": "Mga isang oras",
+            "half_hour": "Mga kalahating oras",
+            "minutes": "Mga ilang minuto",
+            "seconds": "Mga ilang segundo"
+        }
+    },
+    "user_settings": {
+        "email_addresses": {
+            "primary_email_header": "Pangunahing email"
+        },
+        "profile": {
+            "use_dark_theme": "Gumamit ng dark theme kung maari",
+            "disable_autoloading_next_page_when_browsing": "Patayin ang kusang pagloload ng susunod na pahina habang naghahanap",
+            "disable_animated_gifs": "Patayin ang animated gifs",
+            "default_language_option": "Nakatakdang Wika (Nakatakda sa Ingles habang languages beta)",
+            "account_type_developer": "Sa pagdedevelop at paguupload ng mga laro",
+            "account_type_gamer": "Sa paglalaro at pagdadownload ng mga laro",
+            "account_type_description": "Kung papaano mo gagamitin ang account mo",
+            "account_type": "Uri ng Account",
+            "display_name": "Pinapakitang pangalan",
+            "profile_image": "Larawan ng Profile",
+            "url_description": "Ang publikong URL ng inyong account",
+            "you_recently_changed_your_username": "Kumakailan lang na pinalitan mo ang username mo",
+            "change_username": "Palitan ang aking username/URL",
+            "language_description": "Wika ng user interface sa itch.io",
+            "language": "Wika"
+        },
+        "password": {
+            "current_password": "Kasalukuyang password"
+        },
+        "navigation": {
+            "credit_cards": "Mga credit card",
+            "payout_mode": "Paraan ng pagbabayad",
+            "misc_header": "Iba pa",
+            "publisher_header": "Paglalatha",
+            "payment_header": "Pagbayad",
+            "basics_header": "Pangunahin"
+        },
+        "account_settings": "Kaayusan ng Account"
+    },
+    "index": {
+        "view_more": "Tumingin pa ng iba",
+        "recommendations_based_on": "Batay sa mga binili, dinownload, at rinate mo",
+        "browse_all_tags": "Maghanap sa lahat ng tags",
+        "from_the_blog": "Mula sa blog",
+        "dont_see_anything_you_like": "Wala dito ang gusto mo?",
+        "popular_tags": "Mga Sikat na Tags",
+        "nav": {
+            "all_games": "Lahat ng Laro",
+            "community": "Pamayanan",
+            "game_jams": "Mga game jam"
+        },
+        "browse_content_type": "Maghanap ng {{content_type}}",
+        "view_all_platforms": "Tignan lahat ng platforms",
+        "filtering_platform": "Sinasala lahat ng laro ayon sa {{platform_name}}",
+        "view_all_games_on_sale": "Tignan lahat ng larong naka-sale",
+        "people_to_follow": "Mga Dapat I-Follow",
+        "fresh_games_description": "Patuloy na binabago ng mga bagong laro sa itch.io",
+        "view_all_jams": "Tignan lahat ang jams",
+        "featured_jams": "Mga tampok na jams",
+        "fresh_games": "Mga Bagong Laro",
+        "view_all": "Tignan lahat",
+        "with_demo": "May demo",
+        "free_games": "Mga libreng laro",
+        "on_sale": "Naka-sale",
+        "browse": "Maghanap",
+        "games_by_price": "Mga laro ayon sa presyo",
+        "latest_featured_games": "Mga Pinakabagong Tampok na Laro",
+        "html5_games": "Mga larong HTML5",
+        "view_all_on_sale": "Tignan lahat ng naka-sale"
+    },
+    "itchio": "itch.io",
+    "dashboard": {
+        "edit_project": {
+            "pricing": {
+                "paid": "May bayad"
+            }
+        },
+        "header": {
+            "payments_link": "Mga Bayad"
+        },
+        "analytics_summary_header": "Buod",
+        "hello": "Kamusta!",
+        "new_devlog": "Bagong devlog"
+    },
+    "community": {
+        "topic": {
+            "replies_count": "Mga tugon:{{count}}"
+        },
+        "new_topic": {
+            "new_topic": "Bagong topic",
+            "topic_tag": "Tag",
+            "title": "Pamagat"
+        },
+        "topic_list": {
+            "new_flag": "Bago",
+            "locked_flag": "Nakakandado",
+            "list_header_last_post": "Nakaraang post",
+            "no_replies_yet": "Wala pang tugon"
+        }
+    },
+    "browse": {
+        "sort_popular": "Sikat",
+        "sort_new_and_popular": "Bago at Sikat",
+        "filter_results": "Isala ang mga Resulta",
+        "results_count": "{{count}} resulta",
+        "results_count_plural": "Mga {{count}} resulta"
+    },
+    "jam": {
+        "header": {
+            "links": {
+                "community": "Pamayanan",
+                "results": "Mga Resulta"
+            }
+        },
+        "results": {
+            "submissions": {
+                "by_author": "ni {{author}}"
+            },
+            "empty_page_message": "Walang mga resulta sa pahina na ito"
+        }
+    },
+    "search": {
+        "search_results_for_query": "Resulta ng paghahanap sa '{{query}}'"
+    },
+    "feed": {
+        "global_feed_tab": "Pandaigdig na Balitaan",
+        "my_feed_tab": "Balitaan ko",
+        "manage_my_games_button": "Pamahalaan ang aking mga laro",
+        "latest_featured_games_header": "Mga pinakabagong tampok na laro",
+        "filter_own_activity_tab": "Aking aktibidad",
+        "filter_everything_tab": "Lahat",
+        "filter_collections_tab": "Mga koleksyon",
+        "filter_new_projects_tab": "Mga bagong proyekto",
+        "profile_notice": {
+            "add_a_profile_image": "Magdagdag ng profile image"
+        },
+        "event": {
+            "collection_added_count": "Nagdagdag ng {{count}} item.",
+            "collection_added_count_plural": "Nagdagdag ng mga {{count}} item."
+        }
+    },
+    "game": {
+        "layout": {
+            "ownership": {
+                "percent_off": "{{percent}}% bawas"
+            }
+        },
+        "percent_off": "<s>{{percent}}%</s> Bawas"
+    },
+    "game_download": {
+        "app_banner": {
+            "get_the_app": "Kunin ang app"
+        },
+        "play_in_your_browser": "Laruin sa inyong browser"
+    },
+    "jams": {
+        "browse_upcoming_this_month": "Mga Paparating sa Buwan na Ito",
+        "dont_see_something_you_like_header": "Wala dito ang gusto mo?",
+        "brose_featured_jams": "Tampok na Jams",
+        "count_joined": "{{count}} mga sumali"
+    },
+    "library": {
+        "things_you_own_header": "Mga pagmamay-ari mo",
+        "page_title": "Aking Library",
+        "nav": {
+            "recommended_for_you": "Rinerekomenda para sayo"
+        },
+        "empty_collection_message": "Walang laman ang koleksyong ito",
+        "go_to_collection_link": "Tumungo sa koleksyon"
+    },
+    "notifications": {
+        "page_title": "Mga Notifikasyon",
+        "unseen_label": "Bago"
+    },
+    "developers": {
+        "track_your_game": "Subaybayan ang inyong laro",
+        "account_faq_cta": "<1>Gumawa ng account ngayon</1> or <2>Basahin ang FAQ</2>",
+        "upload_a_new_game": "Mag-upload ng bagong laro",
+        "my_dashboard": "Dashboard ko"
+    },
+    "user_register": {
+        "register_form": {
+            "repeat_password": "Ulitin ang password",
+            "about_you": "Tungkol sayo",
+            "accept_tos": "Tinatanggap ko ang <1>Tuntunin ng Serbisyo</1>",
+            "create_account": "Gumawa ng account"
+        }
+    },
+    "user_login": {
+        "welcome_to_itchio": "Maligayang pagdating sa itch.io!",
+        "welcome_back": "Maligayang pagbabalik!",
+        "login_form": {
+            "log_in_button": "Maglogin",
+            "or": "o",
+            "or_log_in_with_another_site": "O maglog-in gamit ng ibang site",
+            "create_account": "Gumawa ng account",
+            "forgot_password": "Nakalimutan ang password",
+            "password": "Password"
+        },
+        "page_title": "Maglogin",
+        "intent": {
+            "community": "Kailangan mong mag-login upang makilahok sa iba't ibang komunidad sa itch.io. Ang paggawa ng account ay libre at hindi tatagal ng ilang saglit."
+        },
+        "create_a_new_account": "Gumawa ng bagong account"
+    },
+    "blog": {
+        "empty_message": "Wala yatang mga post dito",
+        "updates": "Mga Update",
+        "all_posts": "Lahat ng post"
+    }
+}
