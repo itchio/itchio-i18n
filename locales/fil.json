@@ -15,7 +15,12 @@
             "new_project": "Mag-upload ng bagong project",
             "view_profile": "Tignan ang profile",
             "sales_bundles": "Mga Benta & bundles",
-            "feed": "Balitaan ko"
+            "feed": "Aking Balitaan",
+            "library": "Aking library",
+            "recommendations": "Mga Rekomendasyon",
+            "game_jams": "Mga game jam",
+            "log_out": "Maglog-out",
+            "create": "Lumikha"
         },
         "header": {
             "feed_unseen_count": "{{count}} bago",
@@ -41,7 +46,10 @@
             "browse_games": "Maghanap ng Laro",
             "browse": "Maghanap",
             "comics": "Mga Komik",
-            "community": "Pamayanan"
+            "community": "Pamayanan",
+            "game_development": "Game development",
+            "dashboard": "Dashboard",
+            "devlogs": "Mga Developer Log"
         }
     },
     "misc": {
@@ -56,9 +64,11 @@
         },
         "classifications": {
             "comic": "Mga Komik",
-            "soundtrack": "Mga Soundtrack",
+            "soundtrack": "Mga soundtrack",
             "book": "Mga Aklat",
-            "game": "Mga Laro"
+            "game": "Mga Laro",
+            "physical_game": "Mga larong pisikal",
+            "game_mod": "Mga game mod"
         },
         "project_visibility": {
             "published": "Nilatha"
@@ -161,7 +171,17 @@
         "games_by_price": "Mga laro ayon sa presyo",
         "latest_featured_games": "Mga Pinakabagong Tampok na Laro",
         "html5_games": "Mga larong HTML5",
-        "view_all_on_sale": "Tignan lahat ng naka-sale"
+        "view_all_on_sale": "Tignan lahat ng naka-sale",
+        "to_follow": {
+            "created_projects": "Nilikha ang {{project_list}}"
+        },
+        "game_dev_on_sale": "<1>Naka-sale</1> na Game Dev Resources",
+        "more_featured_games": "Iba pang mga patok na laro",
+        "recommended_for_you": "Rinerekomenda para sayo",
+        "search_games_creators": "Maghanap ng mga laro & creators",
+        "view_all_blog_posts": "Tignan lahat ng update",
+        "from_the_itchio_blog": "Mula sa itch.io blog",
+        "get_the_app": "<s>Sulitin ang itch.io!</s>Mag-install at pamahalaan ang mga laro mo gamit ng aming desktop app"
     },
     "itchio": "itch.io",
     "dashboard": {
