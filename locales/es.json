@@ -168,7 +168,8 @@
             "save": "Guardar",
             "email_address": "Dirección de email",
             "submit": "Enviar",
-            "form_errors": "Por favor comprueba la información dada"
+            "form_errors": "Por favor comprueba la información dada",
+            "confirm": "Confirmar"
         },
         "follow_button": {
             "follow_username": "Seguir a {{username}}",
@@ -313,7 +314,7 @@
         "host_a_sale_description": "Promueve tus juegos y obtén más compras ofreciendo tus juegos a un precio con descuento por un periodo de tiempo.",
         "learn_more": "Conoce Más",
         "browser_game_description": "Has dinero con tu juego de navegador subiéndolo a <s>itch.io</s>. Tu juego es embebido en el navegador y los jugadores pueden donar lo que quieran si les gusta tu juego.",
-        "upload_your_game_description": "Sube gratis tu juego indie a <s>itch.io</s>. Nosotros hospedamos tu juego, en conjunto con pantallazos del mismo y otras descargas. Tus descargas están siempre disponibles y son  rápidas.",
+        "upload_your_game_description": "Sube gratis tu juego indie a <s>itch.io</s>. Nosotros hospedamos tu juego, junto con capturas de pantalla del mismo y otras descargas. Tus descargas están siempre disponibles y son  rápidas.",
         "learn_more_about": "Conoce más acerca de:",
         "share_message": "itch.io es una forma sencilla y gratuita de distribuir tus juegos indie en línea.",
         "create_account_or_login": "<1>Crea una cuenta</1> <em>o</em> <2>Inicia Sesión</2>",
