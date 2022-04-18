@@ -20,7 +20,8 @@
             "recommendations": "Mga Rekomendasyon",
             "game_jams": "Mga game jam",
             "log_out": "Maglog-out",
-            "create": "Lumikha"
+            "create": "Lumikha",
+            "host_game_jam": "Magsimula ng game jam"
         },
         "header": {
             "feed_unseen_count": "{{count}} bago",
@@ -63,12 +64,14 @@
             "required": "Kinakailangan"
         },
         "classifications": {
-            "comic": "Mga Komik",
+            "comic": "Mga komik",
             "soundtrack": "Mga soundtrack",
-            "book": "Mga Aklat",
+            "book": "Mga aklat",
             "game": "Mga Laro",
             "physical_game": "Mga larong pisikal",
-            "game_mod": "Mga game mod"
+            "game_mod": "Mga game mod",
+            "tool": "Mga tool",
+            "assets": "Mga game asset"
         },
         "project_visibility": {
             "published": "Nilatha"
@@ -152,7 +155,8 @@
         "nav": {
             "all_games": "Lahat ng Laro",
             "community": "Pamayanan",
-            "game_jams": "Mga game jam"
+            "game_jams": "Mga game jam",
+            "bundles": "Mga bundle"
         },
         "browse_content_type": "Maghanap ng {{content_type}}",
         "view_all_platforms": "Tignan lahat ng platforms",
@@ -181,7 +185,13 @@
         "search_games_creators": "Maghanap ng mga laro & creators",
         "view_all_blog_posts": "Tignan lahat ng update",
         "from_the_itchio_blog": "Mula sa itch.io blog",
-        "get_the_app": "<s>Sulitin ang itch.io!</s>Mag-install at pamahalaan ang mga laro mo gamit ng aming desktop app"
+        "get_the_app": "<s>Sulitin ang itch.io!</s>Mag-install at pamahalaan ang mga laro mo gamit ng aming desktop app",
+        "meta_description": "Ang itch.io ay isang simpleng paraan upang maghanap, magdownload at magbahagi ng mga indie na laro online. Mapa-developer ka man na naghahanap ng lugar na pag-uuploadan ng laro mo o naghahanap lang ng bagong malalaruan, swak ang itch.io para sayo.",
+        "intro": "<s>itch.io</s>ay isang simpleng paraan upang makahanap at magbahagi ng indie na laro sa online ng libre.",
+        "page_title": "I-download ang mga pinakabagong indie na laro",
+        "random_game": "Sapalarang piniling laro",
+        "view_all_games": "Tignan lahat ng laro",
+        "download_app": "I-download ang app"
     },
     "itchio": "itch.io",
     "dashboard": {
