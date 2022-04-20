@@ -123,7 +123,7 @@
             "soundtrack": "Bandas sonoras",
             "other": "Diversos",
             "tool": "Ferramentas",
-            "comic": "Bandas desenhadas",
+            "comic": "Banda desenhada",
             "book": "Livros"
         },
         "accessibility_features": {
@@ -546,7 +546,9 @@
             "reply_to_someone_else": "Queres responder a alguém? Clica em <s>responder</s> na parte inferior da publicação.",
             "join_the_discussion": "Junta-te à conversa. Inicia sessão ou cria gratuitamente uma conta itch.io para continuar.",
             "unlisted_topic_notice": "<s>Um moderador retirou este tópico da listagem.</s> Apesar de não estar visível, ainda podes responder e fazer alterações.",
-            "locked": "Fechado"
+            "locked": "Fechado",
+            "this_topic_was_locked_by_username": "Este tópico foi fechado por {{username}}",
+            "this_topic_is_locked": "Este tópico está fechado"
         },
         "new_topic": {
             "topic_tag": "Etiqueta",
@@ -560,7 +562,8 @@
             "sticky": "Fixo",
             "moderator_tools": "Ferramentas de moderação",
             "page_title": "Publicar um novo tópico",
-            "your_moderators_are": "O itch.io não modera estes fóruns. Os moderadores são:"
+            "your_moderators_are": "O itch.io não modera estes fóruns. Os moderadores são:",
+            "locked": "Fechado"
         },
         "post_form": {
             "post_reply": "Publicar resposta",
@@ -655,6 +658,32 @@
         "preorder_title": "Pré-reservar '{{title}}'",
         "buy_title": "Comprar '{{title}}'",
         "download_title": "Descarregar '{{title}}'",
-        "this_purchase_is_a_gift": "Esta compra é um presente"
+        "this_purchase_is_a_gift": "Esta compra é um presente",
+        "contact_support_on_error": "Se o problema persistir, por favor entra em contacto com o <a>suporte do itch.io</a> com todos os detalhes relevantes.",
+        "generic_error": "Houve um problema com a tua compra: {{error}}",
+        "billing_address": "Endereço de faturação",
+        "continue_payment": "Continuar com o pagamento",
+        "go_back": "Voltar",
+        "credit_card": "Cartão",
+        "check_out_with": "Finalizar compra com",
+        "pay_with": "Pagar com",
+        "support_the_creator_with_an_additional_contribution": "Apoia o criador com uma contribuição adicional",
+        "support_the_creator_by_paying_above_the_minimum_price": "Apoia o criador pagando acima do preço mínimo"
+    },
+    "collection": {
+        "remove_confirm": "Tem a certeza que quer remover isto da coleção",
+        "blurb_author_says": "{{author}} diz",
+        "edit_blurb": "Editar comentário",
+        "add_a_blurb": "Adicionar um comentário",
+        "remove_item_button": "Remover...",
+        "page_title": "{{collection_title}} - Coleção de {{author}}",
+        "a_collection_by_author": "Uma coleção de {{author}}",
+        "pending_invitation": "Tens um convite pendente para contribuires para esta coleção. <a>Ver convite</a>",
+        "private_collection_message": "Esta coleção é privada, apenas contribuidores podem ver os conteúdos da mesma",
+        "empty_collection_message": "Esta coleção está vazia.",
+        "edit_contributors": "Editar contribuidores",
+        "edit_collection": "Editar coleção",
+        "last_updated_date": "última atualização {{date}}",
+        "authors": "uma coleção de {{author}}"
     }
 }
