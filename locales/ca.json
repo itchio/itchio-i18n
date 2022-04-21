@@ -168,7 +168,8 @@
             "submit": "Envia",
             "optional": "Opcional",
             "search": "Cerca",
-            "form_errors": "Comproveu la informació que heu introduït"
+            "form_errors": "Comproveu la informació que heu introduït",
+            "confirm": "Confirma"
         },
         "page_number": "Pàgina {{page_number}}",
         "follow_button": {
@@ -514,10 +515,10 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Aquest tema està arxivat i ja no s'hi poden escriure missatges",
+            "topic_is_archived": "Aquest tema està arxivat. S'ha amagat i no s'hi poden escriure missatges nous.",
             "reply": "Respon",
             "log_in_to_reply": "Inicieu la sessió per a respondre",
-            "unlisted_topic_notice": "<s>Un moderador ha fet privat aquest tema.</s> No és visible a la llista de temes, però encara hi podeu respondre i fer-hi i edicions.",
+            "unlisted_topic_notice": "<s>Un moderador ha amagat aquest tema.</s> No és visible a la llista de temes, però encara hi podeu respondre i fer-hi edicions.",
             "join_the_discussion": "Uniu-vos a la discussió. Inicieu la sessió o creeu un compte gratuït a itch.io per a continuar.",
             "reply_to_someone_else": "Voleu respondre a algú altre? Feu clic a <s>respon</s> sota el seu missatge.",
             "this_reply_will_go_to_yourself": "Aquesta resposta serà a vós mateix.",
@@ -612,7 +613,8 @@
             "list_header_last_topic": "Darrer tema",
             "new_flag": "Nou",
             "archived_flag": "Arxivat",
-            "by_topic_author": "per {{username}}"
+            "by_topic_author": "per {{username}}",
+            "view_this_communitys_rules": "Mostra les normes d'aquesta comunitat..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> visualització",
@@ -625,7 +627,8 @@
             "sticky_flag": "Fixat",
             "locked_flag": "Tancat",
             "list_header_topic_title": "Tema",
-            "list_header_last_post": "Darrer missatge"
+            "list_header_last_post": "Darrer missatge",
+            "no_replies_yet": "Encara no hi ha respostes"
         }
     },
     "buy_form": {
@@ -1335,5 +1338,9 @@
         "unverified_email": {
             "title": "La vostra adreça de correu electrònic no està verificada"
         }
+    },
+    "notifications": {
+        "unseen_label": "Nova",
+        "page_title": "Notificacions"
     }
 }
