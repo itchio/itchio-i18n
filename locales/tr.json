@@ -24,20 +24,20 @@
             "register": "Kayıt ol",
             "dashboard": "Kontrol paneli",
             "jams": "Maratonlar",
-            "notifications_count": "{{count}} bildirim",
-            "notifications_count_plural": "{{count}} bildirim",
+            "notifications_count": "{{count}} Bildirim",
+            "notifications_count_plural": "{{count}} Bildirimler",
             "no_notifications": "Yeni bildiriminiz yok",
-            "free_games": "Ücretsiz oyunlar",
-            "indie_game_store": "Bağımsız oyun mağazası",
-            "game_development": "Oyun geliştirme",
-            "comics": "Çizgi romanlar",
+            "free_games": "Ücretsiz Oyunlar",
+            "indie_game_store": "Bağımsız Oyun Mağazası",
+            "game_development": "Oyun Geliştirme",
+            "comics": "Çizgi Romanlar",
             "sales": "İndirimler",
             "bundles": "Paketler",
             "game_assets": "Kaynaklar",
             "fun_games": "Eğlence oyunları",
             "games": "Oyunlar",
-            "feed_unseen_count": "{{count}} yeni",
-            "feed_unseen_count_plural": "{{count}} yeni",
+            "feed_unseen_count": "{{count}} Yeni",
+            "feed_unseen_count_plural": "{{count}} Yeniler",
             "feed": "Akış"
         },
         "user_menu": {
@@ -48,9 +48,9 @@
             "settings": "Ayarlar",
             "view_profile": "Profili görüntüle",
             "host_game_jam": "Oyun maratonu başlat",
-            "sales_bundles": "İndirimler ve paketler",
+            "sales_bundles": "İndirimler ve Kampanyalar",
             "new_project": "Yeni bir proje yükle",
-            "dashboard": "Kontrol paneli",
+            "dashboard": "Kontrol Paneli",
             "game_jams": "Oyun Maratonları",
             "recommendations": "Öneriler",
             "library": "Kütüphanem",
@@ -71,7 +71,7 @@
         "get_the_app": "<s>Itch.io'dan en iyi şekilde yararlanın!</s> Oyunlarınızı masaüstü uygulaması ile kurun ve yönetin",
         "from_the_itchio_blog": "Itch.io Blog'undan",
         "view_all_blog_posts": "Tüm güncellemeleri görüntüle",
-        "search_games_creators": "Oyunları ve geliştiricileri ara",
+        "search_games_creators": "Oyunları ve Geliştiricileri Ara",
         "browse_all_tags": "Tüm etiketlere gözat",
         "on_sale": "İndirimdekiler",
         "free_games": "Ücretsiz oyunlar",
@@ -123,7 +123,7 @@
             "game": "Oyunlar",
             "comic": "Çizgi Romanlar",
             "assets": "Oyun kaynak dosyaları",
-            "game_mod": "Oyun tarzları",
+            "game_mod": "Oyun Eklentileri",
             "other": "Çeşitli"
         },
         "accessibility_features": {
@@ -161,14 +161,14 @@
             "save": "Kaydet",
             "email_address": "E-Posta Adresi",
             "submit": "Gönder",
-            "confirm": "Onaylamak"
+            "confirm": "Onayla"
         },
         "follow_button": {
-            "following_username": "{{username}} takip ediliyor",
+            "following_username": "Takip Ediliyor {{username}}",
             "following": "Takip ediliyor",
             "follow_username": "{{username}} Takip et",
             "follow": "Takip et",
-            "unfollow_username": "{{username}} takibi bırak",
+            "unfollow_username": "Takibi Bırak {{username}}",
             "unfollow": "Takibi bırak"
         },
         "filter_when": {
@@ -195,7 +195,7 @@
             "half_hour": "Yaklaşık yarım saat",
             "hour": "Yaklaşık bir saat",
             "hours": "Birkaç saat",
-            "days": "Günler ya da daha uzun"
+            "days": "Günler ya da daha fazla"
         },
         "page_number": "Sayfa {{page_number}}",
         "lightboxes": {
@@ -205,7 +205,7 @@
             "web": "İnternet"
         },
         "collection_button": {
-            "add_to_collection": "Kütüphaneye ekle"
+            "add_to_collection": "Kolleksiyona Ekle"
         },
         "countdown": {
             "years": "Yıl",
@@ -381,7 +381,7 @@
         "filter_group_misc": "Diğer",
         "filter_group_collection": "Koleksiyon",
         "filter_group_tools": "Araçlar ve Motorlar",
-        "fresh_description": "Üyelerimiz tarafından öne çıkarılan ve sık sık güncellenen proje listesine göz atın. Yeni eklenen projeleri görmek için burayı daha sonra tekrar kontrol edin.",
+        "fresh_description": "Üyelerimiz tarafından derlenen koleksiyonlardan elde edilen sürekli güncellenen bir dizi projeye göz atın. Yeni eklemeler için tekrar kontrol edin.",
         "filter_group": {
             "more_options": "Daha Fazla Seçenek",
             "fewer_options": "Daha Az Seçenek",
@@ -714,7 +714,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Bu konu arşivlere taşındı ve altına yorum yapılamıyor",
+            "topic_is_archived": "Bu konu arşivlendi ve liste dışına alındı. Yeni paylaşım yapılamaz.",
             "reply": "Yanıtla",
             "log_in_to_reply": "Yanıt vermek için giriş yap",
             "unlisted_topic_notice": "<s>Yönetici bu konuyu listeden kaldırdı.</s> Bu konu, konular listesinde görünmüyor fakat yine de cevap yazabilir ve düzenleme yapabilirsiniz.",
@@ -985,7 +985,7 @@
                 "unavailable_to_rate": "Kendi girdinizi göndermediğiniz için bu projeye puan veremezsiniz. Yine de aşağıya bir yorum bırakabilirsiniz."
             },
             "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
-            "rated_by_people_count_plural": "Şu ana kadar {{count}} kişi tarafından derecelendirildi",
+            "rated_by_people_count_plural": "Şimdiye dek {{count}} kişi tarafından oylandı",
             "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
             "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
             "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
@@ -1340,6 +1340,7 @@
         "in_bundle": "Pakette"
     },
     "notifications": {
-        "page_title": "Bildirimler"
+        "page_title": "Bildirimler",
+        "unseen_label": "Yeni"
     }
 }
