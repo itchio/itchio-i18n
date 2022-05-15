@@ -168,7 +168,8 @@
             "submit": "Enviar",
             "optional": "Opcional",
             "search": "Procurar",
-            "form_errors": "Por favor, verifique as informações que você forneceu"
+            "form_errors": "Por favor, verifique as informações que você forneceu",
+            "confirm": "Confirmar"
         },
         "page_number": "Página {{page_number}}",
         "follow_button": {
