@@ -458,6 +458,7 @@
             "submission_to_jam": "Submission to {{jam_title}}",
             "related_games": "Related games",
             "related_games_short": "Related",
+            "included_in_bundle_title": "Included in {{bundle_title}}",
             "ownership": {
                 "you_own_this": "You own this",
                 "send_gift": "Send Gift",
@@ -727,7 +728,15 @@
         "page_title": "Top tags",
         "find_tag": "Find tag",
         "commonly_tagged_with": "Commonly tagged with",
-        "no_description_yet": "No description yet"
+        "no_description_yet": "No description yet",
+        "types": {
+            "genre": "Genres",
+            "style": "Styles",
+            "platform": "Platforms",
+            "event": "Events",
+            "tool": "Tools"
+        },
+        "all_tags": "All tags"
     },
     "buy_form_popup": {
         "author_line": "<1>by</1> {{author}}",
