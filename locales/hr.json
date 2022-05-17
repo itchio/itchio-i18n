@@ -226,9 +226,9 @@
         }
     },
     "game": {
-        "community_posts_count_0": "post",
-        "community_posts_count_1": "posta",
-        "community_posts_count_2": "postova",
+        "community_posts_count_0": "{{count}} post",
+        "community_posts_count_1": "{{count}} posta",
+        "community_posts_count_2": "{{count}} postova",
         "community_post_author": "od {{username}}",
         "info_panel": {
             "languages": "Jezici",
