@@ -56,7 +56,7 @@
             "please_enter_a_valid_email_address": "Bonvolu tajpi validan retpoŝtadreson"
         },
         "intent": {
-            "follow_username": "Vi bezonas konton en itch.io antaŭ vi povas sekvi <1>{{username}</1>."
+            "follow_username": "Vi bezonas konton en itch.io antaŭ vi povas sekvi <1>{{username}}</1>."
         }
     },
     "user_register": {
