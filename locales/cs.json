@@ -616,7 +616,11 @@
             "replies_count_0": "<s>{{count}}</s> odpověď",
             "replies_count_1": "<s>{{count}}</s> odpovědi",
             "replies_count_2": "<s>{{count}}</s> odpovědi",
-            "no_posts_yet": "Zatím žádné příspěvky"
+            "no_posts_yet": "Zatím žádné příspěvky",
+            "started_by_author": "vytvořil {{topic_author}}",
+            "views_count_0": "<s>{{count}}</s> zobrazení",
+            "views_count_1": "<s>{{count}}</s> zobrazení",
+            "views_count_2": "<s>{{count}}</s> zobrazení"
         },
         "category": {
             "new_flag": "Nový",
@@ -630,11 +634,14 @@
             "subscribe_to_new_topics": "Přihlaste se k odběru nových témat",
             "empty_message": "Nejsou zde žádná témata",
             "create_first_topic_button": "Vytvořte první téma",
-            "view_this_communitys_rules": "Zobrazit pravidla této komunity",
+            "view_this_communitys_rules": "Zobrazit pravidla této komunity...",
             "by_topic_author": "od {{username}}",
             "archived_flag": "Archivované",
             "search_community_label": "Prohledejte komunitu",
-            "there_arent_any_topics_yet": "Nejsou zde zatím žádné témata"
+            "there_arent_any_topics_yet": "Nejsou zde zatím žádné témata",
+            "topics_count_0": "{{count}} téma",
+            "topics_count_1": "{{count}} témata",
+            "topics_count_2": "{{count}} témat"
         }
     },
     "buy_form": {
@@ -648,6 +655,208 @@
         "sold_out_notice": "Tento produkt je momentálně vyprodaný, vraťte se později.",
         "preorder_title": "Předobjednávka '{{title}}'",
         "buy_title": "Koupit '{{title}}'",
-        "download_title": "Stažení '{{title}}'"
+        "download_title": "Stažení '{{title}}'",
+        "generic_error": "Při nákupu došlo k potížím: {{error}}",
+        "continue_payment": "Pokračovat v platbě",
+        "support_the_creator_with_an_additional_contribution": "Podpořte tvůrce dodatečným příspěvkem",
+        "go_back": "Zpět",
+        "billing_address": "Fakturační adresa",
+        "credit_card": "kartu",
+        "pay_with": "Zaplatit přes",
+        "support_the_creator_by_paying_above_the_minimum_price": "Podpořte tvůrce tím, že zaplatíte více než minimální cenu",
+        "this_purchase_is_a_gift": "Tento nákup je dárek",
+        "agree_to_terms": "Dokončením platby souhlasíte se <1>smluvními podmínkami</1> a <2>zásadami ochrany osobních údajů</2> itch.io.",
+        "included_files": "Přiložené soubory",
+        "i_already_paid_for_this": "Za toto jste již zaplatil/a ...",
+        "gift_email_instructions": "Po zaplacení vyberete e-mail, na který chcete dárek poslat",
+        "your_email_address": "Vaše emailová adresa",
+        "download_this_product_by_purchasing_it_for": "Stáhněte si tento produkt za {{price}} nebo více.",
+        "preorder_this_product_by_purchasing_it_for": "Předobjednejte si tento produkt za {{price}} nebo více."
+    },
+    "game_download": {
+        "get_external_key": "Získat{{key_type}} klíč",
+        "already_own": "Vypadá to, že toto již vlastníte",
+        "linked_user_message": "Tato stránka je připojená k účtu {{username}}.",
+        "header": {
+            "return_to_project": "Zpět na projekt",
+            "view_all_my_purchases": "Zobrazit všechny mé nákupy",
+            "download_title": "Stáhnout {{project_title}}",
+            "preorder_title": "Předobjednávka {{project_title}}",
+            "more_menu": "Více",
+            "invoice": "Faktura"
+        },
+        "version_name": "Verze {{version_name}}",
+        "start_project_button": "Start",
+        "play_in_your_browser": "Hrát v prohlížeči",
+        "app_banner": {
+            "app_description": "Snadno instalujte a spravujte svoje hry přímo z icht.io aplikace",
+            "get_the_app": "Získat aplikaci"
+        },
+        "check_out_more_from_jam_title": "Zobrazit více z {{jam_title}}",
+        "recommendations_title": "Více, co by Vás mohlo zajímat",
+        "install_instructions_intro": "Instrukce ke stažení a instalaci od {{username}}:",
+        "trouble_downloading_link": "Stahování nezačalo?",
+        "or_share_on": "nebo sdílejte na",
+        "social_share_message_download": "Právě jsem si stáhnul/a {{title}} od {{username}}",
+        "share_and_follow": "Sdílet a sledovat"
+    },
+    "stripe_checkout": {
+        "name_as_it_appears_on_card": "Stejné jako je uvedeno na kartě",
+        "full_name": "Celé jméno",
+        "youll_be_mailed_your_access_link": "Na e-mail jsme vám odeslali váš přístupový odkaz",
+        "email": "E-mail",
+        "linked_to_account": "Připojeno k účtu",
+        "steam_key": "Steam klíč",
+        "you_will_receive_files": "Obdržíte:",
+        "donating_price_to": "Darovat {{price}} pro:",
+        "paying_price_for": "Zaplatit {{price}} za:",
+        "pay_price_button": "Zaplatit {{price}}",
+        "manage_cards_link": "Svoje karty můžete spravovat v <a>nastavení vašeho účtu</a>",
+        "save_credit_card_for_future_purchases": "Uložit kartu pro budoucí nákupy",
+        "credit_or_debit_card": "Kreditní nebo debetní karta",
+        "gift_instructions": "Tento nákup je dárek. Po zaplacení budete moct zadat e-mail adresu příjemce.",
+        "password": "Heslo",
+        "enter_your_password_to_use_your_card": "Pro použití karty zadejte Vaše heslo",
+        "new_card": "Nová karta",
+        "edit_saved_cards": "Upravit uložené karty",
+        "choose_a_card": "Vyberte kartu",
+        "payment_error_help": "Pokud si nejste jisti, prosím kontaktujte <a>itch.io podporu</a> s následující zprávou.",
+        "payment_error": "Při zpracování vaší platby došlo k chybě:"
+    },
+    "user_settings": {
+        "email_addresses": {
+            "additional_emails": {
+                "detach_email": "Odebrat e-mail",
+                "email_sent_status": "e-mail odeslán",
+                "resend_verification_email_button": "znovu odeslat ověřovací e-mail",
+                "verified_column": "Ověřeno",
+                "email_column": "e-mail"
+            },
+            "add_email_form": {
+                "add_email_button": "Přidat e-mail",
+                "additional_email_address_label": "Dodatečné e-mail adresy"
+            },
+            "additional_emails_instructions": "Po přidání nového e-mailu vám zašleme instrukce pro ověření.",
+            "primary_email_description": "Na Váš hlavní e-mail vám bude itch.io zasílat upozornění.",
+            "change_email_form": {
+                "current_password": "Aktuální heslo",
+                "new_email_address": "Nová e-mail adresa"
+            },
+            "your_primary_email_address": "Vaše hlavní e-mail adresa je: {{email}}",
+            "primary_email_header": "Hlavní e-mail"
+        },
+        "password": {
+            "new_password_again": "Nové heslo znovu",
+            "password_again": "Heslo znovu",
+            "new_password": "Nové heslo",
+            "password": "Heslo",
+            "current_password": "Aktuální heslo",
+            "set_password": "Nastavit heslo",
+            "reset_password": "Obnovit heslo"
+        },
+        "profile": {
+            "profile_description": "Obsah vaší profilové stránky",
+            "profile": "Profil",
+            "use_dark_theme": "Používat tmavý režim, pokud je dostupný",
+            "disable_autoloading_next_page_when_browsing": "Vypnout automatické načítání dalších stránek při procházení",
+            "disable_animated_gifs": "Vypnout animované GIFy",
+            "show_adult_content": "Zobrazit při vyhledávání a procházení obsah, který je označený jako pro dospělé",
+            "content_description": "Jaký typ obsahu se vám bude zobrazovat",
+            "content": "Obsah",
+            "default_language_option": "Výchozí (Nastaven na Angličtinu během testování jazyků)",
+            "account_type_developer": "Vývoj a nahrávání her",
+            "account_type_gamer": "Hraní a stahování her",
+            "account_type_description": "Jakým způsobem budete využívat váš účet",
+            "account_type": "Typ účtu",
+            "twitter_description": "Twitter účet k zobrazení na vašem profilu",
+            "website_description": "Volitelná URL k zobrazení na vašem profilu",
+            "website": "Webová stránka",
+            "display_name_description": "Bude zobrazováno na místo vašeho uživatelského jména. Nechtě prázdné pro použití uživatelského jména",
+            "display_name": "Zobrazované jméno",
+            "profile_image": "Profilový obrázek",
+            "url_description": "Veřejná URL vašeho profilu",
+            "you_recently_changed_your_username": "Nedávno jste si změnili uživatelské jméno",
+            "change_username": "Změnit moje uživatelské jméno/URL",
+            "username_description": "Používá se pro přihlášení k vašemu účtu a je obsaženo v URL vaší stránky",
+            "username": "Uživatelské jméno",
+            "page_header": "Profil",
+            "language_description": "Jazyk, ve kterém se vám bude itch.io zobrazovat",
+            "language": "Jazyk",
+            "language_community_translation": "<s>itch.io je překládáno členy naší komunity.</s> Některé jazyky jsou dostupné pouze z části. Pokud máte zájem nám pomoct přeložit itch.io nebo chcete opravit chyby v překladu, můžete se přidat. <a>Více informací</a>"
+        },
+        "navigation": {
+            "oauth_applications": "OAuth aplikace",
+            "api_keys": "API klíče",
+            "data_export": "Export dat",
+            "privacy": "Soukromí",
+            "connected_accounts": "Připojené účty",
+            "email_notifications": "Upozornění na e-mail",
+            "billing_address": "Fakturační adresa",
+            "credit_cards": "Kreditní karty",
+            "two_factor_auth": "Dvojfázové ověření",
+            "password": "Heslo",
+            "profile": "Profil",
+            "developer_header": "Vývojář",
+            "misc_header": "Různé",
+            "contact_header": "Kontakt",
+            "publisher_header": "Vydavatel",
+            "payment_header": "Platby",
+            "basics_header": "Obecné"
+        },
+        "account_settings": "Nastavení účtu"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>od</1> {{author}}"
+    },
+    "browse_tags": {
+        "no_description_yet": "Zatím bez popisku",
+        "find_tag": "Najít štítek",
+        "page_title": "Populární štítky"
+    },
+    "browse": {
+        "filter_everything_else": "Vše ostatní",
+        "filter_group": {
+            "clear_filter": "Vymazat filtr",
+            "fewer_options": "Méně možností",
+            "more_options": "Více možností"
+        },
+        "filter_group_tools": "Nástroje a Enginy",
+        "filter_group_collection": "Kolekce",
+        "filter_group_release_status": "Stav vydání",
+        "filter_group_type": "Typ",
+        "filter_group_multiplayer": "Možnosti hry pro více hráčů",
+        "filter_group_session_length": "Průměrná délka hraní",
+        "filter_group_input_methods": "Možnosti ovládání",
+        "filter_group_when": "Období",
+        "filter_by_tag": "Filtrovat podle štítku",
+        "view_all_tags": "Zobrazit všechny štítky",
+        "filter_group_platform": "Platforma",
+        "tag": {
+            "no_description_yet": "Zatím bez popisku"
+        },
+        "filter_group_genre": "Žánr",
+        "filter_group_price": "Cena",
+        "related_collections": "Související kolekce",
+        "clear_filters": "Vymazat",
+        "filter_results": "Filtrovat výsledky",
+        "upload_your_project": "<a>Nahrajte svůj projekt</a> na itch.io pro jeho zobrazení zde.",
+        "sort": "Seřadit",
+        "sort_most_recent": "Nejnovější",
+        "sort_top_rated": "Nejlépe hodnocené",
+        "sort_top_sellers": "Nejprodávanější",
+        "sort_new_and_popular": "Nové a Polulární",
+        "sort_popular": "Populární",
+        "results_count_0": "{{count}} výsledek",
+        "results_count_1": "{{count}} výsledky",
+        "results_count_2": "{{count}} výsledků",
+        "results_count_plural": "{{count}} výsledků"
+    },
+    "collection": {
+        "remove_confirm": "Jste si jistí, že chcete odebrat tuto položku z kolekce",
+        "empty_collection_message": "Tato kolekce je prázdná.",
+        "blurb_author_says": "{{author}} říká",
+        "remove_item_button": "Odebrat...",
+        "page_title": "{{collection_title}} - Kolekce od {{author}}",
+        "edit_collection": "Upravit kolekci"
     }
 }
