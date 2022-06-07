@@ -5,15 +5,15 @@
             "about": "Informazioni",
             "faq": "FAQ",
             "blog": "Blog",
-            "contact_us": "Contattaci",
+            "contact_us": "Contattateci",
             "terms": "Termini di servizio",
             "directory": "Elenco",
             "privacy": "Privacy",
-            "cookies": "Cookies"
+            "cookies": "Biscotti"
         },
         "header": {
             "browse": "Esplora",
-            "browse_games": "Sfoglia giochi",
+            "browse_games": "Sfoglia i giochi",
             "game_jams": "Game Jam",
             "upload_game": "Carica un gioco",
             "devlogs": "Registri degli sviluppatori",
