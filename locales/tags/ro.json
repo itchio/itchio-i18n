@@ -1,1 +1,15 @@
-{}
+{
+    "tags": {
+        "abstract": "Abstract",
+        "animals": "Animale",
+        "aliens": "Extratereștri",
+        "adventure": "Aventură",
+        "action-adventure": "Acțiune-Aventură",
+        "action": "Acțiune",
+        "8-bit": "8-Bit",
+        "4x": "4X",
+        "3d-platformer": "Platformer 3D",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
