@@ -170,7 +170,8 @@
             "submit": "Trimite",
             "optional": "Opțional",
             "search": "Caută",
-            "form_errors": "Te rog să verifici informaţiile pe care le-ai furnizat"
+            "form_errors": "Te rog să verifici informaţiile pe care le-ai furnizat",
+            "confirm": "Confirmează"
         },
         "page_number": "Pagina {{page_number}}",
         "follow_button": {
@@ -658,7 +659,23 @@
         "results_count_0": "{{count}} rezultat",
         "results_count_1": "{{count}} rezultate",
         "results_count_2": "{{count}} de rezultate",
-        "results_count_plural": "{{count}} rezultate"
+        "results_count_plural": "{{count}} rezultate",
+        "filter_group_collection": "Colecție",
+        "filter_group_accessibility_features": "Opțiuni de accessibilitate",
+        "upload_your_project": "<a>Încarcă-ți proiectul</a> pe itch.io ca să fie aici.",
+        "filter_everything_else": "Orice altceva",
+        "filter_group": {
+            "clear_filter": "Șterge filtru",
+            "fewer_options": "Mai Puține Opțiuni",
+            "more_options": "Mai multe opțiuni"
+        },
+        "type_downloadable": "Descărcabil",
+        "filter_group_type": "Scrie",
+        "filter_group_multiplayer": "Caracteristici multiplayer",
+        "filter_group_when": "Când",
+        "filter_group_platform": "Platformă",
+        "clear_filters": "Șterge",
+        "filter_results": "Filtrează rezultatele"
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
@@ -690,7 +707,8 @@
         "support_the_creator_with_an_additional_contribution": "Sprijiniți creatorul cu o contribuție suplimentară",
         "support_the_creator_by_paying_above_the_minimum_price": "Sprijiniți creatorul plătind peste prețul minim",
         "pay_with": "Plătiți cu",
-        "this_purchase_is_a_gift": "Această achiziție este un cadou."
+        "this_purchase_is_a_gift": "Această achiziție este un cadou.",
+        "sold_out_notice": "Acest produs nu este în stoc, verifică mai târziu."
     },
     "collection": {
         "remove_item_button": "Eliminați...",
@@ -707,5 +725,14 @@
         "blurb_author_says": "{{author}} spune",
         "edit_blurb": "Editează textul",
         "add_a_blurb": "Adaugă un text"
+    },
+    "user_settings": {
+        "navigation": {
+            "payment_header": "Plată"
+        },
+        "account_settings": "Setările contului"
+    },
+    "buy_form_popup": {
+        "author_line": "<1>de</1>"
     }
 }
