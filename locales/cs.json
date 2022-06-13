@@ -671,7 +671,8 @@
         "gift_email_instructions": "Po zaplacení vyberete e-mail, na který chcete dárek poslat",
         "your_email_address": "Vaše emailová adresa",
         "download_this_product_by_purchasing_it_for": "Stáhněte si tento produkt za {{price}} nebo více.",
-        "preorder_this_product_by_purchasing_it_for": "Předobjednejte si tento produkt za {{price}} nebo více."
+        "preorder_this_product_by_purchasing_it_for": "Předobjednejte si tento produkt za {{price}} nebo více.",
+        "no_thanks_just_take_me_to_the_downloads": "Ne, děkuji, jen mě vezmi k stahování"
     },
     "game_download": {
         "get_external_key": "Získat{{key_type}} klíč",
@@ -683,7 +684,8 @@
             "download_title": "Stáhnout {{project_title}}",
             "preorder_title": "Předobjednávka {{project_title}}",
             "more_menu": "Více",
-            "invoice": "Faktura"
+            "invoice": "Faktura",
+            "discussion_board": "Diskuze"
         },
         "version_name": "Verze {{version_name}}",
         "start_project_button": "Start",
@@ -698,7 +700,11 @@
         "trouble_downloading_link": "Stahování nezačalo?",
         "or_share_on": "nebo sdílejte na",
         "social_share_message_download": "Právě jsem si stáhnul/a {{title}} od {{username}}",
-        "share_and_follow": "Sdílet a sledovat"
+        "share_and_follow": "Sdílet a sledovat",
+        "purchase": {
+            "percent_off": "o {{percent}}% zlevněno",
+            "youve_been_gifted": "Byl jsi darován {{product_title}}."
+        }
     },
     "stripe_checkout": {
         "name_as_it_appears_on_card": "Stejné jako je uvedeno na kartě",
@@ -849,7 +855,9 @@
         "results_count_0": "{{count}} výsledek",
         "results_count_1": "{{count}} výsledky",
         "results_count_2": "{{count}} výsledků",
-        "results_count_plural": "{{count}} výsledků"
+        "results_count_plural": "{{count}} výsledků",
+        "filter_group_misc": "Ostatní",
+        "type_downloadable": "Stahovatelné"
     },
     "collection": {
         "remove_confirm": "Jste si jistí, že chcete odebrat tuto položku z kolekce",
@@ -857,6 +865,204 @@
         "blurb_author_says": "{{author}} říká",
         "remove_item_button": "Odebrat...",
         "page_title": "{{collection_title}} - Kolekce od {{author}}",
-        "edit_collection": "Upravit kolekci"
+        "edit_collection": "Upravit kolekci",
+        "private_collection_message": "Tato kolekce je soukromá, jen přispěvatelé mohou vidět její obsah",
+        "last_updated_date": "posledně aktualizováno {{date}}",
+        "authors": "kolekce od {{author}}"
+    },
+    "add_to_collection": {
+        "add_button": "Přidat do kolekce",
+        "default_title": "Kolekce od {{username}}",
+        "add_to_new": "Přidat do nové kolekce s názvem",
+        "private_collection_title": "[Soukromé] {{title}}",
+        "add_to_existing": "Přidat do existující kolekce",
+        "count_items_0": "{{count}} předmět",
+        "count_items_1": "{{count}} předměty",
+        "count_items_2": "{{count}} předmětů",
+        "already_in_collections": "Tento projekt je již v těchto kolekcích:",
+        "dialog_title": "Přidat {{project_title}} do kolekce"
+    },
+    "dashboard": {
+        "project_header": {
+            "more": "Více",
+            "admins": "Administrátoři",
+            "rewards": "Odměny",
+            "discussion_board": "Diskuze",
+            "edit_comments": "Upravit komentáře",
+            "distribute": "Distribuovat",
+            "analytics": "Statistiky",
+            "metadata": "Metadata",
+            "devlog": "Devlog",
+            "edit_project": "Upravit projekt"
+        },
+        "edit_project": {
+            "screenshots_header": "Screenshoty",
+            "add_screenshots": "Přidat screenshoty",
+            "uploads": {
+                "set_price_toggle": "Nastavit jinou cenu pro tento soubor",
+                "demo_toggle": "Tento soubor je demo a může být stažen zdarma",
+                "hide_toggle": "Schovat tento soubor a zabránit jeho stahování",
+                "play_in_browser_toggle": "Tento soubor bude přehrán v prohlížeči",
+                "delete_file_button": "Smazat soubor"
+            },
+            "pricing": {
+                "minimum_price_label": "Minimální cena",
+                "no_payments": "Žádné platby",
+                "paid": "Placené"
+            },
+            "details_genre_header": "Žánr",
+            "embed_options": {
+                "orientation": "Orientace",
+                "mobile_friendly_info": "Tvůj projekt může být spuštěn na mobilu (menší rozlišení a podpora dotyku)",
+                "height": "Výška",
+                "width": "Šířka"
+            },
+            "embed_options_header": "Nastavení embed",
+            "error_dialog": {
+                "title": "S uložením projektu byl problém"
+            },
+            "errors": {
+                "invalid_image": "Prosím uprav obrázek nebo zkus jiný",
+                "invalid_file": "S vybraným souborem je problém"
+            },
+            "cover_uploader": {
+                "remove_image": "Odstranit obrázek"
+            },
+            "payment_warning_info": "Nastavíš-li minimální cenu nad 0, nikdo by si nemohl stáhnout tvůj projekt. <a>Upravit účet</a>",
+            "payment_warning_header": "Nemáš nakonfigurované platby",
+            "content_guidelines_header": "Ujisti se, že všichni mohou najít tvoji stránku",
+            "file_size_limit": "Maximální velikost souboru: {{filesize}}. <a>Kontaktuj nás</a>, jestli potřebuješ více prostoru.",
+            "add_external_file_button": "Přidat externí soubor",
+            "upload_files_button": "Nahrát soubory",
+            "pricing_header": "Cena",
+            "community_discussion_board": "Diskuze",
+            "community_comments": "Komentáře",
+            "community_disabled": "Vypnuto",
+            "community_field": "Komunita",
+            "instructions_field_info1": "Tento text se zobrazí, když si někdo stahuje tvojí hru přes prohlížeč. Zahrň informace, jak nainstalovat a spustit co stahují.",
+            "instructions_field_info2": "Jestli tvoje hra potřebuje nějaké knihovny nebo programy, které musí být předem nainstalovány, měl by jsi tyto informace nevynechat.",
+            "tip_label": "Tip",
+            "types": {
+                "downloadable": "Stahovatelné"
+            },
+            "classification_other": "Ostatní",
+            "instructions_field": "Stáhnout & instalovat instrukce",
+            "custom_noun_field_description": "Můžeš změnit, jak itch.io říká tvému projektu poskytnutím vlastního podstatného jména.",
+            "custom_noun_field": "Vlastní podstatné jméno",
+            "description_field": "Popis",
+            "details_section_header": "Podrobnosti",
+            "kind_of_project_field": "Druh projektu",
+            "classification_field_description": "Co nahráváš?",
+            "classification_field": "Klasifikace",
+            "short_description_field": "Krátký popis nebo slogan",
+            "delete_game_button": "Smazat hru",
+            "video_field_description": "Poskytni odkaz na YouTube nebo Vimeo.",
+            "video_field": "Video hry nebo trailer",
+            "save_and_view_button": "Uložit & zobrazit stránku",
+            "project_url_field": "URL projektu",
+            "title_field": "Nadpis",
+            "edit_project_title": "Upravit projekt",
+            "create_a_new_project_title": "Vytvořit nový projekt"
+        },
+        "hello": "Ahoj!",
+        "new_devlog": "Nový devlog",
+        "recently_updated_pages_header": "Nedávno aktualizované stránky",
+        "intro_text": "Jsi developer? Nahraj svoji první hru",
+        "project_list": {
+            "no_image": "Žádný obrázek",
+            "analytics": "Statistiky",
+            "edit": "Upravit"
+        },
+        "create_new_project_button": "Vytvořit nový projekt",
+        "header": {
+            "game_jams_link": "Game jamy",
+            "coop_bundles_link": "Co-op balíčky",
+            "sales_bundles_link": "Slevy & balíčky",
+            "analytics_link": "Statistiky",
+            "payments_link": "Platby",
+            "projects_link": "Projekty"
+        },
+        "follow_itchio": "Sleduj itch.io na {{twitter}}u a {{facebook}}u",
+        "stats": {
+            "followers": "Sledovatelů",
+            "downloads": "Stáhnutí",
+            "views": "Zhlédnutí",
+            "payments": "Platby"
+        }
+    },
+    "jam": {
+        "screenshots": {
+            "loading_more": "Načítání více screenshotů...",
+            "empty_message": "Nejsou zatím nahrány žádné screenshoty"
+        },
+        "submission": {
+            "rate_submission": {
+                "you_voted_ago": "Hlasoval jsi {{timestamp}}.",
+                "save_rating": "Uložit hodnocení",
+                "save_vote": "Uložit hlas",
+                "sign_up_to_vote": "<a>Přihlas se s itch.io účtem</a>, aby jsi mohl hlasovat a komentovat.",
+                "sign_up_to_rate": "<a>Přihlas se s itch.io účtem</a>, aby jsi mohl hodnotit a komentovat.",
+                "private_field": "(soukromé)",
+                "vote": "Hlasovat"
+            },
+            "rated_by_people_count_0": "Zatím ohodnoceno {{count}} člověkem",
+            "rated_by_people_count_1": "Zatím ohodnoceno {{count}} lidmi",
+            "rated_by_people_count_2": "Zatím ohodnoceno {{count}} lidmi",
+            "results_header": "Výsledky",
+            "play_game": "Hrát hru",
+            "link_to_itchio_page": "{{game_title}} itch.io stránka",
+            "comments": {
+                "empty_message": "Nikdo ještě nenapsal komentář",
+                "post_comment": "Poslat komentář",
+                "leave_a_comment_header": "Komentovat"
+            },
+            "results_table_score": "Skóre",
+            "results_table_votes": "Hlasy",
+            "results_table_criteria": "Kritéria"
+        },
+        "results": {
+            "submissions": {
+                "ranked_score": "Skóre: {{score}}"
+            },
+            "average_and_median_results": "Průměrný počet hodnocení na hru bylo <s>{{average_ratings}}</s> a průměr byl <s>{{median_ratings}}</s>.",
+            "ratings_given_count_0": "<s>{{count}}hodnocení</s> bylo uděleno mezi {{vote_start_date}} a {{vote_end_date}}.",
+            "ratings_given_count_1": "<s>{{count}}hodnocení</s> byly uděleny mezi {{vote_start_date}} a {{vote_end_date}}.",
+            "ratings_given_count_2": "<s>{{count}}hodnocení</s> byla udělena mezi {{vote_start_date}} a {{vote_end_date}}.",
+            "votes_cast_count_0": "<s>{{count}}</s> hlas byl udělen mezi {{vote_start_date}} a {{vote_end_date}}.",
+            "votes_cast_count_1": "<s>{{count}}</s> hlasy byly uděleny mezi {{vote_start_date}} a {{vote_end_date}}.",
+            "votes_cast_count_2": "<s>{{count}}</s> hlasů bylo uděleno mezi {{vote_start_date}} a {{vote_end_date}}.",
+            "results": "Výsledky"
+        },
+        "submissions": {
+            "filter": "Filtrovat"
+        },
+        "submitter": {
+            "countdown": {
+                "voting_ends_in": "Hlasování končí za",
+                "starts_in": "Začíná za"
+            },
+            "view_entries_0": "Vidět {{count}} výsledek",
+            "view_entries_1": "Vidět {{count}} výsledky",
+            "view_entries_2": "Vidět {{count}} výsledků",
+            "view_results": "Vidět výsledky",
+            "submissions_open_from": "Příspěvky otevřeny od {{start_date}} do {{end_date}}"
+        },
+        "stats": {
+            "ratings": "Hodnocení"
+        },
+        "header": {
+            "links": {
+                "edit_jam": "Editovat jam",
+                "screenshots": "Screenshoty",
+                "overview": "Přehled",
+                "submissions": "Příspěvky",
+                "results": "Výsledky",
+                "community": "Komunita"
+            }
+        }
+    },
+    "notifications": {
+        "page_title": "Notifikace",
+        "unseen_label": "Nové"
     }
 }
