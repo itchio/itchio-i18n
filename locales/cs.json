@@ -880,7 +880,10 @@
         "count_items_1": "{{count}} předměty",
         "count_items_2": "{{count}} předmětů",
         "already_in_collections": "Tento projekt je již v těchto kolekcích:",
-        "dialog_title": "Přidat {{project_title}} do kolekce"
+        "dialog_title": "Přidat {{project_title}} do kolekce",
+        "about_this_project_label": "O tomto projektu",
+        "private_collection_option": "Soukromá kolekce — Jen ty můžeš vidět obsah",
+        "manage_collections_link": "Upravit kolekce"
     },
     "dashboard": {
         "project_header": {
@@ -931,7 +934,7 @@
             "payment_warning_info": "Nastavíš-li minimální cenu nad 0, nikdo by si nemohl stáhnout tvůj projekt. <a>Upravit účet</a>",
             "payment_warning_header": "Nemáš nakonfigurované platby",
             "content_guidelines_header": "Ujisti se, že všichni mohou najít tvoji stránku",
-            "file_size_limit": "Maximální velikost souboru: {{filesize}}. <a>Kontaktuj nás</a>, jestli potřebuješ více prostoru.",
+            "file_size_limit": "Maximální velikost souboru: {{filesize}}. <a>Kontaktuj nás</a>, jestli potřebuješ více prostoru",
             "add_external_file_button": "Přidat externí soubor",
             "upload_files_button": "Nahrát soubory",
             "pricing_header": "Cena",
@@ -940,7 +943,7 @@
             "community_disabled": "Vypnuto",
             "community_field": "Komunita",
             "instructions_field_info1": "Tento text se zobrazí, když si někdo stahuje tvojí hru přes prohlížeč. Zahrň informace, jak nainstalovat a spustit co stahují.",
-            "instructions_field_info2": "Jestli tvoje hra potřebuje nějaké knihovny nebo programy, které musí být předem nainstalovány, měl by jsi tyto informace nevynechat.",
+            "instructions_field_info2": "Jestli tvoje hra potřebuje nějaké knihovny nebo programy, které musí být předem nainstalovány, měl by jsi tyto informace nevynechat",
             "tip_label": "Tip",
             "types": {
                 "downloadable": "Stahovatelné"
@@ -1064,5 +1067,83 @@
     "notifications": {
         "page_title": "Notifikace",
         "unseen_label": "Nové"
+    },
+    "library": {
+        "redeem_button": "Uplatnit",
+        "rate_game": {
+            "you_rated_this_project_ago": "Ohodnotil jsi tento projekt {{time_ago}}.",
+            "rate_header": "Ohodnoť & Recenzuj {{project_title}}",
+            "choose_stars": "Vyber si hodnocení od 1 do 5 hvězdiček.",
+            "delete_button": "Smazat hodnocení & recenzi",
+            "rating_deleted_summary": "Tvoje hodnocení bylo smazáno.",
+            "rating_removed_header": "Hodnocení odstraněno",
+            "follow_creator": "Zvaž sledování tvůrce {{project_title}}, aby jsi mohl být informován o jeho nových vydání.",
+            "rating_saved_header": "Hodnocení uloženo"
+        },
+        "gift_button": "Darovat",
+        "download_button": "Stáhnout",
+        "nav": {
+            "things_to_rate": "Věci na Ohodnocení",
+            "things_on_sale": "Věci ve Slevě",
+            "recommended_for_you": "Doporučené pro Tebe",
+            "my_purchases": "Moje Nákupy"
+        },
+        "nav_header": "Knihovna",
+        "empty_collection_message": "Tato kolekce je prázdná",
+        "go_to_collection_link": "Jdi do kolekce",
+        "private_toggle": "Soukromé",
+        "permalink": "Permalink",
+        "things_rated_header": "Tebou ohodnocené věci",
+        "show_on_my_profile_toggle": "Zobrazit na profilu",
+        "view_all_link": "Vidět všechno",
+        "things_you_own_header": "Věci, které vlastníš",
+        "page_title": "Moje knihovna"
+    },
+    "feed": {
+        "event": {
+            "collection_added_count_0": "Přidána {{count}} položka.",
+            "collection_added_count_1": "Přidány {{count}} položky.",
+            "collection_added_count_2": "Přidáno {{count}} položek.",
+            "collection_summary_0": "Kolekce o {{count}} položce.",
+            "collection_summary_1": "Kolekce o {{count}} položkách.",
+            "collection_summary_2": "Kolekce o {{count}} položkách."
+        },
+        "profile_notice": {
+            "description": "Tvůj účet nemá profilovku, přidej ji, aby tě ostatní mohli ihned identifikovat!",
+            "add_a_profile_image": "Přidat profilovku"
+        },
+        "email_warning": {
+            "verify_your_email_address": "Verifikuj svoji email adresu"
+        },
+        "event_filter_label": "Filtrovat:",
+        "upload_a_game_button": "Nahrát hru",
+        "to_rate": {
+            "projects_to_rate_header": "Projekty na ohodnocení"
+        },
+        "filter_ratings_tab": "Hodnocení",
+        "filter_collections_tab": "Kolekce",
+        "filter_new_projects_tab": "Nové projekty",
+        "filter_everything_tab": "Všechno",
+        "filter_own_activity_tab": "Moje vlastní aktivita"
+    },
+    "jams": {
+        "count_joined": "{{count}} zúčastněných",
+        "browse_in_progress": "Probíhající",
+        "browse_upcoming_this_month": "V Následujícím Měsíci",
+        "dont_see_something_you_like_header": "Nevidíš, co se ti líbí?",
+        "host_your_own_jam_button": "Pořádej Vlastní Jam",
+        "jam_calendar_header": "Kalendář Jamů",
+        "browse_jams_header": "Procházet Jamy",
+        "host_a_jam_button": "Pořádat jam",
+        "games_created_0": "<s>{{count}} hra</s> byla vytvořena pro jamy pořádané na itch.io.",
+        "games_created_1": "<s>{{count}} hry</s> byly vytvořeny pro jamy pořádané na itch.io.",
+        "games_created_2": "<s>{{count}} her</s> bylo vytvořeno pro jamy pořádané na itch.io.",
+        "page_summary": "itch.io je místo na pořádání a zúčastnění v game jamech online. Každý může ihned vytvořit a pořádat jam.",
+        "page_title": "Game Jamy na itch.io",
+        "jams_joined_header": "Zúčastněné jamy",
+        "jams_created_header": "Jamy tebou vytvořené"
+    },
+    "game_grid": {
+        "in_bundle": "V balíčku"
     }
 }
