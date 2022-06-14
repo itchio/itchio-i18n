@@ -120,7 +120,8 @@
             "required": "Diperlukan",
             "form_errors": "Mohon periksa informasi yang telah diberikan",
             "optional": "Opsional",
-            "search": "Cari"
+            "search": "Cari",
+            "confirm": "Konfirmasi"
         },
         "durations": {
             "days": "Beberapa hari atau lebih",
