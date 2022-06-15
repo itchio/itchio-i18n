@@ -61,7 +61,7 @@
         }
     },
     "index": {
-        "popular_tags": "Populárny tagy",
+        "popular_tags": "Populárne štítky",
         "browse": "Prehliadať",
         "games_by_price": "Hry podľa ceny",
         "download_app": "Stiahnuť appku",
@@ -74,7 +74,7 @@
         "from_the_itchio_blog": "Z blogu itch.io",
         "view_all_blog_posts": "Zobraziť všetky updaty",
         "search_games_creators": "Hľadať hry a tvorcov",
-        "browse_all_tags": "Prehľadávať všetky tagy",
+        "browse_all_tags": "Prehľadávať všetky štítky",
         "on_sale": "V zľave",
         "free_games": "Hry zdarma",
         "top_sellers": "Najpredávanejšie",
@@ -234,13 +234,14 @@
             "submit": "Odovdzať",
             "email_address": "Emailová Adresa",
             "save": "Uložiť",
-            "required": "Požadované"
+            "required": "Požadované",
+            "confirm": "Potvrdiť"
         }
     },
     "blog": {
         "all_posts": "Všetky príspevky",
         "updates": "Updaty",
-        "tag_filter": "Filtrujem podľa {{tag}}. <a> Zrušiť tag</a>",
+        "tag_filter": "Filtrujem podľa {{tag}}. <a>Zrušiť</a>",
         "empty_message": "Zdá sa, že tu nie su žiadne príspevky",
         "digest": "Výber"
     },
@@ -264,7 +265,7 @@
             "follow": "Musíte mať účet na itch.io, aby ste mohli niekoho sledovať.",
             "follow_username": "Musíte mať účet na itch.io, aby ste mohli sledovať <1>{{username}}</1>.",
             "collection": "Musíte mať účet na itch.io, aby ste mohli pridať niečo do kolekcie.",
-            "jam_submit": "Musíte mať účet na itch.io, aby ste ste sa mohli zapojiť do game jamu.",
+            "jam_submit": "Potrebujete účet na itch.io, aby ste sa mohli zapojiť do game jamu.",
             "claim_object": "Prosím prihláste sa alebo si vytvorte účet na získanie {{noun}}.",
             "claim_object_title": "Prosím prihláste sa alebo vytvorte účeť, aby ste si zobrali {{title}}.",
             "recent_purchases": "Prihláste sa, aby ste prepojili platby, ktoré ste uskutočnili nedávno."
@@ -351,7 +352,10 @@
         "sold_out_notice": "Tento produkt je momentálne vypredaný. Skontrolujte to neskôr.",
         "preorder_title": "Predobjednať '{{title}}'",
         "buy_title": "Zakúpiť '{{title}}'",
-        "download_title": "Stiahnuť '{{title}}'"
+        "download_title": "Stiahnuť '{{title}}'",
+        "generic_error": "Nastal problém s Vaším nákupom: {{error}}",
+        "contact_support_on_error": "Ak problém pretrváva, kontaktujte prosím <a>podporu itch.io</a> so všetkými podstatnými detailami.",
+        "billing_address": "Fakturačná adresa"
     },
     "game": {
         "layout": {
@@ -378,7 +382,8 @@
                 "percent_off": "Zľava {{percent}}%",
                 "download": "Stiahnuť",
                 "send_gift": "Poslať darček",
-                "you_own_this": "Toto vlastníte"
+                "you_own_this": "Toto vlastníte",
+                "you_were_gifted_this": "Toto Vám bolo darované"
             },
             "related_games_short": "Súvisiace",
             "related_games": "Súvisiace hry",
@@ -458,7 +463,7 @@
             "average_session_duration": "Priemerná relácia",
             "asset_license": "Majetková licencia",
             "code_license": "Licencia",
-            "tags": "Značky",
+            "tags": "Štítky",
             "made_with_tools": "Vyrobené pomocou",
             "genre": "Žáner",
             "author": "Autor",
@@ -554,7 +559,7 @@
         "new_topic": {
             "page_title": "Pridať novú tému",
             "your_moderators_are": "itch.io nemoderuje tieto nástenky, vaši moderátori sú:",
-            "topic_tag": "Značka",
+            "topic_tag": "Štítok",
             "body": "Telo",
             "title": "Názov",
             "see_community_guidelines": "Pravidlá komunity itch.io nájdete v <a> pokynoch pre komunitu </a>.",
@@ -568,8 +573,8 @@
         },
         "post_form": {
             "post_reply": "Odošlite odpoveď",
-            "remove_tag": "Odstrániť značku",
-            "tag_header": "Značka",
+            "remove_tag": "Odstrániť štítok",
+            "tag_header": "Štítok",
             "subscribe_description": "Dostávať oznámenia o nových odpovediach na tému",
             "subscribe_to_this_topic": "Prihláste sa na odber tejto témy",
             "subscribe": "Prihlásiť sa na odber",
@@ -662,10 +667,117 @@
     "search": {
         "search_results_for_query": "Výsledky vyhľadávania pre „{{query}}“",
         "browse_all_games": "Prehľadávať všetky hry",
-        "view_all_tags": "Zobraziť všetky značky",
+        "view_all_tags": "Zobraziť všetky štítky",
         "published_count_0": "{{count}} projekt",
         "published_count_1": "{{count}} projektov",
         "published_count_2": "{{count}} projektov",
         "creators": "Tvorcovia:"
+    },
+    "user_settings": {
+        "profile": {
+            "username": "Používateľské meno",
+            "page_header": "Profil",
+            "language_description": "Jazyk rozhrania používateľa itch.io",
+            "language": "Jazyk",
+            "language_community_translation": "<s>itch.io je prekladané členmi našej komunity.</s> Niektoré jazyky sú dostupné len čiastočne. Ak by ste chceli vidieť itch.io sprístupnené vo Vašom jazyku alebo pomôcť napraviť nejaké nedostatky, môžete prispieť aj Vy. <a>Dozveďte sa viac</a>"
+        },
+        "navigation": {
+            "oauth_applications": "OAuth aplikácie",
+            "api_keys": "API klávesy",
+            "data_export": "Export dát",
+            "privacy": "Súkromie",
+            "connected_accounts": "Pripojené účty",
+            "email_notifications": "Upozornenia emailom",
+            "billing_address": "Fakturačná adresa",
+            "credit_cards": "Kreditné karty",
+            "payout_mode": "Výplatný režim",
+            "tax_information": "Daňová informácia",
+            "payment_processors": "Platobné procesory",
+            "revenue_sharing": "Zdieľanie príjmu",
+            "publisher_get_started": "Začnite",
+            "support_email": "Email podpory",
+            "two_factor_auth": "Dvojfaktorová autentifikácia",
+            "email_addresses": "Emailová adresa",
+            "password": "Heslo",
+            "profile": "Profil",
+            "developer_header": "Vývojár",
+            "misc_header": "Rôzne",
+            "contact_header": "Kontakt",
+            "publisher_header": "Vydavateľ",
+            "payment_header": "Platba",
+            "basics_header": "Všeobecné"
+        },
+        "account_settings": "Nastavenia konta"
+    },
+    "buy_form_popup": {
+        "powered_by_itchio": "poháňané stránkou {{itchio}}",
+        "author_line": "<1>od</1> {{author}}"
+    },
+    "browse_tags": {
+        "no_description_yet": "Zatiaľ bez popisu",
+        "commonly_tagged_with": "Často označované spolu s",
+        "find_tag": "Vyhľadať štítok",
+        "page_title": "Najpopulárnejšie štítky"
+    },
+    "browse": {
+        "filter_by_tag": "Triediť podľa štítku",
+        "view_all_tags": "Zobraziť všetky štítky",
+        "tag": {
+            "suggest_description_for_this_tag": "Navrhnúť popis pre tento štítok",
+            "suggest_updated_description": "Navrhnúť aktuálny popis",
+            "no_description_yet": "Zatiaľ bez popisu"
+        },
+        "filter_everything_else": "Všetko ostatné",
+        "filter_group": {
+            "clear_filter": "Vyčistiť filter",
+            "toggle_more_options": "Prepnúť na viac možností",
+            "fewer_options": "Menej možností",
+            "more_options": "Viac možností"
+        },
+        "fresh_description": "Listujte neustále aktualizovaný súbor projektov z vyberaných kolekcií našich členov. Skontrolujte najnovšie dodatky.",
+        "filter_group_tools": "Nástroje a softvéry",
+        "filter_group_collection": "Kolekcia",
+        "filter_group_misc": "Rôzne",
+        "filter_group_release_status": "Dátum vydania",
+        "type_downloadable": "Stiahnuteľné",
+        "filter_group_type": "Typ",
+        "filter_group_accessibility_features": "Možnosti dostupnosti",
+        "filter_group_multiplayer": "Možnosti pre viacerých hráčov",
+        "filter_group_session_length": "Priemerná doba hrania",
+        "filter_group_input_methods": "Spôsoby vstupu",
+        "filter_group_when": "Obdobie",
+        "filter_group_platform": "Platforma",
+        "filter_group_genre": "Žáner",
+        "filter_group_price": "Cena",
+        "related_collections": "Súvisiace kolekcie",
+        "clear_filters": "Vymazať",
+        "filter_results": "Filtrovať výsledky",
+        "upload_your_project": "<a>Nahrajte svoj projekt</a> na itch.io, aby sa tu zobrazil.",
+        "sort": "Triediť",
+        "sort_most_recent": "Najnovšie",
+        "sort_top_rated": "Najlepšie hodnotené",
+        "sort_top_sellers": "Najviac predávané",
+        "sort_new_and_popular": "Nové a populárne",
+        "sort_popular": "Populárne",
+        "results_count_0": "{{count}} výsledok",
+        "results_count_1": "{{count}} výsledky",
+        "results_count_2": "{{count}} výsledkov",
+        "results_count_plural": "{{count}} výsledkov"
+    },
+    "collection": {
+        "remove_confirm": "Ste si istí, že chcete toto odstrániť z kolekcie",
+        "blurb_author_says": "{{author}} hovorí",
+        "edit_blurb": "Upraviť odporúčanie",
+        "add_a_blurb": "Pridať odporúčanie",
+        "remove_item_button": "Odstrániť...",
+        "page_title": "{{collection_title}} - Kolekcia od {{author}}",
+        "a_collection_by_author": "Kolekcia od {{author}}",
+        "pending_invitation": "Čaká na Vás pozvanie stať sa prispievateľom v tejto kolekcii. <a>Viď pozvanie</a>",
+        "private_collection_message": "Táto kolekcia je súkromná, jej obsah môžu vidieť iba prispievatelia",
+        "empty_collection_message": "V tejto kolekcii sa nič nenachádza.",
+        "edit_contributors": "Upraviť prispievateľov",
+        "edit_collection": "Upraviť kolekciu",
+        "last_updated_date": "naposledy aktualizované {{date}}",
+        "authors": "kolekcia od {{author}}"
     }
 }
