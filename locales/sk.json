@@ -740,7 +740,21 @@
                 "new_email_address": "Nová emailová adresa"
             },
             "your_primary_email_address": "Vaša hlavná emailová adresa: {{email}}",
-            "primary_email_header": "Hlavný email"
+            "primary_email_header": "Hlavný email",
+            "additional_emails": {
+                "detach_email": "Oddeliť email",
+                "email_sent_status": "email bol zaslaný",
+                "resend_verification_email_button": "znovu zaslať overovací email",
+                "verified_column": "Overené",
+                "email_column": "Mail",
+                "emails_added_header": "Email bol pridaný"
+            },
+            "add_email_form": {
+                "add_email_button": "Pridať email",
+                "additional_email_address_label": "Dodatočná emailová adresa"
+            },
+            "additional_emails_header": "Dodatočné emaily",
+            "additional_emails_instructions": "Po pridaní dodatočného emailu Vám budú Vám zaslané pokyny k overeniu."
         },
         "password": {
             "new_password_again": "Nové heslo znovu",
@@ -808,10 +822,10 @@
         "results_count_plural": "{{count}} výsledkov"
     },
     "collection": {
-        "remove_confirm": "Ste si istí, že chcete toto odstrániť z kolekcie",
+        "remove_confirm": "Ste si istý, že chcete toto odstrániť z kolekcie",
         "blurb_author_says": "{{author}} hovorí",
-        "edit_blurb": "Upraviť odporúčanie",
-        "add_a_blurb": "Pridať odporúčanie",
+        "edit_blurb": "Upraviť výstižný text",
+        "add_a_blurb": "Pridať výstižný text",
         "remove_item_button": "Odstrániť...",
         "page_title": "{{collection_title}} - Kolekcia od {{author}}",
         "a_collection_by_author": "Kolekcia od {{author}}",
@@ -822,5 +836,54 @@
         "edit_collection": "Upraviť kolekciu",
         "last_updated_date": "naposledy aktualizované {{date}}",
         "authors": "kolekcia od {{author}}"
+    },
+    "jam": {
+        "results": {
+            "ratings_given_count_0": "<s>{{count}} hodnotenie</s> bolo zarátané medzi {{vote_start_date}} a {{vote_end_date}}.",
+            "ratings_given_count_1": "<s>{{count}} hodnotenia</s> boli zarátané medzi {{vote_start_date}} a {{vote_end_date}}.",
+            "ratings_given_count_2": "<s>{{count}} hodnotení</s> bolo zarátaných medzi {{vote_start_date}} a {{vote_end_date}}.",
+            "votes_cast_count_0": "<s>{{count}}</s> hlas bol započítaný medzi {{vote_start_date}} a {{vote_end_date}}.",
+            "votes_cast_count_1": "<s>{{count}}</s> hlasy boli započítané medzi {{vote_start_date}} a {{vote_end_date}}.",
+            "votes_cast_count_2": "<s>{{count}}</s> hlasov bolo započítaných medzi {{vote_start_date}} a {{vote_end_date}}.",
+            "submissions_summary_0": "<s>{{count}} príspevok</s> bol podaný medzi {{start_date}} a {{end_date}}.",
+            "submissions_summary_1": "<s>{{count}} príspevky</s> boli podané medzi {{start_date}} a {{end_date}}.",
+            "submissions_summary_2": "<s>{{count}} príspevkov</s> bolo podaných medzi {{start_date}} a {{end_date}}.",
+            "results": "Výsledky"
+        },
+        "submissions": {
+            "rated": "Hodnotené",
+            "empty_results": "Žiadny príspevok sa nezhoduje s Vaším filtrom",
+            "filter": "Filter",
+            "filters": {
+                "browser_playable": "Možné hrať v prehliadači",
+                "all_submissions": "Všetky príspevky"
+            },
+            "help_submissions_in_need_of_ratings": "Pomôžte nám ohodnotiť príspevky, ktoré mali málo hodnotení: <a>Príspevky, ktoré je potrebné ohodnotiť</a>",
+            "submissions_will_be_available_after_the_jam_has_ended": "Podanie príspevkov bude možné po ukončení jamu",
+            "there_were_no_submissions": "Neboli podané žiadne príspevky",
+            "there_are_no_submissions_yet": "Zatiaľ sa tu nenachádzajú žiadne príspevky"
+        },
+        "submitter": {
+            "submission_is_closed_for_voting": "Podávanie príspevkov sa ukončilo a prebieha hlasovanie",
+            "countdown": {
+                "voting_ends_in": "Hlasovanie končí o",
+                "submissions_due_in": "Príspevky očakávané do",
+                "starts_in": "Začína o"
+            },
+            "view_entries_0": "Zobraziť {{count}} výsledok",
+            "view_entries_1": "Zobraziť {{count}} výsledky",
+            "view_entries_2": "Zobraziť {{count}} výsledkov",
+            "view_results": "Zobraziť výsledky",
+            "jam_is_now_over": "Tento jam je týmto ukončený. Trval od {{start_date}} do {{end_date}}.",
+            "submissions_open_from": "Otvorené pre príspevky od {{start_date}} do {{end_date}}",
+            "leave_jam": "Opustiť jam"
+        }
+    },
+    "notifications": {
+        "unseen_label": "Nové"
+    },
+    "stripe_checkout": {
+        "payment_error_help": "Ak si nie ste istý, prosím, kontaktujte <a>itch.io podporu</a> s nasledujúcou správou.",
+        "payment_error": "Pri spracovávaní Vašej platby nastala chyba:"
     }
 }
