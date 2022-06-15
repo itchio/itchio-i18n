@@ -715,7 +715,7 @@
         "filter_group_misc": "Misc",
         "filter_group_collection": "Collection",
         "filter_group_tools": "Tools & Engines",
-        "fresh_description": "Browse a constantly updating set of projects sourced from a curated collections by our members. Check back for new additions.",
+        "fresh_description": "Browse a constantly updating set of projects sourced from curated collections by our members. Check back for new additions.",
         "filter_group": {
             "more_options": "More Options",
             "fewer_options": "Fewer Options",
