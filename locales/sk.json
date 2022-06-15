@@ -679,7 +679,32 @@
             "page_header": "Profil",
             "language_description": "Jazyk rozhrania používateľa itch.io",
             "language": "Jazyk",
-            "language_community_translation": "<s>itch.io je prekladané členmi našej komunity.</s> Niektoré jazyky sú dostupné len čiastočne. Ak by ste chceli vidieť itch.io sprístupnené vo Vašom jazyku alebo pomôcť napraviť nejaké nedostatky, môžete prispieť aj Vy. <a>Dozveďte sa viac</a>"
+            "language_community_translation": "<s>itch.io je prekladané členmi našej komunity.</s> Niektoré jazyky sú dostupné len čiastočne. Ak by ste chceli vidieť itch.io sprístupnené vo Vašom jazyku alebo pomôcť napraviť nejaké nedostatky, môžete prispieť aj Vy. <a>Dozveďte sa viac</a>",
+            "profile_description": "Obsah Vašej profilovej stránky",
+            "profile": "Profil",
+            "use_dark_theme": "Pokiaľ možné, použiť tmavý režim",
+            "click_to_load_games": "Vyžaduje kliknutie pre spustenie vbudovaných HTML5 hier",
+            "disable_autoloading_next_page_when_browsing": "Zakázať automatické načítavanie nasledujúcej stránky počas listovania",
+            "disable_animated_gifs": "Zakázať animované GIFy",
+            "show_adult_content": "Pri vyhľadávaní a listovaní zobraziť obsah označený ako pre dospelých",
+            "content_description": "Ako sa obsah na itch.io zobrazuje Vám",
+            "content": "Obsah",
+            "default_language_option": "Predvoľba (Nastavené na angličtinu počas testovania jazykov)",
+            "account_type_developer": "Vyvíjanie a nahrávanie hier",
+            "account_type_gamer": "Hranie a sťahovanie hier",
+            "account_type_description": "Ako budete tento účet používať",
+            "account_type": "Typ účtu",
+            "twitter_description": "Twitter účet pre zobrazenie na Vašom profile",
+            "website_description": "Voliteľná URL adresa pre zobrazenie na Vašej profilovej stránke",
+            "website": "Webová stránka",
+            "display_name_description": "Toto meno bude zobrazované namiesto Vášho používateľského mena. Nechajte prázdne pre zobrazenie Vášho používateľského mena",
+            "display_name": "Zobrazované meno",
+            "profile_image_description": "Zobrazený vedľa Vášho mena pri činnosti na stránke (štvorcové rozmery)",
+            "profile_image": "Obraz profilu",
+            "url_description": "Verejná URL adresa pre Váš účet",
+            "you_recently_changed_your_username": "Vaše používateľské meno bolo nedávno zmenené",
+            "change_username": "Zmena používateľského mena/URL",
+            "username_description": "Používa sa na vstup do Vášho účtu a pre URL adresu Vašej stránky"
         },
         "navigation": {
             "oauth_applications": "OAuth aplikácie",
@@ -707,7 +732,25 @@
             "payment_header": "Platba",
             "basics_header": "Všeobecné"
         },
-        "account_settings": "Nastavenia konta"
+        "account_settings": "Nastavenia konta",
+        "email_addresses": {
+            "primary_email_description": "Upozornenia z itch.io budú odosielané na Vašu hlavné mailovú adresu.",
+            "change_email_form": {
+                "current_password": "Súčasné heslo",
+                "new_email_address": "Nová emailová adresa"
+            },
+            "your_primary_email_address": "Vaša hlavná emailová adresa: {{email}}",
+            "primary_email_header": "Hlavný email"
+        },
+        "password": {
+            "new_password_again": "Nové heslo znovu",
+            "password_again": "Heslo znovu",
+            "new_password": "Nové heslo",
+            "password": "Heslo",
+            "current_password": "Súčasné heslo",
+            "set_password": "Nastaviť heslo",
+            "reset_password": "Resetovať heslo"
+        }
     },
     "buy_form_popup": {
         "powered_by_itchio": "poháňané stránkou {{itchio}}",
