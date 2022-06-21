@@ -675,7 +675,13 @@
         "filter_group_when": "Când",
         "filter_group_platform": "Platformă",
         "clear_filters": "Șterge",
-        "filter_results": "Filtrează rezultatele"
+        "filter_results": "Filtrează rezultatele",
+        "view_all_tags": "Vezi toate etichetele",
+        "tag": {
+            "no_description_yet": "Nicio descriere încă"
+        },
+        "filter_group_genre": "Gen",
+        "related_collections": "Colecții relatate"
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
