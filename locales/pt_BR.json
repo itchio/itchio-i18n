@@ -284,7 +284,7 @@
             "create_account": "Criar conta",
             "already_have_account": "ou já tem uma conta?",
             "log_in": "Entrar",
-            "link_product": "Sua compra de <1>{{product}}</1> será vinculada à sua conta automaticamente depois que você se registrar.",
+            "link_product": "Sua compra de <1>{{product}}</1> será vinculada à sua conta automaticamente após você se registrar.",
             "accept_tos": "Eu aceito os <1>Termos de Serviço</1>",
             "digest_signup": "Inscreva-me no boletim bimensal do itch.io",
             "interest_gamer": "Estou interessado(a) em jogar ou baixar jogos no itch.io",
@@ -515,7 +515,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Este tópico está arquivado e não pode mais receber postagens",
+            "topic_is_archived": "Este tópico está arquivado. Não está listado e não pode mais receber postagens.",
             "reply": "Responder",
             "log_in_to_reply": "Faça login para responder",
             "unlisted_topic_notice": "<s>Um moderador tirou este tópico das listagem.</s> Ele não está visível na listagem de tópicos, mas você ainda pode responder e fazer edições.",
@@ -613,7 +613,8 @@
             "list_header_last_topic": "Último tópico",
             "new_flag": "Novo",
             "archived_flag": "Arquivado",
-            "by_topic_author": "por {{username}}"
+            "by_topic_author": "por {{username}}",
+            "view_this_communitys_rules": "Veja as regras desta comunidade..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> visualização",
@@ -626,7 +627,8 @@
             "sticky_flag": "Fixo",
             "locked_flag": "Trancado",
             "list_header_topic_title": "Tópico",
-            "list_header_last_post": "Última postagem"
+            "list_header_last_post": "Última postagem",
+            "no_replies_yet": "Sem respostas ainda"
         }
     },
     "buy_form": {
@@ -1336,5 +1338,9 @@
         "unverified_email": {
             "title": "Seu endereço de e-mail não foi verificado"
         }
+    },
+    "notifications": {
+        "unseen_label": "Novo",
+        "page_title": "Notificações"
     }
 }
