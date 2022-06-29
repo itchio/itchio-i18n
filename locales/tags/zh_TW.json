@@ -1,6 +1,21 @@
 {
     "tags": {
         "3d": "3D",
-        "2d": "2D"
+        "2d": "2D",
+        "archery": "射箭",
+        "arcade": "街機",
+        "anime": "動漫",
+        "animals": "動物",
+        "altgame": "非主流",
+        "alternate-history": "架空歷史",
+        "aliens": "異種",
+        "adventure": "冒險",
+        "action-rpg": "動作角色扮演",
+        "action-adventure": "動作冒險",
+        "action": "動作",
+        "abstract": "抽象",
+        "8-bit": "8位元",
+        "4x": "4X",
+        "3d-platformer": "3D 平台遊戲"
     }
 }
