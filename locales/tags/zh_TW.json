@@ -16,6 +16,15 @@
         "abstract": "抽象",
         "8-bit": "8位元",
         "4x": "4X",
-        "3d-platformer": "3D 平台遊戲"
+        "3d-platformer": "3D 平台遊戲",
+        "boss-battle": "BOSS戰",
+        "boring": "無聊",
+        "board-game": "棋盤遊戲",
+        "black-and-white": "黑白",
+        "beat-em-up": "清版動作",
+        "automation": "自動化",
+        "atmospheric": "大氣層",
+        "asteroids": "小行星",
+        "art-book": "藝術畫集"
     }
 }
