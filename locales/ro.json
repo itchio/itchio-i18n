@@ -662,7 +662,7 @@
         "results_count_plural": "{{count}} rezultate",
         "filter_group_collection": "Colecție",
         "filter_group_accessibility_features": "Opțiuni de accessibilitate",
-        "upload_your_project": "<a>Încarcă-ți proiectul</a> pe itch.io ca să fie aici.",
+        "upload_your_project": "<a>Încarcă-ți proiectul</a> pe itch.io ca să apară aici.",
         "filter_everything_else": "Orice altceva",
         "filter_group": {
             "clear_filter": "Șterge filtru",
@@ -681,7 +681,8 @@
             "no_description_yet": "Nicio descriere încă"
         },
         "filter_group_genre": "Gen",
-        "related_collections": "Colecții relatate"
+        "related_collections": "Colecții relatate",
+        "fresh_description": "Navigați un set de proiecte care se actualizează constant, provenite din colecții organizate de membrii noștri. Reveniți pentru noi completări."
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
