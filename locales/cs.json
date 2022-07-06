@@ -672,7 +672,9 @@
         "your_email_address": "Vaše emailová adresa",
         "download_this_product_by_purchasing_it_for": "Stáhněte si tento produkt za {{price}} nebo více.",
         "preorder_this_product_by_purchasing_it_for": "Předobjednejte si tento produkt za {{price}} nebo více.",
-        "no_thanks_just_take_me_to_the_downloads": "Ne, děkuji, jen mě vezmi k stahování"
+        "no_thanks_just_take_me_to_the_downloads": "Ne, děkuji, jen mě vezmi k stahování",
+        "contact_support_on_error": "Jestli problém ____, prosím kontaktujte <a>itch.io podporu</a> se všemi potřebnými detaily.",
+        "email_address_description": "Vaše potvrzení platby bude zasláno zde"
     },
     "game_download": {
         "get_external_key": "Získat{{key_type}} klíč",
@@ -868,7 +870,8 @@
         "edit_collection": "Upravit kolekci",
         "private_collection_message": "Tato kolekce je soukromá, jen přispěvatelé mohou vidět její obsah",
         "last_updated_date": "posledně aktualizováno {{date}}",
-        "authors": "kolekce od {{author}}"
+        "authors": "kolekce od {{author}}",
+        "edit_contributors": "Upravit přispěvatele"
     },
     "add_to_collection": {
         "add_button": "Přidat do kolekce",
