@@ -168,7 +168,8 @@
             "submit": "Envoyer",
             "form_errors": "Veuillez vérifier les informations que vous avez fournies",
             "search": "Rechercher",
-            "optional": "Facultatif"
+            "optional": "Facultatif",
+            "confirm": "Confirmer"
         },
         "page_number": "Page {{page_number}}",
         "follow_button": {
@@ -514,7 +515,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Ce sujet est archivé, il est impossible d’y poster",
+            "topic_is_archived": "Ce sujet est archivé. Il n'est plus répertorié et aucun nouveau message ne peut y être créé.",
             "reply": "Répondre",
             "log_in_to_reply": "Connectez-vous pour répondre",
             "unlisted_topic_notice": "<s>Un modérateur a modifié le répertoriage de ce sujet.</s> Il n’est plus visible dans la liste des sujets, mais vous pouvez toujours y répondre et y apporter des modifications.",
@@ -1335,5 +1336,9 @@
     },
     "game_grid": {
         "in_bundle": "Voir offre groupée"
+    },
+    "notifications": {
+        "unseen_label": "Nouveautés",
+        "page_title": "Notifications"
     }
 }
