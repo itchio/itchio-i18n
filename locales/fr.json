@@ -604,7 +604,8 @@
             "new_flag": "Nouveau",
             "sticky_flag": "Épinglé",
             "locked_flag": "Verrouillé",
-            "list_header_topic_title": "Sujet"
+            "list_header_topic_title": "Sujet",
+            "no_replies_yet": "Aucune réponse pour le moment"
         },
         "category": {
             "new_flag": "Nouveau",
@@ -623,7 +624,8 @@
             "create_first_topic_button": "Créer le premier sujet",
             "empty_message": "Il n’y a aucun sujet",
             "there_arent_any_topics_yet": "Il n’y a pas encore de sujets",
-            "rules_header": "Règles"
+            "rules_header": "Règles",
+            "view_this_communitys_rules": "Voir les règles de cette communauté ..."
         },
         "misc": {
             "new_topic_button": "Nouveau sujet"
