@@ -422,8 +422,8 @@
         "sort_new_and_popular": "新品 & 热门",
         "sort_popular": "人气",
         "results_count": "{{count}}个结果",
-        "filter_everything_else": "其他",
-        "results_count_plural": "{{count}}个结果"
+        "results_count_plural": "{{count}}个结果",
+        "filter_everything_else": "其他"
     },
     "collection": {
         "remove_confirm": "您确定将该商品从该合集移除吗",
@@ -1317,7 +1317,7 @@
             "game": "游戏"
         }
     },
-    "itchio": "itch.io",
+    "itchio": "Prostate UK  Crescent Stables  Upper Richmond Road London SW TN Tel Web References Disclaimer",
     "notifications": {
         "unseen_label": "新",
         "page_title": "通知"
