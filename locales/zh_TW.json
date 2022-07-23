@@ -1101,9 +1101,67 @@
             "project_url_field": "專案網址",
             "title_field": "標題",
             "edit_project_title": "編輯專案",
-            "create_a_new_project_title": "建立全新專案"
+            "create_a_new_project_title": "建立全新專案",
+            "screenshots_header": "螢幕截圖",
+            "add_screenshots": "新增螢幕截圖",
+            "community_discussion_board_info": "加入有分類、討論串、回覆與更多功能的專門社群頁面",
+            "community_comments_info": "在專案頁面底部加入留言串",
+            "community_field_info": "允許人們在你的專案上發文並且打造社群。",
+            "uploads": {
+                "change_display_name_button": "變更顯示名稱",
+                "set_price_toggle": "為這個檔案設定不同的價格",
+                "preorder_toggle": "這是可以被預購的暫用檔",
+                "demo_toggle": "這是可以被免費下載的試玩版",
+                "hide_toggle": "隱藏這個檔案並且阻止被下載",
+                "play_in_browser_toggle": "這個檔案將會直接在瀏覽器中遊玩",
+                "delete_file_button": "刪除檔案"
+            },
+            "pricing": {
+                "price_too_low_error": "請提供高於專案價格的數字",
+                "default_price_info": "預設價格會在有人要購買你的專案時顯示",
+                "suggested_price_label": "建議價格",
+                "suggested_donation_label": "建議捐贈",
+                "suggest_default_price_label": "提供另一個預設價格",
+                "payment_disabled_info": "這個專案的檔案將會免費提供，並且不接受捐贈",
+                "default_donation_amount_info": "預設捐贈金額",
+                "free_price_info": "要下載你專案的人會被先詢問是否要捐贈。他們可以跳過並且免費下載。",
+                "minimum_price_info": "下載遊戲所需支付的最低價格",
+                "minimum_price_label": "最低價格",
+                "embed_pricing_info": "設定最低價格會限制下載檔案的存取。但是嵌入內容仍可以被免費取得。",
+                "no_payments": "無須付費",
+                "paid": "須付費",
+                "free_or_donate": "{{money}} 或捐贈"
+            },
+            "details_genre_info": "選擇最適合你遊戲的分類。你也可以在下方使用標籤選取額外的類型",
+            "details_tags_header": "標籤",
+            "details_genre_header": "類型",
+            "embed_options": {
+                "launch_fullscreen_option": "點擊以用全螢幕開啟",
+                "embed_in_page_option": "嵌入到頁面",
+                "enable_scrollbars_option": "允許捲動",
+                "fullscreen_button_option": "全螢幕按鈕",
+                "orientation": "朝向",
+                "mobile_friendly_info": "你的專案可以在手機上執行（低解析度與觸控支援）",
+                "mobile_friendly_option": "適用手機",
+                "frame_options": "外框選項",
+                "height": "高度",
+                "width": "寬度",
+                "viewport_dimensions": "顯示尺寸"
+            },
+            "embed_options_header": "嵌入選項",
+            "access_control": {
+                "access_settings": "存取設定",
+                "restricted_access_settings": "受限存取設定",
+                "public_access_settings": "公開存取設定",
+                "password_label": "密碼",
+                "allow_password_option": "同時允許使用一個密碼來瀏覽頁面",
+                "unlisted_option": "不在搜尋與瀏覽中出現",
+                "disable_downloads_option": "停止新的下載與購買"
+            },
+            "visibility_access_info": "在公開前，先使用「草稿」來檢視你的頁面。<a>更多關於存取模式的資訊</a>",
+            "visibility_access_header": "瀏覽權限"
         },
-        "dashboard": "儀錶板",
+        "dashboard": "創作中心",
         "hello": "哈囉！",
         "new_devlog": "新開發日誌",
         "recently_updated_pages_header": "最近更新頁面",
@@ -1126,7 +1184,7 @@
             "payments_link": "付款",
             "projects_link": "專案"
         },
-        "page_title": "創作者儀錶板",
+        "page_title": "創作者創作中心",
         "follow_itchio": "在 {{twitter}} 和 {{facebook}} 上追蹤 itch.io",
         "stats": {
             "following": "追隨中",
@@ -1135,6 +1193,26 @@
             "views": "瀏覽數",
             "payments": "付款數",
             "gross_revenue": "總收入"
+        },
+        "project_header": {
+            "more": "更多",
+            "admins": "管理員",
+            "rewards": "獎勵",
+            "discussion_board": "討論板",
+            "edit_comments": "編輯留言",
+            "interact": "互動",
+            "distribute": "發佈",
+            "analytics": "分析",
+            "metadata": "專案資料",
+            "devlog": "開發日誌",
+            "edit_project": "編輯專案"
         }
+    },
+    "add_to_collection": {
+        "add_to_existing": "加入既有的收藏",
+        "count_items": "{{count}} 件",
+        "already_in_collections": "這個專案已經在下列收藏中：",
+        "add_reason": "將這個專案加入收藏以在後續保存。",
+        "dialog_title": "將 {{project_title}} 加入收藏"
     }
 }
