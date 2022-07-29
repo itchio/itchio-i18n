@@ -294,7 +294,14 @@
         "download_or_claim_button": "Letöltés vagy megszerzés",
         "get_access_preorder": "A következő fájlokhoz fogsz hozzáférést kapni amint elérhetővé válnak:",
         "get_access": "A következő fájlokhoz fogsz hozzáférést kapni:",
-        "download_access": "Kattints a letöltésre, hogy hozzáférést kapj a következő fájlokhoz:"
+        "download_access": "Kattints a letöltésre, hogy hozzáférést kapj a következő fájlokhoz:",
+        "download_demo_header": "Demo letöltése",
+        "purchase_header": "Megvásárlás",
+        "unavailable": "A(z) {{game_noun}} jelenleg nem elérhető.",
+        "download_header": "Letöltés",
+        "install_instructions": "Telepítési útmutató",
+        "more_information": "Több információ",
+        "empty_page": "Úgy tűnik, nincs itt semmi..."
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
@@ -341,7 +348,9 @@
         "languages_description": "Az itch.io közösségnek hála, az itch alkalmazás több mint 20 nyelven elérhető! <a>Tudj meg többet a fordításról</a>",
         "web_games_description": "Szinkronizálhatsz bármilyen böngészőben futó játékot az applikációba, így bármikor játszhatsz velük, akár internet kapcsolat nélkül is. Amikor visszajön a net, frissítheted őket ha szükséges.",
         "updates_description": "Amellett, hogy a játékaid automatikusan frissülnek, az app is folyamatosan fejlődni fog, ahogy újabb funkciókat adunk hozzá. Az új parancssori eszközeinket alkalmazó játékok <em>delta frissítéseket</em> hoznak létre, hogy csak a változtatásokat kelljen letöltened.",
-        "browse_description": "Az itch.io-n a projekt oldal megjelenése a készítők kezében van. A beépített böngészőben játékokat tölthetsz le és telepíthetsz, amíg <a>az alkotók egyedi oldalait</a> fedezed fel."
+        "browse_description": "Az itch.io-n a projekt oldal megjelenése a készítők kezében van. A beépített böngészőben játékokat tölthetsz le és telepíthetsz, amíg <a>az alkotók egyedi oldalait</a> fedezed fel.",
+        "download_now": "Letöltés most",
+        "languages_header": "Elérhető a te nyelveden"
     },
     "search": {
         "search_results_for_query": "\"{{query}}\" keresési eredményei",
