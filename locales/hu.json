@@ -53,7 +53,7 @@
             "library": "Könyvtáram",
             "account_menu_tooltip": "Fiók menü",
             "feed": "Hírfolyamom",
-            "host_game_jam": "Game-jamet hosztolni",
+            "host_game_jam": "Game-jam hosztolása",
             "dashboard": "Irányítópult",
             "game_jams": "Game-jamek"
         }
@@ -168,7 +168,8 @@
             "email_address": "E-mail cím",
             "submit": "Küldés",
             "search": "Keresés",
-            "form_errors": "Kérjük, hogy ellenőrizd a megadott információt"
+            "form_errors": "Kérjük, hogy ellenőrizd a megadott információt",
+            "confirm": "Megerősítés"
         },
         "page_number": "{{page_number}}. oldal",
         "follow_button": {
@@ -286,7 +287,14 @@
         },
         "password_required": {
             "header": "Jelszó szükséges az oldal megtekintéséhez"
-        }
+        },
+        "buy_now_button": "Megvásárlás most",
+        "preorder_button": "Elővásárlás most",
+        "download_now_button": "Letöltés most",
+        "download_or_claim_button": "Letöltés vagy megszerzés",
+        "get_access_preorder": "A következő fájlokhoz fogsz hozzáférést kapni amint elérhetővé válnak:",
+        "get_access": "A következő fájlokhoz fogsz hozzáférést kapni:",
+        "download_access": "Kattints a letöltésre, hogy hozzáférést kapj a következő fájlokhoz:"
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
@@ -295,7 +303,7 @@
         "register_form": {
             "digest_signup": "Feliratkozom a havonta kétszer érkező itch.io hírlevélre",
             "accept_tos": "Elfogadom a <1>szolgáltatás feltételeit</1>",
-            "link_product": "A megvásárolt <1>{{product}}</1> automatikusan össze lesz kapcsolva a fiókodhoz a regisztráció után.",
+            "link_product": "<1>{{product}}</1> automatikusan a fiókodhoz lesz rendelve a regisztrációd után.",
             "log_in": "Jelentkezz be",
             "already_have_account": "vagy már van egy felhasználói fiókod?",
             "other_registration_methods": "Egyéb regisztrációs lehetőségek",
@@ -319,13 +327,21 @@
         "tagline": "Telepíts, frissíts és játssz indiejátékokkal!",
         "share_message": "itch, az indiejátékok asztali alkalmazása",
         "open_source": "Nyílt forráskódú",
-        "more_info_links": "<1>További információ a GYIK-ről</1> vagy <2>Olvassa el az alkalmazás útmutatóját</2>",
+        "more_info_links": "<1>További információ a GYIK-ben</1> vagy <2>Olvasd el az alkalmazás útmutatóját</2>",
         "learn_more_below": "Tudjon meg többet alább",
         "contribute_link": "Szeretne közreműködni? <a>Tekintse meg a forrást a GitHub-on</a>",
         "updates": "Frissítések",
         "read_the_app_guide": "Olvassa el az alkalmazás útmutatóját",
         "summary": "Az itch.io alkalmazás, <s>itch</s>, lehetővé teszi, hogy könnyedén töltsön le és futtasson játékokat és szoftvereket az itch.io webhelyről. Az összes letöltését egyetlen helyen tárolja és automatikusan frissíti. Hozzáférhet gyűjteményeihez és vásárlásaihoz, vagy tallózhat új játékok között az alkalmazáson belüli böngészőn keresztül.",
-        "updates_header": "Mindig frissítve"
+        "updates_header": "Mindig frissítve",
+        "meta_description": "itch, az indie játékok letöltésének és játszásának a legjobb módja. Tölts le ingyenes játékokat, és kezeld a könyvtáradat az asztalodról. Most elérhető Windows, macOS és Linux rendszereken.",
+        "page_title": "Alkalmazás letöltése",
+        "community_description": "Tudj meg többet az alkalmazás fejlesztéséről <1>a közösségünkben</1>. Ossz meg funkció kéréseket és visszajelzést az itch.io más tagjaival.",
+        "community_header": "Csatlakozz a közösséghez",
+        "languages_description": "Az itch.io közösségnek hála, az itch alkalmazás több mint 20 nyelven elérhető! <a>Tudj meg többet a fordításról</a>",
+        "web_games_description": "Szinkronizálhatsz bármilyen böngészőben futó játékot az applikációba, így bármikor játszhatsz velük, akár internet kapcsolat nélkül is. Amikor visszajön a net, frissítheted őket ha szükséges.",
+        "updates_description": "Amellett, hogy a játékaid automatikusan frissülnek, az app is folyamatosan fejlődni fog, ahogy újabb funkciókat adunk hozzá. Az új parancssori eszközeinket alkalmazó játékok <em>delta frissítéseket</em> hoznak létre, hogy csak a változtatásokat kelljen letöltened.",
+        "browse_description": "Az itch.io-n a projekt oldal megjelenése a készítők kezében van. A beépített böngészőben játékokat tölthetsz le és telepíthetsz, amíg <a>az alkotók egyedi oldalait</a> fedezed fel."
     },
     "search": {
         "search_results_for_query": "\"{{query}}\" keresési eredményei",
@@ -355,7 +371,7 @@
         "page_header": "Hozz létre egy egyedi oldalt, hogy azonnal elkezdhesd terjeszteni az indie játékaid!",
         "my_dashboard": "Irányítópultom",
         "host_a_sale": "Eladót hosztolni",
-        "track_your_game_description": "Folyamatosan ellenőrizze, hogy az emberek hogyan nézik meg a játékot, részletes elemzéssel, amely átalakítja a nézeteket, a letöltéseket és a vásárlásokat. Szeretne promóciót lebonyolítani? Generáljon letöltési kulcsokat, hogy az emberek hozzáférhessenek a játékához."
+        "track_your_game_description": "Kövesd figyelemmel játékod megtekintéseit, letöltéseit és eladásait részletes elemzéseinkkel! Promóciót szeretnél indítani? Gyárts az érdeklődők között szétosztható letöltőkulcsokat!"
     },
     "dashboard": {
         "project_header": {
