@@ -408,7 +408,7 @@
             "genre": "Genre",
             "made_with_tools": "Made with",
             "tags": "Tags",
-            "code_license": "License",
+            "code_license": "Code license",
             "asset_license": "Asset license",
             "average_session_duration": "Average session",
             "languages": "Languages",
