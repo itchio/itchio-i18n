@@ -301,7 +301,57 @@
         "download_header": "Letöltés",
         "install_instructions": "Telepítési útmutató",
         "more_information": "Több információ",
-        "empty_page": "Úgy tűnik, nincs itt semmi..."
+        "empty_page": "Úgy tűnik, nincs itt semmi...",
+        "layout": {
+            "ownership": {
+                "claimed": "Megszerezve",
+                "percent_off": "{{percent}}%-os leárazás",
+                "download": "Letöltés",
+                "send_gift": "Ajándék küldése",
+                "you_own_this": "Ezt birtoklod"
+            },
+            "community": "Közösség",
+            "comments": "Megjegyzések"
+        },
+        "upload_list": {
+            "if_you_pay_price_or_more": "ha fizetsz legalább {{price}} vagy többet"
+        },
+        "community_posts_count": "{{count}} bejegyzés",
+        "community_posts_count_plural": "{{count}} bejegyzés",
+        "community_post_author": "{{username}} tette közé",
+        "join_the_community": "Csatlakozz a közösséghez",
+        "community_header": "Közösség",
+        "info_panel": {
+            "mentions": "Megemlítések",
+            "links": "Hivatkozások",
+            "inputs": "Támogatott beviteli eszközök",
+            "languages": "Nyelvek",
+            "code_license": "Licensz",
+            "genre": "Műfaj",
+            "author": "Készítő",
+            "authors": "Készítők",
+            "rating": "Értékelés",
+            "release_date": "Megjelenési dátum",
+            "platforms": "Platformok",
+            "category": "Kategória",
+            "release_status": "Állapot",
+            "published_at": "Közzétéve",
+            "updated_at": "Utoljára frissítve"
+        },
+        "comments": {
+            "comments_header": "Megjegyzések"
+        },
+        "donate_button": "{{noun}} támogatása",
+        "steam_key_bundle_disclaimer": "(Megjegyzés: A {{bundle_title}} nevű csomag nam tartalmaz Steam kulcsot)",
+        "your_purchase_comes_with_a_steam_key": "A vásárlás tartalmaz egy Steam kulcsot.",
+        "devlog_view_all_posts": "Összes poszt",
+        "in_order_to_access": "Ahhoz hogy hozzáférja a {{noun}} nevű termékhez meg kell vásárolnod legalább {{price}} értékben.",
+        "price_or_more": "{{price}}<s>vagy több</s>",
+        "percent_off": "<s>{{percent}}%</s>megtakarítás",
+        "name_your_own_price": "Add meg a saját áradat",
+        "will_be_available_in": "Elérhető lesz {{time_remaining}} múlva.",
+        "also_available_header": "Itt is elérhető",
+        "available_header": "Elérhető itt"
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
