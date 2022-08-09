@@ -246,6 +246,17 @@
         "yuri": "Yuri",
         "yaoi": "Yaoi",
         "generator": "Generátor",
-        "food": "Étel"
+        "food": "Étel",
+        "score-attack": "Pontszám versenyzős",
+        "game-jam": "Játék Jam",
+        "tycoon": "Iparmágnás",
+        "slime": "Ragacs",
+        "horrible": "Szörnyű",
+        "high-score": "Legmagasabb pontszám",
+        "football": "Labdarúgás",
+        "demake": "Dekonstruáció",
+        "bullet-hell": "Golyózápor",
+        "boss-battle": "Főellenség",
+        "beat-em-up": "Űsd fel őket"
     }
 }
