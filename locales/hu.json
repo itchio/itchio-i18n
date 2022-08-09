@@ -311,10 +311,27 @@
                 "you_own_this": "Ezt birtoklod"
             },
             "community": "Közösség",
-            "comments": "Megjegyzések"
+            "comments": "Megjegyzések",
+            "rate_this_noun": "Értékeld a(z) {{noun}}-t",
+            "rate": "Értékelés",
+            "edit_rating": "Értékelés szerkesztése",
+            "edit_your_rating": "Értékelésed szerkesztése",
+            "add_to_collection_short": "Gyűjtemény",
+            "add_to_collection": "Gyűjteményhez adás",
+            "following_username": "{{username}} követve",
+            "follow_username": "{{username}} követése",
+            "following": "Követve",
+            "follow": "Követés",
+            "creator": "Készítő"
         },
         "upload_list": {
-            "if_you_pay_price_or_more": "ha fizetsz legalább {{price}} vagy többet"
+            "if_you_pay_price_or_more": "ha fizetsz legalább {{price}} vagy többet",
+            "empty_message": "Még semmi sem elérhető letöltésre.",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Ez a fájl elérhető lesz amint a készítő feltölti.",
+            "version_name": "{{version_name}} verzió",
+            "play_in_browser": "Játék a böngészőben",
+            "download": "Letöltés",
+            "preorder": "Előrendelés"
         },
         "community_posts_count": "{{count}} bejegyzés",
         "community_posts_count_plural": "{{count}} bejegyzés",
@@ -336,7 +353,13 @@
             "category": "Kategória",
             "release_status": "Állapot",
             "published_at": "Közzétéve",
-            "updated_at": "Utoljára frissítve"
+            "updated_at": "Utoljára frissítve",
+            "singleplayer": "Egyjátékos mód",
+            "player_count": "Játékosok száma",
+            "multiplayer": "Többjátékos mód",
+            "accessibility": "Kisegítő lehetőségek",
+            "tags": "Címkék",
+            "publisher": "Kiadó"
         },
         "comments": {
             "comments_header": "Megjegyzések"
@@ -351,7 +374,10 @@
         "name_your_own_price": "Add meg a saját áradat",
         "will_be_available_in": "Elérhető lesz {{time_remaining}} múlva.",
         "also_available_header": "Itt is elérhető",
-        "available_header": "Elérhető itt"
+        "available_header": "Elérhető itt",
+        "post_first_topic": "Első téma közzététele",
+        "post_a_new_topic": "Új téma közzététele",
+        "development_log_header": "Fejlesztési napló"
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
