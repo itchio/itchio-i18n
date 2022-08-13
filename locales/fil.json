@@ -191,7 +191,8 @@
         "page_title": "I-download ang mga pinakabagong indie na laro",
         "random_game": "Sapalarang piniling laro",
         "view_all_games": "Tignan lahat ng laro",
-        "download_app": "I-download ang app"
+        "download_app": "I-download ang app",
+        "top_sellers": "Pinakamabenta"
     },
     "itchio": "itch.io",
     "dashboard": {
@@ -228,7 +229,8 @@
         "sort_new_and_popular": "Bago at Sikat",
         "filter_results": "Isala ang mga Resulta",
         "results_count": "{{count}} resulta",
-        "results_count_plural": "Mga {{count}} resulta"
+        "results_count_plural": "Mga {{count}} resulta",
+        "sort_top_sellers": "Pinakamabenta"
     },
     "jam": {
         "header": {
