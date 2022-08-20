@@ -249,7 +249,7 @@
         "filter_group_misc": "อื่น ๆ",
         "filter_group_collection": "คอลเลคชัน",
         "filter_group_tools": "เครื่องมือและเอนจิน",
-        "fresh_description": "ค้นหาชุดโครงการที่มีการอัปเดตอย่างสม่ำเสมอจากคอลเลคชันที่คัดสรรโดยสมาชิกของเรา กลับมาตรวจสอบการเพิ่มเติมใหม่ ๆ ได้",
+        "fresh_description": "ค้นหาชุดโครงการที่มีการอัปเดตอย่างสม่ำเสมอจากคอลเลคชันที่คัดสรรโดยสมาชิกของเรา อย่าลืมกลับมาตรวจสอบสิ่งใหม่ ๆ เพิ่มเติม",
         "filter_everything_else": "ทุกอย่างที่มี"
     },
     "misc": {
@@ -938,11 +938,12 @@
         },
         "stats": {
             "joined": "เข้าร่วม",
-            "entries": "การส่ง"
+            "entries": "การส่ง",
+            "ratings": "ให้คะแนน"
         },
         "submitter": {
             "join_jam": "สมัคร jam",
-            "submit_button": "ส่งงาน",
+            "submit_button": "ส่งโครงการของคุณ",
             "or_leave_jam": "หรือ <a>ออกจาก jam</a>",
             "youve_joined": "คุณได้เข้าร่วม jam นี้แล้ว",
             "joined_instructions": "มาที่หน้านี้หลังจาก jam เริ่มเพื่อส่งงานรของคุณ",
@@ -978,7 +979,219 @@
     },
     "dashboard": {
         "edit_project": {
-            "payment_warning_header": "คุณยังไม่ได้ตั้งค่าการทำธุรกรรม"
+            "payment_warning_header": "คุณยังไม่ได้ตั้งค่าการชำระเงิน",
+            "community_field_info": "สร้างชุมชนสำหรับโครงการของคุณโดยให้ผู้คนสามารถโพสต์บนหน้าของคุณได้",
+            "uploads": {
+                "change_display_name_button": "เปลี่ยนชื่อที่แสดง",
+                "set_price_toggle": "ตั้งค่าราคาอื่นสำหรับไฟล์นี้",
+                "preorder_toggle": "ไฟล์นี้เป็นไฟล์เปล่าระหว่างพรีออเดอร์",
+                "demo_toggle": "ไฟล์นี้คือไฟล์ตัวอย่างและสามารถดาวน์โหลดได้ฟรี",
+                "hide_toggle": "ซ่อนไฟล์นี้และป้องกันจากการถูกดาวน์โหลด",
+                "play_in_browser_toggle": "ไฟล์นี้จะถูกเล่นบนเบราวเซอร์",
+                "delete_file_button": "ลบไฟล์"
+            },
+            "pricing": {
+                "price_too_low_error": "โปรดใส่จำนวนที่สูงกว่าราคาโครงการ",
+                "default_price_info": "ราคาโดยปริยายเมื่อใครบางคนพยายามซื้อโครงการของคุณ",
+                "suggested_donation_label": "การบริจาคที่แนะนำ",
+                "suggested_price_label": "ราคาที่แนะนำ",
+                "suggest_default_price_label": "แนะนำราคาโดยปริยายอื่น ๆ",
+                "payment_disabled_info": "ไฟล์โครงการนี้สามารถเข้าถึงได้ฟรีและไม่รับบริจาค",
+                "default_donation_amount_info": "จำนวนบริจาคโดยปริยาย",
+                "free_price_info": "ใครบางคนที่ดาวน์โหลดโครงการของคุณจะถูกถามให้บริจาคก่อนเข้าถึง โดยสามารถข้ามขั้นตอนได้",
+                "minimum_price_info": "ราคาขั้นต่ำที่ต้องจ่ายเพื่อเข้าถึงการดาวน์โหลดเกม",
+                "minimum_price_label": "ราคาขั้นต่ำ",
+                "embed_pricing_info": "ตั้งค่าราคาขั้นต่ำที่จะจำกัดการเข้าถึงไฟล์ที่ดาวน์โหลดได้ เนื้อหาที่ฝังจะเข้าถึงได้ไม่เสียค่าใช้จ่าย",
+                "paid": "ชำระเงิน",
+                "no_payments": "ไม่ต้องชำระเงิน",
+                "free_or_donate": "{{money}} หรือบริจาค"
+            },
+            "details_genre_info": "เลือกหมวดหมู่ที่อธิบายเกมของคุณได้ดีที่สุด คุณสามารถเลือกหมวดหมู่เพิ่มเติมได้ด้วยแท็กด้านล่าง",
+            "details_tags_header": "แท็ก",
+            "details_genre_header": "ประเภท",
+            "embed_options": {
+                "launch_fullscreen_option": "กดเพื่อเปิดเต็มหน้าจอ",
+                "embed_in_page_option": "ฝังในหน้า",
+                "enable_scrollbars_option": "เปิดใช้งานการเลื่อนหน้า",
+                "fullscreen_button_option": "ปุ่มเต็มหน้าจอ",
+                "orientation": "การวางแนว",
+                "mobile_friendly_info": "โครงการของคุณสามารถรันบนมือถือได้ (รองรับความละเอียดและพื้นที่แตะเล็ก)",
+                "mobile_friendly_option": "เป็นมิตรกับมือถือ",
+                "frame_options": "ตัวเลือกเฟรม",
+                "height": "สูง",
+                "width": "กว้าง",
+                "viewport_dimensions": "มิติวิวพอร์ต"
+            },
+            "embed_options_header": "ตัวเลือกการฝัง",
+            "access_control": {
+                "access_settings": "การตั้งค่าการเข้าถึง",
+                "restricted_access_settings": "การตั้งค่าการเข้าถึงถูกจำกัด",
+                "public_access_settings": "การตั้งค่าการเข้าถึงสาธารณะ",
+                "password_label": "รหัสผ่าน",
+                "allow_password_option": "อนุญาตรหัสผ่านเพื่อดูหน้า",
+                "unlisted_option": "ไม่แสดงในผลการค้นหาและการค้นพบ",
+                "disable_downloads_option": "ปิดใช้งานการดาวน์โหลดและชำระเงินใหม่"
+            },
+            "visibility_access_info": "ใช้การร่างเพื่อดูหน้าของคุณก่อนเผยแพร่เป็นสาธารณะ <a>เรียนรู้เพิ่มเติมเกี่ยวกับโหมดการเข้าถึง</a>",
+            "visibility_access_header": "การมองเห็นและการเข้าถึง",
+            "error_dialog": {
+                "title": "เปิดปัญหาขณะบันทึกโครงการของคุณ",
+                "confirm_button": "เข้าใจแล้ว"
+            },
+            "errors": {
+                "invalid_image": "โปรดแก้ไขภาพของคุณหรือลองภาพอื่น",
+                "invalid_file": "เกิดปัญหากับไฟล์ที่คุณเลือก"
+            },
+            "cover_uploader": {
+                "upload_button": "อัปโหลดภาพปก",
+                "remove_image": "ลบภาพ",
+                "replace_image": "แทนที่ภาพปก",
+                "cover_description": "ภาพปกนี้จะใช้เมื่อ itch.io ต้องการลิงก์มายังโครงการของคุณผ่านส่วนอื่น ๆ ของไซต์ จำเป็นต้องใส่ (ขั้นต่ำ: 315x250, แนะนำ: 630x500)",
+                "confirm_remove": "มั่นใจหรือไม่ว่าต้องการลบภาพปก?"
+            },
+            "payment_warning_info": "หากคุณตั้งราคาขั้นต่ำไว้มากกว่า 0 จะไม่มีใครสามารถดาวน์โหลดโครงการของคุณได้ <a>แก้ไขบัญชี</a>",
+            "content_guidelines_info": "อย่าลืมอ่าน<a>แนวปฏิบัติด้านคุณภาพ</a>ของเราก่อนที่คุณจะโพสต์โครงการของคุณ",
+            "content_guidelines_header": "ทำให้มั่นใจว่าทุกคนจะเจอหน้าของคุณได้",
+            "file_size_limit": "ขีดจำกัดขนาดไฟล์: {{filesize}} <a>ติดต่อเรา</a> หากต้องการพื้นที่เพิ่มขึ้นอีก",
+            "add_external_file_button": "เพิ่มไฟล์ภายนอก",
+            "upload_files_button": "อัปโหลดไฟล์",
+            "uploads_header": "อัปโหลด",
+            "pricing_header": "ราคา",
+            "community_discussion_board": "เปิดบอร์ดพูดคุย",
+            "community_comments": "เปิดแสดงความคิดเห็น",
+            "community_disabled": "ปิดใช้งาน",
+            "community_field": "ชุมชน",
+            "instructions_field_info1": "ข้อความนี้จะแสดงแก่ใครบางคนเมื่อพวกเขาดาวน์โหลดเกมของคุณผ่านเบราว์เซอร์ ใส่ข้อมูลวิธีการติดตั้งและรันว่าพวกเขากำลังโหลดอะไร",
+            "instructions_field_info2": "หากเกมของคุณจำเป็นต้องใช้ไลบรารี่หรือโปรแกรมอื่นติดตั้งก่อน โปรดระบุด้วย",
+            "description_field_description": "นี่คือเนื้อหาในหน้าเกมของคุณ",
+            "project_type_help": "คุณสามารถเพิ่มไฟล์ที่ดาวน์โหลดได้สำหรับไฟล์ใด ๆ ที่มีชนิดตามที่ระบุข้างต้น",
+            "tip_label": "แนะนำ",
+            "types": {
+                "downloadable": "สามารถดาวน์โหลดได้"
+            },
+            "classification_other": "อื่น ๆ",
+            "default_noun": "เว้นว่างไว้เพื่อเป็นค่าปริยาย: '{{default_noun}}'",
+            "instructions_field": "ขั้นตอนการดาวน์โหลดและติดตั้ง",
+            "custom_noun_field_description": "คุณสามารถระบุวิธีการที่ itch.io จะกล่าวถึงโครงการของคุณได้โดยระบุสรรพนาม",
+            "custom_noun_field": "คำสรรพนามระบุเอง",
+            "description_field": "คำอธิบาย",
+            "details_section_header": "รายละเอียด",
+            "release_status_field": "สถานะการปล่อย",
+            "kind_of_project_field": "ชนิดของโครงการ",
+            "classification_field_description": "คุณกำลังอัปโหลดอะไร?",
+            "classification_field": "จัดหมวดหมู่",
+            "short_description_field_description": "แสดงเมื่อเราลิงก์มายังโครงการของคุณ พยายามอย่าซ้ำซ้อนกับชื่อโครงการ",
+            "short_description_field": "คำอธิบายย่อหรือแท็กไลน์",
+            "delete_game_button": "ลบเกม",
+            "video_field_description": "แทรกลิงก์ยูทูปหรือ Vimeo",
+            "video_field": "วิดีโอการเล่นหรือตัวอย่างเกม",
+            "save_and_view_button": "บันทึกและดูหน้า",
+            "project_url_field": "URL โครงการ",
+            "title_field": "ชื่อเรื่อง",
+            "edit_project_title": "แก้ไขโครงการ",
+            "create_a_new_project_title": "สร้างโครงการใหม่"
+        },
+        "dashboard": "แดชบอร์ด",
+        "hello": "ว่าไง!",
+        "new_devlog": "บันทึกการพัฒนาใหม่",
+        "recently_updated_pages_header": "หน้าที่เพิ่งอัปเดตไม่นานมานี้",
+        "not_a_developer_escape": "ไม่ต้อง พาฉันไปฟีดเกม",
+        "intro_text": "คุณเป็นผู้พัฒนาหรือเปล่า? อัปโหลดเกมแรกของคุณ",
+        "analytics_summary_header": "ความย่อ",
+        "project_list": {
+            "no_image": "ไม่มีภาพ",
+            "widget": "วิดเจ็ต",
+            "analytics": "วิเคราะห์",
+            "edit": "แก้ไข"
+        },
+        "create_new_project_button": "สร้างโครงการใหม่",
+        "header": {
+            "game_jams_link": "แจมเกม",
+            "coop_bundles_link": "ชุดเกมแนวร่วมมือกัน",
+            "sales_bundles_link": "ลดราคา & บันเดิล",
+            "payouts_link": "จ่ายเงินออก",
+            "analytics_link": "การวิเคราะห์",
+            "payments_link": "การชำระเงิน",
+            "projects_link": "โครงการ"
+        },
+        "page_title": "แดชบอร์ดผู้สร้างสรรค์",
+        "follow_itchio": "ติดตาม itch.io บน {{twitter}} และ {{facebook}}",
+        "stats": {
+            "following": "กำลังติดตาม",
+            "followers": "ผู้ติดตาม",
+            "downloads": "ดาวน์โหลด",
+            "views": "ดู",
+            "payments": "การชำระเงิน",
+            "gross_revenue": "รายได้รวม"
         }
+    },
+    "notifications": {
+        "unseen_label": "ใหม่",
+        "page_title": "การแจ้งเตือน"
+    },
+    "library": {
+        "redeem_button": "แลกโค้ด",
+        "rate_game": {
+            "you_rated_this_project_ago": "คุณให้คะแนนโครงการนี้เมื่อ{{time_ago}}",
+            "rate_header": "ให้คะแนนและรีวิว {{project_title}}",
+            "choose_stars": "เลือกคะแนนตั้งแต่ 1 ถึง 5 ดาว",
+            "delete_button": "ลบการให้คะแนนและรีวิว",
+            "rating_deleted_summary": "การให้คะแนนของคุณถูกลบ",
+            "rating_removed_header": "ลบการให้คะแนนแล้ว",
+            "follow_creator": "คุณอาจสนใจติดตามผู้สร้าง {{project_title}} เพื่อให้ไม่พลาดการปล่อยเกม",
+            "rating_saved_header": "บันทึกคะแนนแล้ว"
+        },
+        "gift_button": "ของขวัญ",
+        "download_button": "ดาวน์โหลด",
+        "nav": {
+            "things_to_rate": "รายการรอลงคะแนน",
+            "things_on_sale": "รายการลดราคา",
+            "recommended_for_you": "แนะนำสำหรับคุณ",
+            "my_purchases": "รายการซื้อของฉัน"
+        },
+        "nav_header": "ไลบรารี่",
+        "empty_collection_message": "คอลแลคชันนี้ว่างเปล่า",
+        "go_to_collection_link": "ไปยังคอลแลคชัน",
+        "private_toggle": "ส่วนตัว",
+        "permalink": "ลิงก์ถาวร",
+        "things_rated_header": "สิ่งที่คุณให้คะแนนแล้ว",
+        "show_on_my_profile_toggle": "แสดงบนโปรไฟล์ของฉัน",
+        "view_all_link": "ดูทั้งหมด",
+        "things_you_own_header": "สิ่งที่คุณเป็นเจ้าของ",
+        "page_title": "ไลบรารี่ของฉัน"
+    },
+    "feed": {
+        "event": {
+            "collection_added_count": "เพิ่ม {{count}} รายการแล้ว",
+            "collection_summary": "คอลแลคชันนี้มี {{count}} รายการ"
+        },
+        "profile_notice": {
+            "description": "บัญชีของคุณยังไม่มีภาพโปรไฟล์ เพิ่มเลยตอนนี้เพื่อให้ผู้อื่นจดจำคุณได้ง่ายขึ้น!",
+            "add_a_profile_image": "เพิ่มภาพโปรไฟล์"
+        },
+        "email_warning": {
+            "verify_your_email_address": "ยืนยันที่อยู่อีเมลของคุณ"
+        },
+        "event_filter_label": "ตัวกรอง:",
+        "upload_a_game_button": "อัปโหลดเกม",
+        "manage_my_games_button": "จัดการเกมของฉัน",
+        "global_feed_tab": "ฟีดรวม",
+        "my_feed_tab": "ฟีดของฉัน",
+        "to_follow": {
+            "to_follow_description": "นี่คือบางบัญชีที่คุณอาจต้องการติดตาม",
+            "people_to_follow_header": "ผู้คนน่าติดตาม"
+        },
+        "to_rate": {
+            "to_rate_description": "นี่คือบางรายการที่คุณมีปฏิสัมพันธ์ด้วยบ้างแล้วแต่ยังไม่ได้ให้คะแนน",
+            "projects_to_rate_header": "โครงการที่รอให้คะแนน"
+        },
+        "featured_tags_header": "แท็กคัดสรร",
+        "latest_featured_games_header": "เกมคัดสรรล่าสุด",
+        "filter_ratings_tab": "คะแนน",
+        "filter_devlogs_tab": "บันทึกผู้พัฒนา",
+        "filter_collections_tab": "คอลแลคชัน",
+        "filter_new_projects_tab": "โครงการใหม่",
+        "filter_everything_tab": "ทั้งหมด",
+        "filter_own_activity_tab": "กิจกรรมของฉัน"
     }
 }
