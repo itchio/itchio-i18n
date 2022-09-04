@@ -557,7 +557,7 @@
         },
         "header": {
             "links": {
-                "edit_jam": "Modifica la jam",
+                "edit_jam": "Modifica il jam",
                 "submission_feed": "Feed delle richieste",
                 "screenshots": "Screenshot",
                 "overview": "Panoramica",
@@ -876,7 +876,7 @@
             "interest_gamer": "Voglio giocare e scaricare giochi su itch.io",
             "digest_signup": "Fammi unire alla newsletter bimestrale di itch.io",
             "accept_tos": "Ho letto e accetto i <1>Termini di Servizio</1>",
-            "link_product": "L'acquisto di <1>{{product}}</1> sarà automaticamente collegato al tuo account dopo la registrazione.",
+            "link_product": "L'acquisto di <1>{{product}}</1> sara collegato automaticamente al tuo account dopo la registrazione.",
             "log_in": "Loggati",
             "already_have_account": "oppure hai già un account?",
             "create_account": "Unisciti a itch.io"
@@ -1065,7 +1065,7 @@
             "fewer_options": "Di meno",
             "more_options": "Di più"
         },
-        "fresh_description": "Guarda i progetti costantemente aggiornati dalle collezioni dei nostri membri. Ricontrolla per nuove aggiunte.",
+        "fresh_description": "Guarda i progetti costantemente aggiornati dalle collezioni dei nostri membri. Controlla spesso per nuove aggiunte.",
         "filter_group_tools": "Strumenti & Software",
         "filter_group_collection": "Collezione",
         "filter_group_misc": "Misc",
@@ -1149,7 +1149,7 @@
             "create_first_topic_button": "Posta il primo commento",
             "topics_count": "{{count}} commento",
             "topics_count_plural": "{{count}} commenti",
-            "view_this_communitys_rules": "Leggi le regole della community..."
+            "view_this_communitys_rules": "Leggi le regole di questa comunità..."
         },
         "misc": {
             "new_topic_button": "Nuovo commento"
@@ -1231,7 +1231,7 @@
             "unlisted_topic_notice": "<s>Un moderatore ha tolto questo argomento dalla lista.</s> Non è più visibile ma puoi sempre rispondere o modificarlo.",
             "log_in_to_reply": "Loggati per rispondere",
             "reply": "Rispondi",
-            "topic_is_archived": "Questa discussione è stata archiviata. Non è in elenco e nessun nuovo post può essere creato."
+            "topic_is_archived": "Questo argomento è stato archiviato. Non è più visibile e non possono essere effettuati nuovi post."
         }
     },
     "feed": {
