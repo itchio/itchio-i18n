@@ -168,7 +168,8 @@
             "submit": "Skicka",
             "optional": "Frivillig",
             "search": "Sök",
-            "form_errors": "Var god kontrollera informationen du matat in"
+            "form_errors": "Var god kontrollera informationen du matat in",
+            "confirm": "Bekräfta"
         },
         "page_number": "Sida {{page_number}}",
         "follow_button": {
@@ -612,7 +613,8 @@
             "list_header_last_topic": "Sista inlägget",
             "new_flag": "Ny",
             "archived_flag": "Arkiverat",
-            "by_topic_author": "av {{username}}"
+            "by_topic_author": "av {{username}}",
+            "view_this_communitys_rules": "Visa denna community's regler..."
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> visning",
