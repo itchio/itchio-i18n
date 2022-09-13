@@ -130,7 +130,8 @@
             "you_recently_changed_your_username": "Kumakailan lang na pinalitan mo ang username mo",
             "change_username": "Palitan ang aking username/URL",
             "language_description": "Wika ng user interface sa itch.io",
-            "language": "Wika"
+            "language": "Wika",
+            "click_to_load_games": "Kailanganin ng pindot upang magpatakbo ng HTML5 game embeds"
         },
         "password": {
             "current_password": "Kasalukuyang password"
@@ -163,9 +164,9 @@
         "filtering_platform": "Sinasala lahat ng laro ayon sa {{platform_name}}",
         "view_all_games_on_sale": "Tignan lahat ng larong naka-sale",
         "people_to_follow": "Mga Dapat I-Follow",
-        "fresh_games_description": "Patuloy na binabago ng mga bagong laro sa itch.io",
+        "fresh_games_description": "Patuloy na pinapasariwa ang mga bagong laro sa itch.io",
         "view_all_jams": "Tignan lahat ang jams",
-        "featured_jams": "Mga tampok na jams",
+        "featured_jams": "Tampok na jams",
         "fresh_games": "Mga Bagong Laro",
         "view_all": "Tignan lahat",
         "with_demo": "May demo",
@@ -185,7 +186,7 @@
         "search_games_creators": "Maghanap ng mga laro & creators",
         "view_all_blog_posts": "Tignan lahat ng update",
         "from_the_itchio_blog": "Mula sa itch.io blog",
-        "get_the_app": "<s>Sulitin ang itch.io!</s>Mag-install at pamahalaan ang mga laro mo gamit ng aming desktop app",
+        "get_the_app": "<s>Sulitin ang itch.io!</s> Mag-install at pamahalaan ang mga laro mo gamit ng aming desktop app",
         "meta_description": "Ang itch.io ay isang simpleng paraan upang maghanap, magdownload at magbahagi ng mga indie na laro online. Mapa-developer ka man na naghahanap ng lugar na pag-uuploadan ng laro mo o naghahanap lang ng bagong malalaruan, swak ang itch.io para sayo.",
         "intro": "<s>itch.io</s>ay isang simpleng paraan upang makahanap at magbahagi ng indie na laro sa online ng libre.",
         "page_title": "I-download ang mga pinakabagong indie na laro",
@@ -278,7 +279,8 @@
         "app_banner": {
             "get_the_app": "Kunin ang app"
         },
-        "play_in_your_browser": "Laruin sa inyong browser"
+        "play_in_your_browser": "Laruin sa inyong browser",
+        "version_name": "Bersyon {{version_name}}"
     },
     "jams": {
         "browse_upcoming_this_month": "Mga Paparating sa Buwan na Ito",
