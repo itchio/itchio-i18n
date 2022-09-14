@@ -884,6 +884,17 @@
     },
     "stripe_checkout": {
         "payment_error_help": "Ak si nie ste istý, prosím, kontaktujte <a>itch.io podporu</a> s nasledujúcou správou.",
-        "payment_error": "Pri spracovávaní Vašej platby nastala chyba:"
+        "payment_error": "Pri spracovávaní Vašej platby nastala chyba:",
+        "full_name": "Celé meno",
+        "name_as_it_appears_on_card": "Ako je zobrazené na karte",
+        "youll_be_mailed_your_access_link": "Na email vám bude zaslaný prístupový link",
+        "email": "Email",
+        "steam_key": "Steam kľúč",
+        "you_will_receive_files": "Vy získate:"
+    },
+    "game_download": {
+        "trouble_downloading_link": "Sťahovanie nezačína?",
+        "or_share_on": "alebo zdieľajte na",
+        "share_and_follow": "Zdieľať & sledovať"
     }
 }
