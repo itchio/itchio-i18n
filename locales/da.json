@@ -108,7 +108,10 @@
         "page_title": "Hent de nyeste indiespil",
         "meta_description": "itch.io er en nem måde at finde, hente og distribuere indiespil online. Uanset om du er en udvikler med et spil at uploade, eller bare én der søger noget nyt at spille, så har itch.io dig dækket.",
         "to_follow": {
-            "refresh_button": "Opdater for mere"
+            "refresh_button": "Opdater for mere",
+            "dismiss_tooltip": "Vis ikke flere forslag",
+            "empty_results": "Vi har ikke flere anbefalinger lige nu. Kig tilbage senere",
+            "created_projects": "Oprettet {{project_list}}"
         }
     },
     "misc": {
@@ -161,7 +164,12 @@
         "forms": {
             "required": "Skal fyldes ud",
             "save": "Gem",
-            "email_address": "E-mailadresse"
+            "email_address": "E-mailadresse",
+            "confirm": "Godkend",
+            "form_errors": "Tjek venligst den information, du har indtastet",
+            "search": "Søg",
+            "optional": "Valgfri",
+            "submit": "Indsend"
         },
         "page_number": "Side {{page_number}}",
         "follow_button": {
@@ -189,13 +197,43 @@
             "next_page": "Næste side",
             "prev": "Forrige",
             "next": "Næste",
-            "current_page_of_total": "Side {{current_page}} af {{total_pages}}"
+            "current_page_of_total": "Side {{current_page}} af {{total_pages}}",
+            "first_page": "Første side",
+            "previous_page": "Forrige side"
         },
         "collection_button": {
             "add_to_collection": "Tilføj til samling"
         },
         "lightboxes": {
             "close": "Luk"
+        },
+        "loading_more_ellip": "Indlæser mere...",
+        "more_ellip": "Mere...",
+        "errors": {
+            "server_error": "Serveren svarede ikke, prøv igen senere"
+        },
+        "release_statuses": {
+            "prototype": "Prototype",
+            "canceled": "Annulleret",
+            "on_hold": "Sat på pause",
+            "in_development": "Under udvikling",
+            "released": "Udgivet"
+        },
+        "dismiss": "Afvis",
+        "view_more": "Vis mere",
+        "project_visibility": {
+            "public": "Offentlig",
+            "draft": "Kladde",
+            "published": "Udgivet",
+            "restricted": "Begrænset"
+        },
+        "countdown": {
+            "seconds": "sekunder",
+            "minutes": "minutter",
+            "hours": "timer",
+            "days": "dage",
+            "months": "måneder",
+            "years": "år"
         }
     },
     "blog": {
@@ -227,7 +265,8 @@
             "collection": "Du skal logge ind på itch.io før du kan tilføje til en samling.",
             "jam_submit": "Du skal logge ind på itch.io før du kan tilmelde et jam.",
             "claim_object": "Log ind eller opret en konto for at gøre krav på {{noun}}",
-            "recent_purchases": "Log ind for at forbinde køb du har lavet for nyligt."
+            "recent_purchases": "Log ind for at forbinde køb du har lavet for nyligt.",
+            "claim_object_title": "Log venligst ind eller opret en konto for at gøre krav på {{title}}."
         },
         "no_account_prompt": "Har du ikke en konto? <1>Opret en konto</1>",
         "page_title": "Log ind",
@@ -235,7 +274,8 @@
         "welcome_back": "Velkommen tilbage!",
         "welcome_to_itchio": "Velkommen til itch.io!",
         "errors": {
-            "accept_terms": "Du skal acceptere servicebetingelserne"
+            "accept_terms": "Du skal acceptere servicebetingelserne",
+            "please_enter_a_valid_email_address": "Indtast venligst en gyldig emailadresse. "
         }
     },
     "user_register": {
@@ -278,7 +318,9 @@
         "learn_more_about": "Lær mere om:",
         "share_message": "itch.io er en nem og gratis måde at distribuere dine indiespil online.",
         "create_account_or_login": "<1>Opret en konto</1> <em>eller</em> <2>Log ind</2>",
-        "upload_or_dashboard": "<1>Upload et nyt spil</1> <em>eller</em> <2>Gå til overblik</2>"
+        "upload_or_dashboard": "<1>Upload et nyt spil</1> <em>eller</em> <2>Gå til overblik</2>",
+        "track_your_game_description": "Følg med i hvor mange der ser dit spil med detaljerede analyseværktøjer som dækker over visninger, downloads og køb. Vil du køre en crowdfunding- eller reklamekampagne? Generer download-nøgler for at give folk adgang til dit spil.",
+        "design_your_games_page_description": "Opret en brugerdefineret side til dit spil hvor folk kan købe eller downloade dit spil. Du vælger farverne, skrifttyperne, billederne og videoerne. Da det er din spilside vil du ikke finde noget på den, som du ikke selv har placeret der."
     },
     "search": {
         "creators": "Skabere:",
@@ -349,7 +391,8 @@
             "leave_a_comment": "Læg en kommentar",
             "click_to_leave_a_comment": "Klik for at lægge en kommentar...",
             "log_in_to_leave_comment": "<a>Log ind med itch.io</a> for at lægge en kommentar.",
-            "post_comment": "Læg kommentar"
+            "post_comment": "Læg kommentar",
+            "write_your_comment": "Skriv din kommentar..."
         },
         "info_panel": {
             "updated_at": "Opdateret",
@@ -440,6 +483,12 @@
                 "now_accepting_ratings": "Dette jams tilmeldte kan nu vurderes.",
                 "rating_instructions": "Vurder og kommenter på denne jam-tilmelding ved at besøge tilmeldingssiden gennem linket ovenfor."
             }
+        },
+        "after_download": {
+            "more_from_creator": "Du kan finde mere fra samme skaber på deres side: {{profile}}.",
+            "thanks_project_author": "Tak for at downloade {{project}} af {{author}}.",
+            "thanks_for_downloading_title": "Tak fordi du downloadede",
+            "share_this_project": "Del dette projekt"
         }
     },
     "community": {
