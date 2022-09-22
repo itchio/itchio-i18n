@@ -119,7 +119,12 @@
         "accessibility_features": {
             "configurable_controls": "Konfigurējamas vadīklas",
             "subtitles": "Subtitri",
-            "colorblind": "Krāsu akluma režīms"
+            "colorblind": "Krāsu akluma režīms",
+            "textless": "Bez teksta",
+            "blind": "Neredzīgo režīms",
+            "one_button": "Viena poga",
+            "tutorial": "Interaktīva apmācība",
+            "highcontrast": "Liels kontrasts"
         },
         "classifications": {
             "book": "Grāmatas",
@@ -131,6 +136,47 @@
             "game_mod": "Spēļu modifikācijas",
             "assets": "Spēles resursi",
             "game": "Spēles"
+        },
+        "follow_button": {
+            "following_username": "Seko {{username}}",
+            "following": "Seko",
+            "follow": "Sekot",
+            "follow_username": "Sekot {{username}}"
+        },
+        "page_number": "{{page_number}}. lpp.",
+        "forms": {
+            "confirm": "Apstiprināt",
+            "form_errors": "Lūdzam pārbaudīt sniegto informāciju",
+            "search": "Meklēt",
+            "submit": "Iesniegt",
+            "email_address": "E-pasta adrese",
+            "save": "Saglabāt",
+            "required": "Nepieciešams"
+        },
+        "durations": {
+            "days": "Dienas vai vairāk",
+            "hours": "Dažas stundas",
+            "hour": "Gandrīz stunda",
+            "half_hour": "Gandrīz pusstunda",
+            "minutes": "Dažas minūtes",
+            "seconds": "Dažas sekundes"
+        },
+        "inputs": {
+            "midi_controller": "MIDI kontrolieris",
+            "dance_pad": "Deju paklājiņš",
+            "phone": "Viedtālrunis",
+            "accelerometer": "Akselerometrs",
+            "voice": "Balss vadība",
+            "touchscreen": "Skārienekrāns",
+            "joystick": "Kursorsvira",
+            "gamepad": "Spēļu kontrolieris (jebkāds)",
+            "mouse": "Pele",
+            "keyboard": "Tastatūra"
+        },
+        "multiplayer_features": {
+            "adhoc": "Ad-hoc daudzspēlētaju tīkla režīms",
+            "local": "Vietējais daudzspēlētaju režīms",
+            "server": "Daudzspēlētaju tīkla režīms uz servera bāzes"
         }
     }
 }
