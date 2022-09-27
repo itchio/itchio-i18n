@@ -201,7 +201,7 @@
         "jams_created_header": "您创建的 Jam"
     },
     "game_grid": {
-        "in_bundle": "有游戏包"
+        "in_bundle": "游戏包中"
     },
     "add_to_collection": {
         "about_this_project_label": "关于这个项目",
@@ -1317,7 +1317,7 @@
             "game": "游戏"
         }
     },
-    "itchio": "Prostate UK  Crescent Stables  Upper Richmond Road London SW TN Tel Web References Disclaimer",
+    "itchio": "itch.io",
     "notifications": {
         "unseen_label": "新",
         "page_title": "通知"
