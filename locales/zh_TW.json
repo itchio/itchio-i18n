@@ -938,7 +938,8 @@
                 "not_open_yet": "賽事的投稿尚未結束。評分將於 {{start_date}} 開始。",
                 "rate_this_submission": "為這個作品評分",
                 "vote_for_this_submission": "投票給這個作品",
-                "vote": "投票"
+                "vote": "投票",
+                "private_field": "（私人的）"
             },
             "rated_by_people_count": "由 {{count}} 人評分",
             "rated_by_people_count_plural": "由 {{count}} 人評分",
@@ -965,7 +966,8 @@
             "results_table_raw_score": "原始分數",
             "results_table_score": "分數",
             "results_table_votes": "票數",
-            "results_table_rank": "排名"
+            "results_table_rank": "排名",
+            "results_table_criteria": "標準"
         },
         "screenshots": {
             "loading_more": "載入更多螢幕截圖...",
@@ -992,7 +994,8 @@
             "ratings_given_count": "在 {{vote_start_date}} 到 {{vote_end_date}} 期間內有 <s>{{count}} 個評分</s>。",
             "votes_cast_count": "在 {{vote_start_date}} 到 {{vote_end_date}} 期間內投了 <s>{{count}} 票</s>。",
             "submissions_summary": "在 {{start_date}} 到 {{end_date}} 期間內有 <s>{{count}} 個作品</s>參賽了。",
-            "results": "結果"
+            "results": "結果",
+            "sort_by_criteria": "按標準"
         },
         "submissions": {
             "empty_results": "沒有投稿作品符合你的篩選條件",
@@ -1004,7 +1007,8 @@
             "submissions_will_be_available_after_the_jam_has_ended": "在賽事結束後就會開放作品",
             "there_were_no_submissions": "沒有投稿作品",
             "there_are_no_submissions_yet": "還沒有投稿作品",
-            "filter": "篩選條件"
+            "filter": "篩選條件",
+            "rated": "已評分"
         },
         "submitter": {
             "you_can_now_rate_entries": "你現在可以在<a>投稿作品頁面</a>對作品評分",
@@ -1213,6 +1217,59 @@
         "count_items": "{{count}} 件",
         "already_in_collections": "這個專案已經在下列收藏中：",
         "add_reason": "將這個專案加入收藏以在後續保存。",
-        "dialog_title": "將 {{project_title}} 加入收藏"
+        "dialog_title": "將 {{project_title}} 加入收藏",
+        "about_this_project_label": "關於項目",
+        "private_collection_option": "私有收藏 - 只有您可以看到其內容",
+        "manage_collections_link": "管理收藏",
+        "add_button": "添加到收藏",
+        "default_title": "{{username}} 的收藏",
+        "add_to_new": "添加到新收藏",
+        "private_collection_title": "[私有]{{title}}"
+    },
+    "feed": {
+        "profile_notice": {
+            "add_a_profile_image": "添加頭像"
+        },
+        "email_warning": {
+            "verify_your_email_address": "驗證您的電子郵件"
+        },
+        "event_filter_label": "篩選：",
+        "upload_a_game_button": "上傳遊戲",
+        "manage_my_games_button": "管理我的遊戲",
+        "global_feed_tab": "全部動態",
+        "my_feed_tab": "我的動態",
+        "to_follow": {
+            "to_follow_description": "以下是您可能感興趣的人。"
+        },
+        "featured_tags_header": "精選標籤",
+        "latest_featured_games_header": "最新精選遊戲",
+        "filter_ratings_tab": "評分",
+        "filter_devlogs_tab": "開發日誌",
+        "filter_collections_tab": "收藏",
+        "filter_new_projects_tab": "新項目",
+        "filter_everything_tab": "全部",
+        "filter_own_activity_tab": "我的活動"
+    },
+    "jams": {
+        "count_joined": "{{count}} 人已加入",
+        "browse_in_progress": "進行中",
+        "browse_top_past_jams": "過去熱門 Jams",
+        "brose_featured_jams": "精選 Jams",
+        "browse_upcoming_this_month": "即將在本月推出的",
+        "dont_see_something_you_like_header": "沒有找到喜歡的東西？",
+        "host_or_explore_links": "<1>發起您自己的 Jam</1>或<2>瀏覽全部 Jams</2>",
+        "host_your_own_jam_button": "發起您自己的 Jam",
+        "jam_calendar_header": "Jam 日曆",
+        "manage_submissions_link": "管理你的作品和 Jams",
+        "browse_jams_header": "探索 Jams",
+        "host_a_jam_button": "發起 Jam",
+        "games_created": "<s>共{{count}}款遊戲</s>在 itch.io 上發起的 Jam 中被開發出來。",
+        "page_summary": "itch.io 是一個在線發起與參與 Game Jam 的地方。任何人都可以立即創建並發起一個 Jam。",
+        "page_title": "itch.io 上的Game Jam",
+        "jams_joined_header": "您參加的 Jam",
+        "jams_created_header": "您創建的 Jam"
+    },
+    "game_grid": {
+        "in_bundle": "捆綁包中"
     }
 }
