@@ -5,7 +5,11 @@
             "about": "Pri",
             "blog": "Blogo",
             "privacy": "Privateco",
-            "contact_us": "Kontakti nin"
+            "contact_us": "Kontakti nin",
+            "cookies": "Kuketoj",
+            "directory": "Indekso",
+            "terms": "Uzokondiĉoj",
+            "faq": "Oftaj demandoj"
         },
         "header": {
             "community": "Forumo",
@@ -16,10 +20,36 @@
             "games": "Ludoj",
             "fun_games": "Amuzaj ludoj",
             "upload_game": "Alŝuti ludon",
-            "search_placeholder": "Serĉi ludojn aŭ kreantojn"
+            "search_placeholder": "Serĉi ludojn aŭ kreantojn",
+            "feed": "Fluo",
+            "feed_unseen_count": "{{count}} nova",
+            "feed_unseen_count_plural": "{{count}} novaj",
+            "game_assets": "Havaĵoj",
+            "bundles": "Faskoj",
+            "comics": "Komiksoj",
+            "game_development": "Disvolvigado de ludoj",
+            "indie_game_store": "Butiko de sendependaj ludoj",
+            "free_games": "Senpagaj ludoj",
+            "no_notifications": "Neniuj novaj sciigoj",
+            "notifications_count": "{{count}} sciigo",
+            "notifications_count_plural": "{{count}} sciigoj",
+            "dashboard": "Panelo",
+            "browse_games": "Esplori ludojn",
+            "browse": "Esplori"
         },
         "user_menu": {
-            "settings": "Agordoj"
+            "settings": "Agordoj",
+            "account_menu_tooltip": "Konta menuo",
+            "feed": "Mia fluo",
+            "library": "Mia biblioteko",
+            "recommendations": "Rekomendoj",
+            "dashboard": "Panelo",
+            "new_project": "Alŝuti novan projekton",
+            "view_profile": "Vidi profilon",
+            "log_out": "Elsaluti",
+            "account": "Konto",
+            "create": "Krei",
+            "explore": "Esplori"
         }
     },
     "index": {
@@ -28,7 +58,33 @@
         },
         "games_by_price": "Ludoj per prezo",
         "download_app": "Elŝuti aplikaĵon",
-        "view_all_games": "Vidi ĉiujn ludojn"
+        "view_all_games": "Vidi ĉiujn ludojn",
+        "view_all_platforms": "Vidi ĉiujn platformojn",
+        "filtering_platform": "Filtrado de ĉiuj ludoj por {{platform_name}}",
+        "latest_featured_games": "Plej lastaj elstaraj ludoj",
+        "people_to_follow_description": "Jen kelkaj kontoj, kiuj eble interesos vin en sekvi ilin. <a>Kial sekvi?</a>",
+        "view_all_on_sale": "Vidi ĉiujn rebatatajn",
+        "game_dev_on_sale": "Rimedoj <1>rebatataj</1> por ludaj disvolvigistoj",
+        "more_featured_games": "Pliaj elstaraj ludoj",
+        "view_all_games_on_sale": "Vidi ĉiujn rabatatajn ludojn",
+        "people_to_follow": "Homoj sekvindaj",
+        "view_more": "Vidi pli",
+        "fresh_games": "Novaj ludoj",
+        "recommendations_based_on": "Baze sur viaj aĉetoj, elŝutoj kaj taksoj",
+        "recommended_for_you": "Rekomendate por vi",
+        "view_all": "Vidi ĉiujn",
+        "with_demo": "Kun demo",
+        "free_games": "Senpagaj ludoj",
+        "browse_all_tags": "Esplori ĉiujn etikedojn",
+        "search_games_creators": "Serĉi ludojn kaj kreantojn",
+        "view_all_blog_posts": "Vidi ĉiujn ĝisdatigojn",
+        "from_the_itchio_blog": "De la blogo de itch.io",
+        "get_the_app": "<s>Utiligu itch.io al la maksimumo!</s> Instalu kaj mastrumu viajn ludojn per nia labortabla apo",
+        "random_game": "Hazarda ludo",
+        "from_the_blog": "De la blogo",
+        "view_something_random": "Vidi ion hazardan",
+        "browse": "Esplori",
+        "popular_tags": "Popularaj etikedoj"
     },
     "misc": {
         "pager": {
