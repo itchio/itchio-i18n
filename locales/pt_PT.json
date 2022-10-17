@@ -714,7 +714,9 @@
             "page_header": "Perfil",
             "language_description": "Idioma da interface de usuário do itch.io",
             "language": "Idioma",
-            "language_community_translation": "<s>itch.io é traduzido por membros da nossa comunidade.</s> Alguns idiomas estão apenas parcialmente disponíveis. Se quiser ver itch.io no seu idioma ou ajudar em corrigir erros poderá contribuir para o mesmo. <a>Saber mais</a>"
+            "language_community_translation": "<s>itch.io é traduzido por membros da nossa comunidade.</s> Alguns idiomas estão apenas parcialmente disponíveis. Se quiser ver itch.io no seu idioma ou ajudar em corrigir erros poderá contribuir para o mesmo. <a>Saber mais</a>",
+            "profile_description": "Conteúdos da página de perfil",
+            "profile": "Perfil"
         },
         "navigation": {
             "thirdparty_analytics": "Análise de terceiros",
@@ -744,7 +746,31 @@
             "payment_header": "Pagamento",
             "basics_header": "Noções básicas"
         },
-        "account_settings": "Configurações da conta"
+        "account_settings": "Configurações da conta",
+        "email_addresses": {
+            "additional_emails": {
+                "verified_column": "Verificado",
+                "email_sent_status": "Email enviado",
+                "email_column": "Endereço de Email",
+                "emails_added_header": "Emails adicionados"
+            },
+            "add_email_form": {
+                "add_email_button": "Adicionar Email"
+            },
+            "additional_emails_instructions": "Será-lhe enviado um email com instruções de verificação após adicionar um email adicional.",
+            "change_email_form": {
+                "current_password": "Palavra-passe atual",
+                "new_email_address": "Novo endereço de email"
+            }
+        },
+        "password": {
+            "password_again": "Palavra-passe novamente",
+            "new_password": "Nova palavra-passe",
+            "password": "Palavra-passe",
+            "current_password": "Palavra-passe atual",
+            "set_password": "Definir palavra-passe",
+            "reset_password": "Alterar palavra-passe"
+        }
     },
     "buy_form_popup": {
         "powered_by_itchio": "distribuído por {{itchio}}",
