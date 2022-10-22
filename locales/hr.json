@@ -110,7 +110,7 @@
         "browse_all_tags": "Pretražite sve tagove",
         "search_games_creators": "Potražite igre i stvaratelje",
         "view_all_blog_posts": "Pogledajte sva ažuriranja",
-        "get_the_app": "<s>Dobite maksimum od itch.io!</s> Instalirajte i upravljajte svojim igricama sa našom desktop aplikacijom",
+        "get_the_app": "<s>Dobite najviše od itch.io!</s> Upravljajte svojim videoigrama i instalirajte ih uz našu aplikaciju",
         "dont_see_anything_you_like": "Ne vidite ništa što volite?",
         "view_something_random": "Pogledaj nešto nasumično",
         "popular_tags": "Popularni Tagovi",
@@ -210,7 +210,8 @@
             "required": "Potrebno",
             "form_errors": "Molimo vas provjerite informacije koje ste podnijeli",
             "optional": "Neobavezno",
-            "submit": "Podnesi"
+            "submit": "Podnesi",
+            "confirm": "Potvrdi"
         },
         "durations": {
             "days": "Dana ili više",
@@ -282,7 +283,10 @@
         },
         "layout": {
             "jam_submission": {
-                "you_rated_this_game": "Ocijenili ste ovu igru"
+                "you_rated_this_game": "Ocijenili ste ovu igru",
+                "rating_instructions": "Posjeti link ispod kako bi ocjenio i komentirao projekt za ovaj jam.",
+                "now_accepting_ratings": "Jam trenutno prihvaža ocjene za sudjelujeće projekte.",
+                "accepting_ratiings": "Jam trenutno prihvaža ocjene za sudjelujeće projekte. <a>Saznaj više</a>"
             },
             "footer": {
                 "updated_date": "Ažurirano {{date}}",
@@ -359,7 +363,8 @@
             "email_creator_link": "Kontaktirajte kreatora putem e-pošte",
             "support_page_link": "Idite na službenu stranicu podrške",
             "support_from_creator": "Imate li problema, trebate li podršku kreatora?"
-        }
+        },
+        "download_or_claim_button": "Preuzmi ili vrati prijašnju kupovinu"
     },
     "user_login": {
         "login_form": {
@@ -393,7 +398,8 @@
     "blog": {
         "updates": "Ažuriranja",
         "all_posts": "Svi postovi",
-        "tag_filter": "Filtriranje po {{tag}}. <a>Očisti oznaku</a>"
+        "tag_filter": "Filtriranje po {{tag}}. <a>Očisti oznaku</a>",
+        "digest": "Klasificiraj"
     },
     "developers": {
         "browser_game_description": "Zaradite novac od igre u pregledniku stavljajući ju na<s> itch.io </s>. Vaša je igra ugrađena u preglednik i igrači mogu donirati bilo koji iznos ako im se vaša igra sviđa.",
@@ -423,7 +429,8 @@
             "accept_tos": "Prihvaćam <1>Uvjete pružanja usluge</1>",
             "log_in": "Prijava",
             "already_have_account": "ili već imate svoj račun?",
-            "create_account": "Kreiraj račun"
+            "create_account": "Kreiraj račun",
+            "digest_signup": "Pretplati me na bi-mjesečan itch.io vijesti"
         },
         "create_an_account_on_itchio": "Kreiraj račun na itch.io"
     },
@@ -526,7 +533,11 @@
                 "new_email_address": "Nova adresa e-pošte"
             },
             "your_primary_email_address": "Vaša primarna adresa e-pošte: {{email}}",
-            "primary_email_header": "Primarna adresa e-pošte"
+            "primary_email_header": "Primarna adresa e-pošte",
+            "additional_emails": {
+                "verified_column": "Potvrđen",
+                "email_column": "E-mail"
+            }
         },
         "password": {
             "new_password_again": "Ponovite novu lozinku",
@@ -593,7 +604,150 @@
             "this_reply_will_go_to_the_topic_author": "Ovaj odgovor će ići autoru teme razgovora, {{username}}.",
             "this_reply_will_go_to_yourself": "Ovaj odgovor će ići vama.",
             "join_the_discussion": "Pridružite se diskusiji. Prijavite se ili stvorite besplatni itch.io račun za nastavak.",
-            "unlisted_topic_notice": "<s>Moderator je uklonio ovu temu razgovora s liste.</s> Više nije vidljiva na popisu tema razgovora, ali i dalje možete odgovoriti i unijeti izmjene."
+            "unlisted_topic_notice": "<s>Moderator je uklonio ovu temu razgovora s liste.</s> Više nije vidljiva na popisu tema razgovora, ali i dalje možete odgovoriti i unijeti izmjene.",
+            "topic_is_archived": "Ova tema je arhivirana. Neće se više prikazivati ostalim članovima i objave vezane uz ovu temu se više ne mogu kreirati.",
+            "create_related_topic": "Ukoliko imaš nešto vezano uz ovu objavu, možeš <a>kreirati temu u {{category_name}}</a>.",
+            "sticky": "Ljepljivo"
+        },
+        "topic_list": {
+            "no_replies_yet": "Trenutno nema odgovora",
+            "list_header_last_post": "Zadnja objava",
+            "list_header_topic_title": "Tema",
+            "locked_flag": "Zaključano",
+            "sticky_flag": "Ljepljivo",
+            "new_flag": "Novo",
+            "started_by_author": "{{topic_author}} je pokrenuo ovu temu",
+            "replies_count_0": "<s>{{count}}</s> odgovor",
+            "replies_count_1": "<s>{{count}}</s> odgovora",
+            "replies_count_2": "<s>{{count}}</s> odgovora",
+            "no_posts_yet": "Trenutno nema objava",
+            "views_count_0": "<s>{{count}}</s> pregled",
+            "views_count_1": "<s>{{count}}</s> pregleda",
+            "views_count_2": "<s>{{count}}</s> pregleda"
+        },
+        "category": {
+            "view_this_communitys_rules": "Pogledaj pravila ove zajednice...",
+            "by_topic_author": "od {{username}}",
+            "archived_flag": "Arhivirano",
+            "new_flag": "Novo",
+            "list_header_last_topic": "Posljednje teme",
+            "recent_posts_header": "Nedavne Teme",
+            "rules_header": "Pravila",
+            "stats": {
+                "topics": "Teme"
+            },
+            "unsubscribe_from_topics": "Prekini pretplatu na temu",
+            "subscribe_to_new_topics": "Pretplati se na nove teme",
+            "search_community_label": "Pretraži zajednicu",
+            "there_arent_any_topics_yet": "Trenutno nema nikakvih tema",
+            "empty_message": "Nema prisutnih tema",
+            "create_first_topic_button": "Kreiraj prvu temu",
+            "topics_count_0": "{{count}} tema",
+            "topics_count_1": "{{count}} teme",
+            "topics_count_2": "{{count}} tema"
+        },
+        "misc": {
+            "new_topic_button": "Nova tema"
+        },
+        "new_topic": {
+            "page_title": "Kreiraj novu temu",
+            "your_moderators_are": "itch.io ne moderira ovu temu, tvoji moderatori su:",
+            "topic_tag": "Oznaka",
+            "body": "Tijelo",
+            "title": "Naslov",
+            "see_community_guidelines": "Pogledaj <a>Smjernice Zajednice</a> za politiku zajednice itch.io-a.",
+            "this_a_community_run_message_board": "Ovo je tema koju vodi zajednica.",
+            "new_topic": "Nova tema",
+            "i_agree_to_the_rules_above": "Slažem se sa gore navedenim pravilima",
+            "moderation_options": "Opcije",
+            "locked": "Zaključano",
+            "sticky": "Ljepljivo",
+            "moderator_tools": "Moderatorski alat"
+        },
+        "post_form": {
+            "post_reply": "Pošalji odgovor",
+            "remove_tag": "Obriši oznaku",
+            "tag_header": "Označi",
+            "subscribe_description": "Primaj obavijesti novih odgovora na ovu temu",
+            "subscribe_to_this_topic": "Zaprati ovu temu",
+            "subscribe": "Pretplati se",
+            "post": "Objavi",
+            "save": "Spremi",
+            "add_profile_image": "Dodaj sliku profila"
+        },
+        "post_list": {
+            "post_from_suspended_account": "Objava suspendiranog računa",
+            "edited": "(uređeno)",
+            "pinned_post": "Prikvačena Objava",
+            "pinned_reply": "Prikvačen Odgovor",
+            "suspended_account": "Suspendiran račun",
+            "deleted_account": "Obrisan račun",
+            "vote_down": "Obori",
+            "vote_up": "Glasaj za",
+            "view_more_in_thread": "Pogledaj više odgovora u ovoj temi",
+            "ban": "Banuj...",
+            "report": "Prijavi",
+            "delete": "Obriši",
+            "delete_topic": "Obriši temu",
+            "edit": "Uredi",
+            "like": "Sviđa mi se",
+            "reply": "Odgovori",
+            "edits_count_0": "({{count}} uređivanje)",
+            "edits_count_1": "({{count}} uređivanja)",
+            "edits_count_2": "({{count}} uređivanja)",
+            "edits_count_plural": "({{count}} uređivanja)",
+            "edit_blocks": "Uredi blokove",
+            "post_from_blocked_account": "Objava blokiranog računa",
+            "deleted_post": "Obrisana objava"
         }
+    },
+    "collection": {
+        "remove_confirm": "Jesi li siguran da želiš ukloniti ovo iz svoje kolekcije",
+        "blurb_author_says": "{{author}} kaže",
+        "edit_blurb": "Uredi komentar autora",
+        "add_a_blurb": "Dodaj komentar autora",
+        "pending_invitation": "Imaš pozivnicu za člana ove kolekcije. <a>Vidi Pozivnicu</a>",
+        "page_title": "{{collection_title}} - Kolekcija od {{author}}",
+        "a_collection_by_author": "Kolekcija od {{author}}",
+        "remove_item_button": "Ukloni...",
+        "private_collection_message": "Ova kolekcija je privatna, samo suradnici mogu vidjeti njen sadržaj",
+        "empty_collection_message": "Ova kolekcija je trenutno prazna.",
+        "edit_contributors": "Uredi suradnike",
+        "last_updated_date": "Zadnji put uređeno {{date}}",
+        "edit_collection": "Uredi kolekciju",
+        "authors": "kolekcija od {{author}}"
+    },
+    "buy_form": {
+        "billing_address": "Adresa za naplatu",
+        "email_address_description": "Dokaz o kupnji će se poslati ovdje",
+        "check_out_with": "Plati sa",
+        "support_the_creator_with_an_additional_contribution": "Podrži kreatora uz dodatnu potporu",
+        "support_the_creator_by_paying_above_the_minimum_price": "Podrži kreatora tako što ćeš platiti gore navedenu minimalnu cijenu",
+        "gift_email_instructions": "Odabrat ćeš email na koji ćeš poslati poklon nakon što platiš",
+        "preorder_this_product_by_purchasing_it_for": "Postavi pre-order za ovaj proizvod tako što ćeš ga kupiti za {{price}} ili više.",
+        "preorder_title": "Postavi pre-order za '{{title}}'",
+        "generic_error": "Dogodila se greška prilikom kupovine:{{error}}",
+        "contact_support_on_error": "Ukoliko se problem nastavi, kontaktirajte <a>itch.io podršku</a> sa relevantnim detaljima.",
+        "continue_payment": "Nastavi kupovinu",
+        "go_back": "Idi natrag",
+        "credit_card": "Kartica",
+        "pay_with": "Plati sa",
+        "this_purchase_is_a_gift": "Ova kupovina je dar",
+        "agree_to_terms": "Dovršavajući kupovinu prihvaćaš itch.io <1>Uvjete Pružanja Usluga</1> u <2>Politiku Privatnosti</2>.",
+        "included_files": "Uključene datoteke",
+        "i_already_paid_for_this": "Već sam platio za ovo...",
+        "your_email_address": "Tvoja email adresa",
+        "download_this_product_by_purchasing_it_for": "Preuzmi ovaj proizvod tako što ćeš ga kupiti za {{price}} ili više.",
+        "includes_steam_key": "Uz svoju kupnju dobit ćeš i Steam ključ.",
+        "no_thanks_just_take_me_to_the_downloads": "Ne hvala, samo me odvedi na preuzimanja stavki",
+        "free_pay_what_you_want": "Ovaj projekt je besplatan, ali kreator ti dopušta donaciju po cijeni za koju ti misliš da je poštena.",
+        "buy_as_bundle_plural": "Ovaj proizvod je dostupan u paketu od {{count}} stavki za {{price}}:",
+        "also_buy_as_bundle_plural": "Ovaj proizvod je dostupan u paketu od {{count}} stavki za {{price}}:",
+        "percent_off_until": "Sve kupnje su snižene za <s>{{rate}}%</s> do {{end_date}}.",
+        "support_message": "Podrži razvoj ovog projekta tako što ćeš donirati",
+        "on_sale_notice": "Ovaj proizvod je na rasprodaji.",
+        "sold_out_notice": "Ovaj proizvod je trenutno rasprodan, provjeri kasnije.",
+        "buy_title": "Kupi '{{title}}'",
+        "download_title": "Preuzmi '{{title}}'"
     }
 }
