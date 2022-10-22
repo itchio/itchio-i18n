@@ -1,1 +1,26 @@
-{}
+{
+    "tags": {
+        "black-and-white": "Crno-Bijelo",
+        "beat-em-up": "Beat 'em up",
+        "automation": "Automatizacija",
+        "atmospheric": "Atmosferično",
+        "asteroids": "Asteroidi",
+        "archery": "Strijelaštvo",
+        "arcade": "Arkada",
+        "anime": "Anime",
+        "animals": "Životinje",
+        "altgame": "Alternativna igra",
+        "alternate-history": "Alternativna Povijest",
+        "aliens": "Vanzemaljci",
+        "adventure": "Avantura",
+        "action-rpg": "Akcijski RPG",
+        "action-adventure": "Akcijska-Avantura",
+        "action": "Akcija",
+        "abstract": "Abstraktno",
+        "8-bit": "8-Bitno",
+        "4x": "4X",
+        "3d-platformer": "3D Platformer",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
