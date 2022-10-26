@@ -63,14 +63,13 @@ describe "parses", ->
           singular_key = key\gsub("_%d+$", "")\gsub("_plural$", "")
           source_text = source_strings[singular_key] or source_strings[singular_key.."_plural"]
           unless source_text
-            error "extra key '#{key}':\n#{text}"
+            error "The following key is included in the translation (#{name}) but has no corresponding entry in the source (#{SOURCE_LOCALE}) translation: '#{key}':\n#{text}"
 
           -- see if the variables match
           source_variables = find_variables parse_tags\match source_text
           expected_variables = types.equivalent source_variables
 
           unless expected_variables find_variables syntax
-
             ignore_error = types.shape {
               name: types.one_of { "pt_PT" }
               source: types.shape {
