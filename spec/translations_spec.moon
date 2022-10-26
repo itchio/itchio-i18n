@@ -38,7 +38,7 @@ each_translation_file = (fn) ->
         assert not source_texts, "duplicate source texts"
         source_texts = contents
 
-      { dir, name, contents}
+      { "#{dir}#{file}", name, contents}
 
     for r in *rows
       args = {unpack r}
@@ -49,8 +49,8 @@ import parse_tags from require "helpers.compiler"
 import find_variables from require "helpers.code_gen"
 
 describe "parses", ->
-  each_translation_file (dir, name, strings, source_strings) ->
-    describe "#{dir} #{name}", ->
+  each_translation_file (filename, name, strings, source_strings) ->
+    describe "#{filename} #{name}", ->
       for key, text in pairs strings
         it "#{key}", ->
           syntax = parse_tags\match(text)
@@ -67,9 +67,10 @@ describe "parses", ->
 
           -- see if the variables match
           source_variables = find_variables parse_tags\match source_text
-          expected_variables = types.equivalent source_variables
+          found_variables = find_variables syntax
 
-          unless expected_variables find_variables syntax
+          unless types.equivalent(source_variables)\check_value found_variables
+            -- specific cases where we want to ignore the error
             ignore_error = types.shape {
               name: types.one_of { "pt_PT" }
               source: types.shape {
@@ -78,12 +79,19 @@ describe "parses", ->
               syntax: types.shape {}
             }
 
+            -- reduce severity of warning if count is not used, since some languages can use ordinal naming
+            is_warning = types.map_of "count", "simple"
+
             unless ignore_error {
               :name
               source: source_variables
-              syntax: find_variables syntax
+              syntax: found_variables
             }
-              error "variables do not match:\n#{source_text}\n#{text}"
+              msg = "variables do not match:\n#{source_text}\n#{text}"
+              if is_warning(source_variables) and is_warning(found_variables)
+                pending msg
+              else
+                error msg
 
 
 
