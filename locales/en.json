@@ -1351,5 +1351,14 @@
     "notifications": {
         "page_title": "Notifications",
         "unseen_label": "New"
+    },
+    "user": {
+        "verify_email": {
+            "confirm_verification": "Please confirm verifying the email address {{email_address}} for the account {{account}}. It is necessary to verify your email address to perform many actions on itch.io.",
+            "link_purchases": "If you have previously made any purchases with just your email address, they will automatically be associated to your account.",
+            "you_will_automatically_be_logged_in": "You will automatically be logged into your account after verifying your email address.",
+            "page_title": "Verify your email address",
+            "submit_button": "Confirm email verification"
+        }
     }
 }
