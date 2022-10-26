@@ -740,6 +740,6 @@
         "account_settings": "Setările contului"
     },
     "buy_form_popup": {
-        "author_line": "<1>de</1>"
+        "author_line": "<1>de</1> {{author}}"
     }
 }
