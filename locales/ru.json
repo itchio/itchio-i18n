@@ -969,7 +969,7 @@
             "view_entries_2": "Показать {{count}} проектов",
             "countdown": {
                 "starts_in": "Начинается в",
-                "submissions_due_in": "Отправка разрешена с",
+                "submissions_due_in": "Отправка закончится через",
                 "voting_ends_in": "Голосование идёт до"
             },
             "submission_is_closed_for_voting": "Отправка проектов закрыта, идёт голосование",
