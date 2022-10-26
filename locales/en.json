@@ -1358,7 +1358,10 @@
             "link_purchases": "If you have previously made any purchases with just your email address, they will automatically be associated to your account.",
             "you_will_automatically_be_logged_in": "You will automatically be logged into your account after verifying your email address.",
             "page_title": "Verify your email address",
-            "submit_button": "Confirm email verification"
+            "submit_button": "Confirm email verification",
+            "we_were_unable_to_verify_your_email_address": "We were unable to verify your email address",
+            "your_email_address_has_been_verified": "Your email address has been verified",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "You can not verify an email address when logged into a different account"
         }
     }
 }
