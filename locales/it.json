@@ -119,7 +119,7 @@
             "game": "Giochi",
             "assets": "Risorse per sviluppatori",
             "game_mod": "Mods",
-            "soundtrack": "Colonne sonore",
+            "soundtrack": "Raccolte e Colonne sonore",
             "other": "Miscellanea",
             "tool": "Strumenti",
             "comic": "Fumetti",
@@ -461,14 +461,14 @@
                 "participate_to_rate_message": "Per recensire questa consegna devi essere <a>loggato su itch.io</a> e aver consegnato il tuo lavoro. Chiunque ha un account può lasciare un commento."
             },
             "rated_by_people_count": "Votato da {{count}} persona",
-            "rated_by_people_count_plural": "Valutato da {{count}} persone fin'ora",
+            "rated_by_people_count_plural": "Valutato attualmente da {{count}} persone",
             "time_remaining_before_deadline": "Hai ancora {{time_duration}} prima della scadenza",
             "submitted_by_contributors": "Consegnato da {{contributors}}",
             "ranked_with_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
             "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
             "results_header": "Risultati",
             "ranked_from_count": "Classificato da <s>{{count}}recensione</s>.",
-            "ranked_from_count_plural": "Classificato da <s>{{count}} valutazioni</s>.",
+            "ranked_from_count_plural": "Classificato da <s>{{count}} recensioni</s>.",
             "score_information": "La classifica è regolata da un punteggio grezzo ad un numero medio di recensioni per gioco della jam.",
             "run_project": "Esegui il progetto",
             "play_game": "Gioca",
@@ -920,7 +920,7 @@
             "languages": "Lingue supportate",
             "average_session_duration": "Sessione di gioco",
             "asset_license": "Licenza degli Asset",
-            "code_license": "Licenza",
+            "code_license": "Licenza del codice",
             "tags": "Etichette",
             "made_with_tools": "Creato con",
             "genre": "Genere",
@@ -1044,7 +1044,8 @@
             "following": "Seguendo",
             "follow": "Segui",
             "creator": "Creatore",
-            "view_all_by_name": "Guarda tutto di {{name}}"
+            "view_all_by_name": "Guarda tutto di {{name}}",
+            "included_in_bundle_title": "Incluso nel {{bundle_title}}"
         }
     },
     "buy_form_popup": {
@@ -1055,7 +1056,15 @@
         "no_description_yet": "Ancora non c'è nessuna descrizione",
         "commonly_tagged_with": "Comunemente taggato con",
         "find_tag": "Cerca un etichetta",
-        "page_title": "Top delle etichette"
+        "page_title": "Top delle etichette",
+        "all_tags": "Tutte le etichette",
+        "types": {
+            "tool": "Strumenti",
+            "event": "Eventi",
+            "platform": "Piattaforme",
+            "style": "Stili",
+            "genre": "Generi"
+        }
     },
     "browse": {
         "filter_everything_else": "Tutto il resto",
@@ -1342,5 +1351,17 @@
     "notifications": {
         "unseen_label": "Nuovo",
         "page_title": "Notifiche"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Non puoi verificare un indirizzo email quando sei all'interno di un account differente",
+            "your_email_address_has_been_verified": "Il tuo indirizzo email è stato verificato",
+            "we_were_unable_to_verify_your_email_address": "Non siamo stati in grado di verificare il tuo indirizzo email",
+            "submit_button": "Conferma la verifica email",
+            "page_title": "Verifica il tuo indirizzo email",
+            "you_will_automatically_be_logged_in": "L'accesso verrà eseguito automaticamente al completamento della verifica email.",
+            "link_purchases": "Se hai precedentemente fatto qualche acquisto con solo l'indirizzo email, essi verranno automaticamente associati al tuo account.",
+            "confirm_verification": "Perfavore conferma verificando l'indirizzo email: {{email_address}} dell'account: {{account}}. E' necessario verificare l'indirizzo email per poter avere accesso al resto dei servizi."
+        }
     }
 }
