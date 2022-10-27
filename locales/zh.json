@@ -422,7 +422,7 @@
         "sort_new_and_popular": "新品 & 热门",
         "sort_popular": "人气",
         "results_count": "{{count}}个结果",
-        "results_count_plural": "{{count}}个结果",
+        "results_count_plural": "{{count}} 个结果",
         "filter_everything_else": "其他"
     },
     "collection": {
@@ -553,7 +553,7 @@
             "like": "点赞",
             "reply": "回复",
             "edits_count": "（{{count}}次编辑）",
-            "edits_count_plural": "（{{count}}次编辑）",
+            "edits_count_plural": "（{{count}} 次编辑）",
             "edit_blocks": "编辑块",
             "post_from_blocked_account": "从被禁止的帐户发布",
             "deleted_post": "已删除的帖子"
@@ -662,7 +662,8 @@
             "following": "已关注",
             "follow": "关注",
             "creator": "创作者",
-            "view_all_by_name": "查看 {{name}} 的全部内容"
+            "view_all_by_name": "查看 {{name}} 的全部内容",
+            "included_in_bundle_title": "包含在 {{bundle_title}} 里"
         },
         "upload_list": {
             "empty_message": "目前暂不提供下载。",
@@ -692,7 +693,7 @@
             "languages": "语言",
             "average_session_duration": "平均时长",
             "asset_license": "素材许可证",
-            "code_license": "许可证",
+            "code_license": "代码许可证",
             "tags": "标签",
             "made_with_tools": "使用",
             "genre": "类型",
@@ -1310,7 +1311,7 @@
             "comic": "漫画",
             "tool": "开发工具",
             "other": "其他",
-            "soundtrack": "原声",
+            "soundtrack": "专辑与原声带",
             "physical_game": "实体游戏",
             "game_mod": "游戏模组",
             "assets": "游戏素材",
@@ -1321,5 +1322,15 @@
     "notifications": {
         "unseen_label": "新",
         "page_title": "通知"
+    },
+    "user": {
+        "verify_email": {
+            "your_email_address_has_been_verified": "您的电子邮件地址已通过验证",
+            "we_were_unable_to_verify_your_email_address": "我们无法验证您的电子邮件地址",
+            "submit_button": "确认电子邮件验证",
+            "confirm_verification": "请确认验证帐户 {{account}} 的电子邮件地址 {{email_address}}。必须验证您的电子邮件地址才能在 itch.io 上执行许多操作。",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "您已登录在另一个帐户上，无法验证电子邮件地址",
+            "page_title": "验证您的邮件地址"
+        }
     }
 }
