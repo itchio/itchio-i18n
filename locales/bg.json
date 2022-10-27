@@ -120,7 +120,7 @@
             "assets": "Материали за игри",
             "game_mod": "Модификации",
             "physical_game": "Физически игри",
-            "soundtrack": "Музика от игри",
+            "soundtrack": "Албуми и музика от игри",
             "other": "Разни",
             "tool": "Инструменти",
             "comic": "Комикси",
@@ -321,7 +321,7 @@
             "genre": "Жанр",
             "made_with_tools": "Създадено с",
             "tags": "Етикети",
-            "code_license": "Лиценз",
+            "code_license": "Лиценз на кода",
             "asset_license": "Лиценз на материалите",
             "mentions": "Споменавания",
             "updated_at": "Обновено",
@@ -379,7 +379,9 @@
             "follow_username": "Следване на {{username}}",
             "following_username": "Следвате {{username}}",
             "add_to_collection": "Добавяне към колекция",
-            "submission_to_jam": "Участва в {{jam_title}}"
+            "submission_to_jam": "Участва в {{jam_title}}",
+            "included_in_bundle_title": "Включено в {{bundle_title}}",
+            "rate_this_noun": "Оценете това ({{noun}})"
         },
         "after_download": {
             "share_this_project": "Споделяне на този проект",
@@ -1000,7 +1002,7 @@
         "filter_everything_else": "Всичко останало",
         "filter_group_tools": "Инструменти и двигатели",
         "filter_group_platform": "Система",
-        "fresh_description": "Разгледайте постоянно обновяван набор от проекти, специално подбрани от колекциите на потребителите си. Проверявайте често за нови допълнения.",
+        "fresh_description": "Разгледайте постоянно обновяван набор от проекти, специално подбрани от колекциите на нашите потребители. Проверявайте често за нови допълнения.",
         "sort": "Подредба"
     },
     "jam": {
@@ -1235,7 +1237,7 @@
             "people_to_follow_header": "Хора за следване"
         },
         "to_rate": {
-            "to_rate_description": "Ето няколко неща, с които сте сте взаимодействали, но не сте оценили.",
+            "to_rate_description": "Ето няколко неща, с които сте взаимодействали, но не сте оценили.",
             "projects_to_rate_header": "Проекти за оценяване"
         },
         "latest_featured_games_header": "Последно избрани игри",
@@ -1332,7 +1334,15 @@
         "no_description_yet": "Все още няма описание",
         "page_title": "Популярни етикети",
         "find_tag": "Търсене на етикет",
-        "commonly_tagged_with": "Често използван етикет"
+        "commonly_tagged_with": "Често използван етикет",
+        "all_tags": "Всички етикети",
+        "types": {
+            "tool": "Инструменти",
+            "event": "Събития",
+            "platform": "Системи",
+            "style": "Стилове",
+            "genre": "Жанрове"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>от</1> {{author}}",
@@ -1341,5 +1351,17 @@
     "notifications": {
         "unseen_label": "Нови",
         "page_title": "Известия"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Не можете да потвърдите адрес на е-поща, ако в момента сте вписан(а) с друг акаунт",
+            "your_email_address_has_been_verified": "Адресът на е-пощата Ви е потвърден",
+            "we_were_unable_to_verify_your_email_address": "Не успяхме да потвърдим адреса на е-пощата Ви",
+            "submit_button": "Потвърждаване на е-пощата",
+            "page_title": "Потвърдете адреса на е-пощата си",
+            "you_will_automatically_be_logged_in": "След като потвърдите адреса на е-пощата си, ще бъдете вписан(а) автоматично в акаунта си.",
+            "link_purchases": "Ако вече сте правили покупки, използвайки адреса на тази е-поща, те автоматично ще бъдат свързани с акаунта Ви.",
+            "confirm_verification": "Моля, потвърдете е-пощата {{email_address}} за акаунта {{account}}. За много от дейностите в itch.io е необходимо да сте потвърдили адреса на е-пощата си."
+        }
     }
 }
