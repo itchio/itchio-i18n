@@ -122,7 +122,7 @@
             "assets": "Игровые ассеты",
             "game_mod": "Моды к играм",
             "physical_game": "Настольные игры",
-            "soundtrack": "Саундтреки",
+            "soundtrack": "Альбомы и саундтреки",
             "other": "Прочее",
             "tool": "Инструменты",
             "comic": "Комиксы",
@@ -411,7 +411,7 @@
             "genre": "Жанр",
             "made_with_tools": "Сделано с",
             "tags": "Теги",
-            "code_license": "Лицензия",
+            "code_license": "Лицензия на код",
             "asset_license": "Лицензия на ассеты",
             "average_session_duration": "Средняя сессия",
             "languages": "Языки",
@@ -486,7 +486,8 @@
                 "you_rated_this_game": "Вы оценили эту игру",
                 "now_accepting_ratings": "Геймджем сейчас собирает оценки проектов.",
                 "rating_instructions": "Оцените этот проект и оставьте комментарий, перейдя по ссылке выше на страницу в геймджеме."
-            }
+            },
+            "included_in_bundle_title": "Входит в {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "Поделиться этим проектом",
@@ -738,7 +739,15 @@
         "page_title": "Популярные теги",
         "find_tag": "Найти тег",
         "commonly_tagged_with": "Обычно используется с",
-        "no_description_yet": "Пока нет описания"
+        "no_description_yet": "Пока нет описания",
+        "all_tags": "Все теги",
+        "types": {
+            "tool": "Инструменты",
+            "event": "События",
+            "platform": "Платформы",
+            "style": "Стили",
+            "genre": "Жанры"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>от</1> {{author}}",
@@ -1371,5 +1380,17 @@
     "notifications": {
         "unseen_label": "Новые",
         "page_title": "Уведомления"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Вы не можете подтвердить адрес электронной почты если авторизованы в другой учётной записи",
+            "your_email_address_has_been_verified": "Ваш адрес электронной почты подтверждён",
+            "we_were_unable_to_verify_your_email_address": "Не получилось подтвердить ваш адрес электронной почты",
+            "submit_button": "Подтвердить почту",
+            "page_title": "Подтвердите адрес электронной почты",
+            "you_will_automatically_be_logged_in": "После подтверждения электронной почты вход в вашу учётную запись произойдёт автоматически.",
+            "confirm_verification": "Пожалуйста, подтвердите адрес электронной почты {{email_address}} для учётной записи {{account}}. Верификация электронной почты необходима для многих действий на itch.io.",
+            "link_purchases": "Если вы совершали покупки ранее, используя только адрес электронной почты, эти покупки будут автоматически привязаны к вашей учётной записи."
+        }
     }
 }
