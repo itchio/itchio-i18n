@@ -122,7 +122,7 @@
             "assets": "Zasoby do gier",
             "game_mod": "Modyfikacje gier",
             "physical_game": "Fizyczne gry",
-            "soundtrack": "Ścieżki dźwiękowe",
+            "soundtrack": "Albumy i ścieżki dźwiękowe",
             "other": "Różne",
             "tool": "Narzędzia",
             "comic": "Komiksy",
@@ -534,7 +534,7 @@
             "genre": "Gatunek",
             "made_with_tools": "Stworzono przy pomocy",
             "tags": "Tagi",
-            "code_license": "Licencja",
+            "code_license": "Licencja na kod",
             "asset_license": "Licencja zasobów",
             "average_session_duration": "Średnia sesja",
             "languages": "Języki",
@@ -609,7 +609,8 @@
                 "you_rated_this_game": "Już oceniono tę grę",
                 "now_accepting_ratings": "Jam pozwala teraz oceniać zgłoszone gry.",
                 "rating_instructions": "Oceń i skomentuj to zgłoszenie do Jamu poprzez stronę zgłoszenia z linku powyżej."
-            }
+            },
+            "included_in_bundle_title": "Zawarte w {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "Udostępnij ten projekt",
@@ -738,7 +739,15 @@
         "page_title": "Popularne tagi",
         "find_tag": "Znajdź tag",
         "commonly_tagged_with": "Często tagowane z",
-        "no_description_yet": "Na razie brak opisu"
+        "no_description_yet": "Na razie brak opisu",
+        "all_tags": "Wszystkie tagi",
+        "types": {
+            "tool": "Narzędzia",
+            "event": "Wydarzenia",
+            "platform": "Platformy",
+            "style": "Style",
+            "genre": "Gatunki"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>od</1> {{author}}",
@@ -1371,5 +1380,17 @@
     "notifications": {
         "unseen_label": "Nowe",
         "page_title": "Powiadomienia"
+    },
+    "user": {
+        "verify_email": {
+            "confirm_verification": "Potwierdź weryfikację adresu e-mail {{email_address}} dla konta {{account}}. Do wykonywania wielu czynności na itch.io konieczna jest weryfikacja adresu e-mail.",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Nie możesz zweryfikować adresu e-mail kiedy jesteś zalogowany na inne konto",
+            "your_email_address_has_been_verified": "Twój adres e-mail został zweryfikowany",
+            "we_were_unable_to_verify_your_email_address": "Nie mogliśmy zweryfikować Twojego adresu e-mail",
+            "submit_button": "Potwierdź weryfikację adresu e-mail",
+            "page_title": "Zweryfikuj swój adres email",
+            "you_will_automatically_be_logged_in": "Po zweryfikowaniu adresu e-mail zostaniesz automatycznie zalogowany na swoje konto.",
+            "link_purchases": "Jeśli wcześniej dokonywałeś zakupów przy użyciu samego adresu e-mail, zostaną one automatycznie powiązane z Twoim kontem."
+        }
     }
 }
