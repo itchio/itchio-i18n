@@ -137,8 +137,8 @@
             "my_purchases": "我的购买"
         },
         "nav_header": "库",
-        "empty_collection_message": "这个收藏是空的",
-        "go_to_collection_link": "转到收藏",
+        "empty_collection_message": "这个收藏夹是空的",
+        "go_to_collection_link": "转到收藏夹",
         "private_toggle": "私有的",
         "permalink": "永久链接",
         "things_rated_header": "您评价过的商品",
@@ -150,7 +150,7 @@
     "feed": {
         "event": {
             "collection_added_count": "添加了 {{count}} 项。",
-            "collection_summary": "包含 {{count}} 项的收藏。"
+            "collection_summary": "包含 {{count}} 项的收藏夹。"
         },
         "profile_notice": {
             "description": "您的帐号还没有头像，请添加以帮助其他用户清晰地辨识您！",
@@ -176,7 +176,7 @@
         "latest_featured_games_header": "最新精选游戏",
         "filter_ratings_tab": "评分",
         "filter_devlogs_tab": "开发日志",
-        "filter_collections_tab": "收藏",
+        "filter_collections_tab": "收藏夹",
         "filter_new_projects_tab": "新项目",
         "filter_everything_tab": "全部",
         "filter_own_activity_tab": "我自己的活动"
@@ -205,17 +205,17 @@
     },
     "add_to_collection": {
         "about_this_project_label": "关于这个项目",
-        "private_collection_option": "私有收藏 - 只有您可以看到其内容",
-        "manage_collections_link": "管理收藏",
-        "add_button": "添加到收藏",
-        "default_title": "{{username}} 的收藏",
-        "add_to_new": "添加到新收藏",
+        "private_collection_option": "私有收藏夹 - 只有您可以看到其内容",
+        "manage_collections_link": "管理收藏夹",
+        "add_button": "添加到收藏夹",
+        "default_title": "{{username}} 的收藏夹",
+        "add_to_new": "添加到新收藏夹",
         "private_collection_title": "[私有] {{title}}",
-        "add_to_existing": "添加到现有收藏",
+        "add_to_existing": "添加到现有收藏夹",
         "count_items": "{{count}} 个",
-        "already_in_collections": "该项目已在以下收藏中：",
-        "add_reason": "将此项目添加到收藏中以以供日后查看。",
-        "dialog_title": "将 {{project_title}} 添加到收藏中"
+        "already_in_collections": "该项目已在以下收藏夹中：",
+        "add_reason": "将此项目添加到收藏夹中，以供日后查看。",
+        "dialog_title": "将 {{project_title}} 添加到收藏夹中"
     },
     "dashboard": {
         "project_header": {
@@ -389,9 +389,9 @@
             "clear_filter": "清空筛选",
             "toggle_more_options": "切换更多选项"
         },
-        "fresh_description": "浏览由我们手工筛选并持续更新的合集。不要错过任何新内容哦。",
+        "fresh_description": "浏览来自我们的用户手工筛选的收藏夹的一系列项目。持续更新，不要错过任何新内容哦。",
         "filter_group_tools": "工具和引擎",
-        "filter_group_collection": "合集",
+        "filter_group_collection": "收藏夹",
         "filter_group_misc": "其他",
         "filter_group_release_status": "发售情况",
         "type_downloadable": "可下载",
@@ -411,10 +411,10 @@
         },
         "filter_group_genre": "类型",
         "filter_group_price": "价格",
-        "related_collections": "相关合集",
+        "related_collections": "相关收藏夹",
         "clear_filters": "清除",
         "filter_results": "筛选结果",
-        "upload_your_project": "<a>上传您的项目</a>到 itch.io 展示。",
+        "upload_your_project": "<a>上传您的项目</a>到 itch.io 以在此展示。",
         "sort": "排序",
         "sort_most_recent": "最新",
         "sort_top_rated": "评分最高",
@@ -426,20 +426,20 @@
         "filter_everything_else": "其他"
     },
     "collection": {
-        "remove_confirm": "您确定将该商品从该合集移除吗",
+        "remove_confirm": "您确定将该项从此收藏夹移除吗",
         "blurb_author_says": "{{author}} 说",
         "edit_blurb": "编辑简介",
         "add_a_blurb": "添加简介",
         "remove_item_button": "删除...",
-        "page_title": "{{collection_title}} - 合集作者 {{author}}",
-        "a_collection_by_author": "{{author}} 制作的合集",
-        "pending_invitation": "您有一个待处理的成为此合集贡献者的邀请。 <a>查看邀请</a>",
-        "private_collection_message": "该合集是私密的，仅贡献者可见其内容",
-        "empty_collection_message": "这个合集里没有任何商品。",
+        "page_title": "{{collection_title}} - {{author}}的收藏夹",
+        "a_collection_by_author": "{{author}}的收藏夹",
+        "pending_invitation": "您有一个待处理的成为此收藏夹贡献者的邀请。<a>查看邀请</a>",
+        "private_collection_message": "该收藏夹是私密的，只有贡献者能够看到其内容",
+        "empty_collection_message": "这个收藏夹里没有东西。",
         "edit_contributors": "编辑贡献者",
-        "edit_collection": "编辑合集",
+        "edit_collection": "编辑收藏夹",
         "last_updated_date": "最后更新于 {{date}}",
-        "authors": "{{author}} 制作的合集"
+        "authors": "{{author}}的收藏夹"
     },
     "buy_form": {
         "contact_support_on_error": "如果问题持续存在，请联系 <a>itch.io 支持</a> 并提供所有相关细节。",
@@ -656,7 +656,7 @@
             "community": "社区",
             "comments": "评论",
             "add_to_collection_short": "收藏",
-            "add_to_collection": "添加到收藏",
+            "add_to_collection": "添加到收藏夹",
             "following_username": "正在关注 {{username}}",
             "follow_username": "关注 {{username}}",
             "following": "已关注",
@@ -765,7 +765,7 @@
         "contribute_link": "想为开发做贡献？<a>在 Github 上查看源代码</a>",
         "learn_more_below": "了解更多信息",
         "more_info_links": "<1>阅读常见问题</1>或<2>阅读应用指南</2>",
-        "summary": "itch.io 的应用程序，<s>itch</s>，让您可以毫不费力地从 itch.io 下载并运行游戏和软件。您所有的下载内容都被保存在一个位置并会自动更新。您可以通过应用内浏览器访问收藏和购买的内容，或浏览新游戏。",
+        "summary": "itch.io 的应用程序，<s>itch</s>，让您可以毫不费力地从 itch.io 下载并运行游戏和软件。您所有的下载内容都被保存在一个位置并会自动更新。您可以通过应用内浏览器访问收藏夹和购买的内容，或浏览新游戏。",
         "for_platforms": "下载 <1>Windows</1>、 <2>macOS</2> 和 <3>Linux</3> 版本",
         "start_download": "开始下载",
         "tagline": "安装、更新并游玩独立游戏",
@@ -1194,7 +1194,15 @@
         "no_description_yet": "尚未添加介绍",
         "commonly_tagged_with": "常用标签",
         "find_tag": "搜索标签",
-        "page_title": "热门标签"
+        "page_title": "热门标签",
+        "all_tags": "所有标签",
+        "types": {
+            "tool": "工具",
+            "event": "活动",
+            "platform": "平台",
+            "style": "风格",
+            "genre": "类别"
+        }
     },
     "misc": {
         "loading_more_ellip": "加载更多...…",
@@ -1229,7 +1237,7 @@
             "close": "关闭"
         },
         "collection_button": {
-            "add_to_collection": "添加到收藏"
+            "add_to_collection": "添加到收藏夹"
         },
         "pager": {
             "first_page": "第一页",
@@ -1328,9 +1336,11 @@
             "your_email_address_has_been_verified": "您的电子邮件地址已通过验证",
             "we_were_unable_to_verify_your_email_address": "我们无法验证您的电子邮件地址",
             "submit_button": "确认电子邮件验证",
-            "confirm_verification": "请确认验证帐户 {{account}} 的电子邮件地址 {{email_address}}。必须验证您的电子邮件地址才能在 itch.io 上执行许多操作。",
+            "confirm_verification": "请确认验证帐户 {{account}} 的电子邮件地址 {{email_address}}。您必须验证电子邮件地址，才能在 itch.io 上执行各种操作。",
             "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "您已登录在另一个帐户上，无法验证电子邮件地址",
-            "page_title": "验证您的邮件地址"
+            "page_title": "验证您的邮件地址",
+            "you_will_automatically_be_logged_in": "验证电子邮件地址后，您将自动登录到您的帐户。",
+            "link_purchases": "如果您之前使用这个电子邮件地址进行过任何购买，则那些购买将自动关联到您的帐户。"
         }
     }
 }
