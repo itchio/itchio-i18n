@@ -349,7 +349,7 @@
             "create_a_new_project_title": "创建一个新项目"
         },
         "dashboard": "创作中心",
-        "hello": "你好！",
+        "hello": "您好！",
         "new_devlog": "新的开发日志",
         "recently_updated_pages_header": "最近更新的页面",
         "not_a_developer_escape": "不，带我去看游戏动态",
@@ -537,7 +537,7 @@
         },
         "post_list": {
             "post_from_suspended_account": "来自已停用账户的帖子",
-            "edited": "(已编辑)",
+            "edited": "（已编辑）",
             "pinned_post": "置顶贴子",
             "pinned_reply": "置顶回复",
             "suspended_account": "暂停的帐户",
@@ -1205,7 +1205,7 @@
         }
     },
     "misc": {
-        "loading_more_ellip": "加载更多...…",
+        "loading_more_ellip": "加载更多……",
         "more_ellip": "更多…",
         "errors": {
             "server_error": "服务器无法响应，请稍后再试"
