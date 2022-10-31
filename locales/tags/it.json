@@ -290,6 +290,11 @@
         "audio": "Audio",
         "asset-pack": "Pacchetto risorse",
         "animation": "Animazione",
-        "adult": "Adulto"
+        "adult": "Adulto",
+        "gender": "Genere",
+        "gacha": "Gacha",
+        "furry": "Peloso",
+        "fonts": "Caratteri",
+        "folklore": "Folclore"
     }
 }
