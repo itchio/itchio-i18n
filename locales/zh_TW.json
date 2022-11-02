@@ -51,7 +51,7 @@
             "contact_us": "聯絡我們",
             "terms": "服務條款",
             "directory": "網站目錄",
-            "privacy": "隱私",
+            "privacy": "隱私權",
             "cookies": "Cookie 條款"
         }
     },
@@ -75,7 +75,7 @@
         "top_sellers": "暢銷商品",
         "with_demo": "有試玩版的",
         "view_all": "檢視全部",
-        "recommended_for_you": "為您推薦",
+        "recommended_for_you": "向您推薦",
         "recommendations_based_on": "根據您之前購買、下載、和評分過的商品",
         "view_more": "檢視更多",
         "featured_jams": "精選即興賽事",
@@ -165,8 +165,8 @@
             "assets": "遊戲素材",
             "game_mod": "遊戲模組",
             "physical_game": "實體遊戲",
-            "soundtrack": "原聲帶",
-            "other": "其他雜項",
+            "soundtrack": "專輯及原聲帶",
+            "other": "其他",
             "tool": "工具",
             "comic": "漫畫",
             "book": "書本"
@@ -271,7 +271,7 @@
     },
     "user_register": {
         "register_form": {
-            "link_product": "您購買的 <1>{{product}}</1> 將會在您註冊後自動關聯到您的新帳號。",
+            "link_product": "您已購買的<1>{{product}}</1>將在註冊帳戶後與其自動連結。",
             "account_preferences_info": "您之後可以修改這些答案，它們将被用於幫助itch.io向您展示特定網站內容。",
             "create_account": "建立帳戶",
             "already_have_account": "已經有賬戶嗎？",
@@ -357,7 +357,7 @@
             "genre": "類型",
             "made_with_tools": "製作工具",
             "tags": "標籤",
-            "code_license": "授權",
+            "code_license": "程式碼授權",
             "asset_license": "素材授權",
             "languages": "語言",
             "inputs": "輸入裝置",
@@ -421,7 +421,8 @@
                 "embed": "嵌入代碼",
                 "updated_date": "於{{date}}已更新"
             },
-            "community": "社群"
+            "community": "社群",
+            "included_in_bundle_title": "已同捆至{{bundle_title}}"
         },
         "after_download": {
             "more_from_itchio_header": "查看 itch.io 上的更多訊息",
@@ -574,7 +575,7 @@
             "locked_flag": "已鎖定",
             "list_header_topic_title": "主題",
             "list_header_last_post": "上一篇文章",
-            "no_replies_yet": "尚未有回應"
+            "no_replies_yet": "尚無回覆"
         },
         "post_form": {
             "add_profile_image": "增加個人檔案圖片",
@@ -704,74 +705,74 @@
     },
     "user_settings": {
         "navigation": {
-            "email_addresses": "電子郵件地址",
-            "email_notifications": "電子郵件通知",
+            "email_addresses": "電郵地址",
+            "email_notifications": "電郵通知",
             "basics_header": "基本",
-            "payment_header": "付款",
+            "payment_header": "支付方式",
             "publisher_header": "發行人",
             "contact_header": "聯絡",
             "misc_header": "其他",
             "developer_header": "開發者",
             "profile": "個人檔案",
             "password": "密碼",
-            "two_factor_auth": "雙重驗證",
-            "support_email": "售後電子郵件地址",
-            "publisher_get_started": "立刻開始",
-            "revenue_sharing": "收入分成",
+            "two_factor_auth": "兩步驗證",
+            "support_email": "支援電郵",
+            "publisher_get_started": "現在開始",
+            "revenue_sharing": "收益共用",
             "payment_processors": "支付處理",
             "tax_information": "稅務資訊",
-            "payout_mode": "付款模式",
+            "payout_mode": "付款方法",
             "credit_cards": "信用卡",
             "billing_address": "帳單地址",
-            "connected_accounts": "已連接帳戶",
+            "connected_accounts": "已連結帳戶",
             "press_access": "媒體支持",
-            "privacy": "隱私設定",
-            "data_export": "數據匯出",
-            "api_keys": "API 密鑰",
-            "oauth_applications": "OAuth 應用程式",
+            "privacy": "隱私權",
+            "data_export": "資料匯出",
+            "api_keys": "API金鑰",
+            "oauth_applications": "OAuth應用程式",
             "thirdparty_analytics": "第三方分析"
         },
         "profile": {
-            "language_community_translation": "<s>itch.io 是由我們的社群成員翻譯。</s> 有些語言只有部分可用。如果您想要在 itch.io 使用您的語言或者是幫忙修正錯誤的話，您可以參與翻譯。 <a>瞭解更多</a>",
-            "profile_image_description": "將會與您的名字一起顯示在網站上（方形）",
-            "account_type_developer": "開發和上傳遊戲",
-            "disable_animated_gifs": "停用 GIF 動畫",
+            "language_community_translation": "<s>itch.io由我們社群中的成員們翻譯。</s>部分語言的內容仍不完善。您可以在itch.io上使用自己的語言並對譯文作出修正或提供翻譯幫助。<a>更多資訊</a>",
+            "profile_image_description": "將與您的用戶名一同展示在頁面上（顯示為正方形）",
+            "account_type_developer": "開發並上架遊戲",
+            "disable_animated_gifs": "停用GIF動畫",
             "language": "語言",
             "language_description": "itch.io 使用界面的語言",
             "page_header": "個人檔案",
             "username": "帳戶名稱",
             "username_description": "用於登入您的帳戶，和組成您個人檔案的 URL",
-            "change_username": "改變我的帳戶名稱/URL",
-            "you_recently_changed_your_username": "您最近更改了您的帳戶名稱",
-            "url_description": "你帳戶的公開 URL",
+            "change_username": "變更用戶名或網址",
+            "you_recently_changed_your_username": "您最近變更了用戶名",
+            "url_description": "帳戶的公開網址",
             "profile_image": "個人檔案圖片",
             "display_name": "顯示名字",
             "website": "網站",
             "website_description": "在你的個人檔案顯示的自訂網址",
-            "twitter_description": "在你的個人檔案顯示的 Twitter 帳戶",
-            "account_type": "帳戶類型",
-            "account_type_description": "您將會如何使用您的帳戶",
-            "account_type_gamer": "遊玩和下載遊戲",
-            "default_language_option": "預設（多國語言測試階段期間，預設為英文）",
+            "twitter_description": "在個人檔案中展示的推特帳戶",
+            "account_type": "帳戶類別",
+            "account_type_description": "本帳戶的使用目的",
+            "account_type_gamer": "下載及遊玩遊戲",
+            "default_language_option": "預設（測試期間暫定為英文）",
             "content": "內容",
-            "content_description": "如何向您顯示 itch.io 上的內容",
-            "show_adult_content": "在搜尋和瀏覽時，顯示被標記為成人內容的東西",
+            "content_description": "itch.io將展示何種內容",
+            "show_adult_content": "在搜尋及瀏覽時顯示成人內容",
             "disable_autoloading_next_page_when_browsing": "瀏覽時關閉自動讀取下一頁",
-            "use_dark_theme": "使用暗色系主題（如果可用）",
+            "use_dark_theme": "可用時啟用深色模式",
             "profile": "個人檔案",
-            "profile_description": "你的個人檔案內容",
+            "profile_description": "個人檔案的內容",
             "display_name_description": "這是代替你的帳戶名稱的名字，留空為帳戶名稱",
-            "click_to_load_games": "需要點擊一下才能執行 HTML5 嵌入式遊戲"
+            "click_to_load_games": "點按後開始該HTML5遊戲"
         },
         "account_settings": "帳戶設定",
         "password": {
             "reset_password": "重設密碼",
             "set_password": "設定密碼",
-            "new_password_again": "再次輸入新密碼",
-            "password_again": "再次輸入密碼",
-            "new_password": "新密碼",
+            "new_password_again": "重複新的密碼",
+            "password_again": "重複密碼",
+            "new_password": "新的密碼",
             "password": "密碼",
-            "current_password": "目前的密碼"
+            "current_password": "當前密碼"
         },
         "email_addresses": {
             "additional_emails": {
@@ -791,12 +792,12 @@
             "additional_emails_header": "額外的電子郵件地址",
             "primary_email_description": "您的主要電子郵件地址將用於接收來自 itch.io 的任何通知。",
             "change_email_form": {
-                "new_email_address": "新的電子郵件地址",
-                "current_password": "目前的密碼"
+                "new_email_address": "新的電郵地址",
+                "current_password": "當前密碼"
             },
-            "primary_email_header": "主要的電子郵件地址",
+            "primary_email_header": "主要的電郵地址",
             "change_password_instructions": "當您變更電子郵件地址時，您必須要驗證新的電子郵件地址才能存取您購買的任何遊戲。您會收到關於驗證指示的郵件。基於安全理由，您還需要提供目前的密碼才能對電子郵件地址進行更動。",
-            "your_primary_email_address": "您的主要電子郵件信箱：{{email}}"
+            "your_primary_email_address": "您主要的電郵地址為：{{email}}"
         }
     },
     "blog": {
@@ -817,11 +818,19 @@
         "page_title": "熱門標籤",
         "find_tag": "搜尋標籤",
         "no_description_yet": "還沒有描述",
-        "commonly_tagged_with": "常被標籤為"
+        "commonly_tagged_with": "常被標籤為",
+        "types": {
+            "style": "風格",
+            "genre": "類別",
+            "tool": "工具",
+            "event": "活動",
+            "platform": "平台"
+        },
+        "all_tags": "全部標籤"
     },
     "buy_form_popup": {
         "author_line": "<1>來自</1> {{author}}",
-        "powered_by_itchio": "由 {{itchio}} 提供支持"
+        "powered_by_itchio": "{{itchio}}技術支援"
     },
     "game_download": {
         "link_account_description": "您可以連結此下載頁面至您的 itch.io 帳號，這樣您就不必擔心會弄丟它了。它會顯示在您擁有的其他東西旁邊。",
@@ -942,12 +951,12 @@
                 "private_field": "（私人的）"
             },
             "rated_by_people_count": "由 {{count}} 人評分",
-            "rated_by_people_count_plural": "由 {{count}} 人評分",
+            "rated_by_people_count_plural": "已有{{count}}人評分",
             "time_remaining_before_deadline": "截止前剩餘 {{time_duration}}",
             "ranked_with_vote_count": "以 {{count}} 票排名 {{ordinal_rank}}",
             "results_header": "結果",
             "ranked_from_count": "根據 <s>{{count}} 個評分</s>排名。",
-            "ranked_from_count_plural": "根據 <s>{{count}} 個評分</s>排名。",
+            "ranked_from_count_plural": "依據<s>{{count}}個評分</s>所排名。",
             "score_information": "分數是根據賽事評分的中位數由原始分數調整而來。",
             "run_project": "執行專案",
             "play_game": "遊玩",
@@ -1228,7 +1237,8 @@
     },
     "feed": {
         "profile_notice": {
-            "add_a_profile_image": "添加頭像"
+            "add_a_profile_image": "添加頭像",
+            "description": "您的帳戶還未設定個人資料圖片，上傳以讓他人一眼認出你吧！"
         },
         "email_warning": {
             "verify_your_email_address": "驗證您的電子郵件"
@@ -1239,7 +1249,8 @@
         "global_feed_tab": "全部動態",
         "my_feed_tab": "我的動態",
         "to_follow": {
-            "to_follow_description": "以下是您可能感興趣的人。"
+            "to_follow_description": "以下是您可能感興趣的人。",
+            "people_to_follow_header": "可追隨的用戶"
         },
         "featured_tags_header": "精選標籤",
         "latest_featured_games_header": "最新精選遊戲",
@@ -1248,7 +1259,15 @@
         "filter_collections_tab": "收藏",
         "filter_new_projects_tab": "新項目",
         "filter_everything_tab": "全部",
-        "filter_own_activity_tab": "我的活動"
+        "filter_own_activity_tab": "我的活動",
+        "to_rate": {
+            "to_rate_description": "這裡是您已體驗過但還未評分的作品。",
+            "projects_to_rate_header": "待評分的專案"
+        },
+        "event": {
+            "collection_added_count": "加入了{{count}}個作品。",
+            "collection_summary": "含有{{count}}個作品的收藏。"
+        }
     },
     "jams": {
         "count_joined": "{{count}} 人已加入",
@@ -1271,5 +1290,57 @@
     },
     "game_grid": {
         "in_bundle": "捆綁包中"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "您已登入帳戶，無法驗證其他電郵地址",
+            "link_purchases": "若您曾用當前電郵地址購買過作品，其購買內容將自動連結至您的帳戶。",
+            "confirm_verification": "itch.io上的許多功能在驗證電郵地址後方可使用。請前往電郵地址{{email_address}}驗證您的帳戶{{account}}。",
+            "your_email_address_has_been_verified": "您的電郵地址通過了驗證",
+            "we_were_unable_to_verify_your_email_address": "我們無法成功驗證您的電郵地址",
+            "submit_button": "確定電郵認證",
+            "page_title": "驗證您的電郵地址",
+            "you_will_automatically_be_logged_in": "將在驗證電郵地址後自動登入您的帳戶。"
+        }
+    },
+    "library": {
+        "things_you_own_header": "擁有的內容",
+        "private_toggle": "私人",
+        "page_title": "我的收藏庫",
+        "rate_game": {
+            "rating_removed_header": "評分已移除",
+            "you_rated_this_project_ago": "您{{time_ago}}前已為該專案評分。",
+            "rate_header": "為{{project_title}}評分及評論",
+            "choose_stars": "選擇一至五顆星的評分。",
+            "delete_button": "刪除評分及評論",
+            "rating_deleted_summary": "您的評分已被刪除。",
+            "follow_creator": "可以追蹤{{project_title}}的作者以獲取他們的最新資訊。",
+            "rating_saved_header": "評分已保存"
+        },
+        "redeem_button": "兌換",
+        "gift_button": "禮物",
+        "download_button": "下載",
+        "nav": {
+            "things_to_rate": "可評分的作品",
+            "things_on_sale": "促銷中",
+            "my_purchases": "已購買",
+            "recommended_for_you": "向您推薦"
+        },
+        "nav_header": "收藏庫",
+        "empty_collection_message": "這是個空收藏",
+        "go_to_collection_link": "移動至收藏",
+        "permalink": "固定連結",
+        "things_rated_header": "您已評分的作品",
+        "show_on_my_profile_toggle": "在個人資料中展示",
+        "view_all_link": "檢視全部"
+    },
+    "notifications": {
+        "unseen_label": "新",
+        "page_title": "通知"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "您的電郵地址未經驗證"
+        }
     }
 }
