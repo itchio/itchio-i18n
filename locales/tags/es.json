@@ -259,8 +259,16 @@
         "steampunk": "Steampunk",
         "spoopy": "Asustadizo",
         "story-rich": "Historia enriquecida",
-        "tilemap": "Herramientas basadas en \"Tilemap\"",
+        "tilemap": "Tilemap (Mapa de mosaicos)",
         "top-down-adventure": "Aventura Cenital",
-        "top-down-shooter": "Shooter Cenital"
+        "top-down-shooter": "Shooter Cenital",
+        "boys-love": "Amor entre Chicos",
+        "bara": "Bara",
+        "backgrounds": "Fondos",
+        "augmented-reality": "Realidad Aumentada",
+        "audio": "Audio",
+        "asset-pack": "Paquete de recursos",
+        "animation": "Animación",
+        "adult": "Adulto"
     }
 }
