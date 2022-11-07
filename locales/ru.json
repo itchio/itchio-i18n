@@ -360,7 +360,7 @@
         "meta_description": "itch, лучший способ скачать и играть в инди игры. Загружайте бесплатные игры, и управляйте вашей коллекцией. Доступно для Windows, macOS и Linux."
     },
     "game": {
-        "empty_page": "Тут ничего нет...",
+        "empty_page": "Тут ничего нет…",
         "more_information": "Больше информации",
         "install_instructions": "Инструкции по установке",
         "download_header": "Скачать",
@@ -563,7 +563,7 @@
             "delete_topic": "Удалить тему",
             "delete": "Удалить",
             "report": "Пожаловаться",
-            "ban": "Забанить...",
+            "ban": "Забанить…",
             "view_more_in_thread": "Показать больше в цепочке",
             "vote_up": "Голосовать за",
             "vote_down": "Голосовать против",
@@ -622,7 +622,7 @@
             "new_flag": "Новое",
             "archived_flag": "В архиве",
             "by_topic_author": "от {{username}}",
-            "view_this_communitys_rules": "Посмотреть правила этого сообщества..."
+            "view_this_communitys_rules": "Посмотреть правила этого сообщества…"
         },
         "topic_list": {
             "views_count_0": "<s>{{count}}</s> просмотр",
@@ -659,7 +659,7 @@
         "your_email_address": "Ваш эл. адрес",
         "email_address_description": "Туда будет выслано подтверждение вашей покупки",
         "gift_email_instructions": "Вы можете выбрать эл. адрес, на который отправить подарок, после оплаты",
-        "i_already_paid_for_this": "Я уже платил за это...",
+        "i_already_paid_for_this": "Я уже платил за это…",
         "included_files": "Включённые файлы",
         "agree_to_terms": "Совершая платёж, вы соглашаетесь с <1>Условиями использования</1> и <2>Политикой приватности</2> itch.io.",
         "this_purchase_is_a_gift": "Хочу купить в подарок",
@@ -684,7 +684,7 @@
         "pending_invitation": "Вас пригласили быть автором этой коллекции. <a>Посмотреть приглашение</a>",
         "a_collection_by_author": "Коллекция от {{author}}",
         "page_title": "{{collection_title}} - Коллекция от {{author}}",
-        "remove_item_button": "Удалить...",
+        "remove_item_button": "Удалить…",
         "add_a_blurb": "Добавить примечание",
         "edit_blurb": "Изменить примечание",
         "blurb_author_says": "{{author}} говорит",
