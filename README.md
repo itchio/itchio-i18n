@@ -55,16 +55,6 @@ directly.
 
 HTML tags are not supported, only the markup syntax from the example above.
 
-## Components
-
-On Weblate, the translation software we use, we've split translation strings
-across separate components. A component is a grouping of strings by a feature
-on itch.io. This will allow translators to focus a particular part of the site
-they'd like to see in their language. The `core` component represents a
-critical set of strings that should be translated to enable basic usage of the
-site.
-
-
 ## How markup works
 
 A common problem with internationalization is how to handle strings that
