@@ -837,6 +837,15 @@
                 "email_sent_status": "email sent",
                 "detach_email": "Detach email"
             }
+        },
+        "two_factor_auth": {
+            "learn_more_about_twofactor_authentication": "Learn more about two-factor authentication",
+            "configure_twofactor_authentication": "Configure two-factor authentication",
+            "page_title": "Two-factor authentication",
+            "page_description": "Two-factor authentication is an additional layer of security for your account to help prevent unauthorized access if your password is ever stolen.",
+            "tfa_status": "Status: {{tfa_status}}",
+            "status_on": "On",
+            "status_off": "Off"
         }
     },
     "stripe_checkout": {
