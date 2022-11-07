@@ -357,7 +357,7 @@
         "meta_description": "itch, the best way to download and play indie games. Download free games and manage your library from your desktop. Now available for Windows, macOS and Linux."
     },
     "game": {
-        "empty_page": "There doesn't appear to be anything here...",
+        "empty_page": "There doesn't appear to be anything here…",
         "more_information": "More information",
         "install_instructions": "Install instructions",
         "download_header": "Download",
@@ -384,12 +384,12 @@
         "your_purchase_comes_with_a_steam_key": "Your purchase comes with a Steam key.",
         "steam_key_bundle_disclaimer": "(Note: Steam key not included in {{bundle_title}})",
         "donate_button": "Support This {{noun}}",
-        "empty_page_no_uploads": "The creator has not uploaded anything yet...",
+        "empty_page_no_uploads": "The creator has not uploaded anything yet…",
         "comments": {
             "comments_header": "Comments",
             "leave_a_comment_header": "Leave a comment",
             "leave_a_comment": "Leave a comment",
-            "click_to_leave_a_comment": "Click to leave a comment...",
+            "click_to_leave_a_comment": "Click to leave a comment…",
             "log_in_to_leave_comment": "<a>Log in with itch.io</a> to leave a comment.",
             "post_comment": "Post comment",
             "write_your_comment": "Write your comment…"
@@ -557,7 +557,7 @@
             "delete_topic": "Delete topic",
             "delete": "Delete",
             "report": "Report",
-            "ban": "Ban...",
+            "ban": "Ban…",
             "view_more_in_thread": "View more in thread",
             "vote_up": "Vote up",
             "vote_down": "Vote down",
@@ -615,7 +615,7 @@
             "new_flag": "New",
             "archived_flag": "Archived",
             "by_topic_author": "by {{username}}",
-            "view_this_communitys_rules": "View this community's rules..."
+            "view_this_communitys_rules": "View this community's rules…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> view",
@@ -650,7 +650,7 @@
         "your_email_address": "Your email address",
         "email_address_description": "Your payment confirmation will be sent here",
         "gift_email_instructions": "You'll pick an email to send gift to after you've payed",
-        "i_already_paid_for_this": "I already paid for this...",
+        "i_already_paid_for_this": "I already paid for this…",
         "included_files": "Included files",
         "agree_to_terms": "By completing a payment you agree to itch.io's <1>Terms of Service</1> and <2>Privacy Policy</2>.",
         "this_purchase_is_a_gift": "This purchase is a gift",
@@ -675,7 +675,7 @@
         "pending_invitation": "You have a pending invite to be a contributor of this collection. <a>See invite</a>",
         "a_collection_by_author": "A collection by {{author}}",
         "page_title": "{{collection_title}} - Collection by {{author}}",
-        "remove_item_button": "Remove...",
+        "remove_item_button": "Remove…",
         "add_a_blurb": "Add a blurb",
         "edit_blurb": "Edit blurb",
         "blurb_author_says": "{{author}} says",
@@ -1070,7 +1070,7 @@
         },
         "screenshots": {
             "empty_message": "There aren't any screenshots uploaded yet",
-            "loading_more": "Loading more screenshots..."
+            "loading_more": "Loading more screenshots…"
         }
     },
     "dashboard": {
