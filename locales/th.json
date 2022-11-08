@@ -207,6 +207,9 @@
                 "email_sent_status": "ส่งอีเมลแล้ว",
                 "detach_email": "นำอีเมลออก"
             }
+        },
+        "two_factor_auth": {
+            "status_on": "เปิด"
         }
     },
     "browse": {
@@ -717,7 +720,7 @@
             "empty_message": "ไม่มีหัวข้อ",
             "create_first_topic_button": "สร้างหัวข้อแรก",
             "topics_count": "{{count}} หัวข้อ",
-            "view_this_communitys_rules": "ดูกฎระเบียบของชุมชนนี้..."
+            "view_this_communitys_rules": "ดูกฎของชุมชนนี้…"
         },
         "misc": {
             "new_topic_button": "หัวข้อใหม่"
