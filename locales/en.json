@@ -1372,5 +1372,10 @@
             "your_email_address_has_been_verified": "Your email address has been verified",
             "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "You can not verify an email address when logged into a different account"
         }
+    },
+    "user_forgot_password": {
+        "reset_password": "Reset Password",
+        "enter_your_email": "Enter the email address you registered with and we will send you a link to reset your password.",
+        "link_sent": "A password reset link has been sent to your account's primary address."
     }
 }
