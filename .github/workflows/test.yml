@@ -37,3 +37,18 @@ jobs:
       run: |
         busted -o utfTerminal
 
+  notify:
+    runs-on: ubuntu-latest
+    environment: Notify
+    needs:
+      - test
+
+    if: ${{ github.ref == 'refs/heads/master' && always() }} # You always want to be notified: success, failure, or cancelled
+
+    steps:
+      - name: Notify
+        uses: nobrayner/discord-webhook@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          discord-webhook: ${{ secrets.DISCORD_WEBHOOK }}
+
