@@ -1155,7 +1155,16 @@
             "set_password": "Establecer contraseña",
             "reset_password": "Restablecer contraseña"
         },
-        "account_settings": "Configuración de la cuenta"
+        "account_settings": "Configuración de la cuenta",
+        "two_factor_auth": {
+            "status_off": "Deshabilitado",
+            "status_on": "Activo",
+            "tfa_status": "Estado: {{tfa_status}}",
+            "page_description": "La autenticación de dos factores es una capa adicional de seguridad para su cuenta que ayuda a evitar el acceso no autorizado si alguna vez le roban su contraseña.",
+            "page_title": "Autenticación de dos factores",
+            "configure_twofactor_authentication": "Configurar la autenticación de dos factores",
+            "learn_more_about_twofactor_authentication": "Más información sobre la autenticación de dos factores"
+        }
     },
     "browse": {
         "filter_group": {
