@@ -120,7 +120,7 @@
             "assets": "Peliassetit",
             "game_mod": "Pelien modit",
             "physical_game": "Fyysiset pelit",
-            "soundtrack": "Soundtrackit",
+            "soundtrack": "Albumit & Ääniraidat",
             "other": "Muut",
             "tool": "Työkalut",
             "comic": "Sarjakuvat",
@@ -145,7 +145,7 @@
             "keyboard": "Näppäimistö",
             "mouse": "Hiiri",
             "gamepad": "Ohjain (mikä tahansa)",
-            "joystick": "Joystick",
+            "joystick": "Ohjaussauva",
             "touchscreen": "Kosketusnäyttö",
             "voice": "Ääniohjaus",
             "accelerometer": "Nopeusmittari",
@@ -212,7 +212,8 @@
             "submit": "Lähetä",
             "email_address": "Sähköpostiosoite",
             "save": "Tallenna",
-            "required": "Vaadittu"
+            "required": "Vaadittu",
+            "confirm": "Vahvista"
         },
         "loading_more_ellip": "Ladataan lisää…",
         "more_ellip": "Lisää…",
@@ -331,8 +332,8 @@
                 "claimed": "Otettu haltuun",
                 "you_havent_sent_this_gift_to_anyone_yet": "Et ole lähettänyt tätä lahjaa vielä kenellekään",
                 "percent_off": "{{percent}}% pois",
-                "send_gift": "Lähetä lahja",
-                "you_own_this": "Sinä omistat tämän"
+                "send_gift": "Lähetä Lahja",
+                "you_own_this": "Omistat tämän"
             },
             "community": "Yhteisö",
             "comments": "Kommentit",
@@ -366,7 +367,8 @@
             "follow_username": "Seuraa tekijää {{username}}",
             "following": "Seurataan",
             "creator": "Tekijä",
-            "view_all_by_name": "Katso tämän mukaisesti {{name}}"
+            "view_all_by_name": "Katso tämän mukaisesti {{name}}",
+            "included_in_bundle_title": "Sisältyy pakettiin {{bundle_title}}"
         },
         "upload_list": {
             "play_in_browser": "Pelaa selaimessa",
@@ -397,7 +399,7 @@
             "accessibility": "Käyttö",
             "inputs": "Syötteet",
             "asset_license": "Avukalujen käyttölupa",
-            "code_license": "Käyttölupa",
+            "code_license": "Lisenssi",
             "tags": "Tunnisteet",
             "made_with_tools": "Tehty tämän avulla",
             "genre": "Lokero",
@@ -412,7 +414,7 @@
             "write_your_comment": "Kirjoita viestisi…",
             "post_comment": "Lähetä kommentti",
             "log_in_to_leave_comment": "<a>Kirjaudu sisään itch.io -tunnuksillasi</a> jättääksesi kommentin.",
-            "click_to_leave_a_comment": "Napsauta jättääksesi kommentin..."
+            "click_to_leave_a_comment": "Klikkaa jättääksesi kommentti…"
         },
         "price_or_more": "{{price}} <s>tai enemmän</s>",
         "purchase_header": "Osta",
@@ -453,7 +455,7 @@
         "community_posts_count_plural": "{{count}} viestit",
         "community_post_author": "{{username}} mukaisesti",
         "community_view_all_posts": "Katso kaikki viestit",
-        "empty_page_no_uploads": "Tekijä ei ole vielä ladannut tänne mitään...",
+        "empty_page_no_uploads": "Tekijä ei ole vielä ladannut tänne mitään…",
         "donate_button": "Tue tätä nimikettä {{noun}}",
         "steam_key_bundle_disclaimer": "(Huomautus: Steam-avain ei sisälly tähän kokonaisuuteen {{bundle_title}})",
         "your_purchase_comes_with_a_steam_key": "Ostoksesi toimitetaan Steam-avaimen kanssa.",
@@ -476,7 +478,7 @@
         "download_access": "Napsauta lataa heti päästäksesi käsiksi seuraaviin tiedostoihin:",
         "unavailable": "Tämä nimike {{game_noun}} ei ole tällä hetkellä saatavilla",
         "download_header": "Lataus",
-        "empty_page": "Täällä ei vaikuttaisi olevan mitään..."
+        "empty_page": "Täällä ei vaikuttaisi olevan mitään…"
     },
     "app": {
         "community_header": "Liity yhteisöön",
@@ -875,7 +877,7 @@
             "hosted_by": "Isännöity täällä {{hosts}}"
         },
         "screenshots": {
-            "loading_more": "Ladataan lisää kuvakaappauksia...",
+            "loading_more": "Ladataan lisää kuvakaappauksia…",
             "empty_message": "Yhtäkään kuvakaappausta ei ole vielä ladattu tänne"
         },
         "submission": {
@@ -900,14 +902,14 @@
                 "vote": "Äänestä"
             },
             "rated_by_people_count": "Yhden henkilön pistetyttämä {{count}} tähän asti",
-            "rated_by_people_count_plural": "Ihmisten antama pisteytysmäärä on {{count}} tähän asti",
+            "rated_by_people_count_plural": "{{count}} ihmistä on arvostellut tähän mennessä",
             "time_remaining_before_deadline": "{{time_duration}} ennen lopullista kehityksen päätösaikaa",
             "submitted_by_contributors": "Toimitettu seuraavien toimesta {{contributors}}",
             "ranked_with_vote_count": "Asteutettu {{ordinal_rank}} äänen {{count}} kautta",
             "ranked_with_vote_count_plural": "Asteutettu {{ordinal_rank}} äänten {{count}} kautta",
             "results_header": "Tulokset",
             "ranked_from_count": "Asteutettu määrästä <s>{{count}} pisteytykseen</s>.",
-            "ranked_from_count_plural": "Asteutettu <s>{{count}} pisteytyksestä</s>.",
+            "ranked_from_count_plural": "Sijoitettu <s>{{count}} pisteytyksestä</s>.",
             "score_information": "Pistetulos säädetään raakapistemallista keskiarvollisen asteutuksen kautta pelijamissa.",
             "run_project": "Käynnistä hanke",
             "play_game": "Pelaa peliä",
@@ -1120,7 +1122,16 @@
             "payment_header": "Maksu",
             "basics_header": "Perusteet"
         },
-        "account_settings": "Tiliasetukset"
+        "account_settings": "Tiliasetukset",
+        "two_factor_auth": {
+            "status_off": "Pois päältä",
+            "status_on": "Päällä",
+            "tfa_status": "Tila: {{tfa_status}}",
+            "learn_more_about_twofactor_authentication": "Lue lisää kaksitekijätodennuksesta",
+            "page_description": "Kaksitekijätodennus on tilisi lisäturvakerros, joka auttaa estämään luvattoman käytön, jos salasanasi koskaan varastetaan.",
+            "page_title": "Kaksitekijätodennus",
+            "configure_twofactor_authentication": "Määritä kaksitekijätodennus"
+        }
     },
     "buy_form_popup": {
         "powered_by_itchio": "voimanlähteenä {{itchio}}",
@@ -1130,7 +1141,15 @@
         "no_description_yet": "Kuvausta ei vielä ole",
         "commonly_tagged_with": "Yleisesti asetettu tunnisteella",
         "find_tag": "Etsi tunniste",
-        "page_title": "Suosituimmat tunnisteet"
+        "page_title": "Suosituimmat tunnisteet",
+        "all_tags": "Kaikki tägit",
+        "types": {
+            "platform": "Alustat",
+            "genre": "Tyylilajit",
+            "tool": "Työkalut",
+            "event": "Tapahtumat",
+            "style": "Tyylit"
+        }
     },
     "browse": {
         "filter_everything_else": "Kaikki muu",
@@ -1140,7 +1159,7 @@
             "fewer_options": "Näytä vähemmän vaihtoehtoja",
             "more_options": "Lisävaihtoehdot"
         },
-        "fresh_description": "Tarkastele jatkuvasti päivittyvää hankerypästä jotka ovat lähteistetty jäsentemme hallitsemilta kokoelmilta. Tule takaisin myöhemmin uusia lisäyksiä varten.",
+        "fresh_description": "Selaa jatkuvasti päivittyvää projektikokoelmaa, joka on koottu jäseniemme kuratoitujen kokoelmien pohjalta. Tule takaisin myöhemmin uusia lisäyksiä varten.",
         "filter_group_tools": "Työkalut & pelimoottorit",
         "filter_group_collection": "Kokoelma",
         "filter_group_misc": "Sekalaiset",
@@ -1173,14 +1192,14 @@
         "sort_new_and_popular": "Uudet & suositut",
         "sort_popular": "Suosittu",
         "results_count": "{{count}} tulos",
-        "results_count_plural": "{{count}} tulokset"
+        "results_count_plural": "{{count}} tulosta"
     },
     "collection": {
         "remove_confirm": "Oletko varma että haluat poistaa tämän kokoelmasta",
         "blurb_author_says": "{{author}} sanoo",
         "edit_blurb": "Muokkaa nostatustekstiä",
         "add_a_blurb": "Lisää nostatusteksti",
-        "remove_item_button": "Poista...",
+        "remove_item_button": "Poista…",
         "page_title": "{{collection_title}} - Kokoelma tekijältä {{author}}",
         "a_collection_by_author": "Kokoelma on kehittäjältä {{author}}",
         "pending_invitation": "Sinulla on jonossa toimiasi vaativa kutsu tulla kehittäjäksi tälle kokoelmalle. <a>Katso kutsu</a>",
@@ -1205,7 +1224,7 @@
         "this_purchase_is_a_gift": "Tämä ostos on lahja",
         "agree_to_terms": "Saattaessasi maksusuorituksen loppuun hyväksyt itch.io:n <1>Käyttöehdot</1> ja <2>Yksityisyyskäytännöt</2>.",
         "included_files": "Sisällytetyt tiedsotot",
-        "i_already_paid_for_this": "Olen tästä jo maksanut...",
+        "i_already_paid_for_this": "Olen jo maksanut tästä…",
         "gift_email_instructions": "Voit valita sähköpostin johon lahjasi vastaanottajalle lähetetään maksamisen jälkeen",
         "email_address_description": "Maksuvahvistuksesi lähetetään sinne",
         "your_email_address": "Sähköpostiosoitteesi",
@@ -1240,7 +1259,7 @@
             "views_count_plural": "<s>{{count}}</s> katselut"
         },
         "category": {
-            "view_this_communitys_rules": "Näytä tämän yhteisön säännöt...",
+            "view_this_communitys_rules": "Näytä tämän yhteisön säännöt…",
             "by_topic_author": "tämän käyttäjän luoma {{username}}",
             "archived_flag": "Arkistoitu",
             "new_flag": "Uusi",
@@ -1298,7 +1317,7 @@
             "vote_down": "Äänestä vastaan",
             "vote_up": "Äänestä puolesta",
             "view_more_in_thread": "Näytä lisää keksusteluketjussa",
-            "ban": "Anna porttikielto...",
+            "ban": "Anna porttikielto…",
             "report": "Ilmoita",
             "delete": "Poista",
             "delete_topic": "Poista koko aihe",
@@ -1306,7 +1325,7 @@
             "like": "Tykkää",
             "reply": "Vastaa",
             "edits_count": "({{count}} muokkaus)",
-            "edits_count_plural": "({{count}} muokkaukset)",
+            "edits_count_plural": "({{count}} muokkausta)",
             "edit_blocks": "Muokkaa estoja",
             "post_from_blocked_account": "Viesti estetyltä tililtä",
             "deleted_post": "Poistettu viesti"
@@ -1340,6 +1359,18 @@
             "unlisted_topic_notice": "<s>Moderaattori on poistanut tämän aiheen näkyviltä.</s> Se ei siis aiheluetteloinnissa näy mutta voit edelleen vastailla ja tehdä muokkauksia.",
             "log_in_to_reply": "Kirjaudu sisään vastataksesi",
             "reply": "Vastaa"
+        }
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Et voi vahvistaa sähköpostiosoitettasi kirjautuneena toiselle tilille",
+            "your_email_address_has_been_verified": "Sähköpostiosoitteesi on vahvistettu",
+            "we_were_unable_to_verify_your_email_address": "Emme voineet vahvistaa sähköpostiosoitettasi",
+            "submit_button": "Vahvista sähköpostiosoitteen vahvistus",
+            "page_title": "Vahvista sähköpostiosoitteesi",
+            "you_will_automatically_be_logged_in": "Sinut kirjataan automaattisesti tilillesi, kun olet vahvistanut sähköpostiosoitteesi.",
+            "link_purchases": "Jos olet aiemmin tehnyt ostoksia vain sähköpostiosoitteellasi, ne liitetään automaattisesti tilillesi.",
+            "confirm_verification": "Vahvista sähköpostiosoitteen {{email_address}} vahvistaminen tilille {{account}}. Sähköpostiosoitteesi on vahvistettava, jotta voit suorittaa monia toimintoja itch.io:ssa."
         }
     }
 }
