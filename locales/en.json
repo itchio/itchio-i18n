@@ -1376,6 +1376,7 @@
     "user_forgot_password": {
         "reset_password": "Reset Password",
         "enter_your_email": "Enter the email address you registered with and we will send you a link to reset your password.",
-        "link_sent": "A password reset link has been sent to your account's primary address."
+        "link_sent": "A password reset link has been sent to your account's primary address.",
+        "please_provide_a_new_password_for_account": "Please provide a new password for the account {{account_name}}."
     }
 }
