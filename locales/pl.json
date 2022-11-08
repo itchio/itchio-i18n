@@ -375,7 +375,7 @@
             "delete_topic": "Usuń temat",
             "delete": "Usuń",
             "report": "Zgłoś",
-            "ban": "Zbanuj...",
+            "ban": "Zbanuj…",
             "view_more_in_thread": "Pokaż więcej w wątku",
             "vote_up": "Podbij",
             "vote_down": "Zakop",
@@ -463,7 +463,7 @@
             "archived_flag": "Zarchiwizowane",
             "unsubscribe_from_topics": "Anuluj subskrypcję",
             "by_topic_author": "od {{username}}",
-            "view_this_communitys_rules": "Wyświetl reguły dla tej społeczności..."
+            "view_this_communitys_rules": "Wyświetl reguły dla tej społeczności…"
         },
         "topic_list": {
             "views_count_0": "<s>{{count}}</s> wyświetlenie",
@@ -483,7 +483,7 @@
         }
     },
     "game": {
-        "empty_page": "Zdaje się, że nic tu nie ma...",
+        "empty_page": "Zdaje się, że nic tu nie ma…",
         "more_information": "Więcej informacji",
         "install_instructions": "Instrukcja instalacji",
         "download_header": "Pobierz",
@@ -510,12 +510,12 @@
         "your_purchase_comes_with_a_steam_key": "Twój zakup zawiera klucz Steam.",
         "steam_key_bundle_disclaimer": "(Uwaga: {{bundle_title}} nie zawiera klucza Steam)",
         "donate_button": "Wesprzyj {{noun}}",
-        "empty_page_no_uploads": "Twórca jeszcze nic nie przesłał...",
+        "empty_page_no_uploads": "Twórca jeszcze nic nie przesłał…",
         "comments": {
             "comments_header": "Komentarze",
             "leave_a_comment_header": "Zostaw komentarz",
             "leave_a_comment": "Skomentuj",
-            "click_to_leave_a_comment": "Kliknij aby skomentować...",
+            "click_to_leave_a_comment": "Kliknij aby skomentować…",
             "log_in_to_leave_comment": "<a>Zaloguj się z itch.io</a> aby skomentować.",
             "post_comment": "Wyślij komentarz",
             "write_your_comment": "Napisz komentarz…"
@@ -658,7 +658,7 @@
         "your_email_address": "Twój adres e-mail",
         "email_address_description": "Twoje potwierdzenie zakupu zostanie wysłane na",
         "gift_email_instructions": "Po dokonaniu płatności, wybierzesz adres e-mail, na który chcesz wysłać prezent",
-        "i_already_paid_for_this": "Już za to zapłaciłem...",
+        "i_already_paid_for_this": "Już za to zapłaciłem…",
         "included_files": "Dołączone pliki",
         "agree_to_terms": "Przez dokończenie płatności wyrażasz zgodę na <1>Regulamin</1> oraz <2>Politykę prywatności</2> itch.io.",
         "this_purchase_is_a_gift": "Ten zakup jest prezentem",
@@ -684,7 +684,7 @@
         "pending_invitation": "Masz oczekujące zaproszenie do bycia współautorem tej kolekcji. <a>Zobacz zaproszenie</a>",
         "a_collection_by_author": "Kolekcja od {{author}}",
         "page_title": "{{collection_title}} - Kolekcja od {{author}}",
-        "remove_item_button": "Usuń...",
+        "remove_item_button": "Usuń…",
         "add_a_blurb": "Dodaj rekomendację",
         "edit_blurb": "Edytuj rekomendację",
         "blurb_author_says": "Słowo od autora {{author}}",
@@ -1095,7 +1095,7 @@
         },
         "screenshots": {
             "empty_message": "Nie wysłano jeszcze żadnych zrzutów ekranu",
-            "loading_more": "Ładowanie więcej zrzutów ekranu..."
+            "loading_more": "Wczytuję więcej zrzutów ekranu…"
         }
     },
     "dashboard": {
