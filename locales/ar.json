@@ -490,8 +490,7 @@
             "rate": "التقييم",
             "rate_this_noun": "قيم {{noun}}",
             "rate_for_jam": "تقييم ل{{jam_title}}",
-            "submission_to_jam": "تقديم إلى {{jam_title}}",
-            "included_in_bundle_title": "متواجد في {{اسم_الحزمة}}"
+            "submission_to_jam": "تقديم إلى {{jam_title}}"
         },
         "after_download": {
             "share_this_project": "انشر هذا المشروع",
