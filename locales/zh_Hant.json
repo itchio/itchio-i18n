@@ -14,7 +14,8 @@
                 "remove_image": "刪除圖片",
                 "confirm_remove": "您確定要刪除封面圖片嗎？",
                 "replace_image": "代替封面圖片",
-                "upload_button": "上傳封面圖片"
+                "upload_button": "上傳封面圖片",
+                "cover_description": "縮圖會在itch.io與網站內的其他區域連結到您的作品時展示。必須上傳（最小：315x250，推薦：630x500）"
             },
             "screenshots_header": "螢幕截圖",
             "add_screenshots": "新增螢幕截圖",
@@ -221,7 +222,7 @@
         "nav_header": "收藏庫",
         "nav": {
             "my_purchases": "我的購買",
-            "recommended_for_you": "推薦給您"
+            "recommended_for_you": "向您推薦"
         },
         "gift_button": "禮物",
         "redeem_button": "兌換"
@@ -257,7 +258,7 @@
         "view_all_jams": "檢視全部 Game Jams",
         "top_sellers": "暢銷商品",
         "with_demo": "有試玩版",
-        "recommended_for_you": "為您推薦",
+        "recommended_for_you": "向您推薦",
         "view_all_on_sale": "檢視全部特價中商品",
         "latest_featured_games": "最近精選遊戲",
         "people_to_follow_description": "您也許有興趣追蹤以下的使用者。<a>為什麼要追蹤？</a>",
@@ -268,7 +269,7 @@
         "featured_jams": "精選 Game Jams",
         "view_more": "檢視更多",
         "fresh_games": "最新遊戲",
-        "recommendations_based_on": "根據您之前購買、下載、和評分過的東西",
+        "recommendations_based_on": "推薦依據您曾購買、下載或評分的作品",
         "view_all": "檢視全部",
         "browse_all_tags": "瀏覽全部標籤",
         "view_all_blog_posts": "檢視全部更新",
