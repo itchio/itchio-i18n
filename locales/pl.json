@@ -848,6 +848,15 @@
                 "email_sent_status": "e-mail wysłany",
                 "detach_email": "Odłącz adres e-mail"
             }
+        },
+        "two_factor_auth": {
+            "status_off": "Wyłączone",
+            "status_on": "Wł.",
+            "page_description": "Uwierzytelnianie dwuskładnikowe to dodatkowa warstwa zabezpieczeń Twojego konta, która pomaga zapobiegać nieautoryzowanemu dostępowi w przypadku kradzieży hasła.",
+            "tfa_status": "Status: {{tfa_status}}",
+            "page_title": "Uwierzytelnianie dwuskładnikowe",
+            "configure_twofactor_authentication": "Skonfiguruj uwierzytelnianie dwuskładnikowe",
+            "learn_more_about_twofactor_authentication": "Dowiedz się więcej o uwierzytelnianiu dwuskładnikowym"
         }
     },
     "game_download": {
