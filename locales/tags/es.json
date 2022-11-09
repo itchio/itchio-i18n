@@ -296,6 +296,11 @@
         "cats": "Gatos",
         "cartoon": "Dibujos animados",
         "buttons": "Botones",
-        "brushes": "Pinceles"
+        "brushes": "Pinceles",
+        "homebrew": "Homebrew",
+        "hex-based": "Retícula hexagonal",
+        "hentai": "Hentai",
+        "gui": "Interfaz Gráfica de Usuario (GUI)",
+        "flying": "Vuelo"
     }
 }

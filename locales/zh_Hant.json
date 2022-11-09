@@ -306,7 +306,8 @@
             "email_address": "電子郵件地址",
             "required": "必填",
             "save": "儲存",
-            "submit": "送出"
+            "submit": "送出",
+            "confirm": "確認"
         },
         "loading_more_ellip": "載入更多……",
         "release_statuses": {
@@ -377,7 +378,7 @@
             "comic": "漫畫",
             "tool": "工具",
             "other": "其他",
-            "soundtrack": "原聲帶",
+            "soundtrack": "專輯及原聲帶",
             "physical_game": "實體遊戲",
             "game_mod": "遊戲模組",
             "assets": "遊戲素材",
@@ -453,7 +454,7 @@
             "log_in": "登入",
             "already_have_account": "或已經有帳戶？",
             "create_account": "建立帳戶",
-            "link_product": "註冊帳戶後，您所購買的 <1>{{product}}</1> 將會自動關聯到您的新帳戶。",
+            "link_product": "您已購買的<1>{{product}}</1>將在註冊帳戶後與其自動連結。",
             "about_you": "關於您",
             "accept_tos": "我接受<1>服務條款</1>",
             "interest_developer": "我希望在 itch.io 上分享內容",
@@ -573,7 +574,8 @@
             "comments": "評論",
             "view_all_by_name": "檢視{{name}}的所有內容",
             "submission_to_jam": "在{{jam_title}}投稿",
-            "rate_for_jam": "為{{jam_title}}評分"
+            "rate_for_jam": "為{{jam_title}}評分",
+            "included_in_bundle_title": "已同捆至{{bundle_title}}"
         },
         "percent_off": "<s>{{percent}}%</s> Off",
         "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 產品序號。",
@@ -748,7 +750,7 @@
             "suspended_account": "已停用的帳戶",
             "edit": "編輯",
             "edits_count": "（已編輯 {{count}} 次）",
-            "edits_count_plural": "(已編輯{{count}}次)",
+            "edits_count_plural": "（曾編輯{{count}}次）",
             "post_from_suspended_account": "來自已停用帳戶的文章",
             "pinned_post": "置頂文章",
             "deleted_post": "已刪除的文章",
@@ -938,7 +940,7 @@
         "filter_group_genre": "類型",
         "filter_group_misc": "其他",
         "results_count": "{{count}} 個結果",
-        "results_count_plural": "{{count}}個結果",
+        "results_count_plural": "{{count}}件搜尋結果",
         "sort_new_and_popular": "新品&流行",
         "sort_top_sellers": "最暢銷",
         "sort_top_rated": "最高評價",
@@ -1252,7 +1254,12 @@
         "commonly_tagged_with": "常被標籤為",
         "find_tag": "搜尋標籤",
         "page_title": "熱門標籤",
-        "no_description_yet": "還沒有敘述"
+        "no_description_yet": "還沒有敘述",
+        "types": {
+            "platform": "平台",
+            "style": "風格",
+            "genre": "類別"
+        }
     },
     "collection": {
         "blurb_author_says": "{{author}} 說",

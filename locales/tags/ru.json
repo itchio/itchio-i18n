@@ -231,7 +231,7 @@
         "fmv": "Игры-кино",
         "fps": "Шутеры от первого лица",
         "high-score": "На счёт",
-        "loot": "Шмот",
+        "loot": "Лут",
         "metroidvania": "Метроидвания",
         "music-production": "Написание музыки",
         "perma-death": "Сброс прогресса после смерти",
@@ -367,6 +367,10 @@
         "audio": "Аудио",
         "asset-pack": "Пак ассетов",
         "animation": "Анимация",
-        "adult": "Взрослые"
+        "adult": "Взрослые",
+        "lgbtqia": "LGBTQIA",
+        "gmless": "Без гейммастера",
+        "endesga-32": "ENDESGA 32",
+        "cartoon": "Мультфильм"
     }
 }
