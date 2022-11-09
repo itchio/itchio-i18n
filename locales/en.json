@@ -811,7 +811,11 @@
             "password": "Password",
             "new_password": "New password",
             "password_again": "Password again",
-            "new_password_again": "New password again"
+            "new_password_again": "New password again",
+            "updating_your_password_will_cause": "Updating your password will cause all other browser sessions to be logged out. Any <a>OAuth connections and API keys</a> will be left active.",
+            "no_password_service_name": "Your account currently doesn't have a password because you registered with {{service_name}}.",
+            "your_account_currently_doesnt_have_a_password": "Your account currently doesn't have a password.",
+            "please_set_a_password_on_your_account": "Please set a password on your account for improved security and ability to access your account without any third-party services."
         },
         "email_addresses": {
             "primary_email_header": "Primary email",
