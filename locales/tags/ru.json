@@ -371,6 +371,9 @@
         "lgbtqia": "LGBTQIA",
         "gmless": "Без гейммастера",
         "endesga-32": "ENDESGA 32",
-        "cartoon": "Мультфильм"
+        "cartoon": "Мультфильм",
+        "larp": "LARP",
+        "idle": "Idle",
+        "hexcrawl": "Hexcrawl"
     }
 }
