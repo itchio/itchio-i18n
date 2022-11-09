@@ -822,7 +822,11 @@
             "password": "Hasło",
             "new_password": "Nowe hasło",
             "password_again": "Powtórz hasło",
-            "new_password_again": "Powtórz nowe hasło"
+            "new_password_again": "Powtórz nowe hasło",
+            "please_set_a_password_on_your_account": "Ustaw hasło na swoim koncie, aby zwiększyć bezpieczeństwo i możliwość dostępu do konta bez żadnych usług stron trzecich.",
+            "your_account_currently_doesnt_have_a_password": "Twoje konto obecnie nie ma hasła.",
+            "no_password_service_name": "Twoje konto nie ma obecnie hasła, ponieważ zarejestrowałeś(aś) się za pomocą {{service_name}}.",
+            "updating_your_password_will_cause": "Aktualizacja hasła spowoduje wylogowanie wszystkich innych sesji przeglądarki. Wszystkie <a>połączenia OAuth i klucze API</a> pozostaną aktywne."
         },
         "email_addresses": {
             "primary_email_header": "Główny adres e-mail",
@@ -1401,5 +1405,11 @@
             "you_will_automatically_be_logged_in": "Po zweryfikowaniu adresu e-mail zostaniesz automatycznie zalogowany na swoje konto.",
             "link_purchases": "Jeśli wcześniej dokonywałeś zakupów przy użyciu samego adresu e-mail, zostaną one automatycznie powiązane z Twoim kontem."
         }
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Podaj nowe hasło do konta {{account_name}}.",
+        "link_sent": "Link do resetowania hasła został wysłany na podstawowy adres Twojego konta.",
+        "enter_your_email": "Wpisz adres e-mail, za pomocą którego się zarejestrowałeś, a wyślemy Ci link do zresetowania hasła.",
+        "reset_password": "Zresetuj hasło"
     }
 }
