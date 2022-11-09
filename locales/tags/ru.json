@@ -367,6 +367,10 @@
         "audio": "Аудио",
         "asset-pack": "Пак ассетов",
         "animation": "Анимация",
-        "adult": "Взрослые"
+        "adult": "Взрослые",
+        "lgbtqia": "LGBTQIA",
+        "gmless": "Без гейммастера",
+        "endesga-32": "ENDESGA 32",
+        "cartoon": "Мультфильм"
     }
 }
