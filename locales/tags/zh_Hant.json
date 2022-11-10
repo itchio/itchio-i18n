@@ -86,9 +86,9 @@
         "feel-good": "感覺良好",
         "female-protagonist": "女主角",
         "fighting": "打架",
-        "first-person": "第一身人稱",
+        "first-person": "第一人稱",
         "flight": "飛行",
-        "flappy-bird": "Flappy Bird",
+        "flappy-bird": "飛揚的小鳥",
         "fmv": "全動態影像",
         "food": "食物",
         "football": "足球",
@@ -284,6 +284,8 @@
         "comics": "漫畫",
         "characters": "角色",
         "celtic": "凱爾特",
-        "asset-pack": "資源包"
+        "asset-pack": "資源包",
+        "flying": "飛翔",
+        "fishing": "垂釣"
     }
 }
