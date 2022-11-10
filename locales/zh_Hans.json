@@ -118,7 +118,7 @@
             "assets": "游戏素材",
             "game_mod": "游戏模组",
             "physical_game": "实体游戏",
-            "soundtrack": "原声",
+            "soundtrack": "专辑和原声带",
             "other": "其他",
             "tool": "开发工具",
             "comic": "漫画",
@@ -354,7 +354,7 @@
         "meta_description": "itch，下载和游玩独立游戏的最佳方式。从桌面应用下载免费游戏并管理您的游戏库。现在可用于 Windows，macOS 和 Linux。"
     },
     "game": {
-        "empty_page": "这里似乎没有任何东西......",
+        "empty_page": "这里似乎没有任何东西...…",
         "more_information": "更多信息",
         "install_instructions": "安装说明",
         "download_header": "下载",
@@ -381,7 +381,7 @@
         "your_purchase_comes_with_a_steam_key": "您的购买会附带一个 Steam密钥。",
         "steam_key_bundle_disclaimer": "（注意：Steam 序列号不包含在{{bundle_title}}中）",
         "donate_button": "支持此{{noun}}",
-        "empty_page_no_uploads": "创作者尚未上传任何内容......",
+        "empty_page_no_uploads": "创作者尚未上传任何内容...…",
         "comments": {
             "comments_header": "评论",
             "leave_a_comment_header": "发表评论",
