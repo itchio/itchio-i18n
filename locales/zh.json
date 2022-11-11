@@ -422,7 +422,7 @@
         "sort_new_and_popular": "新品 & 热门",
         "sort_popular": "人气",
         "results_count": "{{count}}个结果",
-        "results_count_plural": "{{count}} 个结果",
+        "results_count_plural": "{{count}}个结果",
         "filter_everything_else": "其他"
     },
     "collection": {
@@ -430,7 +430,7 @@
         "blurb_author_says": "{{author}} 说",
         "edit_blurb": "编辑简介",
         "add_a_blurb": "添加简介",
-        "remove_item_button": "删除...",
+        "remove_item_button": "删除…",
         "page_title": "{{collection_title}} - {{author}}的收藏夹",
         "a_collection_by_author": "{{author}}的收藏夹",
         "pending_invitation": "您有一个待处理的成为此收藏夹贡献者的邀请。<a>查看邀请</a>",
@@ -455,7 +455,7 @@
         "this_purchase_is_a_gift": "这次购买是作为礼物",
         "agree_to_terms": "完成付款即表示您同意 itch.io 的 <1>服务条款</1>和<2>隐私政策</2>。",
         "included_files": "包含的文件",
-        "i_already_paid_for_this": "我已经为此付了钱......",
+        "i_already_paid_for_this": "我已经为此付了钱…",
         "gift_email_instructions": "您将在付款后选择一个邮箱发送礼物",
         "email_address_description": "您的付款确认信息将会发送至这里",
         "your_email_address": "您的邮箱地址",
@@ -504,7 +504,7 @@
             "empty_message": "没有主题",
             "create_first_topic_button": "创建第一个主题",
             "topics_count": "{{count}} 个主题",
-            "view_this_communitys_rules": "查看社区规则..."
+            "view_this_communitys_rules": "查看社区规则…"
         },
         "misc": {
             "new_topic_button": "新主题"
@@ -553,7 +553,7 @@
             "like": "点赞",
             "reply": "回复",
             "edits_count": "（{{count}}次编辑）",
-            "edits_count_plural": "（{{count}} 次编辑）",
+            "edits_count_plural": "（已被编辑{{count}}次）",
             "edit_blocks": "编辑块",
             "post_from_blocked_account": "从被禁止的帐户发布",
             "deleted_post": "已删除的帖子"
@@ -867,7 +867,7 @@
     },
     "jam": {
         "screenshots": {
-            "loading_more": "正在加载更多屏幕截图...",
+            "loading_more": "正在加载更多屏幕截图…",
             "empty_message": "尚未上传任何屏幕截图"
         },
         "submission": {
@@ -898,7 +898,7 @@
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
             "results_header": "结果",
             "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
-            "ranked_from_count_plural": "排名依据<s>{{count}}个评分</s>。",
+            "ranked_from_count_plural": "依据<s>{{count}}个评分</s>排名。",
             "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
             "run_project": "运行项目",
             "play_game": "玩游戏",
@@ -1122,7 +1122,11 @@
             "password": "密码",
             "current_password": "当前密码",
             "set_password": "设置密码",
-            "reset_password": "重设密码"
+            "reset_password": "重设密码",
+            "please_set_a_password_on_your_account": "为了安全性和不通过第三方服务登录的能力，请设置一个密码。",
+            "your_account_currently_doesnt_have_a_password": "您的帐号目前没有密码。",
+            "no_password_service_name": "因为您通过 {{service_name}} 注册了此账号，因此其目前没有密码。",
+            "updating_your_password_will_cause": "更改您的密码将导致其他浏览器会话被注销。已有的<a>OAuth 应用授权和 API 密钥</a>将保持可用状态。"
         },
         "profile": {
             "profile_description": "个人页面信息",
@@ -1184,7 +1188,16 @@
             "payment_header": "支付方式",
             "basics_header": "一般"
         },
-        "account_settings": "账户设置"
+        "account_settings": "账户设置",
+        "two_factor_auth": {
+            "status_off": "已禁用",
+            "status_on": "已开启",
+            "tfa_status": "状态：{{tfa_status}}",
+            "page_description": "双重认证是您帐户的额外安全层，有助于防止您的密码被盗时未经授权的访问。",
+            "page_title": "双重认证",
+            "configure_twofactor_authentication": "设置双重认证",
+            "learn_more_about_twofactor_authentication": "了解双重认证"
+        }
     },
     "buy_form_popup": {
         "powered_by_itchio": "由 {{itchio}} 提供支持",
@@ -1342,5 +1355,11 @@
             "you_will_automatically_be_logged_in": "验证电子邮件地址后，您将自动登录到您的帐户。",
             "link_purchases": "如果您之前使用这个电子邮件地址进行过任何购买，则那些购买将自动关联到您的帐户。"
         }
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "请为账号 {{account_name}} 设置一个新密码。",
+        "link_sent": "密码重置链接已发送到您帐户的主邮箱地址。",
+        "enter_your_email": "请输入您注册账号时使用的电子邮件，我们会向您发送重置密码的链接地址。",
+        "reset_password": "重置密码"
     }
 }
