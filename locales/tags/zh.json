@@ -364,6 +364,26 @@
         "fbx": "FBX",
         "endesga-32": "ENDESGA 32",
         "adult": "成人",
-        "brain-training": "大脑训练"
+        "brain-training": "大脑训练",
+        "homebrew": "自酿",
+        "porn": "色情",
+        "lewd": "猥亵",
+        "hentai": "变态",
+        "osr": "OSR",
+        "incremental": "渐进式",
+        "hexcrawl": "六边形爬行",
+        "hex-based": "六边形",
+        "family-friendly": "家庭友善",
+        "clicker": "点击",
+        "lovecraft": "洛夫克拉夫特式恐怖",
+        "larp": "临场动态角色扮演",
+        "historical": "历史",
+        "gmless": "无需管理员",
+        "troika": "Troika",
+        "wobbly": "摇晃",
+        "supplement": "补充",
+        "souls-like": "魂系",
+        "print-and-play": "即印即玩",
+        "one-shot": "一次性"
     }
 }
