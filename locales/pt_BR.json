@@ -843,7 +843,8 @@
             }
         },
         "two_factor_auth": {
-            "learn_more_about_twofactor_authentication": "mais informaçoes sobre a autenticação de duas etapas"
+            "learn_more_about_twofactor_authentication": "mais informaçoes sobre a autenticação de duas etapas",
+            "configure_twofactor_authentication": "configurar a autenticação de duas etapas"
         }
     },
     "stripe_checkout": {
