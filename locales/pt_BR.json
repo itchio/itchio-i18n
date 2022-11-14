@@ -1361,5 +1361,10 @@
     "notifications": {
         "unseen_label": "Novo",
         "page_title": "Notificações"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "voce não pode verificar um indereço de e-mail quando logado em uma conta diferente"
+        }
     }
 }
