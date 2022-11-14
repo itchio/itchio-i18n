@@ -815,7 +815,7 @@
             "your_account_currently_doesnt_have_a_password": "sua conta atualmente não tem uma senha.",
             "no_password_service_name": "atualmente sua conta não tem uma senha pois se registrou com {{service_name}}.",
             "updating_your_password_will_cause": "atualizando sua senha todas as sessões desse navegador serão encerradas. todas <a> as coneções de 0auth as chaves de API</a> permanecerão ativas.",
-            "please_set_a_password_on_your_account": "por favor por uma melhor segurança escolha uma senha assim não havera possibilidades da entrada de terceiros em sua conta"
+            "please_set_a_password_on_your_account": "por favor por uma melhor segurança escolha uma senha assim não havera possibilidades da entrada de terceiros em sua conta."
         },
         "email_addresses": {
             "primary_email_header": "E-mail principal",
