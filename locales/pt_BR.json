@@ -120,7 +120,7 @@
             "assets": "Assets de jogo",
             "game_mod": "Mods de jogo",
             "physical_game": "Jogos físicos",
-            "soundtrack": "Trilhas sonoras",
+            "soundtrack": "Albums & Trilhas sonoras",
             "other": "Miscelanea",
             "tool": "Ferramentas",
             "comic": "Histórias em quadrinhos",
@@ -357,7 +357,7 @@
         "meta_description": "itch, a melhor maneira de baixar e jogar jogos indie. Baixe jogos grátis e gerencie sua biblioteca a partir de sua área de trabalho. Agora disponível para Windows, macOS e Linux."
     },
     "game": {
-        "empty_page": "Não parece haver nada aqui...",
+        "empty_page": "Não parece haver nada aqui…",
         "more_information": "Mais Informações",
         "install_instructions": "Instruções de instalação",
         "download_header": "Baixar",
@@ -389,7 +389,7 @@
             "comments_header": "Comentários",
             "leave_a_comment_header": "Deixe um comentário",
             "leave_a_comment": "Deixe um comentário",
-            "click_to_leave_a_comment": "Clique para deixar um comentário...",
+            "click_to_leave_a_comment": "clique para enviar um comentario",
             "log_in_to_leave_comment": "<a>Faça o login no itch.io</a> para deixar um comentário.",
             "post_comment": "Postar comentário",
             "write_your_comment": "Escreva seu comentário…"
@@ -408,7 +408,7 @@
             "genre": "Gênero",
             "made_with_tools": "Feito com",
             "tags": "Tags",
-            "code_license": "Licença",
+            "code_license": "codigo de Licença",
             "asset_license": "Licença de recurso",
             "average_session_duration": "Sessão média",
             "languages": "Idiomas",
@@ -482,7 +482,8 @@
                 "you_rated_this_game": "Você avaliou este jogo",
                 "now_accepting_ratings": "A jam está aceitando avaliações para inscrições.",
                 "rating_instructions": "Avalie e comente sobre essa inscrição para a jam visitando a página de envio no link acima."
-            }
+            },
+            "included_in_bundle_title": "incluido em {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "Compartilhe este projeto",
@@ -556,7 +557,7 @@
             "delete_topic": "Excluir tópico",
             "delete": "Excluir",
             "report": "Denunciar",
-            "ban": "Banir...",
+            "ban": "banir…",
             "view_more_in_thread": "Ver mais no tópico",
             "vote_up": "Gostei",
             "vote_down": "Não gostei",
@@ -614,7 +615,7 @@
             "new_flag": "Novo",
             "archived_flag": "Arquivado",
             "by_topic_author": "por {{username}}",
-            "view_this_communitys_rules": "Veja as regras desta comunidade..."
+            "view_this_communitys_rules": "Veja as regras desta comunidade…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> visualização",
@@ -649,7 +650,7 @@
         "your_email_address": "Seu endereço de email",
         "email_address_description": "Sua confirmação de pagamento será enviada aqui",
         "gift_email_instructions": "Você vai escolher um e-mail para enviar o presente depois de pagar",
-        "i_already_paid_for_this": "Eu já paguei por isso...",
+        "i_already_paid_for_this": "Eu já paguei por isso…",
         "included_files": "Arquivos incluídos",
         "agree_to_terms": "Ao concluir um pagamento, você concorda com os <1>Termos de Serviço</1> e a <2>Política de Privacidade</2> do itch.io.",
         "this_purchase_is_a_gift": "Esta compra é um presente",
@@ -674,7 +675,7 @@
         "pending_invitation": "Você tem um convite pendente para ser um colaborador dessa coleção. <a>Ver convite</a>",
         "a_collection_by_author": "Uma coleção de {{author}}",
         "page_title": "{{collection_title}} - Coleção de {{author}}",
-        "remove_item_button": "Remover...",
+        "remove_item_button": "Remover…",
         "add_a_blurb": "Adicionar uma sinopse",
         "edit_blurb": "Editar sinopse",
         "blurb_author_says": "{{author}} diz",
@@ -727,7 +728,15 @@
         "page_title": "Tags principais",
         "find_tag": "Encontrar tag",
         "commonly_tagged_with": "Comumente marcado com",
-        "no_description_yet": "Ainda sem descrição"
+        "no_description_yet": "Ainda sem descrição",
+        "types": {
+            "platform": "plataformas",
+            "tool": "Ferramentas",
+            "event": "Eventos",
+            "style": "estilos",
+            "genre": "generos"
+        },
+        "all_tags": "todas as tags"
     },
     "buy_form_popup": {
         "author_line": "<1>por</1> {{author}}",
@@ -802,7 +811,9 @@
             "password": "Senha",
             "new_password": "Nova senha",
             "password_again": "Senha novamente",
-            "new_password_again": "Nova senha novamente"
+            "new_password_again": "Nova senha novamente",
+            "your_account_currently_doesnt_have_a_password": "sua conta atualmente não tem uma senha.",
+            "no_password_service_name": "atualmente sua conta não tem uma senha pois se registrou com {{service_name}}."
         },
         "email_addresses": {
             "primary_email_header": "E-mail principal",
