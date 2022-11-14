@@ -1153,7 +1153,11 @@
             "password": "Contraseña",
             "current_password": "Contraseña actual",
             "set_password": "Establecer contraseña",
-            "reset_password": "Restablecer contraseña"
+            "reset_password": "Restablecer contraseña",
+            "please_set_a_password_on_your_account": "Establezca una contraseña en su cuenta para mejorar la seguridad y la capacidad de acceder a su cuenta sin ningún servicio de terceros.",
+            "your_account_currently_doesnt_have_a_password": "Su cuenta actualmente no tiene una contraseña.",
+            "no_password_service_name": "Su cuenta actualmente no tiene una contraseña porque se registró con {{service_name}}.",
+            "updating_your_password_will_cause": "Actualizar su contraseña hará que todas las demás sesiones del navegador se cierren. Todas <a>las conexiones de OAuth y las claves de API</a> permanecerán activas."
         },
         "account_settings": "Configuración de la cuenta",
         "two_factor_auth": {
@@ -1372,5 +1376,11 @@
             "link_purchases": "Si anteriormente ha realizado compras solo con su dirección de correo electrónico, se asociarán automáticamente a su cuenta.",
             "confirm_verification": "Por favor, confirma el correo electrónico {{email_address}} para la cuenta {{account}}. Es necesario verificar su dirección de correo electrónico para realizar varias acciones en itch.io."
         }
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Proporcione una nueva contraseña para la cuenta {{account_name}}.",
+        "link_sent": "Se ha enviado un enlace de restablecimiento de contraseña a la dirección principal de su cuenta.",
+        "enter_your_email": "Ingrese la dirección de correo electrónico con la que se registró y le enviaremos un enlace para restablecer su contraseña.",
+        "reset_password": "Restablecer Contraseña"
     }
 }
