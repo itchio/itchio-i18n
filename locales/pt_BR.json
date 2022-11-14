@@ -841,6 +841,9 @@
                 "email_sent_status": "email enviado",
                 "detach_email": "Desanexar email"
             }
+        },
+        "two_factor_auth": {
+            "learn_more_about_twofactor_authentication": "mais informaçoes sobre a autenticação de duas etapas"
         }
     },
     "stripe_checkout": {
