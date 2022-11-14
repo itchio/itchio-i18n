@@ -813,7 +813,8 @@
             "password_again": "Senha novamente",
             "new_password_again": "Nova senha novamente",
             "your_account_currently_doesnt_have_a_password": "sua conta atualmente não tem uma senha.",
-            "no_password_service_name": "atualmente sua conta não tem uma senha pois se registrou com {{service_name}}."
+            "no_password_service_name": "atualmente sua conta não tem uma senha pois se registrou com {{service_name}}.",
+            "updating_your_password_will_cause": "atualizando sua senha todas as sessões desse navegador serão encerradas. todas <a> as coneções de 0auth as chaves de API</a> permanecerão ativas."
         },
         "email_addresses": {
             "primary_email_header": "E-mail principal",
