@@ -55,7 +55,8 @@
             "recommendations": "Recommendations",
             "library": "My library",
             "feed": "My feed",
-            "account_menu_tooltip": "Account Menu"
+            "account_menu_tooltip": "Account Menu",
+            "posts": "Posts"
         }
     },
     "index": {
@@ -1249,6 +1250,9 @@
             "rewards": "Rewards",
             "admins": "Admins",
             "more": "More"
+        },
+        "blog_posts": {
+            "new_post": "New post"
         }
     },
     "add_to_collection": {
@@ -1323,7 +1327,8 @@
             "collection_summary_plural": "A collection with {{count}} items.",
             "collection_added_count": "Added {{count}} item.",
             "collection_added_count_plural": "Added {{count}} items."
-        }
+        },
+        "filter_posts_tab": "Posts"
     },
     "library": {
         "page_title": "My Library",
@@ -1363,7 +1368,12 @@
     },
     "notifications": {
         "page_title": "Notifications",
-        "unseen_label": "New"
+        "unseen_label": "New",
+        "filter": "Filter",
+        "filter_all": "All",
+        "filter_replies": "Replies",
+        "filter_payments": "Payments",
+        "filter_follows": "Follows"
     },
     "user": {
         "verify_email": {
