@@ -101,10 +101,10 @@
         "game-jam": "Game Jam",
         "gardening": "花園",
         "gay": "男同志",
-        "generator": "生成器",
-        "ghosts": "鬼魂",
+        "generator": "產生器",
+        "ghosts": "幽靈",
         "golf": "高爾夫球",
-        "gore": "血塊",
+        "gore": "流血",
         "gothic": "哥特",
         "gravity": "重力",
         "grayscale": "灰階",
@@ -286,6 +286,15 @@
         "celtic": "凱爾特",
         "asset-pack": "資源包",
         "flying": "飛翔",
-        "fishing": "垂釣"
+        "fishing": "垂釣",
+        "gmless": "無須GM",
+        "github": "GitHub",
+        "gender": "性別",
+        "game-design": "遊戲設計",
+        "gacha": "抽卡",
+        "furry": "獸人",
+        "fonts": "字體",
+        "eroge": "色情遊戲",
+        "ciphers": "解謎"
     }
 }
