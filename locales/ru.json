@@ -57,7 +57,8 @@
             "explore": "Исследуйте",
             "create": "Создавайте",
             "account": "Учетная запись",
-            "account_menu_tooltip": "Меню учётной записи"
+            "account_menu_tooltip": "Меню учётной записи",
+            "posts": "Посты"
         }
     },
     "index": {
@@ -1274,6 +1275,9 @@
             "rewards": "Вознаграждения",
             "admins": "Администраторы",
             "more": "Ещё"
+        },
+        "blog_posts": {
+            "new_post": "Новый пост"
         }
     },
     "add_to_collection": {
@@ -1352,7 +1356,8 @@
             "collection_added_count_0": "Добавлен {{count}} проект.",
             "collection_added_count_1": "Добавлено {{count}} проекта.",
             "collection_added_count_2": "Добавлено {{count}} проектов."
-        }
+        },
+        "filter_posts_tab": "Посты"
     },
     "library": {
         "page_title": "Моя игротека",
@@ -1392,7 +1397,12 @@
     },
     "notifications": {
         "unseen_label": "Новые",
-        "page_title": "Уведомления"
+        "page_title": "Уведомления",
+        "filter_follows": "Подписки",
+        "filter_payments": "Платежи",
+        "filter_replies": "Ответы",
+        "filter_all": "Все",
+        "filter": "Фильтр"
     },
     "user": {
         "verify_email": {
