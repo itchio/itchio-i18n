@@ -261,6 +261,26 @@
         "walking-simulator": "걷기 시뮬레이터",
         "western": "서부",
         "yaoi": "야오이",
-        "yuri": "백합"
+        "yuri": "백합",
+        "gender": "성별",
+        "game-design": "게임 디자인",
+        "gacha": "뽑기",
+        "furry": "수인",
+        "fonts": "폰트",
+        "fishing": "낚시",
+        "emulator": "에뮬레이터",
+        "effects": "이펙트",
+        "dungeons-and-dragons": "던전 & 드래곤",
+        "comics": "만화",
+        "clicker": "클리커",
+        "characters": "케릭터",
+        "cats": "고양이",
+        "cartoon": "카툰",
+        "buttons": "버튼",
+        "brain-training": "뇌 훈련",
+        "audio": "오디오",
+        "asset-pack": "에셋 팩",
+        "animation": "애니메이션",
+        "adult": "성인"
     }
 }
