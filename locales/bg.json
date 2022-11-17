@@ -55,7 +55,8 @@
             "game_jams": "Конкурси за игри",
             "host_game_jam": "Организиране на конкурс за игри",
             "account_menu_tooltip": "Меню на акаунта",
-            "feed": "Моята хронология"
+            "feed": "Моята хронология",
+            "posts": "Публикации"
         }
     },
     "index": {
@@ -862,6 +863,9 @@
             "metadata": "Метаданни",
             "devlog": "Дневник на разработчика",
             "edit_project": "Редактиране на проекта"
+        },
+        "blog_posts": {
+            "new_post": "Нова публикация"
         }
     },
     "stripe_checkout": {
@@ -1262,7 +1266,8 @@
         "filter_everything_tab": "Всичко",
         "filter_own_activity_tab": "Моята дейност",
         "global_feed_tab": "Глобална хронология",
-        "my_feed_tab": "Моята хронология"
+        "my_feed_tab": "Моята хронология",
+        "filter_posts_tab": "Публикации"
     },
     "jams": {
         "count_joined": "{{count}} участници",
@@ -1363,7 +1368,12 @@
     },
     "notifications": {
         "unseen_label": "Нови",
-        "page_title": "Известия"
+        "page_title": "Известия",
+        "filter_follows": "Последвания",
+        "filter_payments": "Плащания",
+        "filter_replies": "Отговори",
+        "filter_all": "Всички",
+        "filter": "Филтриране"
     },
     "user": {
         "verify_email": {
