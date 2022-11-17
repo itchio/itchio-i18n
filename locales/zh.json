@@ -71,7 +71,8 @@
             "explore": "发现",
             "account_menu_tooltip": "帐号菜单",
             "game_jams": "Game Jam",
-            "dashboard": "创作中心"
+            "dashboard": "创作中心",
+            "posts": "帖子"
         },
         "header": {
             "indie_game_store": "独立游戏商店",
@@ -179,7 +180,8 @@
         "filter_collections_tab": "收藏夹",
         "filter_new_projects_tab": "新项目",
         "filter_everything_tab": "全部",
-        "filter_own_activity_tab": "我自己的活动"
+        "filter_own_activity_tab": "我自己的活动",
+        "filter_posts_tab": "帖子"
     },
     "jams": {
         "count_joined": "{{count}} 人加入",
@@ -380,6 +382,9 @@
             "views": "浏览量",
             "payments": "支付",
             "gross_revenue": "收入"
+        },
+        "blog_posts": {
+            "new_post": "发布新帖"
         }
     },
     "browse": {
@@ -555,7 +560,8 @@
             "edits_count": "（已被编辑{{count}}次）",
             "edit_blocks": "编辑块",
             "post_from_blocked_account": "从被禁止的帐户发布",
-            "deleted_post": "已删除的帖子"
+            "deleted_post": "已删除的帖子",
+            "edits_count_plural": "（已被编辑{{count}}次）"
         },
         "topic": {
             "create_related_topic": "如果您有要发表的相关内容，可以考虑<a>在 {{category_name}} 中创建一个主题</a>。",
@@ -916,7 +922,8 @@
             "results_table_score": "得分",
             "results_table_votes": "投票",
             "results_table_rank": "名次",
-            "results_table_criteria": "标准"
+            "results_table_criteria": "标准",
+            "ranked_from_count_plural": "依据<s>{{count}}个评分</s>排名。"
         },
         "results": {
             "submissions": {
@@ -1340,7 +1347,12 @@
     "itchio": "itch.io",
     "notifications": {
         "unseen_label": "新",
-        "page_title": "通知"
+        "page_title": "通知",
+        "filter_follows": "关注",
+        "filter_payments": "支付",
+        "filter_replies": "回复",
+        "filter_all": "全部",
+        "filter": "筛选"
     },
     "user": {
         "verify_email": {
