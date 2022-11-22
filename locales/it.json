@@ -55,7 +55,8 @@
             "feed": "Il mio feed",
             "account_menu_tooltip": "Menù account",
             "recommendations": "Raccomandazioni",
-            "game_jams": "Jam dei giochi"
+            "game_jams": "Jam dei giochi",
+            "posts": "Messaggi"
         }
     },
     "index": {
@@ -369,7 +370,11 @@
             "password": "Password",
             "current_password": "Password in uso",
             "set_password": "Scrivi password",
-            "reset_password": "Reimposta password"
+            "reset_password": "Reimposta password",
+            "please_set_a_password_on_your_account": "Imposta una password sul tuo account per una maggiore sicurezza e la possibilità di accedere al tuo account senza servizi di terze parti.",
+            "your_account_currently_doesnt_have_a_password": "Il tuo account attualmente non ha una password.",
+            "no_password_service_name": "Il tuo account attualmente non ha una password perché ti sei registrato con {{service_name}}.",
+            "updating_your_password_will_cause": "L'aggiornamento della password comporta la disconnessione di tutte le altre sessioni del browser. Eventuali <a>connessioni OAuth e chiavi API</a> verranno lasciate attive."
         },
         "profile": {
             "profile_description": "Scrivi qualcosa su di te",
@@ -431,7 +436,16 @@
             "payment_header": "Pagamenti",
             "basics_header": "Generale"
         },
-        "account_settings": "Impostazioni account"
+        "account_settings": "Impostazioni account",
+        "two_factor_auth": {
+            "status_off": "spento",
+            "status_on": "acceso",
+            "tfa_status": "Stato: {{tfa_status}}",
+            "page_description": "L'autenticazione a due fattori è un ulteriore livello di sicurezza per il tuo account per aiutare a prevenire l'accesso non autorizzato in caso di furto della password.",
+            "page_title": "autenticazione a due fattori",
+            "configure_twofactor_authentication": "Configura l'autenticazione a due fattori",
+            "learn_more_about_twofactor_authentication": "Ulteriori informazioni sull'autenticazione a due fattori"
+        }
     },
     "jam": {
         "submission": {
@@ -461,14 +475,14 @@
                 "participate_to_rate_message": "Per recensire questa consegna devi essere <a>loggato su itch.io</a> e aver consegnato il tuo lavoro. Chiunque ha un account può lasciare un commento."
             },
             "rated_by_people_count": "Votato da {{count}} persona",
-            "rated_by_people_count_plural": "Valutato attualmente da {{count}} persone",
+            "rated_by_people_count_plural": "Valutato da {{count}} persone finora",
             "time_remaining_before_deadline": "Hai ancora {{time_duration}} prima della scadenza",
             "submitted_by_contributors": "Consegnato da {{contributors}}",
             "ranked_with_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
             "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
             "results_header": "Risultati",
             "ranked_from_count": "Classificato da <s>{{count}}recensione</s>.",
-            "ranked_from_count_plural": "Classificato da <s>{{count}} recensioni</s>.",
+            "ranked_from_count_plural": "Classificato da <s>{{count}} valutazioni</s>.",
             "score_information": "La classifica è regolata da un punteggio grezzo ad un numero medio di recensioni per gioco della jam.",
             "run_project": "Esegui il progetto",
             "play_game": "Gioca",
@@ -568,7 +582,7 @@
             "hosted_by": "Creata da {{hosts}}"
         },
         "screenshots": {
-            "loading_more": "Sto cercando altri screenshot...",
+            "loading_more": "Sto cercando altri screenshot…",
             "empty_message": "Non c'è nessuno screenshot per ora"
         }
     },
@@ -735,6 +749,9 @@
             "views": "Visualizzazioni",
             "payments": "Pagamenti",
             "gross_revenue": "Bozza del redditto"
+        },
+        "blog_posts": {
+            "new_post": "Nuovo messaggio"
         }
     },
     "app": {
@@ -800,7 +817,7 @@
     },
     "buy_form": {
         "included_files": "File inclusi",
-        "i_already_paid_for_this": "Ehy, io l'ho già pagato...",
+        "i_already_paid_for_this": "Ehy, io l'ho già pagato…",
         "gift_email_instructions": "Potrai scegliere un'email a cui inviare il regalo dopo che avrai pagato",
         "email_address_description": "La conferma del pagamento verrà inviata qui",
         "your_email_address": "Il tuo indirizzo email",
@@ -939,12 +956,12 @@
             "write_your_comment": "Scrivi qualcosa…",
             "post_comment": "Ho finito",
             "log_in_to_leave_comment": "<a>Loggati con itch.io</a> per commentare.",
-            "click_to_leave_a_comment": "Clicca per commentare...",
+            "click_to_leave_a_comment": "Clicca per commentare…",
             "leave_a_comment": "Commenta",
             "leave_a_comment_header": "Commenta",
             "comments_header": "Commenti"
         },
-        "empty_page_no_uploads": "Sembra che il creatore non abbia ancora caricato niente...",
+        "empty_page_no_uploads": "Sembra che il creatore non abbia ancora caricato niente…",
         "donate_button": "Supporta questo {{noun}}",
         "steam_key_bundle_disclaimer": "(Attenzione: La \"Steam Key\" non è inclusa in {{bundle_title}})",
         "your_purchase_comes_with_a_steam_key": "Nel tuo acquisto sarà presente anche una \"Steam key\".",
@@ -971,7 +988,7 @@
         "download_header": "Scarica",
         "install_instructions": "Istruzioni di installazione",
         "more_information": "Di più",
-        "empty_page": "Ehm, sembra che qui sia vuoto...",
+        "empty_page": "Ehm, sembra che qui sia vuoto…",
         "password_required": {
             "header": "Hai bisogno della password per vedere questa pagina"
         },
@@ -1114,7 +1131,7 @@
         "blurb_author_says": "{{author}} dice",
         "edit_blurb": "Modifica pubblicità",
         "add_a_blurb": "Modifica pubblicità",
-        "remove_item_button": "Rimuovi...",
+        "remove_item_button": "Rimuovi…",
         "page_title": "{{collection_title}} - Collezione di {{author}}",
         "a_collection_by_author": "Una collezione di {{author}}",
         "pending_invitation": "Hai un invito in sospeso per una richiesta di contributo della collezione. <a>Guarda</a>",
@@ -1158,7 +1175,7 @@
             "create_first_topic_button": "Posta il primo commento",
             "topics_count": "{{count}} commento",
             "topics_count_plural": "{{count}} commenti",
-            "view_this_communitys_rules": "Leggi le regole di questa comunità..."
+            "view_this_communitys_rules": "Leggi le regole di questa comunità…"
         },
         "misc": {
             "new_topic_button": "Nuovo commento"
@@ -1198,7 +1215,7 @@
             "vote_down": "Vota negativamente",
             "vote_up": "Vota positivamente",
             "view_more_in_thread": "Guarda di più",
-            "ban": "Ban...",
+            "ban": "Ban…",
             "report": "Segnala",
             "delete": "Cancella",
             "delete_topic": "Cancella commento",
@@ -1277,7 +1294,8 @@
         "filter_collections_tab": "Collezioni",
         "filter_new_projects_tab": "Nuovi progetti",
         "filter_everything_tab": "Tutto",
-        "filter_own_activity_tab": "La mia attività"
+        "filter_own_activity_tab": "La mia attività",
+        "filter_posts_tab": "Messaggi"
     },
     "library": {
         "redeem_button": "Riscatta",
@@ -1350,7 +1368,12 @@
     },
     "notifications": {
         "unseen_label": "Nuovo",
-        "page_title": "Notifiche"
+        "page_title": "Notifiche",
+        "filter_follows": "Segui",
+        "filter_payments": "Pagamenti",
+        "filter_replies": "Risposte",
+        "filter_all": "Tutto",
+        "filter": "Filtro"
     },
     "user": {
         "verify_email": {
@@ -1363,5 +1386,11 @@
             "link_purchases": "Se hai precedentemente fatto qualche acquisto con solo l'indirizzo email, essi verranno automaticamente associati al tuo account.",
             "confirm_verification": "Perfavore conferma verificando l'indirizzo email: {{email_address}} dell'account: {{account}}. E' necessario verificare l'indirizzo email per poter avere accesso al resto dei servizi."
         }
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Fornisci una nuova password per l'account {{account_name}}.",
+        "link_sent": "Inserisci l'indirizzo email con cui ti sei registrato e ti invieremo un link per reimpostare la tua password.",
+        "enter_your_email": "Inserisci l'indirizzo email con cui ti sei registrato e ti invieremo un link per reimpostare la tua password.",
+        "reset_password": "Resetta la password"
     }
 }
