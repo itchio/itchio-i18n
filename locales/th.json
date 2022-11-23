@@ -182,7 +182,11 @@
             "set_password": "ตั้งรหัสผ่าน",
             "password": "รหัสผ่าน",
             "new_password": "รหัสผ่านใหม่",
-            "password_again": "ใส่รหัสผ่านอีกครั้ง"
+            "password_again": "ใส่รหัสผ่านอีกครั้ง",
+            "please_set_a_password_on_your_account": "กรุณาตั้งค่ารหัสผ่านบัญชีของคุณเพื่อให้ได้รับความปลอดภัยที่ดีกว่า และความสามารถใช้การเข้าถึงบัญชีของคุณโดยไม่จำเป็นต้องผ่านบริการของบุคคลที่สาม",
+            "your_account_currently_doesnt_have_a_password": "บัญชีของคุณยังไม่มีรหัสผ่านในขณะนี้",
+            "no_password_service_name": "บัญชีของคุณไม่มีรหัสผ่านเนื่องจากคุณลงทะเบียนโดยใช้ {{service_name}}",
+            "updating_your_password_will_cause": "อัปเดตรหัสผ่านของคุณจะส่งผลให้เซสชันที่เข้าสู่ระบบบนเบราว์เซอร์อื่นถูกทำให้ออกจากระบบไปด้วย อย่างไรก็ตาม <a>การเชื่อมต่อ OAuth และคีย์ API</a> จะยังใช้ได้เช่นเดิม"
         },
         "email_addresses": {
             "change_email_form": {
@@ -583,7 +587,7 @@
             "languages": "ภาษา",
             "average_session_duration": "เวลาเล่นโดยเฉลี่ย",
             "asset_license": "ลิขสิทธิ์ของชุดประกอบเกม",
-            "code_license": "ลิขสิทธิ์",
+            "code_license": "ลิขสิทธิ์โค้ด",
             "tags": "แท็ก",
             "made_with_tools": "สร้างโดยใช้",
             "genre": "ประเภท",
@@ -816,7 +820,7 @@
         "pending_invitation": "คุณกำลังถูกเชิญเป็นผู้มีส่วนร่วมในคอลเลกชันนี้ <a>ดูการเชิญ</a>",
         "a_collection_by_author": "คอลเลกชันโดย {{author}}",
         "page_title": "{{collection_title}} — คอลเลกชันโดย {{author}}",
-        "remove_item_button": "ลบออก…",
+        "remove_item_button": "นำออก…",
         "blurb_author_says": "{{author}} พูดว่า",
         "private_collection_message": "คอลเลกชันนี้ไม่เป็นสาธารณะ เฉพาะผู้มีส่วนร่วมด้วยเท่านั้นจึงจะสามารถเห็นเนื้อหานี้ได้",
         "remove_confirm": "คุณแน่ใจหรือไม่ว่าต้องการลบออกจากคอลเลกชัน",
@@ -1007,7 +1011,8 @@
             "ratings_given_count": "<s>{{count}} คะแนน</s> ถูกให้ระหว่าง {{vote_start_date}} ถึง {{vote_end_date}}",
             "votes_cast_count": "<s>{{count}}</s> โหวต ระหว่าง {{vote_start_date}} ถึง {{vote_end_date}}",
             "submissions_summary": "<s>{{count}} รายการ</s> ถูกส่งระหว่าง {{start_date}} ถึง {{end_date}}",
-            "empty_message": "ผลลัพธ์ยังไม่พร้อม โปรดกลับมาใหม่ภายหลัง"
+            "empty_message": "ผลลัพธ์ยังไม่พร้อม โปรดกลับมาใหม่ภายหลัง",
+            "no_rankings_available": "อันดับยังไม่พร้อมแสดง"
         },
         "submission": {
             "rated_by_people_count": "จัดอันดับโดย {{count}} คน จนถึงตอนนี้",
