@@ -71,7 +71,8 @@
             "account": "บัญชีผู้ใช้",
             "create": "สร้าง",
             "explore": "ค้นดู",
-            "host_game_jam": "เป็นผู้จัดแจม"
+            "host_game_jam": "เป็นผู้จัดแจม",
+            "posts": "โพสต์"
         },
         "header": {
             "feed": "ฟีด",
@@ -214,7 +215,7 @@
     },
     "browse": {
         "results_count": "{{count}} ผลลัพธ์",
-        "results_count_plural": "{{count}} ผลลัพธ์",
+        "results_count_plural": "{{count}} ผลการค้นหา",
         "sort_popular": "ยอดนิยม",
         "sort_new_and_popular": "ใหม่ยอดนิยม",
         "sort_top_sellers": "ขายดี",
@@ -546,14 +547,15 @@
                 "embed": "ฝัง",
                 "report": "รายงาน",
                 "view_all_by_username": "ดูทั้งหมดจาก {{username}}"
-            }
+            },
+            "included_in_bundle_title": "รวมอยู่ใน {{bundle_title}}"
         },
         "download_access": "กดดาวน์โหลดเพื่อเข้าถึงไฟล์ต่อไปนี้:",
         "unavailable": "{{game_noun}} ยังไม่พร้อมให้บริการในขณะนี้",
         "download_header": "ดาวน์โหลด",
         "install_instructions": "คำแนะนำในการติดตั้ง",
         "more_information": "ข้อมูลเพิ่มเติม",
-        "empty_page": "ดูเหมือนจะไม่มีอะไรที่นี่...",
+        "empty_page": "ดูเหมือนจะไม่มีอะไรที่นี่…",
         "upload_list": {
             "play_in_browser": "เล่นในเบราว์เซอร์",
             "download": "ดาวน์โหลด",
@@ -601,12 +603,12 @@
             "write_your_comment": "เขียนความเห็นของคุณ…",
             "post_comment": "โพสต์ความคิดเห็น",
             "log_in_to_leave_comment": "<a>เข้าสู่ระบบด้วย itch.io</a>เพื่อแสดงความคิดเห็น",
-            "click_to_leave_a_comment": "กดเพื่อแสดงความคิดเห็น...",
+            "click_to_leave_a_comment": "กดเพื่อแสดงความคิดเห็น…",
             "leave_a_comment": "ให้ความคิดเห็น",
             "leave_a_comment_header": "แสดงความคิดเห็น",
             "comments_header": "ความคิดเห็น"
         },
-        "empty_page_no_uploads": "ผู้สร้างสรรค์ยังไม่อัปโหลดอะไรเลย...",
+        "empty_page_no_uploads": "ผู้สร้างสรรค์ยังไม่อัปโหลดอะไรเลย…",
         "donate_button": "สนับสนุน{{noun}}นี้",
         "steam_key_bundle_disclaimer": "(หมายเหตุ: คีย์สตรีมไม่ถูกรวมใน {{bundle_title}})",
         "your_purchase_comes_with_a_steam_key": "การชำระเงินจะมาพร้อมกับคีย์สตรีม",
@@ -661,7 +663,7 @@
         "this_purchase_is_a_gift": "การซื้อนี้เป็นของขวัญ",
         "agree_to_terms": "การทำธุรกรรมนี้ให้สมบูรณ์แสดงว่าคุณยอมรับ<1>ข้อกำหนดการให้บริการ</1>และ<2>นโยบายความเป็นส่วนตัว</2>ของ itch.io",
         "included_files": "ไฟล์ที่รวมอยู่ด้วย",
-        "i_already_paid_for_this": "ฉันจ่ายเงินไปแล้วนะ...",
+        "i_already_paid_for_this": "ฉันจ่ายเงินไปแล้วนะ…",
         "gift_email_instructions": "คุณจะสามารถเลือกอีเมลเพื่อส่งของขวัญให้หลังจากที่คุณชำระเงินแล้ว",
         "email_address_description": "การยืนยันการชำระเงินของคุณจะถูกส่งไปที่นี่",
         "your_email_address": "อีเมลของคุณ",
@@ -780,7 +782,7 @@
             "delete_topic": "ลบหัวข้อ",
             "delete": "ลบ",
             "report": "รายงาน",
-            "ban": "แบน...",
+            "ban": "แบน…",
             "deleted_account": "บัญชีที่ถูกลบ",
             "suspended_account": "บัญชีที่ถูกระงับ",
             "pinned_reply": "การตอบกลับที่ปักหมุดไว้",
@@ -814,7 +816,7 @@
         "pending_invitation": "คุณกำลังถูกเชิญเป็นผู้มีส่วนร่วมในคอลเลกชันนี้ <a>ดูการเชิญ</a>",
         "a_collection_by_author": "คอลเลกชันโดย {{author}}",
         "page_title": "{{collection_title}} — คอลเลกชันโดย {{author}}",
-        "remove_item_button": "ลบออก...",
+        "remove_item_button": "ลบออก…",
         "blurb_author_says": "{{author}} พูดว่า",
         "private_collection_message": "คอลเลกชันนี้ไม่เป็นสาธารณะ เฉพาะผู้มีส่วนร่วมด้วยเท่านั้นจึงจะสามารถเห็นเนื้อหานี้ได้",
         "remove_confirm": "คุณแน่ใจหรือไม่ว่าต้องการลบออกจากคอลเลกชัน",
@@ -825,7 +827,15 @@
         "page_title": "แท็กยอดนิยม",
         "find_tag": "ค้นแท็ก",
         "commonly_tagged_with": "โดยทั่วไปถูกแท็กอยู่กับ",
-        "no_description_yet": "ยังไม่มีคำอธิบาย"
+        "no_description_yet": "ยังไม่มีคำอธิบาย",
+        "all_tags": "แท็กทั้งหมด",
+        "types": {
+            "tool": "เครื่องมือ",
+            "event": "กิจกรรม",
+            "platform": "แพลตฟอร์ม",
+            "style": "สไตล์",
+            "genre": "ประเภท"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>โดย</1> {{author}}",
