@@ -214,7 +214,13 @@
             }
         },
         "two_factor_auth": {
-            "status_on": "เปิด"
+            "status_on": "เปิด",
+            "status_off": "ปิด",
+            "tfa_status": "สถานะ: {{tfa_status}}",
+            "page_description": "การยืนยันแบบสองขั้นตอนเป็นการเพิ่มความปลอดภัยให้บัญชีของคุณ เพื่อช่วยป้องกันไม่ให้ผู้อื่นใช้รหัสผ่านของคุณเข้าถึงบัญชีโดยไม่ได้รับอนุญาต ",
+            "page_title": "การยืนยันแบบสองขั้นตอน",
+            "configure_twofactor_authentication": "กำหนดค่าการยืนยันแบบสองขั้นตอน",
+            "learn_more_about_twofactor_authentication": "เรียนรู้เพิ่มเติมเกี่ยวกับการยืนยันแบบสองขั้นตอน"
         }
     },
     "browse": {
