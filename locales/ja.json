@@ -881,7 +881,9 @@
             "password": "パスワード",
             "new_password": "新しいパスワード",
             "password_again": "パスワードを再入力",
-            "new_password_again": "新しいパスワードを再入力"
+            "new_password_again": "新しいパスワードを再入力",
+            "no_password_service_name": "{{service_name}}.で登録されているため、現在、アカウントにパスワードはありません。",
+            "updating_your_password_will_cause": "パスワードを更新すると全てのブラウザからログアウトされます。<a>OAuth の接続や APIキー</a> はアクティブのままになります。"
         },
         "email_addresses": {
             "primary_email_header": "主要メールアドレス",
@@ -907,6 +909,9 @@
             },
             "additional_emails_instructions": "その他のメールアドレスを追加すると、認証の案内がメールで送られます。",
             "additional_emails_summary": "itch.ioのアカウントに追加メールアドレスを関連付けることで、それらのメールアドレスのもとで購入したものにアクセス可能になります。例えば、PayPalに使っているメールアドレスが、普段使っているメールアドレスと異なる場合、PayPal用のアドレスを追加して利用することができます。"
+        },
+        "two_factor_auth": {
+            "page_description": "二段階認証はアカウントにセキュリテ層を追加します。パスワードが漏洩した時の不正アクセス防止に役立ちます。"
         }
     },
     "dashboard": {
