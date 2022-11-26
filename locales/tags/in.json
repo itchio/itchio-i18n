@@ -261,6 +261,12 @@
         "yaoi": "Yaoi",
         "yuri": "Yuri",
         "zero-gravity": "Gravitasi Nol",
-        "zombies": "Zombi (Mayat hidup)"
+        "zombies": "Zombi (Mayat hidup)",
+        "backgrounds": "Latar Belakang",
+        "augmented-reality": "Augmented Reality",
+        "audio": "Audio",
+        "asset-pack": "Paket Aset",
+        "animation": "Animasi",
+        "adult": "Dewasa"
     }
 }
