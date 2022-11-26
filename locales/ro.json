@@ -57,7 +57,8 @@
             "library": "Biblioteca mea",
             "feed": "Noutăți",
             "account_menu_tooltip": "Meniu cont",
-            "explore": "Descoperă"
+            "explore": "Descoperă",
+            "posts": "Postări"
         }
     },
     "index": {
@@ -386,7 +387,7 @@
         "devlog_view_all_posts": "Vezi toate postările",
         "your_purchase_comes_with_a_steam_key": "Achiziția vine la pachet și cu o cheie pentru Steam.",
         "steam_key_bundle_disclaimer": "(Notă: Cheia pentru Steam nu este inclusă în {{bundle_title}})",
-        "empty_page_no_uploads": "Autorul nu a încărcat încă nimic...",
+        "empty_page_no_uploads": "Autorul nu a încărcat încă nimic…",
         "comments": {
             "comments_header": "Comentarii",
             "leave_a_comment_header": "Lasă un comentariu",
@@ -410,7 +411,7 @@
             "genre": "Gen",
             "made_with_tools": "Construit cu",
             "tags": "Etichete",
-            "code_license": "Licență",
+            "code_license": "Licența codului",
             "asset_license": "Licență resurse",
             "average_session_duration": "Durată medie sesiune",
             "languages": "Limbi",
@@ -485,7 +486,8 @@
                 "you_rated_this_game": "Ai trimis un scor pentru acest joc deja",
                 "now_accepting_ratings": "Concursul acceptă momentan recenzii pentru proiecte.",
                 "rating_instructions": "Dă o notă și lasă un comentariu la acest proiect pentru concurs vizitând pagina de la linkul de mai sus."
-            }
+            },
+            "included_in_bundle_title": "Inclus în {{bundle_title}}"
         },
         "donate_button": "Susține proiectul (de tip {{noun}})",
         "after_download": {
@@ -571,7 +573,7 @@
             "pinned_reply": "Răspuns fixat",
             "vote_down": "Votează împotrivă",
             "vote_up": "Votează pentru",
-            "ban": "Blochează..."
+            "ban": "Interzice…"
         },
         "post_form": {
             "subscribe_to_this_topic": "Abonează-te la acest subiect",
@@ -601,7 +603,7 @@
             "sticky_flag": "Fixat"
         },
         "category": {
-            "view_this_communitys_rules": "Vezi regulile acestei comunități...",
+            "view_this_communitys_rules": "Vezi regulile acestei comunități…",
             "by_topic_author": "după {{username}}",
             "new_flag": "Nou",
             "recent_posts_header": "Postări recente",
@@ -678,18 +680,22 @@
         "filter_results": "Filtrează rezultatele",
         "view_all_tags": "Vezi toate etichetele",
         "tag": {
-            "no_description_yet": "Nicio descriere încă"
+            "no_description_yet": "Nicio descriere încă",
+            "suggest_description_for_this_tag": "Sugerează o descriere pentru această etichetă",
+            "suggest_updated_description": "Sugerează o descriere actualizată"
         },
         "filter_group_genre": "Gen",
         "related_collections": "Colecții relatate",
-        "fresh_description": "Navigați un set de proiecte care se actualizează constant, provenite din colecții organizate de membrii noștri. Reveniți pentru noi completări."
+        "fresh_description": "Navigați un set de proiecte care se actualizează constant, provenite din colecții organizate de membrii noștri. Reveniți pentru noi completări.",
+        "filter_group_session_length": "Durata medie a sesiunii",
+        "filter_by_tag": "Filtrează după etichetă"
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
         "included_files": "Fișiere incluse",
         "preorder_title": "Pre-comandați '{{title}}'",
         "buy_title": "Cumpărați '{{title}}'",
-        "i_already_paid_for_this": "Am plătit deja pentru asta...",
+        "i_already_paid_for_this": "Am plătit deja pentru asta…",
         "gift_email_instructions": "Vei alege un e-mail la care să trimiți cadoul după ce ai plătit",
         "email_address_description": "Confirmarea plății va fi trimisă aici",
         "your_email_address": "Adresa ta de email",
@@ -718,7 +724,7 @@
         "sold_out_notice": "Acest produs nu este în stoc, verifică mai târziu."
     },
     "collection": {
-        "remove_item_button": "Eliminați...",
+        "remove_item_button": "Eliminați…",
         "page_title": "{{collection_title}} - Colectarea de {{author}}",
         "a_collection_by_author": "O colecție de {{author}}",
         "pending_invitation": "Aveți o invitație în așteptare pentru a contribui la această colecție. <a>Consultați invitația</a>",
