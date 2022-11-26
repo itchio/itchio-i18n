@@ -15,7 +15,8 @@
             "log_out": "Keluar",
             "create": "Buat",
             "sales_bundles": "Diskon & bundel",
-            "host_game_jam": "Selenggarakan game jam"
+            "host_game_jam": "Selenggarakan game jam",
+            "posts": "Postingan"
         },
         "header": {
             "game_assets": "Aset",
@@ -161,7 +162,7 @@
         "classifications": {
             "book": "Buku",
             "comic": "Komik",
-            "soundtrack": "Soundtrack",
+            "soundtrack": "Album & soundtrack",
             "game": "Game",
             "game_mod": "Mod game",
             "other": "Lainnya",
@@ -355,7 +356,7 @@
             "comments_header": "Komentar",
             "leave_a_comment_header": "Berikan komentar",
             "leave_a_comment": "Berikan komentar",
-            "click_to_leave_a_comment": "Klik untuk memberikan komentar...",
+            "click_to_leave_a_comment": "Klik untuk meninggalkan komentar…",
             "post_comment": "Posting komentar",
             "write_your_comment": "Tulis komentar…"
         },
@@ -374,7 +375,7 @@
             "genre": "Genre",
             "made_with_tools": "Dibuat dengan",
             "tags": "Tag",
-            "code_license": "Lisensi",
+            "code_license": "Lisensi kode",
             "asset_license": "Lisensi aset",
             "average_session_duration": "Perkiraan durasi",
             "languages": "Bahasa",
@@ -396,7 +397,7 @@
             "empty_message": "Belum ada yang bisa diunduh."
         },
         "download_access": "Klik unduh untuk mengakses file-file berikut ini:",
-        "empty_page": "Tidak ada apa-apa di sini...",
+        "empty_page": "Tidak ada apa-apa di sini…",
         "more_information": "Informasi lebih lanjut",
         "install_instructions": "Petunjuk penginstalan",
         "download_header": "Unduh",
@@ -419,7 +420,7 @@
         "your_purchase_comes_with_a_steam_key": "Pembelian sudah disertakan dengan Steam key.",
         "steam_key_bundle_disclaimer": "(Catatan: {{bundle_title}} tidak menyertakan Steam key)",
         "donate_button": "Bantu {{noun}} Ini",
-        "empty_page_no_uploads": "Pembuat masih belum mengunggah apa-apa...",
+        "empty_page_no_uploads": "Pembuat belum mengunggah apapun…",
         "community_header": "Komunitas",
         "join_the_community": "Bergabung dengan komunitas",
         "community_post_author": "oleh {{username}}",
@@ -471,7 +472,8 @@
                 "report": "Laporkan",
                 "embed": "Sematkan",
                 "updated_date": "Diperbarui {{date}}"
-            }
+            },
+            "included_in_bundle_title": "Dimasukkan di {{bundle_title}}"
         },
         "after_download": {
             "thanks_project_author": "Terima kasih telah mengunduh {{project}} karya {{author}}.",
@@ -554,7 +556,7 @@
             "delete_topic": "Hapus utas",
             "delete": "Hapus",
             "report": "Laporkan",
-            "ban": "Blokir...",
+            "ban": "Blokir…",
             "vote_up": "Dukung naik",
             "vote_down": "Dukung turun",
             "deleted_account": "Akun yang dihapus",
@@ -595,7 +597,7 @@
             "new_flag": "Baru",
             "archived_flag": "Terarsip",
             "by_topic_author": "oleh {{username}}",
-            "view_this_communitys_rules": "Lihat aturan komunitas..."
+            "view_this_communitys_rules": "Lihat peraturan komunitas ini…"
         },
         "topic_list": {
             "started_by_author": "dimulai oleh {{topic_author}}",
@@ -643,7 +645,7 @@
         "download_this_product_by_purchasing_it_for": "Unduh produk ini dengan membelinya seharga {{price}} atau lebih.",
         "your_email_address": "Alamat email kamu",
         "email_address_description": "Konfirmasi pembayaran kamu akan dikirim ke alamat ini",
-        "i_already_paid_for_this": "Saya sudah pernah bayar...",
+        "i_already_paid_for_this": "Aku sudah membayarnya…",
         "included_files": "File-file yang disertakan",
         "this_purchase_is_a_gift": "Pembelian ini merupakan hadiah",
         "support_the_creator_by_paying_above_the_minimum_price": "Bantu pembuatnya dengan membayar di atas harga minimum",
@@ -667,7 +669,7 @@
         "pending_invitation": "Kamu punya undangan tertunda untuk menjadi kontributor koleksi ini. <a>Lihat undangan</a>",
         "a_collection_by_author": "Koleksi milik {{author}}",
         "page_title": "{{collection_title}} - Koleksi milik {{author}}",
-        "remove_item_button": "Hapus...",
+        "remove_item_button": "Hapus…",
         "add_a_blurb": "Tuliskan promosi singkat",
         "edit_blurb": "Sunting teks promosi singkat",
         "blurb_author_says": "{{author}} mengatakan",
@@ -707,7 +709,7 @@
         "filter_group_misc": "Lainnya",
         "filter_group_collection": "Koleksi",
         "filter_group_tools": "Engine & Tool",
-        "fresh_description": "Jelajahi serangkaian proyek yang terus diperbarui dan bersumber dari koleksi yang dikuratori oleh anggota kami. Periksa kembali untuk tambahan baru.",
+        "fresh_description": "Jelajahi serangkaian proyek yang terus diperbarui yang bersumber dari koleksi yang dikuratori oleh anggota kami. Periksa kembali untuk tambahan baru.",
         "filter_group": {
             "more_options": "Pilihan Lebih Banyak",
             "fewer_options": "Pilihan Lebih Sedikit",
@@ -785,7 +787,11 @@
             "set_password": "Setel kata sandi",
             "password": "Kata sandi",
             "new_password": "Kata sandi baru",
-            "new_password_again": "Ulangi kata sandi baru"
+            "new_password_again": "Ulangi kata sandi baru",
+            "please_set_a_password_on_your_account": "Silakan atur kata sandi di akunmu untuk meningkatkan keamanan dan kemampuan untuk mengakses akunmu tanpa layanan pihak ketiga.",
+            "your_account_currently_doesnt_have_a_password": "Akun kamu saat ini tidak memiliki kata sandi.",
+            "no_password_service_name": "Akun kamu saat ini tidak memiliki kata sandi karena kamu mendaftar dengan {{service_name}}.",
+            "updating_your_password_will_cause": "Memperbarui kata sandimu akan menyebabkan semua sesi browser lainnya keluar. Semua <a>koneksi OAuth dan kunci API</a> akan tetap aktif."
         },
         "email_addresses": {
             "primary_email_description": "itch.io akan mengirimkan pemberitahuan ke email utama kamu.",
@@ -811,13 +817,30 @@
                 "email_sent_status": "email terkirim",
                 "detach_email": "Pisahkan email"
             }
+        },
+        "two_factor_auth": {
+            "status_off": "Mati",
+            "status_on": "Aktif",
+            "tfa_status": "Status: {{tfa_status}}",
+            "page_description": "Autentikasi dua faktor adalah lapisan keamanan tambahan untuk akunmu yang membantu mencegah akses tidak sah jika kata sandimu pernah dicuri.",
+            "page_title": "Autentikasi dua faktor",
+            "configure_twofactor_authentication": "Konfigurasi autentikasi dua faktor",
+            "learn_more_about_twofactor_authentication": "Pelajari lebih lanjut tentang autentikasi dua faktor"
         }
     },
     "browse_tags": {
         "page_title": "Tag teratas",
         "find_tag": "Cari tag",
         "commonly_tagged_with": "Biasanya juga memiliki tag",
-        "no_description_yet": "Belum ada deskripsi"
+        "no_description_yet": "Belum ada deskripsi",
+        "all_tags": "Semua tag",
+        "types": {
+            "tool": "Alat",
+            "event": "Acara",
+            "platform": "Platform",
+            "style": "Gaya",
+            "genre": "Genre"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>oleh</1> {{author}}",
@@ -983,7 +1006,7 @@
             },
             "score_information": "Skor disesuaikan dari skor murni berdasarkan nilai tengah rating per game di game jam.",
             "rated_by_people_count": "Sejauh ini telah dinilai oleh {{count}} orang",
-            "rated_by_people_count_plural": "Dinilai oleh {{count}} orang sejauh ini",
+            "rated_by_people_count_plural": "Sejauh ini telah dinilai oleh {{count}} orang",
             "rate_submission": {
                 "owner_message": "Ini kiriman karya kamu, tidak diperbolehkan untuk menilai karya sendiri. Namun, peserta lain di game jam ini dapat memberi rating untuk proyek kamu di sini.",
                 "sign_up_to_vote": "<a>Daftar dengan akun itch.io</a> untuk memberi voting dan komentar.",
@@ -1044,7 +1067,7 @@
         },
         "screenshots": {
             "empty_message": "Belum ada screenshot yang diunggah",
-            "loading_more": "Memuat lebih banyak screenshot..."
+            "loading_more": "Memuat lebih banyak tangkapan layar…"
         }
     },
     "dashboard": {
@@ -1210,6 +1233,9 @@
             "rewards": "Imbalan",
             "admins": "Admin",
             "more": "Lebih banyak"
+        },
+        "blog_posts": {
+            "new_post": "Postingan baru"
         }
     },
     "add_to_collection": {
@@ -1280,7 +1306,8 @@
         "event": {
             "collection_summary": "Koleksi dengan {{count}} item.",
             "collection_added_count": "Menambahkan {{count}} item."
-        }
+        },
+        "filter_posts_tab": "Postingan"
     },
     "library": {
         "page_title": "Pustakaku",
@@ -1320,6 +1347,29 @@
     },
     "notifications": {
         "unseen_label": "Baru",
-        "page_title": "Pemberitahuan"
+        "page_title": "Pemberitahuan",
+        "filter_follows": "Mengikuti",
+        "filter_payments": "Pembayaran",
+        "filter_replies": "Balasan",
+        "filter_all": "Semua",
+        "filter": "Saring"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Berikan kata sandi baru untuk akun {{account_name}}.",
+        "link_sent": "Tautan pengaturan ulang kata sandi telah dikirim ke alamat utama akunmu.",
+        "enter_your_email": "Masukkan alamat email yang kamu daftarkan dan kami akan mengirimkan tautan untuk mengatur ulang kata sandimu.",
+        "reset_password": "Atur Ulang Kata Sandi"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Kamu tidak dapat memverifikasi alamat email saat masuk ke akun yang berbeda",
+            "your_email_address_has_been_verified": "Alamat email kamu sudah terverifikasi",
+            "we_were_unable_to_verify_your_email_address": "Kami tidak dapat memverifikasi alamat email kamu",
+            "submit_button": "Konfirmasi verifikasi email",
+            "page_title": "Verifikasi alamat email kamu",
+            "you_will_automatically_be_logged_in": "Kamu akan secara otomatis masuk ke akun kamu setelah memverifikasi alamat email kamu.",
+            "link_purchases": "Jika sebelumnya kamu telah melakukan pembelian apa pun hanya dengan alamat email kamu, pembelian tersebut secara otomatis akan dikaitkan ke akunmu.",
+            "confirm_verification": "Konfirmasi verifikasi alamat email {{email_address}} untuk akun {{account}}. Kamu perlu memverifikasi alamat email kamu untuk melakukan banyak tindakan di itch.io."
+        }
     }
 }
