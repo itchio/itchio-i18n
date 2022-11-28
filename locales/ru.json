@@ -19,12 +19,12 @@
             "notifications_count_2": "{{count}} уведомлений",
             "no_notifications": "Нет новых уведомлений",
             "free_games": "Бесплатные игры",
-            "indie_game_store": "Магазин инди игр",
+            "indie_game_store": "Магазин инди-игр",
             "game_development": "Разработка игр",
             "comics": "Комиксы",
             "sales": "Скидки",
-            "bundles": "Бандлы",
-            "game_assets": "Ассеты",
+            "bundles": "Наборы",
+            "game_assets": "Материалы",
             "fun_games": "Развлекательные игры",
             "games": "Игры",
             "feed": "Лента",
@@ -40,14 +40,14 @@
             "terms": "Условия использования",
             "directory": "Каталог",
             "privacy": "Приватность",
-            "cookies": "Куки"
+            "cookies": "Cookie"
         },
         "user_menu": {
             "log_out": "Выход",
             "settings": "Настройки",
             "view_profile": "Посмотреть профиль",
             "host_game_jam": "Провести геймджем",
-            "sales_bundles": "Скидки и бандлы",
+            "sales_bundles": "Скидки и наборы",
             "new_project": "Загрузить новый проект",
             "dashboard": "Кабинет",
             "game_jams": "Геймджемы",
@@ -56,13 +56,13 @@
             "feed": "Моя лента",
             "explore": "Исследуйте",
             "create": "Создавайте",
-            "account": "Учетная запись",
+            "account": "Учётная запись",
             "account_menu_tooltip": "Меню учётной записи",
-            "posts": "Посты"
+            "posts": "Публикации"
         }
     },
     "index": {
-        "popular_tags": "Популярные теги",
+        "popular_tags": "Популярные метки",
         "browse": "Обзор",
         "games_by_price": "Игры по цене",
         "download_app": "Загрузить приложение",
@@ -80,7 +80,7 @@
         "recommendations_based_on": "На основе ваших покупок, скачиваний и оценок",
         "on_sale": "Распродажа",
         "top_sellers": "Самые продаваемые",
-        "with_demo": "Есть демо",
+        "with_demo": "Демо-версии",
         "fresh_games": "Последние игры",
         "view_all_jams": "Показать все геймджемы",
         "fresh_games_description": "Постоянно обновляемый список последних игр на itch.io",
@@ -92,16 +92,16 @@
         "view_all_platforms": "Показать все платформы",
         "nav": {
             "all_games": "Все игры",
-            "bundles": "Бандлы",
+            "bundles": "Наборы",
             "game_jams": "Геймджемы",
             "devlogs": "Дневники",
             "community": "Сообщество"
         },
-        "intro": "<s>itch.io</s> — это простой и бесплатный способ найти инди игры и поделиться своими онлайн.",
+        "intro": "<s>itch.io</s> — это простой и бесплатный способ найти инди-игры и поделиться своими онлайн.",
         "intro_cta": "<1>Добавить вашу игру</1> или <2>Прочитать ЧаВО</2>",
         "html5_games": "HTML5 игры",
         "search_games_creators": "Поиск игр и создателей",
-        "browse_all_tags": "Показать все теги",
+        "browse_all_tags": "Показать все метки",
         "view_more": "Показать больше",
         "featured_jams": "Избранные геймджемы",
         "people_to_follow": "Интересные люди",
@@ -109,7 +109,7 @@
         "game_dev_on_sale": "Игровые ресурсы для разработчиков<1>на распродаже</1>",
         "browse_content_type": "Посмотреть {{content_type}}",
         "page_title": "Скачивайте последние инди-игры",
-        "meta_description": "itch.io позволяет найти, скачать и распространить инди игры онлайн. Разработчик ли вы, желающий загрузить игру, или просто ищете, во что бы новенькое поиграть, itch.io вам поможет.",
+        "meta_description": "itch.io позволяет найти, скачать и распространить инди-игры онлайн. Разработчик ли вы, желающий загрузить игру, или просто ищете, во что бы новенькое поиграть, itch.io вам поможет.",
         "to_follow": {
             "created_projects": "Автор {{project_list}}",
             "empty_results": "Сейчас ничего не можем порекомендовать. Зайдите попозже",
@@ -120,7 +120,7 @@
     "misc": {
         "classifications": {
             "game": "Игры",
-            "assets": "Игровые ассеты",
+            "assets": "Игровые материалы",
             "game_mod": "Моды к играм",
             "physical_game": "Аналоговые игры",
             "soundtrack": "Альбомы и саундтреки",
@@ -140,9 +140,9 @@
             "textless": "Без текста"
         },
         "multiplayer_features": {
-            "local": "Локальный мультиплеер",
-            "server": "Сетевой мультиплеер с серверами",
-            "adhoc": "Сетевой мультиплеер без серверов"
+            "local": "Локальная игра по сети",
+            "server": "Игра по сети с серверами",
+            "adhoc": "Игра по сети без серверов"
         },
         "inputs": {
             "keyboard": "Клавиатура",
@@ -244,7 +244,7 @@
         "updates": "Обновления",
         "digest": "Дайджест",
         "empty_message": "Тут ещё никто ничего не написал",
-        "tag_filter": "Включен фильтр по {{tag}}. <a>Очистить тег</a>"
+        "tag_filter": "Включён фильтр по: {{tag}}. <a>Очистить метки</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Вход в учётную запись itch.io",
@@ -304,8 +304,8 @@
         "page_title": "Зарегистрироваться"
     },
     "developers": {
-        "page_header": "Создайте страницу для моментального распространения или продаж вашей инди игры",
-        "product_summary1": "<s>itch.io</s> позволяет бесплатно распространять инди игры онлайн. Держите файлы игры и скриншоты в одном месте. Создайте страницу, на которой ваша игра будет в центре внимания.",
+        "page_header": "Создайте страницу для моментального распространения или продаж вашей инди-игры",
+        "product_summary1": "<s>itch.io</s> позволяет бесплатно распространять инди-игры онлайн. Держите файлы игры и скриншоты в одном месте. Создайте страницу, на которой ваша игра будет в центре внимания.",
         "product_summary2": "Вы можете установить минимальную цену игре, чтобы поклонники могли заплатить столько, сколько они захотят.",
         "my_dashboard": "Мой кабинет",
         "upload_a_new_game": "Загрузить новую игру",
@@ -330,7 +330,7 @@
         "published_count_0": "{{count}} проект",
         "published_count_1": "{{count}} проекта",
         "published_count_2": "{{count}} проектов",
-        "view_all_tags": "Посмотреть все теги",
+        "view_all_tags": "Посмотреть все метки",
         "browse_all_games": "Смотреть все игры",
         "search_results_for_query": "Результаты поиска для '{{query}}'"
     },
@@ -386,7 +386,7 @@
         "in_order_to_access": "Чтобы получить доступ к {{noun}}, заплатите {{price}} или выше.",
         "devlog_view_all_posts": "Посмотреть все публикации",
         "your_purchase_comes_with_a_steam_key": "В комплект также включен ключ для активации в Steam.",
-        "steam_key_bundle_disclaimer": "(Заметьте: Steam ключ не включен в {{bundle_title}})",
+        "steam_key_bundle_disclaimer": "(Заметьте: Steam ключ не включён в {{bundle_title}})",
         "donate_button": "Поддержать эту {{noun}}",
         "empty_page_no_uploads": "Создатель пока ничего не загрузил…",
         "comments": {
@@ -401,7 +401,7 @@
         "info_panel": {
             "updated_at": "Обновлено",
             "published_at": "Опубликовано",
-            "release_status": "Статус",
+            "release_status": "Состояние",
             "category": "Категория",
             "platforms": "Платформы",
             "publisher": "Издатель",
@@ -411,14 +411,14 @@
             "author": "Автор",
             "genre": "Жанр",
             "made_with_tools": "Сделано с",
-            "tags": "Теги",
+            "tags": "Метки",
             "code_license": "Лицензия на код",
-            "asset_license": "Лицензия на ассеты",
-            "average_session_duration": "Средняя сессия",
+            "asset_license": "Лицензия на материалы",
+            "average_session_duration": "Средний сеанс",
             "languages": "Языки",
             "inputs": "Устройства ввода",
             "accessibility": "Доступность",
-            "multiplayer": "Мультиплеер",
+            "multiplayer": "По сети",
             "player_count": "Количество игроков",
             "singleplayer": "Синглплеер",
             "links": "Ссылки",
@@ -458,7 +458,7 @@
             "edit_your_rating": "Изменить вашу оценку",
             "edit_rating": "Изменить оценку",
             "rate": "Оценить",
-            "rate_this_noun": "Оценить эту {{noun}}",
+            "rate_this_noun": "Оценить эту(-от) {{noun}}",
             "rate_for_jam": "Оценить для {{jam_title}}",
             "submission_to_jam": "Участвует в {{jam_title}}",
             "related_games": "Похожие игры",
@@ -469,7 +469,7 @@
                 "download": "Скачать",
                 "percent_off": "Скидка {{percent}}%",
                 "you_havent_sent_this_gift_to_anyone_yet": "Вы ещё не отправили кому-либо этот подарок",
-                "purchased_in_a_bundle_for_price": "Куплено в бандле за {{price}}",
+                "purchased_in_a_bundle_for_price": "Куплено в наборе за {{price}}",
                 "you_were_gifted_this": "Вам подарили",
                 "purchased_for_price": "Куплено за {{price}}",
                 "claimed": "Принято"
@@ -564,15 +564,15 @@
             "delete_topic": "Удалить тему",
             "delete": "Удалить",
             "report": "Пожаловаться",
-            "ban": "Забанить…",
+            "ban": "Заблокировать…",
             "view_more_in_thread": "Показать больше в цепочке",
-            "vote_up": "Голосовать за",
-            "vote_down": "Голосовать против",
+            "vote_up": "Голосовать ЗА",
+            "vote_down": "Голосовать ПРОТИВ",
             "deleted_account": "Удалённая учётная запись",
             "suspended_account": "Приостановленная учётная запись",
             "pinned_reply": "Закреплённый ответ",
             "pinned_post": "Закреплённая публикация",
-            "edited": "(правка)",
+            "edited": "(изменено)",
             "post_from_suspended_account": "Публикация от приостановленной учётной записи"
         },
         "post_form": {
@@ -582,8 +582,8 @@
             "subscribe": "Подписаться",
             "subscribe_to_this_topic": "Подписаться на эту тему",
             "subscribe_description": "Получать уведомления о новых ответах в этой теме",
-            "tag_header": "Тег",
-            "remove_tag": "Удалить тег",
+            "tag_header": "Метка",
+            "remove_tag": "Удалить метку",
             "post_reply": "Ответить"
         },
         "new_topic": {
@@ -597,7 +597,7 @@
             "see_community_guidelines": "Правила сообществ itch.io смотрите в <a>Советах сообществам</a>.",
             "title": "Заголовок",
             "body": "Сообщение",
-            "topic_tag": "Тег",
+            "topic_tag": "Метка",
             "your_moderators_are": "itch.io не модерирует этот форум, но модерируют эти пользователи:",
             "page_title": "Создать новую тему"
         },
@@ -650,8 +650,8 @@
         "on_sale_notice": "Этот продукт предлагается со скидкой.",
         "support_message": "Поддержите разработку этого проекта пожертвованием",
         "percent_off_until": "Минус <s>{{rate}}%</s> на все покупки до {{end_date}}.",
-        "also_buy_as_bundle_plural": "Вы также можете купить этот продукт в составе бандла из {{count}} продуктов за {{price}}:",
-        "buy_as_bundle_plural": "Вы можете купить этот продукт в составе бандла из {{count}} продуктов за {{price}}:",
+        "also_buy_as_bundle_plural": "Вы также можете купить этот продукт в составе набора из {{count}} продуктов за {{price}}:",
+        "buy_as_bundle_plural": "Вы можете купить этот продукт в составе набора из {{count}} продуктов за {{price}}:",
         "free_pay_what_you_want": "Этот проект доступен бесплатно, но вы можете заплатить столько, сколько считаете справедливым: создатель будет рад вашей поддержке.",
         "no_thanks_just_take_me_to_the_downloads": "Нет спасибо, давайте сразу к скачиванию",
         "includes_steam_key": "Вы получите ключ для активации в Steam вместе с покупкой.",
@@ -711,19 +711,19 @@
         "tag": {
             "no_description_yet": "Пока нет описания",
             "suggest_updated_description": "Предложить новое описание",
-            "suggest_description_for_this_tag": "Предложить описание для этого тега"
+            "suggest_description_for_this_tag": "Предложить описание для этой метки"
         },
         "filter_group_platform": "Платформа",
-        "view_all_tags": "Посмотреть все теги",
-        "filter_by_tag": "Фильтровать по тегу",
+        "view_all_tags": "Посмотреть все метки",
+        "filter_by_tag": "Фильтровать по метке",
         "filter_group_when": "Когда",
-        "filter_group_input_methods": "Способы ввода",
-        "filter_group_session_length": "Средняя длительность сессии",
-        "filter_group_multiplayer": "Мультиплеер",
+        "filter_group_input_methods": "Способы управления",
+        "filter_group_session_length": "Средняя длительность сеанса",
+        "filter_group_multiplayer": "Сетевая игра",
         "filter_group_accessibility_features": "Доступность",
         "filter_group_type": "Тип",
         "type_downloadable": "Скачиваемые",
-        "filter_group_release_status": "Статус релиза",
+        "filter_group_release_status": "Состояние выпуска",
         "filter_group_misc": "Прочие",
         "filter_group_collection": "Коллекция",
         "filter_group_tools": "Инструменты и движки",
@@ -737,11 +737,11 @@
         "filter_everything_else": "Всё остальное"
     },
     "browse_tags": {
-        "page_title": "Популярные теги",
-        "find_tag": "Найти тег",
+        "page_title": "Популярные метки",
+        "find_tag": "Найти метку",
         "commonly_tagged_with": "Обычно используется с",
         "no_description_yet": "Пока нет описания",
-        "all_tags": "Все теги",
+        "all_tags": "Все метки",
         "types": {
             "tool": "Инструменты",
             "event": "События",
@@ -916,7 +916,7 @@
         "header": {
             "invoice": "Счёт-фактура",
             "more_menu": "Ещё",
-            "view_rest_in_bundle": "Посмотреть всё остальное из комплекта",
+            "view_rest_in_bundle": "Посмотреть всё остальное из набора",
             "preorder_title": "Предзаказ {{project_title}}",
             "download_title": "Скачать {{project_title}}",
             "view_all_my_purchases": "Просмотреть все мои покупки",
@@ -1128,8 +1128,8 @@
             "payments_link": "Платежи",
             "analytics_link": "Аналитика",
             "payouts_link": "Выплаты",
-            "sales_bundles_link": "Скидки и бандлы",
-            "coop_bundles_link": "Совместные бандлы",
+            "sales_bundles_link": "Скидки и наборы",
+            "coop_bundles_link": "Совместные наборы",
             "game_jams_link": "Геймджемы"
         },
         "create_new_project_button": "Создать новый проект",
@@ -1160,7 +1160,7 @@
             "classification_field": "Классификация",
             "classification_field_description": "Как лучше классифицировать то, что вы загружаете?",
             "kind_of_project_field": "Тип проекта",
-            "release_status_field": "Статус релиза",
+            "release_status_field": "Состояние выпуска",
             "details_section_header": "Подробности",
             "description_field": "Описание",
             "custom_noun_field": "Особое существительное",
@@ -1230,8 +1230,8 @@
                 "launch_fullscreen_option": "Запускать на полном экране по клику"
             },
             "details_genre_header": "Жанр",
-            "details_tags_header": "Теги",
-            "details_genre_info": "Выберите категорию, которая больше всего соответствует игре. Вы можете выбрать дополнительные жанры с помощью тегов ниже",
+            "details_tags_header": "Метки",
+            "details_genre_info": "Выберите категорию, которая больше всего соответствует игре. Вы можете выбрать дополнительные жанры с помощью меток ниже",
             "pricing": {
                 "free_or_donate": "{{money}} или пожертвования",
                 "paid": "Платно",
@@ -1277,7 +1277,7 @@
             "more": "Ещё"
         },
         "blog_posts": {
-            "new_post": "Новый пост"
+            "new_post": "Новая публикация"
         }
     },
     "add_to_collection": {
@@ -1297,7 +1297,7 @@
         "about_this_project_label": "О проекте"
     },
     "game_grid": {
-        "in_bundle": "В бандле"
+        "in_bundle": "В наборе"
     },
     "jams": {
         "jams_created_header": "Созданные вами геймджемы",
@@ -1328,7 +1328,7 @@
         "filter_devlogs_tab": "Дневники",
         "filter_ratings_tab": "Оценки",
         "latest_featured_games_header": "Последние избранные игры",
-        "featured_tags_header": "Избранные теги",
+        "featured_tags_header": "Избранные метки",
         "to_rate": {
             "projects_to_rate_header": "Проекты для оценки",
             "to_rate_description": "Вот некоторые проекты, с которыми вы взаимодействовали, но не поставили оценку."
@@ -1357,7 +1357,7 @@
             "collection_added_count_1": "Добавлено {{count}} проекта.",
             "collection_added_count_2": "Добавлено {{count}} проектов."
         },
-        "filter_posts_tab": "Посты"
+        "filter_posts_tab": "Публикации"
     },
     "library": {
         "page_title": "Моя игротека",
