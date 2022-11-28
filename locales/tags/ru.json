@@ -374,6 +374,16 @@
         "cartoon": "Мультфильм",
         "larp": "LARP",
         "idle": "Idle",
-        "hexcrawl": "Hexcrawl"
+        "hexcrawl": "Hexcrawl",
+        "wobbly": "Шаткий",
+        "supplement": "Дополнение",
+        "soundtoy": "Звуковые игрушки",
+        "period-piece": "Периодическая пьеса",
+        "pbta": "ПбтА",
+        "osr": "Оср",
+        "lewd": "Непристойный",
+        "itchfunding": "Финансирование зуда",
+        "hypercard": "Гиперкарта",
+        "boys-love": "Любовь мальчиков"
     }
 }
