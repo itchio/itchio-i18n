@@ -386,7 +386,7 @@
             "comments_header": "评论",
             "leave_a_comment_header": "发表评论",
             "leave_a_comment": "发表评论",
-            "click_to_leave_a_comment": "点击发表评论......",
+            "click_to_leave_a_comment": "点击发表评论...…",
             "log_in_to_leave_comment": "<a>登录 itch.io</a> 发表评论。",
             "post_comment": "发表评论",
             "write_your_comment": "写下您的评论…"
@@ -552,7 +552,7 @@
             "delete_topic": "删除主题",
             "delete": "删除",
             "report": "报告",
-            "ban": "禁止...",
+            "ban": "禁止…",
             "view_more_in_thread": "查看更多",
             "vote_up": "支持",
             "vote_down": "反对",
@@ -609,7 +609,7 @@
             "new_flag": "新",
             "archived_flag": "已归档",
             "by_topic_author": "由 {{username}} 发表",
-            "view_this_communitys_rules": "查看社区规则..."
+            "view_this_communitys_rules": "查看社区规则…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s>查看",
@@ -641,7 +641,7 @@
         "your_email_address": "您的邮箱地址",
         "email_address_description": "您的付款确认信息将会发送至这里",
         "gift_email_instructions": "您将在付款后选择一个邮箱发送礼物",
-        "i_already_paid_for_this": "我已经为此付了钱......",
+        "i_already_paid_for_this": "我已经为此付了钱...…",
         "included_files": "包含的文件",
         "agree_to_terms": "完成付款即表示您同意 itch.io 的 <1>服务条款</1>和<2>隐私政策</2>。",
         "this_purchase_is_a_gift": "这次购买是作为礼物",
@@ -832,7 +832,7 @@
         "empty_collection_message": "这个合集里没有任何商品。",
         "private_collection_message": "该合集是私密的，仅贡献者可见其内容",
         "page_title": "{{collection_title}} - 合集作者 {{author}}",
-        "remove_item_button": "删除...",
+        "remove_item_button": "删除…",
         "add_a_blurb": "添加简介",
         "edit_blurb": "编辑简介",
         "blurb_author_says": "{{author}} 说",
@@ -1209,7 +1209,7 @@
         },
         "screenshots": {
             "empty_message": "尚未上传任何屏幕截图",
-            "loading_more": "正在加载更多屏幕截图..."
+            "loading_more": "正在加载更多屏幕截图…"
         }
     },
     "add_to_collection": {
