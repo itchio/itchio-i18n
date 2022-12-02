@@ -261,6 +261,10 @@
         "loot": "战利品",
         "drm-free": "无 DRM",
         "classes": "类别",
-        "8-bit": "8位机"
+        "8-bit": "8位机",
+        "audio": "音频",
+        "asset-pack": "素材包",
+        "animation": "动画",
+        "adult": "成人"
     }
 }
