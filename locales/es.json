@@ -55,7 +55,8 @@
             "dashboard": "Dashboard",
             "game_jams": "Jams de juegos",
             "feed": "Mi feed",
-            "account_menu_tooltip": "Menú de Cuenta"
+            "account_menu_tooltip": "Menú de Cuenta",
+            "posts": "Publicaciones"
         }
     },
     "index": {
@@ -1002,7 +1003,10 @@
         "not_a_developer_escape": "No, llévame al feed de juegos",
         "recently_updated_pages_header": "Páginas actualizadas recientemente",
         "new_devlog": "Nuevo devlog",
-        "dashboard": "Tablero"
+        "dashboard": "Tablero",
+        "blog_posts": {
+            "new_post": "Nueva publicación"
+        }
     },
     "add_to_collection": {
         "add_to_existing": "Agregar a una colección existente",
@@ -1328,7 +1332,8 @@
         "my_feed_tab": "Mi feed",
         "global_feed_tab": "Alimentación global",
         "manage_my_games_button": "Gestionar mis juegos",
-        "event_filter_label": "Filtrar:"
+        "event_filter_label": "Filtrar:",
+        "filter_posts_tab": "Publicaciones"
     },
     "library": {
         "private_toggle": "Privado",
@@ -1363,7 +1368,12 @@
     },
     "notifications": {
         "unseen_label": "Nuevos",
-        "page_title": "Notificaciones"
+        "page_title": "Notificaciones",
+        "filter_follows": "Seguidos",
+        "filter_payments": "Pagos",
+        "filter_replies": "Respuestas",
+        "filter_all": "Todo",
+        "filter": "Filtrar"
     },
     "user": {
         "verify_email": {
