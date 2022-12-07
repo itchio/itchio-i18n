@@ -42,7 +42,8 @@
             "recommendations": "推薦",
             "library": "我的收藏庫",
             "feed": "我的動態",
-            "account_menu_tooltip": "帳戶選單"
+            "account_menu_tooltip": "帳戶選單",
+            "posts": "文章"
         },
         "footer": {
             "about": "關於",
@@ -448,7 +449,7 @@
             "post_comment": "送出評論",
             "write_your_comment": "寫下您的評論……"
         },
-        "empty_page": "這裡似乎沒有任何東西...…",
+        "empty_page": "這裡似乎沒有任何東西…",
         "install_instructions": "安裝指引",
         "download_header": "下載",
         "unavailable": "這個 {{game_noun}} 目前無法使用",
@@ -471,7 +472,7 @@
         "devlog_view_all_posts": "檢視全部文章",
         "your_purchase_comes_with_a_steam_key": "您的購買附帶一組 Steam 產品序號。",
         "donate_button": "支持這個 {{noun}}",
-        "empty_page_no_uploads": "創作者還沒上傳任何東西……",
+        "empty_page_no_uploads": "創作者還沒上傳任何東西…",
         "post_a_new_topic": "發表新主題",
         "join_the_community": "加入社群",
         "community_header": "社群",
@@ -541,7 +542,7 @@
             "delete_topic": "刪除主題",
             "delete": "刪除",
             "report": "回報",
-            "ban": "封鎖...",
+            "ban": "封鎖…",
             "vote_up": "支持",
             "vote_down": "反對",
             "deleted_account": "已刪除的帳戶",
@@ -608,7 +609,7 @@
             "archived_flag": "已封存",
             "by_topic_author": "來自{{username}}",
             "topics_count": "{{count}} 個主題",
-            "view_this_communitys_rules": "檢視此社區的規定..."
+            "view_this_communitys_rules": "檢視此社區的規定…"
         }
     },
     "buy_form": {
@@ -654,7 +655,7 @@
         "edit_collection": "編輯收藏",
         "private_collection_message": "這是私人收藏，只有協作者可以看到內容",
         "pending_invitation": "您受到邀請成為此收藏的協作者。<a>檢視邀請</a>",
-        "remove_item_button": "移除...",
+        "remove_item_button": "移除…",
         "blurb_author_says": "{{author}} 說",
         "remove_confirm": "確定是否從此收藏移除此項目",
         "edit_blurb": "編輯簡介",
@@ -772,7 +773,11 @@
             "password_again": "重複密碼",
             "new_password": "新的密碼",
             "password": "密碼",
-            "current_password": "當前密碼"
+            "current_password": "當前密碼",
+            "please_set_a_password_on_your_account": "請為您的帳戶設置密碼，以提高安全性和無需任何第三方服務即可訪問您的帳戶的能力。",
+            "your_account_currently_doesnt_have_a_password": "您的帳戶目前沒有密碼。",
+            "no_password_service_name": "您的帳戶目前沒有密碼，因為您是使用{{service_name}}註冊的。",
+            "updating_your_password_will_cause": "更新您的密碼將導致其他瀏覽器快取被清除。任何 <a>OAuth 連接和 API密鑰</a> 都將保持活動狀態。"
         },
         "email_addresses": {
             "additional_emails": {
@@ -798,6 +803,12 @@
             "primary_email_header": "主要的電郵地址",
             "change_password_instructions": "當您變更電子郵件地址時，您必須要驗證新的電子郵件地址才能存取您購買的任何遊戲。您會收到關於驗證指示的郵件。基於安全理由，您還需要提供目前的密碼才能對電子郵件地址進行更動。",
             "your_primary_email_address": "您主要的電郵地址為：{{email}}"
+        },
+        "two_factor_auth": {
+            "page_description": "雙因素身份驗證是您帳戶的額外安全層，可在您的密碼被盜時幫助防止未經授權的訪問。",
+            "page_title": "雙因素身份驗證",
+            "configure_twofactor_authentication": "設置雙因素身份驗證",
+            "learn_more_about_twofactor_authentication": "了解有關雙因素身份驗證的更多訊息"
         }
     },
     "blog": {
@@ -979,7 +990,7 @@
             "results_table_criteria": "標準"
         },
         "screenshots": {
-            "loading_more": "載入更多螢幕截圖...",
+            "loading_more": "載入更多螢幕截圖…",
             "empty_message": "還沒有上傳的螢幕截圖"
         },
         "results": {
