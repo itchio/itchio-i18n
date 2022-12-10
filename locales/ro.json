@@ -741,11 +741,62 @@
     },
     "user_settings": {
         "navigation": {
-            "payment_header": "Plată"
+            "payment_header": "Plată",
+            "thirdparty_analytics": "Analize third-party",
+            "oauth_applications": "Aplicații OAuth",
+            "api_keys": "Chei API",
+            "data_export": "Exportare de date",
+            "privacy": "Intimitate",
+            "connected_accounts": "Conturi conectate",
+            "email_notifications": "Notificari de Email",
+            "billing_address": "Adrese de facturare",
+            "credit_cards": "Carduri de credit",
+            "payout_mode": "Metodă de plată",
+            "tax_information": "Informatii despre taxe",
+            "payment_processors": "Procesoare de plată",
+            "revenue_sharing": "Împărțirea profitului",
+            "publisher_get_started": "Incepe",
+            "support_email": "Email de suport",
+            "two_factor_auth": "Autentificare în doi pași",
+            "email_addresses": "Adrese de Email",
+            "password": "Parola",
+            "profile": "Profil",
+            "developer_header": "Dezvoltator",
+            "misc_header": "Diverse",
+            "contact_header": "Contacteaza",
+            "publisher_header": "Publicant"
         },
-        "account_settings": "Setările contului"
+        "account_settings": "Setările contului",
+        "profile": {
+            "website": "Website",
+            "display_name_description": "Numele va fi arătat în locul numelui de utiliz., lăsați gol pentru a folosi numele de utiliz.",
+            "profile_image_description": "Arătată lăngă numele dumneavoastra când faceti o actiune pe site (dimensiuni patrate)",
+            "profile_image": "Poza de Profil",
+            "url_description": "URL-ul public pentru contul tau",
+            "you_recently_changed_your_username": "V-ați schimbat numele de utilizator recent",
+            "change_username": "Schimbați-va numele de utilizator/URL-ul",
+            "username": "Nume de utilizator",
+            "page_header": "Profil",
+            "language_description": "Limba interfaței itch.io",
+            "language": "Limba"
+        }
     },
     "buy_form_popup": {
-        "author_line": "<1>de</1> {{author}}"
+        "author_line": "<1>de</1> {{author}}",
+        "powered_by_itchio": "alimentat de {{itchio}}"
+    },
+    "browse_tags": {
+        "all_tags": "Toate etichetele",
+        "types": {
+            "tool": "Unelte",
+            "event": "Evenimente",
+            "platform": "Platforme",
+            "style": "Stiluri",
+            "genre": "Genuri"
+        },
+        "no_description_yet": "Nicio descriere încă",
+        "commonly_tagged_with": "Etichetat frecvent cu",
+        "find_tag": "Gasiți etichetă",
+        "page_title": "Cele mai bune etichete"
     }
 }
