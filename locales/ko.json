@@ -53,7 +53,8 @@
             "recommendations": "추천",
             "library": "내 라이브러리",
             "feed": "내 피드",
-            "account_menu_tooltip": "계정 메뉴"
+            "account_menu_tooltip": "계정 메뉴",
+            "posts": "포스트"
         }
     },
     "index": {
@@ -118,7 +119,7 @@
             "assets": "게임 에셋",
             "game_mod": "게임 모드",
             "physical_game": "실물 게임",
-            "soundtrack": "사운드트랙",
+            "soundtrack": "앨범 & 사운드트랙",
             "other": "기타",
             "tool": "도구",
             "comic": "만화",
@@ -354,7 +355,7 @@
         "meta_description": "itch, 인디 게임을 다운로드하고 즐기는 최고의 방법. 데스크탑에서 무료 게임들을 다운로드 받고 라이브러리를 관리하세요. Windows, macOS, 그리고 Linux에서 사용 가능."
     },
     "game": {
-        "empty_page": "여기엔 아무것도 없어 보이네요...",
+        "empty_page": "이곳엔 아무것도 없는 것 같네요…",
         "more_information": "추가 정보",
         "install_instructions": "설치 방법",
         "download_header": "다운로드",
@@ -381,12 +382,12 @@
         "your_purchase_comes_with_a_steam_key": "구매하시면 Steam 키도 드립니다.",
         "steam_key_bundle_disclaimer": "(참고: {{bundle_title}}에는 Steam 키가 포함되지 않음)",
         "donate_button": "{{noun}}을(를) 후원하기",
-        "empty_page_no_uploads": "이 창작자는 아직 아무것도 올리지 않았습니다...",
+        "empty_page_no_uploads": "이 창작자는 아직 아무것도 올리지 않았습니다…",
         "comments": {
             "comments_header": "댓글",
             "leave_a_comment_header": "댓글 남기기",
             "leave_a_comment": "댓글 남기기",
-            "click_to_leave_a_comment": "댓글을 남기려면 클릭하세요...",
+            "click_to_leave_a_comment": "댓글을 남기려면 클릭하세요…",
             "log_in_to_leave_comment": "댓글을 다시려면 <a>itch.io에 로그인</a> 해주세요.",
             "post_comment": "댓글 달기",
             "write_your_comment": "댓글 작성…"
@@ -405,7 +406,7 @@
             "genre": "장르",
             "made_with_tools": "제작 도구",
             "tags": "태그",
-            "code_license": "라이선스",
+            "code_license": "코드 라이선스",
             "asset_license": "애셋 라이선스",
             "average_session_duration": "평균 세션",
             "player_count": "플레이어 수",
@@ -478,7 +479,8 @@
                 "you_rated_this_game": "게임을 평가함",
                 "now_accepting_ratings": "이 잼은 참가자에 대한 평가를 받고 있습니다.",
                 "rating_instructions": "아래 링크를 통해서 잼 제출작의 페이지에 들어가서 평가하고 댓글을 달아주세요."
-            }
+            },
+            "included_in_bundle_title": "{{bundle_title}}에 포함됨"
         },
         "after_download": {
             "share_this_project": "프로젝트 공유하기",
@@ -563,7 +565,7 @@
             "delete_topic": "주제 삭제",
             "delete": "삭제",
             "report": "신고",
-            "ban": "차단...",
+            "ban": "차단…",
             "view_more_in_thread": "스레드에서 더 보기",
             "vote_up": "공감",
             "vote_down": "비공감",
@@ -609,7 +611,7 @@
             "new_flag": "신규",
             "archived_flag": "보관됨",
             "by_topic_author": "{{username}} 작성",
-            "view_this_communitys_rules": "커뮤니티 규칙을 확인해주세요..."
+            "view_this_communitys_rules": "커뮤니티 규칙을 확인해주세요…"
         },
         "topic_list": {
             "views_count": "조회수 <s>{{count}}</s>",
@@ -642,7 +644,7 @@
         "your_email_address": "내 이메일 주소",
         "email_address_description": "결제 영수증이 이곳으로 보내집니다",
         "gift_email_instructions": "결제 이후 이메일을 통해 선물할 수 있습니다",
-        "i_already_paid_for_this": "이미 구매했습니다...",
+        "i_already_paid_for_this": "이미 구매했습니다…",
         "included_files": "포함 파일",
         "agree_to_terms": "결제하면 itch.io의 <1>이용약관</1>과 <2> 개인정보 보호방침</2>에 동의하는 것으로 간주합니다.",
         "this_purchase_is_a_gift": "이 구매는 선물임",
@@ -667,7 +669,7 @@
         "pending_invitation": "이 모음집의 기여자 초대 요청이 보류중입니다. <a>초대 보기</a>",
         "a_collection_by_author": "{{author}}의 모음집",
         "page_title": "{{collection_title}} - {{author}}의 콜랙션",
-        "remove_item_button": "제거...",
+        "remove_item_button": "제거…",
         "add_a_blurb": "광고 추가",
         "edit_blurb": "광고 편집",
         "blurb_author_says": "{{author}}의 말",
@@ -720,7 +722,15 @@
         "page_title": "태그순",
         "find_tag": "태그 찾기",
         "commonly_tagged_with": "자주 사용되는 태그",
-        "no_description_yet": "설명 없음"
+        "no_description_yet": "설명 없음",
+        "all_tags": "모든 태그",
+        "types": {
+            "tool": "도구",
+            "event": "이벤트",
+            "platform": "플랫폼",
+            "style": "스타일",
+            "genre": "장르"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>제작자</1> {{author}}",
@@ -795,7 +805,11 @@
             "password": "비밀번호",
             "new_password": "새 비밀번호",
             "password_again": "비밀번호 재입력",
-            "new_password_again": "새 비밀번호 재입력"
+            "new_password_again": "새 비밀번호 재입력",
+            "please_set_a_password_on_your_account": "강화된 보안 및 타사 서비스의 사용 없이 계정에 접근할 수 있도록 비밀번호를 설정해주세요.",
+            "your_account_currently_doesnt_have_a_password": "현재 계정에는 비밀번호가 없습니다.",
+            "no_password_service_name": "현재 계정은 {{service_name}}(으)로 가입했기 때문에 비밀번호가 설정되어 있지 않습니다.",
+            "updating_your_password_will_cause": "비밀번호를 업데이트하면 다른 브라우저에서의 세션에서 로그아웃됩니다. 모든 <a>OAuth 연결 및 API 키</a>는 활성화된 상태를 유지합니다."
         },
         "email_addresses": {
             "primary_email_header": "이메일",
@@ -821,6 +835,15 @@
                 "email_sent_status": "이메일 전송됨",
                 "detach_email": "이메일 제거"
             }
+        },
+        "two_factor_auth": {
+            "status_off": "꺼짐",
+            "status_on": "켜짐",
+            "tfa_status": "상태: {{tfa_status}}",
+            "page_description": "2단계 인증은 비밀번호가 도난당해도 승인되지 않은 접근으로부터 계정에 대한 접근을 차단하는 추가적인 보안 단계입니다.",
+            "page_title": "2단계 인증",
+            "configure_twofactor_authentication": "2단계 인증 설정하기",
+            "learn_more_about_twofactor_authentication": "2단계 인증에 대해서 자세히 알아보기"
         }
     },
     "stripe_checkout": {
@@ -1044,7 +1067,7 @@
         },
         "screenshots": {
             "empty_message": "업로드 된 스크린샷이 아직 없습니다",
-            "loading_more": "더 많은 스크린샷을 불러오는 중..."
+            "loading_more": "더 많은 스크린샷을 불러오는 중…"
         }
     },
     "dashboard": {
@@ -1210,6 +1233,9 @@
             "rewards": "보상",
             "admins": "관리자",
             "more": "더보기"
+        },
+        "blog_posts": {
+            "new_post": "새 포스트"
         }
     },
     "add_to_collection": {
@@ -1280,7 +1306,8 @@
         "event": {
             "collection_summary": "{{count}}개가 있는 모음집입니다.",
             "collection_added_count": "{{count}}개가 추가되었습니다."
-        }
+        },
+        "filter_posts_tab": "포스트"
     },
     "library": {
         "page_title": "내 라이브러리",
@@ -1320,6 +1347,29 @@
     },
     "notifications": {
         "page_title": "알림",
-        "unseen_label": "신규"
+        "unseen_label": "신규",
+        "filter_follows": "팔로우",
+        "filter_payments": "결제수단",
+        "filter_replies": "답장",
+        "filter_all": "모두",
+        "filter": "필터"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "{{account_name}} 계정의 새로운 비밀번호를 설정해주세요.",
+        "link_sent": "계정의 첫번째 주소로 비밀번호를 초기화할 수 있는 링크를 전송했습니다.",
+        "enter_your_email": "가입할 때 사용한 이메일을 입력하면 비밀번호를 초기화할 수 있는 이메일을 보내드립니다.",
+        "reset_password": "비밀번호 초기화"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "다른 계정으로 로그인하고 있는 동안에는 이메일 계정을 인증받을 수 없습니다",
+            "your_email_address_has_been_verified": "이메일 주소가 인증되었습니다",
+            "we_were_unable_to_verify_your_email_address": "이메일 주소를 인증할 수 없습니다",
+            "submit_button": "이메일 확인하기",
+            "page_title": "이메일 주소 인증하기",
+            "you_will_automatically_be_logged_in": "이메일 계정을 인증하면 자동으로 계정에 로그인됩니다.",
+            "link_purchases": "이전에 이메일 계정으로 무언가를 구매한 적이 있다면 자동으로 계정에 추가됩니다.",
+            "confirm_verification": "{{account}} 계정의 {{email_address}} 이메일을 확인해주세요. itch.io의 많은 기능들은 이메일 인증을 필수로 요구합니다."
+        }
     }
 }
