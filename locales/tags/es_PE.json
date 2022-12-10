@@ -1,1 +1,20 @@
-{}
+{
+    "tags": {
+        "art-book": "Libro de Arte",
+        "arcade": "Arcade",
+        "anime": "Anime",
+        "animation": "Animacion",
+        "animals": "Animales",
+        "aliens": "Aliens",
+        "adventure": "Aventura",
+        "adult": "Adulto",
+        "action-rpg": "Accion RPG",
+        "action-adventure": "Accion-Aventura",
+        "action": "Accion",
+        "8-bit": "8-Bit",
+        "4x": "4X",
+        "3d-platformer": "Plataforma 3D",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
