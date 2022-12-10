@@ -281,6 +281,17 @@
         "audio": "오디오",
         "asset-pack": "에셋 팩",
         "animation": "애니메이션",
-        "adult": "성인"
+        "adult": "성인",
+        "folklore": "Folklore",
+        "fbx": "FBX",
+        "eroge": "에로게",
+        "endless-runner": "끝없는 달리기",
+        "drawing": "드로잉",
+        "ciphers": "암호",
+        "celtic": "켈트",
+        "brushes": "브러쉬",
+        "bara": "장미",
+        "backgrounds": "배경",
+        "augmented-reality": "증강현실"
     }
 }
