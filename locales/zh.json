@@ -558,10 +558,10 @@
             "like": "点赞",
             "reply": "回复",
             "edits_count": "（已被编辑{{count}}次）",
+            "edits_count_plural": "（已被编辑{{count}}次）",
             "edit_blocks": "编辑块",
             "post_from_blocked_account": "从被禁止的帐户发布",
-            "deleted_post": "已删除的帖子",
-            "edits_count_plural": "（已被编辑{{count}}次）"
+            "deleted_post": "已删除的帖子"
         },
         "topic": {
             "create_related_topic": "如果您有要发表的相关内容，可以考虑<a>在 {{category_name}} 中创建一个主题</a>。",
@@ -903,6 +903,7 @@
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
             "results_header": "结果",
             "ranked_from_count": "依据<s>{{count}}个评分</s>排名。",
+            "ranked_from_count_plural": "依据<s>{{count}}个评分</s>排名。",
             "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
             "run_project": "运行项目",
             "play_game": "玩游戏",
@@ -922,8 +923,7 @@
             "results_table_score": "得分",
             "results_table_votes": "投票",
             "results_table_rank": "名次",
-            "results_table_criteria": "标准",
-            "ranked_from_count_plural": "依据<s>{{count}}个评分</s>排名。"
+            "results_table_criteria": "标准"
         },
         "results": {
             "submissions": {
@@ -1130,8 +1130,8 @@
             "reset_password": "重设密码",
             "please_set_a_password_on_your_account": "为了安全性和不通过第三方服务登录的能力，请设置一个密码。",
             "your_account_currently_doesnt_have_a_password": "您的帐号目前没有密码。",
-            "no_password_service_name": "因为您通过 {{service_name}} 注册了此账号，因此其目前没有密码。",
-            "updating_your_password_will_cause": "更改您的密码将导致其他浏览器会话被注销。已有的<a>OAuth 应用授权和 API 密钥</a>将保持可用状态。"
+            "no_password_service_name": "您通过 {{service_name}} 注册了此账号，因此其目前没有密码。",
+            "updating_your_password_will_cause": "更改您的密码将导致其他浏览器会话被注销。已有的 <a>OAuth 应用授权和 API 密钥</a>将保持可用状态。"
         },
         "profile": {
             "profile_description": "个人页面信息",
