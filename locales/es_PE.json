@@ -3,7 +3,18 @@
         "classifications": {
             "game_mod": "Mods del juego",
             "assets": "Activos del juego",
-            "game": "Juegos"
+            "game": "Juegos",
+            "book": "Libros",
+            "comic": "Historietas",
+            "tool": "Instrumentos",
+            "other": "Varios",
+            "soundtrack": "Álbumes y bandas sonoras",
+            "physical_game": "juegos fisicos"
+        },
+        "accessibility_features": {
+            "configurable_controls": "Controles configurables",
+            "subtitles": "subtítulos",
+            "colorblind": "Apto para daltónicos"
         }
     },
     "index": {
@@ -58,7 +69,9 @@
         "filtering_platform": "Filtrando todos los juegos para {{platform_name}}",
         "latest_featured_games": "Últimos juegos destacados",
         "people_to_follow_description": "Aqui hay algunas cuentas que deberias estar interesado en siguendo.<a>¿Por que seguir?</a>",
-        "view_all_on_sale": "Ver todo en venta"
+        "view_all_on_sale": "Ver todo en venta",
+        "meta_description": "itch.io es una forma sencilla de encontrar, descargar y distribuir juegos independientes en línea. Ya sea que sea un desarrollador que busca cargar su juego o simplemente alguien que busca algo nuevo para jugar, itch.io lo tiene cubierto.",
+        "get_the_app": "<s>¡Aproveche al máximo itch.io!</s> Instale y administre sus juegos con nuestra aplicación de escritorio"
     },
     "layout": {
         "user_menu": {
@@ -74,7 +87,10 @@
             "log_out": "Cerrar sesion",
             "account": "Cuenta",
             "create": "Crear",
-            "explore": "Explorar"
+            "explore": "Explorar",
+            "posts": "Publicaciones",
+            "feed": "Mi feed",
+            "host_game_jam": "Atasco del juego anfitrión"
         },
         "header": {
             "bundles": "Paquetes",
@@ -101,7 +117,9 @@
             "upload_game": "Subir Juego",
             "game_jams": "Jams De Juegos",
             "browse_games": "Explorar Juegos",
-            "browse": "Explorar"
+            "browse": "Explorar",
+            "feed": "Alimento",
+            "game_assets": "Activos"
         },
         "footer": {
             "cookies": "Cookies",
