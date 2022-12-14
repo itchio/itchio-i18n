@@ -112,7 +112,8 @@
             "submit": "ثبت",
             "optional": "اختیاری",
             "search": "جستجو",
-            "form_errors": "لطفا اطلاعاتی که وارد کردید را کنترل کنید"
+            "form_errors": "لطفا اطلاعاتی که وارد کردید را کنترل کنید",
+            "confirm": "تایید"
         },
         "page_number": "صفحه‌ی {{page_number}}",
         "follow_button": {
