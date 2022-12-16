@@ -266,9 +266,9 @@
         "boys-love": "عشق پسران",
         "asset-pack": "پکیج اقلام بازی سازی",
         "clicker": "کلیک کننده",
-        "characters": "شخصیت ها",
+        "characters": "شخصیت‌ها",
         "working-simulator": "شبیه ساز کار کردن",
-        "word-game": "بازی های جهانی",
+        "word-game": "بازی کلمات",
         "wizards": "جادوگر ها",
         "weapons": "سلاح ها",
         "vehicles": "وسیله نقلیه",
@@ -324,6 +324,7 @@
         "augmented-reality": "واقعیت افزوده",
         "audio": "صدا",
         "animation": "انیمیشن",
-        "adult": "بزرگ سال"
+        "adult": "بزرگ سال",
+        "wordle": "Wordle"
     }
 }
