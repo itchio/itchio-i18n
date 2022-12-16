@@ -26,7 +26,7 @@
         "board-game": "Jeu de plateau",
         "boring": "Ennuyeux",
         "boss-battle": "Bataille de boss",
-        "breakout": "Breakout",
+        "breakout": "Casse-briques",
         "bullet-hell": "Bullet Hell",
         "card-game": "Jeu de cartes",
         "casual": "Casual",
@@ -42,7 +42,7 @@
         "coming-of-age": "Passage de cap",
         "controller": "Manette",
         "cozy": "Confortable",
-        "crafting": "Crafting",
+        "crafting": "Construction",
         "creative": "Créatif",
         "creepy": "Terrifiant",
         "crime": "Crime",
@@ -261,6 +261,12 @@
         "twin-stick-shooter": "Shooter à deux sticks",
         "score-attack": "Course au score",
         "visualization": "Visualisation",
-        "tycoon": "Tycoon"
+        "tycoon": "Tycoon",
+        "flying": "Vol",
+        "fishing": "Pêche",
+        "emulator": "Émulateur",
+        "dungeons-and-dragons": "Donjons et Dragons",
+        "drawing": "Dessin",
+        "cats": "Chats"
     }
 }
