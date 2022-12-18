@@ -55,7 +55,8 @@
             "recommendations": "Recomendações",
             "library": "Minha biblioteca",
             "feed": "Meu feed",
-            "account_menu_tooltip": "Menu da Conta"
+            "account_menu_tooltip": "Menu da Conta",
+            "posts": "Publicações"
         }
     },
     "index": {
@@ -877,8 +878,8 @@
         "name_as_it_appears_on_card": "Como aparece no cartão"
     },
     "game_download": {
-        "share_and_follow": "Compartilhe e siga",
-        "social_share_message_download": "Acabei de baixar {{title}} de {{username}}",
+        "share_and_follow": "Compartilhar & seguir",
+        "social_share_message_download": "Acabei de baixar {{title}} por {{username}}",
         "or_share_on": "ou compartilhe em",
         "trouble_downloading_link": "Downloads não estão começando?",
         "install_instructions_intro": "Instruções de download e instalação de {{username}}:",
@@ -1246,6 +1247,9 @@
             "rewards": "Recompensas",
             "admins": "Administradores",
             "more": "Mais"
+        },
+        "blog_posts": {
+            "new_post": "Nova publicação"
         }
     },
     "add_to_collection": {
@@ -1320,7 +1324,8 @@
             "collection_summary_plural": "Uma coleção com {{count}} itens.",
             "collection_added_count": "Adicionou {{count}} item.",
             "collection_added_count_plural": "Adicionou {{count}} itens."
-        }
+        },
+        "filter_posts_tab": "Publicações"
     },
     "library": {
         "page_title": "Minha Biblioteca",
@@ -1364,7 +1369,7 @@
     },
     "user": {
         "verify_email": {
-            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "voce não pode verificar um indereço de e-mail quando logado em uma conta diferente"
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Você não pode verificar um endereço de email enquanto conectado em outra conta"
         }
     }
 }
