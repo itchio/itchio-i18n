@@ -57,7 +57,8 @@
             "recommendations": "Rekomendacje",
             "library": "Moja biblioteka",
             "feed": "Moja tablica",
-            "account_menu_tooltip": "Zarządzanie kontem"
+            "account_menu_tooltip": "Zarządzanie kontem",
+            "posts": "Posty"
         }
     },
     "index": {
@@ -1274,6 +1275,9 @@
             "rewards": "Nagrody",
             "admins": "Administratorzy",
             "more": "Więcej"
+        },
+        "blog_posts": {
+            "new_post": "Nowy post"
         }
     },
     "add_to_collection": {
@@ -1352,7 +1356,8 @@
             "collection_added_count_2": "Dodano {{count}} elementów."
         },
         "my_feed_tab": "Mój kanał",
-        "global_feed_tab": "Globalny kanał"
+        "global_feed_tab": "Globalny kanał",
+        "filter_posts_tab": "Posty"
     },
     "library": {
         "page_title": "Moja Biblioteka",
@@ -1397,7 +1402,7 @@
         "filter_replies": "Odpowiedzi",
         "filter_all": "Wszystkie",
         "filter": "Filtr",
-        "filter_follows": "Subskrypcje"
+        "filter_follows": "Subskrybenci"
     },
     "user": {
         "verify_email": {
