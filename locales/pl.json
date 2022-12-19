@@ -1396,7 +1396,8 @@
         "filter_payments": "Płatności",
         "filter_replies": "Odpowiedzi",
         "filter_all": "Wszystkie",
-        "filter": "Filtr"
+        "filter": "Filtr",
+        "filter_follows": "Subskrypcje"
     },
     "user": {
         "verify_email": {
