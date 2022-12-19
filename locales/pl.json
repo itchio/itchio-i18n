@@ -1392,7 +1392,11 @@
     },
     "notifications": {
         "unseen_label": "Nowe",
-        "page_title": "Powiadomienia"
+        "page_title": "Powiadomienia",
+        "filter_payments": "Płatności",
+        "filter_replies": "Odpowiedzi",
+        "filter_all": "Wszystkie",
+        "filter": "Filtr"
     },
     "user": {
         "verify_email": {
