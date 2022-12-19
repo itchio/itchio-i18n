@@ -240,7 +240,7 @@
     "blog": {
         "all_posts": "Todas as publicações",
         "updates": "Atualizações",
-        "empty_message": "Não parece haver posts aqui",
+        "empty_message": "Parece que não há publicações aqui",
         "tag_filter": "Filtrando para {{tag}}. <a> Limpar tag </a>",
         "digest": "Resumo"
     },
@@ -392,7 +392,7 @@
             "leave_a_comment": "Deixe um comentário",
             "click_to_leave_a_comment": "Clique para enviar um comentário…",
             "log_in_to_leave_comment": "<a>Faça o login no itch.io</a> para deixar um comentário.",
-            "post_comment": "Postar comentário",
+            "post_comment": "Publicar comentário",
             "write_your_comment": "Escreva seu comentário…"
         },
         "info_panel": {
@@ -423,13 +423,13 @@
         },
         "community_header": "Comunidade",
         "join_the_community": "Junte-se à comunidade",
-        "community_view_all_posts": "Ver todas as postagens",
+        "community_view_all_posts": "Ver todas as publicações",
         "community_post_author": "por {{username}}",
-        "community_posts_count": "{{count}} postagem",
-        "community_posts_count_plural": "{{count}} postagens",
-        "post_a_new_topic": "Postar um novo tópico",
-        "post_first_topic": "Postar primeiro tópico",
-        "community_sticky": "Post fixo",
+        "community_posts_count": "{{count}} publicação",
+        "community_posts_count_plural": "{{count}} publicações",
+        "post_a_new_topic": "Publicar novo tópico",
+        "post_first_topic": "Publicar primeiro tópico",
+        "community_sticky": "Publicação Fixada",
         "upload_list": {
             "preorder": "Pré-venda",
             "download": "Baixar",
@@ -517,7 +517,7 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Este tópico está arquivado. Não está listado e não pode mais receber postagens.",
+            "topic_is_archived": "Este tópico está arquivado. Não está listado e não pode mais receber publicações.",
             "reply": "Responder",
             "log_in_to_reply": "Faça login para responder",
             "unlisted_topic_notice": "<s>Um moderador tirou este tópico das listagem.</s> Ele não está visível na listagem de tópicos, mas você ainda pode responder e fazer edições.",
@@ -531,7 +531,7 @@
             "unsubscribe": "Cancelar inscrição",
             "subscribe": "Se inscrever",
             "return_to_topic_list": "Retornar à lista de tópicos",
-            "sticky": "Post fixo",
+            "sticky": "Publicação Fixada",
             "locked": "Trancado",
             "moderation": "Moderação",
             "replies_count": "Respostas: {{count}}",
@@ -543,46 +543,46 @@
             "last_page": "Última página",
             "this_topic_is_locked": "Este tópico está trancado",
             "this_topic_was_locked_by_username": "Este tópico foi trancado por {{username}}",
-            "create_related_topic": "Se você tem algo relacionado à postagem, considere <a> criar um tópico em {{category_name}}</a>.",
+            "create_related_topic": "Se tiver algo relacionado para publicar, considere <a>criar um tópico em {{category_name}}</a>.",
             "topic_is_autoarchived": "Este tópico foi arquivado automaticamente e não pode mais ser postado porque não há postagens há algum tempo."
         },
         "post_list": {
-            "deleted_post": "Postagem excluída",
-            "post_from_blocked_account": "Post de conta bloqueada",
+            "deleted_post": "Publicação excluída",
+            "post_from_blocked_account": "Publicação de uma conta bloqueada",
             "edit_blocks": "Editar bloqueios",
             "edits_count_plural": "({{count}} edições)",
             "edits_count": "({{count}} edição)",
             "reply": "Resposta",
-            "like": "Curti",
+            "like": "Curtir",
             "edit": "Editar",
             "delete_topic": "Excluir tópico",
             "delete": "Excluir",
             "report": "Denunciar",
-            "ban": "banir…",
+            "ban": "Banir…",
             "view_more_in_thread": "Ver mais no tópico",
-            "vote_up": "Gostei",
-            "vote_down": "Não gostei",
+            "vote_up": "Votar positivo",
+            "vote_down": "Votar negativo",
             "deleted_account": "Conta excluída",
             "suspended_account": "Conta suspensa",
             "pinned_reply": "Resposta Fixada",
             "pinned_post": "Publicação Fixada",
             "edited": "(editado)",
-            "post_from_suspended_account": "Postagem de uma conta suspensa"
+            "post_from_suspended_account": "Publicação de uma conta suspensa"
         },
         "post_form": {
-            "add_profile_image": "Adicione imagem de perfil",
-            "save": "Salve",
-            "post": "Postar",
-            "subscribe": "Se inscrever",
-            "subscribe_to_this_topic": "Se inscrever neste tópico",
-            "subscribe_description": "Receba notificações de novas respostas ao tópico",
+            "add_profile_image": "Adicionar imagem de perfil",
+            "save": "Salvar",
+            "post": "Publicar",
+            "subscribe": "Inscrever-se",
+            "subscribe_to_this_topic": "Inscrever-se neste tópico",
+            "subscribe_description": "Receber notificações de novas respostas ao tópico",
             "tag_header": "Tag",
             "remove_tag": "Remover tag",
-            "post_reply": "Postar resposta"
+            "post_reply": "Publicar resposta"
         },
         "new_topic": {
             "moderator_tools": "Ferramentas de moderador",
-            "sticky": "Post fixo",
+            "sticky": "Publicação Fixada",
             "locked": "Trancado",
             "moderation_options": "Opções",
             "i_agree_to_the_rules_above": "Eu concordo com as regras acima",
@@ -593,7 +593,7 @@
             "body": "Corpo",
             "topic_tag": "Tag",
             "your_moderators_are": "O itch.io não modera esses fóruns, seus moderadores são:",
-            "page_title": "Postar um novo tópico"
+            "page_title": "Publicar novo tópico"
         },
         "misc": {
             "new_topic_button": "Novo tópico"
@@ -611,7 +611,7 @@
                 "topics": "Tópicos"
             },
             "rules_header": "Regras",
-            "recent_posts_header": "Postagens recentes",
+            "recent_posts_header": "Publicações recentes",
             "list_header_last_topic": "Último tópico",
             "new_flag": "Novo",
             "archived_flag": "Arquivado",
@@ -621,7 +621,7 @@
         "topic_list": {
             "views_count": "<s>{{count}}</s> visualização",
             "views_count_plural": "<s>{{count}}</s> visualizações",
-            "no_posts_yet": "Nenhuma postagem ainda",
+            "no_posts_yet": "Nenhuma publicação ainda",
             "replies_count": "<s>{{count}}</s> resposta",
             "replies_count_plural": "<s>{{count}}</s> respostas",
             "started_by_author": "iniciado por {{topic_author}}",
@@ -629,8 +629,8 @@
             "sticky_flag": "Fixo",
             "locked_flag": "Trancado",
             "list_header_topic_title": "Tópico",
-            "list_header_last_post": "Última postagem",
-            "no_replies_yet": "Sem respostas ainda"
+            "list_header_last_post": "Última publicação",
+            "no_replies_yet": "Nenhuma resposta ainda"
         }
     },
     "buy_form": {
@@ -1044,8 +1044,8 @@
             "view_project_page": "Ver página do projeto",
             "comments": {
                 "leave_a_comment_header": "Deixar um comentário",
-                "post_comment": "Postar comentário",
-                "empty_message": "Ninguém postou comentários ainda"
+                "post_comment": "Publicar comentário",
+                "empty_message": "Ninguém publicou comentários ainda"
             },
             "link_to_itchio_page": "Página do itch.io de {{game_title}}",
             "downloads": "Downloads",
@@ -1161,7 +1161,7 @@
             "add_external_file_button": "Adicionar arquivo externo",
             "file_size_limit": "Limite de tamanho do arquivo: {{filesize}}. <a>Entre em contato</a> se precisar de mais espaço",
             "content_guidelines_header": "Certifique-se de que todos possam encontrar sua página",
-            "content_guidelines_info": "Revise nossas <a>diretrizes de qualidade</a> antes de postar seu projeto",
+            "content_guidelines_info": "Revise nossas <a>diretrizes de qualidade</a> antes de publicar o seu projeto",
             "payment_warning_header": "Você não tem pagamento configurado",
             "payment_warning_info": "Se você definir um preço mínimo acima de 0, ninguém poderá fazer o download do seu projeto sem pagar. <a>Editar conta</a>",
             "cover_uploader": {
