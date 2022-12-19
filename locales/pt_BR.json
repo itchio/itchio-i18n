@@ -196,7 +196,7 @@
         },
         "pager": {
             "next_page": "Próxima página",
-            "prev": "Voltar",
+            "prev": "Anterior",
             "next": "Próxima",
             "current_page_of_total": "Página {{current_page}} de {{total_pages}}",
             "previous_page": "Página anterior",
@@ -259,7 +259,7 @@
         "create_a_new_account": "Criar uma nova conta",
         "intent": {
             "community": "Você precisará fazer login para participar das comunidades no itch.io. Criar uma conta é gratuito e leva apenas alguns instantes.",
-            "comment": "Você precisará de uma conta no itch.io antes de poder deixar um comentário.",
+            "comment": "Você precisa de uma conta na itch.io para comentar.",
             "rate_game": "Você precisará de uma conta no itch.io antes de poder classificar um jogo.",
             "follow": "Você precisará de uma conta no itch.io antes de seguir alguém.",
             "follow_username": "Você precisará de uma conta no itch.io antes de poder seguir <1> {{username}} </1>.",
