@@ -259,7 +259,7 @@
         "create_a_new_account": "Criar uma nova conta",
         "intent": {
             "community": "Você precisará fazer login para participar das comunidades no itch.io. Criar uma conta é gratuito e leva apenas alguns instantes.",
-            "comment": "Você precisa de uma conta na itch.io para comentar.",
+            "comment": "Você precisa de uma conta no itch.io para comentar.",
             "rate_game": "Você precisará de uma conta no itch.io antes de poder classificar um jogo.",
             "follow": "Você precisará de uma conta no itch.io antes de seguir alguém.",
             "follow_username": "Você precisará de uma conta no itch.io antes de poder seguir <1> {{username}} </1>.",
