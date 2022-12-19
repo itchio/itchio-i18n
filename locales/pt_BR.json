@@ -14,12 +14,12 @@
         "header": {
             "browse": "Navegar",
             "browse_games": "Ver Jogos",
-            "game_jams": "Concursos Jogos",
+            "game_jams": "Game Jams",
             "upload_game": "Carregar Jogo",
-            "devlogs": "Logs do desenvolvedor",
+            "devlogs": "Developer Logs",
             "community": "Comunidade",
             "search_placeholder": "Procure por jogos ou criadores",
-            "search": "Procura",
+            "search": "Procurar",
             "log_in": "Entrar",
             "register": "Registrar",
             "no_notifications": "Sem novas notificações",
@@ -35,8 +35,8 @@
             "feed_unseen_count": "{{count}} novo",
             "feed_unseen_count_plural": "{{count}} novos",
             "feed": "Novidades",
-            "dashboard": "Painel",
-            "jams": "Concursos",
+            "dashboard": "Dashboard",
+            "jams": "Game Jams",
             "notifications_count": "{{count}} notificação",
             "notifications_count_plural": "{{count}} notificações"
         },
@@ -48,10 +48,10 @@
             "settings": "Configurações",
             "view_profile": "Ver perfil",
             "host_game_jam": "Criar game jam",
-            "sales_bundles": "Vendas e pacotes",
+            "sales_bundles": "Promoções e pacotes",
             "new_project": "Carregar novo projeto",
-            "dashboard": "Painel de controle",
-            "game_jams": "Concursos de Jogos",
+            "dashboard": "Dashboard",
+            "game_jams": "Game Jams",
             "recommendations": "Recomendações",
             "library": "Minha biblioteca",
             "feed": "Meu feed",
@@ -66,16 +66,16 @@
         "download_app": "Baixar o app",
         "view_something_random": "Ver algo aleatório",
         "view_all_games": "Ver todos os jogos",
-        "dont_see_anything_you_like": "Não vê nada que você gosta?",
+        "dont_see_anything_you_like": "Não encontrou nada do seu gosto?",
         "from_the_blog": "Do blog",
         "random_game": "Jogo aleatório",
         "get_the_app": "<s>Tire o máximo proveito do itch.io!</s> Instale e gerencie seus jogos com nosso aplicativo de desktop",
         "from_the_itchio_blog": "Do blog itch.io",
-        "view_all_blog_posts": "Ver todos atualizações",
-        "search_games_creators": "Pesquisar jogos e criadores",
+        "view_all_blog_posts": "Ver todas as atualizações",
+        "search_games_creators": "Procurar jogos e criadores",
         "browse_all_tags": "Navegar por todas as tags",
         "on_sale": "Em Promoção",
-        "free_games": "Jogos grátis",
+        "free_games": "Jogos gratuitos",
         "top_sellers": "Mais vendidos",
         "with_demo": "Com demonstração",
         "view_all": "Ver todos",
@@ -85,22 +85,22 @@
         "view_more": "Ver mais",
         "featured_jams": "Destaque das jams",
         "view_all_jams": "Ver todas as jams",
-        "fresh_games_description": "Constantemente atualizando com os últimos jogos em itch.io",
+        "fresh_games_description": "Jogos que são constantemente atualizados no itch.io",
         "people_to_follow": "Pessoas Para Seguir",
         "view_all_games_on_sale": "Ver todos os jogos em promoção",
         "more_featured_games": "Mais Jogos em Destaque",
         "game_dev_on_sale": "Recursos Game Dev <1>Em Promoção</1>",
         "view_all_on_sale": "Ver todos em promoção",
         "people_to_follow_description": "Aqui estão algumas contas que você pode estar interessado em seguir. <a>Por que seguir?</a>",
-        "latest_featured_games": "Últimos Jogos em Destaque",
+        "latest_featured_games": "Jogos em Destaque mais Recentes",
         "filtering_platform": "Filtrando todos os jogos para {{platform_name}}",
         "view_all_platforms": "Ver todas as plataformas",
         "browse_content_type": "Navegar {{content_type}}",
         "nav": {
             "all_games": "Todos os Jogos",
             "bundles": "Pacotes",
-            "game_jams": "Concursos de Jogos",
-            "devlogs": "Logs de Devs",
+            "game_jams": "Game Jams",
+            "devlogs": "Developer Logs",
             "community": "Comunidade"
         },
         "intro": "<s>itch.io</s> é uma maneira simples de encontrar e compartilhar jogos indie online gratuitamente.",
@@ -110,7 +110,7 @@
         "meta_description": "itch.io é uma maneira simples de encontrar, baixar e distribuir jogos indie online. Quer seja um desenvolvedor a tentar carregar o seu jogo ou apenas alguém à procura de algo novo para jogar, o itch.io tem tudo o que você precisa.",
         "to_follow": {
             "empty_results": "Não temos mais recomendações agora. Volte mais tarde",
-            "refresh_button": "Atualize para mais...",
+            "refresh_button": "Atualize para mais",
             "dismiss_tooltip": "Não sugerir mais",
             "created_projects": "Criou {{project_list}}"
         }
@@ -305,7 +305,7 @@
         "page_header": "Crie uma página personalizada para distribuir ou vender seus jogos indie",
         "product_summary1": "<s>itch.io</s> é uma maneira simples de distribuir seus jogos indie online gratuitamente. Envie seus arquivos e capturas de tela do jogo para um só lugar. Crie uma página personalizada onde o seu jogo é o foco.",
         "product_summary2": "Você pode até definir um preço mínimo para o seu jogo, dando aos fãs a oportunidade de pagar o que eles querem pelo seu jogo.",
-        "my_dashboard": "Meu painel",
+        "my_dashboard": "Meu dashboard",
         "upload_a_new_game": "Enviar um novo jogo",
         "account_faq_cta": "<1>Crie uma conta agora</1> ou <2>Leia o FAQ</2>",
         "upload_your_indie_game": "Envie Seu Jogo Indie",
@@ -319,7 +319,7 @@
         "learn_more_about": "Mais informações sobre:",
         "share_message": "itch.io é uma maneira simples de distribuir seus jogos indie online gratuitamente.",
         "create_account_or_login": "<1>Crie uma conta</1> <em>ou</em> <2> Faça o login </2>",
-        "upload_or_dashboard": "<1>Envie um novo jogo</1> <em>ou</em> <2>Vá para o painel</2>",
+        "upload_or_dashboard": "<1>Carregar novo jogo</1> <em>ou</em> <2>Ir para dashboard</2>",
         "design_your_games_page_description": "Crie uma página personalizada onde as pessoas compram ou baixam seu jogo. Você escolhe as cores, fontes, imagens e vídeos. Porque é a página do seu jogo, você não encontrará nada nela que você não tenha colocado lá.",
         "track_your_game_description": "Acompanhe como as pessoas estão visualizando seu jogo com análises detalhadas sobre visualizações, downloads e compras. Quer fazer uma promoção? Gere chaves de download para dar acesso ao seu jogo."
     },
@@ -329,7 +329,7 @@
         "published_count_plural": "{{count}} projetos",
         "view_all_tags": "Ver todas as tags",
         "browse_all_games": "Ver todos os jogos",
-        "search_results_for_query": "Resultados de pesquisa por '{{query}}'"
+        "search_results_for_query": "Resultados da pesquisa por '{{query}}'"
     },
     "app": {
         "open_source": "Código aberto",
@@ -358,7 +358,7 @@
         "meta_description": "itch, a melhor maneira de baixar e jogar jogos indie. Baixe jogos grátis e gerencie sua biblioteca a partir de sua área de trabalho. Agora disponível para Windows, macOS e Linux."
     },
     "game": {
-        "empty_page": "Não parece haver nada aqui…",
+        "empty_page": "Parece que não tem nada aqui…",
         "more_information": "Mais Informações",
         "install_instructions": "Instruções de instalação",
         "download_header": "Baixar",
@@ -385,12 +385,12 @@
         "your_purchase_comes_with_a_steam_key": "Sua compra vem com uma chave Steam.",
         "steam_key_bundle_disclaimer": "(Nota: chave do Steam não incluída no {{bundle_title}})",
         "donate_button": "Apoie este {{noun}}",
-        "empty_page_no_uploads": "O criador não enviou nada ainda...",
+        "empty_page_no_uploads": "Nada carregado ainda…",
         "comments": {
             "comments_header": "Comentários",
             "leave_a_comment_header": "Deixe um comentário",
             "leave_a_comment": "Deixe um comentário",
-            "click_to_leave_a_comment": "clique para enviar um comentario",
+            "click_to_leave_a_comment": "Clique para enviar um comentário…",
             "log_in_to_leave_comment": "<a>Faça o login no itch.io</a> para deixar um comentário.",
             "post_comment": "Postar comentário",
             "write_your_comment": "Escreva seu comentário…"
@@ -450,7 +450,7 @@
             "add_to_collection_short": "Coleção",
             "comments": "Comentários",
             "community": "Comunidade",
-            "devlog": "Log de Dev",
+            "devlog": "Devlog",
             "edit_your_rating": "Edite Sua Avaliação",
             "edit_rating": "Editar Avaliação",
             "rate": "Avaliar",
@@ -604,7 +604,7 @@
             "create_first_topic_button": "Crie o primeiro tópico",
             "empty_message": "Não há tópicos",
             "there_arent_any_topics_yet": "Ainda não há tópicos",
-            "search_community_label": "Pesquise a comunidade",
+            "search_community_label": "Pesquisar comunidade",
             "subscribe_to_new_topics": "Inscrever-se para novos tópicos",
             "unsubscribe_from_topics": "Cancelar inscrição",
             "stats": {
@@ -616,7 +616,7 @@
             "new_flag": "Novo",
             "archived_flag": "Arquivado",
             "by_topic_author": "por {{username}}",
-            "view_this_communitys_rules": "Veja as regras desta comunidade…"
+            "view_this_communitys_rules": "Ver regras desta comunidade…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> visualização",
@@ -735,7 +735,7 @@
             "tool": "Ferramentas",
             "event": "Eventos",
             "style": "estilos",
-            "genre": "generos"
+            "genre": "Gêneros"
         },
         "all_tags": "todas as tags"
     },
@@ -797,7 +797,7 @@
             "default_language_option": "Padrão (Definido para Inglês durante idiomas beta)",
             "content": "Conteúdo",
             "content_description": "Como o conteúdo do itch.io é mostrado para você",
-            "show_adult_content": "Mostrar conteúdo marcado como adulto em pesquisa e navegação",
+            "show_adult_content": "Mostrar conteúdo marcado como adulto nas pesquisas e navegações",
             "disable_animated_gifs": "Desativar gifs animados",
             "disable_autoloading_next_page_when_browsing": "Desativar o carregamento automático da próxima página ao navegar",
             "click_to_load_games": "Exigir um clique para executar incorporações de jogos em HTML5",
@@ -847,7 +847,10 @@
             "learn_more_about_twofactor_authentication": "mais informaçoes sobre a autenticação de duas etapas",
             "configure_twofactor_authentication": "configurar a autenticação de duas etapas",
             "page_title": "autenticação de duas etapas",
-            "page_description": "a autentitação de duas etapas é uma segurança extra a sua contaque ajuda a evitar o aceceso de terceiros em sua conta após o furto de sua senha."
+            "page_description": "a autentitação de duas etapas é uma segurança extra a sua contaque ajuda a evitar o aceceso de terceiros em sua conta após o furto de sua senha.",
+            "status_off": "Desativado",
+            "status_on": "Ativado",
+            "tfa_status": "Estado: {{tfa_status}}"
         }
     },
     "stripe_checkout": {
@@ -1081,7 +1084,7 @@
         },
         "screenshots": {
             "empty_message": "Não há screenshots enviadas ainda",
-            "loading_more": "Carregando mais screenshots..."
+            "loading_more": "Carregando mais capturas de tela…"
         }
     },
     "dashboard": {
@@ -1100,9 +1103,9 @@
             "payments_link": "Pagamentos",
             "analytics_link": "Dados",
             "payouts_link": "Saídas",
-            "sales_bundles_link": "Vendas e bundles",
-            "coop_bundles_link": "Bundles cooperativos",
-            "game_jams_link": "Concursos de Jogos"
+            "sales_bundles_link": "Vendas e pacotes",
+            "coop_bundles_link": "Pacotes cooperativos",
+            "game_jams_link": "Game Jams"
         },
         "create_new_project_button": "Criar um novo projecto",
         "project_list": {
@@ -1237,7 +1240,7 @@
         },
         "project_header": {
             "edit_project": "Editar projeto",
-            "devlog": "Logs de Dev",
+            "devlog": "Devlog",
             "metadata": "Metadados",
             "analytics": "Dados",
             "distribute": "Distribuir",
@@ -1295,7 +1298,7 @@
         "filter_everything_tab": "Tudo",
         "filter_new_projects_tab": "Novos projetos",
         "filter_collections_tab": "Coleções",
-        "filter_devlogs_tab": "Logs dos Desenvolvedores",
+        "filter_devlogs_tab": "Developer Logs",
         "filter_ratings_tab": "Avaliações",
         "latest_featured_games_header": "Últimos jogos em destaque",
         "featured_tags_header": "Tags em destaque",
@@ -1365,11 +1368,29 @@
     },
     "notifications": {
         "unseen_label": "Novo",
-        "page_title": "Notificações"
+        "page_title": "Notificações",
+        "filter_follows": "Seguidores",
+        "filter_payments": "Pagamentos",
+        "filter_replies": "Respostas",
+        "filter_all": "Todas",
+        "filter": "Filtro"
     },
     "user": {
         "verify_email": {
-            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Você não pode verificar um endereço de email enquanto conectado em outra conta"
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Você não pode verificar um endereço de email enquanto conectado em outra conta",
+            "your_email_address_has_been_verified": "O seu endereço de email foi verificado",
+            "we_were_unable_to_verify_your_email_address": "Não foi possível verificar o seu endereço de email",
+            "submit_button": "Confirmar verificação de email",
+            "page_title": "Verifique o seu endereço de email",
+            "you_will_automatically_be_logged_in": "A sua conta será automaticamente conectada depois de verificar o seu email.",
+            "link_purchases": "Se você já fez compras apenas com o seu endereço de email, elas serão automaticamente associadas à sua conta.",
+            "confirm_verification": "Por favor confirme o endereço de email {{email_address}} da conta {{account}}. É necessário verificar o seu email para ter acesso a várias funcionalidades no itch.io."
         }
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Por favor, introduza uma nova senha para a conta {{account_name}}.",
+        "link_sent": "Um link para redefinir a sua senha foi enviado para o endereço de email principal da sua conta.",
+        "enter_your_email": "Introduza o endereço de email pelo qual você se registrou para que enviemos um link para redefinir a sua senha.",
+        "reset_password": "Redefinir Senha"
     }
 }
