@@ -544,7 +544,7 @@
             "this_topic_is_locked": "Este tópico está trancado",
             "this_topic_was_locked_by_username": "Este tópico foi trancado por {{username}}",
             "create_related_topic": "Se tiver algo relacionado para publicar, considere <a>criar um tópico em {{category_name}}</a>.",
-            "topic_is_autoarchived": "Este tópico foi arquivado automaticamente e não pode mais ser postado porque não há postagens há algum tempo."
+            "topic_is_autoarchived": "Esse tópico foi auto-arquivado e não é mais possível publicar nele pois não houveram publicações em um tempo."
         },
         "post_list": {
             "deleted_post": "Publicação excluída",
