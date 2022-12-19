@@ -118,7 +118,7 @@
     "misc": {
         "classifications": {
             "game": "Jogos",
-            "assets": "Assets de jogo",
+            "assets": "Recursos para jogos",
             "game_mod": "Mods de jogo",
             "physical_game": "Jogos físicos",
             "soundtrack": "Álbuns & Trilhas sonoras",
@@ -146,12 +146,12 @@
             "keyboard": "Teclado",
             "mouse": "Mouse",
             "gamepad": "Gamepad (qualquer)",
-            "joystick": "Controle de video game",
-            "touchscreen": "Tela sensível ao toque",
+            "joystick": "Joystick",
+            "touchscreen": "Touchscreen",
             "voice": "Controle por voz",
             "accelerometer": "Acelerômetro",
             "phone": "Celular",
-            "dance_pad": "Pad de Dança",
+            "dance_pad": "Tapete de dança",
             "midi_controller": "Controlador MIDI"
         },
         "durations": {
