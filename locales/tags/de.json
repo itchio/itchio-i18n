@@ -261,6 +261,10 @@
         "walking-simulator": "Laufsimulator",
         "war": "Krieg",
         "yaoi": "Yaoi",
-        "yuri": "Yuri"
+        "yuri": "Yuri",
+        "backgrounds": "Hintergründe",
+        "animation": "Animation",
+        "adult": "Erwachsene",
+        "fishing": "Angeln"
     }
 }
