@@ -378,6 +378,12 @@
         "bara": "Rose",
         "augmented-reality": "Augmented Reality",
         "audio": "Audio",
-        "asset-pack": "Ressourcenpaket"
+        "asset-pack": "Ressourcenpaket",
+        "family-friendly": "Familienfreundlich",
+        "emulator": "Emulator",
+        "effects": "Effekte",
+        "characters": "Charaktere",
+        "celtic": "Keltisch",
+        "cats": "Katzen"
     }
 }
