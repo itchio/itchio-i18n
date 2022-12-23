@@ -55,7 +55,8 @@
             "recommendations": "Recommandations",
             "library": "Ma bibliothèque",
             "feed": "Mon fil",
-            "account_menu_tooltip": "Menu Mon Compte"
+            "account_menu_tooltip": "Menu Mon Compte",
+            "posts": "Publications"
         }
     },
     "index": {
@@ -120,7 +121,7 @@
             "assets": "Assets",
             "game_mod": "Mods",
             "physical_game": "Jeux physiques",
-            "soundtrack": "Bandes sonores",
+            "soundtrack": "Bandes originales",
             "other": "Divers",
             "tool": "Outils",
             "comic": "Comics",
@@ -482,7 +483,8 @@
                 "you_rated_this_game": "Vous avez évalué ce jeu",
                 "now_accepting_ratings": "Les soumissions de cette jam sont en cours d’évaluation.",
                 "rating_instructions": "Notez et commentez cette soumission en visitant sa page à partir du lien ci-dessus."
-            }
+            },
+            "included_in_bundle_title": "Inclus dans {{bundle_title}}"
         },
         "after_download": {
             "check_popup_blocker": "Le téléchargement devrait démarrer dans un instant. Si ce n’est pas le cas, vérifiez votre bloqueur de popup.",
@@ -625,7 +627,7 @@
             "empty_message": "Il n’y a aucun sujet",
             "there_arent_any_topics_yet": "Il n’y a pas encore de sujets",
             "rules_header": "Règles",
-            "view_this_communitys_rules": "Voir les règles de cette communauté ..."
+            "view_this_communitys_rules": "Voir les règles de cette communauté …"
         },
         "misc": {
             "new_topic_button": "Nouveau sujet"
@@ -929,7 +931,7 @@
             "choose_stars": "Choisissez une note entre 1 et 5 étoiles."
         },
         "things_you_own_header": "Vos achats",
-        "redeem_button": "Réclamation",
+        "redeem_button": "Échanger",
         "private_toggle": "Privé"
     },
     "user_settings": {
@@ -1026,7 +1028,16 @@
             "set_password": "Définir un mot de passe",
             "current_password": "Mot de passe actuel",
             "password": "Mot de passe",
-            "new_password": "Nouveau mot de passe"
+            "new_password": "Nouveau mot de passe",
+            "please_set_a_password_on_your_account": "Veuillez définir un mot de passe pour votre compte pour renforcer sa sécurité et son accès sans aucun service tiers.",
+            "no_password_service_name": "Votre compte n'as pas de mot de passe car vous vous êtes enregistré avec {{service_name}}.",
+            "your_account_currently_doesnt_have_a_password": "Votre compte n'a pas de mot de passe."
+        },
+        "two_factor_auth": {
+            "configure_twofactor_authentication": "Configurer la double authentification",
+            "learn_more_about_twofactor_authentication": "En savoir plus à propos de la double authentification",
+            "status_off": "Désactivée",
+            "status_on": "Activé"
         }
     },
     "jam": {
@@ -1220,7 +1231,13 @@
         "page_title": "Tags populaires",
         "find_tag": "Trouver un tag",
         "no_description_yet": "Aucune description pour le moment",
-        "commonly_tagged_with": "Communément taggé avec"
+        "commonly_tagged_with": "Communément taggé avec",
+        "types": {
+            "tool": "Outils",
+            "platform": "Platformes",
+            "style": "Styles",
+            "genre": "Genres"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>par</1> {{author}}",
@@ -1341,6 +1358,29 @@
     },
     "notifications": {
         "unseen_label": "Nouveautés",
-        "page_title": "Notifications"
+        "page_title": "Notifications",
+        "filter_follows": "Abonnements",
+        "filter_payments": "Paiements",
+        "filter_replies": "Réponses",
+        "filter_all": "Tous",
+        "filter": "Filtres"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Veuillez saisir un nouveau mot de passe pour le compte {{account_name}}.",
+        "link_sent": "Un lien de réinitialisation du mot de passe a été envoyé à l'adresse principale de votre compte.",
+        "enter_your_email": "Entrez l'adresse e-mail avec laquelle vous vous êtes inscrit et nous vous enverrons un lien pour réinitialiser votre mot de passe.",
+        "reset_password": "Réinitialiser le mot de passe"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Vous ne pouvez pas vérifier une adresse e-mail lorsque vous êtes connecté à un compte différent",
+            "your_email_address_has_been_verified": "Votre adresse email à été vérifiée",
+            "we_were_unable_to_verify_your_email_address": "Nous n'avons pas pu vérifier votre adresse e-mail",
+            "submit_button": "Confirmez la vérification de l'adresse email",
+            "page_title": "Vérifier votre adresse email",
+            "you_will_automatically_be_logged_in": "Vous serez automatiquement connecté a votre compte après avoir vérifié votre adresse email.",
+            "link_purchases": "Si vous aviez faits des achats auparavant avec cette adresse email, ils seront automatiquement associés à ce compte.",
+            "confirm_verification": "Veuillez confirmez votre adresse email {{email_address}} pour le compte {{account}}. Il est nécessaire de vérifier l'adresse email pour faire certaines actions sur itch.io."
+        }
     }
 }
