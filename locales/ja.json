@@ -366,7 +366,8 @@
                 "accepting_ratiings": "このゲームジャムは現在参加作品の評価を受け付けております。<a>もっと詳しく</a>",
                 "now_accepting_ratings": "このゲームジャムは現在参加作品の評価を受け付けております。",
                 "rating_instructions": "上記のリンクから、ゲームジャム参加ページにてこの作品を評価してコメントしましょう。"
-            }
+            },
+            "included_in_bundle_title": "{{bundle_title}} に含まれています"
         },
         "download_now_button": "今すぐダウンロード",
         "preorder_button": "今すぐ予約",
@@ -677,7 +678,8 @@
             "subscribe_to_new_topics": "カテゴリーに登録",
             "unsubscribe_from_topics": "カテゴリーの登録を解除",
             "archived_flag": "アーカイブ",
-            "by_topic_author": "、投稿者：{{username}}"
+            "by_topic_author": "、投稿者：{{username}}",
+            "view_this_communitys_rules": "コミュニティのルールを確認する…"
         },
         "topic_list": {
             "views_count": "閲覧数：<s>{{count}}</s>",
@@ -887,7 +889,8 @@
             "new_password_again": "新しいパスワードを再入力",
             "no_password_service_name": "{{service_name}}.で登録されているため、現在、アカウントにパスワードはありません。",
             "updating_your_password_will_cause": "パスワードを更新すると全てのブラウザからログアウトされます。<a>OAuth の接続や APIキー</a> はアクティブのままになります。",
-            "please_set_a_password_on_your_account": "セキュリティを向上し、外部サービスを使わずにログインできるようにするために、パスワードを設定してください。"
+            "please_set_a_password_on_your_account": "セキュリティを向上し、外部サービスを使わずにログインできるようにするために、パスワードを設定してください。",
+            "your_account_currently_doesnt_have_a_password": "現在、アカウントにパスワードはありません。"
         },
         "email_addresses": {
             "primary_email_header": "主要メールアドレス",
@@ -915,7 +918,13 @@
             "additional_emails_summary": "itch.ioのアカウントに追加メールアドレスを関連付けることで、それらのメールアドレスのもとで購入したものにアクセス可能になります。例えば、PayPalに使っているメールアドレスが、普段使っているメールアドレスと異なる場合、PayPal用のアドレスを追加して利用することができます。"
         },
         "two_factor_auth": {
-            "page_description": "二段階認証はアカウントにセキュリテ層を追加します。パスワードが漏洩した時の不正アクセス防止に役立ちます。"
+            "page_description": "二段階認証はアカウントにセキュリテ層を追加します。パスワードが漏洩した時の不正アクセス防止に役立ちます。",
+            "learn_more_about_twofactor_authentication": "二段階認証とは？",
+            "status_off": "オフ",
+            "status_on": "オン",
+            "tfa_status": "ステータス: {{tfa_status}}",
+            "page_title": "二段階認証",
+            "configure_twofactor_authentication": "二段階認証を設定する"
         }
     },
     "dashboard": {
@@ -1092,8 +1101,13 @@
         "find_tag": "タグを検索",
         "commonly_tagged_with": "関連するタグ：",
         "types": {
-            "style": "スタイル"
-        }
+            "style": "スタイル",
+            "tool": "ツール",
+            "event": "イベント",
+            "platform": "プラットフォーム",
+            "genre": "ジャンル"
+        },
+        "all_tags": "すべてのタグ"
     },
     "jam": {
         "submission": {
@@ -1323,7 +1337,8 @@
         "filter_devlogs_tab": "開発ブログ",
         "filter_collections_tab": "コレクション",
         "filter_new_projects_tab": "新規プロジェクト",
-        "filter_own_activity_tab": "自分のアクティビティ"
+        "filter_own_activity_tab": "自分のアクティビティ",
+        "filter_posts_tab": "投稿"
     },
     "nags": {
         "unverified_email": {
@@ -1332,15 +1347,29 @@
     },
     "user_forgot_password": {
         "link_sent": "パスワードリセット用のリンクがアカウントの主要メールアドレスに送信されました。",
-        "enter_your_email": "登録時に使用したメールアドレスを入力してください、パスワードリセット用のリンクを送信します。"
+        "enter_your_email": "登録時に使用したメールアドレスを入力してください、パスワードリセット用のリンクを送信します。",
+        "please_provide_a_new_password_for_account": "アカウント {{account_name}} の新しいパスワードを入力してください。",
+        "reset_password": "パスワードのリセット"
     },
     "user": {
         "verify_email": {
-            "confirm_verification": "アカウント {{account}} のメールアドレス {{email_address}} の認証を完了してください。itch.ioには、メールアドレスの認証が必要な操作が数多くあります。"
+            "confirm_verification": "アカウント {{account}} のメールアドレス {{email_address}} の認証を完了してください。itch.ioには、メールアドレスの認証が必要な操作が数多くあります。",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "異なるアカウントにログインしているのでメールアドレスを認証できません",
+            "your_email_address_has_been_verified": "メールアドレスが認証されました",
+            "we_were_unable_to_verify_your_email_address": "メールアドレスを認証することができませんでした",
+            "submit_button": "メール認証の確認",
+            "page_title": "メールアドレスを認証する",
+            "you_will_automatically_be_logged_in": "メールアドレスの認証後、自動的にログインされます。",
+            "link_purchases": "過去にメールアドレスだけで購入したことがある場合は、アドレスは自動的にアカウントに関連付けられます。"
         }
     },
     "notifications": {
         "unseen_label": "新規",
-        "page_title": "通知"
+        "page_title": "通知",
+        "filter_follows": "フォロー",
+        "filter_payments": "支払い",
+        "filter_replies": "返信",
+        "filter_all": "すべて",
+        "filter": "フィルター"
     }
 }
