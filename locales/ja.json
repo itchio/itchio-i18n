@@ -53,7 +53,8 @@
             "explore": "探してみよう",
             "create": "創る",
             "host_game_jam": "ゲームジャムを主催",
-            "account_menu_tooltip": "アカウント設定"
+            "account_menu_tooltip": "アカウント設定",
+            "posts": "投稿"
         }
     },
     "index": {
@@ -117,7 +118,7 @@
             "game": "ゲーム",
             "assets": "ゲーム素材",
             "game_mod": "MOD",
-            "soundtrack": "サウンドトラック",
+            "soundtrack": "アルバムとサウンドトラック",
             "other": "その他",
             "tool": "ツール",
             "comic": "漫画",
@@ -195,7 +196,8 @@
             "submit": "送信",
             "optional": "任意",
             "search": "検索",
-            "form_errors": "入力した情報をご確認ください"
+            "form_errors": "入力した情報をご確認ください",
+            "confirm": "確認"
         },
         "page_number": "{{page_number}}ページ目",
         "collection_button": {
@@ -389,7 +391,7 @@
             "genre": "ジャンル",
             "made_with_tools": "制作ツール",
             "tags": "タグ",
-            "code_license": "ライセンス",
+            "code_license": "コードのライセンス",
             "asset_license": "素材ライセンス",
             "average_session_duration": "平均プレイ時間",
             "languages": "対応言語",
@@ -627,7 +629,7 @@
             "page_title": "新しいトピックを投稿する"
         },
         "topic": {
-            "topic_is_archived": "このスレッドはアーカイブされており、投稿はできません",
+            "topic_is_archived": "このスレッドはアーカイブされています。スレッドリストから除外されており、新規の投稿はできません。",
             "reply": "返信",
             "log_in_to_reply": "ログインして返信する",
             "join_the_discussion": "ログインするか、無料でitch.ioのアカウントを作成して、議論に参加しましょう。",
@@ -686,7 +688,8 @@
             "locked_flag": "封鎖",
             "new_flag": "新着",
             "list_header_topic_title": "スレッド",
-            "list_header_last_post": "最新の投稿"
+            "list_header_last_post": "最新の投稿",
+            "no_replies_yet": "返信はまだありません"
         }
     },
     "buy_form": {
@@ -704,7 +707,7 @@
         "your_email_address": "メールアドレス",
         "email_address_description": "こちらにお支払いの確認が送信されます",
         "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます",
-        "i_already_paid_for_this": "購入済みのアイテムを確認する…",
+        "i_already_paid_for_this": "既にこの作品を購入済みです…",
         "support_message": "こちらの作品の開発を支援しましょう",
         "this_purchase_is_a_gift": "ギフトとして購入する",
         "support_the_creator_by_paying_above_the_minimum_price": "最低価格を上乗せしてクリエイターを支援する",
@@ -749,7 +752,7 @@
         "view_all_tags": "タグをすべて見る",
         "filter_by_tag": "タグで絞り込む",
         "filter_group_when": "いつ",
-        "fresh_description": "常に更新されているメンバーたちが推奨したプロジェクトの数々を閲覧します。新たに追加された作品を改めてご確認ください。",
+        "fresh_description": "メンバーたちのコレクションをもとにした、常時更新のプロジェクト集を閲覧します。新たに追加された作品を改めてご確認ください。",
         "filter_group": {
             "more_options": "選択肢をより多く表示",
             "fewer_options": "選択肢をより少なく表示",
@@ -883,7 +886,8 @@
             "password_again": "パスワードを再入力",
             "new_password_again": "新しいパスワードを再入力",
             "no_password_service_name": "{{service_name}}.で登録されているため、現在、アカウントにパスワードはありません。",
-            "updating_your_password_will_cause": "パスワードを更新すると全てのブラウザからログアウトされます。<a>OAuth の接続や APIキー</a> はアクティブのままになります。"
+            "updating_your_password_will_cause": "パスワードを更新すると全てのブラウザからログアウトされます。<a>OAuth の接続や APIキー</a> はアクティブのままになります。",
+            "please_set_a_password_on_your_account": "セキュリティを向上し、外部サービスを使わずにログインできるようにするために、パスワードを設定してください。"
         },
         "email_addresses": {
             "primary_email_header": "主要メールアドレス",
@@ -1077,13 +1081,19 @@
             "rewards": "リワード",
             "interact": "交流",
             "distribute": "配布する"
+        },
+        "blog_posts": {
+            "new_post": "新規投稿"
         }
     },
     "browse_tags": {
         "no_description_yet": "説明なし",
         "page_title": "人気のタグ",
         "find_tag": "タグを検索",
-        "commonly_tagged_with": "関連するタグ："
+        "commonly_tagged_with": "関連するタグ：",
+        "types": {
+            "style": "スタイル"
+        }
     },
     "jam": {
         "submission": {
@@ -1310,7 +1320,7 @@
         "featured_tags_header": "注目タグ",
         "latest_featured_games_header": "最新の注目ゲーム",
         "filter_ratings_tab": "評価",
-        "filter_devlogs_tab": "開発ログ",
+        "filter_devlogs_tab": "開発ブログ",
         "filter_collections_tab": "コレクション",
         "filter_new_projects_tab": "新規プロジェクト",
         "filter_own_activity_tab": "自分のアクティビティ"
@@ -1319,5 +1329,18 @@
         "unverified_email": {
             "title": "あなたのメールアドレスは認証されていません"
         }
+    },
+    "user_forgot_password": {
+        "link_sent": "パスワードリセット用のリンクがアカウントの主要メールアドレスに送信されました。",
+        "enter_your_email": "登録時に使用したメールアドレスを入力してください、パスワードリセット用のリンクを送信します。"
+    },
+    "user": {
+        "verify_email": {
+            "confirm_verification": "アカウント {{account}} のメールアドレス {{email_address}} の認証を完了してください。itch.ioには、メールアドレスの認証が必要な操作が数多くあります。"
+        }
+    },
+    "notifications": {
+        "unseen_label": "新規",
+        "page_title": "通知"
     }
 }
