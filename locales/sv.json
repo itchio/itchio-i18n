@@ -55,7 +55,8 @@
             "recommendations": "Rekommendationer",
             "library": "Mitt bibliotek",
             "feed": "Mitt flöde",
-            "account_menu_tooltip": "Kontomeny"
+            "account_menu_tooltip": "Kontomeny",
+            "posts": "Inlägg"
         }
     },
     "index": {
