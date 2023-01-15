@@ -1,1 +1,75 @@
-{}
+{
+    "index": {
+        "random_game": "Выпадковая гульня",
+        "from_the_blog": "З блога",
+        "dont_see_anything_you_like": "Не знайшлі нічога цікавага?",
+        "view_all_games": "Паказаць усе гульні",
+        "view_something_random": "Паказаць выпадковае",
+        "download_app": "Загрузіць дадатак",
+        "games_by_price": "Гульні па кошце",
+        "browse": "Агляд",
+        "popular_tags": "Папулярныя пазнакі"
+    },
+    "layout": {
+        "header": {
+            "sales": "скідкі",
+            "feed": "Стужка",
+            "feed_unseen_count_0": "{{count}} навіна",
+            "feed_unseen_count_1": "{{count}} навіны",
+            "feed_unseen_count_2": "{{count}} навін",
+            "games": "Гульні",
+            "fun_games": "Забаўляльныя гульні",
+            "game_assets": "Матэрыялы",
+            "bundles": "Наборы",
+            "comics": "Коміксы",
+            "game_development": "Распрацоўка гульняў",
+            "indie_game_store": "Крама індзі-гульняў",
+            "free_games": "Бясплатныя гульні",
+            "no_notifications": "Няма новых апавяшчэнняў",
+            "notifications_count_0": "{{count}} апавяшчэнне",
+            "notifications_count_1": "{{count}} апавяшчэнні",
+            "notifications_count_2": "{{count}} апавяшчэнняў",
+            "jams": "Геймджэмы",
+            "dashboard": "Кабінет",
+            "register": "Зарэгістравацца",
+            "log_in": "Уваход",
+            "search": "Пошук",
+            "search_placeholder": "Пошук гульняў і стваральнікаў",
+            "community": "Супольнасць",
+            "devlogs": "Дзённікі распрацоўкі",
+            "upload_game": "Загрузіць гульню",
+            "game_jams": "Геймджэмы",
+            "browse_games": "Агляд гульняў",
+            "browse": "Катэгорыі"
+        },
+        "footer": {
+            "faq": "Дапамагчы",
+            "cookies": "Cookie",
+            "privacy": "Прыватнасць",
+            "directory": "Каталог",
+            "terms": "Умовы выкарыстання",
+            "contact_us": "Зьвязацца",
+            "blog": "Блог",
+            "about": "Аб сайце"
+        },
+        "user_menu": {
+            "posts": "Публікацыі",
+            "account_menu_tooltip": "Меню ўліковага запісу",
+            "feed": "Мая стужка",
+            "library": "Мая «Гульнятэка»",
+            "recommendations": "Рэкамендацыі",
+            "game_jams": "Геймджэмы",
+            "dashboard": "Кабінет",
+            "new_project": "Загрузіць новы праект",
+            "sales_bundles": "Зніжкі і наборы",
+            "host_game_jam": "Правесці «Геймджэм»",
+            "view_profile": "Паглядзець профіль",
+            "settings": "Налады",
+            "log_out": "Выхад",
+            "account": "Уліковы запіс",
+            "create": "Стварайце",
+            "explore": "Дасьледуйце"
+        }
+    },
+    "itchio": "itch.io"
+}
