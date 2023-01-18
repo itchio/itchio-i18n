@@ -11,7 +11,7 @@
         "action-rpg": "RPG de ação",
         "adventure": "Aventura",
         "aliens": "Alienígenas",
-        "alternate-history": "História alternativa",
+        "alternate-history": "História Alternativa",
         "altgame": "Jogo Alternativo",
         "animals": "Animais",
         "anime": "Anime",
@@ -309,6 +309,13 @@
         "endless-runner": "Corredor sem fim",
         "emulator": "Emulador",
         "effects": "Efeitos",
-        "dungeons-and-dragons": "Masmorras e Dragões"
+        "dungeons-and-dragons": "Masmorras e Dragões",
+        "fbx": "FBX",
+        "family-friendly": "Family Friendly",
+        "eroge": "Eroge",
+        "endesga-32": "ENDESGA 32",
+        "word-game": "Jogo de Palavras",
+        "wordle": "Wordle",
+        "working-simulator": "Simulador de Trabalho"
     }
 }
