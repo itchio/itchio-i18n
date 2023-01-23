@@ -1037,7 +1037,9 @@
             "configure_twofactor_authentication": "Configurer la double authentification",
             "learn_more_about_twofactor_authentication": "En savoir plus à propos de la double authentification",
             "status_off": "Désactivée",
-            "status_on": "Activé"
+            "status_on": "Activé",
+            "page_description": "L'authentification à deux facteurs est une couche de sécurité supplémentaire pour votre compte car elle permet d'éviter les accès inautorisés à ce dernier si votre mot de passe a été volé.",
+            "tfa_status": "Statut : {{tfa_status}}"
         }
     },
     "jam": {
