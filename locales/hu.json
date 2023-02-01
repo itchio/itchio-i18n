@@ -37,8 +37,8 @@
             "fun_games": "Szórakoztató játékok",
             "game_assets": "Kellékek",
             "dashboard": "Irányítópult",
-            "game_jams": "Game-Jamek",
-            "jams": "Jamek"
+            "game_jams": "Game Jam-ek",
+            "jams": "Jam-ek"
         },
         "user_menu": {
             "explore": "Felfedezés",
@@ -55,7 +55,8 @@
             "feed": "Hírfolyamom",
             "host_game_jam": "Game-jam hosztolása",
             "dashboard": "Irányítópult",
-            "game_jams": "Game-jamek"
+            "game_jams": "Game jam-ek",
+            "posts": "Posztok"
         }
     },
     "index": {
@@ -93,7 +94,7 @@
         "nav": {
             "all_games": "Az összes játék",
             "bundles": "Csomagok",
-            "devlogs": "Fejlesztői cikkek",
+            "devlogs": "Fejlesztői frissítések",
             "community": "Közösség",
             "game_jams": "Game-jamek"
         },
@@ -301,7 +302,7 @@
         "download_header": "Letöltés",
         "install_instructions": "Telepítési útmutató",
         "more_information": "Több információ",
-        "empty_page": "Úgy tűnik, nincs itt semmi...",
+        "empty_page": "Úgy tűnik, nincs itt semmi…",
         "layout": {
             "ownership": {
                 "claimed": "Megszerezve",
@@ -359,16 +360,23 @@
             "multiplayer": "Többjátékos mód",
             "accessibility": "Kisegítő lehetőségek",
             "tags": "Címkék",
-            "publisher": "Kiadó"
+            "publisher": "Kiadó",
+            "made_with_tools": "Segítségével készítve"
         },
         "comments": {
-            "comments_header": "Megjegyzések"
+            "comments_header": "Megjegyzések",
+            "write_your_comment": "Írd le a véleményed…",
+            "post_comment": "Komment posztolása",
+            "log_in_to_leave_comment": "<a>Jelentkezz be az itch.io használatával</a> és oszd meg a véleményed.",
+            "click_to_leave_a_comment": "Kattints ide komment hozzáadásához…",
+            "leave_a_comment": "Adj visszajelzést",
+            "leave_a_comment_header": "Adj visszajelzést"
         },
         "donate_button": "{{noun}} támogatása",
         "steam_key_bundle_disclaimer": "(Megjegyzés: A {{bundle_title}} nevű csomag nam tartalmaz Steam kulcsot)",
         "your_purchase_comes_with_a_steam_key": "A vásárlás tartalmaz egy Steam kulcsot.",
         "devlog_view_all_posts": "Összes poszt",
-        "in_order_to_access": "Ahhoz hogy hozzáférja a {{noun}} nevű termékhez meg kell vásárolnod legalább {{price}} értékben.",
+        "in_order_to_access": "Ahhoz hogy hozzáférj a a {{noun}} nevű termékhez meg kell vásárolnod legalább {{price}} értékben.",
         "price_or_more": "{{price}}<s>vagy több</s>",
         "percent_off": "<s>{{percent}}%</s>megtakarítás",
         "name_your_own_price": "Add meg a saját áradat",
@@ -377,7 +385,8 @@
         "available_header": "Elérhető itt",
         "post_first_topic": "Első téma közzététele",
         "post_a_new_topic": "Új téma közzététele",
-        "development_log_header": "Fejlesztési napló"
+        "development_log_header": "Fejlesztési napló",
+        "empty_page_no_uploads": "Ez a készítő még nem töltött fel semmit…"
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
@@ -425,7 +434,9 @@
         "updates_description": "Amellett, hogy a játékaid automatikusan frissülnek, az app is folyamatosan fejlődni fog, ahogy újabb funkciókat adunk hozzá. Az új parancssori eszközeinket alkalmazó játékok <em>delta frissítéseket</em> hoznak létre, hogy csak a változtatásokat kelljen letöltened.",
         "browse_description": "Az itch.io-n a projekt oldal megjelenése a készítők kezében van. A beépített böngészőben játékokat tölthetsz le és telepíthetsz, amíg <a>az alkotók egyedi oldalait</a> fedezed fel.",
         "download_now": "Letöltés most",
-        "languages_header": "Elérhető a te nyelveden"
+        "languages_header": "Elérhető a te nyelveden",
+        "web_games_header": "Offline játékok böngészőben",
+        "browse_header": "A készítő által ajánlott böngészés"
     },
     "search": {
         "search_results_for_query": "\"{{query}}\" keresési eredményei",
