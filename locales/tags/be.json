@@ -1,1 +1,26 @@
-{}
+{
+    "tags": {
+        "buttons": "Кнопкі",
+        "brushes": "Пэндзлі",
+        "boys-love": "Яой",
+        "boss-battle": "Бітва з босам",
+        "black-and-white": "Чорнае і белае",
+        "backgrounds": "Фоны",
+        "audio": "Аўдыё",
+        "asteroids": "Астэроіды",
+        "art-book": "Артбук",
+        "archery": "Стральба з лука",
+        "arcade": "Аркада",
+        "anime": "Анімэ",
+        "animation": "Анімацыя",
+        "animals": "Жывёлы",
+        "alternate-history": "Альтэрнатыўная гісторыя",
+        "adventure": "Прыгоды",
+        "adult": "Для дарослых",
+        "8-bit": "8-бітная",
+        "4x": "4Х",
+        "3d-platformer": "3D Платформер",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
