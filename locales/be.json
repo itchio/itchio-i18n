@@ -8,7 +8,43 @@
         "download_app": "Загрузіць дадатак",
         "games_by_price": "Гульні па кошце",
         "browse": "Агляд",
-        "popular_tags": "Папулярныя пазнакі"
+        "popular_tags": "Папулярныя пазнакі",
+        "to_follow": {
+            "dismiss_tooltip": "Не прапаноўваць больш",
+            "refresh_button": "Абнавіць, каб бачыць больш",
+            "created_projects": "Створана {{project_list}}"
+        },
+        "page_title": "Спампуйце найноўшыя інды-гульні",
+        "latest_featured_games": "Нядаўна выбраныя гульні",
+        "on_sale": "Спродаж",
+        "from_the_itchio_blog": "З блогу itch.io",
+        "view_all_on_sale": "Праглядзець усё на спродажы",
+        "view_all_games_on_sale": "Паглядзець усе гульні на спродажы",
+        "fresh_games": "Свежыя гульні",
+        "view_all": "Паказаць усе",
+        "free_games": "Бясплатныя гульні",
+        "top_sellers": "Топ продажаў",
+        "browse_all_tags": "Глядзець усе тэгі",
+        "html5_games": "HTML 5 гульні",
+        "intro_cta": "<1>Дадаць сваю гульню</1> або <2>чытаць А/П</2>",
+        "nav": {
+            "community": "Супольнасьць",
+            "devlogs": "Журнал распрацоўкі",
+            "game_jams": "Геймджэмы",
+            "bundles": "Камплекты",
+            "all_games": "Усе гульні"
+        },
+        "browse_content_type": "Праглядзець {{content_type}}",
+        "view_all_platforms": "Глядзець усе платформы",
+        "more_featured_games": "Больш папулярных гульняў",
+        "people_to_follow": "Цікавыя асобы",
+        "view_all_jams": "Глядзець усе джэмы",
+        "featured_jams": "Папулярныя джэмы",
+        "view_more": "Паказаць больш",
+        "recommended_for_you": "Рэкамендавана для вас",
+        "with_demo": "З дема-версіяй",
+        "search_games_creators": "Пошук гульняў і стваральнікаў",
+        "view_all_blog_posts": "Паглядзець усе абнаўленні"
     },
     "layout": {
         "header": {
@@ -71,5 +107,218 @@
             "explore": "Дасьледуйце"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "user_register": {
+        "register_form": {
+            "interest_gamer": "Мне цікаво гуляць ды спампоўваць гульні на itch.io",
+            "other_registration_methods": "Іншыя спосабы рэгістрацыі",
+            "username": "Імя карыстальніка",
+            "repeat_password": "Паўтарыце пароль",
+            "password": "Пароль",
+            "your_email_address": "Ваш email",
+            "log_in": "Увайсьці",
+            "create_account": "Стварыць акаўнт"
+        },
+        "page_title": "Зарэгістраваць акаўнт",
+        "create_an_account_on_itchio": "Стварыць акаўнт на itch.io"
+    },
+    "user_login": {
+        "welcome_to_itchio": "Вітаем на itch.io!",
+        "welcome_back": "З вяртаннем!",
+        "no_account_prompt": "Няма акаўнту? <1>Стварыць акаўнт</1>",
+        "login_form": {
+            "or_log_in_with_another_site": "Або ўвайсьці з іншага сайту",
+            "log_in_button": "Увайсьці",
+            "or": "або",
+            "create_account": "Стварыць акаўнт",
+            "forgot_password": "Забылі пароль",
+            "password": "Пароль",
+            "username_or_email": "Імя карыстальніка або email"
+        },
+        "you_are_logged_out": "Вы выйшлі з акаўнта",
+        "page_title": "Увайсьці",
+        "create_a_new_account": "Стварыць новы акаўнт"
+    },
+    "misc": {
+        "release_statuses": {
+            "on_hold": "Спынена",
+            "in_development": "У распрацоўцы",
+            "prototype": "Прататып",
+            "canceled": "Скасавана",
+            "released": "Выпушчана"
+        },
+        "dismiss": "Прыбраць",
+        "project_visibility": {
+            "restricted": "Абмежаваны доступ",
+            "public": "Публічны",
+            "draft": "Чарнавік",
+            "published": "Апублікавана"
+        },
+        "pager": {
+            "previous_page": "Папярэдняя старонка",
+            "current_page_of_total": "Старонка {{current_page}} з {{total_pages}}",
+            "first_page": "Першая старонка",
+            "next": "Наступная",
+            "next_page": "Наступная старонка"
+        },
+        "filter_price": {
+            "paid": "Платныя",
+            "on_sale": "Спродаж",
+            "free": "Бясплатныя"
+        },
+        "follow_button": {
+            "following": "Падпісаны",
+            "unfollow": "Адпісацца",
+            "unfollow_username": "Адпісацца ад {{username}}",
+            "follow": "Падпісацца",
+            "follow_username": "Падпісацца на {{username}}"
+        },
+        "forms": {
+            "email_address": "Email",
+            "required": "Абавязкова",
+            "confirm": "Пацьвердзіць",
+            "search": "Пошук",
+            "submit": "Адправіць",
+            "save": "Захаваць"
+        },
+        "accessibility_features": {
+            "highcontrast": "Высокакантрасны",
+            "configurable_controls": "Наладжвальнае кіраваньне",
+            "colorblind": "Прыязна да людзей з каляроваю слепасцю",
+            "textless": "Бяз тэксту",
+            "blind": "Прыязны да сляпых",
+            "one_button": "Адна кнопка",
+            "tutorial": "Інтэрактыўнае навучанне",
+            "subtitles": "Субтытры"
+        },
+        "classifications": {
+            "assets": "Гульнявыя асэты",
+            "book": "Кнігі",
+            "comic": "Коміксы",
+            "tool": "Інструменты",
+            "other": "Рознае",
+            "soundtrack": "Альбомы і саўндтрэкі",
+            "game_mod": "Гульнявыя моды",
+            "game": "Гульні"
+        },
+        "loading_more_ellip": "Загружаем больш…",
+        "more_ellip": "Больш…",
+        "view_more": "Паказаць больш",
+        "countdown": {
+            "seconds": "сякунд",
+            "minutes": "хвілін",
+            "hours": "гадзін",
+            "days": "дзён",
+            "months": "месяцаў",
+            "years": "гадоў"
+        },
+        "lightboxes": {
+            "close": "Зачыніць"
+        },
+        "collection_button": {
+            "add_to_collection": "Дадаць у калекцыю"
+        },
+        "platforms": {
+            "web": "У браўзары"
+        },
+        "filter_when": {
+            "last_7_days": "Апошнія 7 дзён",
+            "last_30_days": "Апошнія 30 дзён",
+            "last_day": "Апошні дзень"
+        },
+        "page_number": "Старонка {{page_number}}",
+        "durations": {
+            "days": "Дні і болей",
+            "hours": "Некалькі гадзін",
+            "hour": "Каля гадзіны",
+            "half_hour": "Каля паўгадзіны",
+            "minutes": "Некалькі хвілін",
+            "seconds": "Некалькі сякунд"
+        },
+        "inputs": {
+            "midi_controller": "Кантролер MIDI",
+            "phone": "Смартфон",
+            "accelerometer": "Акселерометр",
+            "voice": "Галасавое кіраванне",
+            "touchscreen": "Сэнсарны экран",
+            "joystick": "Джойстык",
+            "gamepad": "Геймпад (любы)",
+            "mouse": "Мыш",
+            "keyboard": "Клавіятура"
+        },
+        "multiplayer_features": {
+            "local": "Лакальны мультыплэер"
+        }
+    },
+    "jam": {
+        "submissions": {
+            "filter": "Фільтар"
+        },
+        "results": {
+            "results": "Вынікі"
+        },
+        "header": {
+            "links": {
+                "screenshots": "Скрыншоты",
+                "submissions": "Праекты",
+                "results": "Вынікі",
+                "community": "Супольнасьць"
+            }
+        }
+    },
+    "game": {
+        "info_panel": {
+            "updated_at": "Абноўлена"
+        },
+        "comments": {
+            "log_in_to_leave_comment": "<a>Увайдзіце ў акаўнт itch.io</a>, каб пакінуць каментар.",
+            "click_to_leave_a_comment": "Пстрыкніце, каб пакінуць каментар…",
+            "leave_a_comment": "Пакінуць каментар",
+            "leave_a_comment_header": "Пакінуць каментар",
+            "comments_header": "Каментары"
+        },
+        "devlog_view_all_posts": "Паглядзець усе пасты",
+        "price_or_more": "{{price}} <s>ці больш</s>",
+        "buy_now_button": "Набыць зараз",
+        "download_now_button": "Спампаваць зараз",
+        "also_available_header": "Таксама даступна на",
+        "download_demo_header": "Спампаваць дэма-версію",
+        "download_header": "Спампаваць",
+        "more_information": "Больш інфармацыі"
+    },
+    "app": {
+        "page_title": "Спампаваць прыкладанне",
+        "community_header": "Далучайцеся да супольнасьці",
+        "download_now": "Спампаваць зараз",
+        "languages_header": "Даступна на вашай мове",
+        "web_games_header": "Афлайнавыя браўзарныя гульні",
+        "updates_header": "Заўсёды абнаўляць",
+        "updates": "Абнаўленні",
+        "for_platforms": "Для <1>Windows</1>, <2>macOS</2>, ды <3>Linux</3>",
+        "start_download": "Пачаць загрузку",
+        "tagline": "Усталёўвайце, абнаўляйце і гуляйце ў інды-гульні",
+        "open_source": "Адкрыты код"
+    },
+    "search": {
+        "search_results_for_query": "Вынікі пошуку «{{query}}»",
+        "view_all_tags": "Глядзець усе тэгі",
+        "published_count_0": "{{count}} праект",
+        "published_count_1": "{{count}} праектаў",
+        "published_count_2": "{{count}} праекты",
+        "creators": "Стваральнікі:"
+    },
+    "developers": {
+        "create_account_or_login": "<1>Стварыць акаўнт</1> <em>або</em> <2>Увайсьці</2>",
+        "learn_more_about": "Даведацца больш аб:",
+        "learn_more": "Даведацца больш",
+        "upload_your_indie_game": "Загрузіць вашу інды-гульню",
+        "account_faq_cta": "<1> Стварыць акаўнт </1> або <2>чытаць А/П</2>",
+        "upload_a_new_game": "Загрузіць новую гульню",
+        "my_dashboard": "Мая панэль"
+    },
+    "blog": {
+        "digest": "Дайджэст",
+        "updates": "Абнаўленні",
+        "all_posts": "Усе пасты"
+    }
 }
