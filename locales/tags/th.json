@@ -262,6 +262,27 @@
         "side-scroller": "มุมมองด้านข้าง",
         "demake": "ดีเมค (Demake)",
         "generator": "เจนเนอเรเทอร์",
-        "animation": "อนิเมชั่น"
+        "animation": "อนิเมชั่น",
+        "gui": "การแสดงผล GUI ของผู้ใช้",
+        "github": "GitHub",
+        "gender": "เพศ",
+        "game-design": "ออกแบบเกม",
+        "fonts": "รูปแบบตัวอักษร",
+        "folklore": "แนวคิดของชาวบ้าน",
+        "fishing": "ชาวประมง",
+        "fbx": "FBX",
+        "endless-runner": "นักวิ่งสุดขอบฟ้า",
+        "emulator": "จำลอง",
+        "effects": "สิ่งที่ตามมา",
+        "dungeons-and-dragons": "ดันเจี้ยน & มังกร",
+        "drawing": "รูป",
+        "comics": "การ์ตูน",
+        "clicker": "กดปุ่ม",
+        "ciphers": "เข้ารหัส",
+        "cats": "แมว",
+        "brain-training": "ฝึกสมอง",
+        "boys-love": "ความรักของเด็กน้อย",
+        "backgrounds": "พื้นหลัง",
+        "audio": "เสียง"
     }
 }
