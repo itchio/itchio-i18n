@@ -2,7 +2,7 @@
     "itchio": "itch.io",
     "layout": {
         "footer": {
-            "about": "درباره ما",
+            "about": "درباره",
             "faq": "پرسش‌های متداول",
             "blog": "وبلاگ",
             "contact_us": "تماس با ما",
@@ -15,7 +15,7 @@
             "browse": "مرور",
             "browse_games": "مرور بازی‌ها",
             "upload_game": "آپلود بازی",
-            "devlogs": "گزارشهای توسعه دهنده",
+            "devlogs": "گزارش‌های توسعه‌دهنده",
             "community": "انجمن",
             "search_placeholder": "جستجوی بازی‌ها یا سازندگان",
             "search": "جستجو",
@@ -221,7 +221,7 @@
             "all_games": "همه‌ی بازی‌ها",
             "bundles": "مجموعه‌ها",
             "game_jams": "گردهمایی‌های ساخت بازی",
-            "devlogs": "گزارشهای توسعه دهنده",
+            "devlogs": "گزارش‌های توسعه‌دهنده",
             "community": "انجمن"
         },
         "intro": "<s>itch.io</s> راه ساده‌ای برای پیدا کردن و به اشتراک گذاری آنلاین بازی‌های مستقل به طور رایگان است.",
@@ -529,7 +529,7 @@
         }
     },
     "feed": {
-        "filter_devlogs_tab": "گزارش های توسعه دهنده"
+        "filter_devlogs_tab": "گزارش‌های توسعه‌دهنده"
     },
     "game_download": {
         "check_your_email_for_the_confirmation_link": "ایمیل خود را برای لینک تایید بررسی کنید.",
