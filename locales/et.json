@@ -15,7 +15,13 @@
             "comics": "Koomiksid",
             "free_games": "Tasuta mängud",
             "dashboard": "Armatuurlaud",
-            "log_in": "Logi sisse"
+            "log_in": "Logi sisse",
+            "feed_unseen_count": "{{count}} uus",
+            "feed_unseen_count_plural": "{{count}} uut",
+            "game_development": "Mänguarendus",
+            "no_notifications": "Uusi teateid pole",
+            "notifications_count": "{{count}} teatis",
+            "notifications_count_plural": "{{count}} teateid"
         },
         "footer": {
             "faq": "KKK",
@@ -39,7 +45,9 @@
             "log_out": "Logi välja",
             "account": "Konto",
             "create": "Loo",
-            "explore": "Uuri"
+            "explore": "Uuri",
+            "posts": "Postitused",
+            "new_project": "Lae üles uus projekt"
         }
     },
     "itchio": "itch.io",
@@ -68,6 +76,30 @@
         "download_app": "Lae rakendus alla",
         "games_by_price": "Mängud hinna järgi",
         "browse": "Sirvi",
-        "popular_tags": "Populaarsed märgendid"
+        "popular_tags": "Populaarsed märgendid",
+        "to_follow": {
+            "refresh_button": "Värskendage lisateabe saamiseks"
+        },
+        "nav": {
+            "devlogs": "Arendaja logid"
+        },
+        "view_all_on_sale": "Vaata kõiki müügil olevaid",
+        "more_featured_games": "Rohkem esiletõstetud mänge",
+        "recommendations_based_on": "Põhineb asjadele mida sa oled ostnud, allalaadinud ja hinnanud",
+        "search_games_creators": "Otsi mänge & loojaid",
+        "get_the_app": "<s>Võtke itch.io-st maksimum!</s> Installi ja halda oma mänge meie töölaua rakendusega"
+    },
+    "misc": {
+        "multiplayer_features": {
+            "server": "Serveripõhine võrguga mitmikmäng"
+        },
+        "accessibility_features": {
+            "textless": "Tekstivaba"
+        },
+        "classifications": {
+            "soundtrack": "Albumid & heliribad",
+            "game_mod": "Mängu modifikatsioonid",
+            "assets": "Mängu lisad"
+        }
     }
 }
