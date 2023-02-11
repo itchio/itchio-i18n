@@ -8,7 +8,14 @@
             "search": "Otsi",
             "community": "Ühiskond",
             "browse_games": "Sirvi mänge",
-            "browse": "Sirvi"
+            "browse": "Sirvi",
+            "games": "Mängud",
+            "fun_games": "Lõbusad mängud",
+            "sales": "Müügid",
+            "comics": "Koomiksid",
+            "free_games": "Tasuta mängud",
+            "dashboard": "Armatuurlaud",
+            "log_in": "Logi sisse"
         },
         "footer": {
             "faq": "KKK",
@@ -18,7 +25,49 @@
             "terms": "Tingimused",
             "contact_us": "Võta ühendust",
             "blog": "Blogi"
+        },
+        "user_menu": {
+            "account_menu_tooltip": "Konto menüü",
+            "library": "Minu kogu",
+            "recommendations": "Soovitused",
+            "game_jams": "Mängu Džemmid",
+            "dashboard": "Armatuurlaud",
+            "sales_bundles": "Müügid & kimbud",
+            "host_game_jam": "Võõrusta mängu džammi",
+            "view_profile": "Vaata profiili",
+            "settings": "Sätted",
+            "log_out": "Logi välja",
+            "account": "Konto",
+            "create": "Loo",
+            "explore": "Uuri"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "index": {
+        "game_dev_on_sale": "Mängu Loomise Resurssid <1>Müügis</1>",
+        "view_all_games_on_sale": "Vaata kõike mänge müügil",
+        "people_to_follow": "Inimesi Keda Jälgida",
+        "view_all_jams": "Vaata kõik džemmid",
+        "featured_jams": "Esile tõstetud džemmid",
+        "view_more": "Vaata veel",
+        "fresh_games": "Värsked Mängud",
+        "recommended_for_you": "Soovitatud sulle",
+        "view_all": "Vaatle kõiki",
+        "with_demo": "Demoga",
+        "top_sellers": "Enimmüüdud",
+        "free_games": "Tasuta mängud",
+        "on_sale": "Müügil",
+        "browse_all_tags": "Sirvi kõiki märgendeid",
+        "view_all_blog_posts": "Vaatle kõiki uuendusi",
+        "from_the_itchio_blog": "Itch.io blogist",
+        "random_game": "Suvaline mäng",
+        "from_the_blog": "Blogist",
+        "dont_see_anything_you_like": "Ei leia midagi mis sulle meeldiks?",
+        "view_all_games": "Vaata kõike mänge",
+        "view_something_random": "Vaata midagi suvalist",
+        "download_app": "Lae rakendus alla",
+        "games_by_price": "Mängud hinna järgi",
+        "browse": "Sirvi",
+        "popular_tags": "Populaarsed märgendid"
+    }
 }
