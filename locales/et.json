@@ -21,7 +21,8 @@
             "game_development": "Mänguarendus",
             "no_notifications": "Uusi teateid pole",
             "notifications_count": "{{count}} teatis",
-            "notifications_count_plural": "{{count}} teateid"
+            "notifications_count_plural": "{{count}} teateid",
+            "feed": "Sein"
         },
         "footer": {
             "faq": "KKK",
@@ -47,7 +48,8 @@
             "create": "Loo",
             "explore": "Uuri",
             "posts": "Postitused",
-            "new_project": "Lae üles uus projekt"
+            "new_project": "Lae üles uus projekt",
+            "feed": "Minu sein"
         }
     },
     "itchio": "itch.io",
@@ -78,28 +80,76 @@
         "browse": "Sirvi",
         "popular_tags": "Populaarsed märgendid",
         "to_follow": {
-            "refresh_button": "Värskendage lisateabe saamiseks"
+            "refresh_button": "Värskendage lisateabe saamiseks",
+            "dismiss_tooltip": "Ära soovita enam",
+            "empty_results": "Meil pole hetkel rohkem soovitusi. Tulge hiljem tagasi",
+            "created_projects": "Loodud {{project_list}}"
         },
         "nav": {
-            "devlogs": "Arendaja logid"
+            "devlogs": "Arendaja logid",
+            "community": "Kogukond",
+            "all_games": "Kõik Mängud"
         },
         "view_all_on_sale": "Vaata kõiki müügil olevaid",
         "more_featured_games": "Rohkem esiletõstetud mänge",
         "recommendations_based_on": "Põhineb asjadele mida sa oled ostnud, allalaadinud ja hinnanud",
         "search_games_creators": "Otsi mänge & loojaid",
-        "get_the_app": "<s>Võtke itch.io-st maksimum!</s> Installi ja halda oma mänge meie töölaua rakendusega"
+        "get_the_app": "<s>Võtke itch.io-st maksimum!</s> Installi ja halda oma mänge meie töölaua rakendusega",
+        "meta_description": "itch.io on lihtne viis leida, alla laadida ja jagada indimänge internetis. Vahet pole, kas olete mängulooja, kes soovib oma mängu üles laadida, või lihtsalt keegi, kes otsib midagi uut mängida, itch.io katab teie vajadused.",
+        "page_title": "Lae alla uusimad indimängud",
+        "html5_games": "HTML5 mängud",
+        "intro_cta": "<1>Lisa oma mäng</1> või <2>Loe KKK-d</2>",
+        "intro": "<s>itch.io</s> on lihtne viis internetis indimängude tasuta leidmiseks ja jagamiseks.",
+        "browse_content_type": "Sirvi {{content_type}}",
+        "view_all_platforms": "Vaata kõiki platvorme",
+        "filtering_platform": "Filtreerime kõik mängud {{platform_name}}-ile",
+        "latest_featured_games": "Uusimad Esiletoodud Mängud",
+        "people_to_follow_description": "Siin on mõningad kontod mille jälgimisest olete Te võib-olla huvitatud. <a>Miks jälgida?</a>"
     },
     "misc": {
         "multiplayer_features": {
-            "server": "Serveripõhine võrguga mitmikmäng"
+            "server": "Serveripõhine võrguga mitmikmäng",
+            "adhoc": "Ad-hoc-põhine võrgu mitmikmäng",
+            "local": "Kohalik mitmikmäng"
         },
         "accessibility_features": {
-            "textless": "Tekstivaba"
+            "textless": "Tekstivaba",
+            "blind": "Pimedasõbralik",
+            "one_button": "Üks nupp",
+            "tutorial": "Interaktiivne juhend",
+            "highcontrast": "Kõrge kontrast",
+            "configurable_controls": "Muudetavad juhtnupud",
+            "subtitles": "Subtiitrid",
+            "colorblind": "Värvipimeda sõbralik"
         },
         "classifications": {
             "soundtrack": "Albumid & heliribad",
             "game_mod": "Mängu modifikatsioonid",
-            "assets": "Mängu lisad"
+            "assets": "Mängu lisad",
+            "book": "Raamatud",
+            "comic": "Koomiksid",
+            "tool": "Tööriistad",
+            "other": "Muu",
+            "physical_game": "Füüsilised mängud",
+            "game": "Mängud"
+        },
+        "durations": {
+            "hour": "Umbes tund",
+            "half_hour": "Umbes pool tundi",
+            "minutes": "Mõni minut",
+            "seconds": "Mõni sekund"
+        },
+        "inputs": {
+            "midi_controller": "MIDI pult",
+            "dance_pad": "Tantsumatt",
+            "phone": "Nutitelefon",
+            "accelerometer": "Kiirendusmõõtur",
+            "voice": "Hääljuhtimine",
+            "touchscreen": "Puuteekraan",
+            "joystick": "Juhtkang",
+            "gamepad": "Mängupult (Ükskõik milline)",
+            "mouse": "Hiir",
+            "keyboard": "Klaviatuur"
         }
     }
 }
