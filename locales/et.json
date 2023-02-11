@@ -1,7 +1,14 @@
 {
     "layout": {
         "header": {
-            "devlogs": "Arendaja logid"
+            "devlogs": "Arendaja logid",
+            "search_placeholder": "Otsige mänge või loojaid",
+            "upload_game": "Mängu üleslaadimine",
+            "game_jams": "Mängujämmid"
+        },
+        "footer": {
+            "faq": "KKK"
         }
-    }
+    },
+    "itchio": "itch.io"
 }
