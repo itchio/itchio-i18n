@@ -4,10 +4,20 @@
             "devlogs": "Arendaja logid",
             "search_placeholder": "Otsige mänge või loojaid",
             "upload_game": "Mängu üleslaadimine",
-            "game_jams": "Mängujämmid"
+            "game_jams": "Mängujämmid",
+            "search": "Otsi",
+            "community": "Ühiskond",
+            "browse_games": "Sirvi mänge",
+            "browse": "Sirvi"
         },
         "footer": {
-            "faq": "KKK"
+            "faq": "KKK",
+            "cookies": "Küpsised",
+            "privacy": "Privaatsus",
+            "directory": "Kataloog",
+            "terms": "Tingimused",
+            "contact_us": "Võta ühendust",
+            "blog": "Blogi"
         }
     },
     "itchio": "itch.io"
