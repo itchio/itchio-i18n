@@ -341,7 +341,7 @@
                 "view_all_by_username": "Vaatle kõik {{username}} tehtud asju"
             },
             "jam_submission": {
-                "now_accepting_ratings": "See džemm võtab praegu vastu hinnanguid sissekannete jaoks",
+                "now_accepting_ratings": "See džemm võtab praegu vastu hinnanguid sissekannete jaoks.",
                 "you_rated_this_game": "Sa hindasid seda mängu",
                 "accepting_ratiings": "See džemm võtab praegu vastu hinnanguid esituste jaoks <a>Saa rohkem teada</a>",
                 "view_the_submission_page": "Vaatle esituse lehekülge",
