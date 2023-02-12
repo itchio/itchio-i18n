@@ -303,6 +303,10 @@
             "if_you_pay_price_or_more": "Kui sa maksad {{price}} või rohkem",
             "play_in_browser": "Mängi brauseris",
             "download": "Lae alla"
+        },
+        "layout": {
+            "creator": "Tegija",
+            "view_all_by_name": "Kuva kõik {{name}} poolt"
         }
     },
     "app": {
