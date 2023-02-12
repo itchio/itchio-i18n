@@ -307,7 +307,7 @@
         "layout": {
             "creator": "Looja",
             "view_all_by_name": "Kuva kõik {{name}} poolt",
-            "following": "Jälgid",
+            "following": "Jälgimised",
             "follow": "Jälgi"
         }
     },
