@@ -134,7 +134,7 @@
             "game": "Mängud"
         },
         "durations": {
-            "hour": "Umbes tund",
+            "hour": "Ligikaudu tund aega",
             "half_hour": "Umbes pool tundi",
             "minutes": "Mõni minut",
             "seconds": "Mõni sekund"
@@ -150,6 +150,14 @@
             "gamepad": "Mängupult (Ükskõik milline)",
             "mouse": "Hiir",
             "keyboard": "Klaviatuur"
+        },
+        "follow_button": {
+            "following_username": "Jälgin {{username}}"
+        },
+        "forms": {
+            "confirm": "Kinnita",
+            "form_errors": "Palun kontrolli üle teie poolt esitatud informatsioon",
+            "email_address": "E-posti aadress"
         }
     }
 }
