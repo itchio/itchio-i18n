@@ -275,7 +275,16 @@
             "release_status": "Staatus",
             "published_at": "Avaldatud",
             "updated_at": "Uuendatud",
-            "code_license": "Koodilitsents"
+            "code_license": "Koodilitsents",
+            "mentions": "Mainimused",
+            "links": "Lingid",
+            "singleplayer": "Üksikmängija",
+            "player_count": "Mängijate arv",
+            "multiplayer": "Mitmikmäng",
+            "accessibility": "Ligipääsetavus",
+            "inputs": "Sisendid",
+            "languages": "Keeled",
+            "average_session_duration": "Keskmine seanss"
         }
     },
     "app": {
