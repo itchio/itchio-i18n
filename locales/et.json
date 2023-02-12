@@ -249,9 +249,10 @@
         "more_information": "Rohkem informatsiooni",
         "empty_page": "Siin ei paista midagi olevat…",
         "comments": {
-            "leave_a_comment": "Jäta kommentaari",
+            "leave_a_comment": "Jäta kommentaar",
             "leave_a_comment_header": "Jäta kommentaari",
-            "comments_header": "Kommentaarid"
+            "comments_header": "Kommentaarid",
+            "click_to_leave_a_comment": "Kommentaari jätmiseks klõpsake…"
         },
         "donate_button": "Toeta {{noun}}",
         "steam_key_bundle_disclaimer": "(Märge: Steam võti ei ole sisaldatud {{bundle_title}} kimbus)",
