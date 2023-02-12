@@ -294,7 +294,10 @@
         "community_posts_count": "{{count}} postitus",
         "community_posts_count_plural": "{{count}} postitust",
         "community_post_author": "Tegi {{username}}",
-        "community_view_all_posts": "Vaata kõiki postitusi"
+        "community_view_all_posts": "Vaata kõiki postitusi",
+        "upload_list": {
+            "preorder": "Eeltelli"
+        }
     },
     "app": {
         "meta_description": "itch, parim viis indie-mängude allalaadimiseks ja mängimiseks. Laadige alla tasuta mänge ja hallake oma kogu oma töölaualt. Nüüd saadaval Windowsi, macOS-i ja Linuxi jaoks.",
