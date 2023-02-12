@@ -318,7 +318,15 @@
             "devlog": "Arengupäevik",
             "included_in_bundle_title": "Kategoorias sisalduv {{bundle_title}}",
             "ownership": {
-                "you_own_this": "See kuulub teile"
+                "you_own_this": "See kuulub teile",
+                "purchased_for_price": "Ostetud hinnaga {{price}}",
+                "purchased_in_a_bundle_for_price": "Ostetud kimbust hinnaga {{price}}",
+                "you_were_gifted_this": "Sulle oli see kingitud",
+                "claimed": "Omandatud",
+                "you_havent_sent_this_gift_to_anyone_yet": "Sa ei ole selle kingituse kellelegi saatnud veel",
+                "percent_off": "{{percent}}% soodsam",
+                "download": "Lae alla",
+                "send_gift": "Saada kingitus"
             },
             "related_games_short": "Seotud",
             "related_games": "Seotud mängud",
@@ -328,7 +336,16 @@
             "edit_rating": "Muuda Hinnangut",
             "edit_your_rating": "Muuda Oma Hinnangut",
             "footer": {
-                "report": "Aruanne"
+                "report": "Aruanne",
+                "updated_date": "Uuendatud {{date}}",
+                "view_all_by_username": "Vaatle kõik {{username}} tehtud asju"
+            },
+            "jam_submission": {
+                "now_accepting_ratings": "See džemm võtab praegu vastu hinnanguid sissekannete jaoks",
+                "you_rated_this_game": "Sa hindasid seda mängu",
+                "accepting_ratiings": "See džemm võtab praegu vastu hinnanguid esituste jaoks <a>Saa rohkem teada</a>",
+                "view_the_submission_page": "Vaatle esituse lehekülge",
+                "this_is_a_submission_to_jam_title": "See on esitus {{jam_title}} jaoks"
             }
         }
     },
