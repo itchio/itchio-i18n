@@ -172,9 +172,179 @@
             "required": "Vajalik"
         },
         "filter_when": {
-            "last_7_days": "Viimased 7 Päeva",
+            "last_7_days": "Viimased 7 päeva",
             "last_day": "Viimane Päev"
         },
-        "page_number": "Leht {{page_number}}"
+        "page_number": "Leht {{page_number}}",
+        "loading_more_ellip": "Lean veel…",
+        "more_ellip": "Veel…",
+        "errors": {
+            "server_error": "Server ei vastanud, proovige hiljem uuesti"
+        },
+        "release_statuses": {
+            "prototype": "Prototüüp",
+            "canceled": "Tühistatud",
+            "on_hold": "Ootel",
+            "in_development": "Arenduses",
+            "released": "Välja antud"
+        },
+        "view_more": "Vaata veel",
+        "project_visibility": {
+            "public": "Avalik",
+            "draft": "Mustand",
+            "published": "Avaldatud",
+            "restricted": "Piiratud"
+        },
+        "countdown": {
+            "seconds": "sekundit",
+            "minutes": "minutit",
+            "days": "päeva",
+            "hours": "tundi",
+            "months": "kuud",
+            "years": "aastad"
+        },
+        "filter_price": {
+            "paid": "Tasuline"
+        }
+    },
+    "game": {
+        "empty_page_no_uploads": "Looja pole veel midagi üles laadinud…",
+        "devlog_view_all_posts": "Vaata kõiki postitusi",
+        "in_order_to_access": "Sellele {{noun}} juurde pääsemiseks peate selle ostma minimaalse hinnaga {{price}} või sellest kõrgema hinnaga.",
+        "percent_off": "<s>{{percent}}%</s> Alla",
+        "on_sale": "Müügil!",
+        "name_your_own_price": "Nimetage oma hind",
+        "buy_now_button": "Osta kohe",
+        "preorder_button": "Telli kohe ette",
+        "download_now_button": "Lae alla kohe",
+        "download_or_claim_button": "Laadige alla või taotlege",
+        "will_be_available_in": "Saadaval kuni {{time_remaining}}.",
+        "also_available_header": "Saadaval ka",
+        "available_header": "Saadaval",
+        "download_demo_header": "Lae proovi-versioon alla",
+        "get_access_preorder": "Saate juurdepääsu järgmistele failidele, kui need avaldatakse:",
+        "get_access": "Saate juurdepääsu järgmistele failidele:",
+        "download_access": "Järgmistele failidele juurdepääsu saamiseks klõpsake nuppu Laadi kohe alla:",
+        "purchase_header": "Osta",
+        "unavailable": "See {{game_noun}} pole praegu saadaval",
+        "download_header": "Lae alla",
+        "install_instructions": "Installimisjuhised",
+        "more_information": "Rohkem informatsiooni",
+        "empty_page": "Siin ei paista midagi olevat…"
+    },
+    "app": {
+        "meta_description": "itch, parim viis indie-mängude allalaadimiseks ja mängimiseks. Laadige alla tasuta mänge ja hallake oma kogu oma töölaualt. Nüüd saadaval Windowsi, macOS-i ja Linuxi jaoks.",
+        "page_title": "Laadige alla rakendus",
+        "community_header": "Liituge kogukonnaga",
+        "download_now": "Lae alla kohe",
+        "languages_description": "Sügeluse rakendus on tänu itch.io kogukonnale saadaval enam kui 20 keeles! <a>Lisateave tõlkimise kohta</a>",
+        "languages_header": "Saadaval teie keeles",
+        "web_games_description": "Saate sünkroonida mis tahes brauseripõhiseid mänge otse rakendusse, võimaldades teil neid igal ajal võrguühenduseta mängida. Kui olete uuesti võrgus, saate vajaduse korral värskendusi hankida.",
+        "web_games_header": "Brauserimängud võrguühenduseta",
+        "updates_header": "Alati uuendatud",
+        "browse_description": "Saidil itch.io loojad kontrollivad, kuidas nende projektilehed välja näevad. Sisseehitatud brauser võimaldab teil mänge alla laadida ja installida, uurides samal ajal <a>meie loojate ainulaadseid lehekujundusi</a>.",
+        "browse_header": "Sirvige mänge nii, nagu looja on ette näinud",
+        "read_the_app_guide": "Lugege rakenduse juhendit",
+        "updates": "Uuendused",
+        "contribute_link": "Tahad panustada? <a>Vaadake allikat GitHubis</a>",
+        "more_info_links": "<1>Uurige lisaks KKK lehelt</1> või<2>Lugege rakenduse juhendit </2>",
+        "summary": "Rakendus itch.io, <s>itch</s>, võimaldab teil saidilt itch.io mänge ja tarkvara vaevata alla laadida ja käivitada. Kõik teie allalaaditavad failid on ühes kohas ja neid värskendatakse automaatselt. Juurdepääs oma kogudele ja ostudele või sirvige rakendusesisese brauseri kaudu uusi mänge.",
+        "for_platforms": "<1>Windows</1>'i, <2>macOS</2>'i ja <3>Linux</3>'i jaoks",
+        "start_download": "Alusta allalaadimist",
+        "tagline": "Installige, värskendage ja mängige indie-mänge",
+        "share_message": "itch, indie-mängude töölauarakendus",
+        "open_source": "Avatud lähtekoodiga"
+    },
+    "search": {
+        "search_results_for_query": "Otsingutulemused päringule '{{query}}'",
+        "browse_all_games": "Sirvige kõiki mänge",
+        "view_all_tags": "Kuva kõik sildid",
+        "published_count": "{{count}} projekt",
+        "published_count_plural": "{{count}} projekti",
+        "creators": "Loojad:"
+    },
+    "developers": {
+        "track_your_game_description": "Jälgige, kuidas inimesed teie mängu vaatavad, kasutades üksikasjalikku analüüsi, mis hõlmab vaatamisi, allalaadimisi ja oste. Kas soovite reklaamida? Looge allalaadimisvõtmed, et anda inimestele juurdepääs teie mängule.",
+        "design_your_games_page_description": "Looge oma mängu jaoks kohandatud leht, kust inimesed teie mängu ostavad või alla laadivad. Saate valida värvid, fondid, pildid ja videod. Kuna see on teie mänguleht, ei leia te sellelt midagi, mida te pole sinna lisanud.",
+        "upload_or_dashboard": "<1>Lae üles uus mäng</1> <em>või</em> <2>Mine juhtpaneelile</2>",
+        "create_account_or_login": "<1>Looge konto</1> <em>või</em> <2>Logige sisse</2>",
+        "share_message": "itch.io on lihtne viis oma indie-mängude veebis tasuta levitamiseks.",
+        "learn_more_about": "Loe rohkem lisateabe kohta:",
+        "upload_your_game_description": "Laadige oma indie-mäng saidile <s>itch.io</s> tasuta üles. Säilitame teie mängu ekraanipiltide ja muude mängu allalaadimistega. Teie allalaaditavad failid on alati saadaval ja alati kiired.",
+        "browser_game_description": "Teenige oma brauserimänguga raha, korraldades seda saidil <s>itch.io</s>. Teie mäng on brauserisse manustatud ja mängijad saavad annetada soovitud summa, kui neile teie mäng meeldib.",
+        "learn_more": "Lisateave",
+        "host_a_sale_description": "Reklaamige oma mänge ja hankige rohkem oste, pakkudes mänge mis tahes aja jooksul soodushinnaga.",
+        "host_a_sale": "Müügi korraldamine",
+        "track_your_game": "Jälgige oma mängu",
+        "design_your_games_page": "Kujundage oma mängu leht",
+        "upload_your_indie_game": "Laadige üles oma indie-mäng",
+        "account_faq_cta": "<1>Looge konto kohe</1> või <2>lugege KKK-d</2>",
+        "upload_a_new_game": "Uue mängu üles laadimine",
+        "product_summary2": "Saate määrata oma mängule isegi minimaalse hinna, andes fännidele võimaluse maksta teie mängu eest seda, mida nad tahavad.",
+        "product_summary1": "<s>itch.io</s> on lihtne viis oma indie-mängude võrgus tasuta levitamiseks. Laadige oma mängufailid ja ekraanipildid kõik ühte kohta üles. Looge kohandatud sihtleht, kus teie mäng on fookuses.",
+        "page_header": "Looge kohandatud leht, et oma indie-mänge kohe levitada või müüa"
+    },
+    "user_register": {
+        "page_title": "Registreeri konto",
+        "register_form": {
+            "other_registration_methods": "Muud registreerimisviisid",
+            "username": "Kasutajanimi",
+            "url_preview": "Teie profiili lehekülg on",
+            "repeat_password": "Kinnita parool",
+            "password": "Parool",
+            "your_email_address": "Sinu e-posti aadress",
+            "about_you": "Enda kohta",
+            "account_preferences_info": "Saate oma vastuseid nendele küsimustele hiljem muuta, neid kasutatakse itch.io-le vihjamiseks, kuidas see peaks end teile esitama.",
+            "interest_developer": "Olen huvitatud sisu levitamisest saidil itch.io",
+            "interest_gamer": "Olen huvitatud mängude mängimisest või allalaadimisest saidil itch.io",
+            "digest_signup": "Registreeruge iga kahe kuu tagant ilmuva itch.io kokkuvõtte uudiskirja saamiseks",
+            "accept_tos": "Nõustun <1>teenusetingimustega</1>",
+            "link_product": "Teie toote <1>{{product}}</1> ost lingitakse pärast registreerumist automaatselt teie kontoga.",
+            "log_in": "Logi sisse",
+            "already_have_account": "või on konto juba olemas?",
+            "create_account": "Looge kasutaja"
+        },
+        "create_an_account_on_itchio": "Looge kasutaja itch.io's"
+    },
+    "user_login": {
+        "errors": {
+            "please_enter_a_valid_email_address": "Palun sisesta kehtiv e-posti aadress",
+            "accept_terms": "Peate nõustuma teenusetingimustega"
+        },
+        "welcome_to_itchio": "Teretulemast itch.io veebilehele!",
+        "welcome_back": "Teretulemast tagasi!",
+        "you_are_logged_out": "Sa oled välja logitud",
+        "page_title": "Logi sisse",
+        "no_account_prompt": "Kas teil pole kontot? <1>Looge konto</1>",
+        "intent": {
+            "claim_object_title": "Logige sisse või looge kasutaja, et taotleda {{title}}.",
+            "recent_purchases": "Hiljuti tehtud ostude linkimiseks logige sisse.",
+            "claim_object": "Logige sisse või looge konto, et taotleda {{noun}}.",
+            "collection": "Enne kogusse lisamist peate kõigepealt looma itch.io konto.",
+            "follow_username": "Enne jälgimise alustamist, peate kõigepealt looma itch.io konto <1>{{username}}</1>.",
+            "comment": "Enne kommentaari jätmist peate kõigepealt looma itch.io konto.",
+            "rate_game": "Enne mängu hindamist peate kõigepealt looma itch.io konto.",
+            "follow": "Enne kellegi jälgimist peate kõigepealt looma itch.io konto.",
+            "community": "Itch.io kogukondades osalemiseks peate sisse logima. Konto loomine on tasuta ja võtab vaid mõne hetke."
+        },
+        "create_a_new_account": "Looge uus kasutaja",
+        "looking_for_something_you_bought": "Kas otsite midagi, mille ostsite?",
+        "login_form": {
+            "log_in_button": "Logi sisse",
+            "or": "või",
+            "or_log_in_with_another_site": "Või logige sisse mõne teise saidiga",
+            "create_account": "Loo konto",
+            "forgot_password": "Unustasin parooli",
+            "password": "Parool",
+            "username_or_email": "Kasutajanimi või e-post"
+        },
+        "log_in_to_your_itchio_account": "Logige sisse oma itch.io kontole"
+    },
+    "blog": {
+        "tag_filter": "Filtreerimine {{tag}}-i. <a>Eemalda silt</a>",
+        "empty_message": "Näib, et siin pole ühtegi postitust",
+        "digest": "Ülevaade",
+        "updates": "Uuendused",
+        "all_posts": "Kõik postitused"
     }
 }
