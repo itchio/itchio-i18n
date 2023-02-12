@@ -287,7 +287,14 @@
             "average_session_duration": "Keskmine seanss"
         },
         "join_the_community": "Liitu kogukonnaga",
-        "community_header": "Kogukond"
+        "community_header": "Kogukond",
+        "community_sticky": "Kleeps",
+        "post_first_topic": "Postita esimene teema",
+        "post_a_new_topic": "Postita uus teema",
+        "community_posts_count": "{{count}} postitus",
+        "community_posts_count_plural": "{{count}} postitust",
+        "community_post_author": "Tegi {{username}}",
+        "community_view_all_posts": "Vaata kõiki postitusi"
     },
     "app": {
         "meta_description": "itch, parim viis indie-mängude allalaadimiseks ja mängimiseks. Laadige alla tasuta mänge ja hallake oma kogu oma töölaualt. Nüüd saadaval Windowsi, macOS-i ja Linuxi jaoks.",
