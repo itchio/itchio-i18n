@@ -345,8 +345,16 @@
                 "you_rated_this_game": "Sa hindasid seda mängu",
                 "accepting_ratiings": "See džemm võtab praegu vastu hinnanguid esituste jaoks <a>Saa rohkem teada</a>",
                 "view_the_submission_page": "Vaatle esituse lehekülge",
-                "this_is_a_submission_to_jam_title": "See on esitus {{jam_title}} jaoks"
+                "this_is_a_submission_to_jam_title": "See on esitus {{jam_title}} jaoks",
+                "rating_instructions": "Hinda ja kommenteeri seda sissekannet džemmi jaoks külastades esituse lehekülge üleval olevas lingis."
             }
+        },
+        "after_download": {
+            "check_popup_blocker": "See allalaad peaks algama hetkeks. Kui ei alga siis kontrolli oma hüpikate blokeerijat.",
+            "more_from_creator": "Sa saad leida samalt tegijalt rohkem asju tema leheküljelt: {{profile}}",
+            "thanks_project_author": "Tänan et laadisid alla {{author}} tehtud projekti {{project}}.",
+            "thanks_for_downloading_title": "Tänan et, laadisid alla",
+            "share_this_project": "Jaga seda projekti"
         }
     },
     "app": {
