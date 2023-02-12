@@ -173,7 +173,8 @@
         },
         "filter_when": {
             "last_7_days": "Viimased 7 päeva",
-            "last_day": "Viimane Päev"
+            "last_day": "Viimane Päev",
+            "last_30_days": "Viimased 30 päeva"
         },
         "page_number": "Leht {{page_number}}",
         "loading_more_ellip": "Lean veel…",
@@ -204,7 +205,23 @@
             "years": "aastad"
         },
         "filter_price": {
-            "paid": "Tasuline"
+            "paid": "Tasuline",
+            "on_sale": "Müügil",
+            "free": "Tasuta"
+        },
+        "lightboxes": {
+            "close": "Sulge"
+        },
+        "collection_button": {
+            "add_to_collection": "Lisa kollektsiooni"
+        },
+        "pager": {
+            "first_page": "Esimene leht",
+            "previous_page": "Eelmine leht",
+            "current_page_of_total": "Leht {{current_page}} {{total_pages}}-st",
+            "next": "Järgmine",
+            "prev": "Eelmine",
+            "next_page": "Järgmine lehekülg"
         }
     },
     "game": {
