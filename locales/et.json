@@ -262,7 +262,7 @@
         "your_purchase_comes_with_a_steam_key": "Sinu ostetud toode tuleb Steam võtmega.",
         "price_or_more": "{{price}}<s>Või rohkem</s>",
         "info_panel": {
-            "tags": "Märgendid",
+            "tags": "Sildid",
             "made_with_tools": "Tehtud",
             "genre": "Žanr",
             "author": "Autor",
@@ -274,7 +274,8 @@
             "category": "Kategooria",
             "release_status": "Staatus",
             "published_at": "Avaldatud",
-            "updated_at": "Uuendatud"
+            "updated_at": "Uuendatud",
+            "code_license": "Koodilitsents"
         }
     },
     "app": {
