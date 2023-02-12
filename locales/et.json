@@ -285,7 +285,9 @@
             "inputs": "Sisendid",
             "languages": "Keeled",
             "average_session_duration": "Keskmine seanss"
-        }
+        },
+        "join_the_community": "Liitu kogukonnaga",
+        "community_header": "Kogukond"
     },
     "app": {
         "meta_description": "itch, parim viis indie-mängude allalaadimiseks ja mängimiseks. Laadige alla tasuta mänge ja hallake oma kogu oma töölaualt. Nüüd saadaval Windowsi, macOS-i ja Linuxi jaoks.",
