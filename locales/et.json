@@ -137,7 +137,9 @@
             "hour": "Ligikaudu tund aega",
             "half_hour": "Umbes pool tundi",
             "minutes": "Mõni minut",
-            "seconds": "Mõni sekund"
+            "seconds": "Mõni sekund",
+            "days": "Päevi või rohkem",
+            "hours": "Mõned tunnid"
         },
         "inputs": {
             "midi_controller": "MIDI pult",
@@ -152,12 +154,27 @@
             "keyboard": "Klaviatuur"
         },
         "follow_button": {
-            "following_username": "Jälgin {{username}}"
+            "following_username": "Jälgin {{username}}",
+            "unfollow": "Ära jälgi",
+            "unfollow_username": "Ära jälgi {{username}}",
+            "following": "Jälgin",
+            "follow": "Jälgi",
+            "follow_username": "Jälgi {{username}}"
         },
         "forms": {
             "confirm": "Kinnita",
             "form_errors": "Palun kontrolli üle teie poolt esitatud informatsioon",
-            "email_address": "E-posti aadress"
-        }
+            "email_address": "E-posti aadress",
+            "search": "Otsi",
+            "optional": "Valikuline",
+            "submit": "Esita",
+            "save": "Salvesta",
+            "required": "Vajalik"
+        },
+        "filter_when": {
+            "last_7_days": "Viimased 7 Päeva",
+            "last_day": "Viimane Päev"
+        },
+        "page_number": "Leht {{page_number}}"
     }
 }
