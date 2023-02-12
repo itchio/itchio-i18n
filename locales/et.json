@@ -355,7 +355,10 @@
             "thanks_project_author": "Tänan et laadisid alla {{author}} tehtud projekti {{project}}.",
             "thanks_for_downloading_title": "Tänan et, laadisid alla",
             "share_this_project": "Jaga seda projekti",
-            "app_learn_more": "<s>Uus!</s> Proovige oma teegi allalaadimiseks ja haldamiseks itch.io töölauarakendust. <a>Lisateave</a>"
+            "app_learn_more": "<s>Uus!</s> Proovige oma teegi allalaadimiseks ja haldamiseks itch.io töölauarakendust. <a>Lisateave</a>",
+            "more_from_itchio_header": "Vaata rohkem itch.io-st",
+            "view_all_from_jam": "Vaatle kõike džemmist",
+            "check_out_more_from_jam_title": "Vaata rohkem {{jam_title}}"
         },
         "password_required": {
             "header": "Selle lehe vaatamiseks on vaja parooli"
