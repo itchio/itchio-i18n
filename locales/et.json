@@ -252,7 +252,9 @@
             "leave_a_comment": "Jäta kommentaar",
             "leave_a_comment_header": "Jäta kommentaari",
             "comments_header": "Kommentaarid",
-            "click_to_leave_a_comment": "Kommentaari jätmiseks klõpsake…"
+            "click_to_leave_a_comment": "Kommentaari jätmiseks klõpsake…",
+            "post_comment": "Postita kommentaari",
+            "log_in_to_leave_comment": "<a>Logi sisse koos itch.io-ga</a> et, jätta kommentaari."
         },
         "donate_button": "Toeta {{noun}}",
         "steam_key_bundle_disclaimer": "(Märge: Steam võti ei ole sisaldatud {{bundle_title}} kimbus)",
