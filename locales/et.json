@@ -308,7 +308,13 @@
             "creator": "Looja",
             "view_all_by_name": "Kuva kõik {{name}} poolt",
             "following": "Jälgimised",
-            "follow": "Jälgi"
+            "follow": "Jälgi",
+            "community": "Ühiskond",
+            "comments": "Kommentaarid",
+            "add_to_collection_short": "Kollectsioon",
+            "add_to_collection": "Lisa Kollektsiooni",
+            "following_username": "Jälgid {{username}}",
+            "follow_username": "Jälgi {{username}}"
         }
     },
     "app": {
