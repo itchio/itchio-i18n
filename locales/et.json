@@ -296,7 +296,13 @@
         "community_post_author": "Tegi {{username}}",
         "community_view_all_posts": "Vaata kõiki postitusi",
         "upload_list": {
-            "preorder": "Eel-tellimus"
+            "preorder": "Eel-tellimus",
+            "empty_message": "Mittemidagi pole saadaval allalaadimiseks veel",
+            "this_file_will_be_available_when_the_creator_uploads_it": "See fail on kättesaadav kui tegija laeb selle üles",
+            "version_name": "Versioon {{version_name}}",
+            "if_you_pay_price_or_more": "Kui sa maksad {{price}} või rohkem",
+            "play_in_browser": "Mängi brauseris",
+            "download": "Lae alla"
         }
     },
     "app": {
