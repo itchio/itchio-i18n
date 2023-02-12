@@ -247,7 +247,16 @@
         "download_header": "Lae alla",
         "install_instructions": "Installimisjuhised",
         "more_information": "Rohkem informatsiooni",
-        "empty_page": "Siin ei paista midagi olevat…"
+        "empty_page": "Siin ei paista midagi olevat…",
+        "comments": {
+            "leave_a_comment": "Jäta kommentaari",
+            "leave_a_comment_header": "Jäta kommentaari",
+            "comments_header": "Kommentaarid"
+        },
+        "donate_button": "Toeta {{noun}}",
+        "steam_key_bundle_disclaimer": "(Märge: Steam võti ei ole sisaldatud {{bundle_title}} kimbus)",
+        "your_purchase_comes_with_a_steam_key": "Sinu ostetud toode tuleb Steam võtmega.",
+        "price_or_more": "{{price}}<s>Või rohkem</s>"
     },
     "app": {
         "meta_description": "itch, parim viis indie-mängude allalaadimiseks ja mängimiseks. Laadige alla tasuta mänge ja hallake oma kogu oma töölaualt. Nüüd saadaval Windowsi, macOS-i ja Linuxi jaoks.",
