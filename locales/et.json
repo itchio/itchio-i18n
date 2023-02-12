@@ -260,7 +260,22 @@
         "donate_button": "Toeta {{noun}}",
         "steam_key_bundle_disclaimer": "(Märge: Steam võti ei ole sisaldatud {{bundle_title}} kimbus)",
         "your_purchase_comes_with_a_steam_key": "Sinu ostetud toode tuleb Steam võtmega.",
-        "price_or_more": "{{price}}<s>Või rohkem</s>"
+        "price_or_more": "{{price}}<s>Või rohkem</s>",
+        "info_panel": {
+            "tags": "Märgendid",
+            "made_with_tools": "Tehtud",
+            "genre": "Žanr",
+            "author": "Autor",
+            "authors": "Autorid",
+            "rating": "Hinnang",
+            "release_date": "Väljalaskekuupäev",
+            "publisher": "Kirjastaja",
+            "platforms": "Platvormid",
+            "category": "Kategooria",
+            "release_status": "Staatus",
+            "published_at": "Avaldatud",
+            "updated_at": "Uuendatud"
+        }
     },
     "app": {
         "meta_description": "itch, parim viis indie-mängude allalaadimiseks ja mängimiseks. Laadige alla tasuta mänge ja hallake oma kogu oma töölaualt. Nüüd saadaval Windowsi, macOS-i ja Linuxi jaoks.",
