@@ -45,7 +45,7 @@
             "create": "Criar",
             "account": "Conta",
             "log_out": "Terminar sessão",
-            "settings": "Preferências",
+            "settings": "Definições",
             "view_profile": "Ver perfil",
             "host_game_jam": "Organizar uma game jam",
             "sales_bundles": "Promoções & pacotes",
@@ -55,7 +55,8 @@
             "recommendations": "Recomendações",
             "feed": "As minhas novidades",
             "library": "A minha biblioteca",
-            "account_menu_tooltip": "Menu da Conta"
+            "account_menu_tooltip": "Menu da Conta",
+            "posts": "Publicações"
         }
     },
     "index": {
@@ -426,7 +427,8 @@
                 "embed": "Incorporar",
                 "report": "Denunciar",
                 "view_all_by_username": "Ver todas as criações de {{username}}"
-            }
+            },
+            "included_in_bundle_title": "Incluído em {{bundle_title}}"
         },
         "upload_list": {
             "empty_message": "Ainda não há nada disponível para descarregar.",
@@ -716,7 +718,8 @@
             "language": "Idioma",
             "language_community_translation": "<s>itch.io é traduzido por membros da nossa comunidade.</s> Alguns idiomas estão apenas parcialmente disponíveis. Se quiser ver itch.io no seu idioma ou ajudar em corrigir erros poderá contribuir para o mesmo. <a>Saber mais</a>",
             "profile_description": "Conteúdos da página de perfil",
-            "profile": "Perfil"
+            "profile": "Perfil",
+            "use_dark_theme": "Usar um tema escuro quando disponível"
         },
         "navigation": {
             "thirdparty_analytics": "Análise de terceiros",
@@ -735,33 +738,42 @@
             "revenue_sharing": "Partilha de receitas",
             "publisher_get_started": "Começa Aqui",
             "support_email": "E-mail de Suporte",
-            "two_factor_auth": "Autenticação de Dois Fatores",
-            "email_addresses": "Endereços de E-mail",
-            "password": "Palavra-Passe",
+            "two_factor_auth": "Dois fatores",
+            "email_addresses": "Endereços de e-mail",
+            "password": "Palavra-passe",
             "profile": "Perfil",
-            "developer_header": "Desenvolvedor(a)",
-            "misc_header": "Vários",
-            "contact_header": "Contato",
-            "publisher_header": "Publicadora",
+            "developer_header": "Produtora",
+            "misc_header": "Diversos",
+            "contact_header": "Contacto",
+            "publisher_header": "Editora",
             "payment_header": "Pagamento",
             "basics_header": "Noções básicas"
         },
-        "account_settings": "Configurações da conta",
+        "account_settings": "Definições da conta",
         "email_addresses": {
             "additional_emails": {
                 "verified_column": "Verificado",
                 "email_sent_status": "Email enviado",
                 "email_column": "Endereço de Email",
-                "emails_added_header": "Emails adicionados"
+                "emails_added_header": "Emails adicionados",
+                "detach_email": "Desassociar e-mail",
+                "resend_verification_email_button": "reenviar e-mail de verificação"
             },
             "add_email_form": {
-                "add_email_button": "Adicionar Email"
+                "add_email_button": "Adicionar Email",
+                "additional_email_address_label": "Endereço de e-mail adicional"
             },
             "additional_emails_instructions": "Será-lhe enviado um email com instruções de verificação após adicionar um email adicional.",
             "change_email_form": {
                 "current_password": "Palavra-passe atual",
                 "new_email_address": "Novo endereço de email"
-            }
+            },
+            "additional_emails_summary": "Podes vincular endereços de e-mail adicionais à tua conta itch.io para teres acesso a qualquer coisa adquirida nesses mesmos endereços. Por exemplo, a tua conta PayPal pode ter um endereço de e-mail diferente do que o que usas normalmente por isso poderás querer ter o mesmo como e-mail adicional.",
+            "additional_emails_header": "E-mails adicionais",
+            "change_password_instructions": "Quando alteras o teu endereço de e-mail, terás de o verificar para acederes a quaisquer jogos que tenhas comprado. Ser-te-ão enviadas as instruções de verificação. Por razões de segurança, terás ainda de fornecer a tua palavra-passe atual para fazeres alterações ao teu endereço de e-mail.",
+            "primary_email_description": "O teu e-mail principal é para onde o itch.io enviará quaisquer notificações tuas.",
+            "your_primary_email_address": "O endereço do teu e-mail principal: {{email}}",
+            "primary_email_header": "E-mail principal"
         },
         "password": {
             "password_again": "Palavra-passe novamente",
@@ -769,7 +781,21 @@
             "password": "Palavra-passe",
             "current_password": "Palavra-passe atual",
             "set_password": "Definir palavra-passe",
-            "reset_password": "Alterar palavra-passe"
+            "reset_password": "Alterar palavra-passe",
+            "please_set_a_password_on_your_account": "Por favor, define uma palavra-passe para melhorares a segurança e poderes aceder à tua conta sem serviços de terceiros.",
+            "your_account_currently_doesnt_have_a_password": "A tua conta não tem uma palavra-passe definida.",
+            "no_password_service_name": "A tua conta não tem nenhuma palavra-passe porque te registaste através de {{service_name}}.",
+            "updating_your_password_will_cause": "Atualizar a palavra-passe fará com que todas as sessões ativas sejam terminadas. Quaisquer <a>ligações OAuth e chaves API</a> serão mantidas ativas.",
+            "new_password_again": "Repetir a palavra-passe"
+        },
+        "two_factor_auth": {
+            "status_off": "Desativado",
+            "status_on": "Ativado",
+            "tfa_status": "Estado: {{tfa_status}}",
+            "page_description": "A autenticação de dois fatores é uma camada de segurança adicional para a tua conta para prevenir acessos não autorizados caso a tua palavra-passe for roubada.",
+            "page_title": "Autenticação de dois fatores",
+            "configure_twofactor_authentication": "Configurar a autenticação de dois fatores",
+            "learn_more_about_twofactor_authentication": "Saber mais sobre a autenticação de dois-fatores"
         }
     },
     "buy_form_popup": {
@@ -780,7 +806,15 @@
         "no_description_yet": "Ainda sem descrição",
         "commonly_tagged_with": "Comumente marcado com",
         "find_tag": "Encontrar tag",
-        "page_title": "Tags principais"
+        "page_title": "Tags principais",
+        "all_tags": "Todos os marcadores",
+        "types": {
+            "tool": "Ferramentas",
+            "event": "Eventos",
+            "platform": "Plataformas",
+            "style": "Estilos",
+            "genre": "Géneros"
+        }
     },
     "browse": {
         "filter_everything_else": "Todo o resto",
@@ -824,5 +858,20 @@
         "sort_popular": "Popular",
         "results_count": "{{count}} resultado",
         "results_count_plural": "{{count}} resultados"
+    },
+    "stripe_checkout": {
+        "manage_cards_link": "Podes gerir os teus cartões nas <a>Definições da conta</a>",
+        "save_credit_card_for_future_purchases": "Guardar cartão de crédito para compras futuras",
+        "credit_or_debit_card": "Cartão de débito ou crédito",
+        "gift_instructions": "Esta compra é um presente. Poderás introduzir o e-mail do destinatário após a finalização da compra.",
+        "buying_as": "Comprar como",
+        "password": "Palavra-passe",
+        "enter_your_password_to_use_your_card": "Introduz a tua palavra-passe para usares o cartão",
+        "new_card": "Novo cartão",
+        "card_ending_last4": "Termina em {{last4}}",
+        "edit_saved_cards": "Editar cartões guardados",
+        "choose_a_card": "Escolher um cartão",
+        "payment_error_help": "Se tiveres dúvidas, por favor entra em contacto com o <a>suporte do itch.io</a> com a mensagem acima.",
+        "payment_error": "Ocorreu um erro ao processar o pagamento:"
     }
 }
