@@ -56,14 +56,15 @@
             "library": "Moje knihovna",
             "feed": "Moje příspěvky",
             "host_game_jam": "Založit game jam",
-            "game_jams": "Game jamy",
-            "account_menu_tooltip": "Nastavení účtu"
+            "game_jams": "Herní jamy",
+            "account_menu_tooltip": "Nastavení účtu",
+            "posts": "Příspěvky"
         }
     },
     "index": {
         "view_something_random": "Zobrazit něco náhodně",
         "view_all_games": "Všechny hry",
-        "fresh_games_description": "Stále obnovované nejnovějšími hrami na itch.io",
+        "fresh_games_description": "Stále obnovované nejnovější hry na itch.io",
         "recommendations_based_on": "Zakládá na tom, co jste koupili, stáhli a ohodnotili",
         "view_all_on_sale": "Zobrazit vše ve slevě",
         "popular_tags": "Oblíbené tagy",
@@ -85,30 +86,30 @@
         "view_all": "Zobrazit vše",
         "recommended_for_you": "Doporučené pro tebe",
         "fresh_games": "Čerstvé hry",
-        "view_more": "Více",
-        "people_to_follow": "(Doporučení) Lidé na sledování",
+        "view_more": "Zobrazit více",
+        "people_to_follow": "Osoby, které můžete sledovat",
         "view_all_games_on_sale": "Zobrazit všechny hry ve slevě",
-        "featured_jams": "Doporučený Jamy",
+        "featured_jams": "Doporučené jamy",
         "view_all_jams": "Zobrazit všechny jamy",
-        "more_featured_games": "Více her",
-        "game_dev_on_sale": "Zdroje pro vývoj her <1>Ve slevě</1>",
-        "people_to_follow_description": "Tyto účty by vás mohly zajímat. <a>Proč?</a>",
-        "latest_featured_games": "Nově doporučené hry",
+        "more_featured_games": "Více doporučených her",
+        "game_dev_on_sale": "Zdroje pro tvorbu her <1>V akci</1>",
+        "people_to_follow_description": "Zde je několik účtů, které by vás mohly zajímat. <a>Proč sledovat?</a>",
+        "latest_featured_games": "Nejnovější doporučené hry",
         "filtering_platform": "Vyhledávám všechny hry na {{platform_name}}",
         "view_all_platforms": "Zobrazit všechny platformy",
         "browse_content_type": "Prohlížet {{content_type}}",
         "nav": {
             "all_games": "Všechny Hry",
             "bundles": "Balíčky",
-            "game_jams": "Game jamy",
-            "devlogs": "Developerské Logy",
+            "game_jams": "Herní jamy",
+            "devlogs": "Vývojářské protokoly",
             "community": "Komunita"
         },
         "intro": "<s>itch.io</s>je jednoduchá cesta jak najít a sdílet indie hry online a zadarmo.",
-        "intro_cta": "<1>Přidej svoji hru</1> nebo <2>Si přečti FAQ </2>",
+        "intro_cta": "<1>Přidej svou hru</1> nebo <2>Si přečti FAQ </2>",
         "html5_games": "HTML5 hry",
         "page_title": "Stahuj nejnovější indie hry",
-        "meta_description": "itch.io je snadná cesta najít, stahovat a distribuovat indie hry online. Zda jsi vývojář a chceš nahrát svoji hru, nebo něco nového ke hraní, tak na to itch.io je.",
+        "meta_description": "itch.io je jednoduchý způsob jak najít, stahovat a distribuovat nezávislé hry online. Ať už jsi vývojář a chceš nahrát svou hru, nebo jen hledáš něco nového, co by sis mohl zahrát, itch.io ti to umožní.",
         "to_follow": {
             "created_projects": "Vytvořeno {{project_list}}",
             "empty_results": "Žádná další doporučení pro tebe zatím nemáme. Zkus to později",
@@ -118,7 +119,7 @@
     },
     "nags": {
         "unverified_email": {
-            "title": "Tvoje e-mailová adresa není ověřená"
+            "title": "Vaše e-mailová adresa není ověřená"
         }
     },
     "game": {
@@ -313,9 +314,9 @@
             "gamepad": "Gamepad (jakýkoliv)",
             "joystick": "Joystik",
             "touchscreen": "Dotykový display",
-            "voice": "Zvukové ovládání",
+            "voice": "Hlasové ovládání",
             "phone": "Chytrý telefon",
-            "dance_pad": "Tancovací podložka",
+            "dance_pad": "Taneční podložka",
             "accelerometer": "Akcelerometr",
             "midi_controller": "MIDI kontrolér"
         },
@@ -325,7 +326,7 @@
             "half_hour": "Okolo půl hodiny",
             "hour": "Okolo hodiny",
             "hours": "Pár hodin",
-            "days": "Dny nebo více"
+            "days": "Trvá dny nebo více času"
         },
         "forms": {
             "required": "Povinný",
@@ -334,7 +335,7 @@
             "submit": "Odeslat",
             "optional": "Nepovinný",
             "search": "Hledat",
-            "form_errors": "Prosím zkontroluj informace které jsi odeslal",
+            "form_errors": "Prosím zkontrolujte si informace které jste odeslal",
             "confirm": "Potvrdit"
         },
         "page_number": "Strana {{page_number}}",
@@ -388,11 +389,11 @@
             "public": "Veřejný"
         },
         "view_more": "Zobrazit více",
-        "dismiss": "Zavřít",
+        "dismiss": "Odmítnout",
         "release_statuses": {
             "released": "Vydaný",
             "in_development": "Ve vývoji",
-            "on_hold": "Pozdržený",
+            "on_hold": "Pozastavený",
             "canceled": "Zrušený",
             "prototype": "Prototyp"
         },
@@ -406,7 +407,7 @@
         "all_posts": "Všechny příspěvky",
         "updates": "Aktualizace",
         "empty_message": "Vypadá to, že zde nejsou žádné příspěvky",
-        "tag_filter": "Filtruju na {{tag}}. <a>Zrušit</a>",
+        "tag_filter": "Filtruji podle {{tag}}. <a>Zrušit</a>",
         "digest": "Přehled"
     },
     "user_login": {
@@ -420,28 +421,28 @@
             "or": "nebo",
             "log_in_button": "Přihlásit se"
         },
-        "looking_for_something_you_bought": "Hledáš něco co jsi koupil?",
+        "looking_for_something_you_bought": "Hledáte něco, co jste si koupili?",
         "create_a_new_account": "Vytvořit nový účet",
         "intent": {
-            "community": "K tomu aby jsi se mohl účastnit v itch.io komunitách potřebuješ itch.io účet. Tvorba účtu je zdarma a trvá jen pár minut.",
-            "comment": "Budeš potřebovat itch.io účet k tomu aby jsi mohl komentovat.",
-            "rate_game": "Budeš potřebovat itch.io účet před tím než budeš moct hodnotit.",
-            "follow": "Potřebuješ účet na itch.io aby jsi mohl někoho sledovat.",
-            "follow_username": "Potřebuješ účet na itch.io aby jsi mohl sledovat <1>{{username}}</1>.",
-            "collection": "Potřebuješ itch.io účet abys mohl přidávat do kolekce.",
+            "community": "K tomu aby jste se mohl účastnit v itch.io komunitách potřebujete itch.io účet. Tvorba účtu je zdarma a trvá jen pár minut.",
+            "comment": "Budete potřebovat itch.io účet k tomu aby jste mohl komentovat.",
+            "rate_game": "Budete potřebovat itch.io účet před tím než budete moci hodnotit.",
+            "follow": "Potřebujete účet na itch.io aby jste mohl někoho sledovat.",
+            "follow_username": "Potřebujete účet na itch.io aby jste mohl sledovat <1>{{username}}</1>.",
+            "collection": "Potřebujete itch.io účet abyste mohl přidávat do kolekce.",
             "recent_purchases": "Přihlaste se a propojte všechny nedávné nákupy.",
-            "jam_submit": "Budete potřebovat účet na itch.io než se budete moct zúčastnit game jamu.",
-            "claim_object_title": "Prosím přihlašte se nebo si vytvořte účet pro získání {{title}}.",
-            "claim_object": "Prosím přihlašte se nebo si vytvořte účet pro získání {{noun}}."
+            "jam_submit": "Budete potřebovat účet na itch.io než se budete moct zúčastnit herního jamu.",
+            "claim_object_title": "Prosím přihlaste se nebo si vytvořte účet pro získání {{title}}.",
+            "claim_object": "Prosím přihlaste se nebo si vytvořte účet pro získání {{noun}}."
         },
-        "no_account_prompt": "Nemáš účet? <1>Vytvořit účet</1>",
+        "no_account_prompt": "Nemáte účet? <1>Vytvořit účet</1>",
         "page_title": "Přihlásit se",
-        "you_are_logged_out": "Jsi odhlášen",
-        "welcome_back": "Vítej zpět!",
-        "welcome_to_itchio": "Vítej na itch.io!",
+        "you_are_logged_out": "Jste odhlášen",
+        "welcome_back": "Vítejte zpět!",
+        "welcome_to_itchio": "Vítejte na itch.io!",
         "errors": {
-            "accept_terms": "Musíš přijmout smluvní podmínky",
-            "please_enter_a_valid_email_address": "Zadejte platnou emailovou adresu"
+            "accept_terms": "Musíte přijmout smluvní podmínky",
+            "please_enter_a_valid_email_address": "Prosím zadejte platnou e-mailovou adresu"
         }
     },
     "user_register": {
@@ -450,16 +451,16 @@
             "create_account": "Vytvořit účet",
             "already_have_account": "nebo již máte účet?",
             "log_in": "Přihlásit se",
-            "link_product": "Váš nákup <1>{{product}}</1> bude po registraci automaticky propojen s vaším účtem.",
+            "link_product": "Váš nákup produktu <1>{{product}}</1> bude po registraci automaticky propojen s vaším účtem.",
             "accept_tos": "Přijímám <1>smluvní podmínky</1>",
             "about_you": "O vás",
             "interest_gamer": "Chci hrát nebo stahovat hry na itch.io",
             "interest_developer": "Chci distribuovat obsah na itch.io",
-            "your_email_address": "Vaše emailová adresa",
+            "your_email_address": "Vaše e-mailová adresa",
             "password": "Heslo",
             "repeat_password": "Zopakujte heslo",
             "account_preferences_info": "Odpovědi na tyto otázky můžete změnit později, používají se k tomu, aby naznačily jak se vám má itch.io prezentovat.",
-            "digest_signup": "Přihlásit se k odběru itch.io čtnáctideníku",
+            "digest_signup": "Přihláste mě k odběru itch.io čtnáctideníku",
             "other_registration_methods": "Ostatní registrační metody",
             "username": "Uživatelské jméno",
             "url_preview": "Vaše profilová stránka bude"
@@ -1071,16 +1072,19 @@
     },
     "notifications": {
         "page_title": "Notifikace",
-        "unseen_label": "Nové"
+        "unseen_label": "Nové",
+        "filter": "Filtr",
+        "filter_all": "Vše",
+        "filter_payments": "Platby"
     },
     "library": {
         "redeem_button": "Uplatnit",
         "rate_game": {
-            "you_rated_this_project_ago": "Ohodnotil jsi tento projekt {{time_ago}}.",
-            "rate_header": "Ohodnoť & Recenzuj {{project_title}}",
-            "choose_stars": "Vyber si hodnocení od 1 do 5 hvězdiček.",
+            "you_rated_this_project_ago": "Ohodnotil jste tento projekt {{time_ago}}.",
+            "rate_header": "Ohodnotit a Zrecenzovat {{project_title}}",
+            "choose_stars": "Vyberte si hodnocení od 1 do 5 hvězdiček.",
             "delete_button": "Smazat hodnocení & recenzi",
-            "rating_deleted_summary": "Tvoje hodnocení bylo smazáno.",
+            "rating_deleted_summary": "Vaše hodnocení bylo smazáno.",
             "rating_removed_header": "Hodnocení odstraněno",
             "follow_creator": "Zvaž sledování tvůrce {{project_title}}, aby jsi mohl být informován o jeho nových vydání.",
             "rating_saved_header": "Hodnocení uloženo"
@@ -1150,5 +1154,17 @@
     },
     "game_grid": {
         "in_bundle": "V balíčku"
+    },
+    "user": {
+        "verify_email": {
+            "we_were_unable_to_verify_your_email_address": "Vaši e-mailovou adresu se nám nepodařilo ověřit",
+            "your_email_address_has_been_verified": "Vaše e-mailová adresa byla ověřena",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "E-mailovou adresu nelze ověřit, pokud jste přihlášeni k jinému účtu"
+        }
+    },
+    "user_forgot_password": {
+        "reset_password": "Restartovat heslo",
+        "link_sent": "Na primární adresu vašeho účtu byl odeslán odkaz pro obnovení hesla.",
+        "please_provide_a_new_password_for_account": "Zadejte prosím nové heslo k účtu {{account_name}}."
     }
 }
