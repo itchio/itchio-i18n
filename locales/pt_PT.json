@@ -872,6 +872,7 @@
         "edit_saved_cards": "Editar cartões guardados",
         "choose_a_card": "Escolher um cartão",
         "payment_error_help": "Se tiveres dúvidas, por favor entra em contacto com o <a>suporte do itch.io</a> com a mensagem acima.",
-        "payment_error": "Ocorreu um erro ao processar o pagamento:"
+        "payment_error": "Ocorreu um erro ao processar o pagamento:",
+        "pay_price_button": "Pagar {{price}}"
     }
 }
