@@ -11,7 +11,7 @@
             "assets": "Ігрові ассети",
             "game_mod": "Ігрові моди",
             "physical_game": "Кімнатні ігри",
-            "soundtrack": "Саундтреки",
+            "soundtrack": "Альбоми та саундтреки",
             "other": "Різне",
             "tool": "Інструменти",
             "comic": "Комікси",
@@ -59,7 +59,8 @@
             "submit": "Підтвердити",
             "optional": "Опціонально",
             "search": "Шукати",
-            "form_errors": "Просимо перевірити надану інформацію"
+            "form_errors": "Просимо перевірити надану інформацію",
+            "confirm": "Підтвердити"
         },
         "page_number": "Сторінка {{page_number}}1",
         "follow_button": {
@@ -233,7 +234,8 @@
             "view_profile": "Переглянути профіль",
             "recommendations": "Рекомендації",
             "library": "Моя бібліотека",
-            "dashboard": "Панель"
+            "dashboard": "Панель",
+            "posts": "Пости"
         }
     },
     "index": {
@@ -414,7 +416,7 @@
         "meta_description": "itch, найкращий спосіб скачувати та грати в інді-ігри. Завантажуйте безкоштовні ігри та керуйте своєю бібліотекою зі свого ПК. Вже доступний для Windows, macOS та Linux."
     },
     "game": {
-        "empty_page": "Здається тут нічого немає...",
+        "empty_page": "Здається тут нічого немає…",
         "more_information": "Більше інформації",
         "install_instructions": "Інструкції з встановлення",
         "download_header": "Завантажити",
@@ -441,12 +443,12 @@
         "your_purchase_comes_with_a_steam_key": "До вашої покупки додається ключ Steam.",
         "steam_key_bundle_disclaimer": "(Зазначте: Ключ Steam не включений в {{bundle_title}})",
         "donate_button": "Підтримати {{noun}}",
-        "empty_page_no_uploads": "Творець ще нічого не вивантажив...",
+        "empty_page_no_uploads": "Творець ще нічого не вивантажив…",
         "comments": {
             "comments_header": "Коментарі",
             "leave_a_comment_header": "Залишити коментар",
             "leave_a_comment": "Залишити коментар",
-            "click_to_leave_a_comment": "Клікніть, щоб залишити коментар...",
+            "click_to_leave_a_comment": "Клікніть, щоб залишити коментар…",
             "log_in_to_leave_comment": "<a>Ввійдіть в акаунт itch.io</a>, щоб залишити коментар.",
             "post_comment": "Коментувати",
             "write_your_comment": "Залиште свій коментар…"
@@ -537,7 +539,8 @@
                 "you_rated_this_game": "Ви оцінили цю гру",
                 "now_accepting_ratings": "В цьому джемі наразі проходить оцінювання робіт.",
                 "rating_instructions": "Оцініть та прокоментуйте цю джем-роботу, відвідавши сторінку за посиланням."
-            }
+            },
+            "included_in_bundle_title": "Входить до складу {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "Поділитись цим проектом",
@@ -613,7 +616,7 @@
             "delete_topic": "Видалити тему",
             "delete": "Видалити",
             "report": "Поскаржитись",
-            "ban": "Забанити...",
+            "ban": "Забанити…",
             "vote_up": "Проголосувати за",
             "vote_down": "Проголосувати проти",
             "deleted_account": "Видалений акаунт",
