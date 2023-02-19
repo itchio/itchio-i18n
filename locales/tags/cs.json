@@ -322,6 +322,27 @@
         "working-simulator": "Simulátor práce",
         "audio": "Audio",
         "animation": "Animace",
-        "adult": "Dospělí"
+        "adult": "Dospělí",
+        "prototype": "Prototyp",
+        "print-and-play": "Vytiskni a hraj",
+        "png": "PNG",
+        "pinball": "Pinball",
+        "picocad": "picoCAD",
+        "perspective": "Perspektiva",
+        "period-piece": "Dobové dílo",
+        "pbta": "PbtA",
+        "painting": "Malování",
+        "osr": "OSR",
+        "open-source": "Otevřený zdrojový kód",
+        "one-shot": "Jeden výstřel",
+        "one-page": "Jednostránkový",
+        "nsfw": "NSFW",
+        "modular": "Modulární",
+        "modern": "Moderní",
+        "mental-health": "Duševní zdraví",
+        "meme": "Mem",
+        "meaningful-choices": "Smysluplná rozhodnutí",
+        "magical-realism": "Magický realismus",
+        "lovecraft": "Lovecraftovský horor"
     }
 }
