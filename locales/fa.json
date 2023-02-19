@@ -64,7 +64,7 @@
             "assets": "پکیج‌ای ساخت بازی",
             "game_mod": "تغییرات مخصوص بازی‌ها",
             "physical_game": "بازی‌های فیزیکی",
-            "soundtrack": "موسیقی بازی‌ها",
+            "soundtrack": "موسیقی ها و آلبوم ها",
             "other": "متفرقه",
             "tool": "ابزارها",
             "comic": "کمیک‌ها",
@@ -366,7 +366,7 @@
             "leave_a_comment_header": "نظر قرار دهید",
             "comments_header": "نظرات"
         },
-        "empty_page_no_uploads": "سازنده هنوز چیزی بارگذاری نکرده است ...",
+        "empty_page_no_uploads": "سازنده هنوز چیزی بارگذاری نکرده است. . .",
         "donate_button": "پشتیبانی از این {{noun}}",
         "steam_key_bundle_disclaimer": "(توجه: کلید Steam در {{bundle_title}} گنجانده نشده است)",
         "your_purchase_comes_with_a_steam_key": "خرید شما دارای کلید Steam است.",
@@ -388,7 +388,7 @@
         "get_access_preorder": "به فایل‌های زیر پس از انتشار دسترسی پیدا خواهید کرد:",
         "get_access": "به فایل‌های زیر دسترسی پیدا خواهید کرد:",
         "download_access": "برای دسترسی به فایل‌های زیر، روی دانلود کلیک کنید:",
-        "empty_page": "به نظر می رسد اینجا هیچ چیزی نباشد ...",
+        "empty_page": "به نظر می رسد اینجا هیچ چیزی نباشد. . .",
         "password_required": {
             "header": "برای مشاهده این صفحه به یک گذرواژه نیاز است"
         }
