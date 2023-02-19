@@ -339,7 +339,11 @@
             "new_password_again": "Yeni şifreyi tekrarlayın",
             "reset_password": "Şifreyi sıfırla",
             "set_password": "Şifre ayarla",
-            "current_password": "Şu anki şifre"
+            "current_password": "Şu anki şifre",
+            "please_set_a_password_on_your_account": "Gelişmiş güvenlik ve hesabınıza herhangi bir üçüncü-parti hizmeti olmadan erişebilmeniz için lütfen hesabınıza bir şifre belirleyin.",
+            "your_account_currently_doesnt_have_a_password": "Hesabınızın şu anda bir şifresi yok.",
+            "no_password_service_name": "{{service_name}} ile kayıt olduğunuz için hesabınızın şu anda bir şifresi yok.",
+            "updating_your_password_will_cause": "Parolanızı güncellemek, diğer oturumların sonlanmasına neden olacaktır. Tüm <a>OAuth bağlantıları ve API anahtarları</a> etkin kalacaktır."
         },
         "email_addresses": {
             "primary_email_header": "Ana e-posta adresi",
@@ -366,7 +370,16 @@
             "additional_emails_summary": "Bu e-posta adresleri altında satın alınan herhangi bir şeye erişmek için ek e-posta adreslerini itch.io hesabınıza bağlayabilirsiniz. Örneğin, PayPal e-posta adresiniz normal e-posta adresinizden farklı olabilir, bu nedenle ek e-posta olarak eklemek isteyebilirsiniz.",
             "additional_emails_instructions": "Ek bir e-posta adresi eklediğinizde doğrulama için e-posta gönderilecektir."
         },
-        "account_settings": "Hesap ayarları"
+        "account_settings": "Hesap ayarları",
+        "two_factor_auth": {
+            "status_off": "Kapalı",
+            "status_on": "Açık",
+            "tfa_status": "Durum: {{tfa_status}}",
+            "page_description": "İki faktörlü kimlik doğrulama, parolanızın çalınması durumunda yetkisiz erişimi önlemeye yardımcı olmak için hesabınız için ek bir güvenlik katmanıdır.",
+            "configure_twofactor_authentication": "İki faktörlü kimlik doğrulamasını yapılandırın",
+            "page_title": "İki faktörlü kimlik doğrulama",
+            "learn_more_about_twofactor_authentication": "İki faktörlü kimlik doğrulama hakkında daha fazla bilgi edinin"
+        }
     },
     "browse": {
         "clear_filters": "Temizle",
@@ -415,7 +428,15 @@
         "page_title": "Popüeler etiketler",
         "find_tag": "Etiket bul",
         "commonly_tagged_with": "Genelde şununla etiketlenmiş:",
-        "no_description_yet": "Henüz bir açıklama yok"
+        "no_description_yet": "Henüz bir açıklama yok",
+        "all_tags": "Tüm etiketler",
+        "types": {
+            "tool": "Araçlar",
+            "event": "Etkinlikler",
+            "platform": "Platformlar",
+            "style": "Stiller",
+            "genre": "Türler"
+        }
     },
     "buy_form_popup": {
         "author_line": "{{author}} <1> isimli geliştiriciden</1>",
@@ -556,7 +577,7 @@
         "community_description": "Uygulamanın geliştirme süreci ile ilgili daha fazla bilgiye <1>topluluğumuzdan</1> ulaşabilirsiniz. Eklenmesini istediğiniz yeni özellikleri ve geribildirimlerinizi itch.io üyeleri ile paylaşın. Yazılımcıysanız projenin kaynak kodlarına <2>GitHub üzerinden</2> ulaşabilirsiniz. Yapacağınız katkıları heyecan ile bekliyoruz."
     },
     "game": {
-        "empty_page": "Görünüşe göre burada hiçbir şey yok...",
+        "empty_page": "Burada hiçbir şey yok gibi gözüküyor…",
         "more_information": "Daha fazla bilgi",
         "install_instructions": "Yükleme talimatları",
         "download_header": "İndir",
@@ -588,7 +609,7 @@
             "comments_header": "Yorumlar",
             "leave_a_comment_header": "Yorum bırak",
             "leave_a_comment": "Yorum bırak",
-            "click_to_leave_a_comment": "Yorum yazmak için tıklayın...",
+            "click_to_leave_a_comment": "Yorum yazmak için tıklayın…",
             "log_in_to_leave_comment": "Yorum yazmak için <a>itch.io'ya giriş yapın</a>.",
             "post_comment": "Yorum gönder",
             "write_your_comment": "Yorumunuzu yazın…"
@@ -607,7 +628,7 @@
             "genre": "Tür",
             "made_with_tools": "Kullanılan araçlar",
             "tags": "Etiketler",
-            "code_license": "Lisans",
+            "code_license": "Kod lisansı",
             "asset_license": "Kaynak dosyası lisansı",
             "average_session_duration": "Ortalama oturum süresi",
             "languages": "Diller",
@@ -681,7 +702,8 @@
                 "rating_instructions": "Yukarıdaki bağlantı ile gönderinin sayfasını ziyaret ederek yorum yazabilir ve puan verebilirsiniz."
             },
             "view_all_by_name": "{{name}} tarafından geliştirilenler",
-            "submission_to_jam": "{{jam_title}} gönderisi"
+            "submission_to_jam": "{{jam_title}} gönderisi",
+            "included_in_bundle_title": "{{bundle_title}} paketine dahil"
         },
         "after_download": {
             "share_this_project": "Bu projeyi paylaş",
@@ -755,7 +777,7 @@
             "delete_topic": "Başlığı sil",
             "delete": "Sil",
             "report": "Şikayet et",
-            "ban": "Engelle...",
+            "ban": "Yasakla…",
             "vote_up": "Artı oy ver",
             "vote_down": "Eksi oy ver",
             "deleted_account": "Hesabı sil",
@@ -813,7 +835,7 @@
             "new_flag": "Yeni",
             "archived_flag": "Arşivdekiler",
             "by_topic_author": "yazar: {{username}}",
-            "view_this_communitys_rules": "Bu topluluğun kurallarını görüntüle..."
+            "view_this_communitys_rules": "Bu topluluğun kurallarını görüntüle…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> görüntüleme",
@@ -985,14 +1007,14 @@
                 "unavailable_to_rate": "Kendi girdinizi göndermediğiniz için bu projeye puan veremezsiniz. Yine de aşağıya bir yorum bırakabilirsiniz."
             },
             "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
-            "rated_by_people_count_plural": "Şimdiye dek {{count}} kişi tarafından oylandı",
+            "rated_by_people_count_plural": "Şimdiye kadar {{count}} kişi tarafından derecelendirildi.",
             "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
             "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
             "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
             "ranked_with_vote_count_plural": "{{count}} oy(lar)la {{ordinal_rank}} sırada",
             "results_header": "Sonuçlar",
             "ranked_from_count": "<s> {{count}} derecelendirmeye </s> göre sıralanmıştır.",
-            "ranked_from_count_plural": "<s>{{count}} puanla</s> derecelendirildi.",
+            "ranked_from_count_plural": "<s>{{count}} derecelendirmelere </s> göre sıralandı.",
             "score_information": "Skor, ham puandan jam içindeki oyun başına ortalama derecelendirme sayısına göre ayarlanır.",
             "run_project": "Projeyi çalıştır",
             "play_game": "Oyunu oyna",
@@ -1060,7 +1082,7 @@
             "there_are_no_submissions_yet": "Henüz gönderim yok"
         },
         "screenshots": {
-            "loading_more": "Daha fazla ekran görüntüsü yükleniyor...",
+            "loading_more": "Daha fazla ekran görüntüsü yükleniyor…",
             "empty_message": "Henüz yüklenmiş bir ekran görüntüsü yok"
         }
     },
@@ -1129,7 +1151,8 @@
         "filter_collections_tab": "Koleksiyonlar",
         "filter_new_projects_tab": "Yeni projeler",
         "filter_everything_tab": "Her şey",
-        "filter_own_activity_tab": "Kendi aktivitem"
+        "filter_own_activity_tab": "Kendi aktivitem",
+        "filter_posts_tab": "Gönderiler"
     },
     "jams": {
         "count_joined": "{{count}} katıldı",
@@ -1314,6 +1337,9 @@
             "rewards": "Ödüller",
             "admins": "Yöneticiler",
             "more": "Daha"
+        },
+        "blog_posts": {
+            "new_post": "Yeni gönderi"
         }
     },
     "nags": {
@@ -1341,6 +1367,28 @@
     },
     "notifications": {
         "page_title": "Bildirimler",
-        "unseen_label": "Yeni"
+        "unseen_label": "Yeni",
+        "filter_payments": "Ödemeler",
+        "filter_replies": "Yanıtlar",
+        "filter_all": "Tümü",
+        "filter": "Filtrele"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Lütfen {{account_name}} hesabı için yeni bir şifre girin.",
+        "link_sent": "Hesabınızın birincil adresine bir şifre sıfırlama bağlantısı gönderildi.",
+        "enter_your_email": "Kaydolduğunuz e-posta adresini girin, size şifrenizi sıfırlamak için bir bağlantı göndereceğiz.",
+        "reset_password": "Şifrenizi Yenileyin"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Farklı bir hesapta oturum açtığınızda bir e-posta adresini doğrulayamazsınız",
+            "your_email_address_has_been_verified": "E-posta adresiniz doğrulandı",
+            "we_were_unable_to_verify_your_email_address": "E-posta adresinizi doğrulayamadık",
+            "submit_button": "E-posta doğrulamasını onaylayın",
+            "page_title": "E-posta adresinizi doğrulayın",
+            "you_will_automatically_be_logged_in": "E-posta adresinizi doğruladıktan sonra otomatik olarak hesabınıza giriş yapacaksınız.",
+            "link_purchases": "Daha önce yalnızca e-posta adresinizle herhangi bir satın alma işlemi yaptıysanız, bunlar otomatik olarak hesabınızla ilişkilendirilecektir.",
+            "confirm_verification": "Lütfen {{account}} hesabı için {{email_address}} e-posta adresini doğrulamayı onaylayın. itch.io üzerinde pek çok işlem yapabilmek için e-posta adresinizi doğrulamanız gerekmektedir."
+        }
     }
 }
