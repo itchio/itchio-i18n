@@ -55,7 +55,8 @@
             "recommendations": "پیشنهادها",
             "library": "کتابخانه‌ی من",
             "feed": "خوراک من",
-            "account_menu_tooltip": "منوی حساب کاربری"
+            "account_menu_tooltip": "منوی حساب کاربری",
+            "posts": "پست‌ها"
         }
     },
     "misc": {
@@ -64,7 +65,7 @@
             "assets": "پکیج‌ای ساخت بازی",
             "game_mod": "تغییرات مخصوص بازی‌ها",
             "physical_game": "بازی‌های فیزیکی",
-            "soundtrack": "موسیقی ها و آلبوم ها",
+            "soundtrack": "موسیقی‌ها و آلبوم‌ها",
             "other": "متفرقه",
             "tool": "ابزارها",
             "comic": "کمیک‌ها",
@@ -295,7 +296,7 @@
         },
         "layout": {
             "jam_submission": {
-                "rating_instructions": "با مراجعه به صفحه ارائه از پیوند بالا ، به این ورودی گردهمایی امتیاز دهید و نظر دهید.",
+                "rating_instructions": "برای ارسال دیدگاه و امتیاز دادن به این مورد از گیم جم، از لینک بالا وارد صفحه‌ی ثبت آن شوید.",
                 "now_accepting_ratings": "گردهمایی در حال حاضر رتبه بندی برای ورودی ها را می پذیرد.",
                 "you_rated_this_game": "شما به این بازی امتیاز دادید",
                 "accepting_ratiings": "گردهمایی در حال حاضر رتبه بندی برای ارائه ها را می پذیرد. <a> بیشتر بیاموزید </a>",
@@ -329,7 +330,7 @@
             "edit_rating": "ویرایش امتیاز دهی",
             "devlog": "گزارش توسعه",
             "community": "انجمن",
-            "comments": "نظرات",
+            "comments": "دیدگاه‌ها",
             "add_to_collection_short": "مجموعه",
             "add_to_collection": "افزودن به مجموعه",
             "following_username": "{{username}} را دنبال می کنید",
@@ -358,15 +359,15 @@
         "join_the_community": "به انجمن بپیوندید",
         "community_header": "انجمن",
         "comments": {
-            "write_your_comment": "نظر خود را بنویسید…",
+            "write_your_comment": "دیدگاه خود را بنویسید…",
             "post_comment": "ارسال نظر",
-            "log_in_to_leave_comment": "برای ارسال نظر <a> با itch.io وارد شوید </a>.",
+            "log_in_to_leave_comment": "برای ارسال دیدگاه، <a>وارد itch.io شوید</a>.",
             "click_to_leave_a_comment": "برای گذاشتن نظر کلیک کنید ...",
-            "leave_a_comment": "نظر قرار دهید",
-            "leave_a_comment_header": "نظر قرار دهید",
-            "comments_header": "نظرات"
+            "leave_a_comment": "دیدگاهی بگذارید",
+            "leave_a_comment_header": "دیدگاهی بگذارید",
+            "comments_header": "دیدگاه‌ها"
         },
-        "empty_page_no_uploads": "سازنده هنوز چیزی بارگذاری نکرده است. . .",
+        "empty_page_no_uploads": "سازنده هنوز چیزی بارگذاری نکرده است…",
         "donate_button": "پشتیبانی از این {{noun}}",
         "steam_key_bundle_disclaimer": "(توجه: کلید Steam در {{bundle_title}} گنجانده نشده است)",
         "your_purchase_comes_with_a_steam_key": "خرید شما دارای کلید Steam است.",
@@ -415,7 +416,7 @@
         "create_a_new_account": "ساخت یک حساب کاربری جدید",
         "intent": {
             "community": "برای شرکت در انجمن‌ها باید وارد حساب کاربری خود شوید. ساخت حساب کاربری رایگان است و فقط چند لحظه زمان می‌برد.",
-            "comment": "برای نظر دادن به یک حساب کاربری در itch.io نیاز دارید.",
+            "comment": "برای ارسال دیدگاه، به یک حساب کاربری در itch.io نیاز دارید.",
             "rate_game": "برای امتیاز دادن به یک بازی به حساب کاربری نیاز دارید.",
             "follow": "برای دنبال کردن یک شخص در این سایت به حساب کاربری نیاز دارید.",
             "jam_submit": "قبل از شرکت در گردهمایی به یک حساب کاربری دز itch.io نیاز خواهید داشت.",
