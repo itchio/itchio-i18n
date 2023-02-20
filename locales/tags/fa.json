@@ -325,6 +325,15 @@
         "audio": "صدا",
         "animation": "انیمیشن",
         "adult": "بزرگ سال",
-        "wordle": "Wordle"
+        "wordle": "Wordle",
+        "gui": "رابط کاربری گرافیکی(GUI)",
+        "gmless": "جی ام-لسس(GM-Less)",
+        "gacha": "گاچا",
+        "furry": "حیوان ها",
+        "folklore": "داستانی (Folklore)",
+        "eroge": "اروگه +18",
+        "endesga-32": "اندسگا ۳۲(ENDESGA 32)",
+        "ciphers": "رمز ها",
+        "bara": "بارا (bara)"
     }
 }
