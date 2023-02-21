@@ -309,7 +309,11 @@
                 "percent_off": "{{percent}}%-os leárazás",
                 "download": "Letöltés",
                 "send_gift": "Ajándék küldése",
-                "you_own_this": "Ezt birtoklod"
+                "you_own_this": "Ezt birtoklod",
+                "purchased_for_price": "Megvetted ennyiért {{price}}",
+                "purchased_in_a_bundle_for_price": "Megvetted egy csomagban ennyiért {{price}}",
+                "you_were_gifted_this": "Ezt az ajándékot kaptad",
+                "you_havent_sent_this_gift_to_anyone_yet": "Ezt az ajándékot még senkinek se küldted el"
             },
             "community": "Közösség",
             "comments": "Megjegyzések",
@@ -323,10 +327,22 @@
             "follow_username": "{{username}} követése",
             "following": "Követve",
             "follow": "Követés",
-            "creator": "Készítő"
+            "creator": "Készítő",
+            "devlog": "Készítőivlog",
+            "jam_submission": {
+                "you_rated_this_game": "Értékelted a játékot"
+            },
+            "footer": {
+                "updated_date": "Frissítve ekkor: {{date}}",
+                "report": "Bejelentés",
+                "view_all_by_username": "Minden megtekintése {{username}} nevű felhasználótól"
+            },
+            "related_games_short": "Hasonló",
+            "related_games": "Hasonló játékok",
+            "view_all_by_name": "Minden megtekintése {{name}} alapján"
         },
         "upload_list": {
-            "if_you_pay_price_or_more": "ha fizetsz legalább {{price}} vagy többet",
+            "if_you_pay_price_or_more": "Ha fizetsz legalább {{price}} vagy többet",
             "empty_message": "Még semmi sem elérhető letöltésre.",
             "this_file_will_be_available_when_the_creator_uploads_it": "Ez a fájl elérhető lesz amint a készítő feltölti.",
             "version_name": "{{version_name}} verzió",
@@ -386,7 +402,16 @@
         "post_first_topic": "Első téma közzététele",
         "post_a_new_topic": "Új téma közzététele",
         "development_log_header": "Fejlesztési napló",
-        "empty_page_no_uploads": "Ez a készítő még nem töltött fel semmit…"
+        "empty_page_no_uploads": "Ez a készítő még nem töltött fel semmit…",
+        "after_download": {
+            "check_popup_blocker": "A letöltésnek egyből el kellene kezdődnie. Ha nem, ellenőrizd a felugró ablak tiltót.",
+            "more_from_creator": "Többet találhatsz ugyanattól a készítőtől az oldalán: {{profile}} .",
+            "thanks_project_author": "Köszönöm hogy letöltötted a {{project}} játékot amit {{author}} hozott létre.",
+            "thanks_for_downloading_title": "Köszönöm a letöltést",
+            "share_this_project": "Projekt megosztása"
+        },
+        "community_sticky": "Ragadós",
+        "community_view_all_posts": "Minden poszt megtekintése"
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
@@ -638,9 +663,9 @@
             "rate_header": "Pontozd és értékeld a(z) {{project_title}}-t",
             "choose_stars": "Válassz egy pontszámot 1 és 5 között.",
             "delete_button": "Értékelés és pontszám törlése",
-            "rating_deleted_summary": "Az értékelésed törölve.",
+            "rating_deleted_summary": "Az értékelésed törölve lett.",
             "rating_removed_header": "Értékelés törölve",
-            "follow_creator": "Foltosd meg a(z) {{project_title}} fejlesztőjének követését, hogy ne maradj le a legújabb kiadásról.",
+            "follow_creator": "Gondold meg a(z) {{project_title}} fejlesztőjének követését, hogy ne maradj le a legújabb fejleményekről.",
             "rating_saved_header": "Értékelés elmentve"
         },
         "gift_button": "Ajándék",
@@ -802,7 +827,9 @@
         "profile_notice": {
             "add_a_profile_image": "Adj meg egy profilképet",
             "description": "A fiókodnak nincsen profilképe, adj hozzá egyet, így a többiek egy pillanat alatt fel tudnak ismerni!"
-        }
+        },
+        "filter_posts_tab": "Posztok",
+        "upload_a_game_button": "Játék feltöltése"
     },
     "jams": {
         "count_joined": "{{count}} csatlakozott",
@@ -1025,5 +1052,19 @@
             "fewer_options": "Kevesebb opció",
             "clear_filter": "Szűrő törlése"
         }
+    },
+    "user": {
+        "verify_email": {
+            "page_title": "Igazold az e-mail címed"
+        }
+    },
+    "notifications": {
+        "filter_follows": "Követések",
+        "filter_payments": "Fizetések",
+        "filter_replies": "Válaszok",
+        "filter_all": "Minden",
+        "filter": "Szűrő",
+        "unseen_label": "Új",
+        "page_title": "Értesítések"
     }
 }
