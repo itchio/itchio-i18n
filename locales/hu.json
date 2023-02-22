@@ -351,7 +351,7 @@
             "preorder": "Előrendelés"
         },
         "community_posts_count": "{{count}} bejegyzés",
-        "community_posts_count_plural": "{{count}} bejegyzés",
+        "community_posts_count_plural": "",
         "community_post_author": "{{username}} tette közé",
         "join_the_community": "Csatlakozz a közösséghez",
         "community_header": "Közösség",
@@ -377,7 +377,9 @@
             "accessibility": "Kisegítő lehetőségek",
             "tags": "Címkék",
             "publisher": "Kiadó",
-            "made_with_tools": "Segítségével készítve"
+            "made_with_tools": "Segítségével készítve",
+            "average_session_duration": "Átlagos játékidő",
+            "asset_license": "Eszközlicenc"
         },
         "comments": {
             "comments_header": "Megjegyzések",
@@ -685,7 +687,7 @@
         "view_all_link": "Összes megtekintése",
         "things_you_own_header": "Dolgok, amiket birtokolsz",
         "page_title": "A könyvtáram",
-        "go_to_collection_link": "A gyűjtemény megtekintése"
+        "go_to_collection_link": "Ugrás a gyűjteményhez"
     },
     "nags": {
         "unverified_email": {
