@@ -323,7 +323,7 @@
             "edit_your_rating": "Értékelésed szerkesztése",
             "add_to_collection_short": "Gyűjtemény",
             "add_to_collection": "Gyűjteményhez adás",
-            "following_username": "{{username}} követve",
+            "following_username": "Követed {{username}}",
             "follow_username": "{{username}} követése",
             "following": "Követve",
             "follow": "Követés",
@@ -344,14 +344,14 @@
         "upload_list": {
             "if_you_pay_price_or_more": "Ha fizetsz legalább {{price}} vagy többet",
             "empty_message": "Még semmi sem elérhető letöltésre.",
-            "this_file_will_be_available_when_the_creator_uploads_it": "Ez a fájl elérhető lesz amint a készítő feltölti.",
+            "this_file_will_be_available_when_the_creator_uploads_it": "Ez a fájl elérhető lesz amint a készítő feltölti",
             "version_name": "{{version_name}} verzió",
             "play_in_browser": "Játék a böngészőben",
             "download": "Letöltés",
             "preorder": "Előrendelés"
         },
         "community_posts_count": "{{count}} bejegyzés",
-        "community_posts_count_plural": "",
+        "community_posts_count_plural": "{{count}} bejegyzés",
         "community_post_author": "{{username}} tette közé",
         "join_the_community": "Csatlakozz a közösséghez",
         "community_header": "Közösség",
@@ -1057,7 +1057,8 @@
     },
     "user": {
         "verify_email": {
-            "page_title": "Igazold az e-mail címed"
+            "page_title": "Igazold az e-mail címed",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Nem tudod hitelesíteni az email címed mikor másik fiókba vagy belépve"
         }
     },
     "notifications": {
@@ -1068,5 +1069,8 @@
         "filter": "Szűrő",
         "unseen_label": "Új",
         "page_title": "Értesítések"
+    },
+    "user_forgot_password": {
+        "enter_your_email": "Írd be az email címed (amivel regisztráltál) és arra a címre kapni fogsz egy linket amivel  megtudod változtatni  a jelszavad"
     }
 }
