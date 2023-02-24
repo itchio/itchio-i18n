@@ -62,7 +62,7 @@
     "misc": {
         "classifications": {
             "game": "بازی‌ها",
-            "assets": "پکیج‌ای ساخت بازی",
+            "assets": "پکیج‌های ساخت بازی",
             "game_mod": "تغییرات مخصوص بازی‌ها",
             "physical_game": "بازی‌های فیزیکی",
             "soundtrack": "موسیقی‌ها و آلبوم‌ها",
@@ -72,17 +72,17 @@
             "book": "کتاب‌ها"
         },
         "accessibility_features": {
-            "colorblind": "مخصوص افراد کوررنگ",
+            "colorblind": "سازگار با افراد کوررنگ",
             "subtitles": "زیرنویس‌ها",
             "configurable_controls": "کنترل‌های قابل پیکربندی",
             "highcontrast": "کنتراست بالا",
             "tutorial": "آموزش تعاملی",
             "one_button": "تک دکمه",
-            "blind": "مخصوص افراد نابینا",
+            "blind": "سازگار با افراد نابینا",
             "textless": "بدون متن"
         },
         "multiplayer_features": {
-            "local": "چند نفره‌ی محلی",
+            "local": "چند نفره‌ی بدون شبکه",
             "server": "چند نفره‌ی شبکه‌ای تحت سرور",
             "adhoc": "چند نفره‌ی شبکه‌ای با Ad-hoc"
         },
@@ -93,10 +93,10 @@
             "joystick": "جوی‌استیک",
             "touchscreen": "صفحه لمسی",
             "voice": "کنترل با صدا",
-            "accelerometer": "شتاب سنج",
+            "accelerometer": "شتاب‌سنج",
             "phone": "گوشی هوشمند",
             "dance_pad": "صفحه رقص",
-            "midi_controller": "کنترل با MIDI"
+            "midi_controller": "کنترلر MIDI"
         },
         "durations": {
             "seconds": "چند ثانیه",
@@ -113,7 +113,7 @@
             "submit": "ثبت",
             "optional": "اختیاری",
             "search": "جستجو",
-            "form_errors": "لطفا اطلاعاتی که وارد کردید را کنترل کنید",
+            "form_errors": "لطفا اطلاعاتی که وارد کردید را بررسی کنید",
             "confirm": "تایید"
         },
         "page_number": "صفحه‌ی {{page_number}}",
@@ -397,7 +397,7 @@
     "blog": {
         "all_posts": "همه‌ی پست‌ها",
         "updates": "به‌روزرسانی‌ها",
-        "empty_message": "به نظر هیچ پستی در اینجا وجود ندارد",
+        "empty_message": "به نظر هیچ پستی اینجا وجود ندارد",
         "digest": "مجله",
         "tag_filter": "در حال فیلتر به {{tag}}. <a>پاک کردن برچسب</a>"
     },
@@ -751,7 +751,7 @@
         "related_collections": "مجموعه های مرتبط",
         "clear_filters": "پاک کردن",
         "filter_results": "نتایج فیلتر",
-        "upload_your_project": "<a>پروژه خود را بارگذاری کنید</a> در itch.io تا در اینجا نمایش داده شود.",
+        "upload_your_project": "پروژه‌ی خود را <a>در itch.io بارگذاری کنید</a> تا اینجا نمایش داده شود.",
         "sort": "مرتب سازی",
         "sort_most_recent": "اخیرا",
         "sort_top_rated": "دارای رتبه برتر",
@@ -777,7 +777,7 @@
         "agree_to_terms": "با تکمیل پرداخت ، شما با <1>شرایط خدمات</1> و <2>خط مشی رازداری</2> itch.io موافقت می کنید.",
         "included_files": "فایلهای شامل",
         "i_already_paid_for_this": "من قبلاً هزینه این را پرداخته ام ...",
-        "email_address_description": "تأیید پرداخت شما در اینجا ارسال می شود",
+        "email_address_description": "تایید پرداخت شما، اینجا ارسال خواهد شد",
         "your_email_address": "آدرس ایمیل شما",
         "download_this_product_by_purchasing_it_for": "این محصول را با خرید به قیمت {{price}} یا بیشتر دانلود کنید.",
         "preorder_this_product_by_purchasing_it_for": "با قیمت {{price}} یا بیشتر این محصول را پیش خرید کنید.",
