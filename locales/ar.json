@@ -63,7 +63,8 @@
             "recommendations": "الموصي به",
             "library": "مكتبتي",
             "feed": "منشوراتي",
-            "account_menu_tooltip": "قائمة الحساب"
+            "account_menu_tooltip": "قائمة الحساب",
+            "posts": "المنشورات"
         }
     },
     "index": {
@@ -362,7 +363,7 @@
         "web_games_description": "يمكنك أن تقوم بمزامنة ألعاب المتصفح مباشرة داخل التطبيق، بحيث يمكنك أن تلعبها حتى بدون اتصال بالإنترنت. ستصلك التحديثات لهذه الألعاب مباشرة عند معاودة اتصالك مرة أخرى.",
         "languages_header": "متوفر بلغتك",
         "languages_description": "تطبيق itch متوفر بأكثر من 20 لغة، والشكر موصول لمجتمع itch.io! <a>أعرف المزيد عن الترجمة</a>",
-        "download_now": "قم بتحميله الآن",
+        "download_now": "نزِّله الآن",
         "community_header": "انضم للمجتمع",
         "community_description": "تعرف على المزيد حول تطوير التطبيق <1>في مجتمعنا</1>. شارك طلبات الميزات والتعليقات العامة مع الأعضاء الآخرين في itch.io. إذا كنت مبرمجًا، فسيسعدك أن تسمع أن المشروع بأكمله <2>مفتوح المصدر على جيت هاب</2>، ونحن نتطلع إلى طلبات السحب الخاصة بك.",
         "page_title": "حمل التطبيق",
@@ -1446,5 +1447,11 @@
     "notifications": {
         "unseen_label": "جديد",
         "page_title": "الاشعارات"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "لا يمكنك التحقق من بريد إلكتروني مسجل في حساب اخر",
+            "your_email_address_has_been_verified": "تم التحقق من بريدك الإلكتروني"
+        }
     }
 }
