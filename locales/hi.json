@@ -55,7 +55,8 @@
             "create": "बनायें",
             "explore": "ढूँढ़े",
             "log_out": "लॉग आउट करें",
-            "feed": "मेरे फ़ीड"
+            "feed": "मेरे फ़ीड",
+            "posts": "पोस्ट"
         }
     },
     "misc": {
@@ -72,7 +73,7 @@
             "accelerometer": "एक्सलरोमीटर"
         },
         "multiplayer_features": {
-            "adhoc": "तदर्थ नेटवर्कड् मल्टीप्लेयर",
+            "adhoc": "तदर्थ नेटवर्क मल्टीप्लेयर",
             "local": "स्थानीय मल्टीप्लेयर",
             "server": "सर्वर आधारित नेटवर्कड् मल्टीप्लेयर"
         },
@@ -176,7 +177,8 @@
             "submit": "प्रस्तुत",
             "email_address": "ई-मेल का पता",
             "save": "सुरक्षित",
-            "required": "आवश्यक"
+            "required": "आवश्यक",
+            "confirm": "पुष्टि करें"
         }
     },
     "index": {
@@ -357,7 +359,7 @@
     },
     "game": {
         "more_information": "अधिक जानकारी",
-        "empty_page": "यहाँ कुछ भी होना नहीं दिख रहा...",
+        "empty_page": "ऐसा लगता है कि यहाँ कुछ नहीं है …",
         "install_instructions": "सहेजने(इंस्टॉल) का शिक्षण",
         "download_header": "डाउनलोड",
         "unavailable": "यह {{game_noun}} वर्तमान में अनुपलब्ध है",
@@ -370,7 +372,7 @@
             "leave_a_comment": "टिप्पणी लिखें",
             "post_comment": "टिप्पणी डालें",
             "write_your_comment": "अपनी टिप्पणी लिखें…",
-            "click_to_leave_a_comment": "टिप्पणी लिखने के लिए दबाएँ..."
+            "click_to_leave_a_comment": "टिप्पणी करने के लिए क्लिक करें…"
         },
         "get_access_preorder": "आप इन फ़ाइलों तक पहुँच पायेंगे जब वो प्रकाशित किए जाएंगी:",
         "available_header": "पर उपलब्ध है",
@@ -385,7 +387,7 @@
         "devlog_view_all_posts": "समस्त पोस्ट्स देखें",
         "your_purchase_comes_with_a_steam_key": "आपकी खरीद स्टीम कुंजी के साथ आती है।",
         "donate_button": "{{noun}} इसे सहयोग करें",
-        "empty_page_no_uploads": "निर्माता ने अब तक कुछ नहीं डाला...",
+        "empty_page_no_uploads": "निर्माता ने अभी तक कुछ भी अपलोड नहीं किया है…",
         "info_panel": {
             "published_at": "प्रकाशित",
             "release_status": "स्थिति",
@@ -456,7 +458,8 @@
             },
             "following_username": "{{username}} का अनुपालन कर रहे हैं",
             "edit_your_rating": "अपनी रेटिंग संपादित करें",
-            "submission_to_jam": "{{jam_title}} में प्रस्तुत करें (सबमिशन)"
+            "submission_to_jam": "{{jam_title}} में प्रस्तुत करें (सबमिशन)",
+            "included_in_bundle_title": "{{bundle_title}} में शामिल करें"
         },
         "join_the_community": "समुदाय से जुड़ें",
         "community_header": "समुदाय",
@@ -516,7 +519,7 @@
         "topic": {
             "subscribe": "सदस्यता लें (सबस्क्राइब)",
             "return_to_topic_list": "विषय सूची पर वापिस जाएँ",
-            "topic_is_archived": "इस विषय को अधिक पुराना मान लिया गया है और अब इसमें कुछ भी नहीं पोस्ट किया जा सकता",
+            "topic_is_archived": "यह विषय संग्रहीत है। यह अनुसूचीबद्ध है और कोई नई पोस्ट नहीं की जा सकती।",
             "reply": "प्रतिक्रिया(उत्तर)",
             "log_in_to_reply": "प्रतिक्रिया देने के लिए लॉग इन करें",
             "unlisted_topic_notice": "<s>एक प्रबंधक(मोडरेटर) ने इस विषय को गैर-सूचीबद्ध कर दिया है।</s> यह विषय सूची में दिखाई नहीं देगा किन्तु आप इसमें प्रतिक्रिया दे सकते हैं या संपादित कर सकते हैं।",
@@ -547,7 +550,7 @@
             "edit": "संपादित करें",
             "view_more_in_thread": "थ्रेड में अधिक देखें",
             "edits_count": "({{count}} सम्पादन)",
-            "edits_count_plural": "({{count}} सम्पादन)",
+            "edits_count_plural": "({{count}} संपादन)",
             "deleted_post": "हटायी जा चुकी पोस्ट",
             "post_from_blocked_account": "अवरोधित(ब्लॉक्ड) खाते से पोस्ट",
             "edit_blocks": "अवरोधन(ब्लॉक्स) को संपादित करें",
@@ -556,11 +559,11 @@
             "delete_topic": "विषय हटाएँ",
             "delete": "हटाएँ",
             "report": "रिपोर्ट",
-            "ban": "प्रतिबंधित करें...",
+            "ban": "प्रतिबंधित करें…",
             "vote_up": "पक्ष में मत दें",
             "vote_down": "डाउन मत दें",
             "suspended_account": "निलंबित खाता",
-            "pinned_reply": "पिन्ड प्रतिक्रिया",
+            "pinned_reply": "पिन किया हुआ उत्तर",
             "pinned_post": "पिन्ड पोस्ट",
             "edited": "(संपादित)",
             "deleted_account": "हटाया गया खाता",
@@ -627,7 +630,7 @@
             "create_first_topic_button": "प्रथम विषय बनाएँ",
             "search_community_label": "समुदाय में खोजें",
             "recent_posts_header": "हाल ही के पोस्ट्स",
-            "view_this_communitys_rules": "इस समुदाय के नियमों को देखें..."
+            "view_this_communitys_rules": "इस समुदाय के नियम देखें…"
         }
     },
     "buy_form": {
@@ -647,7 +650,7 @@
         "includes_steam_key": "आप अपनी खरीद के साथ एक स्टीम कुंजी(की) प्राप्त करेंगे।",
         "download_this_product_by_purchasing_it_for": "इस उत्पाद(प्रोडक्ट) को {{price}} या अधिक पर खरीद कर डाउनलोड करें।",
         "your_email_address": "आपका ईमेल पता",
-        "i_already_paid_for_this": "मैं इसके लिए पहले ही भुगतान कर चुका हूँ...",
+        "i_already_paid_for_this": "मैं इसके लिए पहले ही भुगतान कर चुका हूँ…",
         "support_the_creator_by_paying_above_the_minimum_price": "निर्माता को न्यूनतम मूल्य से अधिक का भुगतान कर सहायता प्रदान करें",
         "pay_with": "के द्वारा भुगतान करें",
         "check_out_with": "के द्वारा चेक आउट करें",
@@ -717,7 +720,7 @@
         "pending_invitation": "आपके लिए इस संग्रह का अंशदाता(कन्ट्रिब्यूटर) बनने के लिए एक अनिर्णित आमंत्रण है। <a>आमंत्रण देखें</a>",
         "a_collection_by_author": "{{author}} के द्वारा एक संग्रह",
         "page_title": "{{collection_title}}- {{author}} के द्वारा संग्रह",
-        "remove_item_button": "मिटाएँ...",
+        "remove_item_button": "मिटाएँ…",
         "edit_blurb": "विज्ञापन संपादित करें",
         "blurb_author_says": "{{author}} कहता है",
         "remove_confirm": "क्या आप वाकई इसे संग्रह से हटाना चाहते हैं"
