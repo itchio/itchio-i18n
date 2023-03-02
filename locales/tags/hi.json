@@ -1,1 +1,15 @@
-{}
+{
+    "tags": {
+        "adventure": "एडवेंचर",
+        "adult": "बालिग",
+        "action-rpg": "एक्शन RPG",
+        "action": "एक्शन",
+        "action-adventure": "एक्शन एडवेंचर",
+        "abstract": "अमूर्त",
+        "8-bit": "8 बिट",
+        "4x": "4X",
+        "3d-platformer": "3D प्लेटफॉर्मर",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
