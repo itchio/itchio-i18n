@@ -54,7 +54,8 @@
             "host_game_jam": "Organitza una game jam",
             "game_jams": "Game jams",
             "feed": "El meu fil de continguts",
-            "account_menu_tooltip": "Menú del compte"
+            "account_menu_tooltip": "Menú del compte",
+            "posts": "Entades"
         }
     },
     "itchio": "itch.io",
@@ -120,7 +121,7 @@
             "assets": "Recursos per a jocs",
             "game_mod": "Modificacions per a jocs",
             "physical_game": "Jocs físics",
-            "soundtrack": "Bandes sonores",
+            "soundtrack": "Àlbums i Bandes sonores",
             "other": "Miscel·lània",
             "tool": "Eines",
             "comic": "Còmics",
@@ -357,7 +358,7 @@
         "meta_description": "itch, la millor manera de descarregar i jugar a jocs independents. Descarregueu jocs gratuïts i gestioneu la vostra biblioteca des del vostre escriptori. Disponible ara per a Windows, macOS i Linux."
     },
     "game": {
-        "empty_page": "Sembla que aquí no hi ha res...",
+        "empty_page": "Sembla que aquí no hi ha res…",
         "more_information": "Més informació",
         "install_instructions": "Instruccions d'instal·lació",
         "download_header": "Descarrega",
@@ -384,12 +385,12 @@
         "your_purchase_comes_with_a_steam_key": "La vostra compra inclou una clau de Steam.",
         "steam_key_bundle_disclaimer": "(Nota: No s'inclou cap clau de Steam a {{bundle_title}})",
         "donate_button": "Dóna suport a aquest {{noun}}",
-        "empty_page_no_uploads": "El creador encara no ha penjat res...",
+        "empty_page_no_uploads": "El creador encara no ha penjat res…",
         "comments": {
             "comments_header": "Comentaris",
             "leave_a_comment_header": "Deixeu un comentari",
             "leave_a_comment": "Deixeu un comentari",
-            "click_to_leave_a_comment": "Feu clic per a deixar un comentari...",
+            "click_to_leave_a_comment": "Feu clic per a deixar un comentari…",
             "log_in_to_leave_comment": "<a>Inicieu la sessió a itch.io</a> per a deixar un comentari.",
             "post_comment": "Publica el comentari",
             "write_your_comment": "Escriviu el comentari…"
@@ -408,7 +409,7 @@
             "genre": "Gènere",
             "made_with_tools": "Fet amb",
             "tags": "Etiquetes",
-            "code_license": "Llicència",
+            "code_license": "Llicència de codi",
             "asset_license": "Llicència dels recursos",
             "average_session_duration": "Sessió mitjana",
             "languages": "Idiomes",
@@ -482,7 +483,8 @@
                 "you_rated_this_game": "Heu puntuat aquest joc",
                 "now_accepting_ratings": "Aquesta jam accepta puntuacions per a les propostes.",
                 "rating_instructions": "Puntueu i comenteu en aquesta participació a la jam tot visitant-ne la pàgina de participació de l'enllaç superior."
-            }
+            },
+            "included_in_bundle_title": "Inclòs a {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "Comparteix aquest projecte",
@@ -556,7 +558,7 @@
             "delete_topic": "Suprimeix el tema",
             "delete": "Suprimeix",
             "report": "Informa'n",
-            "ban": "Bandeja...",
+            "ban": "Prohibir accés…",
             "view_more_in_thread": "Mostra més missatges del fil",
             "vote_up": "Vota positivament",
             "vote_down": "Vota negativament",
@@ -614,7 +616,7 @@
             "new_flag": "Nou",
             "archived_flag": "Arxivat",
             "by_topic_author": "per {{username}}",
-            "view_this_communitys_rules": "Mostra les normes d'aquesta comunitat..."
+            "view_this_communitys_rules": "Mostra les normes d'aquesta comunitat…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> visualització",
@@ -649,7 +651,7 @@
         "your_email_address": "La vostra adreça de correu electrònic",
         "email_address_description": "S'hi enviarà la confirmació del vostre pagament",
         "gift_email_instructions": "Triareu un correu electrònic al qual enviar-ho com a regal després del pagament",
-        "i_already_paid_for_this": "Ja he pagat per això...",
+        "i_already_paid_for_this": "Ja he pagat per això anteriorment…",
         "included_files": "Fitxers inclosos",
         "agree_to_terms": "En completar un pagament, accepteu els <1>Termes del servei</1> i la <2>Política de privacitat</2> d'itch.io.",
         "this_purchase_is_a_gift": "Aquesta compra és un regal",
@@ -674,7 +676,7 @@
         "pending_invitation": "Teniu una invitació pendent per a ser col·laborador en aquesta col·lecció. <a>Mostra la invitació</a>",
         "a_collection_by_author": "Una col·lecció de {{author}}",
         "page_title": "{{collection_title}} - Col·lecció de {{author}}",
-        "remove_item_button": "Suprimeix...",
+        "remove_item_button": "Suprimeix…",
         "add_a_blurb": "Afegeix una descripció breu",
         "edit_blurb": "Edita la descripció breu",
         "blurb_author_says": "{{author}} diu",
@@ -727,7 +729,15 @@
         "page_title": "Etiquetes més populars",
         "find_tag": "Cerca una etiqueta",
         "commonly_tagged_with": "Etiquetat habitualment amb",
-        "no_description_yet": "Encara no hi ha cap descripció"
+        "no_description_yet": "Encara no hi ha cap descripció",
+        "all_tags": "Totes les etiquetes",
+        "types": {
+            "tool": "Eines",
+            "event": "Esdeveniments",
+            "platform": "Plataformes",
+            "style": "Estils",
+            "genre": "Gèneres"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>de</1> {{author}}",
@@ -802,7 +812,11 @@
             "password": "Contrasenya",
             "new_password": "Contrasenya nova",
             "password_again": "Repetiu la contrasenya",
-            "new_password_again": "Repetiu la contrasenya nova"
+            "new_password_again": "Repetiu la contrasenya nova",
+            "please_set_a_password_on_your_account": "Si us plau, defineix una contrasenya pel teu compte per millorar la seguretat i gaudir de la possibilitat d'entrar-hi sense fer ús de serveis de tercers.",
+            "your_account_currently_doesnt_have_a_password": "El teu compte no compta amb una contrasenya actualment.",
+            "no_password_service_name": "El teu compte no compta amb una contrasenya perquè t'has registrat fent ús de {{service_name}}.",
+            "updating_your_password_will_cause": "Actualitzar la teva contrasenya provocarà la sortida de totes les altres sessions iniciades. No quedarà cap connexió <a>OAuth ni clau API</a> activada."
         },
         "email_addresses": {
             "primary_email_header": "Correu electrònic principal",
@@ -828,6 +842,15 @@
                 "email_sent_status": "s'ha enviat el correu electrònic",
                 "detach_email": "Desacobla el correu electrònic"
             }
+        },
+        "two_factor_auth": {
+            "status_off": "Desactivada",
+            "status_on": "Activada",
+            "tfa_status": "Estat: {{tfa_status}}",
+            "page_description": "L'Autentificació de doble factor ofereix al teu compte una capa addicional de seguretat que ajuda a prevenir accessos no autoritzats si et roben la teva contrasenya.",
+            "page_title": "Autentificació de doble factor",
+            "configure_twofactor_authentication": "Configura l'autentificació de doble factor",
+            "learn_more_about_twofactor_authentication": "Esbrina més coses sobre l'autentificació de doble factor"
         }
     },
     "stripe_checkout": {
@@ -1061,7 +1084,7 @@
         },
         "screenshots": {
             "empty_message": "Encara no s'ha penjat cap captura de pantalla",
-            "loading_more": "S'estan carregant més captures de pantalla..."
+            "loading_more": "S'estan carregant més captures de pantalla…"
         }
     },
     "dashboard": {
@@ -1227,6 +1250,9 @@
             "rewards": "Recompenses",
             "admins": "Administradors",
             "more": "Més"
+        },
+        "blog_posts": {
+            "new_post": "Nova entrada"
         }
     },
     "add_to_collection": {
@@ -1301,7 +1327,8 @@
             "collection_summary_plural": "Una col·lecció amb {{count}} elements.",
             "collection_added_count": "S'hi ha afegit {{count}} element.",
             "collection_added_count_plural": "S'hi han afegit {{count}} elements."
-        }
+        },
+        "filter_posts_tab": "Entrades"
     },
     "library": {
         "page_title": "La meva biblioteca",
@@ -1341,6 +1368,11 @@
     },
     "notifications": {
         "unseen_label": "Nova",
-        "page_title": "Notificacions"
+        "page_title": "Notificacions",
+        "filter_follows": "Seguidores",
+        "filter_payments": "Pagaments",
+        "filter_replies": "Respostes",
+        "filter_all": "Tot",
+        "filter": "Filtre"
     }
 }
