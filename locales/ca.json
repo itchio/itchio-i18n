@@ -390,7 +390,7 @@
             "comments_header": "Comentaris",
             "leave_a_comment_header": "Deixeu un comentari",
             "leave_a_comment": "Deixeu un comentari",
-            "click_to_leave_a_comment": "Feu clic per a deixar un comentari…",
+            "click_to_leave_a_comment": "Feu clic per deixar un comentari…",
             "log_in_to_leave_comment": "<a>Inicieu la sessió a itch.io</a> per a deixar un comentari.",
             "post_comment": "Publica el comentari",
             "write_your_comment": "Escriviu el comentari…"
@@ -1374,5 +1374,23 @@
         "filter_replies": "Respostes",
         "filter_all": "Tot",
         "filter": "Filtre"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Si us plau indica una nova contrasenya pel compte {{account_name}}.",
+        "link_sent": "S'ha enviat un enllaç a l'adreça electrònica principal del teu compte per a que puguis reiniciar la teva contrasenya.",
+        "enter_your_email": "Introdueix l'adreça electrònica amb la qual et vas registrar i t'enviarem un enllaç per reiniciar la teva contrasenya.",
+        "reset_password": "Reinicia la contrasenya"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "No pots verificar una adreça electrònica mentre tens la sessió iniciada amb un altre compte",
+            "your_email_address_has_been_verified": "La teva adreça electrònica ha sigut verificada",
+            "we_were_unable_to_verify_your_email_address": "No hem pogut verificar la teva adreça electrònica",
+            "submit_button": "Confirma la verificació de l'adreça electrònica",
+            "page_title": "Verifica la teva adreça electrònica",
+            "you_will_automatically_be_logged_in": "Un cop hagis verificat l'adreça electrònica s'iniciarà la sessió al teu compte automàticament.",
+            "link_purchases": "Si has realitzat cap compra anteriorment amb aquesta adreça electrònica, els productes s'associaran automàticament al teu compte.",
+            "confirm_verification": "Si us plau confirma que has verificat l'adreça electrònica {{email_address}} per al compte {{account}}. Cal que verifiquis l'adreça electrònica per dur a terme un seguit d'accions a itch.io."
+        }
     }
 }
