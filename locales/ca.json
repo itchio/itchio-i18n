@@ -111,7 +111,7 @@
         "to_follow": {
             "created_projects": "Ha creat {{project_list}}",
             "empty_results": "Ara mateix no hi ha més recomanacions. Torneu-ho a provar més tard",
-            "refresh_button": "Refresqueu per a més elements.",
+            "refresh_button": "Refresqueu per a més elements",
             "dismiss_tooltip": "No suggereixis més"
         }
     },
@@ -746,7 +746,7 @@
     "user_settings": {
         "navigation": {
             "email_addresses": "Adreces de correu electrònic",
-            "two_factor_auth": "Autenticació en dos passos",
+            "two_factor_auth": "Autenticació de doble factor",
             "support_email": "Correu electrònic de suport",
             "publisher_get_started": "Comenceu",
             "revenue_sharing": "Compartició dels ingressos",
