@@ -474,7 +474,7 @@
                 "view_all_by_username": "Mostra-ho tot de {{username}}",
                 "report": "Informa'n",
                 "embed": "Incrusta",
-                "updated_date": "Actualitzat {{date}}"
+                "updated_date": "Actualitzat el {{date}}"
             },
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "Això participa a {{jam_title}}",
