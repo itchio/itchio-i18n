@@ -1353,7 +1353,7 @@
         "add_button": "Ajouter à une collection",
         "manage_collections_link": "Gérer mes collections",
         "about_this_project_label": "À propos de ce projet",
-        "add_to_new": "Ajouter à une collection déjà nommée"
+        "add_to_new": "Ajouter à une nouvelle collection avec ce nom"
     },
     "game_grid": {
         "in_bundle": "Voir offre groupée"
