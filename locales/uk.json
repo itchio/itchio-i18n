@@ -681,8 +681,8 @@
             "view_this_communitys_rules": "Переглянути правила цієї спільноти..."
         },
         "topic_list": {
-            "no_posts_yet": "Пости ще відсутні",
-            "started_by_author": "розпочата {{topic_author}}",
+            "no_posts_yet": "Пости відсутні",
+            "started_by_author": "розпочато {{topic_author}}",
             "new_flag": "Нова",
             "sticky_flag": "Закріплена",
             "locked_flag": "Замкнена",
@@ -694,7 +694,7 @@
             "replies_count_0": "<s>{{count}}</s> повідомлення",
             "replies_count_1": "<s>{{count}}</s> повідомлення",
             "replies_count_2": "<s>{{count}}</s> повідомлень",
-            "no_replies_yet": "Відповідей поки немає"
+            "no_replies_yet": "Жодних відповідей"
         }
     },
     "browse": {
