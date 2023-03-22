@@ -808,7 +808,10 @@
             "page_description": "雙因素身份驗證是您帳戶的額外安全層，可在您的密碼被盜時幫助防止未經授權的訪問。",
             "page_title": "雙因素身份驗證",
             "configure_twofactor_authentication": "設置雙因素身份驗證",
-            "learn_more_about_twofactor_authentication": "了解有關雙因素身份驗證的更多訊息"
+            "learn_more_about_twofactor_authentication": "了解有關雙因素身份驗證的更多訊息",
+            "status_off": "已停用",
+            "status_on": "已啟用",
+            "tfa_status": "狀態：{{tfa_status}}"
         }
     },
     "blog": {
