@@ -358,7 +358,7 @@
         "meta_description": "itch, det bästa sättet att ladda ner och spela indiespel. Ladda ner gratis spel och hantera ditt bibliotek från ditt skrivbord. Tillgänglig nu för Windows, macOS och Linux."
     },
     "game": {
-        "empty_page": "Det verkar inte finnas något här...",
+        "empty_page": "Det verkar inte finnas något här…",
         "more_information": "Mer information",
         "install_instructions": "Installations instruktioner",
         "download_header": "Ladda ner",
@@ -385,12 +385,12 @@
         "your_purchase_comes_with_a_steam_key": "Ditt köp kommer med en Steam-kod.",
         "steam_key_bundle_disclaimer": "(OBS: Steam-kod är inte inkluderat i {{bundle_title}})",
         "donate_button": "Stöd detta {{noun}}",
-        "empty_page_no_uploads": "Skaparen har inte laddat upp något än...",
+        "empty_page_no_uploads": "Skaparen har inte laddat upp något än…",
         "comments": {
             "comments_header": "Kommentarer",
             "leave_a_comment_header": "Lämna en kommentar",
             "leave_a_comment": "Lämna en kommentar",
-            "click_to_leave_a_comment": "Klicka för att lämna en kommentar...",
+            "click_to_leave_a_comment": "Klicka för att lämna en kommentar…",
             "log_in_to_leave_comment": "<a>Logga in på itch.io</a> för att lämna en kommentar.",
             "post_comment": "Posta kommentar",
             "write_your_comment": "Skriv din kommentar…"
@@ -557,7 +557,7 @@
             "delete_topic": "Ta bort tema",
             "delete": "Ta bort",
             "report": "Rapportera",
-            "ban": "Blockera...",
+            "ban": "Blockera…",
             "view_more_in_thread": "Visa mer i tråden",
             "vote_up": "Rösta upp",
             "vote_down": "Rösta ner",
@@ -615,7 +615,7 @@
             "new_flag": "Ny",
             "archived_flag": "Arkiverat",
             "by_topic_author": "av {{username}}",
-            "view_this_communitys_rules": "Visa denna community's regler..."
+            "view_this_communitys_rules": "Visa denna community's regler…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> visning",
@@ -649,7 +649,7 @@
         "your_email_address": "Din e-postadress",
         "email_address_description": "Din betalningsbekräftelse kommer att skickas hit",
         "gift_email_instructions": "Du kan välja en e-post att skicka gåvan till efter du har betalat",
-        "i_already_paid_for_this": "Jag har redan betalat för det här...",
+        "i_already_paid_for_this": "Jag har redan betalat för det här…",
         "included_files": "Inkluderade filer",
         "agree_to_terms": "Genom att slutföra betalningen godkänner du itch.io:s <1>Slutanvändaravtal</1> och <2>Integritetspolicy</2>.",
         "this_purchase_is_a_gift": "Detta köp är en gåva",
@@ -674,7 +674,7 @@
         "pending_invitation": "Du har en inbjudan att bli deltagare i den här samlingen. <a>Titta på inbjudan</a>",
         "a_collection_by_author": "En samling av {{author}}",
         "page_title": "{{collection_title}} - En samling av {{author}}",
-        "remove_item_button": "Ta bort...",
+        "remove_item_button": "Ta bort…",
         "add_a_blurb": "Lägg till reklamtext",
         "edit_blurb": "Redigera reklamtext",
         "blurb_author_says": "{{author}} säger",
@@ -727,7 +727,12 @@
         "page_title": "Populäraste taggarna",
         "find_tag": "Hitta tagg",
         "commonly_tagged_with": "Ofta taggat med",
-        "no_description_yet": "Ingen beskrivning än"
+        "no_description_yet": "Ingen beskrivning än",
+        "types": {
+            "event": "Events",
+            "platform": "Plattformar",
+            "style": "Stillar"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>av</1> {{author}}",
@@ -828,6 +833,14 @@
                 "email_sent_status": "mejl skickat",
                 "detach_email": "Koppla bort mejladress"
             }
+        },
+        "two_factor_auth": {
+            "status_off": "Av",
+            "status_on": "På",
+            "tfa_status": "Status:{{tfa_status}}",
+            "page_description": "Två-faktorsautentisering är ett extra lager av säkerhet för ditt konto för att hindra otillåtet tillträde om ditt lösenord blir stulet.",
+            "page_title": "Två-faktorsautentisering",
+            "configure_twofactor_authentication": "Konfigurera två-faktorsautentisering."
         }
     },
     "stripe_checkout": {
@@ -1061,7 +1074,7 @@
         },
         "screenshots": {
             "empty_message": "Det finns inga skärmdumpar uppladdade än",
-            "loading_more": "Laddar fler skärmdumpar..."
+            "loading_more": "Laddar fler skärmdumpar…"
         }
     },
     "dashboard": {
@@ -1227,6 +1240,9 @@
             "rewards": "Belöningar",
             "admins": "Administratörer",
             "more": "Mer"
+        },
+        "blog_posts": {
+            "new_post": "Nytt inlägg"
         }
     },
     "add_to_collection": {
@@ -1301,7 +1317,8 @@
             "collection_summary_plural": "En samling med {{count}} saker i.",
             "collection_added_count": "La till {{count}} sak.",
             "collection_added_count_plural": "La till {{count}} saker."
-        }
+        },
+        "filter_posts_tab": "Inlägg"
     },
     "library": {
         "page_title": "Mitt bibliotek",
@@ -1338,5 +1355,32 @@
         "unverified_email": {
             "title": "Din e-postadress måste vara verifierad"
         }
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Skriv in ett nytt lösenord för kontot {{account_name}}.",
+        "link_sent": "En länk för återställning av lösenord har skickats till ditt kontos primära adress.",
+        "enter_your_email": "Ange e-postaddressen du regrestrerade dig med och vi skickar dig en länk för att återställa lösenordet.",
+        "reset_password": "Återställ lösenord"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Du kan inte verifiera din email när du är loggad in på ett annat konto.",
+            "your_email_address_has_been_verified": "Din email address har blivit verifierad.",
+            "we_were_unable_to_verify_your_email_address": "Vi kunde inte verifiera din Email-address",
+            "submit_button": "Verifiera din email",
+            "page_title": "Verifiera din Email",
+            "you_will_automatically_be_logged_in": "Du kommer att bli automatiskt inloggad när du har verifierad din Email.",
+            "link_purchases": "Om du har tidigare gjort ett köp med just din Email så kommer det automatisk att vara associerad till ditt konto.",
+            "confirm_verification": "Verifiera din email {{email_address}} för kontot{{account}}. Det är nödvändigt att verifiera din email för att kunna göra mer saker på Itch.io."
+        }
+    },
+    "notifications": {
+        "filter_follows": "Följare",
+        "filter_payments": "Betalsmetoder",
+        "filter_replies": "Svar",
+        "filter_all": "Allt",
+        "filter": "Filter",
+        "unseen_label": "Ny",
+        "page_title": "Meddelanden"
     }
 }
