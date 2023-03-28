@@ -301,6 +301,12 @@
         "hex-based": "Retícula hexagonal",
         "hentai": "Hentai",
         "gui": "Interfaz Gráfica de Usuario (GUI)",
-        "flying": "Vuelo"
+        "flying": "Vuelo",
+        "working-simulator": "Simulador de Trabajo",
+        "lovecraft": "Terror lovecraftiano",
+        "incremental": "Incremental",
+        "immersive": "Inmersivo",
+        "idle": "Ocioso",
+        "icons": "Íconos"
     }
 }
