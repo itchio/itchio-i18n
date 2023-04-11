@@ -112,7 +112,7 @@
         "meta_description": "Az itch.io az indie játékok online keresésének, letöltésének és terjesztésének egyszerű módja. Ha egy készítő vagy vagy csak valaki aki játékokat keres annak ajánljuk az itch.io-t.",
         "browse_content_type": "{{content_type}} böngészése",
         "featured_jams": "Kiemelt Jam-ek",
-        "view_something_random": "Nézz valamit találomra",
+        "view_something_random": "Véletlenszerű dolog megtekintése",
         "view_all_jams": "Összes jam megtekintése"
     },
     "misc": {
@@ -412,7 +412,7 @@
             "thanks_for_downloading_title": "Köszönöm a letöltést",
             "share_this_project": "Projekt megosztása"
         },
-        "community_sticky": "Ragadós",
+        "community_sticky": "",
         "community_view_all_posts": "Minden poszt megtekintése"
     },
     "buy_form": {
