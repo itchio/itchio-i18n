@@ -388,7 +388,7 @@
             "log_in_to_leave_comment": "<a>Jelentkezz be az itch.io használatával</a> és oszd meg a véleményed.",
             "click_to_leave_a_comment": "Kattints ide komment hozzáadásához…",
             "leave_a_comment": "Adj visszajelzést",
-            "leave_a_comment_header": "Adj visszajelzést"
+            "leave_a_comment_header": "Szólj hozzá!"
         },
         "donate_button": "{{noun}} támogatása",
         "steam_key_bundle_disclaimer": "(Megjegyzés: A {{bundle_title}} nevű csomag nam tartalmaz Steam kulcsot)",
@@ -413,7 +413,7 @@
             "share_this_project": "Projekt megosztása"
         },
         "community_sticky": "",
-        "community_view_all_posts": "Minden poszt megtekintése"
+        "community_view_all_posts": "Minden bejegyzés megtekintése"
     },
     "buy_form": {
         "on_sale_notice": "Ez a termék akciós."
@@ -455,7 +455,7 @@
         "updates_header": "Mindig frissítve",
         "meta_description": "itch, az indie játékok letöltésének és játszásának a legjobb módja. Tölts le ingyenes játékokat, és kezeld a könyvtáradat az asztalodról. Most elérhető Windows, macOS és Linux rendszereken.",
         "page_title": "Alkalmazás letöltése",
-        "community_header": "Csatlakozz a közösséghez",
+        "community_header": "Csatlakozz a közösséghez!",
         "languages_description": "Az itch.io közösségnek hála, az itch alkalmazás több mint 20 nyelven elérhető! <a>Tudj meg többet a fordításról</a>",
         "web_games_description": "Szinkronizálhatsz bármilyen böngészőben futó játékot az applikációba, így bármikor játszhatsz velük, akár internet kapcsolat nélkül is. Amikor visszajön a net, frissítheted őket ha szükséges.",
         "updates_description": "Amellett, hogy a játékaid automatikusan frissülnek, az app is folyamatosan fejlődni fog, ahogy újabb funkciókat adunk hozzá. Az új parancssori eszközeinket alkalmazó játékok <em>delta frissítéseket</em> hoznak létre, hogy csak a változtatásokat kelljen letöltened.",
