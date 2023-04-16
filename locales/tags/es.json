@@ -307,6 +307,9 @@
         "incremental": "Incremental",
         "immersive": "Inmersivo",
         "idle": "Ocioso",
-        "icons": "Íconos"
+        "icons": "Íconos",
+        "internet": "Internet",
+        "indie": "Indie",
+        "historical": "Histórico"
     }
 }
