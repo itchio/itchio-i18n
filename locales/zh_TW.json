@@ -970,7 +970,7 @@
             "ranked_with_vote_count": "以 {{count}} 票排名 {{ordinal_rank}}",
             "results_header": "結果",
             "ranked_from_count": "根據 <s>{{count}} 個評分</s>排名。",
-            "ranked_from_count_plural": "依據<s>{{count}}個評分</s>所排名。",
+            "ranked_from_count_plural": "根據<s>{{count}}個評分</s>排名。",
             "score_information": "分數是根據賽事評分的中位數由原始分數調整而來。",
             "run_project": "執行專案",
             "play_game": "遊玩",
@@ -1369,6 +1369,7 @@
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "請為帳號 {{account_name}} 設定一個新的密碼。",
         "enter_your_email": "輸入您註冊時使用的電子信箱地址，我們將發送重置密碼用的連結給您。",
-        "reset_password": "重置密碼"
+        "reset_password": "重置密碼",
+        "link_sent": "密碼重置連結已發送至您的電子信箱地址。"
     }
 }
