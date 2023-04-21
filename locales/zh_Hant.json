@@ -99,10 +99,19 @@
                 "suggested_donation_label": "建議贊助金額",
                 "suggested_price_label": "建議價錢",
                 "free_price_info": "用戶可以免費下載您的作品，但會被事先詢問是否贊助。",
-                "payment_disabled_info": "這個專案的檔案將免費公開，且無法獲得贊助"
+                "payment_disabled_info": "這個專案的檔案將免費公開，且無法獲得贊助",
+                "price_too_low_error": "請提供高於專案價格的數字",
+                "default_price_info": "預設價格將在有人要購買您的專案時顯示",
+                "suggest_default_price_label": "提供另一個預設價格",
+                "embed_pricing_info": "設定最低價格會限制下載檔案的存取。但是嵌入內容仍可以被免費取得。"
             },
             "project_type_help": "您可以新增上列類型的可下載檔案",
-            "visibility_access_info": "在公開之前，先用草稿以預覽您的頁面吧。<a>更多存取模式的相關資訊</a>"
+            "visibility_access_info": "在公開之前，先用草稿以預覽您的頁面吧。<a>更多存取模式的相關資訊</a>",
+            "community_comments_info": "在專案頁面底部加入留言串",
+            "community_field_info": "藉由讓人們在您的頁面上貼文來建立社群。",
+            "details_genre_info": "請選擇最適合您遊戲的分類。您也可以使用下方的標籤選取額外的分類",
+            "instructions_field_info1": "這段文字會顯示給使用瀏覽器下載您的遊戲的人。包括任何有關如何安裝和執行下載項目的資訊。",
+            "custom_noun_field_description": "您可以提供自訂名詞改變 itch.io 稱呼您專案的方式。"
         },
         "intro_text": "您是開發者嗎？上傳您的第一個遊戲",
         "project_list": {
@@ -1150,7 +1159,10 @@
                 "you_havent_rated_this_submission_yet": "您還沒有為這個參賽作品評分。",
                 "unavailable_to_rate": "您還沒有提交自己的參賽作品，所以不能為這個專案評分。不過您仍可以在下方留言。",
                 "not_open_yet": "這個Game Jam活動仍可以參加。將於{{start_date}}開始評分。",
-                "you_will_be_able_to_rate_if_you_submit": "若您參加了這個Game Jam活動，即可給這個參賽作品評分。"
+                "you_will_be_able_to_rate_if_you_submit": "若您參加了這個Game Jam活動，即可給這個參賽作品評分。",
+                "disqualified_message": "該作品已失去資格且不能被評分。",
+                "other_participants_can_rate": "其他參賽者將可以為你的作品評分。",
+                "participate_to_rate_message": "您必須<a>登入 itch.io</a> 並且提交您的參賽作品後，才能為這個作品評分。任何擁有帳號的人皆可以留言。"
             },
             "submitted_by_contributors": "由 {{contributors}} 提交",
             "time_remaining_before_deadline": "截止時間還有 {{time_duration}}",
