@@ -131,7 +131,7 @@
             "subtitles": "Istitloù",
             "configurable_controls": "Reoliadurioù kefluniadus",
             "highcontrast": "Dargemm",
-            "tutorial": "Kelennskrid  etrewezhiat",
+            "tutorial": "Kelennskrid etrewezhiat",
             "one_button": "Un afell hepken",
             "blind": "Aes evit an dud dall",
             "textless": "Hep testenn"
@@ -344,7 +344,7 @@
         "meta_description": "Itch, an doare gwellañ da bellgargañ ha da c'hoari da c'hoarioù dizalc'h. Pellgargit c'hoarioù digoust ha merit ho c'hoariaoueg eus ho burev. Hegerz evit Windows, macOS ha Linux."
     },
     "game": {
-        "empty_page": "N'eus ket kalz a draoù dre amañ...",
+        "empty_page": "N'eus ket kalz a draoù dre amañ…",
         "more_information": "Titouroù ouzhpenn",
         "install_instructions": "Ditouroù staliañ",
         "download_header": "Pellgargañ",
@@ -371,12 +371,12 @@
         "your_purchase_comes_with_a_steam_key": "Gant un alc'hwez Steam e teuio ho prenadenn.",
         "steam_key_bundle_disclaimer": "(Evezhiadenn: N'eus alc'hwez Steam ebet e {{bundle_title}}1)",
         "donate_button": "Harpañ an/ar/al {{noun}}-mañ",
-        "empty_page_no_uploads": "N'eo bet uskarget netra gant ar c'hrouer evit ar mare...",
+        "empty_page_no_uploads": "N'eo bet uskarget netra gant ar c'hrouer evit ar mare…",
         "comments": {
             "comments_header": "Evezhiadennoù",
             "leave_a_comment_header": "Ouzhpennañ un evezhiadenn",
             "leave_a_comment": "Ouzhpennañ un evezhiadenn",
-            "click_to_leave_a_comment": "Klikit evit leuskel un evezhiadenn...",
+            "click_to_leave_a_comment": "Klikit evit leuskel un evezhiadenn…",
             "log_in_to_leave_comment": "<a>Kennaskit gant itch.io</a> evit leuskel un evezhiadenn.",
             "post_comment": "Embann un evezhiadenn"
         },
@@ -584,7 +584,7 @@
         "your_email_address": "Ho chomlec'h postel",
         "email_address_description": "Aze e vo kaset ho kadarnadenn paeamant",
         "gift_email_instructions": "Dibab a reot ur chomlec'h postel evit kas ar prof ho peus paeet",
-        "i_already_paid_for_this": "Paeet am eus evit an dra-se endeo...",
+        "i_already_paid_for_this": "Paeet am eus evit an dra-se endeo…",
         "included_files": "Restroù enkorfet",
         "agree_to_terms": "En ur baeañ e asantit da <1>divizoù arver</1> ha <2>reolennoù a-fet buhez prevez</2> itch.io.",
         "this_purchase_is_a_gift": "Ur prof eo ar brenadenn-mañ",
@@ -609,7 +609,7 @@
         "pending_invitation": "Asantit <a>ar bedadenn-mañ</a> evit kendeurel d'an dastumadeg-mañ.",
         "a_collection_by_author": "Un dastumadeg gant {{author}}",
         "page_title": "{{collection_title}} - Dastumadeg gant {{author}}",
-        "remove_item_button": "Dilemel...",
+        "remove_item_button": "Dilemel…",
         "add_a_blurb": "Ouzhpennañ un deskrivadur",
         "edit_blurb": "Embann an deskrivadur",
         "blurb_author_says": "{{author}} a lâr",
