@@ -1238,7 +1238,8 @@
             "tool": "Outils",
             "platform": "Platformes",
             "style": "Styles",
-            "genre": "Genres"
+            "genre": "Genres",
+            "event": "Évènements"
         }
     },
     "buy_form_popup": {
