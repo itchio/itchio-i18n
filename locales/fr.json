@@ -1031,7 +1031,8 @@
             "new_password": "Nouveau mot de passe",
             "please_set_a_password_on_your_account": "Veuillez définir un mot de passe pour votre compte pour renforcer sa sécurité et son accès sans aucun service tiers.",
             "no_password_service_name": "Votre compte n'as pas de mot de passe car vous vous êtes enregistré avec {{service_name}}.",
-            "your_account_currently_doesnt_have_a_password": "Votre compte n'a pas de mot de passe."
+            "your_account_currently_doesnt_have_a_password": "Votre compte n'a pas de mot de passe.",
+            "updating_your_password_will_cause": "Mettre à jour votre mot de passe causera la fermeture de toutes vos sessions via navigateur. Vos connexions via OAuth et clés d'API, elles, resteront actives."
         },
         "two_factor_auth": {
             "configure_twofactor_authentication": "Configurer la double authentification",
@@ -1240,7 +1241,8 @@
             "style": "Styles",
             "genre": "Genres",
             "event": "Évènements"
-        }
+        },
+        "all_tags": "Tous les tags"
     },
     "buy_form_popup": {
         "author_line": "<1>par</1> {{author}}",
