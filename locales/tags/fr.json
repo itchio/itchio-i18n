@@ -342,6 +342,12 @@
         "prototype": "Prototype",
         "open-source": "Open Source",
         "nsfw": "NSFW",
-        "lovecraft": "Horreur Lovecraftien"
+        "lovecraft": "Horreur Lovecraftien",
+        "hypercard": "HyperCarte",
+        "homebrew": "Brassage maison",
+        "hexcrawl": "He crawl",
+        "eroge": "Érogé",
+        "endless-runner": "Coureur sans fin",
+        "clicker": "cliqueurs"
     }
 }
