@@ -121,7 +121,7 @@
             "assets": "Spelresurser",
             "game_mod": "Spelmoddar",
             "physical_game": "Brädspel",
-            "soundtrack": "Soundtracks",
+            "soundtrack": "Album & låtar",
             "other": "Blandat",
             "tool": "Verktyg",
             "comic": "Serier",
@@ -409,7 +409,7 @@
             "genre": "Genre",
             "made_with_tools": "Gjort med",
             "tags": "Taggar",
-            "code_license": "Licens",
+            "code_license": "Kod license",
             "asset_license": "Speltillbehörslicens",
             "average_session_duration": "Genomsnittlig spelsession",
             "languages": "Språk",
@@ -628,7 +628,8 @@
             "sticky_flag": "Längst upp",
             "locked_flag": "Låst",
             "list_header_topic_title": "Tema",
-            "list_header_last_post": "Senaste inlägg"
+            "list_header_last_post": "Senaste inlägg",
+            "no_replies_yet": "Inga svar än"
         }
     },
     "buy_form": {
@@ -731,8 +732,11 @@
         "types": {
             "event": "Events",
             "platform": "Plattformar",
-            "style": "Stillar"
-        }
+            "style": "Stillar",
+            "tool": "Verktyg",
+            "genre": "Genrer"
+        },
+        "all_tags": "Alla taggar"
     },
     "buy_form_popup": {
         "author_line": "<1>av</1> {{author}}",
@@ -807,7 +811,9 @@
             "password": "Lösenord",
             "new_password": "Nytt lösenord",
             "password_again": "Upprepa lösenord",
-            "new_password_again": "Upprepa ditt nya lösenord igen"
+            "new_password_again": "Upprepa ditt nya lösenord igen",
+            "your_account_currently_doesnt_have_a_password": "Ditt konto har inget lösenord",
+            "no_password_service_name": "Ditt konto har inget lösenord för att du har registrerat med {{service_name}}."
         },
         "email_addresses": {
             "primary_email_header": "Primär e-post",
@@ -840,7 +846,8 @@
             "tfa_status": "Status:{{tfa_status}}",
             "page_description": "Två-faktorsautentisering är ett extra lager av säkerhet för ditt konto för att hindra otillåtet tillträde om ditt lösenord blir stulet.",
             "page_title": "Två-faktorsautentisering",
-            "configure_twofactor_authentication": "Konfigurera två-faktorsautentisering."
+            "configure_twofactor_authentication": "Konfigurera två-faktorsautentisering.",
+            "learn_more_about_twofactor_authentication": "Lär dig mer om tvåfaktorsautentisering"
         }
     },
     "stripe_checkout": {
