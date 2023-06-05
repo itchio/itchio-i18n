@@ -16,10 +16,17 @@ parser\option "--source-locale", "Which locale is the default", SOURCE_LOCALE
 parser\option "--dir", "Directory to load translation files from", DIR, (str) -> if str\match "/$" then str else "#{str}/"
 parser\option "--format", "Output format (lua, json, json_raw)", "lua", types.one_of({"lua", "json", "json_raw"})\transform
 parser\flag "--nested", "Nest keys", false
+parser\flag "--git", "Insert git hash as comment at top of output (Lua Only)"
 
 args = parser\parse [v for _, v in ipairs arg]
 
 json = require "cjson"
+
+get_git_hash = ->
+  -- note this needs to be called from the right directory
+  f = io.popen "git rev-parse --short HEAD", "r"
+  if revision = f\read "*a"
+    revision\match "[^%s]+"
 
 output = { }
 
@@ -196,6 +203,9 @@ switch args.format
 
     print json.encode assert document\transform output
   when "lua"
+    if args.git
+      print "-- Generated file: commit #{get_git_hash!}"
+
     print (compile.tree {
       {"return", encode_value output}
     })
