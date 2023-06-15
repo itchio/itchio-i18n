@@ -489,6 +489,12 @@
             "thanks_project_author": "Tak for at downloade {{project}} af {{author}}.",
             "thanks_for_downloading_title": "Tak fordi du downloadede",
             "share_this_project": "Del dette projekt"
+        },
+        "password_required": {
+            "header": "Et password kræves for at vise denne side"
+        },
+        "report_form": {
+            "submit_report_button": "Indsent rapport"
         }
     },
     "community": {
