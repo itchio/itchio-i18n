@@ -206,7 +206,8 @@
             "add_to_collection": "Add to collection"
         },
         "lightboxes": {
-            "close": "Close"
+            "close": "Close",
+            "error_title": "Your request could not be completed"
         },
         "countdown": {
             "years": "years",
