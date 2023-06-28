@@ -317,6 +317,8 @@
         "word-game": "Jogo de Palavras",
         "wordle": "Wordle",
         "working-simulator": "Simulador de Trabalho",
-        "game-design": "Design de Jogos"
+        "game-design": "Design de Jogos",
+        "gui": "Interface Gráfica do Usuário (GUI)",
+        "gmless": "Sem-GM"
     }
 }
