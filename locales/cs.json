@@ -252,7 +252,7 @@
         "download_header": "Stáhnout",
         "install_instructions": "Pokyny k instalaci",
         "more_information": "Více informací",
-        "empty_page": "Zdá se, že tu nic není ...",
+        "empty_page": "Zdá se, že tu nic není…",
         "community_posts_count_0": "{{count}} příspěvek",
         "community_posts_count_1": "{{count}} příspěvky",
         "community_posts_count_2": "{{count}} příspěvků",
@@ -570,7 +570,7 @@
             "delete_topic": "Smazat téma",
             "delete": "Smazat",
             "report": "Nahlásit",
-            "ban": "Zabanovat...",
+            "ban": "Zabanovat…",
             "vote_up": "Hlasovat pro zvýšení",
             "vote_down": "Hlasovat pro snížení",
             "deleted_account": "Smazaný účet",
@@ -874,7 +874,8 @@
         "last_updated_date": "posledně aktualizováno {{date}}",
         "authors": "kolekce od {{author}}",
         "edit_contributors": "Upravit přispěvatele",
-        "a_collection_by_author": "Kolekce od {{author}}"
+        "a_collection_by_author": "Kolekce od {{author}}",
+        "pending_invitation": "Máte pozvánku být přispěvatel této kolekce. <a>Vidět pozvánku</a>"
     },
     "add_to_collection": {
         "add_button": "Přidat do kolekce",
