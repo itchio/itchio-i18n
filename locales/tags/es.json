@@ -56,7 +56,7 @@
         "cute": "Adorable",
         "demake": "Demake",
         "educational": "Educativo",
-        "low-poly": "Low poly",
+        "low-poly": "Pocos polígonos",
         "destruction": "Destrucción",
         "detective": "Detective",
         "dice": "Dado",
@@ -301,6 +301,15 @@
         "hex-based": "Retícula hexagonal",
         "hentai": "Hentai",
         "gui": "Interfaz Gráfica de Usuario (GUI)",
-        "flying": "Vuelo"
+        "flying": "Vuelo",
+        "working-simulator": "Simulador de Trabajo",
+        "lovecraft": "Terror lovecraftiano",
+        "incremental": "Incremental",
+        "immersive": "Inmersivo",
+        "idle": "Ocioso",
+        "icons": "Íconos",
+        "internet": "Internet",
+        "indie": "Indie",
+        "historical": "Histórico"
     }
 }

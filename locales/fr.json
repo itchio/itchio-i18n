@@ -845,6 +845,9 @@
             "interact": "Interagir",
             "distribute": "Distribuer",
             "discussion_board": "Forum de discussion"
+        },
+        "blog_posts": {
+            "new_post": "Nouvelle publication"
         }
     },
     "jams": {
@@ -901,7 +904,8 @@
         "upload_a_game_button": "Mettre un jeu en ligne",
         "filter_devlogs_tab": "Devlogs",
         "featured_tags_header": "Tags en vedette",
-        "global_feed_tab": "Flux global"
+        "global_feed_tab": "Flux global",
+        "filter_posts_tab": "Publications"
     },
     "library": {
         "page_title": "Ma bibliothèque",
@@ -1031,7 +1035,8 @@
             "new_password": "Nouveau mot de passe",
             "please_set_a_password_on_your_account": "Veuillez définir un mot de passe pour votre compte pour renforcer sa sécurité et son accès sans aucun service tiers.",
             "no_password_service_name": "Votre compte n'as pas de mot de passe car vous vous êtes enregistré avec {{service_name}}.",
-            "your_account_currently_doesnt_have_a_password": "Votre compte n'a pas de mot de passe."
+            "your_account_currently_doesnt_have_a_password": "Votre compte n'a pas de mot de passe.",
+            "updating_your_password_will_cause": "Mettre à jour votre mot de passe causera la déconnexion de toutes vos autres sessions via navigateur. Vos <a>connexions via OAuth et clés d'API</a> resteront actives."
         },
         "two_factor_auth": {
             "configure_twofactor_authentication": "Configurer la double authentification",
@@ -1039,7 +1044,8 @@
             "status_off": "Désactivée",
             "status_on": "Activé",
             "page_description": "L'authentification à deux facteurs est une couche de sécurité supplémentaire pour votre compte car elle permet d'éviter les accès inautorisés à ce dernier si votre mot de passe a été volé.",
-            "tfa_status": "Statut : {{tfa_status}}"
+            "tfa_status": "Statut : {{tfa_status}}",
+            "page_title": "Authentification à 2 facteurs"
         }
     },
     "jam": {
@@ -1238,8 +1244,10 @@
             "tool": "Outils",
             "platform": "Platformes",
             "style": "Styles",
-            "genre": "Genres"
-        }
+            "genre": "Genres",
+            "event": "Évènements"
+        },
+        "all_tags": "Tous les tags"
     },
     "buy_form_popup": {
         "author_line": "<1>par</1> {{author}}",

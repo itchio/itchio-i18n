@@ -1,1 +1,22 @@
-{}
+{
+    "tags": {
+        "tanks": "Tankoù",
+        "wav": "WAV",
+        "tetris": "Tetris",
+        "sims-4": "Sims 4",
+        "picocad": "picoCAD",
+        "kickstarter": "Kickstarter",
+        "github": "GitHub",
+        "endesga-32": "ENDESGA 32",
+        "christmas": "Nedeleg",
+        "animals": "Loened",
+        "celtic": "Keltiek",
+        "black-and-white": "Gwenn ha Du",
+        "4x": "4X",
+        "3d": "3D",
+        "2d": "2D",
+        "singleplayer": "Ur c'hoarier",
+        "local-multiplayer": "Liesc'hoarier lec'hel",
+        "multiplayer": "Liesc'hoarier"
+    }
+}

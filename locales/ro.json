@@ -669,7 +669,8 @@
         "filter_group": {
             "clear_filter": "Șterge filtru",
             "fewer_options": "Mai Puține Opțiuni",
-            "more_options": "Mai multe opțiuni"
+            "more_options": "Mai multe opțiuni",
+            "toggle_more_options": "Comută Mai Multe Optiuni"
         },
         "type_downloadable": "Descărcabil",
         "filter_group_type": "Scrie",
@@ -688,7 +689,11 @@
         "related_collections": "Colecții relatate",
         "fresh_description": "Navigați un set de proiecte care se actualizează constant, provenite din colecții organizate de membrii noștri. Reveniți pentru noi completări.",
         "filter_group_session_length": "Durata medie a sesiunii",
-        "filter_by_tag": "Filtrează după etichetă"
+        "filter_by_tag": "Filtrează după etichetă",
+        "filter_group_tools": "Unelte și Motoare de joc",
+        "filter_group_misc": "Diverse",
+        "filter_group_release_status": "Starea lansarii",
+        "filter_group_input_methods": "Metode de intrare"
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
@@ -764,7 +769,9 @@
             "developer_header": "Dezvoltator",
             "misc_header": "Diverse",
             "contact_header": "Contacteaza",
-            "publisher_header": "Publicant"
+            "publisher_header": "Publicant",
+            "press_access": "Acces de Presă",
+            "basics_header": "Bazele"
         },
         "account_settings": "Setările contului",
         "profile": {
@@ -778,7 +785,48 @@
             "username": "Nume de utilizator",
             "page_header": "Profil",
             "language_description": "Limba interfaței itch.io",
-            "language": "Limba"
+            "language": "Limba",
+            "profile_description": "Conținutul paginii dvs. de profil",
+            "profile": "Profil",
+            "use_dark_theme": "Folosiți o temă întunecată unde este disponibil",
+            "disable_autoloading_next_page_when_browsing": "Dezactivați încărcarea automată a paginii următoare în timpul navigării",
+            "disable_animated_gifs": "Dezactivați GIF-urile animate",
+            "show_adult_content": "Arătați conținutul marcat ca adult în Caută & Descoperă",
+            "content_description": "Cum conținutul pe itch.io este arătat dvs.",
+            "content": "Conținut",
+            "default_language_option": "Implicit (Setat la engleză în timpul beta limbilor)",
+            "account_type_developer": "Dezvoltarea și încărcarea jocuri",
+            "account_type_description": "Cum vă veți folosi contul",
+            "account_type": "Tipul Contului",
+            "language_community_translation": "<s>itch.io este tradus de catre membrii din comunitatea noastră.</s> Unele limbi sunt disponibile doar parțial. Daca doriți sa vedeti itch.io in limba dumneavoastra sau sa corectati greseli puteți contribui. <a>Invața mai multe</a>"
+        },
+        "email_addresses": {
+            "add_email_form": {
+                "additional_email_address_label": "Email adițional"
+            },
+            "additional_emails_instructions": "Veți fi trimise instrucțiuni de verificare după ce adăugați email adițional.",
+            "additional_emails_summary": "Puteți să conectați adrese de email adiționale la contul itch.io ca să aveți acces la orice achiziție cu aceste adrese. De exemplu, adresa PayPal ar putea fi diferită față de adresa dvs. principală deci o veți adăuga ca adresă adițională.",
+            "additional_emails_header": "Emailuri adiționale",
+            "change_password_instructions": "Când vă schimbați adresa email trebuie să o verificați ca să accesați orice jocuri achiziționate. Veți fi trimis instrucțiunile de verif. Pentru motive de securitate trebuie să și introduceți parola curentă pentru a face orice modificări la adresa de email.",
+            "primary_email_description": "Emailul dvs. primar este unde itch.io vă va trimite orice notificări.",
+            "change_email_form": {
+                "current_password": "Parola curentă",
+                "new_email_address": "Adresa dvs. de email nouă"
+            },
+            "your_primary_email_address": "Adresa dvs. de email primară: {{email}}",
+            "primary_email_header": "Email primar"
+        },
+        "password": {
+            "please_set_a_password_on_your_account": "Vă rugăm să setați o parolă pe contul dvs. pentru securitate îmbunătățită si pentru abilitatea de a accesa contul dvs. fără servicii externe.",
+            "your_account_currently_doesnt_have_a_password": "Contul tau momentan nu are o parolă.",
+            "no_password_service_name": "Contul tau momentan nu are o parolă deoarece te-ai registrat cu {{service_name}}",
+            "updating_your_password_will_cause": "Actualizând parola dvs. va cauza ca toate celelalte sesiuni browser să fie deconectate. Orice <a>Conexiune OAuth si chei API</a> vor fi ramase active.",
+            "new_password_again": "Repetați parola noua",
+            "password_again": "Repetați parola",
+            "password": "Parolă",
+            "current_password": "Parola actuală",
+            "set_password": "Setați parola",
+            "reset_password": "Resetați parola"
         }
     },
     "buy_form_popup": {

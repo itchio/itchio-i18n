@@ -395,12 +395,12 @@
         "devlog_view_all_posts": "عرض كل المنشورات",
         "your_purchase_comes_with_a_steam_key": "تأتي مشترياتك مع كود لمنصة Steam.",
         "donate_button": "أدعم {{noun}}",
-        "empty_page_no_uploads": "هذا المطور لم يرفع أي شئ بعد...",
+        "empty_page_no_uploads": "المطور لم يرفع أي شيء بعد…",
         "comments": {
             "comments_header": "التعليقات",
             "leave_a_comment_header": "ضع تعليقًا",
             "leave_a_comment": "ضع تعليقًا",
-            "click_to_leave_a_comment": "اضغط لتضع تعليقًا...",
+            "click_to_leave_a_comment": "اضغط هنا لترك تعليق…",
             "post_comment": "ضع التعليق",
             "write_your_comment": "اكتب تعليقك…",
             "log_in_to_leave_comment": "<a>سجل الدخول في itch.io</a> لكي تضع تعليق."
@@ -417,7 +417,7 @@
             "authors": "المالكون",
             "author": "المالك",
             "made_with_tools": "أنشئ بواسطة",
-            "code_license": "الترخيص",
+            "code_license": "ترخيص الكود",
             "asset_license": "ترخيص المورد",
             "languages": "اللغات",
             "singleplayer": "اللعب الفردي",
@@ -491,7 +491,8 @@
             "rate": "التقييم",
             "rate_this_noun": "قيم {{noun}}",
             "rate_for_jam": "تقييم ل{{jam_title}}",
-            "submission_to_jam": "تقديم إلى {{jam_title}}"
+            "submission_to_jam": "تقديم إلى {{jam_title}}",
+            "included_in_bundle_title": "ضمن مجموعة {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "انشر هذا المشروع",
@@ -637,7 +638,7 @@
             "topics_count_3": "{{count}} مواضيع",
             "topics_count_4": "{{count}} مواضيع",
             "topics_count_5": "{{count}}",
-            "view_this_communitys_rules": "تعرف علي قوانين هذا المجتمع..."
+            "view_this_communitys_rules": "تعرف على قوانين هذا المجتمع…"
         },
         "topic_list": {
             "new_flag": "جديد",
@@ -683,7 +684,7 @@
         "your_email_address": "بريدك الإلكتروني",
         "email_address_description": "سيتم إرسال تأكيد الدفع الخاص بك هنا",
         "gift_email_instructions": "ستختار بريدًا إلكترونيًا لإرسال الهدية إليه بعد الدفع",
-        "i_already_paid_for_this": "لقد دفعت بالفعل لهذا...",
+        "i_already_paid_for_this": "لقد دفعت مسبقا لهذا…",
         "included_files": "الملفات المُرفقة",
         "agree_to_terms": "بإكمال الدفع، فإنك توافق على <1>شروط الخدمة</1> و <2>سياسة الخصوصية</2>.",
         "this_purchase_is_a_gift": "هذا الشراء هدية",
@@ -786,7 +787,9 @@
             "password": "كلمة المرور",
             "new_password": "كلمة مرور جديدة",
             "password_again": "كلمة المرور مرة أخرى",
-            "new_password_again": "كلمة المرور الجديدة مرة أخرى"
+            "new_password_again": "كلمة المرور الجديدة مرة أخرى",
+            "your_account_currently_doesnt_have_a_password": "حسابك لا يحتوي على كلمة المرور حاليا.",
+            "no_password_service_name": "حسابك لا يحتوي على كلمة المرور حاليا لأنك مسجل مع {{service_name}}."
         },
         "email_addresses": {
             "primary_email_header": "البريد الإلكتروني الأساسي",
@@ -1137,7 +1140,7 @@
         "pending_invitation": "لديك دعوة معلقة لتكون مساهمًا في هذه المجموعة. <a>عرض الدعوة</a>",
         "a_collection_by_author": "مجموعة بواسطة {{author}}",
         "page_title": "{{collection_title}} - مجموعة من {{author}}",
-        "remove_item_button": "حذف...",
+        "remove_item_button": "حذف…",
         "add_a_blurb": "أضف إعلان",
         "edit_blurb": "تعديل إعلان",
         "blurb_author_says": "الناشر {{author}} يقول",
@@ -1147,7 +1150,13 @@
         "page_title": "العلامات الأعلى",
         "find_tag": "جد علامة",
         "commonly_tagged_with": "مُعلم بشكل عام ب",
-        "no_description_yet": "لا وصف"
+        "no_description_yet": "لا وصف",
+        "types": {
+            "tool": "أدوات",
+            "event": "فعاليات",
+            "platform": "منصات",
+            "genre": "الأنواع"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>بواسطة</1> {{author}}",

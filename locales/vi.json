@@ -52,7 +52,8 @@
             "game_jams": "Game jam",
             "account_menu_tooltip": "Menu tài khoản",
             "feed": "Bảng tin của tôi",
-            "library": "Thư viện của tôi"
+            "library": "Thư viện của tôi",
+            "posts": "Đăng bài"
         }
     },
     "itchio": "itch.io",

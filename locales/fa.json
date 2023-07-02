@@ -313,7 +313,7 @@
                 "purchased_for_price": "به قیمت {{price}} خریداری شده است",
                 "purchased_in_a_bundle_for_price": "بسته به قیمت {{price}} خریداری شده است",
                 "you_were_gifted_this": "این را به تو هدیه دادند",
-                "claimed": "دریافت شده",
+                "claimed": "خریداری شده",
                 "you_havent_sent_this_gift_to_anyone_yet": "شما هنوز این هدیه را برای کسی نفرستاده اید",
                 "percent_off": "{{percent}}% تخفیف",
                 "download": "دانلود",
@@ -422,9 +422,9 @@
             "jam_submit": "برای شرکت در گردهمایی، به یک حساب کاربری در itch.io نیاز دارید.",
             "follow_username": "برای اینکه بتوانید <1>{{username}}</1> را دنبال کنید، به یک حساب کاربری در itch.io نیاز دارید.",
             "collection": "برای اضافه کردن یک بازی به کالکشن، به یک حساب کاربری در itch.io نیاز دارید.",
-            "claim_object": "برای گرفتن {{noun}}، لطفا به حساب کاربری خود وارد شده یا یک حساب جدید بسازید.",
+            "claim_object": "برای خرید {{noun}}، لطفا به حساب کاربری خود وارد شده یا یک حساب جدید بسازید.",
             "recent_purchases": "برای پیوند دادن آخرین خریدهای خود، وارد شوید.",
-            "claim_object_title": "برای گرفتن {{title}}، لطفا به حساب کاربری خود وارد شده یا یک حساب جدید بسازید."
+            "claim_object_title": "برای خرید {{title}}، لطفا به حساب کاربری خود وارد شده یا یک حساب جدید بسازید."
         },
         "page_title": "ورود",
         "you_are_logged_out": "از حساب کاربری خود خارج شدید",
@@ -453,7 +453,7 @@
             "repeat_password": "تکرار گذرواژه",
             "url_preview": "آدرس صفحه‌ی پروفایل شما این خواهد شد",
             "username": "نام کاربری",
-            "other_registration_methods": "دیگر روش‌های ثبت نام"
+            "other_registration_methods": "روش‌های دیگر ثبت نام"
         },
         "create_an_account_on_itchio": "ساخت یک حساب کاربری در itch.io",
         "page_title": "ثبت نام حساب کاربری"
@@ -546,7 +546,7 @@
         "or_share_on": "یا اشتراک گذاری در",
         "social_share_message_download": "الان {{title}} ساخته شده توسط {{username}} رو دانلود کردم",
         "share_and_follow": "به اشتراک بگذارید و دنبال کنید",
-        "claim_external_key": "طلب کلید {{key_type}}",
+        "claim_external_key": "خرید کلید {{key_type}}",
         "get_external_key": "دریافت کلید {{key_type}}",
         "access_existing_copy": "نمی توانید نسخه دیگری را دریافت کنید ، اما می توانید به نسخه موجود خود دسترسی پیدا کنید.",
         "already_own": "به نظر می‌رسد شما صاحب این هستید",

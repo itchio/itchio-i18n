@@ -6,23 +6,28 @@
             "upload_game": "Mängu üleslaadimine",
             "game_jams": "Mängujämmid",
             "search": "Otsi",
-            "community": "Ühiskond",
+            "community": "Kogukond",
             "browse_games": "Sirvi mänge",
             "browse": "Sirvi",
             "games": "Mängud",
             "fun_games": "Lõbusad mängud",
-            "sales": "Müügid",
+            "sales": "Müük",
             "comics": "Koomiksid",
             "free_games": "Tasuta mängud",
-            "dashboard": "Armatuurlaud",
+            "dashboard": "Juhtpaneel",
             "log_in": "Logi sisse",
             "feed_unseen_count": "{{count}} uus",
             "feed_unseen_count_plural": "{{count}} uut",
             "game_development": "Mänguarendus",
             "no_notifications": "Uusi teateid pole",
-            "notifications_count": "{{count}} teatis",
-            "notifications_count_plural": "{{count}} teateid",
-            "feed": "Sein"
+            "notifications_count": "{{count}} teade",
+            "notifications_count_plural": "{{count}} teadet",
+            "feed": "Voog",
+            "game_assets": "Vahendid",
+            "bundles": "Kimbud",
+            "indie_game_store": "Indie mängude pood",
+            "jams": "Jämmid",
+            "register": "Registreeri"
         },
         "footer": {
             "faq": "KKK",
@@ -31,54 +36,55 @@
             "directory": "Kataloog",
             "terms": "Tingimused",
             "contact_us": "Võta ühendust",
-            "blog": "Blogi"
+            "blog": "Blogi",
+            "about": "Meist"
         },
         "user_menu": {
             "account_menu_tooltip": "Konto menüü",
             "library": "Minu kogu",
             "recommendations": "Soovitused",
-            "game_jams": "Mängu Džemmid",
-            "dashboard": "Armatuurlaud",
+            "game_jams": "Mängu jämmid",
+            "dashboard": "Juhtpaneel",
             "sales_bundles": "Müügid & kimbud",
-            "host_game_jam": "Võõrusta mängu džammi",
+            "host_game_jam": "Võõrusta mängu jämmi",
             "view_profile": "Vaata profiili",
-            "settings": "Sätted",
+            "settings": "Seaded",
             "log_out": "Logi välja",
             "account": "Konto",
             "create": "Loo",
-            "explore": "Uuri",
+            "explore": "Avasta",
             "posts": "Postitused",
             "new_project": "Lae üles uus projekt",
-            "feed": "Minu sein"
+            "feed": "Minu voog"
         }
     },
     "itchio": "itch.io",
     "index": {
-        "game_dev_on_sale": "Mängu Loomise Resurssid <1>Müügis</1>",
-        "view_all_games_on_sale": "Vaata kõike mänge müügil",
-        "people_to_follow": "Inimesi Keda Jälgida",
-        "view_all_jams": "Vaata kõik džemmid",
-        "featured_jams": "Esile tõstetud džemmid",
+        "game_dev_on_sale": "Mängu loomise vahendid <1>müügil</1>",
+        "view_all_games_on_sale": "Vaata kõiki müügil mänge",
+        "people_to_follow": "Inimesed, keda jälgida",
+        "view_all_jams": "Vaata kõiki jämme",
+        "featured_jams": "Esile tõstetud jämmid",
         "view_more": "Vaata veel",
-        "fresh_games": "Värsked Mängud",
-        "recommended_for_you": "Soovitatud sulle",
-        "view_all": "Vaatle kõiki",
+        "fresh_games": "Värsked mängud",
+        "recommended_for_you": "Sulle soovitatud",
+        "view_all": "Vaata kõiki",
         "with_demo": "Demoga",
-        "top_sellers": "Enimmüüdud",
+        "top_sellers": "Enim müüdud",
         "free_games": "Tasuta mängud",
         "on_sale": "Müügil",
-        "browse_all_tags": "Sirvi kõiki märgendeid",
-        "view_all_blog_posts": "Vaatle kõiki uuendusi",
+        "browse_all_tags": "Sirvi kõiki silte",
+        "view_all_blog_posts": "Vaata kõiki uuendusi",
         "from_the_itchio_blog": "Itch.io blogist",
         "random_game": "Suvaline mäng",
         "from_the_blog": "Blogist",
-        "dont_see_anything_you_like": "Ei leia midagi mis sulle meeldiks?",
-        "view_all_games": "Vaata kõike mänge",
+        "dont_see_anything_you_like": "Kas ei leia midagi, mis sulle meeldiks?",
+        "view_all_games": "Vaata kõiki mänge",
         "view_something_random": "Vaata midagi suvalist",
-        "download_app": "Lae rakendus alla",
+        "download_app": "Lae alla rakendus",
         "games_by_price": "Mängud hinna järgi",
         "browse": "Sirvi",
-        "popular_tags": "Populaarsed märgendid",
+        "popular_tags": "Popid sildid",
         "to_follow": {
             "refresh_button": "Värskendage lisateabe saamiseks",
             "dismiss_tooltip": "Ära soovita enam",
@@ -88,23 +94,26 @@
         "nav": {
             "devlogs": "Arendaja logid",
             "community": "Kogukond",
-            "all_games": "Kõik Mängud"
+            "all_games": "Kõik mängud",
+            "game_jams": "Mängu jämmid",
+            "bundles": "Kimbud"
         },
         "view_all_on_sale": "Vaata kõiki müügil olevaid",
         "more_featured_games": "Rohkem esiletõstetud mänge",
-        "recommendations_based_on": "Põhineb asjadele mida sa oled ostnud, allalaadinud ja hinnanud",
+        "recommendations_based_on": "Põhineb asjadele, mida sa oled ostnud, alla laadinud ja hinnanud",
         "search_games_creators": "Otsi mänge & loojaid",
-        "get_the_app": "<s>Võtke itch.io-st maksimum!</s> Installi ja halda oma mänge meie töölaua rakendusega",
-        "meta_description": "itch.io on lihtne viis leida, alla laadida ja jagada indimänge internetis. Vahet pole, kas olete mängulooja, kes soovib oma mängu üles laadida, või lihtsalt keegi, kes otsib midagi uut mängida, itch.io katab teie vajadused.",
-        "page_title": "Lae alla uusimad indimängud",
+        "get_the_app": "<s>Saa itch.io-st maksimum!</s> Installi ja halda oma mänge meie töölaua rakendusega",
+        "meta_description": "itch.io on lihtne viis leida, alla laadida ja jagada indiemänge internetis. Vahet pole, kas olete mängulooja, kes soovib oma mängu üles laadida, või lihtsalt keegi, kes otsib midagi uut mängida, itch.io katab teie vajadused.",
+        "page_title": "Lae alla uusimad indie-mängud",
         "html5_games": "HTML5 mängud",
         "intro_cta": "<1>Lisa oma mäng</1> või <2>Loe KKK-d</2>",
-        "intro": "<s>itch.io</s> on lihtne viis internetis indimängude tasuta leidmiseks ja jagamiseks.",
+        "intro": "<s>itch.io</s> on lihtne viis internetis indie-mängude tasuta leidmiseks ja jagamiseks.",
         "browse_content_type": "Sirvi {{content_type}}",
         "view_all_platforms": "Vaata kõiki platvorme",
-        "filtering_platform": "Filtreerime kõik mängud {{platform_name}}-ile",
-        "latest_featured_games": "Uusimad Esiletoodud Mängud",
-        "people_to_follow_description": "Siin on mõningad kontod mille jälgimisest olete Te võib-olla huvitatud. <a>Miks jälgida?</a>"
+        "filtering_platform": "Filtreeri kõik mängud {{platform_name}}-ile",
+        "latest_featured_games": "Uusimad esiletoodud mängud",
+        "people_to_follow_description": "Siin on mõned kontod, mille jälgimisest võiksite huvitatud olla. <a>Miks jälgida?</a>",
+        "fresh_games_description": "Pidevalt uueneb uusimate mängudega itch.io-s"
     },
     "misc": {
         "multiplayer_features": {
@@ -115,7 +124,7 @@
         "accessibility_features": {
             "textless": "Tekstivaba",
             "blind": "Pimedasõbralik",
-            "one_button": "Üks nupp",
+            "one_button": "Ühe nupuga",
             "tutorial": "Interaktiivne juhend",
             "highcontrast": "Kõrge kontrast",
             "configurable_controls": "Muudetavad juhtnupud",
@@ -125,7 +134,7 @@
         "classifications": {
             "soundtrack": "Albumid & heliribad",
             "game_mod": "Mängu modifikatsioonid",
-            "assets": "Mängu lisad",
+            "assets": "Mängu loomise vahendid",
             "book": "Raamatud",
             "comic": "Koomiksid",
             "tool": "Tööriistad",
@@ -148,8 +157,8 @@
             "accelerometer": "Kiirendusmõõtur",
             "voice": "Hääljuhtimine",
             "touchscreen": "Puuteekraan",
-            "joystick": "Juhtkang",
-            "gamepad": "Mängupult (Ükskõik milline)",
+            "joystick": "Juhthoob",
+            "gamepad": "Mängupult (kõik)",
             "mouse": "Hiir",
             "keyboard": "Klaviatuur"
         },
@@ -173,11 +182,11 @@
         },
         "filter_when": {
             "last_7_days": "Viimased 7 päeva",
-            "last_day": "Viimane Päev",
+            "last_day": "Viimane päev",
             "last_30_days": "Viimased 30 päeva"
         },
         "page_number": "Leht {{page_number}}",
-        "loading_more_ellip": "Lean veel…",
+        "loading_more_ellip": "Laeb veel…",
         "more_ellip": "Veel…",
         "errors": {
             "server_error": "Server ei vastanud, proovige hiljem uuesti"
@@ -213,22 +222,26 @@
             "close": "Sulge"
         },
         "collection_button": {
-            "add_to_collection": "Lisa kollektsiooni"
+            "add_to_collection": "Lisa kogusse"
         },
         "pager": {
             "first_page": "Esimene leht",
             "previous_page": "Eelmine leht",
-            "current_page_of_total": "Leht {{current_page}} {{total_pages}}-st",
+            "current_page_of_total": "Leht {{current_page}} / {{total_pages}}-st",
             "next": "Järgmine",
             "prev": "Eelmine",
             "next_page": "Järgmine lehekülg"
+        },
+        "dismiss": "Keeldu",
+        "platforms": {
+            "web": "Veeb"
         }
     },
     "game": {
         "empty_page_no_uploads": "Looja pole veel midagi üles laadinud…",
         "devlog_view_all_posts": "Vaata kõiki postitusi",
         "in_order_to_access": "Sellele {{noun}} juurde pääsemiseks peate selle ostma minimaalse hinnaga {{price}} või sellest kõrgema hinnaga.",
-        "percent_off": "<s>{{percent}}%</s> Alla",
+        "percent_off": "<s>{{percent}}%</s> alla",
         "on_sale": "Müügil!",
         "name_your_own_price": "Nimetage oma hind",
         "buy_now_button": "Osta kohe",
@@ -284,7 +297,8 @@
             "accessibility": "Ligipääsetavus",
             "inputs": "Sisendid",
             "languages": "Keeled",
-            "average_session_duration": "Keskmine seanss"
+            "average_session_duration": "Keskmine seanss",
+            "asset_license": "Vahendi litsents"
         },
         "join_the_community": "Liitu kogukonnaga",
         "community_header": "Kogukond",
@@ -324,7 +338,7 @@
                 "you_were_gifted_this": "Sulle oli see kingitud",
                 "claimed": "Omandatud",
                 "you_havent_sent_this_gift_to_anyone_yet": "Sa ei ole selle kingituse kellelegi saatnud veel",
-                "percent_off": "{{percent}}% soodsam",
+                "percent_off": "{{percent}}% alla",
                 "download": "Lae alla",
                 "send_gift": "Saada kingitus"
             },
@@ -333,32 +347,35 @@
             "rate_for_jam": "Hinda {{jam_title}} jaoks",
             "rate_this_noun": "Hinda seda {{noun}}",
             "rate": "Hinda",
-            "edit_rating": "Muuda Hinnangut",
-            "edit_your_rating": "Muuda Oma Hinnangut",
+            "edit_rating": "Muuda hinnangut",
+            "edit_your_rating": "Muuda oma hinnangut",
             "footer": {
                 "report": "Aruanne",
                 "updated_date": "Uuendatud {{date}}",
-                "view_all_by_username": "Vaatle kõik {{username}} tehtud asju"
+                "view_all_by_username": "Vaatle kõik {{username}} tehtud asju",
+                "embed": "Manustatud"
             },
             "jam_submission": {
-                "now_accepting_ratings": "See džemm võtab praegu vastu hinnanguid sissekannete jaoks.",
+                "now_accepting_ratings": "See jämm võtab praegu vastu hinnanguid sissekannete jaoks.",
                 "you_rated_this_game": "Sa hindasid seda mängu",
-                "accepting_ratiings": "See džemm võtab praegu vastu hinnanguid esituste jaoks <a>Saa rohkem teada</a>",
+                "accepting_ratiings": "See jämm võtab praegu vastu hinnanguid esituste jaoks. <a>Saa rohkem teada</a>",
                 "view_the_submission_page": "Vaatle esituse lehekülge",
                 "this_is_a_submission_to_jam_title": "See on esitus {{jam_title}} jaoks",
-                "rating_instructions": "Hinda ja kommenteeri seda sissekannet džemmi jaoks külastades esituse lehekülge üleval olevas lingis."
+                "rating_instructions": "Hinda ja kommenteeri seda sissekannet jämmi jaoks külastades esituse lehekülge üleval olevas lingis."
             }
         },
         "after_download": {
             "check_popup_blocker": "Allalaadimine peaks peatselt algama. Kui ei, kontrollige oma hüpikakende blokeerijat.",
-            "more_from_creator": "Rohekm leiate sama looja leheküljelt: {{profile}}",
+            "more_from_creator": "Rohkem leiate sama looja leheküljelt: {{profile}}.",
             "thanks_project_author": "Tänan et laadisid alla {{author}} tehtud projekti {{project}}.",
             "thanks_for_downloading_title": "Tänan et, laadisid alla",
             "share_this_project": "Jaga seda projekti",
             "app_learn_more": "<s>Uus!</s> Proovige oma teegi allalaadimiseks ja haldamiseks itch.io töölauarakendust. <a>Lisateave</a>",
             "more_from_itchio_header": "Vaata rohkem itch.io-st",
-            "view_all_from_jam": "Vaatle kõike džemmist",
-            "check_out_more_from_jam_title": "Vaata rohkem {{jam_title}}"
+            "view_all_from_jam": "Vaata kõike jämmist",
+            "check_out_more_from_jam_title": "Vaata rohkem {{jam_title}}",
+            "powered_by": "{{itchio_logo}} <s>toetusega</s>",
+            "see_everything": "Näe kõike"
         },
         "password_required": {
             "header": "Selle lehe vaatamiseks on vaja parooli"
@@ -374,13 +391,14 @@
             "support_page_link": "Minge ametlikule tugilehele",
             "support_from_creator": "Kas teil esinevad probleemid, soovite looja poolt abi?",
             "form_description": "Täitke see vorm, kui peate selle lehe sisu osas ühendust võtma itch.io modereerimismeeskonnaga. Teie aruannet võidakse vajadusel lehe loojaga jagada."
-        }
+        },
+        "development_log_header": "Arenduspäevik"
     },
     "app": {
         "meta_description": "itch, parim viis indie-mängude allalaadimiseks ja mängimiseks. Laadige alla tasuta mänge ja hallake oma kogu oma töölaualt. Nüüd saadaval Windowsi, macOS-i ja Linuxi jaoks.",
         "page_title": "Laadige alla rakendus",
         "community_header": "Liituge kogukonnaga",
-        "download_now": "Lae alla kohe",
+        "download_now": "Lae kohe alla",
         "languages_description": "Sügeluse rakendus on tänu itch.io kogukonnale saadaval enam kui 20 keeles! <a>Lisateave tõlkimise kohta</a>",
         "languages_header": "Saadaval teie keeles",
         "web_games_description": "Saate sünkroonida mis tahes brauseripõhiseid mänge otse rakendusse, võimaldades teil neid igal ajal võrguühenduseta mängida. Kui olete uuesti võrgus, saate vajaduse korral värskendusi hankida.",
@@ -395,9 +413,12 @@
         "summary": "Rakendus itch.io, <s>itch</s>, võimaldab teil saidilt itch.io mänge ja tarkvara vaevata alla laadida ja käivitada. Kõik teie allalaaditavad failid on ühes kohas ja neid värskendatakse automaatselt. Juurdepääs oma kogudele ja ostudele või sirvige rakendusesisese brauseri kaudu uusi mänge.",
         "for_platforms": "<1>Windows</1>'i, <2>macOS</2>'i ja <3>Linux</3>'i jaoks",
         "start_download": "Alusta allalaadimist",
-        "tagline": "Installige, värskendage ja mängige indie-mänge",
+        "tagline": "Installi, värskenda ja mängi indie-mänge",
         "share_message": "itch, indie-mängude töölauarakendus",
-        "open_source": "Avatud lähtekoodiga"
+        "open_source": "Avatud lähtekoodiga",
+        "community_description": "Lisateave rakenduse arendamise kohta <1>meie kogukonnas</1>. Jagage funktsioonitaotlusi ja üldist tagasisidet teiste saidi itch.io liikmetega. Kui olete programmeerija, on teil hea meel kuulda, et kogu projekt on <2>avatud lähtekoodiga GitHubis</2>. Ootame teie taotlusi.",
+        "updates_description": "Peale selle, et installitud mänge ei värskendata automaatselt, muutub rakendus samuti ise automaatselt, kui käivitame uued funktsioonid ja lisad. Mängud, mis kasutavad meie uusi käsurea tööriistu, loovad <em>delta paigad</em>, tagades, et laadite alla ainult seda, mida on muudetud, kui uued mängud välja tulevad.",
+        "learn_more_below": "Lisateavet leiate allpool"
     },
     "search": {
         "search_results_for_query": "Otsingutulemused päringule '{{query}}'",
@@ -409,24 +430,25 @@
     },
     "developers": {
         "track_your_game_description": "Jälgige, kuidas inimesed teie mängu vaatavad, kasutades üksikasjalikku analüüsi, mis hõlmab vaatamisi, allalaadimisi ja oste. Kas soovite reklaamida? Looge allalaadimisvõtmed, et anda inimestele juurdepääs teie mängule.",
-        "design_your_games_page_description": "Looge oma mängu jaoks kohandatud leht, kust inimesed teie mängu ostavad või alla laadivad. Saate valida värvid, fondid, pildid ja videod. Kuna see on teie mänguleht, ei leia te sellelt midagi, mida te pole sinna lisanud.",
+        "design_your_games_page_description": "Loo oma mängu jaoks kohandatud leht, kust inimesed teie mängu osta või alla laadida saavad. Ise valid värvid, fondid, pildid ja videod. Kuna see on teie mänguleht, ei leia te sellelt midagi, mida te pole sinna lisanud.",
         "upload_or_dashboard": "<1>Lae üles uus mäng</1> <em>või</em> <2>Mine juhtpaneelile</2>",
-        "create_account_or_login": "<1>Looge konto</1> <em>või</em> <2>Logige sisse</2>",
+        "create_account_or_login": "<1>Loo konto</1> <em>või</em> <2>Logi sisse</2>",
         "share_message": "itch.io on lihtne viis oma indie-mängude veebis tasuta levitamiseks.",
         "learn_more_about": "Loe rohkem lisateabe kohta:",
-        "upload_your_game_description": "Laadige oma indie-mäng saidile <s>itch.io</s> tasuta üles. Säilitame teie mängu ekraanipiltide ja muude mängu allalaadimistega. Teie allalaaditavad failid on alati saadaval ja alati kiired.",
-        "browser_game_description": "Teenige oma brauserimänguga raha, korraldades seda saidil <s>itch.io</s>. Teie mäng on brauserisse manustatud ja mängijad saavad annetada soovitud summa, kui neile teie mäng meeldib.",
+        "upload_your_game_description": "Laadi oma indie-mäng saidile <s>itch.io</s> tasuta üles. Säilitame teie mängu ekraanipiltide ja muude mängu allalaadimistega. Teie allalaaditavad failid on alati saadaval ja alati kiired.",
+        "browser_game_description": "Teeni raha oma brauserimänguga jagades seda saidil <s>itch.io</s>. Teie mäng on brauserisse manustatud ja mängijad saavad annetada soovitud summa, kui neile teie mäng meeldib.",
         "learn_more": "Lisateave",
-        "host_a_sale_description": "Reklaamige oma mänge ja hankige rohkem oste, pakkudes mänge mis tahes aja jooksul soodushinnaga.",
+        "host_a_sale_description": "Reklaami oma mänge ja hankige rohkem oste, pakkudes mänge mis tahes aja jooksul soodushinnaga.",
         "host_a_sale": "Müügi korraldamine",
-        "track_your_game": "Jälgige oma mängu",
-        "design_your_games_page": "Kujundage oma mängu leht",
-        "upload_your_indie_game": "Laadige üles oma indie-mäng",
-        "account_faq_cta": "<1>Looge konto kohe</1> või <2>lugege KKK-d</2>",
-        "upload_a_new_game": "Uue mängu üles laadimine",
-        "product_summary2": "Saate määrata oma mängule isegi minimaalse hinna, andes fännidele võimaluse maksta teie mängu eest seda, mida nad tahavad.",
-        "product_summary1": "<s>itch.io</s> on lihtne viis oma indie-mängude võrgus tasuta levitamiseks. Laadige oma mängufailid ja ekraanipildid kõik ühte kohta üles. Looge kohandatud sihtleht, kus teie mäng on fookuses.",
-        "page_header": "Looge kohandatud leht, et oma indie-mänge kohe levitada või müüa"
+        "track_your_game": "Jälgi oma mängu",
+        "design_your_games_page": "Kujunda oma mängu leht",
+        "upload_your_indie_game": "Laadi üles oma indie-mäng",
+        "account_faq_cta": "<1>Loo konto kohe</1> või <2>loe KKK-d</2>",
+        "upload_a_new_game": "Lae üles uus mäng",
+        "product_summary2": "Saad määrata oma mängule isegi minimaalse hinna, andes fännidele võimaluse maksta teie mängu eest seda, mida nad tahavad.",
+        "product_summary1": "<s>itch.io</s> on lihtne viis oma indie-mängude võrgus tasuta levitamiseks. Laadi oma mängufailid ja ekraanipildid kõik ühte kohta üles. Loo kohandatud sihtleht, kus teie mäng on fookuses.",
+        "page_header": "Loo kohandatud leht, et oma indie-mänge kohe levitada või müüa",
+        "my_dashboard": "Minu juhtpaneel"
     },
     "user_register": {
         "page_title": "Registreeri konto",
@@ -439,53 +461,54 @@
             "your_email_address": "Sinu e-posti aadress",
             "about_you": "Enda kohta",
             "account_preferences_info": "Saate oma vastuseid nendele küsimustele hiljem muuta, neid kasutatakse itch.io-le vihjamiseks, kuidas see peaks end teile esitama.",
-            "interest_developer": "Olen huvitatud sisu levitamisest saidil itch.io",
-            "interest_gamer": "Olen huvitatud mängude mängimisest või allalaadimisest saidil itch.io",
-            "digest_signup": "Registreeruge iga kahe kuu tagant ilmuva itch.io kokkuvõtte uudiskirja saamiseks",
-            "accept_tos": "Nõustun <1>teenusetingimustega</1>",
+            "interest_developer": "Olen huvitatud sisu levitamisest itch.io portaalis",
+            "interest_gamer": "Olen huvitatud mängude mängimisest või allalaadimisest itch.io portaalist",
+            "digest_signup": "Registreeru iga kahe kuu tagant ilmuva itch.io kokkuvõtliku uudiskirja saamiseks",
+            "accept_tos": "Ma nõustun <1>teenusetingimustega</1>",
             "link_product": "Teie toote <1>{{product}}</1> ost lingitakse pärast registreerumist automaatselt teie kontoga.",
             "log_in": "Logi sisse",
             "already_have_account": "või on konto juba olemas?",
-            "create_account": "Looge kasutaja"
+            "create_account": "Loo kasutaja"
         },
-        "create_an_account_on_itchio": "Looge kasutaja itch.io's"
+        "create_an_account_on_itchio": "Loo kasutaja itch.io portaali"
     },
     "user_login": {
         "errors": {
             "please_enter_a_valid_email_address": "Palun sisesta kehtiv e-posti aadress",
             "accept_terms": "Peate nõustuma teenusetingimustega"
         },
-        "welcome_to_itchio": "Teretulemast itch.io veebilehele!",
+        "welcome_to_itchio": "Teretulemast itch.io portaali!",
         "welcome_back": "Teretulemast tagasi!",
         "you_are_logged_out": "Sa oled välja logitud",
         "page_title": "Logi sisse",
-        "no_account_prompt": "Kas teil pole kontot? <1>Looge konto</1>",
+        "no_account_prompt": "Kas teil pole kontot? <1>Loo konto</1>",
         "intent": {
-            "claim_object_title": "Logige sisse või looge kasutaja, et taotleda {{title}}.",
-            "recent_purchases": "Hiljuti tehtud ostude linkimiseks logige sisse.",
-            "claim_object": "Logige sisse või looge konto, et taotleda {{noun}}.",
-            "collection": "Enne kogusse lisamist peate kõigepealt looma itch.io konto.",
-            "follow_username": "Enne jälgimise alustamist, peate kõigepealt looma itch.io konto <1>{{username}}</1>.",
-            "comment": "Enne kommentaari jätmist peate kõigepealt looma itch.io konto.",
-            "rate_game": "Enne mängu hindamist peate kõigepealt looma itch.io konto.",
-            "follow": "Enne kellegi jälgimist peate kõigepealt looma itch.io konto.",
-            "community": "Itch.io kogukondades osalemiseks peate sisse logima. Konto loomine on tasuta ja võtab vaid mõne hetke."
+            "claim_object_title": "Logi sisse või loo kasutaja, et taotleda {{title}}.",
+            "recent_purchases": "Hiljuti tehtud ostude linkimiseks logi sisse.",
+            "claim_object": "Logi sisse või loo konto, et taotleda {{noun}}.",
+            "collection": "Enne kogusse lisamist peate kõigepealt looma omale itch.io konto.",
+            "follow_username": "Enne <1>{{username}}</1> jälgimist, peate kõigepealt looma omale itch.io konto.",
+            "comment": "Enne kommentaari jätmist peate kõigepealt looma omale itch.io konto.",
+            "rate_game": "Enne mängu hindamist peate kõigepealt looma omale itch.io konto.",
+            "follow": "Enne kellegi jälgimist peate kõigepealt looma omale itch.io konto.",
+            "community": "Itch.io kogukondades osalemiseks peate olema sisse logitud. Konto loomine on tasuta ja võtab vaid mõne hetke.",
+            "jam_submit": "Enne jämmi esitamist peate kõigepealt looma omale itch.io konto."
         },
-        "create_a_new_account": "Looge uus kasutaja",
+        "create_a_new_account": "Loo uus kasutaja",
         "looking_for_something_you_bought": "Kas otsite midagi, mille ostsite?",
         "login_form": {
             "log_in_button": "Logi sisse",
             "or": "või",
-            "or_log_in_with_another_site": "Või logige sisse mõne teise saidiga",
+            "or_log_in_with_another_site": "Või logige sisse mõne teise saidi vahendusel",
             "create_account": "Loo konto",
             "forgot_password": "Unustasin parooli",
             "password": "Parool",
             "username_or_email": "Kasutajanimi või e-post"
         },
-        "log_in_to_your_itchio_account": "Logige sisse oma itch.io kontole"
+        "log_in_to_your_itchio_account": "Logi sisse oma itch.io kontole"
     },
     "blog": {
-        "tag_filter": "Filtreerimine {{tag}}-i. <a>Eemalda silt</a>",
+        "tag_filter": "Filtreeri {{tag}}-i. <a>Eemalda silt</a>",
         "empty_message": "Näib, et siin pole ühtegi postitust",
         "digest": "Ülevaade",
         "updates": "Uuendused",
@@ -548,7 +571,8 @@
         "filter_group": {
             "toggle_more_options": "Lülitage sisse Rohkem valikuid",
             "fewer_options": "Vähem valikuid",
-            "more_options": "Veel valikuid"
+            "more_options": "Veel valikuid",
+            "clear_filter": "Puhasta filter"
         },
         "fresh_description": "Sirvige pidevalt uuenevat projektide komplekti, mis pärinevad meie liikmete kureeritud kogudest. Uute täienduste jaoks vaadake tagasi.",
         "filter_group_tools": "Tööriistad ja mootorid",
@@ -581,7 +605,9 @@
         "sort_new_and_popular": "Uus & populaarne",
         "sort_popular": "Populaarne",
         "results_count": "{{count}} tulemus",
-        "results_count_plural": "{{count}} tulemust"
+        "results_count_plural": "{{count}} tulemust",
+        "filter_group_type": "Tüüp",
+        "clear_filters": "Puhasta"
     },
     "collection": {
         "remove_confirm": "Kas olete kindel, et soovite selle kogust eemaldada",
@@ -595,7 +621,9 @@
         "edit_contributors": "Muuda kaastöötajaid",
         "edit_collection": "Muuda kogu",
         "last_updated_date": "viimati uuendatud {{date}}",
-        "authors": "kogumik autorilt {{author}}"
+        "authors": "kogumik autorilt {{author}}",
+        "edit_blurb": "Muuda kokkuvõtet",
+        "add_a_blurb": "Lisa kokkuvõte"
     },
     "buy_form": {
         "contact_support_on_error": "Kui probleem püsib, võtke ühendust <a>itch.io toega</a> ja esitage kõik asjakohased üksikasjad.",
@@ -626,7 +654,9 @@
         "sold_out_notice": "See toode on hetkel läbi müüdud, vaadake hiljem uuesti.",
         "preorder_title": "Eeltelli '{{title}}'",
         "buy_title": "Osta '{{title}}'",
-        "download_title": "Lae alla '{{title}}'"
+        "download_title": "Lae alla '{{title}}'",
+        "pay_with": "Maksa",
+        "buy_as_bundle_plural": "Saate selle toote osta kimbuna {{count}} kaubast hinnaga {{price}}:"
     },
     "community": {
         "topic_list": {
@@ -676,7 +706,10 @@
             "i_agree_to_the_rules_above": "Ma Nõustun ülaltoodud reeglitega",
             "locked": "Lukustatud",
             "sticky": "Kleebis",
-            "moderator_tools": "Moderatsiooni tööriistad"
+            "moderator_tools": "Moderatsiooni tööriistad",
+            "topic_tag": "Silt",
+            "body": "Sisu",
+            "moderation_options": "Seaded"
         },
         "post_form": {
             "post_reply": "Postita vastus",
@@ -708,7 +741,9 @@
             "edits_count": "({{count}} muudatus)",
             "edits_count_plural": "({{count}} muudatust)",
             "post_from_blocked_account": "Postitus blokeeritud kontolt",
-            "deleted_post": "Kustutatud postitus"
+            "deleted_post": "Kustutatud postitus",
+            "ban": "Keela…",
+            "edit_blocks": "Muuda plokke"
         },
         "topic": {
             "topic_is_archived": "See teema on arhiveeritud. See on registriväline ja uusi postitusi teha ei saa.",
@@ -739,6 +774,78 @@
             "unlisted_topic_notice": "<s>Moderaator on selle teema loendist välja lülitanud.</s> See pole teemaloendis nähtav, kuid saate siiski vastata ja muudatusi teha.",
             "log_in_to_reply": "Vastamiseks logi sisse",
             "reply": "Vasta"
+        }
+    },
+    "feed": {
+        "event": {
+            "collection_summary": "Kogu {{count}} kirjega.",
+            "collection_summary_plural": "Kogu {{count}} kirjega."
+        },
+        "profile_notice": {
+            "description": "Teie kontol ei ole profiilipilti, lisage see, et teistel oleks teid lihtsam ühe pilguga tuvastada!",
+            "add_a_profile_image": "Lisage profiilipilt"
+        },
+        "email_warning": {
+            "verify_your_email_address": "Kinnitage oma e-posti aadress"
+        },
+        "event_filter_label": "Filtreeri:",
+        "upload_a_game_button": "Lae üles mäng",
+        "manage_my_games_button": "Halda enda mänge",
+        "global_feed_tab": "Üldine voog",
+        "my_feed_tab": "Minu voog",
+        "to_follow": {
+            "to_follow_description": "Siin on mõned kontod, mille jälgimisest võiksite huvitatud olla.",
+            "people_to_follow_header": "Inimesed, keda jälgida"
+        },
+        "to_rate": {
+            "to_rate_description": "Siin on mõned asjad, millega olete kokku puutunud, kuid pole hinnanud.",
+            "projects_to_rate_header": "Projektid, mida hinnata"
+        },
+        "featured_tags_header": "Esiletõstetud sildid",
+        "latest_featured_games_header": "Viimased esiletoodud mängud",
+        "filter_ratings_tab": "Hinnangud",
+        "filter_devlogs_tab": "Arendaja logid",
+        "filter_collections_tab": "Kogud",
+        "filter_new_projects_tab": "Uued projektid",
+        "filter_everything_tab": "Kõik",
+        "filter_own_activity_tab": "Minu tegevused"
+    },
+    "jams": {
+        "count_joined": "{{count}} liitus",
+        "browse_in_progress": "Käimas",
+        "browse_top_past_jams": "Parimad toimunud jämmid",
+        "brose_featured_jams": "Esiletõstetud jämmid",
+        "browse_upcoming_this_month": "Tulemas sel kuul",
+        "dont_see_something_you_like_header": "Kas ei leia, mis sulle meeldib?",
+        "host_or_explore_links": "<1>Korralda enda jämm</1> või <2>Avastage kõiki jämme</2>",
+        "host_your_own_jam_button": "Korralda enda jämm",
+        "page_title": "Mängu jämmid itch.io lehel"
+    },
+    "jam": {
+        "submission": {
+            "remove_this_submission_button": "Eemaldage see esitus",
+            "results_table_raw_score": "Töötlemata tulemus",
+            "results_table_score": "Tulemus",
+            "results_table_votes": "Hääled",
+            "results_table_rank": "Koht",
+            "edit_this_submission_button": "Muutke seda esitust",
+            "ranked_from_count_plural": "Reastatud <s>{{count}} hinnangust</s>.",
+            "run_project": "Käivita projekt",
+            "play_game": "Mängi mängu",
+            "downloads": "Allalaadimised",
+            "link_to_itchio_page": "{{game_title}} itch.io lehekülg",
+            "comments": {
+                "empty_message": "Keegi ei ole kommenteerinud",
+                "post_comment": "Kommenteeri",
+                "leave_a_comment_header": "Jäta kommentaar"
+            },
+            "view_project_page": "Vaata projekti lehekülge",
+            "view_game_page": "Vaata mängu lehekülge"
+        },
+        "submitter": {
+            "view_entries": "Vaata {{count}} kirjet",
+            "view_entries_plural": "Vaata {{count}} kirjeid",
+            "view_results": "Vaata tulemusi"
         }
     }
 }

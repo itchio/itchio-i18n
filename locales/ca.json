@@ -55,7 +55,7 @@
             "game_jams": "Game jams",
             "feed": "El meu fil de continguts",
             "account_menu_tooltip": "Menú del compte",
-            "posts": "Entades"
+            "posts": "Publicacions"
         }
     },
     "itchio": "itch.io",
@@ -63,14 +63,14 @@
         "popular_tags": "Etiquetes populars",
         "browse": "Explora",
         "games_by_price": "Jocs per preu",
-        "download_app": "Descarrega l'aplicació",
+        "download_app": "Baixa l’aplicació",
         "view_something_random": "Mostra alguna cosa aleatòria",
         "view_all_games": "Mostra tots els jocs",
         "dont_see_anything_you_like": "No hi veieu res que us agradi?",
         "from_the_blog": "Del blog",
         "random_game": "Joc aleatori",
-        "get_the_app": "<s>Aprofiteu itch.io al màxim!</s> Instal·leu i gestioneu els vostres jocs amb l'aplicació d'escriptori",
-        "from_the_itchio_blog": "Del blog d'itch.io",
+        "get_the_app": "<s>Aprofiteu itch.io al màxim!</s> Instal·leu i gestioneu els vostres jocs amb l’aplicació d’escriptori",
+        "from_the_itchio_blog": "Del blog d’itch.io",
         "view_all_blog_posts": "Mostra totes les actualitzacions",
         "search_games_creators": "Cerca jocs i creadors",
         "browse_all_tags": "Explora totes les etiquetes",
@@ -80,12 +80,12 @@
         "with_demo": "Amb versió de prova",
         "view_all": "Mostra-ho tot",
         "recommended_for_you": "Recomanats per a vós",
-        "recommendations_based_on": "Basat en coses que heu comprat, descarregat i puntuat",
+        "recommendations_based_on": "Basat en coses que heu comprat, baixat i puntuat",
         "fresh_games": "Jocs nous",
-        "view_more": "Mostra'n més",
+        "view_more": "Mostra’n més",
         "featured_jams": "Jams destacades",
         "view_all_jams": "Mostra totes les jams",
-        "fresh_games_description": "Actualitzat constantment amb els darrers jocs d'itch.io",
+        "fresh_games_description": "Actualitzat constantment amb els darrers jocs d’itch.io",
         "people_to_follow": "Gent a qui seguir",
         "view_all_games_on_sale": "Mostra tots els jocs en oferta",
         "more_featured_games": "Més jocs destacats",
@@ -93,7 +93,7 @@
         "view_all_on_sale": "Mostra totes les ofertes",
         "people_to_follow_description": "Aquí teniu uns quants comptes que pot ser que tingueu interès de seguir. <a>Per què seguir-los?</a>",
         "latest_featured_games": "Darrers jocs destacats",
-        "filtering_platform": "S'estan filtrant tots els jocs per a {{platform_name}}",
+        "filtering_platform": "S’estan filtrant tots els jocs per a {{platform_name}}",
         "view_all_platforms": "Mostra totes les plataformes",
         "browse_content_type": "Explora {{content_type}}",
         "nav": {
@@ -106,12 +106,12 @@
         "intro": "<s>itch.io</s> és una manera simple de trobar i compartir jocs independents en línia i de franc.",
         "intro_cta": "<1>Afegiu-hi el vostre joc</1> o <2>llegiu-ne les PMF</2>",
         "html5_games": "Jocs HTML5",
-        "page_title": "Descarregueu els darrers jocs independents",
-        "meta_description": "itch.io és una manera simple de trobar, descarregar i distribuir jocs independents en línia. Tant si sou un desenvolupador que cerca on penjar un joc o algú que cerca alguna cosa nova per a jugar, itch.io té el que us cal.",
+        "page_title": "Baixeu els darrers jocs independents",
+        "meta_description": "itch.io és una manera simple de trobar, baixar i distribuir jocs independents en línia. Tant si sou un desenvolupador que cerca on penjar un joc o algú que cerca alguna cosa nova per a jugar, itch.io té el que us cal.",
         "to_follow": {
             "created_projects": "Ha creat {{project_list}}",
             "empty_results": "Ara mateix no hi ha més recomanacions. Torneu-ho a provar més tard",
-            "refresh_button": "Refresqueu per a més elements",
+            "refresh_button": "Refresqueu per a veure’n més",
             "dismiss_tooltip": "No suggereixis més"
         }
     },
@@ -121,7 +121,7 @@
             "assets": "Recursos per a jocs",
             "game_mod": "Modificacions per a jocs",
             "physical_game": "Jocs físics",
-            "soundtrack": "Àlbums i Bandes sonores",
+            "soundtrack": "Àlbums i bandes sonores",
             "other": "Miscel·lània",
             "tool": "Eines",
             "comic": "Còmics",
@@ -222,7 +222,7 @@
             "draft": "Esborrany",
             "public": "Públic"
         },
-        "view_more": "Mostra'n més",
+        "view_more": "Mostra’n més",
         "dismiss": "Ignora",
         "release_statuses": {
             "released": "Llançat",
@@ -235,19 +235,19 @@
             "server_error": "El servidor no ha respost, torneu-ho a provar més tard"
         },
         "more_ellip": "Més…",
-        "loading_more_ellip": "Se n'està carregant més…"
+        "loading_more_ellip": "Se n’està carregant més…"
     },
     "blog": {
         "all_posts": "Totes les publicacions",
         "updates": "Actualitzacions",
         "digest": "Resum",
         "empty_message": "Sembla que aquí no hi ha cap publicació",
-        "tag_filter": "S'està filtrant amb {{tag}}. <a>Neteja l'etiqueta</a>"
+        "tag_filter": "S’està filtrant amb {{tag}}. <a>Neteja l’etiqueta</a>"
     },
     "user_login": {
-        "log_in_to_your_itchio_account": "Inicieu la sessió al compte d'itch.io",
+        "log_in_to_your_itchio_account": "Inicieu la sessió al compte d’itch.io",
         "login_form": {
-            "username_or_email": "Nom d'usuari o correu electrònic",
+            "username_or_email": "Nom d’usuari o correu electrònic",
             "password": "Contrasenya",
             "forgot_password": "He oblidat la contrasenya",
             "create_account": "Crea un compte",
@@ -258,7 +258,7 @@
         "looking_for_something_you_bought": "Cerqueu res que hàgiu comprat?",
         "create_a_new_account": "Creeu un compte nou",
         "intent": {
-            "community": "Cal que inicieu la sessió per a participar a les comunitats d'itch.io. Crear un compte és de franc i sols tardareu un moment.",
+            "community": "Cal que inicieu la sessió per a participar a les comunitats d’itch.io. Crear un compte és de franc i sols tardareu un moment.",
             "comment": "Cal que tingueu un compte a itch.io abans de poder deixar un comentari.",
             "rate_game": "Cal que tingueu un compte a itch.io abans de poder puntuar un joc.",
             "follow": "Cal que tingueu un compte a itch.io abans de poder seguir algú.",
@@ -285,26 +285,26 @@
             "create_account": "Crea el compte",
             "already_have_account": "o ja teniu un compte?",
             "log_in": "Inicieu la sessió",
-            "link_product": "La compra de <1>{{product}}</1> s'enllaçarà al vostre compte automàticament en registrar-vos.",
+            "link_product": "La compra de <1>{{product}}</1> s’enllaçarà al vostre compte automàticament en registrar-vos.",
             "accept_tos": "Accepto els <1>Termes del servei</1>",
-            "digest_signup": "Registra'm al butlletí d'informació quinzenal d'itch.io",
-            "interest_gamer": "Tinc interès a jugar o descarregar jocs d'itch.io",
+            "digest_signup": "Registra’m al butlletí d’informació quinzenal d’itch.io",
+            "interest_gamer": "Tinc interès a jugar o baixar jocs d’itch.io",
             "interest_developer": "Tinc interès a distribuir contingut a itch.io",
-            "account_preferences_info": "Podeu canviar les respostes a aquestes qüestions més tard, s'utilitzen per a donar pistes a itch.io de com hauria de presentar-vos la informació.",
+            "account_preferences_info": "Podeu canviar les respostes a aquestes qüestions més tard, s’utilitzen per a donar pistes a itch.io de com hauria de presentar-vos la informació.",
             "about_you": "Quant a vós",
             "your_email_address": "Correu electrònic",
             "password": "Contrasenya",
             "repeat_password": "Repetiu la contrasenya",
             "url_preview": "La vostra pàgina de perfil serà",
-            "username": "Nom d'usuari",
+            "username": "Nom d’usuari",
             "other_registration_methods": "Altres mètodes de registre"
         },
         "page_title": "Registra un compte"
     },
     "developers": {
         "page_header": "Creeu una pàgina personalitzada per a distribuir o vendre els vostres jocs independents instantàniament",
-        "product_summary1": "<s>itch.io</s> és una manera simple de distribuir els vostres jocs independents en línia i de franc. Pengeu els fitxers i les captures de pantalla del vostre joc en un sol lloc. Creeu una pàgina de presentació personalitzada en què el joc sigui el centre d'atenció.",
-        "product_summary2": "Fins i tot podeu definir un preu mínim per al vostre joc, tot donant als seguidors l'oportunitat de pagar el que vulguin pel vostre joc.",
+        "product_summary1": "<s>itch.io</s> és una manera simple de distribuir els vostres jocs independents en línia i de franc. Pengeu els fitxers i les captures de pantalla del vostre joc en un sol lloc. Creeu una pàgina de presentació personalitzada en què el joc sigui el centre d’atenció.",
+        "product_summary2": "Fins i tot podeu definir un preu mínim per al vostre joc, tot donant als seguidors l’oportunitat de pagar el que vulguin pel vostre joc.",
         "my_dashboard": "El meu tauler de control",
         "upload_a_new_game": "Penja un joc nou",
         "account_faq_cta": "<1>Creeu ara un compte</1> o <2>llegiu les PMF</2>",
@@ -314,14 +314,14 @@
         "host_a_sale": "Organitzeu una oferta",
         "host_a_sale_description": "Promocioneu els vostres jocs i obtingueu-ne més compres oferint-los a un preu amb descompte durant un període de temps.",
         "learn_more": "Més informació",
-        "browser_game_description": "Feu diners amb el vostre joc de navegador allotjant-lo a <s>itch.io</s>. El vostre joc s'incrustarà al navegador i els jugadors podran donar l'import que vulguin si els agrada el joc.",
-        "upload_your_game_description": "Pengeu el vostre joc independent a <s>itch.io</s> de manera gratuïta. Allotjarem el vostre joc, juntament amb les captures de pantalla i les altres descàrregues. Les vostres descàrregues sempre estaran disponibles i sempre seran ràpides.",
+        "browser_game_description": "Feu diners amb el vostre joc de navegador allotjant-lo a <s>itch.io</s>. El vostre joc s’incrustarà al navegador i els jugadors podran donar l’import que vulguin si els agrada el joc.",
+        "upload_your_game_description": "Pengeu el vostre joc independent a <s>itch.io</s> de manera gratuïta. Allotjarem el vostre joc, juntament amb les captures de pantalla i les altres baixades. Les vostres baixades sempre estaran disponibles i sempre seran ràpides.",
         "learn_more_about": "Obtingueu més informació de:",
         "share_message": "itch.io és una manera simple de distribuir els vostres jocs independents en línia i de franc.",
         "create_account_or_login": "<1>Crea un compte</1> <em>o</em> <2>Inicia la sessió</2>",
         "upload_or_dashboard": "<1>Penja un joc nou</1> <em>o</em> <2>Vés al tauler de control</2>",
-        "design_your_games_page_description": "Creeu una pàgina personalitzada per al vostre joc on la gent compri o descarregui el vostre joc. Podeu triar-ne els colors, la tipografia, les imatges i els vídeos. Com que és la pàgina del vostre joc, no hi trobareu res que no hi hàgiu posat.",
-        "track_your_game_description": "Estigueu al dia de com veu la gent el vostre joc amb analítiques detallades que cobreixen visualitzacions, descàrregues i compres. Voleu fer una promoció? Genereu claus de descàrrega per a donar accés al vostre joc."
+        "design_your_games_page_description": "Creeu una pàgina personalitzada per al vostre joc on la gent compri o baixi el vostre joc. Podeu triar-ne els colors, la tipografia, les imatges i els vídeos. Com que és la pàgina del vostre joc, no hi trobareu res que no hi hàgiu posat.",
+        "track_your_game_description": "Estigueu al dia de com veu la gent el vostre joc amb analítiques detallades que cobreixen visualitzacions, baixades i compres. Voleu fer una promoció? Genereu claus de baixada per a donar accés al vostre joc."
     },
     "search": {
         "creators": "Creadors:",
@@ -329,50 +329,50 @@
         "published_count_plural": "{{count}} projectes",
         "view_all_tags": "Mostra totes les etiquetes",
         "browse_all_games": "Explora tots els jocs",
-        "search_results_for_query": "Resultats de la cerca de '{{query}}'"
+        "search_results_for_query": "Resultats de la cerca de ’{{query}}’"
     },
     "app": {
         "open_source": "Codi obert",
-        "share_message": "itch, l'aplicació d'escriptori dels jocs independents",
+        "share_message": "itch, l’aplicació d’escriptori dels jocs independents",
         "tagline": "Instal·leu, actualitzeu i jugueu a jocs independents",
-        "start_download": "Inicia la descàrrega",
+        "start_download": "Inicia la baixada",
         "for_platforms": "Per a <1>Windows</1>, <2>macOS</2> i <3>Linux</3>",
-        "summary": "L'aplicació d'itch.io, <s>itch</s>, us permet descarregar i executar sense esforç els jocs i el programari d'itch.io. Totes les vostres descàrregues s'agrupen en un únic lloc i s'actualitzen automàticament. Accediu a les vostres col·leccions i compres, o exploreu nous jocs mitjançant el navegador integrat a l'aplicació.",
-        "more_info_links": "<1>Llegiu-ne més a les PMF</1> o <2>llegiu la guia de l'aplicació</2>",
+        "summary": "L’aplicació d’itch.io, <s>itch</s>, us permet baixar i executar sense esforç els jocs i el programari d’itch.io. Totes les vostres baixades s’agrupen en un únic lloc i s’actualitzen automàticament. Accediu a les vostres col·leccions i compres, o exploreu nous jocs mitjançant el navegador integrat a l’aplicació.",
+        "more_info_links": "<1>Llegiu-ne més a les PMF</1> o <2>llegiu la guia de l’aplicació</2>",
         "learn_more_below": "Obtingueu-ne més informació aquí sota",
         "contribute_link": "Hi voleu contribuir? <a>Mireu-ne el codi font al GitHub</a>",
         "updates": "Actualitzacions",
-        "read_the_app_guide": "Llegiu la guia de l'aplicació",
+        "read_the_app_guide": "Llegiu la guia de l’aplicació",
         "browse_header": "Exploreu els jocs com els creadors pretenen",
-        "browse_description": "A itch.io, els creadors controlen com es veuen les pàgines dels seus projectes. El navegador integrat us permet descarregar i instal·lar jocs mentre exploreu els <a>dissenys únics de les pàgines dels nostres creadors</a>.",
+        "browse_description": "A itch.io, els creadors controlen com es veuen les pàgines dels seus projectes. El navegador integrat us permet baixar i instal·lar jocs mentre exploreu els <a>dissenys únics de les pàgines dels nostres creadors</a>.",
         "updates_header": "Sempre actualitzada",
-        "updates_description": "No sols els jocs que hàgiu instal·lat s'actualitzaran automàticament, la mateixa aplicació es transformarà automàticament quan llancem noves funcionalitats i característiques. Els jocs que facin servir les nostres noves eines de línia d'ordres generaran <em>pedaços delta</em>, tot assegurant que sols descarregueu allò que ha canviat quan es llancin nous jocs.",
+        "updates_description": "No sols els jocs que hàgiu instal·lat s’actualitzaran automàticament, la mateixa aplicació es transformarà automàticament quan llancem noves funcionalitats i característiques. Els jocs que facin servir les nostres noves eines de línia d’ordres generaran <em>pedaços delta</em>, tot assegurant que sols baixi allò que ha canviat quan es llancin nous jocs.",
         "web_games_header": "Jocs de navegador sense connexió",
-        "web_games_description": "Podeu sincronitzar qualsevol joc de navegador a l'aplicació, la qual cosa us permetrà jugar-hi sense connexió sempre que vulgueu. Quan torneu a tenir connexió, podreu rebre'n les actualitzacions, si cal.",
+        "web_games_description": "Podeu sincronitzar qualsevol joc de navegador a l’aplicació, la qual cosa us permetrà jugar-hi sense connexió sempre que vulgueu. Quan torneu a tenir connexió, podreu rebre’n les actualitzacions, si cal.",
         "languages_header": "Disponible en la vostra llengua",
-        "languages_description": "L'aplicació d'itch està disponible en més de 20 idiomes, gràcies a la comunitat d'itch.io! <a>Més informació de les traduccions</a>",
-        "download_now": "Descarrega-la ara",
+        "languages_description": "L’aplicació d’itch està disponible en més de 20 idiomes, gràcies a la comunitat d’itch.io! <a>Més informació de les traduccions</a>",
+        "download_now": "Baixa-la ara",
         "community_header": "Uniu-vos a la comunitat",
-        "community_description": "Obtingueu més informació del desenvolupament de l'aplicació <1>a la nostra comunitat</1>. Compartiu les peticions de noves funcionalitats i comentaris en general amb altres membres d'itch.io. Si sou un programador, us agradarà saber que el projecte sencer és <2>codi obert al GitHub</2>, i esperem les vostres pull requests.",
-        "page_title": "Descarrega l'aplicació",
-        "meta_description": "itch, la millor manera de descarregar i jugar a jocs independents. Descarregueu jocs gratuïts i gestioneu la vostra biblioteca des del vostre escriptori. Disponible ara per a Windows, macOS i Linux."
+        "community_description": "Obtingueu més informació del desenvolupament de l’aplicació <1>a la nostra comunitat</1>. Compartiu les peticions de noves funcionalitats i comentaris en general amb altres membres d’itch.io. Si sou un programador, us agradarà saber que el projecte sencer és <2>codi obert al GitHub</2>, i esperem les vostres pull requests.",
+        "page_title": "Baixa l’aplicació",
+        "meta_description": "itch, la millor manera de baixar i jugar a jocs independents. Baixeu jocs gratuïts i gestioneu la vostra biblioteca des del vostre escriptori. Disponible ara per a Windows, macOS i Linux."
     },
     "game": {
         "empty_page": "Sembla que aquí no hi ha res…",
         "more_information": "Més informació",
-        "install_instructions": "Instruccions d'instal·lació",
-        "download_header": "Descarrega",
+        "install_instructions": "Instruccions d’instal·lació",
+        "download_header": "Baixa",
         "unavailable": "Aquest {{game_noun}} no està disponible en aquests moments",
         "purchase_header": "Compra",
-        "download_access": "Feu clic al botó de descàrrega ara per a obtenir accés als següents fitxers:",
+        "download_access": "Feu clic al botó de baixada ara per a obtenir accés als següents fitxers:",
         "get_access": "Obtindreu accés als següents fitxers:",
         "get_access_preorder": "Obtindreu accés als següents fitxers quan siguin llançats:",
-        "download_demo_header": "Descarrega la versió de prova",
+        "download_demo_header": "Baixa la versió de prova",
         "available_header": "Disponible a",
         "also_available_header": "També disponible a",
         "will_be_available_in": "Estarà disponible {{time_remaining}}.",
-        "download_or_claim_button": "Descarrega o reclama",
-        "download_now_button": "Descarrega ara",
+        "download_or_claim_button": "Baixa o reclama",
+        "download_now_button": "Baixa ara",
         "preorder_button": "Reserva ara",
         "buy_now_button": "Compra ara",
         "name_your_own_price": "Poseu-hi un preu",
@@ -383,14 +383,14 @@
         "in_order_to_access": "Per tenir accés a aquest {{noun}} cal que el compreu a un preu mínim de {{price}}.",
         "devlog_view_all_posts": "Mostra totes les publicacions",
         "your_purchase_comes_with_a_steam_key": "La vostra compra inclou una clau de Steam.",
-        "steam_key_bundle_disclaimer": "(Nota: No s'inclou cap clau de Steam a {{bundle_title}})",
+        "steam_key_bundle_disclaimer": "(Nota: No s’inclou cap clau de Steam a {{bundle_title}})",
         "donate_button": "Dóna suport a aquest {{noun}}",
         "empty_page_no_uploads": "El creador encara no ha penjat res…",
         "comments": {
             "comments_header": "Comentaris",
             "leave_a_comment_header": "Deixeu un comentari",
             "leave_a_comment": "Deixeu un comentari",
-            "click_to_leave_a_comment": "Feu clic per deixar un comentari…",
+            "click_to_leave_a_comment": "Feu clic per a deixar un comentari…",
             "log_in_to_leave_comment": "<a>Inicieu la sessió a itch.io</a> per a deixar un comentari.",
             "post_comment": "Publica el comentari",
             "write_your_comment": "Escriviu el comentari…"
@@ -409,11 +409,11 @@
             "genre": "Gènere",
             "made_with_tools": "Fet amb",
             "tags": "Etiquetes",
-            "code_license": "Llicència de codi",
+            "code_license": "Llicència del codi",
             "asset_license": "Llicència dels recursos",
             "average_session_duration": "Sessió mitjana",
             "languages": "Idiomes",
-            "inputs": "Dispositius d'entrada",
+            "inputs": "Dispositius d’entrada",
             "accessibility": "Accessibilitat",
             "multiplayer": "Multijugador",
             "player_count": "Nombre de jugadors",
@@ -432,12 +432,12 @@
         "community_sticky": "Fixat",
         "upload_list": {
             "preorder": "Reserva",
-            "download": "Descarrega",
+            "download": "Baixa",
             "play_in_browser": "Juga-hi al navegador",
             "if_you_pay_price_or_more": "si pagueu {{price}} o més",
             "version_name": "Versió {{version_name}}",
             "this_file_will_be_available_when_the_creator_uploads_it": "Aquest fitxer estarà disponible que el creador el pengi",
-            "empty_message": "Encara no hi ha res disponible per a descarregar."
+            "empty_message": "Encara no hi ha res disponible per a baixar."
         },
         "layout": {
             "view_all_by_name": "Mostra-ho tot de {{name}}",
@@ -460,19 +460,19 @@
             "related_games": "Jocs relacionats",
             "related_games_short": "Relacionats",
             "ownership": {
-                "you_own_this": "L'heu adquirit",
+                "you_own_this": "L’heu adquirit",
                 "send_gift": "Envia com a regal",
-                "download": "Descarrega",
+                "download": "Baixa",
                 "percent_off": "{{percent}}% de descompte",
-                "you_havent_sent_this_gift_to_anyone_yet": "Encara no heu enviat aquest regal a ningú",
+                "you_havent_sent_this_gift_to_anyone_yet": "Encara no heu enviat aquest obsequi a ningú",
                 "claimed": "Reclamat",
-                "you_were_gifted_this": "Us han regalat això",
+                "you_were_gifted_this": "Us han obsequiat amb això",
                 "purchased_in_a_bundle_for_price": "Comprat en un paquet per {{price}}",
                 "purchased_for_price": "Comprat per {{price}}"
             },
             "footer": {
                 "view_all_by_username": "Mostra-ho tot de {{username}}",
-                "report": "Informa'n",
+                "report": "Informa’n",
                 "embed": "Incrusta",
                 "updated_date": "Actualitzat el {{date}}"
             },
@@ -482,31 +482,31 @@
                 "accepting_ratiings": "La jam accepta puntuacions per a les participacions. <a>Més informació</a>",
                 "you_rated_this_game": "Heu puntuat aquest joc",
                 "now_accepting_ratings": "Aquesta jam accepta puntuacions per a les propostes.",
-                "rating_instructions": "Puntueu i comenteu en aquesta participació a la jam tot visitant-ne la pàgina de participació de l'enllaç superior."
+                "rating_instructions": "Puntueu i comenteu en aquesta participació a la jam tot visitant-ne la pàgina de participació de l’enllaç superior."
             },
             "included_in_bundle_title": "Inclòs a {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "Comparteix aquest projecte",
-            "thanks_for_downloading_title": "Gràcies per descarregar-lo",
-            "thanks_project_author": "Gràcies per descarregar {{project}} de {{author}}.",
+            "thanks_for_downloading_title": "Gràcies per baixar-lo",
+            "thanks_project_author": "Gràcies per baixar {{project}} de {{author}}.",
             "more_from_creator": "Podeu trobar més elements del mateix creador a la seva pàgina: {{profile}}.",
-            "check_popup_blocker": "La descàrrega començarà en uns moments. Si no comença, comproveu si teniu blocades les finestres emergents.",
+            "check_popup_blocker": "La baixada començarà en uns moments. Si no comença, comproveu si teniu blocades les finestres emergents.",
             "check_out_more_from_jam_title": "Vegeu més coses de {{jam_title}}",
             "view_all_from_jam": "Mostra-ho tot de la jam",
-            "more_from_itchio_header": "Vegeu més coses d'itch.io",
+            "more_from_itchio_header": "Vegeu més coses d’itch.io",
             "see_everything": "Vegeu-ho tot",
             "powered_by": "<s>Fet amb</s> {{itchio_logo}}",
-            "app_learn_more": "<s>Novetat!</s> Proveu l'aplicació d'escriptori d'itch.io per a descarregar i gestionar la vostra biblioteca. <a>Més informació</a>"
+            "app_learn_more": "<s>Novetat!</s> Proveu l’aplicació d’escriptori d’itch.io per a baixar i gestionar la vostra biblioteca. <a>Més informació</a>"
         },
         "report_form": {
-            "form_description": "Ompliu aquest formulari si us cal contactar amb l'equip de moderació d'itch.io pel que fa al contingut d'aquesta pàgina. El vostre informe es compartirà amb el creador de la pàgina, si cal.",
+            "form_description": "Ompliu aquest formulari si us cal contactar amb l’equip de moderació d’itch.io pel que fa al contingut d’aquesta pàgina. El vostre informe es compartirà amb el creador de la pàgina, si cal.",
             "support_from_creator": "Teniu problemes? Us cal ajuda del creador?",
-            "support_page_link": "Vés a la pàgina de suport oficial",
+            "support_page_link": "Vés a la pàgina d’assistència oficial",
             "email_creator_link": "Envia un correu electrònic al creador",
-            "submit_report_button": "Envia l'informe",
-            "title": "Informa de la pàgina '{{page_title}}'",
-            "report_received_header": "S'ha rebut un informe",
+            "submit_report_button": "Envia l’informe",
+            "title": "Informa de la pàgina ’{{page_title}}’",
+            "report_received_header": "S’ha rebut un informe",
             "description_label": "Descripció",
             "reason_label": "Motiu",
             "reason_other": "Altres"
@@ -517,19 +517,19 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Aquest tema està arxivat. S'ha amagat i no s'hi poden escriure missatges nous.",
+            "topic_is_archived": "Aquest tema està arxivat. S’ha amagat i no s’hi poden escriure missatges nous.",
             "reply": "Respon",
             "log_in_to_reply": "Inicieu la sessió per a respondre",
             "unlisted_topic_notice": "<s>Un moderador ha amagat aquest tema.</s> No és visible a la llista de temes, però encara hi podeu respondre i fer-hi edicions.",
             "join_the_discussion": "Uniu-vos a la discussió. Inicieu la sessió o creeu un compte gratuït a itch.io per a continuar.",
             "reply_to_someone_else": "Voleu respondre a algú altre? Feu clic a <s>respon</s> sota el seu missatge.",
             "this_reply_will_go_to_yourself": "Aquesta resposta serà a vós mateix.",
-            "this_reply_will_go_to_the_topic_author": "Aquesta resposta serà per a l'autor del tema, {{username}}.",
+            "this_reply_will_go_to_the_topic_author": "Aquesta resposta serà per a l’autor del tema, {{username}}.",
             "new_reply": "Nova resposta",
             "remove_bookmark": "Suprimeix dels preferits",
             "bookmark": "Afegeix als preferits",
             "unsubscribe": "Cancel·la la subscripció",
-            "subscribe": "Subscriu-m'hi",
+            "subscribe": "Subscriu-m’hi",
             "return_to_topic_list": "Torna a la llista de temes",
             "sticky": "Fixat",
             "locked": "Tancat",
@@ -543,22 +543,22 @@
             "last_page": "Darrera pàgina",
             "this_topic_is_locked": "Aquesta tema és tancat",
             "this_topic_was_locked_by_username": "Aquest tema ha estat tancat per {{username}}",
-            "topic_is_autoarchived": "Aquest tema s'ha arxivat automàticament i ja no s'hi pot publicar perquè no hi ha hagut cap missatge en molt de temps.",
+            "topic_is_autoarchived": "Aquest tema s’ha arxivat automàticament i ja no s’hi pot publicar perquè no hi ha hagut cap missatge en molt de temps.",
             "create_related_topic": "Si teniu res a dir en relació al tema que vulgueu publicar, considereu <a>crear un tema a {{category_name}}</a>."
         },
         "post_list": {
             "deleted_post": "Missatge esborrat",
-            "post_from_blocked_account": "Missatge d'un compte blocat",
+            "post_from_blocked_account": "Missatge d’un compte blocat",
             "edit_blocks": "Edita els blocatges",
             "edits_count_plural": "({{count}} edicions)",
             "edits_count": "({{count}} edició)",
             "reply": "Respon",
-            "like": "M'agrada",
+            "like": "M’agrada",
             "edit": "Edita",
             "delete_topic": "Suprimeix el tema",
             "delete": "Suprimeix",
-            "report": "Informa'n",
-            "ban": "Prohibir accés…",
+            "report": "Informa’n",
+            "ban": "Prohibeix l’accés…",
             "view_more_in_thread": "Mostra més missatges del fil",
             "vote_up": "Vota positivament",
             "vote_down": "Vota negativament",
@@ -567,17 +567,17 @@
             "pinned_reply": "Resposta fixada",
             "pinned_post": "Missatge fixat",
             "edited": "(editat)",
-            "post_from_suspended_account": "Missatge d'un compte suprimit"
+            "post_from_suspended_account": "Missatge d’un compte suprimit"
         },
         "post_form": {
             "add_profile_image": "Afegeix una imatge de perfil",
             "save": "Desa",
             "post": "Publica",
-            "subscribe": "Subscriu-m'hi",
+            "subscribe": "Subscriu-m’hi",
             "subscribe_to_this_topic": "Subscriu-me a aquest tema",
             "subscribe_description": "Obtingueu notificacions de noves respostes en aquest tema",
             "tag_header": "Etiqueta",
-            "remove_tag": "Suprimeix l'etiqueta",
+            "remove_tag": "Suprimeix l’etiqueta",
             "post_reply": "Publica una resposta"
         },
         "new_topic": {
@@ -585,10 +585,10 @@
             "sticky": "Fixat",
             "locked": "Tancat",
             "moderation_options": "Opcions",
-            "i_agree_to_the_rules_above": "Estic d'acord amb les normes anteriors",
+            "i_agree_to_the_rules_above": "Estic d’acord amb les normes anteriors",
             "new_topic": "Tema nou",
             "this_a_community_run_message_board": "Aquests fòrums els gestiona la comunitat.",
-            "see_community_guidelines": "Vegeu les <a>Normes de la comunitat</a> per a més informació de la política de la comunitat d'itch.io.",
+            "see_community_guidelines": "Vegeu les <a>Normes de la comunitat</a> per a més informació de la política de la comunitat d’itch.io.",
             "title": "Títol",
             "body": "Cos",
             "topic_tag": "Etiqueta",
@@ -616,7 +616,7 @@
             "new_flag": "Nou",
             "archived_flag": "Arxivat",
             "by_topic_author": "per {{username}}",
-            "view_this_communitys_rules": "Mostra les normes d'aquesta comunitat…"
+            "view_this_communitys_rules": "Mostra les normes d’aquesta comunitat…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> visualització",
@@ -634,26 +634,26 @@
         }
     },
     "buy_form": {
-        "download_title": "Descarrega '{{title}}'",
-        "buy_title": "Compra '{{title}}'",
-        "preorder_title": "Reserva '{{title}}'",
+        "download_title": "Baixa «{{title}}»",
+        "buy_title": "Compra ’{{title}}’",
+        "preorder_title": "Reserva ’{{title}}’",
         "sold_out_notice": "Aquest producte està esgotat, torneu-ho a mirar més tard.",
         "on_sale_notice": "Aquest producte està en oferta.",
-        "support_message": "Doneu suport al desenvolupament d'aquest projecte donant-hi",
+        "support_message": "Doneu suport al desenvolupament d’aquest projecte donant-hi",
         "percent_off_until": "Totes les compres tenen un <s>{{rate}}%</s> de descompte fins a {{end_date}}.",
-        "also_buy_as_bundle_plural": "També podeu comprar aquest producte com a part d'un paquet de {{count}} elements per {{price}}:",
-        "buy_as_bundle_plural": "Podeu comprar aquest producte com a part d'un paquet de {{count}} elements per {{price}}:",
+        "also_buy_as_bundle_plural": "També podeu comprar aquest producte com a part d’un paquet de {{count}} elements per {{price}}:",
+        "buy_as_bundle_plural": "Podeu comprar aquest producte com a part d’un paquet de {{count}} elements per {{price}}:",
         "free_pay_what_you_want": "Aquest projecte és gratuït, però el creador accepta el vostre suport permetent-vos pagar allò que trobeu just.",
-        "no_thanks_just_take_me_to_the_downloads": "No, gràcies, porta'm a les descàrregues i prou",
+        "no_thanks_just_take_me_to_the_downloads": "No, gràcies, porta’m a les baixades i prou",
         "includes_steam_key": "Rebreu una clau de Steam amb la vostra compra.",
         "preorder_this_product_by_purchasing_it_for": "Reserveu aquest producte comprant-lo per {{price}} o més.",
-        "download_this_product_by_purchasing_it_for": "Descarregueu aquest producte comprant-lo per {{price}} o més.",
+        "download_this_product_by_purchasing_it_for": "Baixeu aquest producte comprant-lo per {{price}} o més.",
         "your_email_address": "La vostra adreça de correu electrònic",
-        "email_address_description": "S'hi enviarà la confirmació del vostre pagament",
+        "email_address_description": "S’hi enviarà la confirmació del vostre pagament",
         "gift_email_instructions": "Triareu un correu electrònic al qual enviar-ho com a regal després del pagament",
         "i_already_paid_for_this": "Ja he pagat per això anteriorment…",
         "included_files": "Fitxers inclosos",
-        "agree_to_terms": "En completar un pagament, accepteu els <1>Termes del servei</1> i la <2>Política de privacitat</2> d'itch.io.",
+        "agree_to_terms": "En completar un pagament, accepteu els <1>Termes del servei</1> i la <2>Política de privacitat</2> d’itch.io.",
         "this_purchase_is_a_gift": "Aquesta compra és un regal",
         "support_the_creator_by_paying_above_the_minimum_price": "Doneu suport al creador pagant més del preu mínim",
         "support_the_creator_with_an_additional_contribution": "Doneu suport al creador amb una contribució addicional",
@@ -664,7 +664,7 @@
         "continue_payment": "Continua el pagament",
         "billing_address": "Adreça de facturació",
         "generic_error": "Hi ha hagut un problema amb la vostra compra: {{error}}",
-        "contact_support_on_error": "Si el problema persisteix, contacteu amb el <a>suport d'itch.io</a> amb tots els detalls rellevants."
+        "contact_support_on_error": "Si el problema persisteix, contacteu amb l’<a>assistència d’itch.io</a> amb tots els detalls rellevants."
     },
     "collection": {
         "authors": "una col·lecció de {{author}}",
@@ -706,12 +706,12 @@
         "view_all_tags": "Mostra totes les etiquetes",
         "filter_by_tag": "Filtra per etiqueta",
         "filter_group_when": "Quan",
-        "filter_group_input_methods": "Mètodes d'entrada",
+        "filter_group_input_methods": "Mètodes d’entrada",
         "filter_group_session_length": "Durada mitjana de la sessió",
         "filter_group_multiplayer": "Característiques multijugador",
-        "filter_group_accessibility_features": "Característiques d'accessibilitat",
+        "filter_group_accessibility_features": "Característiques d’accessibilitat",
         "filter_group_type": "Tipus",
-        "type_downloadable": "Descarregable",
+        "type_downloadable": "Baixable",
         "filter_group_release_status": "Estat de llançament",
         "filter_group_misc": "Miscel·lània",
         "filter_group_collection": "Col·lecció",
@@ -745,14 +745,14 @@
     },
     "user_settings": {
         "navigation": {
-            "email_addresses": "Adreces de correu electrònic",
+            "email_addresses": "Adreces electròniques",
             "two_factor_auth": "Autenticació de doble factor",
-            "support_email": "Correu electrònic de suport",
+            "support_email": "Adreça electrònica d’assistència",
             "publisher_get_started": "Comenceu",
             "revenue_sharing": "Compartició dels ingressos",
             "payment_processors": "Processadors de pagaments",
             "tax_information": "Informació fiscal",
-            "payout_mode": "Mode d'abonament",
+            "payout_mode": "Mode d’abonament",
             "credit_cards": "Targetes de crèdit",
             "billing_address": "Adreça de facturació",
             "email_notifications": "Notificacions per correu electrònic",
@@ -760,7 +760,7 @@
             "press_access": "Accés de premsa",
             "privacy": "Privacitat",
             "data_export": "Exportació de dades",
-            "api_keys": "Claus de l'API",
+            "api_keys": "Claus de l’API",
             "oauth_applications": "Aplicacions OAuth",
             "thirdparty_analytics": "Analítiques de tercers",
             "basics_header": "Configuració bàsica",
@@ -775,27 +775,27 @@
         "profile": {
             "language_community_translation": "<s>itch.io és traduït per membres de la comunitat.</s> Alguns idiomes només estan disponibles parcialment. Si us agradaria veure itch.io en la vostra llengua o corregir-ne errades, podeu contribuir-hi. <a>Més informació</a>",
             "language": "Llengua",
-            "language_description": "Llengua de la interfície d'usuari d'itch.io",
+            "language_description": "Llengua de la interfície d’usuari d’itch.io",
             "page_header": "Perfil",
-            "username": "Nom d'usuari",
-            "username_description": "S'utilitza per a iniciar la sessió al vostre compte i per a la URL de la vostra pàgina",
-            "change_username": "Canvia el nom d'usuari/URL",
-            "you_recently_changed_your_username": "Heu canviat el vostre nom d'usuari recentment",
+            "username": "Nom d’usuari",
+            "username_description": "S’utilitza per a iniciar la sessió al vostre compte i per a la URL de la vostra pàgina",
+            "change_username": "Canvia el nom d’usuari/URL",
+            "you_recently_changed_your_username": "Heu canviat el vostre nom d’usuari recentment",
             "url_description": "La URL pública per al vostre compte",
             "profile_image": "Imatge de perfil",
             "profile_image_description": "Es mostra al costat del vostre nom quan feu accions al lloc (dimensions quadrades)",
             "display_name": "Nom mostrat",
-            "display_name_description": "Nom que es mostra en lloc del vostre nom d'usuari, deixeu-lo en blanc per a fer servir el nom d'usuari",
+            "display_name_description": "Nom que es mostra en lloc del vostre nom d’usuari, deixeu-lo en blanc per a fer servir el nom d’usuari",
             "website": "Lloc web",
             "website_description": "URL opcional que es mostrarà a la vostra pàgina de perfil",
             "twitter_description": "Compte de Twitter que es mostrarà al vostre perfil",
             "account_type": "Tipus de compte",
             "account_type_description": "Com fareu servir el vostre compte",
-            "account_type_gamer": "Per a jugar i descarregar jocs",
+            "account_type_gamer": "Per a jugar i baixar jocs",
             "account_type_developer": "Per a desenvolupar i penjar jocs",
             "default_language_option": "Per defecte (definit a anglès durant la beta dels idiomes)",
             "content": "Contingut",
-            "content_description": "Com se us mostra el contingut d'itch.io",
+            "content_description": "Com se us mostra el contingut d’itch.io",
             "show_adult_content": "Mostra contingut marcat per a adults en cercar i explorar",
             "disable_animated_gifs": "Desactiva els GIFs animats",
             "disable_autoloading_next_page_when_browsing": "Desactiva la càrrega automàtica de la pàgina següent en explorar",
@@ -813,10 +813,10 @@
             "new_password": "Contrasenya nova",
             "password_again": "Repetiu la contrasenya",
             "new_password_again": "Repetiu la contrasenya nova",
-            "please_set_a_password_on_your_account": "Si us plau, defineix una contrasenya pel teu compte per millorar la seguretat i gaudir de la possibilitat d'entrar-hi sense fer ús de serveis de tercers.",
-            "your_account_currently_doesnt_have_a_password": "El teu compte no compta amb una contrasenya actualment.",
-            "no_password_service_name": "El teu compte no compta amb una contrasenya perquè t'has registrat fent ús de {{service_name}}.",
-            "updating_your_password_will_cause": "Actualitzar la teva contrasenya provocarà la sortida de totes les altres sessions iniciades. No quedarà cap connexió <a>OAuth ni clau API</a> activada."
+            "please_set_a_password_on_your_account": "Definiu una contrasenya per al vostre compte per a millorar-ne la seguretat i poder accedir-hi sense fer ús de serveis de tercers.",
+            "your_account_currently_doesnt_have_a_password": "Actualment, el vostre compte no té contrasenya.",
+            "no_password_service_name": "El teu compte no compta amb una contrasenya perquè t’has registrat fent ús de {{service_name}}.",
+            "updating_your_password_will_cause": "Si actualitzeu la contrasenya, es tancarà la sessió en tots els altres navegadors. Les <a>connexions d’OAuth i les clau de l’API</a> romandran actives."
         },
         "email_addresses": {
             "primary_email_header": "Correu electrònic principal",
@@ -825,11 +825,11 @@
                 "new_email_address": "Adreça de correu electrònic nova",
                 "current_password": "Contrasenya actual"
             },
-            "primary_email_description": "El vostre correu electrònic principal és on s'enviaran les notificacions d'itch.io.",
+            "primary_email_description": "El vostre correu electrònic principal és on s’enviaran les notificacions d’itch.io.",
             "change_password_instructions": "Quan canvieu la vostra adreça de correu electrònic, cal que la verifiqueu per a poder accedir als jocs que hàgiu comprat. Us enviarem les instruccions de verificació per correu. Per motius de seguretat, cal que també proporcioneu la contrasenya actual per a fer cap canvi a la vostra adreça de correu electrònic.",
             "additional_emails_header": "Correus electrònics addicionals",
-            "additional_emails_summary": "Podeu enllaçar adreces de correu electrònic addicionals al vostre compte d'itch.io per a obtenir accés al que hàgiu adquirit amb aquelles adreces de correu electrònic. Per exemple, la vostra adreça de correu electrònic de PayPal pot ser diferent de la vostra adreça de correu electrònic normal, de manera que podeu voler afegir-la com a correu electrònic addicional.",
-            "additional_emails_instructions": "Després d'afegir un correu electrònic addicional, us hi enviarem instruccions de verificació.",
+            "additional_emails_summary": "Podeu enllaçar adreces de correu electrònic addicionals al vostre compte d’itch.io per a obtenir accés al que hàgiu adquirit amb aquelles adreces de correu electrònic. Per exemple, la vostra adreça de correu electrònic de PayPal pot ser diferent de la vostra adreça de correu electrònic normal, de manera que podeu voler afegir-la com a correu electrònic addicional.",
+            "additional_emails_instructions": "Després d’afegir un correu electrònic addicional, us hi enviarem instruccions de verificació.",
             "add_email_form": {
                 "additional_email_address_label": "Adreça de correu electrònic addicional",
                 "add_email_button": "Afegeix un correu electrònic"
@@ -839,7 +839,7 @@
                 "email_column": "Correu electrònic",
                 "verified_column": "Verificat",
                 "resend_verification_email_button": "reenvia el correu electrònic de verificació",
-                "email_sent_status": "s'ha enviat el correu electrònic",
+                "email_sent_status": "s’ha enviat el correu electrònic",
                 "detach_email": "Desacobla el correu electrònic"
             }
         },
@@ -847,15 +847,15 @@
             "status_off": "Desactivada",
             "status_on": "Activada",
             "tfa_status": "Estat: {{tfa_status}}",
-            "page_description": "L'Autentificació de doble factor ofereix al teu compte una capa addicional de seguretat que ajuda a prevenir accessos no autoritzats si et roben la teva contrasenya.",
-            "page_title": "Autentificació de doble factor",
-            "configure_twofactor_authentication": "Configura l'autentificació de doble factor",
-            "learn_more_about_twofactor_authentication": "Esbrina més coses sobre l'autentificació de doble factor"
+            "page_description": "L’autenticació de doble factor és una capa addicional per al vostre compte que ajuda a prevenir accessos no autoritzats si mai us roben la contrasenya.",
+            "page_title": "Autenticació de doble factor",
+            "configure_twofactor_authentication": "Configura l’autenticació de doble factor",
+            "learn_more_about_twofactor_authentication": "Més informació sobre l’autenticació de doble factor"
         }
     },
     "stripe_checkout": {
-        "payment_error": "S'ha produït un error en processar el pagament:",
-        "payment_error_help": "Si no n'esteu segur, contacteu amb el <a>suport d'itch.io</a> amb el missatge anterior.",
+        "payment_error": "S’ha produït un error en processar el pagament:",
+        "payment_error_help": "Si no n’esteu segur, contacteu amb l’<a>assistència d’itch.io</a> amb el missatge anterior.",
         "choose_a_card": "Trieu una targeta",
         "edit_saved_cards": "Edita les targetes desades",
         "card_ending_last4": "Acabada en {{last4}}",
@@ -869,35 +869,35 @@
         "manage_cards_link": "Podeu gestionar les targetes a la <a>Configuració del compte</a>",
         "pay_price_button": "Paga {{price}}",
         "paying_price_for": "Pagareu {{price}} per:",
-        "paying_price_vat_for": "Pagareu {{price}} inclòs l'IVA per:",
+        "paying_price_vat_for": "Pagareu {{price}} inclòs l’IVA per:",
         "donating_price_to": "Donareu {{price}} a:",
-        "donating_price_vat_to": "Donareu {{price}} inclòs l'IVA a:",
+        "donating_price_vat_to": "Donareu {{price}} inclòs l’IVA a:",
         "you_will_receive_files": "Rebreu:",
         "steam_key": "Clau de Steam",
         "linked_to_account": "Enllaçat al compte",
         "email": "Correu electrònic",
-        "youll_be_mailed_your_access_link": "Us enviarem l'enllaç d'accés per correu",
+        "youll_be_mailed_your_access_link": "Us enviarem l’enllaç d’accés per correu",
         "full_name": "Nom complet",
         "name_as_it_appears_on_card": "Tal com apareix a la targeta"
     },
     "game_download": {
         "share_and_follow": "Comparteix i segueix",
-        "social_share_message_download": "Acabo de descarregar {{title}} de {{username}}",
+        "social_share_message_download": "Tot just he baixat {{title}} de {{username}}",
         "or_share_on": "or compartiu-ho a",
-        "trouble_downloading_link": "Les descàrregues no comencen?",
-        "install_instructions_intro": "Instruccions de descàrrega i instal·lació de {{username}}:",
+        "trouble_downloading_link": "Les baixades no comencen?",
+        "install_instructions_intro": "Instruccions de baixada i instal·lació de {{username}}:",
         "recommendations_title": "Altres coses en què podeu tenir interès",
         "check_out_more_from_jam_title": "Vegeu més coses de {{jam_title}}",
         "alternate_download": {
-            "enable_alternate_download_mode": "Activa el mode de descàrrega alternatiu",
-            "title": "Mode de descàrrega alternatiu",
-            "region_message": "Algunes regions bloquen la xarxa de distribució de continguts (CDN) d'itch.io. Si les descàrregues no comencen, podeu provar d'activar el mode de descàrrega alternatiu i tornar-ho a provar."
+            "enable_alternate_download_mode": "Activa el mode de baixada alternatiu",
+            "title": "Mode de baixada alternatiu",
+            "region_message": "Algunes regions bloquen la xarxa de distribució de continguts (CDN) d’itch.io. Si les baixades no comencen, podeu provar d’activar el mode de baixada alternatiu i tornar-ho a provar."
         },
-        "check_your_email_for_the_confirmation_link": "Comproveu el vostre correu electrònic per trobar-hi l'enllaç de confirmació.",
-        "preorder_instructions": "Aquest projecte té fitxers que encara no s'han llançat. Torneu a aquesta pàgina quan el creador n'hagi llançat els fitxers per a descarregar-los.",
+        "check_your_email_for_the_confirmation_link": "Comproveu el vostre correu electrònic per trobar-hi l’enllaç de confirmació.",
+        "preorder_instructions": "Aquest projecte té fitxers que encara no s’han llançat. Torneu a aquesta pàgina quan el creador n’hagi llançat els fitxers per a baixar-los.",
         "app_banner": {
-            "get_the_app": "Obtén l'aplicació",
-            "app_description": "Instal·leu i gestioneu els vostres jocs amb l'aplicació d'escriptori d'itch.io"
+            "get_the_app": "Obtén l’aplicació",
+            "app_description": "Instal·leu i gestioneu els vostres jocs amb l’aplicació d’escriptori d’itch.io"
         },
         "play_in_your_browser": "Juga-hi al navegador",
         "start_project_button": "Inicia",
@@ -907,7 +907,7 @@
             "more_menu": "Més",
             "view_rest_in_bundle": "Mostra la resta del paquet",
             "preorder_title": "Reserva de {{project_title}}",
-            "download_title": "Descarrega {{project_title}}",
+            "download_title": "Baixa {{project_title}}",
             "view_all_my_purchases": "Mostra totes les meves compres",
             "return_to_project": "Torna al projecte",
             "discussion_board": "Fòrums de discussió"
@@ -915,9 +915,9 @@
         "linked_user_message": "Aquesta pàgina està enllaçada al compte {{username}}.",
         "link_my_account": "Enllaça el meu compte",
         "log_in_to_link": "Inicieu la sessió per a enllaçar",
-        "link_account_header": "Enllaceu aquesta pàgina de descàrrega al vostre compte d'itch.io",
-        "link_account_description": "Podeu enllaçar aquesta pàgina de descàrrega a un compte d'itch.io, de manera que no us haureu de preocupar de si la perdeu. Es mostrarà juntament amb la resta de coses que hàgiu adquirit.",
-        "must_link_account_description": "Cal que enllaceu aquesta pàgina a un compte d'itch.io abans de poder descarregar. Els comptes són gratuïts i us permeten fer un seguiment de la vostra col·lecció de jocs.",
+        "link_account_header": "Enllaceu aquesta pàgina de baixada al vostre compte d’itch.io",
+        "link_account_description": "Podeu enllaçar aquesta pàgina de baixada a un compte d’itch.io, de manera que no us haureu de preocupar de si la perdeu. Es mostrarà juntament amb la resta de coses que hàgiu adquirit.",
+        "must_link_account_description": "Cal que enllaceu aquesta pàgina a un compte d’itch.io abans de poder baixar. Els comptes són gratuïts i us permeten fer un seguiment de la vostra col·lecció de jocs.",
         "already_own": "Sembla que ja heu adquirit això",
         "access_existing_copy": "No en podeu reclamar una altra còpia, però podeu accedir a la que ja teniu.",
         "get_external_key": "Obtén la clau de {{key_type}}",
@@ -928,7 +928,7 @@
         "access_it": "Accedeix-hi",
         "email_capture": {
             "dont_lose_your_purchase": "No perdeu la vostra compra!",
-            "provide_email_instructions": "Introduïu la vostra adreça de correu electrònic per a enllaçar-la a la compra i poder recuperar-la si mai perdeu l'accés a aquesta pàgina."
+            "provide_email_instructions": "Introduïu la vostra adreça de correu electrònic per a enllaçar-la a la compra i poder recuperar-la si mai perdeu l’accés a aquesta pàgina."
         },
         "purchase": {
             "youve_been_gifted": "Us han regalat {{product_title}}.",
@@ -941,7 +941,7 @@
             "thank_you_for_donating_author": "Gràcies per donar a {{product_title}} de {{author}}.",
             "unique_url_for_your_payment": "Aquesta pàgina té una URL única per al vostre pagament.",
             "access_latest_files_from_this_page": "Sempre podreu accedir als darrers fitxers en aquesta pàgina.",
-            "receipt_support_information": "També hauríeu d'haver rebut un correu electrònic amb un enllaç a aquesta pàgina. Si mai perdeu la URL d'aquesta pàgina , podeu demanar que se us enviï per correu electrònic a la <a>pàgina de suport</a>.",
+            "receipt_support_information": "També hauríeu d’haver rebut un correu electrònic amb un enllaç a aquesta pàgina. Si mai perdeu la URL d’aquesta pàgina , podeu demanar que se us enviï per correu electrònic a la <a>pàgina d’assistència</a>.",
             "payment_summary": "Vau pagar {{payment_price}} per això el {{payment_date}}.",
             "payment_summary_with_email": "Vau pagar {{payment_price}} per això el {{payment_date}}, amb el correu electrònic {{email_address}}.",
             "percent_off": "{{percent}}% de descompte",
@@ -962,7 +962,7 @@
             }
         },
         "stats": {
-            "joined": "S'hi han unit",
+            "joined": "S’hi han unit",
             "entries": "Entrades",
             "ratings": "Puntuacions"
         },
@@ -974,22 +974,22 @@
             "joined_instructions": "Torneu a aquesta pàgina després que comenci la jam per presentar-hi el vostre projecte.",
             "leave_jam": "Deixa la jam",
             "submissions_open_from": "Participacions obertes de {{start_date}} fins a {{end_date}}",
-            "jam_is_now_over": "Aquesta jam s'ha acabat. Va estar activa de {{start_date}} fins a {{end_date}}.",
+            "jam_is_now_over": "Aquesta jam s’ha acabat. Va estar activa de {{start_date}} fins a {{end_date}}.",
             "view_results": "Mostra els resultats",
             "view_entries": "Mostra {{count}} element",
             "view_entries_plural": "Mostra {{count}} elements",
             "countdown": {
                 "starts_in": "Comença en",
-                "submissions_due_in": "Les participacions s'acaben en",
-                "voting_ends_in": "Les votacions s'acabaran en"
+                "submissions_due_in": "Les participacions s’acaben en",
+                "voting_ends_in": "Les votacions s’acabaran en"
             },
-            "submission_is_closed_for_voting": "Les participacions s'han tancat i ara s'efectua la votació",
+            "submission_is_closed_for_voting": "Les participacions s’han tancat i ara s’efectua la votació",
             "you_can_now_rate_entries": "Ara podeu puntuar entrades a la <a>pàgina de participacions</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Encara no hi ha cap participació",
             "there_were_no_submissions": "No hi ha hagut cap participació",
-            "submissions_will_be_available_after_the_jam_has_ended": "Les participacions estaran disponibles quan s'hagi acabat la jam",
+            "submissions_will_be_available_after_the_jam_has_ended": "Les participacions estaran disponibles quan s’hagi acabat la jam",
             "help_submissions_in_need_of_ratings": "Ajudeu a puntuar les participacions que tenen poques puntuacions: <a>Participacions amb poques puntuacions</a>",
             "filters": {
                 "all_submissions": "Totes les participacions",
@@ -1001,14 +1001,14 @@
         },
         "results": {
             "results": "Resultats",
-            "submissions_summary": "S'ha enviat <s>{{count}} element</s> entre {{start_date}} i {{end_date}}.",
-            "submissions_summary_plural": "S'han enviat <s>{{count}} elements</s> entre {{start_date}} i {{end_date}}.",
-            "votes_cast_count": "S'ha emès <s>{{count}}</s> vot entre {{vote_start_date}} i {{vote_end_date}}.",
-            "votes_cast_count_plural": "S'han emès <s>{{count}}</s> vots entre {{vote_start_date}} i {{vote_end_date}}.",
-            "ratings_given_count": "S'ha fet <s>{{count}} puntuació</s> entre {{vote_start_date}} i {{vote_end_date}}.",
-            "ratings_given_count_plural": "S'han fet <s>{{count}} puntuacions</s> entre {{vote_start_date}} i {{vote_end_date}}.",
-            "ratings_given_submissions_count": "S'ha fet <s>{{count}} puntuació</s> a <s>{{submission_count}} elements</s> ({{percent}}%) entre {{vote_start_date}} i {{vote_end_date}}.",
-            "ratings_given_submissions_count_plural": "S'han fet <s>{{count}} puntuacions</s> a <s>{{submission_count}} elements</s> ({{percent}}%) entre {{vote_start_date}} i {{vote_end_date}}.",
+            "submissions_summary": "S’ha enviat <s>{{count}} element</s> entre {{start_date}} i {{end_date}}.",
+            "submissions_summary_plural": "S’han enviat <s>{{count}} elements</s> entre {{start_date}} i {{end_date}}.",
+            "votes_cast_count": "S’ha emès <s>{{count}}</s> vot entre {{vote_start_date}} i {{vote_end_date}}.",
+            "votes_cast_count_plural": "S’han emès <s>{{count}}</s> vots entre {{vote_start_date}} i {{vote_end_date}}.",
+            "ratings_given_count": "S’ha fet <s>{{count}} puntuació</s> entre {{vote_start_date}} i {{vote_end_date}}.",
+            "ratings_given_count_plural": "S’han fet <s>{{count}} puntuacions</s> entre {{vote_start_date}} i {{vote_end_date}}.",
+            "ratings_given_submissions_count": "S’ha fet <s>{{count}} puntuació</s> a <s>{{submission_count}} elements</s> ({{percent}}%) entre {{vote_start_date}} i {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "S’han fet <s>{{count}} puntuacions</s> a <s>{{submission_count}} elements</s> ({{percent}}%) entre {{vote_start_date}} i {{vote_end_date}}.",
             "average_and_median_results": "El nombre mitjà de puntuacions per joc ha estat <s>{{average_ratings}}</s> i la mediana ha estat <s>{{median_ratings}}</s>.",
             "empty_message": "Els resultats encara no estan disponibles, torneu més tard",
             "empty_page_message": "No hi ha resultats en aquesta pàgina",
@@ -1047,11 +1047,11 @@
                 "post_comment": "Publica el comentari",
                 "empty_message": "Encara no hi ha cap comentari"
             },
-            "link_to_itchio_page": "Pàgina d'itch.io de {{game_title}}",
-            "downloads": "Descàrregues",
+            "link_to_itchio_page": "Pàgina d’itch.io de {{game_title}}",
+            "downloads": "Baixades",
             "play_game": "Juga al joc",
             "run_project": "Executa el projecte",
-            "score_information": "La puntuació s'ajusta a partir de la puntuació en brut amb el nombre medià de puntuacions per joc a la jam.",
+            "score_information": "La puntuació s’ajusta a partir de la puntuació en brut amb el nombre medià de puntuacions per joc a la jam.",
             "ranked_from_count_plural": "Classificat amb <s>{{count}} puntuacions</s>.",
             "ranked_from_count": "Classificat amb <s>{{count}} puntuació</s>.",
             "results_header": "Resultats",
@@ -1066,11 +1066,11 @@
                 "private_field": "(privat)",
                 "vote_for_this_submission": "Voteu aquesta participació",
                 "rate_this_submission": "Puntueu aquesta participació",
-                "not_open_yet": "El període de participació en aquesta jam encara no s'ha acabat. La puntuació començarà {{start_date}}.",
+                "not_open_yet": "El període de participació en aquesta jam encara no s’ha acabat. La puntuació començarà {{start_date}}.",
                 "owner_message": "Aquesta participació és vostra, no podeu puntuar-la. Els altres participants de la jam podran puntuar el vostre projecte aquí.",
                 "unavailable_to_rate": "No podeu puntuar aquest projecte perquè no heu enviat la vostra pròpia participació. Però podeu deixar-hi un comentari a sota.",
-                "sign_up_to_rate": "<a>Registreu un compte d'itch.io</a> per a puntuar i deixar comentaris.",
-                "sign_up_to_vote": "<a>Registreu un compte d'itch.io</a> per a votar i deixar comentaris.",
+                "sign_up_to_rate": "<a>Registreu un compte d’itch.io</a> per a puntuar i deixar comentaris.",
+                "sign_up_to_vote": "<a>Registreu un compte d’itch.io</a> per a votar i deixar comentaris.",
                 "participate_to_rate_message": "Per a poder puntuar aquesta participació cal que hàgiu <a>iniciat la sessió a itch.io</a> i hàgiu enviat la vostra pròpia participació. Tothom amb un compte pot deixar-hi un comentari.",
                 "you_will_be_able_to_rate_if_you_submit": "Podreu puntuar aquest element si participeu en aquesta jam.",
                 "other_participants_can_rate": "Els qui hagin participat a la jam podran puntuar la vostra participació.",
@@ -1083,8 +1083,8 @@
             }
         },
         "screenshots": {
-            "empty_message": "Encara no s'ha penjat cap captura de pantalla",
-            "loading_more": "S'estan carregant més captures de pantalla…"
+            "empty_message": "Encara no s’ha penjat cap captura de pantalla",
+            "loading_more": "S’estan carregant més captures de pantalla…"
         }
     },
     "dashboard": {
@@ -1092,7 +1092,7 @@
             "gross_revenue": "Ingressos bruts",
             "payments": "Pagaments",
             "views": "Visualitzacions",
-            "downloads": "Descàrregues",
+            "downloads": "Baixades",
             "followers": "Seguidors",
             "following": "Seguint"
         },
@@ -1116,7 +1116,7 @@
         },
         "analytics_summary_header": "Resum",
         "intro_text": "Sou desenvolupador? Pengeu el vostre primer joc",
-        "not_a_developer_escape": "No, porta'm al fil de jocs",
+        "not_a_developer_escape": "No, porta’m al fil de jocs",
         "recently_updated_pages_header": "Pàgines actualitzades recentment",
         "new_devlog": "Devlog nou",
         "hello": "Bon dia!",
@@ -1127,11 +1127,11 @@
             "title_field": "Títol",
             "project_url_field": "URL del projecte",
             "save_and_view_button": "Desa i mostra la pàgina",
-            "video_field": "Tràiler o vídeo de com s'hi juga",
+            "video_field": "Tràiler o vídeo de com s’hi juga",
             "video_field_description": "Proporcioneu un enllaç a YouTube o Vimeo.",
             "delete_game_button": "Suprimeix el joc",
             "short_description_field": "Descripció curta o eslògan",
-            "short_description_field_description": "Es mostra quan s'enllaça al vostre projecte. Eviteu duplicar-hi el títol del projecte",
+            "short_description_field_description": "Es mostra quan s’enllaça al vostre projecte. Eviteu duplicar-hi el títol del projecte",
             "classification_field": "Classificació",
             "classification_field_description": "Què pengeu?",
             "kind_of_project_field": "Tipus de projecte",
@@ -1140,17 +1140,17 @@
             "description_field": "Descripció",
             "custom_noun_field": "Substantiu personalitzat",
             "custom_noun_field_description": "Podeu canviar com es refereix itch.io al vostre projecte proporcionant un substantiu personalitzat.",
-            "instructions_field": "Instruccions de descàrrega i instal·lació",
-            "default_noun": "Deixeu-ho en blanc perquè sigui '{{default_noun}}'.",
+            "instructions_field": "Instruccions de baixada i instal·lació",
+            "default_noun": "Deixeu-ho en blanc perquè sigui ’{{default_noun}}’.",
             "classification_other": "Altres",
             "types": {
-                "downloadable": "Descarregable"
+                "downloadable": "Baixable"
             },
             "tip_label": "Consell",
-            "project_type_help": "Podeu afegir fitxers descarregables addicionals per a qualsevol dels tipus anteriors",
+            "project_type_help": "Podeu afegir fitxers baixables addicionals per a qualsevol dels tipus anteriors",
             "description_field_description": "Això formarà part del contingut de la pàgina del vostre joc.",
-            "instructions_field_info2": "Si el vostre joc necessita que abans hi hagi instal·lat cap programa o llibreria, també hauríeu d'incloure-hi aquesta informació",
-            "instructions_field_info1": "Aquest text es mostrarà als usuaris quan descarreguin el vostre joc mitjançant el navegador. Incloeu-hi informació de com instal·lar i executar allò que descarreguen.",
+            "instructions_field_info2": "Si el vostre joc necessita que abans hi hagi instal·lat cap programa o llibreria, també hauríeu d’incloure-hi aquesta informació",
+            "instructions_field_info1": "Aquest text es mostrarà als usuaris quan baixin el vostre joc mitjançant el navegador. Incloeu-hi informació de com instal·lar i executar allò que baixen.",
             "community_field": "Comunitat",
             "community_disabled": "Desactivat",
             "community_comments": "Comentaris",
@@ -1163,10 +1163,10 @@
             "content_guidelines_header": "Assegureu-vos que tothom pot trobar la vostra pàgina",
             "content_guidelines_info": "Reviseu les nostres <a>guies de qualitat</a> abans de publicar el vostre projecte",
             "payment_warning_header": "No heu configurat els pagaments",
-            "payment_warning_info": "Si definiu un preu mínim més gran que 0, ningú no podrà descarregar el vostre projecte. <a>Edita el compte</a>",
+            "payment_warning_info": "Si definiu un preu mínim més gran que 0, ningú no podrà baixar el vostre projecte. <a>Edita el compte</a>",
             "cover_uploader": {
                 "confirm_remove": "Esteu segur que voleu eliminar la imatge de portada?",
-                "cover_description": "La imatge de portada es fa servir quan itch.io enllaça al vostre projecte des d'una altra part del lloc. Obligatori (mínim: 315x250, recomanat: 630x500)",
+                "cover_description": "La imatge de portada es fa servir quan itch.io enllaça al vostre projecte des d’una altra part del lloc. Obligatori (mínim: 315x250, recomanat: 630x500)",
                 "replace_image": "Substitueix la imatge de portada",
                 "remove_image": "Elimina la imatge",
                 "upload_button": "Carrega una imatge de portada"
@@ -1177,22 +1177,22 @@
             },
             "error_dialog": {
                 "confirm_button": "Entesos",
-                "title": "S'ha produït un error en desar el vostre projecte"
+                "title": "S’ha produït un error en desar el vostre projecte"
             },
             "visibility_access_header": "Visibilitat i accés",
-            "visibility_access_info": "Utilitzeu Esborrany per a revisar la vostra pàgina abans de fer-la pública. <a>Més informació dels modes d'accés</a>",
+            "visibility_access_info": "Utilitzeu Esborrany per a revisar la vostra pàgina abans de fer-la pública. <a>Més informació dels modes d’accés</a>",
             "access_control": {
-                "disable_downloads_option": "Desactiva les descàrregues i compres noves",
-                "unlisted_option": "No llistis a les cerques i a l'exploració",
+                "disable_downloads_option": "Desactiva les baixades i compres noves",
+                "unlisted_option": "No llistis a les cerques i a l’exploració",
                 "allow_password_option": "Permet també una contrasenya per a veure la pàgina",
                 "password_label": "Contrasenya",
-                "public_access_settings": "Configuració d'accés públic",
-                "restricted_access_settings": "Configuració d'accés restringit",
-                "access_settings": "Configuració d'accés"
+                "public_access_settings": "Configuració d’accés públic",
+                "restricted_access_settings": "Configuració d’accés restringit",
+                "access_settings": "Configuració d’accés"
             },
-            "embed_options_header": "Opcions d'incrustació",
+            "embed_options_header": "Opcions d’incrustació",
             "embed_options": {
-                "viewport_dimensions": "Dimensions del 'viewport'",
+                "viewport_dimensions": "Dimensions del ’viewport’",
                 "width": "Amplada",
                 "height": "Alçada",
                 "frame_options": "Opcions de marc",
@@ -1211,12 +1211,12 @@
                 "free_or_donate": "{{money}} o donació",
                 "paid": "De pagament",
                 "no_payments": "Sense pagaments",
-                "embed_pricing_info": "Si definiu un preu mínim, només es restringirà l'accés als fitxers descarregables. El contingut incrustat estarà disponible de franc.",
+                "embed_pricing_info": "Si definiu un preu mínim, només es restringirà l’accés als fitxers baixables. El contingut incrustat estarà disponible de franc.",
                 "minimum_price_label": "Preu mínim",
-                "minimum_price_info": "Preu mínim a pagar per a obtenir accés de descàrrega al joc",
-                "free_price_info": "Es demanarà una donació a qui descarregui el vostre projecte abans de donar-li-hi accés. Ho poden ometre i descarregar-lo de franc.",
+                "minimum_price_info": "Preu mínim a pagar per a obtenir accés de baixada al joc",
+                "free_price_info": "Es demanarà una donació a qui baixi el vostre projecte abans de donar-li-hi accés. Ho poden ometre i baixar-lo de franc.",
                 "default_donation_amount_info": "Import per defecte de la donació",
-                "payment_disabled_info": "Els fitxers del projecte estaran disponibles de franc i no s'hi poden fer donacions",
+                "payment_disabled_info": "Els fitxers del projecte estaran disponibles de franc i no s’hi poden fer donacions",
                 "suggest_default_price_label": "Suggeriu un preu per defecte alternatiu",
                 "suggested_donation_label": "Donació suggerida",
                 "suggested_price_label": "Preu suggerit",
@@ -1226,8 +1226,8 @@
             "uploads": {
                 "delete_file_button": "Suprimeix el fitxer",
                 "play_in_browser_toggle": "Aquest fitxer es reproduirà al navegador",
-                "hide_toggle": "Amaga aquest fitxer i evita que es descarregui",
-                "demo_toggle": "Aquest fitxer és una versió de demostració i es pot descarregar de franc",
+                "hide_toggle": "Amaga aquest fitxer i evita que es baixi",
+                "demo_toggle": "Aquest fitxer és una versió de demostració i es pot baixar de franc",
                 "preorder_toggle": "Aquest fitxer és un element genèric de reserva",
                 "set_price_toggle": "Definiu un preu diferent per a aquest fitxer",
                 "change_display_name_button": "Canvia el nom públic"
@@ -1252,7 +1252,7 @@
             "more": "Més"
         },
         "blog_posts": {
-            "new_post": "Nova entrada"
+            "new_post": "Nova publicació"
         }
     },
     "add_to_collection": {
@@ -1278,8 +1278,8 @@
         "jams_joined_header": "Jams a què us heu unit",
         "page_title": "Game jams a itch.io",
         "page_summary": "itch.io és un lloc on allotjar i participar en game jams en línia. Tothom pot crear i allotjar una jam instantàniament.",
-        "games_created": "S'ha creat <s>{{count}} joc</s> en jams allotjades a itch.io.",
-        "games_created_plural": "S'han creat <s>{{count}} jocs</s> en jams allotjades a itch.io.",
+        "games_created": "S’ha creat <s>{{count}} joc</s> en jams allotjades a itch.io.",
+        "games_created_plural": "S’han creat <s>{{count}} jocs</s> en jams allotjades a itch.io.",
         "host_a_jam_button": "Allotja una jam",
         "manage_submissions_link": "Gestiona les meves participacions i les jams",
         "browse_jams_header": "Explora les jams",
@@ -1291,7 +1291,7 @@
         "brose_featured_jams": "Jams destacades",
         "browse_top_past_jams": "Jams anteriors més populars",
         "browse_in_progress": "En procés",
-        "count_joined": "{{count}} s'hi han unit"
+        "count_joined": "{{count}} s’hi han unit"
     },
     "feed": {
         "filter_own_activity_tab": "La meva pròpia activitat",
@@ -1325,10 +1325,10 @@
         "event": {
             "collection_summary": "Una col·lecció amb {{count}} element.",
             "collection_summary_plural": "Una col·lecció amb {{count}} elements.",
-            "collection_added_count": "S'hi ha afegit {{count}} element.",
-            "collection_added_count_plural": "S'hi han afegit {{count}} elements."
+            "collection_added_count": "S’hi ha afegit {{count}} element.",
+            "collection_added_count_plural": "S’hi han afegit {{count}} elements."
         },
-        "filter_posts_tab": "Entrades"
+        "filter_posts_tab": "Publicacions"
     },
     "library": {
         "page_title": "La meva biblioteca",
@@ -1347,13 +1347,13 @@
             "things_on_sale": "Coses en oferta",
             "things_to_rate": "Coses per a puntuar"
         },
-        "download_button": "Descarrega",
+        "download_button": "Baixa",
         "gift_button": "Regala",
         "rate_game": {
-            "rating_saved_header": "S'ha desat la puntuació",
+            "rating_saved_header": "S’ha desat la puntuació",
             "follow_creator": "Considereu seguir el creador de {{project_title}} per a estar al dia dels seus darreres llançaments.",
-            "rating_removed_header": "S'ha eliminat la puntuació",
-            "rating_deleted_summary": "S'ha suprimit la vostra puntuació.",
+            "rating_removed_header": "S’ha eliminat la puntuació",
+            "rating_deleted_summary": "S’ha suprimit la vostra puntuació.",
             "delete_button": "Suprimeix la puntuació i la ressenya",
             "choose_stars": "Trieu una puntuació entre 1 i 5 estrelles.",
             "rate_header": "Puntua i ressenya {{project_title}}",
@@ -1373,24 +1373,24 @@
         "filter_payments": "Pagaments",
         "filter_replies": "Respostes",
         "filter_all": "Tot",
-        "filter": "Filtre"
+        "filter": "Filtra"
     },
     "user_forgot_password": {
-        "please_provide_a_new_password_for_account": "Si us plau indica una nova contrasenya pel compte {{account_name}}.",
-        "link_sent": "S'ha enviat un enllaç a l'adreça electrònica principal del teu compte per a que puguis reiniciar la teva contrasenya.",
-        "enter_your_email": "Introdueix l'adreça electrònica amb la qual et vas registrar i t'enviarem un enllaç per reiniciar la teva contrasenya.",
-        "reset_password": "Reinicia la contrasenya"
+        "please_provide_a_new_password_for_account": "Introduïu una contrasenya nova per al compte {{account_name}}.",
+        "link_sent": "S’ha enviat un enllaç per a restablir la contrasenya a l’adreça electrònica principal del vostre compte.",
+        "enter_your_email": "Introduïu l’adreça electrònica amb què us vau registrar i us hi enviarem un enllaç per a restablir la contrasenya.",
+        "reset_password": "Restableix la contrasenya"
     },
     "user": {
         "verify_email": {
-            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "No pots verificar una adreça electrònica mentre tens la sessió iniciada amb un altre compte",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "No podeu verificar una adreça electrònica si teniu la sessió iniciada amb un altre compte",
             "your_email_address_has_been_verified": "La teva adreça electrònica ha sigut verificada",
-            "we_were_unable_to_verify_your_email_address": "No hem pogut verificar la teva adreça electrònica",
-            "submit_button": "Confirma la verificació de l'adreça electrònica",
-            "page_title": "Verifica la teva adreça electrònica",
-            "you_will_automatically_be_logged_in": "Un cop hagis verificat l'adreça electrònica s'iniciarà la sessió al teu compte automàticament.",
-            "link_purchases": "Si has realitzat cap compra anteriorment amb aquesta adreça electrònica, els productes s'associaran automàticament al teu compte.",
-            "confirm_verification": "Si us plau confirma que has verificat l'adreça electrònica {{email_address}} per al compte {{account}}. Cal que verifiquis l'adreça electrònica per dur a terme un seguit d'accions a itch.io."
+            "we_were_unable_to_verify_your_email_address": "No hem pogut verificar la vostra adreça electrònica",
+            "submit_button": "Confirmeu la verificació de l’adreça electrònica",
+            "page_title": "Verifiqueu la vostra adreça electrònica",
+            "you_will_automatically_be_logged_in": "Quan hàgiu verificat l’adreça electrònica, s’iniciarà la sessió al vostre compte automàticament.",
+            "link_purchases": "Si heu fet cap compra anteriorment fent servir només aquesta adreça electrònica, els productes s’associaran automàticament al vostre compte.",
+            "confirm_verification": "Confirmeu l’adreça electrònica {{email_address}} per al compte {{account}}. Cal que verifiqueu l’adreça electrònica per a dur a terme diverses accions a itch.io."
         }
     }
 }

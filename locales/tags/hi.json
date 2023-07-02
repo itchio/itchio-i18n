@@ -1,7 +1,7 @@
 {
     "tags": {
         "adventure": "एडवेंचर",
-        "adult": "बालिग",
+        "adult": "वयस्क",
         "action-rpg": "एक्शन RPG",
         "action": "एक्शन",
         "action-adventure": "एक्शन एडवेंचर",
@@ -10,6 +10,20 @@
         "4x": "4X",
         "3d-platformer": "3D प्लेटफॉर्मर",
         "3d": "3D",
-        "2d": "2D"
+        "2d": "2D",
+        "boys-love": "लड़कों का प्यार",
+        "board-game": "Board खेल",
+        "black-and-white": "काला और सफेद",
+        "beat-em-up": "उसे मारो",
+        "automation": "स्वचालन",
+        "audio": "ऑडियो",
+        "archery": "तीरंदाजी",
+        "atmospheric": "वायुमंडलीय",
+        "asteroids": "क्षुद्र ग्रह",
+        "art-book": "कला पुस्तक",
+        "animals": "जानवरों",
+        "animation": "एनिमेशन",
+        "arcade": "आर्केड",
+        "aliens": "एलियंस"
     }
 }

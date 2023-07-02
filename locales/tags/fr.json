@@ -332,6 +332,22 @@
         "gender": "Genre",
         "gacha": "Gacha",
         "furry": "Furry",
-        "comics": "Bandes dessinées"
+        "comics": "Bandes dessinées",
+        "working-simulator": "Simulateur de travail",
+        "two-player": "Deux joueurs",
+        "two-colors": "Deux couleurs",
+        "tarot": "Tarot",
+        "speedrun": "Speedrun",
+        "souls-like": "Souls-like",
+        "prototype": "Prototype",
+        "open-source": "Open Source",
+        "nsfw": "NSFW",
+        "lovecraft": "Horreur Lovecraftien",
+        "hypercard": "HyperCarte",
+        "homebrew": "Brassage maison",
+        "hexcrawl": "He crawl",
+        "eroge": "Érogé",
+        "endless-runner": "Coureur sans fin",
+        "clicker": "cliqueurs"
     }
 }
