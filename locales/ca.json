@@ -206,7 +206,8 @@
             "add_to_collection": "Afegeix a una col·lecció"
         },
         "lightboxes": {
-            "close": "Tanca"
+            "close": "Tanca",
+            "error_title": "La petició no s’ha pogut completar"
         },
         "countdown": {
             "years": "anys",
