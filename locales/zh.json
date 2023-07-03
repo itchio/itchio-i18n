@@ -558,7 +558,7 @@
             "like": "点赞",
             "reply": "回复",
             "edits_count": "（已被编辑{{count}}次）",
-            "edits_count_plural": "（已被编辑{{count}}次）",
+            "edits_count_plural": "（已编辑{{count}}次）",
             "edit_blocks": "编辑屏蔽列表",
             "post_from_blocked_account": "作者已被您屏蔽",
             "deleted_post": "帖子已删除"
@@ -1252,7 +1252,8 @@
             "years": "年"
         },
         "lightboxes": {
-            "close": "关闭"
+            "close": "关闭",
+            "error_title": "未能完成您的请求"
         },
         "collection_button": {
             "add_to_collection": "添加到收藏夹"
