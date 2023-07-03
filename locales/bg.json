@@ -166,7 +166,8 @@
             "years": "години"
         },
         "lightboxes": {
-            "close": "Затваряне"
+            "close": "Затваряне",
+            "error_title": "Вашата заявка не може да бъде изпълнена"
         },
         "collection_button": {
             "add_to_collection": "Добавяне в колекция"
