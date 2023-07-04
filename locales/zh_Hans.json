@@ -189,7 +189,7 @@
         },
         "filter_price": {
             "free": "免费",
-            "on_sale": "促销",
+            "on_sale": "特价",
             "paid": "付费"
         },
         "pager": {
@@ -204,7 +204,8 @@
             "add_to_collection": "添加到收藏"
         },
         "lightboxes": {
-            "close": "关闭"
+            "close": "关闭",
+            "error_title": "未能完成您的请求"
         },
         "countdown": {
             "years": "年",
@@ -232,13 +233,13 @@
         "errors": {
             "server_error": "服务器无法响应，请稍后再试"
         },
-        "more_ellip": "更多…",
-        "loading_more_ellip": "加载更多...…"
+        "more_ellip": "更多……",
+        "loading_more_ellip": "加载更多……"
     },
     "developers": {
-        "upload_or_dashboard": "<1>上传新游戏</1> <em></em> <2>打开创作中心</2>",
+        "upload_or_dashboard": "<1>上传新游戏</1> <em>或</em> <2>前往创作中心</2>",
         "page_header": "创建自定义页面，马上发行或者销售您的独立游戏",
-        "product_summary1": "<s> itch.io </s>可以免费在线发布独立游戏。将您的游戏文件和屏幕截图全部上传到一个地方。创建一个以游戏为焦点的自定义登录页面。",
+        "product_summary1": "<s>itch.io</s> 是免费的独立游戏在线发布平台。您可以将游戏文件和屏幕截图全部归于一处，还可以为您的游戏创建专属的独特主页。",
         "product_summary2": "您甚至可以为游戏设置最低购买价格，让玩家自行选择支付的价格。",
         "my_dashboard": "我的创作中心",
         "upload_a_new_game": "上传新游戏",
@@ -250,7 +251,7 @@
         "host_a_sale_description": "在任意时间段开展特卖活动，来帮助您推广游戏并获得更高销量。",
         "learn_more": "了解更多内容",
         "browser_game_description": "将您的网页游戏托管在<s>itch.io</s>上，以获得收入。您的游戏将会嵌在网页中，如果玩家喜欢您的游戏，他们可以向您捐赠任意额度的金额。",
-        "upload_your_game_description": "您可以在<s>itch.io</s>上免费上传自己的游戏。我们会代为发行您的游戏，展示游戏截图和其他下载内容。我们为您提供可靠且快速的下载途径。",
+        "upload_your_game_description": "您可以将自己的独立游戏免费上传到 <s>itch.io</s>。我们会为您的游戏、截图以及其他下载内容提供托管服务，并提供可靠且快速的下载途径。",
         "learn_more_about": "了解更多内容：",
         "share_message": "itch.io是一款免费在线平台，让您轻松发行自己的独立游戏。",
         "create_account_or_login": "<1>创建账号</1> <em>或者</em> <2>登录账号</2>",
@@ -326,7 +327,7 @@
         "published_count": "{{count}} 个项目",
         "view_all_tags": "浏览全部标签",
         "browse_all_games": "浏览全部游戏",
-        "search_results_for_query": "‘{{query}}’ 的搜索结果"
+        "search_results_for_query": "“{{query}}”的搜索结果"
     },
     "app": {
         "open_source": "开源",
@@ -382,15 +383,15 @@
         "your_purchase_comes_with_a_steam_key": "您的购买会附带一个 Steam密钥。",
         "steam_key_bundle_disclaimer": "（注意：Steam 序列号不包含在{{bundle_title}}中）",
         "donate_button": "支持此{{noun}}",
-        "empty_page_no_uploads": "创建者还没有上传任何东西…",
+        "empty_page_no_uploads": "创建者还没有上传任何内容……",
         "comments": {
             "comments_header": "评论",
             "leave_a_comment_header": "发表评论",
             "leave_a_comment": "发表评论",
-            "click_to_leave_a_comment": "点击发表评论…",
+            "click_to_leave_a_comment": "点击发表评论……",
             "log_in_to_leave_comment": "<a>登录 itch.io</a> 发表评论。",
             "post_comment": "发表评论",
-            "write_your_comment": "写下您的评论…"
+            "write_your_comment": "写下您的评论……"
         },
         "info_panel": {
             "updated_at": "更新于",
@@ -431,7 +432,7 @@
             "play_in_browser": "在浏览器中玩",
             "if_you_pay_price_or_more": "如果您支付不少于{{price}}",
             "version_name": "版本 {{version_name}}",
-            "this_file_will_be_available_when_the_creator_uploads_it": "此文件将在创建者上传后可用",
+            "this_file_will_be_available_when_the_creator_uploads_it": "此文件将在创作者上传后可用",
             "empty_message": "目前没有可供下载的内容。"
         },
         "layout": {
@@ -448,7 +449,7 @@
             "edit_your_rating": "编辑您的评分",
             "edit_rating": "编辑评分",
             "rate": "评分",
-            "rate_this_noun": "为这个 {{noun}} 评分",
+            "rate_this_noun": "为此 {{noun}} 评分",
             "rate_for_jam": "对 {{jam_title}} 评分",
             "submission_to_jam": "提交到 {{jam_title}}",
             "related_games": "相关游戏",
@@ -492,7 +493,7 @@
             "view_all_from_jam": "查看 Jam 的所有内容",
             "more_from_itchio_header": "了解 itch.io 的更多信息",
             "see_everything": "查看全部",
-            "powered_by": "由{{itchio_logo}}<s>提供支持</s>",
+            "powered_by": "由 {{itchio_logo}} <s>提供支持</s>",
             "app_learn_more": "<s>新！</s> 试着使用 itch.io 的桌面应用程序来下载和管理您的库。 <a>了解详情</a>"
         },
         "report_form": {
@@ -503,9 +504,9 @@
             "reason_label": "原因",
             "reason_other": "其他原因",
             "report_received_header": "已收到举报",
-            "support_from_creator": "您有麻烦吗？ 您需要创作者的支持吗？",
-            "form_description": "如果你需要就本页内容联系 itch.io 管理团队，请将本表格填写完整。如果必要，你的报告可能会与该页面的创建者共享。",
-            "title": "报告 “{{page_title}}”"
+            "support_from_creator": "您是否遇到了问题？需要创作者的帮助吗？",
+            "form_description": "如果您需要就本页面的内容联系 itch.io 管理团队，则请填写此表单。您的报告在必要情况下可能会与本页面的创作者共享。",
+            "title": "报告“{{page_title}}”页面"
         },
         "password_required": {
             "header": "请输入密码以查看本页"
@@ -540,7 +541,7 @@
             "this_topic_is_locked": "此主题已锁定",
             "this_topic_was_locked_by_username": "此主题已被 {{username}} 锁定",
             "topic_is_autoarchived": "由于一段时间内并没有收到任何回复，这个主题帖已被自动归档且无法再被回复。",
-            "create_related_topic": "如果您有要发表的相关内容，可以考虑<a>在{{category_name}}中创建一个主题</a>。"
+            "create_related_topic": "如果您有相关内容需要发表，那么请考虑<a>在 {{category_name}} 中创建一个主题</a>。"
         },
         "post_list": {
             "deleted_post": "已删除的帖子",
