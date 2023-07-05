@@ -339,8 +339,7 @@
             },
             "related_games_short": "Hasonló",
             "related_games": "Hasonló játékok",
-            "view_all_by_name": "Minden megtekintése {{name}} alapján",
-            "included_in_bundle_title": "Elérhető csomagban:"
+            "view_all_by_name": "Minden megtekintése {{name}} alapján"
         },
         "upload_list": {
             "if_you_pay_price_or_more": "Ha fizetsz legalább {{price}} vagy többet",
