@@ -100,7 +100,7 @@
             "all_games": "Todos os Jogos",
             "bundles": "Pacotes",
             "game_jams": "Game Jams",
-            "devlogs": "Developer Logs",
+            "devlogs": "Logs de Desenvolvedor",
             "community": "Comunidade"
         },
         "intro": "<s>itch.io</s> é uma maneira simples de encontrar e compartilhar jogos indie online gratuitamente.",
@@ -146,8 +146,8 @@
             "keyboard": "Teclado",
             "mouse": "Mouse",
             "gamepad": "Gamepad (qualquer)",
-            "joystick": "Joystick",
-            "touchscreen": "Touchscreen",
+            "joystick": "Controle",
+            "touchscreen": "Tela de toque",
             "voice": "Controle por voz",
             "accelerometer": "Acelerômetro",
             "phone": "Celular",
@@ -206,7 +206,8 @@
             "add_to_collection": "Adicionar a coleção"
         },
         "lightboxes": {
-            "close": "Fechar"
+            "close": "Fechar",
+            "error_title": "Sua solicitação não pôde ser completada"
         },
         "countdown": {
             "years": "anos",
@@ -1298,7 +1299,7 @@
         "filter_everything_tab": "Tudo",
         "filter_new_projects_tab": "Novos projetos",
         "filter_collections_tab": "Coleções",
-        "filter_devlogs_tab": "Developer Logs",
+        "filter_devlogs_tab": "Logs de Desenvolvedor",
         "filter_ratings_tab": "Avaliações",
         "latest_featured_games_header": "Últimos jogos em destaque",
         "featured_tags_header": "Tags em destaque",
