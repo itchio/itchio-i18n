@@ -23,7 +23,7 @@
             "notifications_count": "{{count}} notificación",
             "notifications_count_plural": "{{count}} notificaciones",
             "no_notifications": "No hay nuevas notificaciones",
-            "game_jams": "Atascos de juegos",
+            "game_jams": "Game Jams",
             "devlogs": "Registros del desarrollador",
             "dashboard": "Panel de Control",
             "jams": "Jams",
@@ -213,7 +213,8 @@
             "add_to_collection": "Añadir a colección"
         },
         "lightboxes": {
-            "close": "Cerrar"
+            "close": "Cerrar",
+            "error_title": "No se pudo completar su solicitud"
         },
         "countdown": {
             "years": "años",
