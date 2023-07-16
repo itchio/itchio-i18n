@@ -208,7 +208,8 @@
             "add_to_collection": "Dodaj do kolekcji"
         },
         "lightboxes": {
-            "close": "Zamknij"
+            "close": "Zamknij",
+            "error_title": "Twoje żądanie nie mogło zostać zrealizowane"
         },
         "countdown": {
             "years": "lat",
