@@ -33,7 +33,7 @@
             "game_assets": "Assety",
             "fun_games": "Zábavné hry",
             "games": "Hry",
-            "feed": "Príspevky",
+            "feed": "Feed",
             "notifications_count_0": "{{count}} notifikácia",
             "notifications_count_1": "{{count}} notifikácie",
             "notifications_count_2": "{{count}} notifikácií",
@@ -55,9 +55,10 @@
             "game_jams": "Game jamy",
             "recommendations": "Odporúčané",
             "library": "Moja knižnica",
-            "feed": "Moje príspevky",
+            "feed": "Môj feed",
             "account_menu_tooltip": "Menu Účtu",
-            "dashboard": "Nástenka"
+            "dashboard": "Nástenka",
+            "posts": "Príspevky"
         }
     },
     "index": {
@@ -122,7 +123,7 @@
             "assets": "Herné assety",
             "game_mod": "Herné módy",
             "physical_game": "Fyzické hry",
-            "soundtrack": "Soundtracky",
+            "soundtrack": "Albumy & soundtracky",
             "other": "Iné",
             "tool": "Nástroje",
             "comic": "Komiks",
@@ -192,7 +193,8 @@
             "years": "roky"
         },
         "lightboxes": {
-            "close": "Zatvoriť"
+            "close": "Zatvoriť",
+            "error_title": "Vašu požiadavku nebolo možné dokončiť"
         },
         "collection_button": {
             "add_to_collection": "Pridať do kolekcie"
@@ -277,7 +279,7 @@
         },
         "welcome_to_itchio": "Vitajte na itch.io!",
         "welcome_back": "Vitajte späť!",
-        "you_are_logged_out": "Ste odhlásený",
+        "you_are_logged_out": "Ste odhlásení",
         "page_title": "Prihlásiť sa"
     },
     "user_register": {
@@ -700,7 +702,7 @@
             "display_name_description": "Toto meno bude zobrazované namiesto Vášho používateľského mena. Nechajte prázdne pre zobrazenie Vášho používateľského mena",
             "display_name": "Zobrazované meno",
             "profile_image_description": "Zobrazený vedľa Vášho mena pri činnosti na stránke (štvorcové rozmery)",
-            "profile_image": "Obraz profilu",
+            "profile_image": "Profilový obrázok",
             "url_description": "Verejná URL adresa pre Váš účet",
             "you_recently_changed_your_username": "Vaše používateľské meno bolo nedávno zmenené",
             "change_username": "Zmena používateľského mena/URL",
@@ -708,10 +710,10 @@
         },
         "navigation": {
             "oauth_applications": "OAuth aplikácie",
-            "api_keys": "API klávesy",
+            "api_keys": "API kľúče",
             "data_export": "Export dát",
             "privacy": "Súkromie",
-            "connected_accounts": "Pripojené účty",
+            "connected_accounts": "Prepojené účty",
             "email_notifications": "Upozornenia emailom",
             "billing_address": "Fakturačná adresa",
             "credit_cards": "Kreditné karty",
@@ -721,7 +723,7 @@
             "revenue_sharing": "Zdieľanie príjmu",
             "publisher_get_started": "Začnite",
             "support_email": "Email podpory",
-            "two_factor_auth": "Dvojfaktorová autentifikácia",
+            "two_factor_auth": "Dvojstupňové overenie",
             "email_addresses": "Emailová adresa",
             "password": "Heslo",
             "profile": "Profil",
@@ -730,7 +732,8 @@
             "contact_header": "Kontakt",
             "publisher_header": "Vydavateľ",
             "payment_header": "Platba",
-            "basics_header": "Všeobecné"
+            "basics_header": "Všeobecné",
+            "thirdparty_analytics": "Analytiky tretej strany"
         },
         "account_settings": "Nastavenia konta",
         "email_addresses": {
@@ -763,7 +766,18 @@
             "password": "Heslo",
             "current_password": "Súčasné heslo",
             "set_password": "Nastaviť heslo",
-            "reset_password": "Resetovať heslo"
+            "reset_password": "Resetovať heslo",
+            "no_password_service_name": "Váš účet momentálne nemá heslo, pretože ste sa prihlásili cez službu {{service_name}}.",
+            "your_account_currently_doesnt_have_a_password": "Váš účet momentálne nemá heslo."
+        },
+        "two_factor_auth": {
+            "page_description": "Dvojstupňové overenie je dodatočná vrstva zabezpečenia Vášho účtu, ktorá pomáha zabrániť neoprávnenému prístupu v prípade krádeže hesla.",
+            "status_off": "Vypnuté",
+            "status_on": "Zapnuté",
+            "learn_more_about_twofactor_authentication": "Zistiť viac o dvojstupňovom overení",
+            "configure_twofactor_authentication": "Nakonfigurovať dvojstupňové overenie",
+            "page_title": "Dvojstupňové overenie",
+            "tfa_status": "Stav: {{tfa_status}}"
         }
     },
     "buy_form_popup": {
@@ -774,7 +788,15 @@
         "no_description_yet": "Zatiaľ bez popisu",
         "commonly_tagged_with": "Často označované spolu s",
         "find_tag": "Vyhľadať štítok",
-        "page_title": "Najpopulárnejšie štítky"
+        "page_title": "Najpopulárnejšie štítky",
+        "types": {
+            "genre": "Žánre",
+            "platform": "Platformovky",
+            "style": "Štýly",
+            "tool": "Nástroje",
+            "event": "Eventy"
+        },
+        "all_tags": "Všetky štítky"
     },
     "browse": {
         "filter_by_tag": "Triediť podľa štítku",
@@ -876,11 +898,39 @@
             "view_results": "Zobraziť výsledky",
             "jam_is_now_over": "Tento jam je týmto ukončený. Trval od {{start_date}} do {{end_date}}.",
             "submissions_open_from": "Otvorené pre príspevky od {{start_date}} do {{end_date}}",
-            "leave_jam": "Opustiť jam"
+            "leave_jam": "Opustiť jam",
+            "or_leave_jam": "alebo <a>Opustiť jam</a>",
+            "join_jam": "Pripojiť jam"
+        },
+        "submission": {
+            "rate_submission": {
+                "you_just_voted": "Práve si zahlasoval(a).",
+                "save_rating": "Uložiť hodnotenie",
+                "save_vote": "Uložiť hlas"
+            }
+        },
+        "header": {
+            "links": {
+                "edit_jam": "Upraviť jam",
+                "screenshots": "Snímky obrazovky",
+                "overview": "Prehľad",
+                "community": "Komunita"
+            },
+            "hosted_by": "Hostiteľ: {{hosts}}"
+        },
+        "stats": {
+            "entries": "Vstupy",
+            "ratings": "Hodnotenia"
         }
     },
     "notifications": {
-        "unseen_label": "Nové"
+        "unseen_label": "Nové",
+        "page_title": "Upozornenia",
+        "filter_follows": "Sledovania",
+        "filter_payments": "Platby",
+        "filter_replies": "Odpovede",
+        "filter_all": "Všetky",
+        "filter": "Filter"
     },
     "stripe_checkout": {
         "payment_error_help": "Ak si nie ste istý, prosím, kontaktujte <a>itch.io podporu</a> s nasledujúcou správou.",
@@ -895,6 +945,216 @@
     "game_download": {
         "trouble_downloading_link": "Sťahovanie nezačína?",
         "or_share_on": "alebo zdieľajte na",
-        "share_and_follow": "Zdieľať & sledovať"
+        "share_and_follow": "Zdieľať & sledovať",
+        "check_your_email_for_the_confirmation_link": "Skontrolujte svoj email pre potvrdzovací odkaz."
+    },
+    "dashboard": {
+        "edit_project": {
+            "cover_uploader": {
+                "remove_image": "Odstrániť Obrázok",
+                "upload_button": "Nahrať titulný obrázok",
+                "replace_image": "Nahradiť titulný obrázok",
+                "confirm_remove": "Ste si istí, že si prajete odstrániť titulný obrázok?"
+            },
+            "access_control": {
+                "disable_downloads_option": "Zakázať nové stiahnutia & zakúpenia",
+                "password_label": "Heslo"
+            },
+            "error_dialog": {
+                "confirm_button": "Rozumiem",
+                "title": "Pri ukladaní vášho projektu sa vyskytol problém"
+            },
+            "video_field_description": "Poskytnite link na YouTube alebo Vimeo.",
+            "video_field": "",
+            "screenshots_header": "Snímky obrazovky",
+            "add_screenshots": "Pridať snímky obrazovky",
+            "uploads": {
+                "change_display_name_button": "Zmeniť zobrazované meno",
+                "set_price_toggle": "Nastaviť odlišnú cenu pre tento súbor",
+                "play_in_browser_toggle": "Tento súbor sa prehrá v prehliadači",
+                "delete_file_button": "Odstrániť súbor"
+            },
+            "pricing": {
+                "default_price_info": "Predvolená cena, zobrazovaná, keď sa niekto pokúsi zakúpiť váš projekt",
+                "suggested_price_label": "Odporúčaná cena",
+                "suggested_donation_label": "Navrhovaný donate",
+                "minimum_price_label": "Minimálna cena",
+                "no_payments": "Žiadne platby",
+                "paid": "Platené"
+            },
+            "details_tags_header": "Štítky",
+            "details_genre_header": "Žáner",
+            "embed_options": {
+                "enable_scrollbars_option": "Povoliť scrollbary",
+                "fullscreen_button_option": "Tlačidlo Zobrazenie na celú obrazovku",
+                "orientation": "Orientácia",
+                "height": "Výška",
+                "width": "Šírka"
+            },
+            "content_guidelines_header": "Uistite sa, že každý môže nájsť vašu stránku",
+            "visibility_access_header": "Viditeľnosť & prístup",
+            "file_size_limit": "Limit veľkosti súboru: {{filesize}}. <a>Kontaktuj nás</a> pokiaľ potrebuješ viac miesta",
+            "add_external_file_button": "Pridať externý súbor",
+            "upload_files_button": "Nahrať súbory",
+            "uploads_header": "Nahrané súbory",
+            "pricing_header": "Nastavenie ceny",
+            "community_discussion_board": "Tabuľa diskusií",
+            "community_comments": "Komentáre",
+            "community_disabled": "Zakázaná",
+            "community_field": "Komunita",
+            "project_type_help": "Môžeš pridať dodatočné stiahnuteľné súbory pre hocijaký typ vyššie",
+            "tip_label": "Tip",
+            "types": {
+                "downloadable": "Stiahnuteľné"
+            },
+            "classification_other": "Iné",
+            "instructions_field": "Pokyny na stiahnutie & inštaláciu",
+            "short_description_field_description": "Zobrazí sa, keď vytvoríme prepojenie na váš projekt. Vyhnite sa duplikácii názvu projektu",
+            "description_field": "Popis",
+            "details_section_header": "Detaily",
+            "release_status_field": "Stav vydania",
+            "kind_of_project_field": "Druh projektu",
+            "classification_field_description": "Čo nahrávaš?",
+            "classification_field": "Klasifikácia",
+            "short_description_field": "Krátky popis alebo slogan",
+            "delete_game_button": "Odstrániť hru",
+            "save_and_view_button": "Uložiť & zobraziť stránku",
+            "project_url_field": "URL Projektu",
+            "title_field": "Názov",
+            "edit_project_title": "Upraviť projekt",
+            "create_a_new_project_title": "Vytvoriť nový projekt"
+        },
+        "dashboard": "Nástenka",
+        "recently_updated_pages_header": "Nedávno aktualizované stránky",
+        "new_devlog": "Nový devlog",
+        "page_title": "Nástenka Tvorcu",
+        "header": {
+            "projects_link": "Projekty",
+            "payouts_link": "Výplaty",
+            "game_jams_link": "Herné jamy",
+            "coop_bundles_link": "Co-op bundle",
+            "sales_bundles_link": "Výpredaje & bundle",
+            "analytics_link": "Analytika",
+            "payments_link": "Platby"
+        },
+        "not_a_developer_escape": "Nah, vezmi ma na feed hier",
+        "analytics_summary_header": "Súhrn",
+        "blog_posts": {
+            "new_post": "Nový príspevok"
+        },
+        "project_header": {
+            "admins": "Admini",
+            "rewards": "Odmedy",
+            "edit_comments": "Upraviť komentáre",
+            "analytics": "Analytiky",
+            "edit_project": "Upraviť projekt"
+        },
+        "project_list": {
+            "widget": "Widget",
+            "analytics": "Analytiky",
+            "no_image": "Žiaden obrázok",
+            "edit": "Upraviť"
+        },
+        "stats": {
+            "following": "Sledované",
+            "followers": "Sledovatelia",
+            "downloads": "Stiahnutia",
+            "views": "Zobrazenia",
+            "payments": "Platby"
+        },
+        "follow_itchio": "Sleduj itch.io na {{twitter}} a {{facebook}}",
+        "hello": "Hello!",
+        "intro_text": "Si developer? Nahraj svoju prvú hru",
+        "create_new_project_button": "Vytvoriť nový projekt"
+    },
+    "feed": {
+        "global_feed_tab": "Globálny feed",
+        "my_feed_tab": "Môj feed",
+        "email_warning": {
+            "verify_your_email_address": "Overte si vašu emailovú adresu"
+        },
+        "manage_my_games_button": "Spravovať moje hry",
+        "filter_own_activity_tab": "Moja vlastná aktivita",
+        "filter_everything_tab": "Všetko",
+        "filter_new_projects_tab": "Nové projekty",
+        "filter_collections_tab": "Kolekcie",
+        "to_rate": {
+            "projects_to_rate_header": "Projekty na ohodnotenie"
+        },
+        "filter_posts_tab": "Príspevky",
+        "event": {
+            "collection_summary_0": "Kolekcia s {{count}} položkou.",
+            "collection_summary_1": "Kolekcia s {{count}} položkami.",
+            "collection_summary_2": "Kolekcia s {{count}} položkami."
+        },
+        "profile_notice": {
+            "add_a_profile_image": "Pridať profilový obrázok"
+        },
+        "event_filter_label": "Filter:",
+        "upload_a_game_button": "Nahrať hru",
+        "featured_tags_header": "Odporúčané štítky",
+        "filter_ratings_tab": "Hodnotenia"
+    },
+    "library": {
+        "rate_game": {
+            "you_rated_this_project_ago": "Ohodnotil(a) si tento projekt {{time_ago}}.",
+            "choose_stars": "Vyber hodnotenie od 1 do 5 hviezdičiek.",
+            "rate_header": "Ohodnotiť & Recenzovať {{project_title}}",
+            "delete_button": "Odstrániť hodnotenie a recenziu",
+            "rating_deleted_summary": "Tvoje hodnotenie bolo odstránené.",
+            "rating_removed_header": "Hodnotenie bolo odstránené",
+            "rating_saved_header": "Hodnotenie bolo uložené"
+        },
+        "redeem_button": "Uplatniť",
+        "gift_button": "Darovať",
+        "go_to_collection_link": "Ísť do kolekcie",
+        "private_toggle": "Súkromné",
+        "permalink": "Permanentný link",
+        "nav": {
+            "things_on_sale": "Položky vo výpredaji",
+            "things_to_rate": "Položky na hodnotenie",
+            "recommended_for_you": "Odporúčané pre Teba",
+            "my_purchases": "Moje nákupy"
+        },
+        "download_button": "Stiahnuť",
+        "empty_collection_message": "Táto kolekcia je prázdna",
+        "show_on_my_profile_toggle": "Zobraziť na mojom profile",
+        "nav_header": "Knižnica",
+        "view_all_link": "Zobraziť všetky",
+        "page_title": "Moja Knižnica"
+    },
+    "user_forgot_password": {
+        "reset_password": "Resetovať heslo"
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "Tvoj email nie je overený"
+        }
+    },
+    "jams": {
+        "host_your_own_jam_button": "Usporiadaj Svoj Vlastný Jam",
+        "jam_calendar_header": "Kalendár Jamov",
+        "host_a_jam_button": "Usporiadať jam",
+        "jams_joined_header": "Jamy, do ktorých si sa pripojil(a)",
+        "jams_created_header": "Jamy, ktoré si vytvoril(a)"
+    },
+    "game_grid": {
+        "in_bundle": "V bundli"
+    },
+    "add_to_collection": {
+        "add_to_new": "Pridať do novej kolekcie s názvom",
+        "already_in_collections": "Tento projekt sa už nachádza v týchto kolekciách:",
+        "add_reason": "Pridaj si tento projekt do zbierky a ulož si ho na neskôr.",
+        "count_items_0": "{{count}} položka",
+        "count_items_1": "{{count}} položky",
+        "count_items_2": "{{count}} položiek",
+        "about_this_project_label": "O tomto projekte",
+        "private_collection_option": "Súkromná kolekcia - Iba ty môžeš vidieť obsah",
+        "manage_collections_link": "Spravovať kolekcie",
+        "add_button": "Pridať do kolekcie",
+        "default_title": "{{username}}'s Kolekcia",
+        "private_collection_title": "[Súkromná] {{title}}",
+        "add_to_existing": "Pridať do existujúcej kolekcie",
+        "dialog_title": "Pridať {{project_title}} do kolekcie"
     }
 }
