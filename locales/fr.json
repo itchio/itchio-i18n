@@ -492,7 +492,7 @@
             "share_this_project": "Partager ce projet",
             "thanks_for_downloading_title": "Merci d’avoir téléchargé",
             "thanks_project_author": "Merci d’avoir téléchargé {{project}} par {{author}}.",
-            "more_from_creator": "Vous pouvez trouver plus de contenu produit par ce créateur, sur sa page : {{profile}}.",
+            "more_from_creator": "Vous pouvez en trouver plus du même créateur sur sa page : {{profile}}.",
             "check_out_more_from_jam_title": "En voir plus de {{jam_title}}",
             "view_all_from_jam": "Tout voir de la jam",
             "more_from_itchio_header": "En voir plus sur itch.io",
