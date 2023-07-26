@@ -56,7 +56,7 @@
             "library": "Ma bibliothèque",
             "feed": "Mon fil",
             "account_menu_tooltip": "Menu Mon Compte",
-            "posts": "Publications"
+            "posts": "Messages"
         }
     },
     "index": {
@@ -121,7 +121,7 @@
             "assets": "Assets",
             "game_mod": "Mods",
             "physical_game": "Jeux physiques",
-            "soundtrack": "Bandes originales",
+            "soundtrack": "Albums & musique",
             "other": "Divers",
             "tool": "Outils",
             "comic": "Comics",
@@ -206,7 +206,8 @@
             "add_to_collection": "Ajouter à la collection"
         },
         "lightboxes": {
-            "close": "Fermer"
+            "close": "Fermer",
+            "error_title": "Votre demande n'a pas pu être complétée"
         },
         "countdown": {
             "months": "mois",
@@ -284,7 +285,7 @@
         "register_form": {
             "create_account": "Créer un compte",
             "log_in": "Se connecter",
-            "link_product": "Votre achat : <1>{{product}}</1> sera lié à votre compte dès sa création.",
+            "link_product": "Votre achat de <1>{{product}}</1> sera lié à votre compte après sa création.",
             "accept_tos": "J’accepte les <1>Conditions d’Utilisations</1>",
             "about_you": "À propos de vous",
             "your_email_address": "Votre adresse email",
@@ -293,7 +294,7 @@
             "url_preview": "Votre page de profil sera",
             "other_registration_methods": "Autres méthodes de connexion",
             "already_have_account": "ou vous avez déjà un compte ?",
-            "digest_signup": "S’inscrire à la newsletter bimensuelle d’itch.io",
+            "digest_signup": "Je veux m'inscrire à la newsletter bimensuelle d’itch.io",
             "interest_gamer": "Je veux jouer ou télécharger des jeux depuis itch.io",
             "interest_developer": "Je veux distribuer du contenu sur itch.io",
             "account_preferences_info": "Vous pouvez changer vos réponses plus tard, ces questions ajustent la manière dont le site se présente à vous.",
@@ -321,7 +322,7 @@
         "create_account_or_login": "<1>Créer un compte</1> <em>ou</em> <2>Se connecter</2>",
         "upload_or_dashboard": "<1>Créer un nouveau jeu</1> <em>ou</em> <2>Accéder au tableau de bord</2>",
         "design_your_games_page_description": "Créez une page personnalisée pour votre jeu où les gens pourront acheter ou télécharger votre jeu. Choisissez les couleurs, les polices, les images et les vidéos. Puisque c’est votre page, elle n’affichera que le contenu que vous aurez choisi, rien d’autre.",
-        "track_your_game_description": "Gardez un œil sur ce que les gens pensent de votre jeu avec des analyses détaillées de vos vues, téléchargements et achats. Vous voulez vous faire de la pub ? Générez des clés donnant accès à votre jeu."
+        "track_your_game_description": "Gardez un œil sur ce que les gens pensent de votre jeu avec des analyses détaillées de vos vues, téléchargements et achats. Vous voulez vous faire de la pub ? Générez des clés pour donner aux utilisateurs l'accès à votre jeu."
     },
     "search": {
         "creators": "Créateurs :",
@@ -409,7 +410,7 @@
             "genre": "Genre",
             "made_with_tools": "Fabriqué avec",
             "tags": "Mots clés",
-            "code_license": "Licence",
+            "code_license": "Licence du code",
             "asset_license": "Licence des ressources",
             "average_session_duration": "Session moyenne",
             "languages": "Langues",
@@ -427,7 +428,7 @@
         "community_post_author": "de {{username}}",
         "community_posts_count": "{{count}} publication",
         "community_posts_count_plural": "{{count}} publications",
-        "post_a_new_topic": "Publier un nouveau sujet",
+        "post_a_new_topic": "Ouvrir un nouveau topic",
         "post_first_topic": "Publier le premier sujet",
         "community_sticky": "Épinglé",
         "upload_list": {
@@ -496,7 +497,7 @@
             "view_all_from_jam": "Tout voir de la jam",
             "more_from_itchio_header": "En voir plus sur itch.io",
             "see_everything": "Tout voir",
-            "powered_by": "<s>Propulsé par</s> {{itchio_logo}}",
+            "powered_by": "<s>Propulsé par</s>{{itchio_logo}}",
             "app_learn_more": "<s>Nouveau !</s> Essayez l’app de bureau itch.io pour télécharger et gérer votre bibliothèque. <a>En savoir plus</a>"
         },
         "report_form": {
