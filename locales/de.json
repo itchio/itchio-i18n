@@ -203,7 +203,8 @@
             "first_page": "Erste Seite"
         },
         "lightboxes": {
-            "close": "Schließen"
+            "close": "Schließen",
+            "error_title": "Ihre Anforderung konnte nicht vervollständigt werden"
         },
         "project_visibility": {
             "public": "Öffentlich",
