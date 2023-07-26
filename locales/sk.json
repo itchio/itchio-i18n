@@ -29,7 +29,7 @@
             "game_development": "Herný vývoj",
             "comics": "Komiks",
             "sales": "Zľavy",
-            "bundles": "Balíčky",
+            "bundles": "Bundles",
             "game_assets": "Assety",
             "fun_games": "Zábavné hry",
             "games": "Hry",
@@ -99,7 +99,7 @@
         "browse_content_type": "Prehliadať {{content_type}}",
         "nav": {
             "all_games": "Všetky hry",
-            "bundles": "Balíčky",
+            "bundles": "Bundles",
             "game_jams": "Game jamy",
             "devlogs": "Logy Developerov",
             "community": "Komunita"
@@ -337,7 +337,7 @@
         "this_purchase_is_a_gift": "Tento nákup je darček",
         "agree_to_terms": "Dokončením platby vyjadrujete súhlas s <1> Zmluvnými podmienkami </1> a <2> Pravidlami ochrany osobných údajov </2> spoločnosti itch.io.",
         "included_files": "Zahrnuté súbory",
-        "i_already_paid_for_this": "Toto som už zaplatil ...",
+        "i_already_paid_for_this": "Za toto som už zaplatil(a)…",
         "gift_email_instructions": "Po zaplatení si vyberiete e-mail, na ktorý chcete poslať darček",
         "email_address_description": "Vaše potvrdenie o platbe bude zaslané tu",
         "your_email_address": "Vaša emailová adresa",
@@ -346,8 +346,8 @@
         "includes_steam_key": "K nákupu dostanete kľúč Steam.",
         "no_thanks_just_take_me_to_the_downloads": "Nie ďakujem, len ma zoberte do súborov na stiahnutie",
         "free_pay_what_you_want": "Tento projekt je zadarmo, ale autor prijíma vašu podporu tým, že vám umožňuje platiť to, čo považujete za spravodlivé.",
-        "buy_as_bundle_plural": "Tento produkt si môžete kúpiť ako súčasť balíka {{count}} položiek za {{price}}:",
-        "also_buy_as_bundle_plural": "Tento produkt si môžete kúpiť aj ako súčasť balíka {{count}} položiek za {{price}}:",
+        "buy_as_bundle_plural": "Tento produkt si môžeš zakúpiť ako súčasť bundle {{count}} položiek za {{price}}:",
+        "also_buy_as_bundle_plural": "Tento produkt si môžeš zakúpiť aj ako súčasť bundle {{count}} položiek za {{price}}:",
         "percent_off_until": "Všetky nákupy majú zľavu <s> {{rate}}% </s> do {{end_date}}.",
         "support_message": "Podporte rozvoj tohto projektu Donateom",
         "on_sale_notice": "Tento produkt je v predaji.",
@@ -363,11 +363,11 @@
         "layout": {
             "rate_for_jam": "Hodnotenie pre {{jam_title}}",
             "jam_submission": {
-                "rating_instructions": "Ohodnoťte a komentujte tento záznam pre jam navštívením stránky odoslania z vyššie uvedeného odkazu.",
-                "now_accepting_ratings": "Jam momentálne prijíma hodnotenie záznamov.",
+                "rating_instructions": "Ohodnoť a okomentuj tento vstup pre jam navštívením stránky príspevku z vyššie uvedeného odkazu.",
+                "now_accepting_ratings": "Jam momentálne prijíma hodnotenia vstupov.",
                 "you_rated_this_game": "Túto hru ste ohodnotili",
-                "accepting_ratiings": "Jam v súčasnosti prijíma hodnotenie príspevkov. <a> Viac informácií </a>",
-                "view_the_submission_page": "Zobraziť stránku odovzdania",
+                "accepting_ratiings": "Jam v súčasnosti prijíma hodnotenia príspevkov. <a>Zistiť viac</a>",
+                "view_the_submission_page": "Zobraziť stránku príspevku",
                 "this_is_a_submission_to_jam_title": "Toto je príspevok pre {{jam_title}}"
             },
             "footer": {
@@ -378,7 +378,7 @@
             },
             "ownership": {
                 "purchased_for_price": "Zakúpené za {{price}}",
-                "purchased_in_a_bundle_for_price": "Zakúpené v balíku za {{price}}",
+                "purchased_in_a_bundle_for_price": "Zakúpené v bundle za {{price}}",
                 "claimed": "Uplatnené",
                 "you_havent_sent_this_gift_to_anyone_yet": "Tento darček ste zatiaľ nikomu neposlali",
                 "percent_off": "Zľava {{percent}}%",
@@ -389,8 +389,8 @@
             },
             "related_games_short": "Súvisiace",
             "related_games": "Súvisiace hry",
-            "submission_to_jam": "Kompromis pre {{jam_title}}",
-            "rate_this_noun": "Ohodnoťte tento {{noun}}",
+            "submission_to_jam": "Príspevok pre {{jam_title}}",
+            "rate_this_noun": "Ohodnoť túto {{noun}}",
             "rate": "Ohodnotiť",
             "edit_rating": "Upraviť hodnotenie",
             "edit_your_rating": "Upravte svoje hodnotenie",
@@ -404,7 +404,8 @@
             "following": "Sledovanie",
             "follow": "Sledovať",
             "creator": "Tvorca",
-            "view_all_by_name": "Zobraziť všetko od používateľa {{name}}"
+            "view_all_by_name": "Zobraziť všetko od používateľa {{name}}",
+            "included_in_bundle_title": "Zahrnuté v {{bundle_title}}"
         },
         "password_required": {
             "header": "Na prezeranie tejto stránky je potrebné heslo"
@@ -464,7 +465,7 @@
             "languages": "Jazyky",
             "average_session_duration": "Priemerná relácia",
             "asset_license": "Majetková licencia",
-            "code_license": "Licencia",
+            "code_license": "Licencia kódu",
             "tags": "Štítky",
             "made_with_tools": "Vyrobené pomocou",
             "genre": "Žáner",
@@ -483,14 +484,14 @@
             "write_your_comment": "Napíšte svoj komentár…",
             "post_comment": "Pridať komentár",
             "log_in_to_leave_comment": "Ak chcete zanechať komentár, <a>prihláste sa pomocou itch.io</a>.",
-            "click_to_leave_a_comment": "Kliknutím zanecháte komentár ...",
+            "click_to_leave_a_comment": "Kliknutím zanecháš komentár…",
             "leave_a_comment": "Zanechať komentár",
             "leave_a_comment_header": "Zanechať komentár",
             "comments_header": "Komentáre"
         },
-        "empty_page_no_uploads": "Tvorca zatiaľ nič nenahral ...",
+        "empty_page_no_uploads": "Tvorca zatiaľ nič nenahral…",
         "donate_button": "Podporiť toto {{noun}}",
-        "steam_key_bundle_disclaimer": "(Poznámka: Kľúč Steam nie je zahrnutý v balíku {{bundle_title}})",
+        "steam_key_bundle_disclaimer": "(Poznámka: Steam kľúč nie je zahrnutý v {{bundle_title}})",
         "your_purchase_comes_with_a_steam_key": "Váš nákup je dodávaný s kľúčom Steam.",
         "devlog_view_all_posts": "Zobraziť všetky príspevky",
         "in_order_to_access": "Ak chcete získať prístup k tomuto {{noun}}, musíte si ho kúpiť za alebo nad minimálnu cenu {{price}}.",
@@ -515,7 +516,7 @@
         "download_header": "Stiahnuť",
         "install_instructions": "Inštrukcie pre inštaláciu",
         "more_information": "Viac informácií",
-        "empty_page": "Zdá sa, že tu nič nie je ..."
+        "empty_page": "Zdá sa, že tu nič nie je…"
     },
     "community": {
         "topic_list": {
@@ -535,7 +536,7 @@
             "views_count_2": "<s>{{count}}</s> zobrazení"
         },
         "category": {
-            "view_this_communitys_rules": "Zobraziť pravidlá tejto komunity ...",
+            "view_this_communitys_rules": "Zobraziť pravidlá tejto komunity…",
             "by_topic_author": "od používateľa {{username}}",
             "archived_flag": "Archivovaný",
             "new_flag": "Nový",
@@ -594,7 +595,7 @@
             "vote_down": "Hlasujte proti",
             "vote_up": "Hlasujte",
             "view_more_in_thread": "Zobraziť viac vo vlákne",
-            "ban": "Zablokovať...",
+            "ban": "Zablokovať…",
             "report": "Nahlásiť",
             "delete": "Odstrániť",
             "delete_topic": "Odstrániť tému",
@@ -733,7 +734,8 @@
             "publisher_header": "Vydavateľ",
             "payment_header": "Platba",
             "basics_header": "Všeobecné",
-            "thirdparty_analytics": "Analytiky tretej strany"
+            "thirdparty_analytics": "Analytiky tretej strany",
+            "press_access": "Prístup pre vydavateľstva"
         },
         "account_settings": "Nastavenia konta",
         "email_addresses": {
@@ -848,7 +850,7 @@
         "blurb_author_says": "{{author}} hovorí",
         "edit_blurb": "Upraviť výstižný text",
         "add_a_blurb": "Pridať výstižný text",
-        "remove_item_button": "Odstrániť...",
+        "remove_item_button": "Odstrániť…",
         "page_title": "{{collection_title}} - Kolekcia od {{author}}",
         "a_collection_by_author": "Kolekcia od {{author}}",
         "pending_invitation": "Čaká na Vás pozvanie stať sa prispievateľom v tejto kolekcii. <a>Viď pozvanie</a>",
@@ -870,14 +872,23 @@
             "submissions_summary_0": "<s>{{count}} príspevok</s> bol podaný medzi {{start_date}} a {{end_date}}.",
             "submissions_summary_1": "<s>{{count}} príspevky</s> boli podané medzi {{start_date}} a {{end_date}}.",
             "submissions_summary_2": "<s>{{count}} príspevkov</s> bolo podaných medzi {{start_date}} a {{end_date}}.",
-            "results": "Výsledky"
+            "results": "Výsledky",
+            "submissions": {
+                "ranked_score": "Skóre: {{score}}",
+                "view_submission_page": "Zobraziť stránku podania",
+                "by_author": "od {{author}}"
+            },
+            "sort_overall": "Celkovo",
+            "sort_by_criteria": "Podľa kritérií",
+            "empty_page_message": "Žiadne výsledky na tejto stránke",
+            "empty_message": "Výsledky zatiaľ nie sú dostupné, vráť sa neskôr"
         },
         "submissions": {
             "rated": "Hodnotené",
-            "empty_results": "Žiadny príspevok sa nezhoduje s Vaším filtrom",
+            "empty_results": "Žiaden príspevok sa nezhoduje s tvojim filtrom",
             "filter": "Filter",
             "filters": {
-                "browser_playable": "Možné hrať v prehliadači",
+                "browser_playable": "Hrateľné v prehliadači",
                 "all_submissions": "Všetky príspevky"
             },
             "help_submissions_in_need_of_ratings": "Pomôžte nám ohodnotiť príspevky, ktoré mali málo hodnotení: <a>Príspevky, ktoré je potrebné ohodnotiť</a>",
@@ -900,27 +911,62 @@
             "submissions_open_from": "Otvorené pre príspevky od {{start_date}} do {{end_date}}",
             "leave_jam": "Opustiť jam",
             "or_leave_jam": "alebo <a>Opustiť jam</a>",
-            "join_jam": "Pripojiť jam"
+            "join_jam": "Pripojiť jam",
+            "you_can_now_rate_entries": "Teraz môžeš hodnotiť vstupy zo <a>stránky príspevkov</a>",
+            "joined_instructions": "Príď na túto stránku po tom, čo jam začne, aby si odoslal(a) svoj projekt.",
+            "youve_joined": "Pripojil(a) si sa k tomuto jamu.",
+            "submit_button": "Odošli svoj projekt"
         },
         "submission": {
             "rate_submission": {
                 "you_just_voted": "Práve si zahlasoval(a).",
                 "save_rating": "Uložiť hodnotenie",
-                "save_vote": "Uložiť hlas"
-            }
+                "save_vote": "Uložiť hlas",
+                "vote_for_this_submission": "Hlasovať pre tento príspevok",
+                "rate_this_submission": "Ohodnotiť tento príspevok",
+                "private_field": "(súkromné)",
+                "vote": "Hlasovať"
+            },
+            "rated_by_people_count_0": "Zatiaľ to ohodnotil {{count}} človek",
+            "rated_by_people_count_1": "Zatiaľ to ohodnotili {{count}} ľudia",
+            "rated_by_people_count_2": "Zatiaľ to ohodnotilo {{count}} ľudí",
+            "rated_by_people_count_plural": "Zatiaľ hodnotené {{count}} ľuďmi",
+            "time_remaining_before_deadline": "{{time_duration}} pred konečným termínom",
+            "submitted_by_contributors": "Odovzdali: {{contributors}}",
+            "results_header": "Výsledky",
+            "run_project": "Spustiť projekt",
+            "link_to_itchio_page": "{{game_title}} itch.io stránka",
+            "comments": {
+                "empty_message": "Zatiaľ nikto nepridal komentár",
+                "post_comment": "Uverejniť komentár",
+                "leave_a_comment_header": "Zanechať komentár"
+            },
+            "view_project_page": "Zobraziť stránku projektu",
+            "view_game_page": "Zobraziť stránku hry",
+            "a_jam_submission": "Podanie jamu",
+            "remove_this_submission_button": "Odstrániť toto podanie",
+            "edit_this_submission_button": "Upraviť toto podanie",
+            "results_table_raw_score": "Nespracované Skóre",
+            "results_table_score": "Skóre",
+            "results_table_votes": "Hlasy",
+            "results_table_criteria": "Kritéria"
         },
         "header": {
             "links": {
                 "edit_jam": "Upraviť jam",
                 "screenshots": "Snímky obrazovky",
                 "overview": "Prehľad",
-                "community": "Komunita"
+                "community": "Komunita",
+                "submission_feed": "Feed príspevkov",
+                "submissions": "Príspevky",
+                "results": "Výsledky"
             },
             "hosted_by": "Hostiteľ: {{hosts}}"
         },
         "stats": {
             "entries": "Vstupy",
-            "ratings": "Hodnotenia"
+            "ratings": "Hodnotenia",
+            "joined": "Pripojených"
         }
     },
     "notifications": {
@@ -940,13 +986,70 @@
         "youll_be_mailed_your_access_link": "Na email vám bude zaslaný prístupový link",
         "email": "Email",
         "steam_key": "Steam kľúč",
-        "you_will_receive_files": "Vy získate:"
+        "you_will_receive_files": "Vy získate:",
+        "linked_to_account": "Prepojené s účtom",
+        "pay_price_button": "Zaplatiť {{price}}",
+        "manage_cards_link": "Môžete spravovať svoje karty z vaších <a>nastavení účtu</a>",
+        "save_credit_card_for_future_purchases": "Uložiť kreditnú kartu pre budúce nákupy",
+        "credit_or_debit_card": "Kreditná alebo debetná karta",
+        "password": "Heslo",
+        "enter_your_password_to_use_your_card": "Zadajte vaše heslo pre použitie vašej karty",
+        "new_card": "Nová karta",
+        "edit_saved_cards": "Upraviť uložené karty",
+        "choose_a_card": "Vyberte kartu"
     },
     "game_download": {
         "trouble_downloading_link": "Sťahovanie nezačína?",
         "or_share_on": "alebo zdieľajte na",
         "share_and_follow": "Zdieľať & sledovať",
-        "check_your_email_for_the_confirmation_link": "Skontrolujte svoj email pre potvrdzovací odkaz."
+        "check_your_email_for_the_confirmation_link": "Skontrolujte svoj email pre potvrdzovací odkaz.",
+        "purchase": {
+            "linked_user_message": "Tento nákup je spojený s účtom {{username}}.",
+            "percent_off": "{{percent}}% zľava",
+            "unique_url_for_your_payment": "Táto stránka má unikátnu URL pre tvoju platbu.",
+            "thank_you_for_donating_author": "Ďakujeme, že si prispel(a) na {{product_title}} od {{author}}.",
+            "thank_you_for_donating": "Ďakujeme, že si prispel(a) na {{product_title}}.",
+            "thank_you_for_purchasing_author": "Ďakujeme za zakúpenie {{product_title}} od {{author}}.",
+            "thank_you_for_purchasing": "Ďakujeme za zakúpenie {{product_title}}.",
+            "link_purchase_warning": "Nestrať svoj nákup!",
+            "link_purchase_links": "<1>Vytvor si účet</1> alebo <2>sa prihlás do itch.io</2> pre instantné prepojenie tohto nákupu.",
+            "save_this_purchase_to_your_account": "Uložiť tento nákup do svojho účtu",
+            "youve_been_gifted": "Dostali ste {{product_title}} ako darček."
+        },
+        "email_capture": {
+            "dont_lose_your_purchase": "Nestrať svoj nákup!"
+        },
+        "claim_external_key_instructions": "Pre uplatnenie klikni na tlačidlo.",
+        "claim_external_key": "Uplatniť {{key_type}} kľúč",
+        "get_external_key": "Získať {{key_type}} kľúč",
+        "already_own": "Zdá sa, že toto už vlastníš",
+        "link_account_header": "Prepojiť túto stránku stiahnutia s tvojim itch.io účtom",
+        "link_my_account": "Prepojiť môj účet",
+        "linked_user_message": "Táto stránka je prepojená s účtom {{username}}.",
+        "header": {
+            "discussion_board": "Tabuľa diskusií",
+            "return_to_project": "Vrátiť sa k projektu",
+            "view_all_my_purchases": "Zobraziť všetky moje nákupy",
+            "download_title": "Stiahnuť {{project_title}}",
+            "preorder_title": "Predobjednávka pre {{project_title}}",
+            "view_rest_in_bundle": "Zobraziť zvyšok v bundle",
+            "more_menu": "Viac",
+            "invoice": "Faktúra"
+        },
+        "version_name": "Verzia {{version_name}}",
+        "start_project_button": "Štart",
+        "play_in_your_browser": "Spustiť vo vašom prehliadači",
+        "app_banner": {
+            "app_description": "Inštaluj a spravuj svoje hry s itch.io desktopovou aplikáciou",
+            "get_the_app": "Získať aplikáciu"
+        },
+        "alternate_download": {
+            "title": "Alternatívny Režim Sťahovania",
+            "enable_alternate_download_mode": "Povoliť alternatívny režim sťahovania"
+        },
+        "recommendations_title": "Viac toho, čo by ťa mohlo zaujímať",
+        "install_instructions_intro": "Návod na stiahnutie a inštaláciu od {{username}}:",
+        "social_share_message_download": "Práve som nainštaloval(a) {{title}} od {{username}}"
     },
     "dashboard": {
         "edit_project": {
@@ -965,7 +1068,7 @@
                 "title": "Pri ukladaní vášho projektu sa vyskytol problém"
             },
             "video_field_description": "Poskytnite link na YouTube alebo Vimeo.",
-            "video_field": "",
+            "video_field": "Gameplay video alebo trailer",
             "screenshots_header": "Snímky obrazovky",
             "add_screenshots": "Pridať snímky obrazovky",
             "uploads": {
@@ -1033,7 +1136,7 @@
             "payouts_link": "Výplaty",
             "game_jams_link": "Herné jamy",
             "coop_bundles_link": "Co-op bundle",
-            "sales_bundles_link": "Výpredaje & bundle",
+            "sales_bundles_link": "Výpredaje & bundles",
             "analytics_link": "Analytika",
             "payments_link": "Platby"
         },
@@ -1063,7 +1166,7 @@
             "payments": "Platby"
         },
         "follow_itchio": "Sleduj itch.io na {{twitter}} a {{facebook}}",
-        "hello": "Hello!",
+        "hello": "Ahoj!",
         "intro_text": "Si developer? Nahraj svoju prvú hru",
         "create_new_project_button": "Vytvoriť nový projekt"
     },
@@ -1139,7 +1242,7 @@
         "jams_created_header": "Jamy, ktoré si vytvoril(a)"
     },
     "game_grid": {
-        "in_bundle": "V bundli"
+        "in_bundle": "V bundle"
     },
     "add_to_collection": {
         "add_to_new": "Pridať do novej kolekcie s názvom",
