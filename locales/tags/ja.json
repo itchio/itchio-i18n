@@ -319,6 +319,21 @@
         "emulator": "エミュレーター",
         "effects": "エフェクト",
         "dungeons-and-dragons": "ダンジョンズ&ドラゴンズ",
-        "drawing": "ドローイング"
+        "drawing": "ドローイング",
+        "mental-health": "メンタルヘルス",
+        "magical-realism": "魔術的リアリズム",
+        "lovecraft": "コズミックホラー",
+        "liminal-space": "リミナルスペース",
+        "larp": "ライブRPG",
+        "indie": "インディーズ",
+        "immersive": "没入感",
+        "idle": "放置",
+        "endless-runner": "エンドレス",
+        "ciphers": "暗号",
+        "celtic": "ケルト風",
+        "buttons": "ボタン",
+        "brushes": "ブラシ",
+        "audio": "オーディオ",
+        "asset-pack": "アセットパック"
     }
 }
