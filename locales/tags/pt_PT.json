@@ -19,6 +19,24 @@
         "4x": "4X",
         "3d-platformer": "Plataforma 3D",
         "3d": "3D",
-        "2d": "2D"
+        "2d": "2D",
+        "bullet-hell": "Inferno de Balas",
+        "breakout": "Destruir",
+        "boss-battle": "Luta Chefe",
+        "boring": "Aborrecido",
+        "board-game": "Jogos Tabuleiro",
+        "black-and-white": "Preto e Branco",
+        "beat-em-up": "Beat 'em up",
+        "automation": "Automatizaçao",
+        "atmospheric": "Atmosférico",
+        "asteroids": "Asteroides",
+        "art-book": "Livro Arte",
+        "archery": "Tiro ao Arco",
+        "arcade": "Arcada",
+        "anime": "Anime",
+        "animals": "Animais",
+        "altgame": "AltGame",
+        "alternate-history": "Historia Alternativa",
+        "aliens": "Extraterrestres"
     }
 }
