@@ -204,7 +204,8 @@
             "add_to_collection": "コレクションに追加"
         },
         "lightboxes": {
-            "close": "閉じる"
+            "close": "閉じる",
+            "error_title": "リクエストが承認されませんでした"
         },
         "countdown": {
             "years": "年",
@@ -1157,7 +1158,7 @@
             "downloads": "ダウンロード",
             "submitted_by_contributors": "{{contributors}}様",
             "rated_by_people_count": "現在 {{count}}人に評価されています",
-            "rated_by_people_count_plural": "現在 {{count}}人に評価されています",
+            "rated_by_people_count_plural": "{{count}}人のユーザーに評価されています",
             "time_remaining_before_deadline": "締め切りまであと{{time_duration}}"
         },
         "header": {
