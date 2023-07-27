@@ -165,7 +165,7 @@
         "forms": {
             "required": "Tvungen",
             "save": "Spara",
-            "email_address": "Mejladress",
+            "email_address": "E-postadress",
             "submit": "Skicka",
             "optional": "Frivillig",
             "search": "Sök",
@@ -206,7 +206,8 @@
             "add_to_collection": "Lägg till samling"
         },
         "lightboxes": {
-            "close": "Stäng"
+            "close": "Stäng",
+            "error_title": "Din begäran kunde inte slutföras"
         },
         "countdown": {
             "years": "år",
@@ -276,7 +277,7 @@
         "welcome_to_itchio": "Välkommen till itch.io!",
         "errors": {
             "accept_terms": "Du måste acceptera slutanvändaravtalet",
-            "please_enter_a_valid_email_address": "Var snäll och skriv en giltig mejladress"
+            "please_enter_a_valid_email_address": "Ange en giltig e-postadress"
         }
     },
     "user_register": {
@@ -427,8 +428,8 @@
         "community_post_author": "av {{username}}",
         "community_posts_count": "{{count}} inlägg",
         "community_posts_count_plural": "{{count}} inlägg",
-        "post_a_new_topic": "Posta ett nytt tema",
-        "post_first_topic": "Posta ett första tema",
+        "post_a_new_topic": "Skapa en ny tråd",
+        "post_first_topic": "Skapa första tråden",
         "community_sticky": "Alltid överst",
         "upload_list": {
             "preorder": "Förbeställ",
@@ -516,34 +517,34 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Det här temat är arkiverat och kan inte längre postas i",
+            "topic_is_archived": "Denna tråd är arkiverad. Den är borttagen från trådlistan och inga nya svar kan läggas till.",
             "reply": "Svara",
             "log_in_to_reply": "Logga in för att svara",
-            "unlisted_topic_notice": "<s>En moderator har avlistat detta tema.</s> Det är inte längre synligt i temalistan men du kan fortfarande svara och ändra på inlägg.",
+            "unlisted_topic_notice": "<s>En moderator har plockat bort den här tråden från listan.</s> Den syns inte i trådlistan men du kan fortfarande svara och göra redigeringar.",
             "join_the_discussion": "Delta i diskussionen. Logga in eller skapa ett gratis konto på itch.io för att fortsätta.",
-            "reply_to_someone_else": "Vill du vara någon? Klicka på <s>svara</s> under deras inlägg.",
+            "reply_to_someone_else": "Vill du svara någon annan? Klicka på <s>svara</s> under hens inlägg.",
             "this_reply_will_go_to_yourself": "Detta är ett svar till dig själv.",
-            "this_reply_will_go_to_the_topic_author": "Detta svar kommer gå till temaförfattaren, {{username}}.",
+            "this_reply_will_go_to_the_topic_author": "Detta svar kommer att gå till trådskaparen, {{username}}.",
             "new_reply": "Nytt svar",
             "remove_bookmark": "Ta bort bokmärke",
-            "bookmark": "Bokmärke",
+            "bookmark": "Bokmärk",
             "unsubscribe": "Avprenumerera",
             "subscribe": "Prenumerera",
-            "return_to_topic_list": "Återgå till temalistan",
-            "sticky": "Alltid överst",
+            "return_to_topic_list": "Återgå till trådlistan",
+            "sticky": "Fäst",
             "locked": "Låst",
             "moderation": "Moderering",
             "replies_count": "Svar: {{count}}",
             "views_count": "Visningar: {{count}}",
-            "a_topic_by_username_created_time_ago": "Ett tema av {{username}} skapat {{time_ago}}",
+            "a_topic_by_username_created_time_ago": "En tråd av {{username}} skapad {{time_ago}}",
             "next_page": "Nästa sida",
             "previous_page": "Föregående sida",
             "first_page": "Första sidan",
             "last_page": "Sista sidan",
-            "this_topic_is_locked": "Detta tema är låst",
-            "this_topic_was_locked_by_username": "Detta tema låstes av {{username}}",
-            "topic_is_autoarchived": "Detta ämne har blivit auto-arkiverat och kan inte längre bli postad i eftersom att det inte har postats några inlägg på ett tag.",
-            "create_related_topic": "Ifall du har någonting relaterat att posta överväg att <a>skapa ett ämne i {{category_name}}</a>."
+            "this_topic_is_locked": "Denna tråd är låst",
+            "this_topic_was_locked_by_username": "Denna tråd låstes av {{username}}",
+            "topic_is_autoarchived": "Denna tråd har arkiverats automatiskt och det går inte längre att svara på tråden eftersom det inte har skrivits några svar på ett tag.",
+            "create_related_topic": "Om du har något relaterat till inlägget kan du överväga att <a>skapa en tråd i {{category_name}}</a>."
         },
         "post_list": {
             "deleted_post": "Borttaget inlägg",
@@ -554,7 +555,7 @@
             "reply": "Svara",
             "like": "Gilla",
             "edit": "Redigera",
-            "delete_topic": "Ta bort tema",
+            "delete_topic": "Radera tråd",
             "delete": "Ta bort",
             "report": "Rapportera",
             "ban": "Blockera…",
@@ -573,45 +574,45 @@
             "save": "Spara",
             "post": "Posta",
             "subscribe": "Prenumerera",
-            "subscribe_to_this_topic": "Prenumerera på det här temat",
-            "subscribe_description": "Få notiser vid nya svar på temat",
+            "subscribe_to_this_topic": "Prenumerera på denna tråd",
+            "subscribe_description": "Få notifieringar vid nya svar på tråden",
             "tag_header": "Tagg",
             "remove_tag": "Ta bort tagg",
             "post_reply": "Posta svar"
         },
         "new_topic": {
             "moderator_tools": "Moderatorverktyg",
-            "sticky": "Alltid överst",
+            "sticky": "Fäst",
             "locked": "Låst",
             "moderation_options": "Alternativ",
             "i_agree_to_the_rules_above": "Jag godkänner reglerna ovan",
-            "new_topic": "Nytt tema",
-            "this_a_community_run_message_board": "Det här forumet drivs av sina medlemmar.",
-            "see_community_guidelines": "Läs <a>forum regler</a> för itch.io:s forumpolicies.",
+            "new_topic": "Ny tråd",
+            "this_a_community_run_message_board": "Det här forumet drivs av dess medlemmar.",
+            "see_community_guidelines": "Se <a>Gemenskapsriktlinjerna</a> för itch.io:s gemenskapspolicy.",
             "title": "Titel",
             "body": "Brödtext",
             "topic_tag": "Tagg",
-            "your_moderators_are": "itch.io modererar inte dessa inlägg, dina moderatorer är:",
-            "page_title": "Posta ett nytt ämne"
+            "your_moderators_are": "itch.io modererar inte dessa forum, det gör era moderatorer:",
+            "page_title": "Skapa en ny tråd"
         },
         "misc": {
-            "new_topic_button": "Nytt ämne"
+            "new_topic_button": "Ny tråd"
         },
         "category": {
-            "topics_count": "{{count}} ämne",
-            "topics_count_plural": "{{count}} ämnen",
-            "create_first_topic_button": "Skapa ett första ämne",
-            "empty_message": "Det finns inga ämnen",
-            "there_arent_any_topics_yet": "Det finns inga ämnen än",
+            "topics_count": "{{count}} tråd",
+            "topics_count_plural": "{{count}} trådar",
+            "create_first_topic_button": "Skapa den första tråden",
+            "empty_message": "Det finns inte några trådar",
+            "there_arent_any_topics_yet": "Det finns inte några trådar ännu",
             "search_community_label": "Sök på forumet",
-            "subscribe_to_new_topics": "Prenumerera på ämnen",
+            "subscribe_to_new_topics": "Prenumerera på nya trådar",
             "unsubscribe_from_topics": "Avprenumerera",
             "stats": {
-                "topics": "Ämnen"
+                "topics": "Trådar"
             },
             "rules_header": "Regler",
             "recent_posts_header": "Nya inlägg",
-            "list_header_last_topic": "Sista inlägget",
+            "list_header_last_topic": "Senaste tråden",
             "new_flag": "Ny",
             "archived_flag": "Arkiverat",
             "by_topic_author": "av {{username}}",
@@ -620,16 +621,16 @@
         "topic_list": {
             "views_count": "<s>{{count}}</s> visning",
             "views_count_plural": "<s>{{count}}</s> visningar",
-            "no_posts_yet": "Inga inlägg än",
+            "no_posts_yet": "Inga inlägg ännu",
             "replies_count": "<s>{{count}}</s> svar",
             "replies_count_plural": "<s>{{count}}</s> svar",
-            "started_by_author": "startat av {{topic_author}}",
+            "started_by_author": "startad av {{topic_author}}",
             "new_flag": "Ny",
-            "sticky_flag": "Längst upp",
+            "sticky_flag": "Fäst",
             "locked_flag": "Låst",
-            "list_header_topic_title": "Tema",
-            "list_header_last_post": "Senaste inlägg",
-            "no_replies_yet": "Inga svar än"
+            "list_header_topic_title": "Tråd",
+            "list_header_last_post": "Senaste inlägget",
+            "no_replies_yet": "Inga svar ännu"
         }
     },
     "buy_form": {
@@ -649,7 +650,7 @@
         "download_this_product_by_purchasing_it_for": "Ladda ner denna produkt genom att köpa den för {{price}} eller mer.",
         "your_email_address": "Din e-postadress",
         "email_address_description": "Din betalningsbekräftelse kommer att skickas hit",
-        "gift_email_instructions": "Du kan välja en e-post att skicka gåvan till efter du har betalat",
+        "gift_email_instructions": "Du väljer en e-postadress att skicka gåvan till efter att du har betalat.",
         "i_already_paid_for_this": "Jag har redan betalat för det här…",
         "included_files": "Inkluderade filer",
         "agree_to_terms": "Genom att slutföra betalningen godkänner du itch.io:s <1>Slutanvändaravtal</1> och <2>Integritetspolicy</2>.",
@@ -717,7 +718,7 @@
         "filter_group_tools": "Verktyg & Motorer",
         "fresh_description": "Bläddra bland en kontinuerligt uppdaterad samling projekt valda från våra medlemmars handplockade samlingar. Titta tillbaka efter nya fynd.",
         "filter_group": {
-            "more_options": "Mer inställningar",
+            "more_options": "Fler inställningar",
             "fewer_options": "Färre inställningar",
             "toggle_more_options": "Växla fler inställningar",
             "clear_filter": "Rensa filter"
@@ -812,32 +813,34 @@
             "new_password": "Nytt lösenord",
             "password_again": "Upprepa lösenord",
             "new_password_again": "Upprepa ditt nya lösenord igen",
-            "your_account_currently_doesnt_have_a_password": "Ditt konto har inget lösenord",
-            "no_password_service_name": "Ditt konto har inget lösenord för att du har registrerat med {{service_name}}."
+            "your_account_currently_doesnt_have_a_password": "Ditt konto har för närvarande inget lösenord.",
+            "no_password_service_name": "Ditt konto har inget lösenord för att du har registrerat med {{service_name}}.",
+            "please_set_a_password_on_your_account": "Ange ett lösenord för ditt konto för ökad säkerhet och möjlighet att komma åt ditt konto utan tredjepartstjänster.",
+            "updating_your_password_will_cause": "Om du uppdaterar ditt lösenord loggas du ut från alla andra webbläsarsessioner. Alla <a>OAuth-anslutningar och API-nycklar</a> förblir aktiva."
         },
         "email_addresses": {
-            "primary_email_header": "Primär e-post",
+            "primary_email_header": "Primär e-postadress",
             "your_primary_email_address": "Din primära e-postadress: {{email}}",
             "change_email_form": {
                 "new_email_address": "Ny e-postadress",
                 "current_password": "Nuvarande lösenord"
             },
             "primary_email_description": "Din primära e-post är där itch.io kommer skicka notifieringar till dig.",
-            "change_password_instructions": "När du byter din e-post måste du verifiera den nya innan du får tillgång till de spel du köpt. Vi skickar instruktioner för verifikationsprocessen. Av säkerhetsskäl måste mata in ditt nuvarande lösenord för att ändra din e-postadress.",
-            "additional_emails_header": "Ytterligare mejladresser",
-            "additional_emails_summary": "Du kan linka flera mejladresser till ditt itch.io-konto för att få tillstånd till allt köpt under de mejladresserna. Till exempel, din PayPal-adress kan vara olik din vanliga mejladress och då kan du lägga till det som en extra mejladress.",
-            "additional_emails_instructions": "Du kommer bli mejlad om verifikationsinstruktioner efter att ha lagt till en till mejladress.",
+            "change_password_instructions": "När du ändrar din e-postadress måste du verifiera den för att få tillgång till de spel du har köpt. Du kommer att få verifieringsinstruktionerna skickade till dig. Av säkerhetsskäl måste du även ange ditt nuvarande lösenord när du ändrar din e-postadress.",
+            "additional_emails_header": "Ytterligare e-postadresser",
+            "additional_emails_summary": "Du kan länka ytterligare e-postadresser till ditt itch.io-konto för att få tillgång till allt som köpts under dessa e-postadresser. Till exempel kanske du har en annan e-postadress till PayPal som du vill lägga till som en extra e-postadress.",
+            "additional_emails_instructions": "Efter att du har lagt till ytterligare en e-postadress kommer du att få verifieringsinstruktioner via e-post.",
             "add_email_form": {
-                "additional_email_address_label": "Ytterligare mejladresser",
-                "add_email_button": "Lägg till mejladress"
+                "additional_email_address_label": "Ytterligare e-postadress",
+                "add_email_button": "Lägg till e-postadress"
             },
             "additional_emails": {
-                "emails_added_header": "Mejladresser tilllagda",
-                "email_column": "Mejladress",
+                "emails_added_header": "Tillagda e-postadresser",
+                "email_column": "E-postadress",
                 "verified_column": "Verifierad",
-                "resend_verification_email_button": "skicka om verifikationsmejl",
+                "resend_verification_email_button": "skicka verifieringsmeddelande igen",
                 "email_sent_status": "mejl skickat",
-                "detach_email": "Koppla bort mejladress"
+                "detach_email": "Ta bort e-postadress"
             }
         },
         "two_factor_auth": {
@@ -846,7 +849,7 @@
             "tfa_status": "Status:{{tfa_status}}",
             "page_description": "Två-faktorsautentisering är ett extra lager av säkerhet för ditt konto för att hindra otillåtet tillträde om ditt lösenord blir stulet.",
             "page_title": "Två-faktorsautentisering",
-            "configure_twofactor_authentication": "Konfigurera två-faktorsautentisering.",
+            "configure_twofactor_authentication": "Konfigurera tvåfaktorsautentisering",
             "learn_more_about_twofactor_authentication": "Lär dig mer om tvåfaktorsautentisering"
         }
     },
@@ -860,7 +863,7 @@
         "enter_your_password_to_use_your_card": "Mata in ditt lösenord för att använda ditt kort",
         "password": "Lösenord",
         "buying_as": "Köper som",
-        "gift_instructions": "Detta köp är en gåva. Du kommer att kunna ange mottagarens e-post efter betalningen är genomförd.",
+        "gift_instructions": "Detta köp är en gåva. Du kommer att kunna ange mottagarens e-postadress efter att köpet har slutförts.",
         "credit_or_debit_card": "Kredit- eller kontokort",
         "save_credit_card_for_future_purchases": "Spara kreditkort för framtida köp",
         "manage_cards_link": "Du kan hantera dina kort från dina <a>kontoinställningar</a>",
@@ -872,7 +875,7 @@
         "you_will_receive_files": "Du kommer att få:",
         "steam_key": "Steamkod",
         "linked_to_account": "Länkat till konto",
-        "email": "E-post",
+        "email": "E-postadress",
         "youll_be_mailed_your_access_link": "Du kommer att få ett mejl med åtkomstlänk",
         "full_name": "Fullständigt namn",
         "name_as_it_appears_on_card": "Som det står på kortet"
@@ -890,7 +893,7 @@
             "title": "Alternativt nedladdningssätt",
             "region_message": "Det är känt att itch.io:s CDN är blockerad i vissa regioner. Om dina nedladdningar inte startar så kan du testa att aktivera alternativt nedladdningssätt och försöka igen."
         },
-        "check_your_email_for_the_confirmation_link": "Kolla din e-post för bekräftelselänk.",
+        "check_your_email_for_the_confirmation_link": "Kontrollera din e-post för bekräftelselänken.",
         "preorder_instructions": "Det här projektet har filer som inte släppts än. Kom tillbaka till den här sidan när skaparen har släppt filerna för att ladda ner dem.",
         "app_banner": {
             "get_the_app": "Skaffa appen",
@@ -925,7 +928,7 @@
         "access_it": "Få tillgång till det",
         "email_capture": {
             "dont_lose_your_purchase": "Förlora inte ditt köp!",
-            "provide_email_instructions": "Skriv in din e-postadress så att köpet kopplas till den så att du kan återfå sidan om du någonsin skulle tappa bort den."
+            "provide_email_instructions": "Ange din e-postadress för att koppla den till ditt köp så att du kan återfå köpet om du någonsin tappar bort den här sidan."
         },
         "purchase": {
             "youve_been_gifted": "Då har fått {{product_title}} i gåva.",
@@ -938,7 +941,7 @@
             "thank_you_for_donating_author": "Tack för att du donerar till {{product_title}} av {{author}}.",
             "unique_url_for_your_payment": "Denna sida har en unik URL för ditt köp.",
             "access_latest_files_from_this_page": "Du kan alltid få tag på de senaste filerna från den här sidan.",
-            "receipt_support_information": "Du skall också ha fått ett mejl med en länk till den här sidan. Om du någonsin tappar bort URL:en till den kan du begära att få den mejlad igen från <a>hjälpsidan</a>.",
+            "receipt_support_information": "Du bör också ha fått ett e-postmeddelande med en länk till den här sidan. Om du skulle tappa bort länken till den här sidan kan du begära att få den skickad till dig via e-post från <a>supportsidan</a>.",
             "payment_summary": "Du har betalat {{payment_price}} för detta den {{payment_date}}.",
             "payment_summary_with_email": "Du betalade {{payment_price}} för detta den {{payment_date}} kopplat till e-postadressen {{email_address}}.",
             "percent_off": "{{percent}}% REA",
@@ -1264,7 +1267,7 @@
         "default_title": "{{username}}:s samling",
         "add_button": "Lägg till samling",
         "manage_collections_link": "Hantera samlingar",
-        "private_collection_option": "Privat samling —  Bara du kan se dess innehåll",
+        "private_collection_option": "Privat samling — Bara du kan se innehållet",
         "about_this_project_label": "Om det här projektet"
     },
     "game_grid": {
@@ -1360,25 +1363,25 @@
     },
     "nags": {
         "unverified_email": {
-            "title": "Din e-postadress måste vara verifierad"
+            "title": "Din e-postadress har inte verifierats"
         }
     },
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "Skriv in ett nytt lösenord för kontot {{account_name}}.",
         "link_sent": "En länk för återställning av lösenord har skickats till ditt kontos primära adress.",
-        "enter_your_email": "Ange e-postaddressen du regrestrerade dig med och vi skickar dig en länk för att återställa lösenordet.",
+        "enter_your_email": "Ange e-postadressen du registrerade dig med så skickar vi en länk till dig för att återställa lösenordet.",
         "reset_password": "Återställ lösenord"
     },
     "user": {
         "verify_email": {
-            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Du kan inte verifiera din email när du är loggad in på ett annat konto.",
-            "your_email_address_has_been_verified": "Din email address har blivit verifierad.",
-            "we_were_unable_to_verify_your_email_address": "Vi kunde inte verifiera din Email-address",
-            "submit_button": "Verifiera din email",
-            "page_title": "Verifiera din Email",
-            "you_will_automatically_be_logged_in": "Du kommer att bli automatiskt inloggad när du har verifierad din Email.",
-            "link_purchases": "Om du har tidigare gjort ett köp med just din Email så kommer det automatisk att vara associerad till ditt konto.",
-            "confirm_verification": "Verifiera din email {{email_address}} för kontot{{account}}. Det är nödvändigt att verifiera din email för att kunna göra mer saker på Itch.io."
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Du kan inte verifiera en e-postadress när du är inloggad på ett annat konto",
+            "your_email_address_has_been_verified": "Din e-postadress har verifierats",
+            "we_were_unable_to_verify_your_email_address": "Det gick inte att verifiera din e-postadress",
+            "submit_button": "Bekräfta e-postverifiering",
+            "page_title": "Verifiera din e-postadress",
+            "you_will_automatically_be_logged_in": "Du kommer automatiskt att loggas in på ditt konto efter att du har verifierat din e-postadress.",
+            "link_purchases": "Om du tidigare har köpt något med enbart din e-postadress kommer dessa köp automatiskt att kopplas till ditt konto.",
+            "confirm_verification": "Verifiera e-postadressen {{email_address}} för kontot {{account}}. Många funktioner på itch.io kräver att du verifierar din e-postadress."
         }
     },
     "notifications": {
