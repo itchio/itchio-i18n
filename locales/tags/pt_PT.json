@@ -1,1 +1,24 @@
-{}
+{
+    "tags": {
+        "brushes": "Pincéis de pintura",
+        "brain-training": "Treinamento cerebral",
+        "boys-love": "Amor entre meninos",
+        "bara": "Bara",
+        "backgrounds": "Fundo",
+        "augmented-reality": "Realidade aumentada",
+        "audio": "Som",
+        "asset-pack": "Pacote de ativos",
+        "animation": "Animação",
+        "adventure": "Aventura",
+        "adult": "Adulto",
+        "action-rpg": "RPG de ação",
+        "action-adventure": "Ação-Aventura",
+        "action": "Ação",
+        "abstract": "Abstrato",
+        "8-bit": "8-Bit",
+        "4x": "4X",
+        "3d-platformer": "Plataforma 3D",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
