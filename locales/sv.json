@@ -18,7 +18,7 @@
             "upload_game": "Ladda upp ett spel",
             "devlogs": "Utvecklarloggar",
             "community": "Forum",
-            "search_placeholder": "Sök efter spel eller spelutvecklare",
+            "search_placeholder": "Sök efter spel eller kreatörer",
             "search": "Sök",
             "log_in": "Logga in",
             "register": "Registrera",
@@ -163,7 +163,7 @@
             "days": "Dagar eller mer"
         },
         "forms": {
-            "required": "Tvungen",
+            "required": "Obligatoriskt",
             "save": "Spara",
             "email_address": "E-postadress",
             "submit": "Skicka",
@@ -771,7 +771,7 @@
             "privacy": "Integritet",
             "data_export": "Dataexport",
             "api_keys": "API-nycklar",
-            "oauth_applications": "OAuth appar",
+            "oauth_applications": "OAuth-applikationer",
             "thirdparty_analytics": "Analysverktyg från tredjepart"
         },
         "profile": {
@@ -1116,7 +1116,7 @@
             "no_image": "Ingen bild"
         },
         "analytics_summary_header": "Sammanfattning",
-        "intro_text": "Är du en utvecklare? Ladda upp ditt första spel",
+        "intro_text": "Är du utvecklare? Ladda upp ditt första spel",
         "not_a_developer_escape": "Nä, ta mig tillbaka till spelflödet",
         "recently_updated_pages_header": "Nyss uppdaterade sidor",
         "new_devlog": "Utvecklarblogg",
@@ -1387,7 +1387,7 @@
     },
     "notifications": {
         "filter_follows": "Följare",
-        "filter_payments": "Betalsmetoder",
+        "filter_payments": "Betalningar",
         "filter_replies": "Svar",
         "filter_all": "Allt",
         "filter": "Filter",
