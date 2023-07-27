@@ -651,7 +651,7 @@
         "download_this_product_by_purchasing_it_for": "Download this product by purchasing it for {{price}} or more.",
         "your_email_address": "Your email address",
         "email_address_description": "Your payment confirmation will be sent here",
-        "gift_email_instructions": "You'll pick an email to send gift to after you've payed",
+        "gift_email_instructions": "You'll pick an email to send gift to after you've paid.",
         "i_already_paid_for_this": "I already paid for this…",
         "included_files": "Included files",
         "agree_to_terms": "By completing a payment you agree to itch.io's <1>Terms of Service</1> and <2>Privacy Policy</2>.",
