@@ -484,7 +484,8 @@
                 "you_rated_this_game": "Du har betygsatt detta spel",
                 "now_accepting_ratings": "Jammet tar för närvarande emot betyg för bidragen.",
                 "rating_instructions": "Betygsätt och kommentera på det här bedraget för jammet genom att besöka jammets bidragsida via länken ovan."
-            }
+            },
+            "included_in_bundle_title": "Följer med i {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "Dela detta projekt",
