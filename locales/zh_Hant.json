@@ -353,7 +353,8 @@
             "years": "年"
         },
         "lightboxes": {
-            "close": "關閉"
+            "close": "關閉",
+            "error_title": "未能完成您的請求"
         },
         "pager": {
             "next": "下一頁",
