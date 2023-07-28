@@ -643,7 +643,7 @@
         "download_this_product_by_purchasing_it_for": "支付不少于{{price}}用来下载此商品。",
         "your_email_address": "您的邮箱地址",
         "email_address_description": "您的付款确认信息将会发送至这里",
-        "gift_email_instructions": "您将在付款后选择一个邮箱发送礼物",
+        "gift_email_instructions": "付款后，您将选择一个电子邮件发送礼物。",
         "i_already_paid_for_this": "我已经为此付出了代价……",
         "included_files": "包含的文件",
         "agree_to_terms": "完成付款即表示您同意 itch.io 的 <1>服务条款</1>和<2>隐私政策</2>。",
