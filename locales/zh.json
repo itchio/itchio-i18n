@@ -461,7 +461,7 @@
         "agree_to_terms": "完成付款即表示您同意 itch.io 的 <1>服务条款</1>和<2>隐私政策</2>。",
         "included_files": "包含的文件",
         "i_already_paid_for_this": "我已经为此付了钱…",
-        "gift_email_instructions": "您将在付款后选择一个邮箱发送礼物",
+        "gift_email_instructions": "付款后，您将选择一个电子邮件发送礼物。",
         "email_address_description": "付款确认信息将会发送到这个邮箱",
         "your_email_address": "您的邮箱地址",
         "download_this_product_by_purchasing_it_for": "支付不少于{{price}}的金额以下载此商品。",
