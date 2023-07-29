@@ -12,7 +12,7 @@
             "cookies": "Cookies"
         },
         "header": {
-            "browse": "Prehliadať",
+            "browse": "Prehľadávať",
             "browse_games": "Prehľadávať hry",
             "game_jams": "Game Jamy",
             "upload_game": "Nahrať hru",
@@ -114,7 +114,7 @@
             "created_projects": "{{project_list}} Vytvorený"
         },
         "meta_description": "itch.io je jednoduchá cesta na nájdenie, stiahnutie a distrubovanie indie hier online. Či ste už tvorca, ktorý chce uploadnuť svoju hru alebo niekto kto hľadá niečo nové na hranie, itch.io je tu pre vás.",
-        "page_title": "Sitahnúť najnovšie indie hry",
+        "page_title": "Stiahnúť najnovšie indie hry",
         "latest_featured_games": "Najnovšie Najlepšie Hry"
     },
     "misc": {
@@ -440,7 +440,7 @@
             "this_file_will_be_available_when_the_creator_uploads_it": "Tento súbor bude k dispozícii, keď ho autor nahrá",
             "version_name": "Verzia {{version_name}}",
             "if_you_pay_price_or_more": "ak platíte {{price}} alebo viac",
-            "play_in_browser": "Hrať v prehliadači",
+            "play_in_browser": "Hraj v prehliadači",
             "download": "Stiahnuť",
             "preorder": "Predobjednať"
         },
@@ -925,7 +925,11 @@
                 "vote_for_this_submission": "Hlasovať pre tento príspevok",
                 "rate_this_submission": "Ohodnotiť tento príspevok",
                 "private_field": "(súkromné)",
-                "vote": "Hlasovať"
+                "vote": "Hlasovať",
+                "you_voted_ago": "Zahlasoval(a) si {{timestamp}}.",
+                "you_will_be_able_to_rate_if_you_submit": "Tento vstup budeš môcť ohodnotiť, ak sa pripojíš do toho jamu.",
+                "sign_up_to_vote": "<a>Prihláste sa s účtom itch.io</a> aby ste mohli hlasovať a zanechávať komentáre.",
+                "sign_up_to_rate": "<a>Prihláste sa s účtom itch.io</a> aby ste mohli hodnotiť a zanechávať komentáre."
             },
             "rated_by_people_count_0": "Zatiaľ to ohodnotil {{count}} človek",
             "rated_by_people_count_1": "Zatiaľ to ohodnotili {{count}} ľudia",
@@ -949,7 +953,9 @@
             "results_table_raw_score": "Nespracované Skóre",
             "results_table_score": "Skóre",
             "results_table_votes": "Hlasy",
-            "results_table_criteria": "Kritéria"
+            "results_table_criteria": "Kritéria",
+            "play_game": "Zahrať hru",
+            "downloads": "Stiahnutia"
         },
         "header": {
             "links": {
@@ -967,6 +973,10 @@
             "entries": "Vstupy",
             "ratings": "Hodnotenia",
             "joined": "Pripojených"
+        },
+        "screenshots": {
+            "loading_more": "Načítavajú sa ďalšie snímky obrazovky…",
+            "empty_message": "Zatiaľ tu nie sú nahrané žiadne snímky obrazovky"
         }
     },
     "notifications": {
@@ -996,7 +1006,8 @@
         "enter_your_password_to_use_your_card": "Zadajte vaše heslo pre použitie vašej karty",
         "new_card": "Nová karta",
         "edit_saved_cards": "Upraviť uložené karty",
-        "choose_a_card": "Vyberte kartu"
+        "choose_a_card": "Vyberte kartu",
+        "buying_as": "Kupujem ako"
     },
     "game_download": {
         "trouble_downloading_link": "Sťahovanie nezačína?",
@@ -1014,7 +1025,9 @@
             "link_purchase_warning": "Nestrať svoj nákup!",
             "link_purchase_links": "<1>Vytvor si účet</1> alebo <2>sa prihlás do itch.io</2> pre instantné prepojenie tohto nákupu.",
             "save_this_purchase_to_your_account": "Uložiť tento nákup do svojho účtu",
-            "youve_been_gifted": "Dostali ste {{product_title}} ako darček."
+            "youve_been_gifted": "Dostali ste {{product_title}} ako darček.",
+            "payment_summary": "Zaplatili ste za to {{payment_date}} {{payment_price}}.",
+            "access_latest_files_from_this_page": "Z tejto stránky môžeš mať vždy prístup k najnovším súborom."
         },
         "email_capture": {
             "dont_lose_your_purchase": "Nestrať svoj nákup!"
@@ -1049,7 +1062,9 @@
         },
         "recommendations_title": "Viac toho, čo by ťa mohlo zaujímať",
         "install_instructions_intro": "Návod na stiahnutie a inštaláciu od {{username}}:",
-        "social_share_message_download": "Práve som nainštaloval(a) {{title}} od {{username}}"
+        "social_share_message_download": "Práve som nainštaloval(a) {{title}} od {{username}}",
+        "access_comes_with_key": "Tvoj prístup prichádza s kľúčom {{key_type}}!",
+        "payment_comes_with_key": "Tvoja platba prichádza s kľúčom {{key_type}}!"
     },
     "dashboard": {
         "edit_project": {
@@ -1061,7 +1076,8 @@
             },
             "access_control": {
                 "disable_downloads_option": "Zakázať nové stiahnutia & zakúpenia",
-                "password_label": "Heslo"
+                "password_label": "Heslo",
+                "unlisted_option": "Nezaradené vo vyhľadávaní & prehliadaní"
             },
             "error_dialog": {
                 "confirm_button": "Rozumiem",
@@ -1125,7 +1141,12 @@
             "project_url_field": "URL Projektu",
             "title_field": "Názov",
             "edit_project_title": "Upraviť projekt",
-            "create_a_new_project_title": "Vytvoriť nový projekt"
+            "create_a_new_project_title": "Vytvoriť nový projekt",
+            "errors": {
+                "invalid_image": "Prosím, uprav svoj obrázok alebo skús iný",
+                "invalid_file": "Nastala nejaká chyba so súborom, ktorý si vybral"
+            },
+            "payment_warning_info": "Pokiaľ nastavíš minimálnu cenu nad 0, nikto nebude schopný si stiahnuť tvoj projekt. <a>Upraviť účet</a>"
         },
         "dashboard": "Nástenka",
         "recently_updated_pages_header": "Nedávno aktualizované stránky",
@@ -1163,7 +1184,8 @@
             "followers": "Sledovatelia",
             "downloads": "Stiahnutia",
             "views": "Zobrazenia",
-            "payments": "Platby"
+            "payments": "Platby",
+            "gross_revenue": "Hrubý príjem"
         },
         "follow_itchio": "Sleduj itch.io na {{twitter}} a {{facebook}}",
         "hello": "Ahoj!",
