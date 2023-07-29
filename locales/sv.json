@@ -167,7 +167,7 @@
             "save": "Spara",
             "email_address": "E-postadress",
             "submit": "Skicka",
-            "optional": "Frivillig",
+            "optional": "Valfritt",
             "search": "Sök",
             "form_errors": "Var god kontrollera informationen du matat in",
             "confirm": "Bekräfta"
@@ -402,7 +402,7 @@
             "release_status": "Status",
             "category": "Kategori",
             "platforms": "Plattformar",
-            "publisher": "Publicist",
+            "publisher": "Utgivare",
             "release_date": "Släppdatum",
             "rating": "Betyg",
             "authors": "Skapare",
@@ -749,7 +749,7 @@
         "navigation": {
             "basics_header": "Grunderna",
             "payment_header": "Betalning",
-            "publisher_header": "Publicist",
+            "publisher_header": "Utgivare",
             "contact_header": "Kontaktinformation",
             "misc_header": "Diverse",
             "developer_header": "Utvecklare",
@@ -829,7 +829,7 @@
             "primary_email_description": "Din primära e-post är där itch.io kommer skicka notifieringar till dig.",
             "change_password_instructions": "När du ändrar din e-postadress måste du verifiera den för att få tillgång till de spel du har köpt. Du kommer att få verifieringsinstruktionerna skickade till dig. Av säkerhetsskäl måste du även ange ditt nuvarande lösenord när du ändrar din e-postadress.",
             "additional_emails_header": "Ytterligare e-postadresser",
-            "additional_emails_summary": "Du kan länka ytterligare e-postadresser till ditt itch.io-konto för att få tillgång till allt som köpts under dessa e-postadresser. Till exempel kanske du har en annan e-postadress till PayPal som du vill lägga till som en extra e-postadress.",
+            "additional_emails_summary": "Du kan länka ytterligare e-postadresser till ditt itch.io-konto för att få tillgång till allt som köpts under de e-postadresserna. Till exempel kanske du har en annan e-postadress till PayPal som du vill lägga till som en extra e-postadress.",
             "additional_emails_instructions": "Efter att du har lagt till ytterligare en e-postadress kommer du att få verifieringsinstruktioner via e-post.",
             "add_email_form": {
                 "additional_email_address_label": "Ytterligare e-postadress",
