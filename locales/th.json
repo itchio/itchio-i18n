@@ -1023,7 +1023,7 @@
         },
         "submission": {
             "rated_by_people_count": "จัดอันดับโดย {{count}} คน จนถึงตอนนี้",
-            "rated_by_people_count_plural": "จัดอันดับโดย {{count}} คน จนถึงตอนนี้",
+            "rated_by_people_count_plural": "มีผู้ให้คะแนนแล้ว {{count}} คน",
             "ranked_with_vote_count": "ได้อันดับ {{ordinal_rank}} ด้วย {{count}} โหวต",
             "ranked_from_count": "จัดอันดับจาก <s>{{count}} เรตติ้ง</s>",
             "ranked_from_count_plural": "จัดอันดับจาก <s>{{count}} เรตติ้ง</s>",
