@@ -225,7 +225,7 @@
     },
     "browse": {
         "results_count": "{{count}} ผลลัพธ์",
-        "results_count_plural": "{{count}} ผลการค้นหา",
+        "results_count_plural": "{{count}} ผลลัพธ์",
         "sort_popular": "ยอดนิยม",
         "sort_new_and_popular": "ใหม่ยอดนิยม",
         "sort_top_sellers": "ขายดี",
@@ -322,7 +322,8 @@
             "years": "ปี"
         },
         "lightboxes": {
-            "close": "ปิด"
+            "close": "ปิด",
+            "error_title": "ไม่สามารถดำเนินการตามคำขอของคุณได้"
         },
         "collection_button": {
             "add_to_collection": "เพิ่มไปยังคอลเลกชัน"
@@ -1072,7 +1073,7 @@
         },
         "screenshots": {
             "empty_message": "ยังไม่มีการอัปโหลดภาพหน้าจอใดๆ",
-            "loading_more": "กำลังโหลดภาพหน้าจอเพิ่มเติม..."
+            "loading_more": "กำลังโหลดภาพหน้าจอเพิ่มเติม…"
         }
     },
     "dashboard": {
@@ -1236,12 +1237,21 @@
             "analytics": "วิเคราะห์",
             "metadata": "คำอธิบายข้อมูล (Metadata)",
             "devlog": "บันทึกผู้พัฒนา",
-            "edit_project": "แก้ไขโปรเจกต์"
+            "edit_project": "แก้ไขโปรเจกต์",
+            "interact": "มีปฏิสัมพันธ์"
+        },
+        "blog_posts": {
+            "new_post": "โพสต์ใหม่"
         }
     },
     "notifications": {
         "unseen_label": "ใหม่",
-        "page_title": "การแจ้งเตือน"
+        "page_title": "การแจ้งเตือน",
+        "filter_follows": "ผู้ติดตาม",
+        "filter_payments": "ธุรกรรม",
+        "filter_replies": "การตอบกลับ",
+        "filter_all": "ทั้งหมด",
+        "filter": "ตัวกรอง"
     },
     "library": {
         "redeem_button": "แลกโค้ด",
@@ -1306,7 +1316,8 @@
         "filter_collections_tab": "คอลเลกชัน",
         "filter_new_projects_tab": "โปรเจกต์ใหม่",
         "filter_everything_tab": "ทั้งหมด",
-        "filter_own_activity_tab": "กิจกรรมของฉัน"
+        "filter_own_activity_tab": "กิจกรรมของฉัน",
+        "filter_posts_tab": "โพสต์"
     },
     "jams": {
         "games_created": "<s>{{count}} เกม</s> ได้รับการสร้างขึ้นเป็นผู้จัด Jams บน itch.io",
@@ -1343,5 +1354,23 @@
     },
     "game_grid": {
         "in_bundle": "ในบันเดิล"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "โปรดป้อนรหัสผ่านใหม่สำหรับบัญชี {{account_name}}",
+        "link_sent": "ลิงก์สำหรับตั้งค่ารหัสผ่านใหม่ได้ส่งไปยังอีเมลหลักของบัญชีของคุณแล้ว",
+        "enter_your_email": "ใส่ที่อยู่อีเมลที่คุณได้ลงทะเบียนไว้และเราจะส่งอีเมลพร้อมกับลิงก์รีเซ็ตรหัสผ่านให้แก่คุณ",
+        "reset_password": "ตั้งค่ารหัสผ่านใหม่"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "คุณไม่สามารถยืนยันที่อยู่อีเมลได้เมื่อเข้าสู่ระบบด้วยบัญชีอื่นแล้ว",
+            "your_email_address_has_been_verified": "ที่อยู่อีเมลของคุณได้รับการยืนยันแล้ว",
+            "we_were_unable_to_verify_your_email_address": "เราไม่สามารถยืนยันที่อยู่อีเมลของคุณได้",
+            "submit_button": "ยืนยันอีเมล",
+            "page_title": "ยืนยันที่อยู่อีเมล",
+            "you_will_automatically_be_logged_in": "คุณจะเข้าสู่ระบบด้วยบัญชีของคุณทันทีที่ยืนยันที่อยู่อีเมลเรียบร้อยแล้ว",
+            "link_purchases": "หากคุณได้ทำการซื้อใด ๆ โดยใช้ที่อยู่อีเมลของคุณเพียงอย่างเดียว การซื้อจะถูกเชื่อมโยงเข้ากับบัญชีของคุณโดยอัตโนมัติ",
+            "confirm_verification": "โปรดยืนยันที่อยู่อีเมล {{email_address}} สำหรับบัญชี {{account}} คุณจำเป็นต้องยืนยันบัญชีเพื่อดำเนินการใด ๆ บน itch.io"
+        }
     }
 }
