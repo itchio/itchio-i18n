@@ -96,7 +96,8 @@
             "add_to_collection": "Додати до колекції"
         },
         "lightboxes": {
-            "close": "Закрити"
+            "close": "Закрити",
+            "error_title": "Ваш запит не вдалося виконати"
         },
         "countdown": {
             "years": "років",
@@ -141,7 +142,7 @@
         "your_email_address": "Ваш email",
         "email_address_description": "Підвердження вашого платежу буде надіслане сюди",
         "gift_email_instructions": "Після покупки ви вкажете email на який відправити подарунок",
-        "i_already_paid_for_this": "Ця покупка вже оплачена...",
+        "i_already_paid_for_this": "Ця покупка вже оплачена…",
         "included_files": "Містить файли",
         "agree_to_terms": "Виконуючи платіж, ви погоджуєтесь з <1>Умовами обслуговування</1> та <2>Політикою конфіденційності</2> itch.io.",
         "this_purchase_is_a_gift": "Це покупка в подарунок",
@@ -166,7 +167,7 @@
         "empty_collection_message": "Ця колекція наразі порожня.",
         "a_collection_by_author": "Колекція {{author}}",
         "page_title": "{{collection_title}} - колекція {{author}}",
-        "remove_item_button": "Видалити...",
+        "remove_item_button": "Видалити…",
         "blurb_author_says": "{{author}} каже",
         "remove_confirm": "Ви впевнені, що бажаєте прибрати це з колекції"
     },
@@ -174,7 +175,15 @@
         "commonly_tagged_with": "Зазвичай мають теги:",
         "page_title": "Найпопулярніші теги",
         "find_tag": "Знайти тег",
-        "no_description_yet": "Наразі опис відсутній"
+        "no_description_yet": "Наразі опис відсутній",
+        "all_tags": "Усі мітки",
+        "types": {
+            "tool": "Інструменти",
+            "event": "Події",
+            "platform": "Платформи",
+            "style": "Стилі",
+            "genre": "Жанри"
+        }
     },
     "itchio": "itch.io",
     "layout": {
@@ -678,7 +687,7 @@
             "topics_count_0": "{{count}} тема",
             "topics_count_1": "{{count}} теми",
             "topics_count_2": "{{count}} тем",
-            "view_this_communitys_rules": "Переглянути правила цієї спільноти..."
+            "view_this_communitys_rules": "Переглянути правила цієї спільноти…"
         },
         "topic_list": {
             "no_posts_yet": "Пости відсутні",
@@ -815,7 +824,11 @@
             "password": "Пароль",
             "new_password": "Новий пароль",
             "password_again": "Повторіть пароль",
-            "new_password_again": "Повторіть новий пароль"
+            "new_password_again": "Повторіть новий пароль",
+            "please_set_a_password_on_your_account": "Будь ласка, встановіть пароль на свій обліковий запис для підвищення безпеки та доступу до свого облікового запису без сторонніх сервісів.",
+            "your_account_currently_doesnt_have_a_password": "Ваш обліковий запис наразі не має пароля.",
+            "no_password_service_name": "Ваш обліковий запис наразі не має пароля, оскільки ви зареєструвалися через {{service_name}}.",
+            "updating_your_password_will_cause": "Оновлення пароля призведе до виходу з усіх інших сеансів браузера. Будь-які <a>OAuth-з'єднання та ключі API</a> залишаться активними."
         },
         "email_addresses": {
             "primary_email_header": "Основний email",
@@ -841,6 +854,15 @@
                 "additional_email_address_label": "Додаткові адреси електронних пошт",
                 "add_email_button": "Додати Email"
             }
+        },
+        "two_factor_auth": {
+            "status_off": "Викл.",
+            "status_on": "Вкл.",
+            "tfa_status": "Статус:{{tfa_status}}",
+            "page_description": "Двофакторна автентифікація - це додатковий рівень захисту вашого облікового запису, який допоможе запобігти несанкціонованому доступу, у разі якщо ваш пароль буде викрадено.",
+            "page_title": "Двофакторна автентифікація",
+            "configure_twofactor_authentication": "Налаштуйте двофакторну автентифікацію",
+            "learn_more_about_twofactor_authentication": "Дізнайтеся більше про двофакторну автентифікацію"
         }
     },
     "stripe_checkout": {
@@ -1088,7 +1110,7 @@
         },
         "screenshots": {
             "empty_message": "Ще не вивантажено жодного знятка",
-            "loading_more": "Вантажу більше знятків..."
+            "loading_more": "Вантажу більше скріншотів…"
         }
     },
     "dashboard": {
@@ -1254,7 +1276,10 @@
             "interact": "Взаємодія"
         },
         "page_title": "Панель розробника",
-        "dashboard": "Панель"
+        "dashboard": "Панель",
+        "blog_posts": {
+            "new_post": "Новий допис"
+        }
     },
     "add_to_collection": {
         "dialog_title": "Додати {{project_title}} до колекції",
@@ -1332,7 +1357,8 @@
             "collection_added_count_0": "Додано {{count}} предмет.",
             "collection_added_count_1": "Додано {{count}} предмети.",
             "collection_added_count_2": "Додано {{count}} предметів."
-        }
+        },
+        "filter_posts_tab": "Дописи"
     },
     "library": {
         "page_title": "Моя бібліотека",
@@ -1372,6 +1398,29 @@
     },
     "notifications": {
         "unseen_label": "Нові",
-        "page_title": "Повідомлення"
+        "page_title": "Повідомлення",
+        "filter_follows": "Підписки",
+        "filter_payments": "Платежі",
+        "filter_replies": "Відповіді",
+        "filter_all": "Усі",
+        "filter": "Фільтри"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Будь ласка, вкажіть новий пароль для облікового запису {{account_name}}.",
+        "link_sent": "Посилання для зміни пароля було надіслано на основну адресу вашого облікового запису.",
+        "enter_your_email": "Введіть адресу електронної адреси, з якою ви зареєструвалися, і ми надішлемо вам посилання для зміни пароля.",
+        "reset_password": "Скинути пароль"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Ви не можете підтвердити адресу електронної пошти, якщо увійшли в інший обліковий запис",
+            "your_email_address_has_been_verified": "Вашу електронну адресу підтверджено",
+            "we_were_unable_to_verify_your_email_address": "Ми не змогли підтвердити вашу електронну адресу",
+            "submit_button": "Підтвердити верифікацію електронної адреси",
+            "page_title": "Підтвердіть свою електронну адресу",
+            "you_will_automatically_be_logged_in": "Ви автоматично увійдете до свого облікового запису після підтвердження адреси електронної пошти.",
+            "link_purchases": "Якщо ви раніше здійснювали будь-які придбання, використовуючи лише адресу електронної пошти, вони будуть автоматично пов'язані з вашим обліковим записом.",
+            "confirm_verification": "Будь ласка, підтвердіть перевірку адреси електронної пошти {{email_address}} для облікового запису {{account}}. Підтвердження адреси електронної пошти необхідне для виконання багатьох дій на itch.io."
+        }
     }
 }
