@@ -66,10 +66,10 @@
             "view_profile": "个人主页",
             "settings": "设置",
             "log_out": "退出",
-            "account": "帐号",
+            "account": "账号",
             "create": "创作",
             "explore": "发现",
-            "account_menu_tooltip": "帐号菜单",
+            "account_menu_tooltip": "账号菜单",
             "game_jams": "Game Jam",
             "dashboard": "创作中心",
             "posts": "帖子"
@@ -154,7 +154,7 @@
             "collection_summary": "含有{{count}}项作品的收藏夹。"
         },
         "profile_notice": {
-            "description": "您的帐号还没有头像。上传一个，让别人更容易一眼认出你吧！",
+            "description": "您的账号还没有头像。上传一个，让别人更容易一眼认出你吧！",
             "add_a_profile_image": "添加头像"
         },
         "email_warning": {
@@ -166,7 +166,7 @@
         "global_feed_tab": "全部动态",
         "my_feed_tab": "我的动态",
         "to_follow": {
-            "to_follow_description": "以下是一些您可能感兴趣的帐号。",
+            "to_follow_description": "以下是一些您可能感兴趣的账号。",
             "people_to_follow_header": "可关注的用户"
         },
         "to_rate": {
@@ -307,7 +307,7 @@
                 "cover_description": "itch.io 在网站的其他区域链接此项目时将使用此封面图像。必填（最低尺寸：315x250，推荐尺寸：630x500）",
                 "confirm_remove": "您确定要删除封面图片吗？"
             },
-            "payment_warning_info": "如果您将最低价格设置为0以上，用户将无法下载您的作品。<a>修改帐号信息</a>",
+            "payment_warning_info": "如果您将最低价格设置为0以上，用户将无法下载您的作品。<a>修改账号信息</a>",
             "payment_warning_header": "您还没有设置付款方式",
             "content_guidelines_info": "在发布项目之前，请查看我们的<a>质量指南</a>",
             "content_guidelines_header": "确保每个人都能找到您的页面",
@@ -541,12 +541,12 @@
             "add_profile_image": "设置头像"
         },
         "post_list": {
-            "post_from_suspended_account": "来自已停用帐号的帖子",
+            "post_from_suspended_account": "来自已停用账号的帖子",
             "edited": "（已编辑）",
             "pinned_post": "置顶贴",
             "pinned_reply": "置顶回复",
-            "suspended_account": "已停用帐号",
-            "deleted_account": "已删除帐号",
+            "suspended_account": "已停用账号",
+            "deleted_account": "已删除账号",
             "vote_down": "反对",
             "vote_up": "支持",
             "view_more_in_thread": "查看更多",
@@ -587,7 +587,7 @@
             "this_reply_will_go_to_the_topic_author": "此回复将转到主题作者 {{username}}。",
             "this_reply_will_go_to_yourself": "这将回复您自己。",
             "reply_to_someone_else": "想回复别人？点击他们发言下方的<s>回复</s>。",
-            "join_the_discussion": "登录或免费创建一个 itch.io 帐号以加入讨论。",
+            "join_the_discussion": "登录或免费创建一个 itch.io 账号以加入讨论。",
             "unlisted_topic_notice": "<s>一位管理员已将此主题隐藏。</s>此主题将不会在主题列表中被显示，但您仍可以回复并进行修改。",
             "log_in_to_reply": "登录以回复",
             "reply": "回复",
@@ -861,7 +861,7 @@
             "password": "密码",
             "username_or_email": "用户名或邮箱"
         },
-        "log_in_to_your_itchio_account": "登录到您的 itch.io 帐号"
+        "log_in_to_your_itchio_account": "登录到您的 itch.io 账号"
     },
     "blog": {
         "tag_filter": "按 {{tag}} 过滤。<a>清除标签</a>",
@@ -886,8 +886,8 @@
                 "other_participants_can_rate": "其他参加本次 Jam 的用户将会对您的作品打分。",
                 "you_will_be_able_to_rate_if_you_submit": "向本次 Jam 提交作品即可对本作品打分。",
                 "participate_to_rate_message": "要给这个作品打分，您必须<a>登录到 itch.io</a> 并提交自己的作品。任何用户都可以发表评论。",
-                "sign_up_to_vote": "<a>注册 itch.io 帐号</a>以给作品评分与留言。",
-                "sign_up_to_rate": "<a>注册 itch.io 帐号</a>以给作品打分与留言。",
+                "sign_up_to_vote": "<a>注册 itch.io 账号</a>以给作品评分与留言。",
+                "sign_up_to_rate": "<a>注册 itch.io 账号</a>以给作品打分与留言。",
                 "unavailable_to_rate": "您尚未提交自己的作品，因此无权为该项目打分。您仍可在下方留言。",
                 "owner_message": "这是您自己的作品，因此无法打分。本次 Jam 的其他参加者可以为您的作品打分。",
                 "not_open_yet": "本次 Jam 的提交时段尚未结束。打分将于{{start_date}}开始。",
@@ -1001,7 +1001,7 @@
     },
     "game_download": {
         "purchase": {
-            "linked_user_message": "此次购买与帐号 {{username}} 关联。",
+            "linked_user_message": "此次购买与账号 {{username}} 关联。",
             "percent_off": "{{percent}}% 折扣",
             "payment_summary_with_email": "您曾在{{payment_date}}使用邮箱 {{email_address}} 以{{payment_price}}购买此商品。",
             "payment_summary": "您已在{{payment_date}}支付{{payment_price}}。",
@@ -1013,8 +1013,8 @@
             "thank_you_for_purchasing_author": "感谢您购买 {{author}} 的 {{product_title}}。",
             "thank_you_for_purchasing": "感谢您购买 {{product_title}}。",
             "link_purchase_warning": "不要丢失您的购买！",
-            "link_purchase_links": "<1>创建帐号</1>或<2>登录到 itch.io</2> 以关联此购买。",
-            "save_this_purchase_to_your_account": "将此次购买存入您的帐号",
+            "link_purchase_links": "<1>创建账号</1>或<2>登录到 itch.io</2> 以关联此购买。",
+            "save_this_purchase_to_your_account": "将此次购买存入您的账号",
             "youve_been_gifted": "您被赠予了 {{product_title}}。"
         },
         "email_capture": {
@@ -1029,12 +1029,12 @@
         "get_external_key": "获取 {{key_type}} 序列号",
         "access_existing_copy": "您无法申领其他副本，但可以访问现有副本。",
         "already_own": "您似乎已拥有此商品",
-        "must_link_account_description": "您必须先将此页面连接到 itch.io 帐号才能下载。帐号是免费的，并且可以让您持续关注自己收藏的游戏。",
-        "link_account_description": "您可以将此下载页面连接到自己的 itch.io 帐号，这样您就不必担心会失去它了。它将与您拥有的其他商品一起出现。",
-        "link_account_header": "将此下载页面连接到您的 itch.io 帐号",
+        "must_link_account_description": "您必须先将此页面连接到 itch.io 账号才能下载。账号是免费的，并且可以让您持续关注自己收藏的游戏。",
+        "link_account_description": "您可以将此下载页面连接到自己的 itch.io 账号，这样您就不必担心会失去它了。它将与您拥有的其他商品一起出现。",
+        "link_account_header": "将此下载页面连接到您的 itch.io 账号",
         "log_in_to_link": "登录以链接",
-        "link_my_account": "关联我的帐号",
-        "linked_user_message": "此页面与帐号 {{username}} 相关联。",
+        "link_my_account": "关联我的账号",
+        "linked_user_message": "此页面与账号 {{username}} 相关联。",
         "header": {
             "discussion_board": "讨论板",
             "return_to_project": "返回项目",
@@ -1080,7 +1080,7 @@
         "paying_price_vat_for": "将为此项支付{{price}}（含税）：",
         "paying_price_for": "支付{{price}}：",
         "pay_price_button": "支付{{price}}",
-        "manage_cards_link": "您可以在<a>帐号设置</a>管理您的银行卡",
+        "manage_cards_link": "您可以在<a>账号设置</a>管理您的银行卡",
         "save_credit_card_for_future_purchases": "保存信用卡以备将来付款使用",
         "credit_or_debit_card": "信用卡或借记卡",
         "gift_instructions": "本次购买的是礼物。结账后您可填写收件人的邮箱。",
@@ -1129,7 +1129,7 @@
             "set_password": "设置密码",
             "reset_password": "重设密码",
             "please_set_a_password_on_your_account": "为了提高账号安全性，同时也为方便您不经过第三方服务登录，请为您的账号设置一个密码。",
-            "your_account_currently_doesnt_have_a_password": "您的帐号目前没有密码。",
+            "your_account_currently_doesnt_have_a_password": "您的账号目前没有密码。",
             "no_password_service_name": "您的账号目前没有密码，因为您是通过 {{service_name}} 注册它的。",
             "updating_your_password_will_cause": "更改您的密码将导致其他浏览器会话被注销。已有的 <a>OAuth 授权和 API 密钥</a>将保持可用状态。"
         },
@@ -1147,18 +1147,18 @@
             "account_type_developer": "开发和上传游戏",
             "account_type_gamer": "游玩和下载游戏",
             "account_type_description": "账号使用目的",
-            "account_type": "帐号类型",
-            "twitter_description": "个人资料页面上展示的 Twitter 帐号",
+            "account_type": "账号类型",
+            "twitter_description": "个人资料页面上展示的 Twitter 账号",
             "website_description": "可选，将在个人资料页面上显示",
             "website": "网站",
             "display_name_description": "显示名称会代替您的用户名，留空默认为用户名",
             "display_name": "显示名称",
             "profile_image_description": "将会与您的名字一起显示在网站上（方形尺寸）",
             "profile_image": "头像",
-            "url_description": "您帐号的公开网址",
+            "url_description": "您账号的公开网址",
             "you_recently_changed_your_username": "您最近更改了用户名",
             "change_username": "更改用户名/网址",
-            "username_description": "可用于登录您的帐号，同时将成为您主页网址的一部分",
+            "username_description": "可用于登录您的账号，同时将成为您主页网址的一部分",
             "username": "用户名",
             "page_header": "个人信息",
             "language_description": "itch.io 用户界面的语言",
@@ -1172,7 +1172,7 @@
             "data_export": "数据导出",
             "privacy": "隐私政策",
             "press_access": "媒体支持",
-            "connected_accounts": "关联帐号",
+            "connected_accounts": "关联账号",
             "email_notifications": "邮件通知",
             "billing_address": "帐单地址",
             "credit_cards": "信用卡",
@@ -1193,7 +1193,7 @@
             "payment_header": "支付",
             "basics_header": "基本"
         },
-        "account_settings": "帐号设置",
+        "account_settings": "账号设置",
         "two_factor_auth": {
             "status_off": "已禁用",
             "status_on": "已开启",
@@ -1360,16 +1360,16 @@
             "your_email_address_has_been_verified": "您的电子邮箱地址已通过验证",
             "we_were_unable_to_verify_your_email_address": "我们无法验证您的电子邮箱地址",
             "submit_button": "确认电子邮箱验证",
-            "confirm_verification": "请确认您要验证关联到帐号 {{account}} 的邮箱 {{email_address}}。您必须验证电子邮箱地址才能在 itch.io 上执行各种操作。",
-            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "您已登录到另一个帐号，无法验证电子邮箱地址",
+            "confirm_verification": "请确认您要验证关联到账号 {{account}} 的邮箱 {{email_address}}。您必须验证电子邮箱地址才能在 itch.io 上执行各种操作。",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "您已登录到另一个账号，无法验证电子邮箱地址",
             "page_title": "验证您的邮箱地址",
-            "you_will_automatically_be_logged_in": "验证电子邮箱地址后将自动登录到您的帐号。",
-            "link_purchases": "您之前只使用此电子邮件地址进行过的任何购买将自动关联到您的帐号。"
+            "you_will_automatically_be_logged_in": "验证电子邮箱地址后将自动登录到您的账号。",
+            "link_purchases": "您之前只使用此电子邮件地址进行过的任何购买将自动关联到您的账号。"
         }
     },
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "请为账号 {{account_name}} 设置一个新密码。",
-        "link_sent": "密码重置链接已发送到您帐号的主邮箱地址。",
+        "link_sent": "密码重置链接已发送到您账号的主邮箱地址。",
         "enter_your_email": "请输入您注册账号时使用的电子邮箱，我们会向您发送重置密码页面的链接。",
         "reset_password": "重置密码"
     }
