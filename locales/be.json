@@ -44,7 +44,8 @@
         "recommended_for_you": "Рэкамендавана для вас",
         "with_demo": "З дема-версіяй",
         "search_games_creators": "Пошук гульняў і стваральнікаў",
-        "view_all_blog_posts": "Паглядзець усе абнаўленні"
+        "view_all_blog_posts": "Паглядзець усе абнаўленні",
+        "recommendations_based_on": "Заснавана на рэчах, якія вы куплялі, спампоўвалі, й ацэньвалі"
     },
     "layout": {
         "header": {
@@ -117,7 +118,8 @@
             "password": "Пароль",
             "your_email_address": "Ваш email",
             "log_in": "Увайсьці",
-            "create_account": "Стварыць акаўнт"
+            "create_account": "Стварыць акаўнт",
+            "interest_developer": "Я зацікаўлены(-ая) ў распаўсюджаньні кантэнта на itch.io"
         },
         "page_title": "Зарэгістраваць акаўнт",
         "create_an_account_on_itchio": "Стварыць акаўнт на itch.io"
@@ -137,7 +139,17 @@
         },
         "you_are_logged_out": "Вы выйшлі з акаўнта",
         "page_title": "Увайсьці",
-        "create_a_new_account": "Стварыць новы акаўнт"
+        "create_a_new_account": "Стварыць новы акаўнт",
+        "errors": {
+            "please_enter_a_valid_email_address": "Калі ласка, увядзі правільны емэйл адрэс"
+        },
+        "intent": {
+            "collection": "Вам патрэбны акаўнт на itch.io каб дадаць у калекцыю.",
+            "follow_username": "Вам патрэбны акаўнт на itch.io каб падпісацца на <1>{{username}}</1>.",
+            "follow": "Вам патрэбны акаўнт на itch.io каб падпісацца на кагосьці.",
+            "rate_game": "Вам патрэбны акаўнт на itch.io каб ацаніць гульню.",
+            "comment": "Вам патрэбны акаўнт на itch.io каб пакінуць каментар."
+        }
     },
     "misc": {
         "release_statuses": {
@@ -199,7 +211,8 @@
             "other": "Рознае",
             "soundtrack": "Альбомы і саўндтрэкі",
             "game_mod": "Гульнявыя моды",
-            "game": "Гульні"
+            "game": "Гульні",
+            "physical_game": "Фізічныя гульні"
         },
         "loading_more_ellip": "Загружаем больш…",
         "more_ellip": "Больш…",
@@ -213,7 +226,8 @@
             "years": "гадоў"
         },
         "lightboxes": {
-            "close": "Зачыніць"
+            "close": "Зачыніць",
+            "error_title": "Ваш запыт ня можа быць выкананы"
         },
         "collection_button": {
             "add_to_collection": "Дадаць у калекцыю"
