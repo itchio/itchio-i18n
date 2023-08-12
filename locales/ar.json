@@ -385,7 +385,7 @@
         "also_available_header": "متوفر أيضًا على",
         "will_be_available_in": "سيكون متوفر خلال {{time_remaining}}.",
         "download_or_claim_button": "تحميل أو تحصيل",
-        "download_now_button": "تحميل الأن",
+        "download_now_button": "تنزيل الآن",
         "preorder_button": "أطلبه مسبقًا الآن",
         "buy_now_button": "إشتري الآن",
         "name_your_own_price": "ضع سعرك",
@@ -684,7 +684,7 @@
         "download_this_product_by_purchasing_it_for": "حمل هذا المُنتج بشراءه ب{{price}} أو أكثر.",
         "your_email_address": "بريدك الإلكتروني",
         "email_address_description": "سيتم إرسال تأكيد الدفع الخاص بك هنا",
-        "gift_email_instructions": "ستختار بريدًا إلكترونيًا لإرسال الهدية إليه بعد الدفع",
+        "gift_email_instructions": "ستختار بريدًا إلكترونيًا لإرسال الهدية إليه بعد الدفع.",
         "i_already_paid_for_this": "لقد دفعت مسبقا لهذا…",
         "included_files": "الملفات المُرفقة",
         "agree_to_terms": "بإكمال الدفع، فإنك توافق على <1>شروط الخدمة</1> و <2>سياسة الخصوصية</2>.",
@@ -734,7 +734,7 @@
         "filter_group_session_length": "متوسط طول الجلسة",
         "filter_group_multiplayer": "خصائص اللعب الجماعي",
         "filter_group_accessibility_features": "خصائص الوصول",
-        "type_downloadable": "يمكن تحميله",
+        "type_downloadable": "يمكن تنزيله",
         "filter_group_release_status": "حالة الإصدار",
         "filter_group_misc": "متنوع",
         "filter_group_collection": "مجموعة",
@@ -790,7 +790,8 @@
             "password_again": "كلمة المرور مرة أخرى",
             "new_password_again": "كلمة المرور الجديدة مرة أخرى",
             "your_account_currently_doesnt_have_a_password": "حسابك لا يحتوي على كلمة المرور حاليا.",
-            "no_password_service_name": "حسابك لا يحتوي على كلمة المرور حاليا لأنك مسجل مع {{service_name}}."
+            "no_password_service_name": "حسابك لا يحتوي على كلمة المرور حاليا لأنك مسجل مع {{service_name}}.",
+            "please_set_a_password_on_your_account": "قم بتعيين كلمة سر لحسابك لحماية أفضل حتى تتمكن أيضا من ولوج حسابك دون طرف-ثالث."
         },
         "email_addresses": {
             "primary_email_header": "البريد الإلكتروني الأساسي",
@@ -845,6 +846,9 @@
             "api_keys": "مفاتيح واجهة برمجة التطبيقات",
             "oauth_applications": "مصادقة التطبيقات",
             "thirdparty_analytics": "تحليلات الطرف الثالث"
+        },
+        "two_factor_auth": {
+            "tfa_status": "الحالة:{{tfa_status}}"
         }
     },
     "stripe_checkout": {
@@ -856,7 +860,7 @@
         "edit_saved_cards": "عدل بطاقات الدفع المحفوظة",
         "card_ending_last4": "تنتهي في {{last4}}",
         "new_card": "بطاقة دفع جديدة",
-        "enter_your_password_to_use_your_card": "أدخل  كلمة المرور لكي تستخدم بطاقتك",
+        "enter_your_password_to_use_your_card": "أدخل كلمة المرور لكي تستخدم بطاقتك",
         "password": "كلمة المرور",
         "buying_as": "تُشتري كـ",
         "gift_instructions": "هذا الشراء هدية. ستتمكن من إرسال البريد الإلكتروني للمُهدي بعد الدفع.",
@@ -1128,7 +1132,7 @@
         },
         "screenshots": {
             "empty_message": "لم يتم تحميل أي لقطات شاشة حتى الآن",
-            "loading_more": "جارٍ تحميل المزيد من لقطات الشاشة ..."
+            "loading_more": "جارٍ تحميل المزيد من لقطات الشاشة…"
         }
     },
     "collection": {
@@ -1156,8 +1160,10 @@
             "tool": "أدوات",
             "event": "فعاليات",
             "platform": "منصات",
-            "genre": "الأنواع"
-        }
+            "genre": "الأنواع",
+            "style": "الأنماط"
+        },
+        "all_tags": "كل الأصناف"
     },
     "buy_form_popup": {
         "author_line": "<1>بواسطة</1> {{author}}",
@@ -1326,6 +1332,9 @@
             "more": "المزيد",
             "devlog": "منشور",
             "distribute": "التوزيع"
+        },
+        "blog_posts": {
+            "new_post": "منشور جديد"
         }
     },
     "library": {
@@ -1406,7 +1415,8 @@
             "verify_your_email_address": "التحقق من عنوان بريدك الإلكتروني"
         },
         "my_feed_tab": "خلاصتي",
-        "latest_featured_games_header": "أحدث الألعاب المميزة"
+        "latest_featured_games_header": "أحدث الألعاب المميزة",
+        "filter_posts_tab": "المنشورات"
     },
     "add_to_collection": {
         "add_reason": "أضف هذا المشروع إلى مجموعة لحفظه لوقت لاحق.",
@@ -1456,12 +1466,23 @@
     },
     "notifications": {
         "unseen_label": "جديد",
-        "page_title": "الاشعارات"
+        "page_title": "الاشعارات",
+        "filter_replies": "الردود",
+        "filter_all": "الكل"
     },
     "user": {
         "verify_email": {
             "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "لا يمكنك التحقق من بريد إلكتروني مسجل في حساب اخر",
-            "your_email_address_has_been_verified": "تم التحقق من بريدك الإلكتروني"
+            "your_email_address_has_been_verified": "تم التحقق من بريدك الإلكتروني",
+            "we_were_unable_to_verify_your_email_address": "لم نتمكن من تأكيد بريدك الالكتروني",
+            "page_title": "تأكيد بريدك الالكتروني",
+            "you_will_automatically_be_logged_in": "سيتم تسجيل دخولك لحسابك تلقائيا بعد تأكيد بريدك الالكتروني."
         }
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "أدخل كلمة السر الجديدة من فضلك {{account_name}}.",
+        "link_sent": "تم ارسال رابط استعادة كلمة السر الى البريد المرتبط بحسابك.",
+        "enter_your_email": "أدخل بريدك الالكتروني الذي سجلت به وسنرسل لك رابط استعادة كلمة السر الخاصة بك.",
+        "reset_password": "استعادة كلمة السر"
     }
 }
