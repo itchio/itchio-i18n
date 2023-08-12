@@ -295,6 +295,16 @@
         "augmented-reality": "الواقع المعزز",
         "audio": "صوت",
         "animation": "رسوم متحركة",
-        "adult": "بالغ"
+        "adult": "بالغ",
+        "kung-fu": "كونغ فو",
+        "icons": "أيقونات",
+        "homebrew": "ألعاب الهواة",
+        "historical": "تاريخية",
+        "hexcrawl": "خريطة سداسية",
+        "hex-based": "خلايا سداسية",
+        "hentai": "هنتاي",
+        "gui": "واجهة المستخدم الرسومية (GUI)",
+        "gmless": "بدون سيد اللعبة",
+        "fbx": "FBX"
     }
 }
