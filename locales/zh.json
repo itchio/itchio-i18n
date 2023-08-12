@@ -469,7 +469,7 @@
         "includes_steam_key": "您将在购买时获赠 Steam 序列号。",
         "no_thanks_just_take_me_to_the_downloads": "不用了，请带我去下载页面",
         "free_pay_what_you_want": "此作品是免费的，但创作者接受您支付一个您认为恰当的金额作为支持。",
-        "buy_as_bundle_plural": "您可以以{{price}}购买包含本产品的游戏包（共含{{count}}件产品）：",
+        "buy_as_bundle_plural": "您可以以{{price}}的价格购买包含本商品的游戏包（内含{{count}}件产品）：",
         "also_buy_as_bundle_plural": "您也可以用{{price}}购买包含本产品的游戏包（共含{{count}}件产品）：",
         "percent_off_until": "在 {{end_date}} 前的所有购买均有<s>{{rate}}%</s>优惠。",
         "support_message": "通过捐赠支持该项目的开发",
@@ -541,7 +541,7 @@
             "add_profile_image": "设置头像"
         },
         "post_list": {
-            "post_from_suspended_account": "来自已停用账号的帖子",
+            "post_from_suspended_account": "发布者账号已停用",
             "edited": "（已编辑）",
             "pinned_post": "置顶贴",
             "pinned_reply": "置顶回复",
@@ -560,7 +560,7 @@
             "edits_count": "（已被编辑{{count}}次）",
             "edits_count_plural": "（已被编辑{{count}}次）",
             "edit_blocks": "编辑屏蔽列表",
-            "post_from_blocked_account": "作者已被您屏蔽",
+            "post_from_blocked_account": "发布者已被你屏蔽",
             "deleted_post": "帖子已删除"
         },
         "topic": {
@@ -763,7 +763,7 @@
         "web_games_header": "离线网页游戏",
         "updates_description": "不只您安装的游戏会自动更新，客户端本身也会随着新特性的推出而自动更新。使用我们新的命令行工具的游戏会使用<em>增量补丁</em>，确保您每次更新只需下载有改动的内容。",
         "updates_header": "保持更新",
-        "browse_description": "在 itch.io，创作者们掌控他们项目的页面设计。itch 的内置浏览器让您在下载和安装游戏的同时可以欣赏<a>创作者们独特的页面设计</a>。",
+        "browse_description": "在 itch.io，每个项目的页面设计都由它们的创作者掌控。内置浏览器让您在下载与安装游戏的同时可以欣赏<a>创作者们设计的独特页面</a>。",
         "browse_header": "以创作者所意料的方式浏览游戏",
         "read_the_app_guide": "阅读应用指南",
         "updates": "更新",
@@ -792,9 +792,9 @@
         "share_message": "itch.io 是一个免费的独立游戏在线发布平台。",
         "learn_more_about": "了解更多内容：",
         "upload_your_game_description": "您可以将自己的独立游戏免费上传到 <s>itch.io</s>。我们会托管您的游戏、截图及其他可下载内容，并提供可靠快速的下载途径。",
-        "browser_game_description": "通过在 <s>itch.io</s> 上发布您的网页游戏获得收入。游戏的本体将会嵌入它的主页里；玩家如果喜欢您的游戏，可以向您捐赠任意金额。",
+        "browser_game_description": "通过将您的网页游戏托管在 <s>itch.io</s> 上来获得收入。游戏的本体将会嵌入它的主页里；玩家如果喜欢您的游戏，可以向您捐赠任意金额。",
         "learn_more": "了解更多",
-        "host_a_sale_description": "通过开展可自由设置时段的促销活动，以推广您的游戏并获得更高销量。",
+        "host_a_sale_description": "通过开展可自由设置时段的促销活动，以推广您的游戏并获得更高的销量。",
         "host_a_sale": "发起促销活动",
         "track_your_game": "追踪您的游戏数据",
         "design_your_games_page": "设计您的游戏页面",
