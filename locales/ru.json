@@ -12,7 +12,7 @@
             "search": "Поиск",
             "log_in": "Вход",
             "register": "Зарегистрироваться",
-            "dashboard": "Кабинет",
+            "dashboard": "Доска управления",
             "jams": "Геймджемы",
             "notifications_count_0": "{{count}} уведомление",
             "notifications_count_1": "{{count}} уведомления",
@@ -34,13 +34,13 @@
         },
         "footer": {
             "about": "О сайте",
-            "faq": "ЧаВО",
+            "faq": "Часто задаваемые вопросы",
             "blog": "Блог",
             "contact_us": "Связаться",
             "terms": "Условия использования",
             "directory": "Каталог",
             "privacy": "Приватность",
-            "cookies": "Cookie"
+            "cookies": "Файлы куки"
         },
         "user_menu": {
             "log_out": "Выход",
@@ -660,7 +660,7 @@
         "download_this_product_by_purchasing_it_for": "Получите этот продукт, заплатив {{price}} или больше.",
         "your_email_address": "Ваш эл. адрес",
         "email_address_description": "Туда будет выслано подтверждение вашей покупки",
-        "gift_email_instructions": "Вы можете выбрать эл. адрес, на который отправить подарок, после оплаты",
+        "gift_email_instructions": "Вы можете выбрать эл. адрес, на который отправить подарок, после оплаты.",
         "i_already_paid_for_this": "Я уже платил за это…",
         "included_files": "Входящие файлы",
         "agree_to_terms": "Совершая платёж, вы соглашаетесь с <1>условиями использования</1> и <2>политикой приватности</2> itch.io.",
