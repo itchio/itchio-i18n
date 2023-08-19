@@ -55,7 +55,8 @@
             "feed": "Mijn feed",
             "account_menu_tooltip": "Accountmenu",
             "view_profile": "Profiel bekijken",
-            "game_jams": "Game-jams"
+            "game_jams": "Game-jams",
+            "posts": "Berichten"
         }
     },
     "index": {
@@ -123,12 +124,12 @@
         "your_purchase_comes_with_a_steam_key": "Je aankoop wordt geleverd met een Steam-sleutel.",
         "steam_key_bundle_disclaimer": "(Let op: Steam-sleutel niet inbegrepen in {{bundle_title}})",
         "donate_button": "{{noun}} ondersteunen",
-        "empty_page_no_uploads": "Deze maker heeft nog niets geüpload...",
+        "empty_page_no_uploads": "Deze maker heeft nog niets geüpload…",
         "comments": {
             "comments_header": "Reacties",
             "leave_a_comment_header": "Plaats een reactie",
             "leave_a_comment": "Plaats een reactie",
-            "click_to_leave_a_comment": "Aanklikken om een reactie te plaatsen...",
+            "click_to_leave_a_comment": "Aanklikken om een reactie te plaatsen…",
             "log_in_to_leave_comment": "<a>Log in op itch.io</a> om een reactie achter te laten.",
             "post_comment": "Plaats reactie",
             "write_your_comment": "Schrijf je reactie…"
@@ -147,7 +148,7 @@
             "genre": "Genre",
             "made_with_tools": "Gemaakt met",
             "tags": "Labels",
-            "code_license": "Licentie",
+            "code_license": "Codelicentie",
             "asset_license": "Asset-licensie",
             "average_session_duration": "Gemiddelde sessieduur",
             "languages": "Talen",
@@ -159,7 +160,7 @@
             "links": "Links",
             "mentions": "Vermeldingen"
         },
-        "empty_page": "Er lijkt hier niets te zijn...",
+        "empty_page": "Er lijkt hier niets te zijn…",
         "more_information": "Meer informatie",
         "download_header": "Downloaden",
         "unavailable": "Deze {{game_noun}} is momenteel niet beschikbaar",
@@ -239,7 +240,8 @@
                 "you_rated_this_game": "Je hebt deze game beoordeeld",
                 "now_accepting_ratings": "Deze jam accepteert momenteel beoordelingen voor inzendingen.",
                 "rating_instructions": "Beoordeel en reageer op deze inzending voor de jam door de inzendingspagina te bezoeken met de link hierboven."
-            }
+            },
+            "included_in_bundle_title": "Inbegrepen in {{bundle_title}}"
         },
         "after_download": {
             "share_this_project": "Deel dit project",
@@ -362,7 +364,8 @@
             "add_to_collection": "Toevoegen aan collectie"
         },
         "lightboxes": {
-            "close": "Sluiten"
+            "close": "Sluiten",
+            "error_title": "Uw verzoek kon niet voltooid worden"
         },
         "countdown": {
             "years": "jaren",
@@ -556,7 +559,7 @@
             "delete_topic": "Onderwerp verwijderen",
             "delete": "Verwijderen",
             "report": "Rapporteren",
-            "ban": "Verbannen...",
+            "ban": "Verbannen…",
             "view_more_in_thread": "Bekijk meer van discussie",
             "vote_up": "Omhoog stemmen",
             "vote_down": "Omlaag stemmen",
@@ -614,7 +617,7 @@
             "new_flag": "Nieuw",
             "archived_flag": "Gearchiveerd",
             "by_topic_author": "door {{username}}",
-            "view_this_communitys_rules": "Bekijk de regels van deze community..."
+            "view_this_communitys_rules": "Bekijk de regels van deze community…"
         },
         "topic_list": {
             "views_count": "<s>{{count}}</s> view",
@@ -648,8 +651,8 @@
         "download_this_product_by_purchasing_it_for": "Download dit product door het te kopen voor {{price}} of meer.",
         "your_email_address": "Je email-adres",
         "email_address_description": "Je betalingsbevestiging zal hierheen gestuurd worden",
-        "gift_email_instructions": "Je kan een email kiezen om je cadeau naar te versturen nadat je hebt betaald",
-        "i_already_paid_for_this": "Ik heb hier al voor betaald...",
+        "gift_email_instructions": "Je kan een email kiezen om je cadeau naar te versturen nadat je hebt betaald.",
+        "i_already_paid_for_this": "Ik heb hier al voor betaald…",
         "included_files": "Bijgeleverde bestanden",
         "agree_to_terms": "Door een betaling te voltooien, aanvaard je itch.io's <1>Gebruikersvoorwaarden</1> en <2>Privacyverklaring</2>.",
         "this_purchase_is_a_gift": "Deze betaling is een cadeau",
@@ -674,7 +677,7 @@
         "pending_invitation": "Je hebt een openstaande uitnodiging om een bijdrager van deze collectie te worden. <a>Bekijk uitnodiging</a>",
         "a_collection_by_author": "Een collectie door {{author}}",
         "page_title": "{{collection_title}} - Collectie door {{author}}",
-        "remove_item_button": "Verwijderen...",
+        "remove_item_button": "Verwijderen…",
         "add_a_blurb": "Aanbeveling toevoegen",
         "edit_blurb": "Aanbeveling bewerken",
         "blurb_author_says": "{{author}} zegt",
@@ -714,7 +717,7 @@
         "filter_group_misc": "Overige",
         "filter_group_collection": "Collectie",
         "filter_group_tools": "Hulpmiddelen & Engines",
-        "fresh_description": "Blader door een constant updatende set projecten, afkomstig van een gecureerde collectie van onze leden. Kom later terug voor nieuwe toevoegingen.",
+        "fresh_description": "Blader door een constant updatende set projecten, afkomstig van gecureerde collecties van onze leden. Kom later terug voor nieuwe toevoegingen.",
         "filter_group": {
             "more_options": "Meer Opties",
             "fewer_options": "Minder Opties",
@@ -727,7 +730,15 @@
         "page_title": "Top-labels",
         "find_tag": "Vind een label",
         "commonly_tagged_with": "Vaak gelabeld met",
-        "no_description_yet": "Nog geen omschrijving"
+        "no_description_yet": "Nog geen omschrijving",
+        "all_tags": "Alle labels",
+        "types": {
+            "tool": "Hulpmiddelen",
+            "event": "Evenementen",
+            "platform": "Platforms",
+            "style": "Stijlen",
+            "genre": "Genres"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>door</1> {{author}}",
@@ -802,7 +813,11 @@
             "password": "Wachtwoord",
             "new_password": "Nieuw wachtwoord",
             "password_again": "Herhaal wachtwoord",
-            "new_password_again": "Herhaal nieuwe wachtwoord"
+            "new_password_again": "Herhaal nieuwe wachtwoord",
+            "please_set_a_password_on_your_account": "Stel een wachtwoord in op je account voor verbeterde beveiliging en om in te kunnen loggen zonder gebruik van derdepartijdiensten.",
+            "your_account_currently_doesnt_have_a_password": "Je account heeft op dit moment geen wachtwoord.",
+            "no_password_service_name": "Je account heeft op dit moment nog geen wachtwoord, omdat je je geregistreerd hebt met {{service_name}}.",
+            "updating_your_password_will_cause": "Wanneer je je wachtwoord veranderd, word je in alle andere browsersessies uitgelogd. <a>OAuth-verbindingen en API-sleutels</a> blijven actief."
         },
         "email_addresses": {
             "primary_email_header": "Primaire email",
@@ -828,6 +843,15 @@
                 "email_sent_status": "email verstuurd",
                 "detach_email": "Email ontkoppelen"
             }
+        },
+        "two_factor_auth": {
+            "status_off": "Uit",
+            "status_on": "Aan",
+            "tfa_status": "Status: {{tfa_status}}",
+            "page_description": "Twee-factor-authenticatie is een extra laag beveiliging voor je account, die helpt met ongeoorloofde toegang tot je account als je wachtwoord wordt gestolen.",
+            "page_title": "Twee-factor-authenticatie",
+            "configure_twofactor_authentication": "Configureer twee-factor-authenticatie",
+            "learn_more_about_twofactor_authentication": "Meer info over twee-factor-authenticatie"
         }
     },
     "stripe_checkout": {
@@ -1061,7 +1085,7 @@
         },
         "screenshots": {
             "empty_message": "Er zijn nog geen screenshots geüpload",
-            "loading_more": "Meer screenshots aan het laden..."
+            "loading_more": "Meer screenshots aan het laden…"
         }
     },
     "dashboard": {
@@ -1227,6 +1251,9 @@
             "rewards": "Beloningen",
             "admins": "Admins",
             "more": "Meer"
+        },
+        "blog_posts": {
+            "new_post": "Nieuw bericht"
         }
     },
     "add_to_collection": {
@@ -1301,7 +1328,8 @@
             "collection_summary_plural": "Een collectie met {{count}} voorwerpen.",
             "collection_added_count": "{{count}} voorwerp toegevoegd.",
             "collection_added_count_plural": "{{count}} voorwerpen toegevoegd."
-        }
+        },
+        "filter_posts_tab": "Berichten"
     },
     "library": {
         "page_title": "Mijn bibliotheek",
@@ -1341,6 +1369,29 @@
     },
     "notifications": {
         "unseen_label": "Nieuw",
-        "page_title": "Meldingen"
+        "page_title": "Meldingen",
+        "filter_follows": "Volgers",
+        "filter_payments": "Betalingen",
+        "filter_replies": "Reacties",
+        "filter_all": "Alles",
+        "filter": "Filter"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Geef een nieuw wachtwoord voor het account {{account_name}}.",
+        "link_sent": "Een koppeling om je wachtwoord opnieuw in te stellen is naar het hoofdemailadres van je account gestuurd.",
+        "enter_your_email": "Voer het emailadres dat je hebt geregistreerd in, dan sturen we je een koppeling om je wachtwoord opnieuw in te stellen.",
+        "reset_password": "Wachtwoord Opnieuw Instellen"
+    },
+    "user": {
+        "verify_email": {
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Je kan niet een emailadres verifieren wanneer je op een ander account ingelogd bent",
+            "your_email_address_has_been_verified": "Je emailadres is geverifieerd",
+            "we_were_unable_to_verify_your_email_address": "We konden je emailadres niet verifieren",
+            "submit_button": "Bevestig emailverificatie",
+            "page_title": "Verifieer je emailadres",
+            "you_will_automatically_be_logged_in": "Je wordt automatisch ingelogd op je account nadat je je emailadres hebt geverifieerd.",
+            "link_purchases": "Als je in het verleden aankopen hebt gedaan met alleen je emailadres, worden deze automatisch geassocieerd met je account.",
+            "confirm_verification": "Bevestig het emailadres {{email_address}} voor het account {{account}}. Het is nodig dat je je emailadres verifieert om allerlei dingen te doen op itch.io."
+        }
     }
 }
