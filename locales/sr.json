@@ -1,8 +1,56 @@
 {
     "layout": {
         "header": {
-            "devlogs": "Евиденције програмера"
+            "devlogs": "Евиденције програмера",
+            "games": "Игре",
+            "fun_games": "Забавне игре",
+            "bundles": "Паковања",
+            "indie_game_store": "Продавница самосталних игара",
+            "free_games": "Бесплатне игре",
+            "no_notifications": "Нема нових обавештења",
+            "jams": "Такмичења"
+        },
+        "user_menu": {
+            "library": "Моја колекција",
+            "recommendations": "Препоруке",
+            "view_profile": "Погледај профил",
+            "log_out": "Излогуј се",
+            "account": "Налог",
+            "create": "Креирај",
+            "explore": "Истражи"
+        },
+        "footer": {
+            "cookies": "Колачићи",
+            "terms": "Услови коришћења",
+            "blog": "Блог"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "index": {
+        "people_to_follow_description": "Ево неких налога које би сте можда хтели да запратите. <a>Зашто пратити?</a>",
+        "game_dev_on_sale": "Ресурси за прављење игара <1>на распродаји<1>",
+        "more_featured_games": "Више истакнутих игара",
+        "view_all_games_on_sale": "Погледајте све игре на распродаји",
+        "people_to_follow": "Људе које треба пратити",
+        "fresh_games_description": "Константно се ажурира са најновијим играма на itch.io",
+        "view_all_jams": "Погледајте сва такмичења",
+        "featured_jams": "Истакнута такмичења",
+        "view_more": "Погледајте више",
+        "recommendations_based_on": "Базирано на стварима које сте купили, преузели и оценили",
+        "recommended_for_you": "Препоручено за вас",
+        "with_demo": "Са пробном верзијом",
+        "top_sellers": "Топ-селери",
+        "free_games": "Бесплатне игре",
+        "browse_all_tags": "Претражите све ознаке",
+        "search_games_creators": "Претражите имена игара и креатора",
+        "view_all_blog_posts": "Погледајте сва ажурирања",
+        "from_the_itchio_blog": "Са itch.io блога",
+        "random_game": "Насумична игра",
+        "from_the_blog": "Са блога",
+        "dont_see_anything_you_like": "Ништа вам се не свиђа?",
+        "view_all_games": "Погледајте све игре",
+        "download_app": "Преузмите апликацију",
+        "games_by_price": "Игре по цени",
+        "popular_tags": "Популарне ознаке"
+    }
 }
