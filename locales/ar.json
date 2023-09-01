@@ -791,7 +791,8 @@
             "new_password_again": "كلمة المرور الجديدة مرة أخرى",
             "your_account_currently_doesnt_have_a_password": "حسابك لا يحتوي على كلمة المرور حاليا.",
             "no_password_service_name": "حسابك لا يحتوي على كلمة المرور حاليا لأنك مسجل مع {{service_name}}.",
-            "please_set_a_password_on_your_account": "قم بتعيين كلمة سر لحسابك لحماية أفضل حتى تتمكن أيضا من ولوج حسابك دون طرف-ثالث."
+            "please_set_a_password_on_your_account": "قم بتعيين كلمة سر لحسابك لحماية أفضل حتى تتمكن أيضا من ولوج حسابك دون طرف-ثالث.",
+            "updating_your_password_will_cause": "تغييرك لكلمة السر سيتسبب في تسجيل خروج الحسابات المفتوحة على متصفحات أو أجهزة أخرى.<a>اتصالات أوث ومفاتيح واجهة برمجة التطبيقات</a>ستبقى فعالة."
         },
         "email_addresses": {
             "primary_email_header": "البريد الإلكتروني الأساسي",
@@ -850,7 +851,11 @@
         "two_factor_auth": {
             "tfa_status": "الحالة:{{tfa_status}}",
             "status_off": "معطلة",
-            "status_on": "فعالة"
+            "status_on": "فعالة",
+            "page_description": "المصادقة المزدوجة هي طبقة إضافية من الأمان لحسابك تساعد في منع الوصول غير المصرّح به إذا تمت سرقة كلمة مرورك.",
+            "page_title": "المصادقة المزدوجة",
+            "configure_twofactor_authentication": "تهيئة المصادقة المزدوجة",
+            "learn_more_about_twofactor_authentication": "تعرف أكثر على المصادقة المزدوجة"
         }
     },
     "stripe_checkout": {
@@ -1042,12 +1047,12 @@
             "submissions_summary_3": "<s> عدد {{count}} مشاركات </s> تم تقديمهم في الفترة ما بين {{start_date}} و {{end_date}}.",
             "submissions_summary_4": "<s> عدد {{count}} مشاركة </s> تم تقديمهم في الفترة ما بين {{start_date}} و {{end_date}}.",
             "submissions_summary_5": "<s> عدد {{count}} مشاركة </s> تم تقديمها في الفترة ما بين {{start_date}} و {{end_date}}.",
-            "ratings_given_submissions_count_0": "<s> عدد {{count}} تقييم </s> تم منحه إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_1": "<s> عدد {{count}} تقييم </s> تم منحه إلي {{submission_count}} مشاركة (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_2": "<s> عدد {{count}} تقييم </s> تم منحهم إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_3": "<s> عدد {{count}} تقييمات </s> تم منحهم إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_4": "<s> عدد {{count}} تقييم </s> تم منحهم إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
-            "ratings_given_submissions_count_5": "<s> عدد {{count}} تقييم </s> تم منحهم إلي {{submission_count}} مشاركات (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}."
+            "ratings_given_submissions_count_0": "<s> عدد {{count}} تقييم </s> تم منحه إلى <s>{{submission_count}} مشاركات</s>(بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_1": "<s> عدد {{count}} تقييم </s> تم منحه إلى <s>{{submission_count}} مشاركة</s> (بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_2": "<s> عدد {{count}} تقييم </s> تم منحهم إلى<s>{{submission_count}} مشاركات</s>(بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_3": "<s> عدد {{count}} تقييمات </s> تم منحهم إلى<s>{{submission_count}} مشاركات</s>(بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_4": "<s> عدد {{count}} تقييم </s> تم منحهم إلى<s>{{submission_count}} مشاركات</s>(بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}.",
+            "ratings_given_submissions_count_5": "<s> عدد {{count}} تقييم </s> تم منحهم إلى<s>{{submission_count}} مشاركات</s>(بنسبة {{percent}} % ) في ما بين {{vote_start_date}} و {{vote_end_date}}."
         },
         "submission": {
             "comments": {
@@ -1470,7 +1475,9 @@
         "unseen_label": "جديد",
         "page_title": "الاشعارات",
         "filter_replies": "الردود",
-        "filter_all": "الكل"
+        "filter_all": "الكل",
+        "filter": "تصفية",
+        "filter_payments": "المدفوعات"
     },
     "user": {
         "verify_email": {
@@ -1478,7 +1485,10 @@
             "your_email_address_has_been_verified": "تم التحقق من بريدك الإلكتروني",
             "we_were_unable_to_verify_your_email_address": "لم نتمكن من تأكيد بريدك الالكتروني",
             "page_title": "تأكيد بريدك الالكتروني",
-            "you_will_automatically_be_logged_in": "سيتم تسجيل دخولك لحسابك تلقائيا بعد تأكيد بريدك الالكتروني."
+            "you_will_automatically_be_logged_in": "سيتم تسجيل دخولك لحسابك تلقائيا بعد تأكيد بريدك الالكتروني.",
+            "submit_button": "تأكيد التحقق من البريد الإلكتروني",
+            "link_purchases": "إذا قمت بعمل أي مشتريات سابقة باستخدام عنوان البريد الإلكتروني فقط، فسيتم ربطها تلقائيًا بحسابك.",
+            "confirm_verification": "يرجى تأكيد التحقق من عنوان البريد الإلكتروني {{email_address}} للحساب {{account}}. من الضروري التحقق من عنوان البريد الإلكتروني الخاص بك لأداء العديد من الإجراءات على موقع itch.io."
         }
     },
     "user_forgot_password": {
