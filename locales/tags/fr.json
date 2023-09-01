@@ -363,6 +363,10 @@
         "larp": "Jeu de rôle grandeur nature",
         "itchfunding": "Financement Itch",
         "incremental": "Incrémental",
-        "idle": "Inactif"
+        "idle": "Inactif",
+        "typing": "Saisie",
+        "tabletop": "sur table",
+        "sokoban": "Sokoban",
+        "railroad": "Chemin de fer"
     }
 }
