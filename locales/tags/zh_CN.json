@@ -1,5 +1,31 @@
 {
     "tags": {
-        "action": "行动"
+        "action": "动作",
+        "backgrounds": "背景",
+        "automation": "自动化",
+        "augmented-reality": "AR",
+        "audio": "音游",
+        "atmospheric": "大气层",
+        "asteroids": "小行星",
+        "asset-pack": "资源包",
+        "art-book": "艺术风格",
+        "archery": "射击",
+        "arcade": "街机",
+        "anime": "动漫",
+        "animation": "动画",
+        "animals": "动物",
+        "altgame": "非主流",
+        "alternate-history": "架空历史",
+        "aliens": "异形",
+        "adventure": "冒险",
+        "adult": "成人",
+        "action-rpg": "动作角色扮演",
+        "action-adventure": "动作冒险",
+        "abstract": "抽象",
+        "8-bit": "8位元",
+        "4x": "4X",
+        "3d-platformer": "3D 平台游戏",
+        "3d": "3D",
+        "2d": "2D"
     }
 }
