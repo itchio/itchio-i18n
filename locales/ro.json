@@ -208,7 +208,8 @@
             "add_to_collection": "Adaugă la colecție"
         },
         "lightboxes": {
-            "close": "Închide"
+            "close": "Închide",
+            "error_title": "Cererea ta nu a putut fi completata"
         },
         "countdown": {
             "years": "ani",
@@ -798,11 +799,14 @@
             "account_type_developer": "Dezvoltarea și încărcarea jocuri",
             "account_type_description": "Cum vă veți folosi contul",
             "account_type": "Tipul Contului",
-            "language_community_translation": "<s>itch.io este tradus de catre membrii din comunitatea noastră.</s> Unele limbi sunt disponibile doar parțial. Daca doriți sa vedeti itch.io in limba dumneavoastra sau sa corectati greseli puteți contribui. <a>Invața mai multe</a>"
+            "language_community_translation": "<s>itch.io este tradus de catre membrii din comunitatea noastră.</s> Unele limbi sunt disponibile doar parțial. Daca doriți sa vedeti itch.io in limba dumneavoastra sau sa corectati greseli puteți contribui. <a>Invața mai multe</a>",
+            "click_to_load_games": "Necesită un clic pentru a rula încorporarea jocului HTML5",
+            "website_description": "URL optional pentru a fi pus pe pagina de profil"
         },
         "email_addresses": {
             "add_email_form": {
-                "additional_email_address_label": "Email adițional"
+                "additional_email_address_label": "Email adițional",
+                "add_email_button": "Adauga Email"
             },
             "additional_emails_instructions": "Veți fi trimise instrucțiuni de verificare după ce adăugați email adițional.",
             "additional_emails_summary": "Puteți să conectați adrese de email adiționale la contul itch.io ca să aveți acces la orice achiziție cu aceste adrese. De exemplu, adresa PayPal ar putea fi diferită față de adresa dvs. principală deci o veți adăuga ca adresă adițională.",
@@ -814,7 +818,10 @@
                 "new_email_address": "Adresa dvs. de email nouă"
             },
             "your_primary_email_address": "Adresa dvs. de email primară: {{email}}",
-            "primary_email_header": "Email primar"
+            "primary_email_header": "Email primar",
+            "additional_emails": {
+                "emails_added_header": "Email-uri adaugate"
+            }
         },
         "password": {
             "please_set_a_password_on_your_account": "Vă rugăm să setați o parolă pe contul dvs. pentru securitate îmbunătățită si pentru abilitatea de a accesa contul dvs. fără servicii externe.",
