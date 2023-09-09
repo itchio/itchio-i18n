@@ -1086,6 +1086,9 @@
         "screenshots": {
             "empty_message": "There aren't any screenshots uploaded yet",
             "loading_more": "Loading more screenshots…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "This submission is disqualified"
         }
     },
     "dashboard": {
@@ -1237,7 +1240,8 @@
             "community_comments_info": "Add a nested comment thread to the bottom of the project page",
             "community_discussion_board_info": "Add a dedicated community page with categories, threads, replies & more",
             "add_screenshots": "Add screenshots",
-            "screenshots_header": "Screenshots"
+            "screenshots_header": "Screenshots",
+            "external_file_tooltip": "You provide a link to the file and we'll keep track of how many times it's been downloaded"
         },
         "project_header": {
             "edit_project": "Edit project",
