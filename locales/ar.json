@@ -1477,7 +1477,8 @@
         "filter_replies": "الردود",
         "filter_all": "الكل",
         "filter": "تصفية",
-        "filter_payments": "المدفوعات"
+        "filter_payments": "المدفوعات",
+        "filter_follows": "المتابعات"
     },
     "user": {
         "verify_email": {
