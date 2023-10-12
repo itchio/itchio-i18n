@@ -166,7 +166,7 @@
         "physics": "Física",
         "pirates": "Piratas",
         "pixel-art": "Pixel Art",
-        "platformer": "Plataforma",
+        "platformer": "Jogo de plataforma",
         "point-and-click": "Point & Click",
         "post-apocalyptic": "Pós-apocalíptico",
         "procedural": "Geração Processual",
@@ -285,7 +285,7 @@
         "pinball": "Pinball",
         "painting": "Pintura",
         "open-source": "Código aberto",
-        "nsfw": "NSFW",
+        "nsfw": "Não é seguro para o trabalho",
         "modern": "Moderno",
         "meme": "Meme",
         "lgbtqia": "LGBTQIA",
@@ -341,6 +341,18 @@
         "lewd": "Sensual",
         "homebrew": "Criado por fãs",
         "hex-based": "Base hexagonal",
-        "hexcrawl": "Exploração"
+        "hexcrawl": "Exploração",
+        "picocad": "picoCAD",
+        "period-piece": "Peça de época",
+        "pbta": "PbtA",
+        "osr": "OSR",
+        "one-shot": "Um disparo",
+        "one-page": "Uma página",
+        "modular": "Modular",
+        "meaningful-choices": "Escolhas Significativas",
+        "magical-realism": "Realismo Mágico",
+        "lovecraft": "Terror Lovercraftian",
+        "larp": "LARP",
+        "itchfunding": "Financiamento"
     }
 }
