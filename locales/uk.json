@@ -525,7 +525,7 @@
             "related_games": "Схожі ігри",
             "related_games_short": "Схоже",
             "ownership": {
-                "you_own_this": "Ви володієте цим",
+                "you_own_this": "Ви володієте наступним",
                 "send_gift": "Надіслати подарунок",
                 "download": "Завантажити",
                 "percent_off": "-{{percent}}%",
