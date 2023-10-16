@@ -651,7 +651,7 @@
         "download_this_product_by_purchasing_it_for": "Téléchargez ce produit en l’achetant pour {{price}} ou plus.",
         "your_email_address": "Votre adresse e-mail",
         "email_address_description": "Un reçu vous sera envoyé à cette addresse",
-        "gift_email_instructions": "Vous pourrez entrer l’e-mail du bénéficiaire après paiement",
+        "gift_email_instructions": "Vous pourrez entrer l'adresse mail du bénéficiaire après paiement.",
         "i_already_paid_for_this": "J’ai déjà payé pour ça…",
         "included_files": "Fichiers inclus",
         "agree_to_terms": "En effectuant un paiement, vous acceptez les <1>Conditions d’utilisation</1> et la <2>Politique de respect de la vie privée</2> d’itch.io.",
