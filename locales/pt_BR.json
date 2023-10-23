@@ -473,7 +473,7 @@
             },
             "footer": {
                 "view_all_by_username": "Ver todos de {{username}}",
-                "report": "Relatório",
+                "report": "Denunciar",
                 "embed": "Incorporar",
                 "updated_date": "Atualizado {{date}}"
             },
@@ -501,7 +501,7 @@
             "app_learn_more": "<s>Novo!</s> Experimente o aplicativo de desktop itch.io para baixar e gerenciar sua biblioteca. <a>Saiba mais</a>"
         },
         "report_form": {
-            "form_description": "Por favor preencha este formulário se você precisar entrar em contato com a equipe de moderação itch.io sobre o conteúdo desta página. Seu relatório pode ser compartilhado com o criador da página, se necessário.",
+            "form_description": "Por favor preencha este formulário se você precisar entrar em contato com a equipe de moderação itch.io sobre o conteúdo desta página. A sua denúncia pode ser compartilhada com o criador da página, se necessário.",
             "support_from_creator": "Você está tendo problemas, precisa do apoio do criador?",
             "support_page_link": "Vá para a página de suporte oficial",
             "email_creator_link": "Envie um email ao criador",
