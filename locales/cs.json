@@ -372,7 +372,8 @@
             "add_to_collection": "Přidat do kolekce"
         },
         "lightboxes": {
-            "close": "Zavřít"
+            "close": "Zavřít",
+            "error_title": "Váš požadavek nelze dokončit"
         },
         "countdown": {
             "years": "roky",
@@ -622,7 +623,8 @@
             "started_by_author": "vytvořil {{topic_author}}",
             "views_count_0": "<s>{{count}}</s> zobrazení",
             "views_count_1": "<s>{{count}}</s> zobrazení",
-            "views_count_2": "<s>{{count}}</s> zobrazení"
+            "views_count_2": "<s>{{count}}</s> zobrazení",
+            "sticky_flag": "Lepivé"
         },
         "category": {
             "new_flag": "Nový",
@@ -670,13 +672,14 @@
         "agree_to_terms": "Dokončením platby souhlasíte se <1>smluvními podmínkami</1> a <2>zásadami ochrany osobních údajů</2> itch.io.",
         "included_files": "Přiložené soubory",
         "i_already_paid_for_this": "Za toto jsem již zaplatil/a …",
-        "gift_email_instructions": "Po zaplacení vyberete e-mail, na který chcete dárek poslat",
+        "gift_email_instructions": "Po zaplacení vyberete e-mail, na který chcete dárek poslat.",
         "your_email_address": "Vaše emailová adresa",
         "download_this_product_by_purchasing_it_for": "Stáhněte si tento produkt za {{price}} nebo více.",
         "preorder_this_product_by_purchasing_it_for": "Předobjednejte si tento produkt za {{price}} nebo více.",
         "no_thanks_just_take_me_to_the_downloads": "Ne, děkuji, jen mě vezmi k stahování",
         "contact_support_on_error": "Jestli problém přetrvává, prosím kontaktujte <a>itch.io podporu</a> se všemi potřebnými detaily.",
-        "email_address_description": "Vaše potvrzení platby bude zasláno zde"
+        "email_address_description": "Vaše potvrzení platby bude zasláno zde",
+        "check_out_with": "Zkontrolovat s"
     },
     "game_download": {
         "get_external_key": "Získat{{key_type}} klíč",
@@ -707,7 +710,17 @@
         "share_and_follow": "Sdílet a sledovat",
         "purchase": {
             "percent_off": "o {{percent}}% zlevněno",
-            "youve_been_gifted": "Byl jsi darován {{product_title}}."
+            "youve_been_gifted": "Byl jsi darován {{product_title}}.",
+            "linked_user_message": "Tento nákup je vázán na účet {{username}}.",
+            "payment_summary_with_email": "Za toto jste zaplatili dne {{payment_date}} částku {{payment_price}} s mailem {{email_address}}.",
+            "payment_summary": "Za toto jste zaplatili dne {{payment_date}} částku {{payment_price}}.",
+            "receipt_support_information": "Měli byste též obdržet mail s odkazem na tuto stránku. Pokud někdy ztratíte URL této stránky, můžete si o ni požádat mailem ze <a>stránky podpory</a>.",
+            "access_latest_files_from_this_page": "Vždy můžete přistupovat k nejnovějším souborům na této stránce.",
+            "unique_url_for_your_payment": "Tato stránka má unikátní URL pro platbu.",
+            "thank_you_for_donating_author": "Děkujeme za váš dar za {{product_title}} od {{author}}.",
+            "thank_you_for_donating": "Děkujeme za váš dar za {{product_title}}.",
+            "thank_you_for_purchasing_author": "Děkujeme za váš nákup {{product_title}} od {{author}}.",
+            "thank_you_for_purchasing": "Děkujeme za váš nákup {{product_title}}."
         }
     },
     "stripe_checkout": {
@@ -731,7 +744,10 @@
         "edit_saved_cards": "Upravit uložené karty",
         "choose_a_card": "Vyberte kartu",
         "payment_error_help": "Pokud si nejste jisti, prosím kontaktujte <a>itch.io podporu</a> s následující zprávou.",
-        "payment_error": "Při zpracování vaší platby došlo k chybě:"
+        "payment_error": "Při zpracování vaší platby došlo k chybě:",
+        "donating_price_vat_to": "Darovat {{price}} s daní pro:",
+        "buying_as": "Nakupuji jako",
+        "paying_price_vat_for": "Zaplatit {{price}} s daní za:"
     },
     "user_settings": {
         "email_addresses": {
@@ -740,7 +756,8 @@
                 "email_sent_status": "e-mail odeslán",
                 "resend_verification_email_button": "znovu odeslat ověřovací e-mail",
                 "verified_column": "Ověřeno",
-                "email_column": "e-mail"
+                "email_column": "e-mail",
+                "emails_added_header": "Emaily přidány"
             },
             "add_email_form": {
                 "add_email_button": "Přidat e-mail",
@@ -753,7 +770,10 @@
                 "new_email_address": "Nová e-mail adresa"
             },
             "your_primary_email_address": "Vaše hlavní e-mail adresa je: {{email}}",
-            "primary_email_header": "Hlavní e-mail"
+            "primary_email_header": "Hlavní e-mail",
+            "additional_emails_summary": "Můžete ke svému itch.io účtu přiřadit další mailové adresy pro možnost přístupu k čemukoliv nakoupenému přes ně. Pro příklad, vaše mailová adresa pro PayPal může být jiná, než vaše běžná mailová adresa, takže ji můžete chtít přidat jako další mail.",
+            "additional_emails_header": "Další emaily",
+            "change_password_instructions": "Pokud si změníte emailovou adresu, musíte ji ověřit, abyste mohli přistupovat k zakoupeným hrám. Ověřovací instrukce vám budou doručeny mailem. Z bezpečnostních důvodů musíte také poskytnout aktuální heslo, aby bylo možno změnit mailovou adresu."
         },
         "password": {
             "new_password_again": "Nové heslo znovu",
@@ -762,7 +782,10 @@
             "password": "Heslo",
             "current_password": "Aktuální heslo",
             "set_password": "Nastavit heslo",
-            "reset_password": "Obnovit heslo"
+            "reset_password": "Obnovit heslo",
+            "please_set_a_password_on_your_account": "Prosím nastavte si heslo na svém účtu pro vylepšení zabezpečení a možnost přístupu k účtu bez nutnosti používat k přihlašování služby třetích stran.",
+            "your_account_currently_doesnt_have_a_password": "Váš účet momentálně nemá heslo.",
+            "no_password_service_name": "Váš účet momentálně nemá heslo, protože jste registrováni pomocí služby {{service_name}}."
         },
         "profile": {
             "profile_description": "Obsah vaší profilové stránky",
@@ -792,7 +815,8 @@
             "page_header": "Profil",
             "language_description": "Jazyk, ve kterém se vám bude itch.io zobrazovat",
             "language": "Jazyk",
-            "language_community_translation": "<s>itch.io je překládáno členy naší komunity.</s> Některé jazyky jsou dostupné pouze z části. Pokud máte zájem nám pomoct přeložit itch.io nebo chcete opravit chyby v překladu, můžete se přidat. <a>Více informací</a>"
+            "language_community_translation": "<s>itch.io je překládáno členy naší komunity.</s> Některé jazyky jsou dostupné pouze z části. Pokud máte zájem nám pomoct přeložit itch.io nebo chcete opravit chyby v překladu, můžete se přidat. <a>Více informací</a>",
+            "profile_image_description": "Zobrazuje se na stránce vedle vašeho jména když provádíte akce (čtevrcový formát)"
         },
         "navigation": {
             "oauth_applications": "OAuth aplikace",
@@ -811,9 +835,26 @@
             "contact_header": "Kontakt",
             "publisher_header": "Vydavatel",
             "payment_header": "Platby",
-            "basics_header": "Obecné"
+            "basics_header": "Obecné",
+            "thirdparty_analytics": "Analýza třetí strany",
+            "revenue_sharing": "Sdílení příjmů",
+            "press_access": "Přístup tisku",
+            "tax_information": "Informace o daních",
+            "payment_processors": "Zpracovatelé plateb",
+            "payout_mode": "Typ výplaty",
+            "publisher_get_started": "Začínáme",
+            "email_addresses": "Mailové adresy"
         },
-        "account_settings": "Nastavení účtu"
+        "account_settings": "Nastavení účtu",
+        "two_factor_auth": {
+            "tfa_status": "Stav: {{tfa_status}}",
+            "status_on": "Zapnuto",
+            "status_off": "Vypnuto",
+            "page_description": "Dvoufaktoropvé ověření je další vrstva zabezpečení pro váš účet, která pomáhá zabránit neoprávněnému přístupu i kdyby bylo vaše heslo k účtu odcizeno.",
+            "page_title": "Dvoufaktorové ověření",
+            "configure_twofactor_authentication": "Nastavení dvoufaktorového ověření",
+            "learn_more_about_twofactor_authentication": "Zjistit více o dvoufaktorovém ověření"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>od</1> {{author}}"
@@ -821,7 +862,15 @@
     "browse_tags": {
         "no_description_yet": "Zatím bez popisku",
         "find_tag": "Najít štítek",
-        "page_title": "Populární štítky"
+        "page_title": "Populární štítky",
+        "all_tags": "Všechny tagy",
+        "types": {
+            "tool": "Nástroje",
+            "event": "Události",
+            "platform": "Platformy",
+            "style": "Styly",
+            "genre": "Žánry"
+        }
     },
     "browse": {
         "filter_everything_else": "Vše ostatní",
@@ -842,7 +891,9 @@
         "view_all_tags": "Zobrazit všechny štítky",
         "filter_group_platform": "Platforma",
         "tag": {
-            "no_description_yet": "Zatím bez popisku"
+            "no_description_yet": "Zatím bez popisku",
+            "suggest_description_for_this_tag": "Navrhněte popis pro tento tag",
+            "suggest_updated_description": "Navrhněte aktualizovaný popis"
         },
         "filter_group_genre": "Žánr",
         "filter_group_price": "Cena",
@@ -861,7 +912,8 @@
         "results_count_2": "{{count}} výsledků",
         "results_count_plural": "{{count}} výsledků",
         "filter_group_misc": "Ostatní",
-        "type_downloadable": "Stahovatelné"
+        "type_downloadable": "Stahovatelné",
+        "filter_group_accessibility_features": "Funkce usnadnění"
     },
     "collection": {
         "remove_confirm": "Jste si jistí, že chcete odebrat tuto položku z kolekce",
@@ -875,7 +927,9 @@
         "authors": "kolekce od {{author}}",
         "edit_contributors": "Upravit přispěvatele",
         "a_collection_by_author": "Kolekce od {{author}}",
-        "pending_invitation": "Máte pozvánku být přispěvatel této kolekce. <a>Vidět pozvánku</a>"
+        "pending_invitation": "Máte pozvánku být přispěvatel této kolekce. <a>Vidět pozvánku</a>",
+        "edit_blurb": "Upravit reklamu",
+        "add_a_blurb": "Přidat reklamu"
     },
     "add_to_collection": {
         "add_button": "Přidat do kolekce",
@@ -1068,7 +1122,8 @@
                 "submissions": "Příspěvky",
                 "results": "Výsledky",
                 "community": "Komunita"
-            }
+            },
+            "hosted_by": "Pořádají {{hosts}}"
         }
     },
     "notifications": {
@@ -1160,12 +1215,18 @@
         "verify_email": {
             "we_were_unable_to_verify_your_email_address": "Vaši e-mailovou adresu se nám nepodařilo ověřit",
             "your_email_address_has_been_verified": "Vaše e-mailová adresa byla ověřena",
-            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "E-mailovou adresu nelze ověřit, pokud jste přihlášeni k jinému účtu"
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "E-mailovou adresu nelze ověřit, pokud jste přihlášeni k jinému účtu",
+            "confirm_verification": "Prosím dokončete ověření mailové adresy {{email_adress}} k účtu {{account}}. Ověření mailové adresy je nezbytné k provádění mnoha akcí na itch.io.",
+            "you_will_automatically_be_logged_in": "Po ověření mailové adresy budete automaticky přihlášeni ke svému účtu.",
+            "submit_button": "Potvrďte ověrení mailem",
+            "page_title": "Ověřte svou mailovou adresu",
+            "link_purchases": "Pokud jste dříve nakupovali pouze s pomocí vaší mailové adresy, tyto nákupy budou asociovány s vaším účtem."
         }
     },
     "user_forgot_password": {
         "reset_password": "Restartovat heslo",
         "link_sent": "Na primární adresu vašeho účtu byl odeslán odkaz pro obnovení hesla.",
-        "please_provide_a_new_password_for_account": "Zadejte prosím nové heslo k účtu {{account_name}}."
+        "please_provide_a_new_password_for_account": "Zadejte prosím nové heslo k účtu {{account_name}}.",
+        "enter_your_email": "Zadejte mailovou adresu použitou při registraci a my vám na ni pošleme odkaz pro resetování hesla."
     }
 }
