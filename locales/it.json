@@ -183,7 +183,8 @@
             "years": "anni"
         },
         "lightboxes": {
-            "close": "Chiudi"
+            "close": "Chiudi",
+            "error_title": "Non è possibile completare la tua richiesta"
         },
         "collection_button": {
             "add_to_collection": "Aggiungi alla collezione"
@@ -475,14 +476,14 @@
                 "participate_to_rate_message": "Per recensire questa consegna devi essere <a>loggato su itch.io</a> e aver consegnato il tuo lavoro. Chiunque ha un account può lasciare un commento."
             },
             "rated_by_people_count": "Votato da {{count}} persona",
-            "rated_by_people_count_plural": "Valutato da {{count}} persone finora",
+            "rated_by_people_count_plural": "Già valutato da {{count}} persone",
             "time_remaining_before_deadline": "Hai ancora {{time_duration}} prima della scadenza",
             "submitted_by_contributors": "Consegnato da {{contributors}}",
             "ranked_with_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
             "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
             "results_header": "Risultati",
-            "ranked_from_count": "Classificato da <s>{{count}}recensione</s>.",
-            "ranked_from_count_plural": "Classificato da <s>{{count}} valutazioni</s>.",
+            "ranked_from_count": "Classificato in base a <s>{{count}} valutazione</s>.",
+            "ranked_from_count_plural": "Classificato in base a <s>{{count}} valutazioni</s>.",
             "score_information": "La classifica è regolata da un punteggio grezzo ad un numero medio di recensioni per gioco della jam.",
             "run_project": "Esegui il progetto",
             "play_game": "Gioca",
@@ -818,7 +819,7 @@
     "buy_form": {
         "included_files": "File inclusi",
         "i_already_paid_for_this": "Ehy, io l'ho già pagato…",
-        "gift_email_instructions": "Potrai scegliere un'email a cui inviare il regalo dopo che avrai pagato",
+        "gift_email_instructions": "Potrai scegliere un'email a cui inviare il regalo dopo che avrai pagato.",
         "email_address_description": "La conferma del pagamento verrà inviata qui",
         "your_email_address": "Il tuo indirizzo email",
         "download_this_product_by_purchasing_it_for": "Scarica questo prodotto acquistandolo per {{price}} o più.",
@@ -1384,7 +1385,7 @@
             "page_title": "Verifica il tuo indirizzo email",
             "you_will_automatically_be_logged_in": "L'accesso verrà eseguito automaticamente al completamento della verifica email.",
             "link_purchases": "Se hai precedentemente fatto qualche acquisto con solo l'indirizzo email, essi verranno automaticamente associati al tuo account.",
-            "confirm_verification": "Perfavore conferma verificando l'indirizzo email: {{email_address}} dell'account: {{account}}. E' necessario verificare l'indirizzo email per poter avere accesso al resto dei servizi."
+            "confirm_verification": "Per favore conferma verificando l'indirizzo email: {{email_address}} dell'account: {{account}}. E' necessario verificare l'indirizzo email per poter avere accesso al resto dei servizi."
         }
     },
     "user_forgot_password": {
