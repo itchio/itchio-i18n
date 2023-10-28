@@ -14,7 +14,82 @@
         "accessibility_features": {
             "configurable_controls": "Controles configurables",
             "subtitles": "subtítulos",
-            "colorblind": "Apto para daltónicos"
+            "colorblind": "Apto para daltónicos",
+            "textless": "Sin texto",
+            "blind": "Adaptado para personas ciegas",
+            "one_button": "Uno botón",
+            "tutorial": "Tutorial interactivo",
+            "highcontrast": "Alto contraste"
+        },
+        "lightboxes": {
+            "close": "Cerrar"
+        },
+        "collection_button": {
+            "add_to_collection": "Añadir a colección"
+        },
+        "pager": {
+            "first_page": "Primera página",
+            "previous_page": "Página anterior",
+            "current_page_of_total": "Página {{current_page}} de {{total_pages}}",
+            "next": "Siguiente",
+            "prev": "Anterior"
+        },
+        "filter_price": {
+            "paid": "Pagado",
+            "on_sale": "En oferta",
+            "free": "Gratis"
+        },
+        "platforms": {
+            "web": "Web"
+        },
+        "filter_when": {
+            "last_30_days": "Últimos 30 días",
+            "last_7_days": "Últimos 7 días",
+            "last_day": "Último Día"
+        },
+        "follow_button": {
+            "unfollow": "Dejar de vigilar",
+            "unfollow_username": "Dejar de vigilar a {{username}}",
+            "following": "Vigilarando",
+            "following_username": "Vigilarando a {{username}}",
+            "follow": "Vigilar",
+            "follow_username": "Vigilar a {{username}}"
+        },
+        "page_number": "Página {{page_number}}",
+        "forms": {
+            "confirm": "Confirmar",
+            "form_errors": "Comprueba la información dada por favor",
+            "search": "Buscar",
+            "optional": "Opcional",
+            "submit": "Enviar",
+            "email_address": "Dirección de email",
+            "save": "Guardar",
+            "required": "Requerido"
+        },
+        "durations": {
+            "days": "Días o más",
+            "hours": "Unas pocas horas",
+            "hour": "Cerca de una hora",
+            "half_hour": "Cerca de media hora",
+            "minutes": "Unos pocos minutos",
+            "seconds": "Unos pocos segundos"
+        },
+        "inputs": {
+            "midi_controller": "Controlador de MIDI",
+            "dance_pad": "Almohadilla de baile",
+            "phone": "Teléfono inteligente",
+            "accelerometer": "Acelerómetro",
+            "voice": "Control con voz",
+            "touchscreen": "Pantalla táctil",
+            "joystick": "Palanca de mando",
+            "gamepad": "Mando (cualquiera)",
+            "mouse": "Ratón",
+            "keyboard": "Teclado"
+        },
+        "multiplayer_features": {
+            "adhoc": "Multijugador de red ad-hoc en red",
+            "server": "Multijugador de red basado en servidores",
+            "local": "Multijugador local"
         }
     },
     "index": {
