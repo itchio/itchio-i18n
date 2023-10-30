@@ -1216,7 +1216,7 @@
             "we_were_unable_to_verify_your_email_address": "Vaši e-mailovou adresu se nám nepodařilo ověřit",
             "your_email_address_has_been_verified": "Vaše e-mailová adresa byla ověřena",
             "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "E-mailovou adresu nelze ověřit, pokud jste přihlášeni k jinému účtu",
-            "confirm_verification": "Prosím dokončete ověření mailové adresy {{email_adress}} k účtu {{account}}. Ověření mailové adresy je nezbytné k provádění mnoha akcí na itch.io.",
+            "confirm_verification": "Prosím dokončete ověření mailové adresy {{email_address}} k účtu {{account}}. Ověření mailové adresy je nezbytné k provádění mnoha akcí na itch.io.",
             "you_will_automatically_be_logged_in": "Po ověření mailové adresy budete automaticky přihlášeni ke svému účtu.",
             "submit_button": "Potvrďte ověrení mailem",
             "page_title": "Ověřte svou mailovou adresu",
