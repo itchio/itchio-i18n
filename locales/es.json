@@ -1068,7 +1068,7 @@
     "user_settings": {
         "profile": {
             "profile": "Perfil",
-            "language_community_translation": "<s>itch.io es traducido por miembros de nuestra comunidad.</s>Algunos idiomas solo se encuentran disponibles parcialmente. Si te gustaría ver itch.io en tu idioma o quieres ayudar a arreglar cualquier erropuedes contribuir. <a>Más información</a>",
+            "language_community_translation": "<s>itch.io es traducido por miembros de nuestra comunidad.</s> Algunos idiomas solo se encuentran disponibles parcialmente. Si te gustaría ver itch.io en tu idioma o quieres ayudar a arreglar cualquier error puedes contribuir. <a>Más información</a>",
             "profile_description": "El contenido de tu perfil",
             "use_dark_theme": "Usar tema oscuro si está disponible",
             "click_to_load_games": "Solicitar un click para ejecutar juegos HTML embedidos",
