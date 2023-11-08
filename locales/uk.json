@@ -1110,7 +1110,7 @@
         },
         "screenshots": {
             "empty_message": "Ще не вивантажено жодного знятка",
-            "loading_more": "Вантажу більше скріншотів…"
+            "loading_more": "Завантаження більше знятків…"
         }
     },
     "dashboard": {
@@ -1122,54 +1122,54 @@
             "followers": "Підписників",
             "following": "Підписки"
         },
-        "follow_itchio": "Підпишіться на itch.io в {{twitter}} та {{facebook}}",
+        "follow_itchio": "Стежте за itch.io в {{twitter}} та {{facebook}}",
         "header": {
-            "projects_link": "Проекти",
+            "projects_link": "Проєкти",
             "payments_link": "Платежі",
             "analytics_link": "Аналітика",
             "payouts_link": "Виплати",
-            "sales_bundles_link": "Знижки і комплекти",
+            "sales_bundles_link": "Розпродажі та комплекти",
             "coop_bundles_link": "Кооперативні комплекти",
-            "game_jams_link": "Ігроджеми"
+            "game_jams_link": "Ігрові джеми"
         },
-        "create_new_project_button": "Створити новий проект",
+        "create_new_project_button": "Створити новий проєкт",
         "project_list": {
-            "edit": "Змінити",
+            "edit": "Редагувати",
             "analytics": "Аналітика",
             "widget": "Віджет",
             "no_image": "Без зображення"
         },
-        "analytics_summary_header": "Статистика",
+        "analytics_summary_header": "Показники",
         "intro_text": "Ви розробник? Вивантажте свою першу гру",
         "not_a_developer_escape": "Нє, одразу до переліку ігор",
         "recently_updated_pages_header": "Нещодавно оновлені сторінки",
-        "new_devlog": "Новий журнал",
+        "new_devlog": "Новий журнал розробника",
         "hello": "Привіт!",
         "edit_project": {
-            "create_a_new_project_title": "Створити новий проект",
-            "edit_project_title": "Змінити проект",
+            "create_a_new_project_title": "Створити новий проєкт",
+            "edit_project_title": "Редагувати проєкт",
             "title_field": "Назва",
-            "project_url_field": "URL проекту",
-            "save_and_view_button": "Зберегти і переглянути сторінку",
+            "project_url_field": "URL-адреса проєкту",
+            "save_and_view_button": "Зберегти та переглянути",
             "video_field": "Відео ігроладу чи трейлер",
-            "video_field_description": "Вкажіть посилання на Ютуб чи Вімео.",
+            "video_field_description": "Вкажіть посилання на YouTube або Vimeo.",
             "delete_game_button": "Видалити гру",
             "classification_field": "Класифікація",
-            "classification_field_description": "Що ви вивантажуєте?",
-            "kind_of_project_field": "Вид проекту",
-            "release_status_field": "Релізний статус",
+            "classification_field_description": "Що саме ви вивантажуєте?",
+            "kind_of_project_field": "Тип проєкту",
+            "release_status_field": "Стан випуску",
             "details_section_header": "Подробиці",
             "description_field": "Опис",
-            "instructions_field": "Інструкції з завантаження та встановлення",
-            "default_noun": "Залиште порожнім для використання стандартного: '{{default_noun}}'.",
+            "instructions_field": "Інструкції із завантаження та встановлення",
+            "default_noun": "Залиште порожнім для стандартного: '{{default_noun}}'.",
             "classification_other": "Інше",
             "types": {
-                "downloadable": "Файл завантаження"
+                "downloadable": "Завантажуване"
             },
             "tip_label": "Підказка",
-            "project_type_help": "Ви можете додавати будь-які файли завантаження для кожного наступного типу",
-            "instructions_field_info2": "Якщо гра потребує попереднього встановлення бібліотек чи програм, ви маєте долучити цю інформацію",
-            "instructions_field_info1": "Цей текст буде показаний коли користувач буде завантажувати вашу гру у браузері. Долучіть будь-яку інформацію про встановлення та запуск того, що вони завантажуть.",
+            "project_type_help": "Ви можете додати додаткові завантажувані файли для будь-якого з перерахованих вище типів",
+            "instructions_field_info2": "Якщо гра потребує попереднього встановлення бібліотек або програм, ви також повинні вказати цю інформацію",
+            "instructions_field_info1": "Цей текст буде показано користувачеві, коли він завантажуватиме гру через браузер. Включіть будь-яку інформацію про те, як встановити та запустити те, що вони завантажують.",
             "community_field": "Спільнота",
             "community_disabled": "Вимкнено",
             "community_comments": "Коментарі",
@@ -1178,10 +1178,10 @@
             "uploads_header": "Вивантаження",
             "upload_files_button": "Вивантажити файли",
             "add_external_file_button": "Додати зовнішній файл",
-            "file_size_limit": "Обмеження розміру файлу:{{filesize}}. Потрібно більше? <a>Зв'яжіться з нами</a>",
-            "content_guidelines_header": "Переконайтесь, що всі можуть знайти вашу сторінку",
-            "content_guidelines_info": "Перегляньте наші <a>рекомендації щодо якості</a> перед публікацією проекту",
-            "payment_warning_header": "Ви не налаштували платежі",
+            "file_size_limit": "Обмеження розміру файлу: {{filesize}}. Потрібно більше? <a>Зв’яжіться з нами</a>",
+            "content_guidelines_header": "Переконайтеся, що всі можуть знайти вашу сторінку",
+            "content_guidelines_info": "Ознайомтеся з нашими <a>правилами якості</a> перед тим, як опублікувати проєкт",
+            "payment_warning_header": "У вас не налаштована оплата",
             "payment_warning_info": "Якщо ви встановите мінімальну ціну вище 0, ніхто не зможе завантажити ваш проект.<a>Змінити акаунт</a>",
             "cover_uploader": {
                 "confirm_remove": "Впевнені, що бажаєте прибрати обкладинку?",
@@ -1253,13 +1253,13 @@
             "add_screenshots": "Додати знятки",
             "screenshots_header": "Знятки",
             "short_description_field": "Короткий опис або слоган",
-            "short_description_field_description": "Показується коли ми посилаємось на ваш проект. Уникайте повторення назви проекту",
-            "description_field_description": "Вміст сторінки вашої гри.",
+            "short_description_field_description": "Показано, коли робимо посилання на проєкт. Уникайте дублювання назви проєкту",
+            "description_field_description": "Це і буде вміст сторінки гри.",
             "community_field_info": "Зберіть спільноту вашого проекту, дозволивши людям залишати повідомлення на вашій сторінці.",
             "community_comments_info": "Стрічка коментарів в кінці сторінки проекту",
             "community_discussion_board_info": "Окрема сторінка спільноти з категоріями, темами, відповідями, тощо",
             "custom_noun_field": "Власний іменник",
-            "custom_noun_field_description": "Ви можете змінити спосіб посилання itch.io на ваш проект, вказавши власний іменник.",
+            "custom_noun_field_description": "Ви можете змінити те, як itch.io посилається на проєкт, увівши власний іменник.",
             "embed_options_header": "Вставити варіанти"
         },
         "project_header": {
@@ -1275,7 +1275,7 @@
             "distribute": "Розповсюдження",
             "interact": "Взаємодія"
         },
-        "page_title": "Панель розробника",
+        "page_title": "Панель творця",
         "dashboard": "Панель",
         "blog_posts": {
             "new_post": "Новий допис"
