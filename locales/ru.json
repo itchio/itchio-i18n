@@ -783,7 +783,8 @@
             "data_export": "Экспорт данных",
             "api_keys": "Ключи API",
             "oauth_applications": "Приложения OAuth",
-            "thirdparty_analytics": "Сторонняя аналитика"
+            "thirdparty_analytics": "Сторонняя аналитика",
+            "delete_account": "Удалить учётную запись"
         },
         "profile": {
             "language_community_translation": "<s>itch.io переводится участниками нашего сообщества.</s> Некоторые языки доступны только частично. Если вы хотите видеть itch.io на своём языке, или же если вы нашли ошибки в переводе, вы можете нам помочь. <a>Подробнее</a>",
@@ -1111,6 +1112,9 @@
         "screenshots": {
             "empty_message": "Ещё не загружено каких-либо скриншотов",
             "loading_more": "Загружаем другие скриншоты…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Проект дисквалифицирован"
         }
     },
     "dashboard": {
@@ -1262,7 +1266,8 @@
             "community_comments_info": "Добавить возможность оставлять комментарии на странице проекта",
             "community_discussion_board_info": "Добавить полноценный форум с категориями, темами, ответами и прочим",
             "add_screenshots": "Добавить скриншоты",
-            "screenshots_header": "Скриншоты"
+            "screenshots_header": "Скриншоты",
+            "external_file_tooltip": "Укажите ссылку на файл, и мы будем вести учёт количества скачиваний"
         },
         "project_header": {
             "edit_project": "Изменить проект",
