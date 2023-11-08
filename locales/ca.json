@@ -651,7 +651,7 @@
         "download_this_product_by_purchasing_it_for": "Baixeu aquest producte comprant-lo per {{price}} o més.",
         "your_email_address": "La vostra adreça de correu electrònic",
         "email_address_description": "S’hi enviarà la confirmació del vostre pagament",
-        "gift_email_instructions": "Triareu un correu electrònic al qual enviar-ho com a regal després del pagament",
+        "gift_email_instructions": "Triareu un correu electrònic al qual enviar-ho com a regal després del pagament.",
         "i_already_paid_for_this": "Ja he pagat per això anteriorment…",
         "included_files": "Fitxers inclosos",
         "agree_to_terms": "En completar un pagament, accepteu els <1>Termes del servei</1> i la <2>Política de privacitat</2> d’itch.io.",
@@ -771,7 +771,8 @@
             "misc_header": "Miscel·lània",
             "developer_header": "Desenvolupador",
             "profile": "Perfil",
-            "password": "Contrasenya"
+            "password": "Contrasenya",
+            "delete_account": "Suprimeix el compte"
         },
         "profile": {
             "language_community_translation": "<s>itch.io és traduït per membres de la comunitat.</s> Alguns idiomes només estan disponibles parcialment. Si us agradaria veure itch.io en la vostra llengua o corregir-ne errades, podeu contribuir-hi. <a>Més informació</a>",
@@ -1086,6 +1087,9 @@
         "screenshots": {
             "empty_message": "Encara no s’ha penjat cap captura de pantalla",
             "loading_more": "S’estan carregant més captures de pantalla…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Aquesta participació s’ha desqualificat"
         }
     },
     "dashboard": {
@@ -1237,7 +1241,8 @@
             "community_comments_info": "Afegeix un fil imbricat de comentaris a la part inferior de la pàgina del projecte",
             "community_discussion_board_info": "Afegeix una pàgina dedicada a la comunitat amb categories, fils, respostes i més",
             "add_screenshots": "Afegeix captures de pantalla",
-            "screenshots_header": "Captures de pantalla"
+            "screenshots_header": "Captures de pantalla",
+            "external_file_tooltip": "Proporcioneu un enllaç al fitxer i farem un seguiment de quantes vegades s'ha baixat"
         },
         "project_header": {
             "edit_project": "Edita el projecte",
