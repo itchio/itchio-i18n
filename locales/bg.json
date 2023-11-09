@@ -618,7 +618,8 @@
             "api_keys": "Ключове за ППИ",
             "oauth_applications": "Приложения с OAuth",
             "thirdparty_analytics": "Външни анализи",
-            "email_notifications": "Известия по е-поща"
+            "email_notifications": "Известия по е-поща",
+            "delete_account": "Изтриване на акаунта"
         },
         "email_addresses": {
             "additional_emails": {
@@ -819,7 +820,8 @@
             "add_screenshots": "Добавяне на екранни снимки",
             "community_discussion_board_info": "Добавяне на обособена страница с форум за общността – с категории, теми, отговори и още",
             "community_comments_info": "Добавяне на област с коментари в дъното на страницата на проекта",
-            "community_field_info": "Създайте общност около проекта си, като позволите на хората да публикуват коментари на страницата Ви."
+            "community_field_info": "Създайте общност около проекта си, като позволите на хората да публикуват коментари на страницата Ви.",
+            "external_file_tooltip": "Осигурете връзка към файла, а ние ще отчитаме броя на свалянията"
         },
         "dashboard": "Табло",
         "hello": "Здравейте!",
@@ -1160,6 +1162,9 @@
             "ratings": "Оценки",
             "entries": "Проекта",
             "joined": "Участници"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Този проект е дисквалифициран"
         }
     },
     "user_login": {
