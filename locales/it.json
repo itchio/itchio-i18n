@@ -435,7 +435,8 @@
             "contact_header": "Contatti",
             "publisher_header": "Editore",
             "payment_header": "Pagamenti",
-            "basics_header": "Generale"
+            "basics_header": "Generale",
+            "delete_account": "Cancella l'Account"
         },
         "account_settings": "Impostazioni account",
         "two_factor_auth": {
@@ -476,14 +477,14 @@
                 "participate_to_rate_message": "Per recensire questa consegna devi essere <a>loggato su itch.io</a> e aver consegnato il tuo lavoro. Chiunque ha un account può lasciare un commento."
             },
             "rated_by_people_count": "Votato da {{count}} persona",
-            "rated_by_people_count_plural": "Già valutato da {{count}} persone",
+            "rated_by_people_count_plural": "Valutato da {{count}} persone",
             "time_remaining_before_deadline": "Hai ancora {{time_duration}} prima della scadenza",
             "submitted_by_contributors": "Consegnato da {{contributors}}",
             "ranked_with_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
             "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
             "results_header": "Risultati",
             "ranked_from_count": "Classificato in base a <s>{{count}} valutazione</s>.",
-            "ranked_from_count_plural": "Classificato in base a <s>{{count}} valutazioni</s>.",
+            "ranked_from_count_plural": "Classificato da <s> {{count}} valutazioni </s>.",
             "score_information": "La classifica è regolata da un punteggio grezzo ad un numero medio di recensioni per gioco della jam.",
             "run_project": "Esegui il progetto",
             "play_game": "Gioca",
@@ -585,6 +586,9 @@
         "screenshots": {
             "loading_more": "Sto cercando altri screenshot…",
             "empty_message": "Non c'è nessuno screenshot per ora"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Questa presentazione è squalificata"
         }
     },
     "dashboard": {
@@ -703,7 +707,8 @@
             "visibility_access_info": "Abbozza la tua pagina prima di pubblicarla. <a>Di più sulla modalità d'accesso</a>",
             "content_guidelines_info": "Riguarda la <a>guida sulla qualità</a> prima di caricare il tuo progetto",
             "community_discussion_board": "Angolo discussione",
-            "default_noun": "Non scrivere niente per: '{{default_noun}}'."
+            "default_noun": "Non scrivere niente per: '{{default_noun}}'.",
+            "external_file_tooltip": "Tu fornirai il link del file e noi terremo conto di quante volte verrà scaricato"
         },
         "project_header": {
             "more": "Di più",
