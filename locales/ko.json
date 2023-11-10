@@ -765,7 +765,8 @@
             "data_export": "데이터 내보내기",
             "api_keys": "API 키",
             "oauth_applications": "OAuth 애플리케이션",
-            "thirdparty_analytics": "제3자 분석"
+            "thirdparty_analytics": "제3자 분석",
+            "delete_account": "계정 삭제"
         },
         "profile": {
             "language_community_translation": "<s>itch.io는 커뮤니티의 맴버들이 번역합니다.</s> 어떤 언어는 부분적으로 사용 가능합니다. itch.io를 원하는 언어로 보고 싶거나 잘못된 번역을 고치고 싶다면 기여할 수 있습니다. <a>더 알아보기</a>",
@@ -1069,6 +1070,9 @@
         "screenshots": {
             "empty_message": "업로드 된 스크린샷이 아직 없습니다",
             "loading_more": "더 많은 스크린샷을 불러오는 중…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "제외된 작품임"
         }
     },
     "dashboard": {
@@ -1220,7 +1224,8 @@
             "community_comments_info": "프로젝트 페이지 밑에 중첩된 댓글 스레드를 추가해보세요",
             "community_discussion_board_info": "카테고리, 스레드, 답급 등 여러가지가 있는 커뮤니티 페이지를 추가해보세요",
             "add_screenshots": "스크린샷 추가",
-            "screenshots_header": "스크린샷"
+            "screenshots_header": "스크린샷",
+            "external_file_tooltip": "파일 링크를 제공하면 다운로드 횟수를 추적할 수 있습니다"
         },
         "project_header": {
             "edit_project": "프로젝트 수정",
