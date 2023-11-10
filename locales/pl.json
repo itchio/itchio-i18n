@@ -783,7 +783,8 @@
             "data_export": "Eksport danych",
             "api_keys": "Klucze API",
             "oauth_applications": "Aplikacje OAuth",
-            "thirdparty_analytics": "Analityka firm zewnętrznych"
+            "thirdparty_analytics": "Analityka firm zewnętrznych",
+            "delete_account": "Usuń konto"
         },
         "profile": {
             "language_community_translation": "<s>itch.io jest tłumaczony przez członków naszej społeczności.</s> Niektóre języki są dostępne tylko częściowo. Jeśli chcesz zobaczyć itch.io w twoim języku, lub poprawić nasze błędy w tłumaczeniu, możesz nam pomóc. <a>Dowiedz się więcej</a>",
@@ -1111,6 +1112,9 @@
         "screenshots": {
             "empty_message": "Nie wysłano jeszcze żadnych zrzutów ekranu",
             "loading_more": "Wczytuję więcej zrzutów ekranu…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "To zgłoszenie zostało zdyskwalifikowane"
         }
     },
     "dashboard": {
@@ -1262,7 +1266,8 @@
             "community_comments_info": "Dodaj zagnieżdżony wątek komentarzy na dole strony projektu",
             "community_discussion_board_info": "Dodaj dedykowaną stronę społeczności z kategoriami, wątkami, odpowiedziami i innymi",
             "add_screenshots": "Dodaj zrzuty ekranu",
-            "screenshots_header": "Zrzuty ekranu"
+            "screenshots_header": "Zrzuty ekranu",
+            "external_file_tooltip": "Kiedy podasz link do pliku będziemy nadzorować ile razy został on pobrany"
         },
         "project_header": {
             "edit_project": "Edytuj projekt",
