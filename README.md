@@ -169,3 +169,10 @@ buffer. A [special script](https://github.com/itchio/itchio-i18n/blob/master/bui
 Weblate into a single `.lua` module that can be loaded by the web app.
 
 
+## Languages DB
+
+The `languages.json` file is the listing of all languages that are supported for:
+
+* Selectable site translations
+* Languages that a project page can be tagged with
+
