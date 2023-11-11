@@ -22,7 +22,8 @@ languages on itch.io. Supported languages are available for:
 * Project tagging
 
 > Making changes to `language.json`? Please ensure it remains sorted. You can
-> use `js -S` to sort the file.
+> use `js -S` to sort the file. Please ensure you use a valid code referenced
+> here: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
 ## Translations markup guide
 
