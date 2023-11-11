@@ -13,6 +13,13 @@ our [Weblate](https://weblate.itch.ovh/projects/itchio/). You can create an
 account there and suggest translations. Accepted changes are merged back into
 this branch automatically.
 
+## Languages DB
+
+The `languages.json` file lists the identifier and name for all supported
+languages on itch.io. Supported languages are available for:
+
+* Site translations
+* Project tagging
 
 ## Translations markup guide
 
@@ -168,11 +175,4 @@ it's ready to be called to efficient write the translated string to the output
 buffer. A [special script](https://github.com/itchio/itchio-i18n/blob/master/build_translations.moon) is used to convert all the `json` files produced by
 Weblate into a single `.lua` module that can be loaded by the web app.
 
-
-## Languages DB
-
-The `languages.json` file is the listing of all languages that are supported for:
-
-* Selectable site translations
-* Languages that a project page can be tagged with
 
