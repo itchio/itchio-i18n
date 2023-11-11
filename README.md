@@ -21,6 +21,9 @@ languages on itch.io. Supported languages are available for:
 * Site translations
 * Project tagging
 
+> Making changes to `language.json`? Please ensure it remains sorted. You can
+> use `js -S` to sort the file.
+
 ## Translations markup guide
 
 itch.io uses a custom translation markup parser that powers variable
