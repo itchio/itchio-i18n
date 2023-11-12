@@ -772,7 +772,8 @@
             "data_export": "Exportação de Dados",
             "api_keys": "Chaves de API",
             "oauth_applications": "Aplicações OAuth",
-            "thirdparty_analytics": "Análise de terceiros"
+            "thirdparty_analytics": "Análise de terceiros",
+            "delete_account": "Deletar conta"
         },
         "profile": {
             "language_community_translation": "<s>itch.io é traduzido por membros da nossa comunidade.</s> Algumas línguas estão apenas parcialmente disponíveis. Se você gostaria de ver itch.io em seu idioma ou ajudar a corrigir erros que possam existir: <a>Saiba mais</a>",
@@ -1086,6 +1087,9 @@
         "screenshots": {
             "empty_message": "Não há screenshots enviadas ainda",
             "loading_more": "Carregando mais capturas de tela…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Esta submissão está desqualificada"
         }
     },
     "dashboard": {
@@ -1237,7 +1241,8 @@
             "community_comments_info": "Adicione um tópico de comentário aninhado na parte inferior da página do projeto",
             "community_discussion_board_info": "Adicione uma página da comunidade com categorias, tópicos, respostas e mais",
             "add_screenshots": "Adicionar screenshots",
-            "screenshots_header": "Fotos"
+            "screenshots_header": "Fotos",
+            "external_file_tooltip": "Você fornece um link para o arquivo e nós monitoramos quantas vezes foi baixado"
         },
         "project_header": {
             "edit_project": "Editar projeto",
