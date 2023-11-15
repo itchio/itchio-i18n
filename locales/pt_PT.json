@@ -234,7 +234,8 @@
             "years": "anos"
         },
         "lightboxes": {
-            "close": "Fechar"
+            "close": "Fechar",
+            "error_title": "O pedido não pode ser completado"
         }
     },
     "user_register": {
