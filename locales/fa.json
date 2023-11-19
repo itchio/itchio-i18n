@@ -151,15 +151,15 @@
         },
         "lightboxes": {
             "close": "بستن",
-            "error_title": "درخواست شما قابل اتمام نمی باشد"
+            "error_title": "درخواست شما توانایی انجامیدن ندارد"
         },
         "countdown": {
-            "years": "سال",
-            "months": "ماه",
-            "days": "روز",
-            "hours": "ساعت",
-            "minutes": "دقیقه",
-            "seconds": "ثانیه"
+            "years": "سال ها",
+            "months": "ماه ها",
+            "days": "روز ها",
+            "hours": "ساعت ها",
+            "minutes": "دقیقه ها",
+            "seconds": "ثانیه ها"
         },
         "project_visibility": {
             "restricted": "محدود شده",
@@ -240,7 +240,7 @@
     },
     "game": {
         "info_panel": {
-            "asset_license": "مجوز پکیج",
+            "asset_license": "پروانه افزار",
             "mentions": "ذکر شده ها",
             "links": "پیوندها",
             "singleplayer": "تک نفره",
@@ -249,20 +249,20 @@
             "accessibility": "امکان دسترسی",
             "inputs": "ورودی ها",
             "languages": "زبان ها",
-            "average_session_duration": "متوسط جلسه",
-            "code_license": "مجوز کد",
+            "average_session_duration": "میانگین نشست",
+            "code_license": "پروانه کد",
             "tags": "برچسب ها",
             "made_with_tools": "ساخته شده با",
             "genre": "ژانر",
             "author": "نویسنده",
             "authors": "نویسندگان",
-            "rating": "رتبه بندی",
-            "release_date": "تاریخ انتشار",
-            "publisher": "ناشر",
+            "rating": "تراز",
+            "release_date": "هنگامه پخش",
+            "publisher": "پخش کننده",
             "platforms": "پلتفرم ها",
             "category": "دسته بندی",
-            "release_status": "وضعیت",
-            "published_at": "منتشر شده",
+            "release_status": "چگونگی",
+            "published_at": "پخش شده",
             "updated_at": "به روز شد"
         },
         "more_information": "اطلاعات بیشتر",
@@ -319,7 +319,7 @@
                 "percent_off": "{{percent}}% تخفیف",
                 "download": "دانلود",
                 "send_gift": "ارسال هدیه",
-                "you_own_this": "شما صاحب این هستید"
+                "you_own_this": "شما این را دارید"
             },
             "related_games_short": "مرتبط",
             "related_games": "بازی های مرتبط",
@@ -340,7 +340,7 @@
             "follow": "دنبال کردن",
             "creator": "سازنده",
             "view_all_by_name": "نمایش همه‌ی کارهای {{name}}",
-            "included_in_bundle_title": "در {{bundle_title}} وجود دارد"
+            "included_in_bundle_title": "در {{bundle_title}} می باشد"
         },
         "upload_list": {
             "empty_message": "هنوز چیزی برای دانلود در دسترس نیست.",
@@ -362,9 +362,9 @@
         "community_header": "انجمن",
         "comments": {
             "write_your_comment": "دیدگاه خود را بنویسید…",
-            "post_comment": "ارسال نظر",
-            "log_in_to_leave_comment": "برای ارسال دیدگاه، <a>وارد itch.io شوید</a>.",
-            "click_to_leave_a_comment": "برای گزاشتن نظر کلیک کنید …",
+            "post_comment": "فرستادن دیدگاه",
+            "log_in_to_leave_comment": "برای فرستادن دیدگاه <a>Log in with itch.io</a>.",
+            "click_to_leave_a_comment": "برای گزاشتن دیدگاه کلیک کنید…",
             "leave_a_comment": "دیدگاهی بگذارید",
             "leave_a_comment_header": "دیدگاهی بگذارید",
             "comments_header": "دیدگاه‌ها"
@@ -575,7 +575,10 @@
             "app_description": "بازی های خود را با برنامه دسکتاپ itch.io نصب و مدیریت کنید",
             "get_the_app": "دریافت اپ"
         },
-        "preorder_instructions": "این پروژه دارای فایل‌هایی است که هنوز منتشر نشده‌اند. وقتی سازنده فایل‌ها را منتشر کرد می‌توانید به این صفحه برگردید."
+        "preorder_instructions": "این پروژه دارای فایل‌هایی است که هنوز منتشر نشده‌اند. وقتی سازنده فایل‌ها را منتشر کرد می‌توانید به این صفحه برگردید.",
+        "access_comes_with_key": "دسترسی شما با یک کلید {{key_type}} همراه می باشد!",
+        "payment_comes_with_key": "پرداخت شما با یک کلید {{key_type}} همراه می باشد!",
+        "claim_external_key_instructions": "برای دریافت روی دکمه کلیک کنید."
     },
     "user_settings": {
         "email_addresses": {
@@ -610,7 +613,11 @@
             "password": "گذرواژه",
             "current_password": "گذرواژه فعلی",
             "set_password": "تنظیم رمز عبور",
-            "reset_password": "بازنشانی رمز عبور"
+            "reset_password": "بازنشانی رمز عبور",
+            "updating_your_password_will_cause": "به روز کردن گذرواژه شما سبب پایان یافتن نشست های دیگر مرورگر ها نیز می شود. هر گونه <a>OAuth connections and API keys</a> پویا خواهد ماند.",
+            "please_set_a_password_on_your_account": "خواهشمندیم برای افزایش پایداری و توانایی در دسترسی داشتن به حساب خود و بی نیازی در برابر دستیاری کمپانی های دیگر گذرواژه ای برای حسابتان کار بگذارید.",
+            "your_account_currently_doesnt_have_a_password": "حساب شما هم اکنون گذرواژه ای ندارد.",
+            "no_password_service_name": "حساب شما هم اکنون گذرواژه ندارد زیرا شما با {{service_name}} نام نویسی کردید."
         },
         "profile": {
             "profile_description": "محتوای صفحه نمایه شما",
@@ -670,9 +677,19 @@
             "contact_header": "اطلاعات تماس",
             "publisher_header": "ناشر",
             "payment_header": "پرداخت",
-            "basics_header": "پایه"
+            "basics_header": "پایه",
+            "delete_account": "زدایش حساب"
         },
-        "account_settings": "تنظیمات حساب"
+        "account_settings": "تنظیمات حساب",
+        "two_factor_auth": {
+            "status_off": "خاموش",
+            "status_on": "روشن",
+            "tfa_status": "چگونگی: {{tfa_status}}",
+            "page_description": "تایید کردن دو گامه لایه ای افزونه برای پایداری حساب شما می باشد تا چنانچه گذرواژه شما دزدیده شد، از دسترسی تایید نشده جلوگیری شود.",
+            "page_title": "تایید کردن دو گامه",
+            "configure_twofactor_authentication": "تایید کردن دو گامه را سامان دهید.",
+            "learn_more_about_twofactor_authentication": "درباره تایید کردن دو گامه بیشتر بدانید."
+        }
     },
     "stripe_checkout": {
         "name_as_it_appears_on_card": "همانطور که روی کارت ظاهر می شود",
@@ -719,7 +736,15 @@
         "no_description_yet": "هنوز توضیحی وجود ندارد",
         "commonly_tagged_with": "معمولاً برچسب گذاری شده با",
         "find_tag": "پیدا کردن برچسب",
-        "page_title": "برچسب های برتر"
+        "page_title": "برچسب های برتر",
+        "all_tags": "همه برچسب ها",
+        "types": {
+            "tool": "ابزار ها",
+            "event": "رویداد ها",
+            "platform": "پلتفرم ها",
+            "style": "شیوه ها",
+            "genre": "دسته بندی ها"
+        }
     },
     "browse": {
         "filter_everything_else": "همه چیز دیگر",
@@ -760,9 +785,9 @@
         "sort_top_sellers": "فروشندگان برتر",
         "sort_new_and_popular": "جدید و محبوب",
         "sort_popular": "محبوب",
-        "results_count": "{{count}} نتیجه",
-        "results_count_plural": "{{count}} نتایج",
-        "fresh_description": "مجموعه ای از پروژه ها را که به طور مداوم در حال به روز رسانی است ، از مجموعه های انتخاب شده توسط اعضای ما است جستجو کنید. برای موارد اضافی جدید دوباره برگردید."
+        "results_count": "{{count}} برآیند",
+        "results_count_plural": "{{count}} برآیند",
+        "fresh_description": "گردآمده ای از پروژه ها را که پیاپی گونه در حال به روز رسانی هستند را از گردآمده های برگزیده شده توسط اعضای ما است جستجو کنید. برای موارد تازه دوباره برگردید."
     },
     "buy_form": {
         "check_out_with": "پرداخت با",
@@ -778,7 +803,7 @@
         "this_purchase_is_a_gift": "این خرید یک هدیه است",
         "agree_to_terms": "با تکمیل پرداخت ، شما با <1>شرایط خدمات</1> و <2>خط مشی رازداری</2> itch.io موافقت می کنید.",
         "included_files": "فایلهای شامل",
-        "i_already_paid_for_this": "من قبلاً هزینه این را پرداختم…",
+        "i_already_paid_for_this": "من از پیش این هزینه را پرداختم…",
         "email_address_description": "تایید پرداخت شما، اینجا ارسال خواهد شد",
         "your_email_address": "آدرس ایمیل شما",
         "download_this_product_by_purchasing_it_for": "این محصول را با خرید به قیمت {{price}} یا بیشتر دانلود کنید.",
@@ -802,7 +827,7 @@
         "blurb_author_says": "{{author}} می گوید",
         "edit_blurb": "ویرایش تقریظ",
         "add_a_blurb": "یک تقریظ اضافه کنید",
-        "remove_item_button": "حذف",
+        "remove_item_button": "زدایش…",
         "page_title": "{{collection_title}} - مجموعه توسط {{author}}",
         "a_collection_by_author": "یک مجموعه توسط {{author}}",
         "pending_invitation": "شما یک دعوت در انتظار دارید تا مشارکت کننده این مجموعه باشید. <a>مشاهده دعوت</a>",
