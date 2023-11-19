@@ -150,7 +150,8 @@
             "add_to_collection": "افزودن به کالکشن"
         },
         "lightboxes": {
-            "close": "بستن"
+            "close": "بستن",
+            "error_title": "درخواست شما قابل اتمام نمی باشد"
         },
         "countdown": {
             "years": "سال",
@@ -249,7 +250,7 @@
             "inputs": "ورودی ها",
             "languages": "زبان ها",
             "average_session_duration": "متوسط جلسه",
-            "code_license": "مجوز",
+            "code_license": "مجوز کد",
             "tags": "برچسب ها",
             "made_with_tools": "ساخته شده با",
             "genre": "ژانر",
@@ -338,7 +339,8 @@
             "following": "دنبال می کنید",
             "follow": "دنبال کردن",
             "creator": "سازنده",
-            "view_all_by_name": "نمایش همه‌ی کارهای {{name}}"
+            "view_all_by_name": "نمایش همه‌ی کارهای {{name}}",
+            "included_in_bundle_title": "در {{bundle_title}} وجود دارد"
         },
         "upload_list": {
             "empty_message": "هنوز چیزی برای دانلود در دسترس نیست.",
@@ -362,7 +364,7 @@
             "write_your_comment": "دیدگاه خود را بنویسید…",
             "post_comment": "ارسال نظر",
             "log_in_to_leave_comment": "برای ارسال دیدگاه، <a>وارد itch.io شوید</a>.",
-            "click_to_leave_a_comment": "برای گذاشتن نظر کلیک کنید ...",
+            "click_to_leave_a_comment": "برای گزاشتن نظر کلیک کنید …",
             "leave_a_comment": "دیدگاهی بگذارید",
             "leave_a_comment_header": "دیدگاهی بگذارید",
             "comments_header": "دیدگاه‌ها"
@@ -776,7 +778,7 @@
         "this_purchase_is_a_gift": "این خرید یک هدیه است",
         "agree_to_terms": "با تکمیل پرداخت ، شما با <1>شرایط خدمات</1> و <2>خط مشی رازداری</2> itch.io موافقت می کنید.",
         "included_files": "فایلهای شامل",
-        "i_already_paid_for_this": "من قبلاً هزینه این را پرداخته ام ...",
+        "i_already_paid_for_this": "من قبلاً هزینه این را پرداختم…",
         "email_address_description": "تایید پرداخت شما، اینجا ارسال خواهد شد",
         "your_email_address": "آدرس ایمیل شما",
         "download_this_product_by_purchasing_it_for": "این محصول را با خرید به قیمت {{price}} یا بیشتر دانلود کنید.",
@@ -800,7 +802,7 @@
         "blurb_author_says": "{{author}} می گوید",
         "edit_blurb": "ویرایش تقریظ",
         "add_a_blurb": "یک تقریظ اضافه کنید",
-        "remove_item_button": "برداشتن...",
+        "remove_item_button": "حذف",
         "page_title": "{{collection_title}} - مجموعه توسط {{author}}",
         "a_collection_by_author": "یک مجموعه توسط {{author}}",
         "pending_invitation": "شما یک دعوت در انتظار دارید تا مشارکت کننده این مجموعه باشید. <a>مشاهده دعوت</a>",
@@ -857,7 +859,7 @@
             "views_count_plural": "<s> {{count}} </s> بازدید ها"
         },
         "category": {
-            "view_this_communitys_rules": "مشاهده قوانین این انجمن ...",
+            "view_this_communitys_rules": "مشاهده قوانین این انجمن…",
             "by_topic_author": "توسط {{username}}",
             "archived_flag": "بایگانی شده",
             "new_flag": "جدید",
@@ -915,7 +917,7 @@
             "vote_down": "رای پایین",
             "vote_up": "رای بالا",
             "view_more_in_thread": "مشاهده بیشتر در رشته",
-            "ban": "مسدود کردن...",
+            "ban": "مسدود کردن…",
             "report": "گزارش",
             "delete": "حذف",
             "delete_topic": "حذف موضوع",
@@ -923,7 +925,7 @@
             "like": "پسندیدن",
             "reply": "پاسخ",
             "edits_count": "({{count}} ویرایش)",
-            "edits_count_plural": "({{count}} ویرایش)",
+            "edits_count_plural": "( {{count}} بار ویرایش شده است)",
             "edit_blocks": "ویرایش مسدود شده ها",
             "post_from_blocked_account": "پست از حساب مسدود شده",
             "deleted_post": "پست حذف شده"
