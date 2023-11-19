@@ -846,7 +846,8 @@
             "data_export": "تصدير البيانات",
             "api_keys": "مفاتيح واجهة برمجة التطبيقات",
             "oauth_applications": "مصادقة التطبيقات",
-            "thirdparty_analytics": "تحليلات الطرف الثالث"
+            "thirdparty_analytics": "تحليلات الطرف الثالث",
+            "delete_account": "حذف الحساب"
         },
         "two_factor_auth": {
             "tfa_status": "الحالة:{{tfa_status}}",
@@ -1095,7 +1096,7 @@
                 "save_vote": "حفظ التصويت",
                 "save_rating": "حفظ التقييم",
                 "you_havent_rated_this_submission_yet": "لم تقيم هذه المشاركة بعد.",
-                "you_just_voted": "لقد قمت للتو بالصويت.",
+                "you_just_voted": "لقد قمت للتو بالتصويت",
                 "you_voted_ago": "لقد قمت بالتصويت {{timestamp}}.",
                 "disqualified_message": "هذه المشاركة غير مؤهلة للتقييم."
             },
@@ -1140,6 +1141,9 @@
         "screenshots": {
             "empty_message": "لم يتم تحميل أي لقطات شاشة حتى الآن",
             "loading_more": "جارٍ تحميل المزيد من لقطات الشاشة…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "هذا التقديم غير مؤهل"
         }
     },
     "collection": {
@@ -1312,7 +1316,8 @@
             "details_genre_info": "حدد أفضل فئة تصف لعبتك. يمكنك اختيار أنواع إضافية ضمن العلامات أدناه",
             "community_discussion_board_info": "أضف صفحة مجتمع مخصصة مع الفئات والمواضيع والردود والمزيد",
             "add_screenshots": "أضف لقطات شاشة",
-            "screenshots_header": "لقطات الشاشة"
+            "screenshots_header": "لقطات الشاشة",
+            "external_file_tooltip": "قم بتوفير رابط للملف وسنقوم بتتبع عدد مرات تنزيله"
         },
         "recently_updated_pages_header": "الصفحات التي تم تحديثها مؤخرًا",
         "header": {
