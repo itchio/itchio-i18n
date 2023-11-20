@@ -1096,7 +1096,7 @@
                 "save_vote": "حفظ التصويت",
                 "save_rating": "حفظ التقييم",
                 "you_havent_rated_this_submission_yet": "لم تقيم هذه المشاركة بعد.",
-                "you_just_voted": "لقد قمت للتو بالتصويت",
+                "you_just_voted": "لقد قمت بالتصويت للتو.",
                 "you_voted_ago": "لقد قمت بالتصويت {{timestamp}}.",
                 "disqualified_message": "هذه المشاركة غير مؤهلة للتقييم."
             },
