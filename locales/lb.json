@@ -22,7 +22,8 @@
             "devlogs": "Entwéckler Protokoll",
             "upload_game": "Spill eroplueden",
             "browse_games": "Spille duerchsichen",
-            "browse": "Duerchsichen"
+            "browse": "Duerchsichen",
+            "game_assets": "Ressourcen"
         },
         "user_menu": {
             "library": "Meng Bibliothéik",
@@ -35,7 +36,8 @@
             "log_out": "Ausloggen",
             "account": "Benotzerkont",
             "create": "Kreéieren",
-            "explore": "Entdecken"
+            "explore": "Entdecken",
+            "account_menu_tooltip": "Kontomenü"
         },
         "footer": {
             "cookies": "Cookies",
@@ -44,8 +46,17 @@
             "contact_us": "Kontaktéier eis",
             "blog": "Blog",
             "faq": "Froen an Äntwerten",
-            "about": "Iwwer"
+            "about": "Iwwer",
+            "directory": "Verzeechnes"
         }
     },
-    "itchio": "itch.io"
+    "itchio": "itch.io",
+    "index": {
+        "view_all_games": "All Spiller uweisen",
+        "view_something_random": "Kuck eppes Zoufälleges",
+        "download_app": "App eroflueden",
+        "games_by_price": "Spiller no Präis",
+        "browse": "Duerchkucken",
+        "popular_tags": "Populär Tags"
+    }
 }
