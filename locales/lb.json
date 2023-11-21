@@ -1,1 +1,51 @@
-{}
+{
+    "layout": {
+        "header": {
+            "game_jams": "",
+            "bundles": "Päck",
+            "feed_unseen_count": "{{count}} nei",
+            "feed_unseen_count_plural": "{{count}} nei",
+            "games": "Spiller",
+            "fun_games": "Spaasseg Spiller",
+            "sales": "Solden",
+            "comics": "Bande dessinéeën",
+            "game_development": "Spillentwécklung",
+            "free_games": "Gratis Spiller",
+            "no_notifications": "Keng nei Matdeelungen",
+            "notifications_count": "{{count}} Matdeelung",
+            "notifications_count_plural": "{{count}} Matdeelungen",
+            "register": "Registréieren",
+            "log_in": "Aloggen",
+            "search": "Sich",
+            "search_placeholder": "No Spiller a Benotzer sichen",
+            "community": "Communautéit",
+            "devlogs": "Entwéckler Protokoll",
+            "upload_game": "Spill eroplueden",
+            "browse_games": "Spille duerchsichen",
+            "browse": "Duerchsichen"
+        },
+        "user_menu": {
+            "library": "Meng Bibliothéik",
+            "recommendations": "Recommandatiounen",
+            "new_project": "Néie Projet eroplueden",
+            "sales_bundles": "Solden a Päck",
+            "host_game_jam": "E game jam veranstalten",
+            "view_profile": "Profil kucken",
+            "settings": "Astellungen",
+            "log_out": "Ausloggen",
+            "account": "Benotzerkont",
+            "create": "Kreéieren",
+            "explore": "Entdecken"
+        },
+        "footer": {
+            "cookies": "Cookies",
+            "privacy": "Privatsphär",
+            "terms": "Konditiounen",
+            "contact_us": "Kontaktéier eis",
+            "blog": "Blog",
+            "faq": "Froen an Äntwerten",
+            "about": "Iwwer"
+        }
+    },
+    "itchio": "itch.io"
+}
