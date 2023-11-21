@@ -151,15 +151,15 @@
         },
         "lightboxes": {
             "close": "بستن",
-            "error_title": "درخواست شما توانایی انجامیدن ندارد"
+            "error_title": "درخواست شما انجام نشد"
         },
         "countdown": {
-            "years": "سال ها",
-            "months": "ماه ها",
-            "days": "روز ها",
-            "hours": "ساعت ها",
-            "minutes": "دقیقه ها",
-            "seconds": "ثانیه ها"
+            "years": "سال",
+            "months": "ماه",
+            "days": "روز",
+            "hours": "ساعت",
+            "minutes": "دقیقه",
+            "seconds": "ثانیه"
         },
         "project_visibility": {
             "restricted": "محدود شده",
@@ -240,7 +240,7 @@
     },
     "game": {
         "info_panel": {
-            "asset_license": "پروانه افزار",
+            "asset_license": "مجوز پکیج",
             "mentions": "ذکر شده ها",
             "links": "پیوندها",
             "singleplayer": "تک نفره",
@@ -250,19 +250,19 @@
             "inputs": "ورودی ها",
             "languages": "زبان ها",
             "average_session_duration": "میانگین نشست",
-            "code_license": "پروانه کد",
+            "code_license": "کد مجوز",
             "tags": "برچسب ها",
             "made_with_tools": "ساخته شده با",
-            "genre": "دسته بندی",
+            "genre": "ژانر",
             "author": "نویسنده",
             "authors": "نویسندگان",
-            "rating": "تراز",
-            "release_date": "هنگامه پخش",
-            "publisher": "پخش کننده",
+            "rating": "رتبه‌بندی",
+            "release_date": "تاریخ انتشار",
+            "publisher": "ناشر",
             "platforms": "پلتفرم ها",
             "category": "دسته بندی",
-            "release_status": "چگونگی",
-            "published_at": "پخش شده",
+            "release_status": "وضعیت",
+            "published_at": "منتشر شده",
             "updated_at": "به روز شد"
         },
         "more_information": "اطلاعات بیشتر",
@@ -316,10 +316,10 @@
                 "you_were_gifted_this": "این را به تو هدیه دادند",
                 "claimed": "خریداری شده",
                 "you_havent_sent_this_gift_to_anyone_yet": "شما هنوز این هدیه را برای کسی نفرستاده اید",
-                "percent_off": "{{percent}}% کاهش بها",
-                "download": "بارگیری",
-                "send_gift": "فرستادن پیشکش",
-                "you_own_this": "شما این را دارید"
+                "percent_off": "{{percent}}% تخفیف",
+                "download": "دانلود",
+                "send_gift": "ارسال هدیه",
+                "you_own_this": "شما صاحب این هستید"
             },
             "related_games_short": "مرتبط",
             "related_games": "بازی های مرتبط",
@@ -340,7 +340,7 @@
             "follow": "دنبال کردن",
             "creator": "سازنده",
             "view_all_by_name": "نمایش همه‌ی کارهای {{name}}",
-            "included_in_bundle_title": "در {{bundle_title}} می باشد"
+            "included_in_bundle_title": "در {{bundle_title}} شامل شده است"
         },
         "upload_list": {
             "empty_message": "هنوز چیزی برای دانلود در دسترس نیست.",
@@ -363,8 +363,8 @@
         "comments": {
             "write_your_comment": "دیدگاه خود را بنویسید…",
             "post_comment": "فرستادن دیدگاه",
-            "log_in_to_leave_comment": "برای فرستادن دیدگاه <a>Log in with itch.io</a>.",
-            "click_to_leave_a_comment": "برای گزاشتن دیدگاه کلیک کنید…",
+            "log_in_to_leave_comment": "برای گذاشتن دیدگاه، <a> با itch.io وارد شوید </a>.",
+            "click_to_leave_a_comment": "برای گذاشتن دیدگاه کلیک کنید…",
             "leave_a_comment": "دیدگاهی بگذارید",
             "leave_a_comment_header": "دیدگاهی بگذارید",
             "comments_header": "دیدگاه‌ها"
@@ -576,14 +576,14 @@
             "get_the_app": "دریافت اپ"
         },
         "preorder_instructions": "این پروژه دارای فایل‌هایی است که هنوز منتشر نشده‌اند. وقتی سازنده فایل‌ها را منتشر کرد می‌توانید به این صفحه برگردید.",
-        "access_comes_with_key": "دسترسی شما با یک کلید {{key_type}} همراه می باشد!",
-        "payment_comes_with_key": "پرداخت شما با یک کلید {{key_type}} همراه می باشد!",
+        "access_comes_with_key": "دسترسی شما، همراه با یک کلید {{key_type}} خواهد بود!",
+        "payment_comes_with_key": "پرداخت شما، همراه با یک کلید {{key_type}} خواهد بود!",
         "claim_external_key_instructions": "برای دریافت روی دکمه کلیک کنید."
     },
     "user_settings": {
         "email_addresses": {
             "additional_emails_summary": "می توانید آدرس های ایمیل اضافی را به حساب itch.io خود پیوند دهید تا به هر چیزی که تحت آن آدرس های ایمیل خریداری شده دسترسی پیدا کنید. به عنوان مثال ، آدرس ایمیل PayPal شما ممکن است متفاوت از آدرس رایانامه معمولی شما باشد ، بنابراین می خواهید آن را به عنوان یک ایمیل اضافی اضافه کنید.",
-            "change_password_instructions": "هنگام دگرگونی نشانی پست الکترونیکی خود، باید آن را تایید کنید تا به بازی هایی که خریداری کرده اید دسترسی داشته باشید. دستورکار تایید کردن به پست الکترونیکی شما فرستاده می شود.برای پایداری بیشتر می بایست گذروارژه کنونی خود را برای برپایی هرگونه دگرگونی در نشانی پست الکترونیکی خود نیز پیش آورید.",
+            "change_password_instructions": "هنگام تغییر ایمیل خود، باید آن را تایید کنید تا بتوانید به بازی‌هایی که خریداری کرده‌اید دسترسی داشته باشید. مراحل تایید به ایمیل شما ارسال خواهند شد.برای امنیت بیشتر، باید گذروارژه‌ی کنونی خود را برای هرگونه تغییری در ایمیل خود وارد کنید.",
             "additional_emails": {
                 "detach_email": "ایمیل را جدا کن",
                 "email_sent_status": "ایمیل ارسال شد",
@@ -597,32 +597,32 @@
                 "additional_email_address_label": "آدرس ایمیل اضافی"
             },
             "additional_emails_instructions": "پس از افزودن یک ایمیل اضافی ، دستورالعمل های تأیید برای شما ارسال می شود.",
-            "additional_emails_header": "پست الکترونیکی های افزونه",
-            "primary_email_description": "پست الکترونیکی بنیادین شما جایی است که itch.io هر آگهی را برای شما می فرستد.",
+            "additional_emails_header": "ایمیل‌های اضافی",
+            "primary_email_description": "اعلان‌های itch.io به ایمیل اصلی شما ارسال خواهند شد.",
             "change_email_form": {
-                "current_password": "گذرواژه کنونی",
-                "new_email_address": "نشانی پست الکترونیکی تازه"
+                "current_password": "گذرواژه‌ی کنونی",
+                "new_email_address": "آدرس ایمیل جدید"
             },
-            "your_primary_email_address": "نشانی پست الکترونیکی بنیادین شما: {{email}}",
-            "primary_email_header": "پست الکترونیکی بنیادین"
+            "your_primary_email_address": "آدرس ایمیل اصلی شما: {{email}}",
+            "primary_email_header": "ایمیل اصلی"
         },
         "password": {
-            "new_password_again": "دوباره گویی گذرواژه تازه",
-            "password_again": "دوباره گویی گذرواژه",
-            "new_password": "گذرواژه تازه",
+            "new_password_again": "تکرار گذرواژه‌ی جدید",
+            "password_again": "تکرار گذرواژه",
+            "new_password": "گذرواژه‌ی جدید",
             "password": "گذرواژه",
-            "current_password": "گذرواژه کنونی",
-            "set_password": "گذاشتن گذرواژه",
+            "current_password": "گذرواژه‌ی کنونی",
+            "set_password": "تنظیم گذرواژه",
             "reset_password": "بازنشانی گذرواژه",
-            "updating_your_password_will_cause": "به روز کردن گذرواژه شما سبب پایان یافتن نشست های دیگر مرورگر ها نیز می شود. هر گونه <a>OAuth connections and API keys</a> پویا خواهد ماند.",
-            "please_set_a_password_on_your_account": "خواهشمندیم برای افزایش پایداری و توانایی در دسترسی داشتن به حساب خود و بی نیازی در برابر دستیاری کمپانی های دیگر گذرواژه ای برای حسابتان کار بگذارید.",
-            "your_account_currently_doesnt_have_a_password": "حساب شما هم اکنون گذرواژه ای ندارد.",
-            "no_password_service_name": "حساب شما هم اکنون گذرواژه ندارد زیرا شما با {{service_name}} نام نویسی کردید."
+            "updating_your_password_will_cause": "به‌روز کردن گذرواژه، موجب پایان یافتن تمامی نشست‌هایی شما در مرورگرهای نیز خواهد شد. فقط <a>اتصال‌های OAuth و کلیدهای API</a> فعال خواهند ماند.",
+            "please_set_a_password_on_your_account": "لطفا جهت افزایش امنیت حساب خود و همچنین دسترسی راحت بدون نیاز به سرویس‌های سوم شخص، گذرواژه‌ای برای حساب خود تنظیم کنید.",
+            "your_account_currently_doesnt_have_a_password": "حساب شما در حال حاضر گذرواژه‌ای ندارد.",
+            "no_password_service_name": "حساب شما در حال حاضر گذرواژه ندارد، زیرا شما با {{service_name}} ثبت نام کرده‌اید."
         },
         "profile": {
-            "profile_description": "درونمایه برگه نمایه شما",
+            "profile_description": "محتوای صفحه‌ی پروفایل شما",
             "profile": "نمایه",
-            "use_dark_theme": "چنانچه شدنی است، از تم تیره بهره ببر",
+            "use_dark_theme": "استفاده از پوسته‌ی تیره در صورت امکان",
             "click_to_load_games": "نیاز به یک کلیک برای اجرای جاسازی های بازی HTML5",
             "disable_autoloading_next_page_when_browsing": "هنگام مرور ، بارگیری خودکار صفحه بعدی را غیرفعال کنید",
             "disable_animated_gifs": "غیرفعال کردن GIF های متحرک",
@@ -678,17 +678,17 @@
             "publisher_header": "ناشر",
             "payment_header": "پرداخت",
             "basics_header": "پایه",
-            "delete_account": "زدایش حساب"
+            "delete_account": "حذف حساب کاربری"
         },
         "account_settings": "تنظیمات حساب",
         "two_factor_auth": {
             "status_off": "خاموش",
             "status_on": "روشن",
-            "tfa_status": "چگونگی: {{tfa_status}}",
-            "page_description": "تایید کردن دو گامه لایه ای افزونه برای پایداری حساب شما می باشد تا چنانچه گذرواژه شما دزدیده شد، از دسترسی تایید نشده پیشگیری شود.",
-            "page_title": "تایید کردن دو گامه",
-            "configure_twofactor_authentication": "تایید کردن دو گامه را سامان دهید",
-            "learn_more_about_twofactor_authentication": "درباره تایید کردن دو گامه بیشتر بدانید"
+            "tfa_status": "وضعیت: {{tfa_status}}",
+            "page_description": "احراز هویت دو مرحله‌ای، امنیت حساب شما را یک لایه بیشتر کرده و جلوی ورودهای غیرمجاز را خواهد گرفت، حتی اگر گذرواژه‌ی شما لو رفته باشد.",
+            "page_title": "احراز هویت دو مرحله‌ای",
+            "configure_twofactor_authentication": "راه‌اندازی احراز هویت دو مرحله‌ای",
+            "learn_more_about_twofactor_authentication": "درباره‌ی احراز هویت دو مرحله‌ای بیشتر بدانید"
         }
     },
     "stripe_checkout": {
@@ -708,12 +708,12 @@
         "credit_or_debit_card": "کارت اعتباری",
         "gift_instructions": "این خرید پیشکش است. بعد از پرداخت می توانید پست الکترونیکی گیرنده را نشان دهید.",
         "buying_as": "خرید به نام",
-        "enter_your_password_to_use_your_card": "گذرواژه خود را برای بهره گیری از کارت خود بنویسید",
-        "new_card": "کارت تازه",
-        "card_ending_last4": "به پایان رسیدن در {{last4}}",
-        "edit_saved_cards": "ویرایش کارتهای اندوخته شده",
-        "choose_a_card": "یک کارت برگزینید",
-        "payment_error_help": "اگر دل آسوده نیستید، خواهشمندیم با <a> itch.io support </a> همراه پیام بالا تماس بگیرید.",
+        "enter_your_password_to_use_your_card": "جهت استفاده از کارت، گذرواژه‌ی خود را وارد کنید",
+        "new_card": "کارت جدید",
+        "card_ending_last4": "در {{last4}} به پایان می‌رسد",
+        "edit_saved_cards": "ویرایش کارت‌های ذخیره شده",
+        "choose_a_card": "یک کارت انتخاب کنید",
+        "payment_error_help": "اگر اطمینان ندارید، لطفا پیام بالا را برای <a>پشتیبانی itch.io</a> بفرستید.",
         "payment_error": "هنگام پردازش پرداخت شما خطایی روی داد:",
         "email": "ایمیل",
         "password": "گذرواژه"
@@ -737,13 +737,13 @@
         "commonly_tagged_with": "معمولاً برچسب گذاری شده با",
         "find_tag": "پیدا کردن برچسب",
         "page_title": "برچسب های برتر",
-        "all_tags": "همه برچسب ها",
+        "all_tags": "همه‌ی برچسب‌ها",
         "types": {
-            "tool": "ابزار ها",
-            "event": "رویداد ها",
-            "platform": "زمینه ها",
-            "style": "شیوه ها",
-            "genre": "دسته بندی ها"
+            "tool": "ابزارها",
+            "event": "رویدادها",
+            "platform": "پلتفرم‌ها",
+            "style": "استایل‌ها",
+            "genre": "سبک‌ها"
         }
     },
     "browse": {
@@ -777,17 +777,17 @@
         "filter_group_price": "قیمت",
         "related_collections": "مجموعه های مرتبط",
         "clear_filters": "پاک کردن",
-        "filter_results": "نتایج فیلتر",
-        "upload_your_project": "<a>Upload your project</a> به itch.io تا اینجا نمایش داده شود.",
-        "sort": "سامان دهی",
-        "sort_most_recent": "تازه ترین",
-        "sort_top_rated": "بالاترین تراز",
+        "filter_results": "فیلتر کردن نتایج",
+        "upload_your_project": "پروژه‌ی خود را در itch.io <a>آپلود کنید</a> تا اینجا نمایش داده شود.",
+        "sort": "مرتب سازی",
+        "sort_most_recent": "جدیدترین",
+        "sort_top_rated": "بیشترین رتبه",
         "sort_top_sellers": "فروشندگان برتر",
-        "sort_new_and_popular": "تازه و پرهوادار",
-        "sort_popular": "پرهوادار",
-        "results_count": "{{count}} برآیند",
-        "results_count_plural": "{{count}} برآیند",
-        "fresh_description": "شماری از برنامه هایی که پیاپی گونه در حال به روز رسانی هستند را از گردآمده های برگزیده شده توسط هموندان ما جستجو کنید. برای موارد تازه دیر تر برگردید."
+        "sort_new_and_popular": "جدید و محبوب",
+        "sort_popular": "محبوب",
+        "results_count": "{{count}} نتیجه",
+        "results_count_plural": "{{count}} نتیجه",
+        "fresh_description": "مجموعه‌ای از پروژه‌ها را که به طور مداوم توسط اعضای انتخابی ما در حال به‌روزرسانی هستند را بررسی کنید. برای موارد جدید هر روز سر بزنید."
     },
     "buy_form": {
         "check_out_with": "پرداخت با",
@@ -803,7 +803,7 @@
         "this_purchase_is_a_gift": "این خرید یک هدیه است",
         "agree_to_terms": "با تکمیل پرداخت ، شما با <1>شرایط خدمات</1> و <2>خط مشی رازداری</2> itch.io موافقت می کنید.",
         "included_files": "فایلهای شامل",
-        "i_already_paid_for_this": "من از پیش این هزینه را پرداختم…",
+        "i_already_paid_for_this": "من قبلا این هزینه را پرداخه‌ام…",
         "email_address_description": "تایید پرداخت شما، اینجا ارسال خواهد شد",
         "your_email_address": "آدرس ایمیل شما",
         "download_this_product_by_purchasing_it_for": "این محصول را با خرید به قیمت {{price}} یا بیشتر دانلود کنید.",
@@ -826,8 +826,8 @@
         "remove_confirm": "آیا مطمئن هستید که می خواهید این مورد را از مجموعه حذف کنید",
         "blurb_author_says": "{{author}} می گوید",
         "edit_blurb": "ویرایش بازگویی",
-        "add_a_blurb": "یک بازگویی بیافزایید",
-        "remove_item_button": "بزدا…",
+        "add_a_blurb": "یک بازگویی اضافه کنید",
+        "remove_item_button": "حذف…",
         "page_title": "{{collection_title}} - مجموعه توسط {{author}}",
         "a_collection_by_author": "یک مجموعه توسط {{author}}",
         "pending_invitation": "شما یک دعوت در انتظار دارید تا مشارکت کننده این مجموعه باشید. <a>مشاهده دعوت</a>",
@@ -884,7 +884,7 @@
             "views_count_plural": "<s> {{count}} </s> بازدید"
         },
         "category": {
-            "view_this_communitys_rules": "دیدن قوانین این هم بود…",
+            "view_this_communitys_rules": "مشاهده‌ی قوانین این انجمن…",
             "by_topic_author": "توسط {{username}}",
             "archived_flag": "بایگانی شده",
             "new_flag": "جدید",
@@ -941,16 +941,16 @@
             "deleted_account": "حساب حذف شده",
             "vote_down": "رای پایین",
             "vote_up": "رای بالا",
-            "view_more_in_thread": "اندازه بیشتری از رشته را ببین",
-            "ban": "بند کردن…",
+            "view_more_in_thread": "مشاهده‌ی ادامه در رشته",
+            "ban": "مسدود کردن…",
             "report": "گزارش",
             "delete": "حذف",
             "delete_topic": "حذف موضوع",
             "edit": "ویرایش",
             "like": "پسندیدن",
             "reply": "پاسخ",
-            "edits_count": "({{count}} بار ویرایش شده)",
-            "edits_count_plural": "({{count}} بار ویرایش شده است)",
+            "edits_count": "({{count}} ویرایش)",
+            "edits_count_plural": "({{count}} ویرایش)",
             "edit_blocks": "ویرایش مسدود شده ها",
             "post_from_blocked_account": "پست از حساب مسدود شده",
             "deleted_post": "پست حذف شده"
