@@ -1090,7 +1090,7 @@
             "rated_by_people_count_2": "Уже оценено {{count}} людьми",
             "rate_submission": {
                 "vote": "Проголосовать",
-                "private_field": "(закрытый проект)",
+                "private_field": "(конфиденциально)",
                 "vote_for_this_submission": "Проголосовать за этот проект",
                 "rate_this_submission": "Оценить проект",
                 "not_open_yet": "Период подачи проектов на этот геймджем ещё не завершился. Голосование начнётся {{start_date}}.",
