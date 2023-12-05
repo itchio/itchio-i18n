@@ -121,7 +121,7 @@
             "assets": "Assets",
             "game_mod": "Mods",
             "physical_game": "Jeux physiques",
-            "soundtrack": "Albums & musique",
+            "soundtrack": "Albums & bandes-son",
             "other": "Divers",
             "tool": "Outils",
             "comic": "Comics",
@@ -991,7 +991,8 @@
             "basics_header": "Compte",
             "misc_header": "Divers",
             "revenue_sharing": "Partage des revenus",
-            "publisher_get_started": "Démarrer"
+            "publisher_get_started": "Démarrer",
+            "delete_account": "Supprimer le compte"
         },
         "account_settings": "Paramètres du compte",
         "profile": {
