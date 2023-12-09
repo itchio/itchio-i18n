@@ -813,6 +813,9 @@
         "screenshots": {
             "loading_more": "Cargando más capturas…",
             "empty_message": "Aún no se han subido capturas de pantalla"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Esta presentación está descalificada"
         }
     },
     "app": {
@@ -957,7 +960,8 @@
             "details_genre_info": "Seleccione la categoría que mejor describa su juego. Puede elegir géneros adicionales con las etiquetas a continuación",
             "community_field_info": "Cree una comunidad para su proyecto permitiendo que las personas publiquen en su página.",
             "community_discussion_board_info": "Agregue una página de comunidad dedicada con categorías, hilos, respuestas y más",
-            "community_comments_info": "Agrega un hilo de comentarios anidado en la parte inferior de la página del proyecto"
+            "community_comments_info": "Agrega un hilo de comentarios anidado en la parte inferior de la página del proyecto",
+            "external_file_tooltip": "Usted proporciona un enlace al archivo y realizaremos un seguimiento de cuántas veces se ha descargado"
         },
         "project_header": {
             "more": "Más",
@@ -1052,7 +1056,7 @@
         "support_the_creator_by_paying_above_the_minimum_price": "Apoya al creador pagando al menos",
         "this_purchase_is_a_gift": "Esta compra en un regalo",
         "agree_to_terms": "Al completar el pago estás aceptando los <1>Términos de Servicio</1> y la <2>Política de Privacidad</2> de itch.io.",
-        "gift_email_instructions": "Deberás introducir un email al que llegará tu regalo después de pagar",
+        "gift_email_instructions": "Elegirás un correo electrónico al que enviar el regalo después de haber pagado.",
         "email_address_description": "Tu confirmación de pago será enviada a",
         "no_thanks_just_take_me_to_the_downloads": "No gracias, muéstrame los links de descarga",
         "free_pay_what_you_want": "Este proyecto es gratuito pero el creador acepta tu apoyo al permitirte pagar lo que sientas es justo.",
@@ -1124,7 +1128,8 @@
             "contact_header": "Contacto",
             "publisher_header": "Editor",
             "payment_header": "Pago",
-            "basics_header": "Básico"
+            "basics_header": "Básico",
+            "delete_account": "Borrar cuenta"
         },
         "email_addresses": {
             "primary_email_description": "Tu correo principal es a donde itch.io te enviará notificaciones.",
