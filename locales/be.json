@@ -12,7 +12,8 @@
         "to_follow": {
             "dismiss_tooltip": "Не прапаноўваць больш",
             "refresh_button": "Абнавіць, каб бачыць больш",
-            "created_projects": "Створана {{project_list}}"
+            "created_projects": "Створана {{project_list}}",
+            "empty_results": "Зараз у нас няма ніякіх рэкамендацый. Праверце пазней"
         },
         "page_title": "Спампуйце найноўшыя інды-гульні",
         "latest_featured_games": "Нядаўна выбраныя гульні",
@@ -49,7 +50,10 @@
         "meta_description": "itch.io - гэта просты спосаб знаходзіць, спампоўваць і распаўсюджваць індзі-гульні ў Інтэрнэце. Незалежна ад таго, з'яўляецеся вы распрацоўшчыкам, які хоча загрузіць сваю гульню, ці проста тым, хто шукае нешта новае, каб пагуляць у itch.io.",
         "fresh_games_description": "Пастаяннае абнаўленне апошнімі гульнямі на itch.io",
         "get_the_app": "<s>Атрымайце максімальную аддачу ад itch.io!</s> Усталюйце свае гульні і кіруйце імі з дапамогай нашага настольнага прыкладання",
-        "game_dev_on_sale": "Рэсурсы для распрацоўкі гульняў<1>на распрадажы</1>"
+        "game_dev_on_sale": "Рэсурсы для распрацоўкі гульняў<1>на распрадажы</1>",
+        "intro": "<s>itch.io</s> — гэта просты шлях знаходзіць і дзяліцца гульнямі анлайн бясплатна.",
+        "filtering_platform": "Паказваюцца толькі гульні для {{platform_name}}",
+        "people_to_follow_description": "Вось некалькі акаўнтаў, якія могуць вас зацікавіць. <a>Нашто падпісвацца?</a>"
     },
     "layout": {
         "header": {
@@ -175,7 +179,8 @@
             "current_page_of_total": "Старонка {{current_page}} з {{total_pages}}",
             "first_page": "Першая старонка",
             "next": "Наступная",
-            "next_page": "Наступная старонка"
+            "next_page": "Наступная старонка",
+            "prev": "Папяр."
         },
         "filter_price": {
             "paid": "Платныя",
@@ -187,7 +192,8 @@
             "unfollow": "Адпісацца",
             "unfollow_username": "Адпісацца ад {{username}}",
             "follow": "Падпісацца",
-            "follow_username": "Падпісацца на {{username}}"
+            "follow_username": "Падпісацца на {{username}}",
+            "following_username": "Падпісаныя на {{username}}"
         },
         "forms": {
             "email_address": "Email",
@@ -195,7 +201,9 @@
             "confirm": "Пацьвердзіць",
             "search": "Пошук",
             "submit": "Адправіць",
-            "save": "Захаваць"
+            "save": "Захаваць",
+            "form_errors": "Калі ласка, праверце ўведзеную інфармацыю",
+            "optional": "Неабавязкова"
         },
         "accessibility_features": {
             "highcontrast": "Высокакантрасны",
@@ -262,10 +270,16 @@
             "joystick": "Джойстык",
             "gamepad": "Геймпад (любы)",
             "mouse": "Мыш",
-            "keyboard": "Клавіятура"
+            "keyboard": "Клавіятура",
+            "dance_pad": "Танцавальны кілімок"
         },
         "multiplayer_features": {
-            "local": "Лакальны мультыплэер"
+            "local": "Лакальны мультыплэер",
+            "adhoc": "Гульня па сетцы без сервераў",
+            "server": "Гульня па сетцы з серверамі"
+        },
+        "errors": {
+            "server_error": "Сервер не адказвае, паспрабуйце пазней"
         }
     },
     "jam": {
@@ -337,7 +351,8 @@
     "blog": {
         "digest": "Дайджэст",
         "updates": "Абнаўленні",
-        "all_posts": "Усе пасты"
+        "all_posts": "Усе пасты",
+        "empty_message": "Зараз допісы тут адсутнічаюць"
     },
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "Увядзіце новы пароль для ўліковага запісу {{account_name}}."
