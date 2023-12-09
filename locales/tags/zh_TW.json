@@ -185,6 +185,25 @@
         "ciphers": "解謎",
         "celtic": "凱爾特",
         "asset-pack": "資源包",
-        "homebrew": "自家釀造"
+        "homebrew": "自家釀造",
+        "perma-death": "永久死亡",
+        "level-editor": "關卡編輯器",
+        "lesbian": "女同",
+        "larp": "拉普",
+        "kung-fu": "功夫",
+        "kinetic-novel": "動感小說",
+        "kickstarter": "眾籌",
+        "jrpg": "日系角色扮演",
+        "itchfunding": "瘙癢資金",
+        "isometric": "等距",
+        "internet": "互聯網",
+        "interactive-fiction": "互動小說",
+        "instrument": "儀器",
+        "indie": "獨立",
+        "incremental": "增量",
+        "immersive": "身臨其境",
+        "idle": "怠",
+        "icons": "圖示",
+        "hypercard": "超級卡"
     }
 }
