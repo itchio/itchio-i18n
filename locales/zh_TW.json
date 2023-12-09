@@ -967,12 +967,12 @@
                 "private_field": "（私人的）"
             },
             "rated_by_people_count": "由 {{count}} 人評分",
-            "rated_by_people_count_plural": "已有{{count}}人評分",
+            "rated_by_people_count_plural": "到目前為止，由 {{count}} 人評分",
             "time_remaining_before_deadline": "截止前剩餘 {{time_duration}}",
             "ranked_with_vote_count": "以 {{count}} 票排名 {{ordinal_rank}}",
             "results_header": "結果",
             "ranked_from_count": "根據 <s>{{count}} 個評分</s>排名。",
-            "ranked_from_count_plural": "根據<s>{{count}}則評分</s>排名。",
+            "ranked_from_count_plural": "排名自 <s>{{count}} 評級</s>。",
             "score_information": "分數是根據賽事評分的中位數由原始分數調整而來。",
             "run_project": "執行專案",
             "play_game": "遊玩",
@@ -1072,7 +1072,7 @@
             "hosted_by": "由 {{hosts}} 所主持"
         },
         "rate_game": {
-            "this_submission_is_disqualified": "此投稿作品被取消資格"
+            "this_submission_is_disqualified": "此提交被取消資格"
         }
     },
     "dashboard": {
