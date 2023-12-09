@@ -1380,7 +1380,7 @@
             "my_purchases": "Мои покупки",
             "recommended_for_you": "Рекомендованные для вас",
             "things_on_sale": "Со скидками",
-            "things_to_rate": "Без оценок"
+            "things_to_rate": "Вещи для оценки"
         },
         "download_button": "Скачать",
         "gift_button": "Подарить",
@@ -1390,7 +1390,7 @@
             "rating_removed_header": "Оценка удалена",
             "rating_deleted_summary": "Ваша оценка была удалена.",
             "delete_button": "Удалить оценку и отзыв",
-            "choose_stars": "Выставите оценку от 1 до 5 звёзд.",
+            "choose_stars": "Выберите оценку от 1 до 5 звёзд.",
             "rate_header": "Оцените и напишите отзыв о {{project_title}}",
             "you_rated_this_project_ago": "Вы оценили этот проект {{time_ago}}."
         },
