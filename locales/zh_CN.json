@@ -1,1 +1,8 @@
-{}
+{
+    "layout": {
+        "footer": {
+            "contact_us": "联系我们",
+            "about": "关于"
+        }
+    }
+}
