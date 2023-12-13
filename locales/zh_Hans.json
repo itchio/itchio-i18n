@@ -933,7 +933,8 @@
             "data_export": "数据导出",
             "api_keys": "API 密钥",
             "oauth_applications": "OAuth 应用",
-            "thirdparty_analytics": "第三方统计"
+            "thirdparty_analytics": "第三方统计",
+            "delete_account": "注销账户"
         },
         "profile": {
             "language_community_translation": "<s> itch.io 由我们的社区成员翻译。</s> 一些语言只有部分可用。如果您希望以您的语言查看 itch.io 或贡献翻译。 <a>了解详情</a>",
@@ -1237,6 +1238,9 @@
         "screenshots": {
             "empty_message": "尚未上传任何屏幕截图",
             "loading_more": "正在加载更多屏幕截图…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "此提交项目不合格"
         }
     },
     "add_to_collection": {
