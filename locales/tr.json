@@ -55,7 +55,8 @@
             "recommendations": "Öneriler",
             "library": "Kütüphanem",
             "feed": "Akışım",
-            "account_menu_tooltip": "Hesap Menüsü"
+            "account_menu_tooltip": "Hesap Menüsü",
+            "posts": "Gönderiler"
         }
     },
     "index": {
@@ -117,7 +118,7 @@
     "misc": {
         "classifications": {
             "physical_game": "Fiziksel oyunlar",
-            "soundtrack": "Oyun Müzikleri",
+            "soundtrack": "Albümler & Film müzikleri",
             "tool": "Araçlar",
             "book": "Kitaplar",
             "game": "Oyunlar",
@@ -199,7 +200,8 @@
         },
         "page_number": "Sayfa {{page_number}}",
         "lightboxes": {
-            "close": "Kapat"
+            "close": "Kapat",
+            "error_title": "Talebiniz tamamlanamadı"
         },
         "platforms": {
             "web": "İnternet"
@@ -298,7 +300,8 @@
             "billing_address": "Fatura adresi",
             "email_notifications": "E-Posta bildirimleri",
             "connected_accounts": "Bağlı hesaplar",
-            "press_access": "Basın erişimi"
+            "press_access": "Basın erişimi",
+            "delete_account": "Hesabı Sil"
         },
         "profile": {
             "language_community_translation": "<s>itch.io topluluk üyeleri tarafından çevirildi</s> Bazı diller sadece kısmen hazır. Eğer itch.io'yu dilinize çevirmek ya da hata düzeltmek isterseniz, siz de katkıda bulunabilirsinizç <a>Daha fazla öğrenin</a>",
@@ -454,7 +457,7 @@
         "download_this_product_by_purchasing_it_for": "{{price}} veya daha fazla ödeyerek bu ürünü indirin.",
         "your_email_address": "E-Posta adresiniz",
         "email_address_description": "Ödeme onayınız buraya gönderilecek",
-        "gift_email_instructions": "Hediye göndereceğiniz e-posta adresini ödeme sonrasında seçeceksiniz",
+        "gift_email_instructions": "Ödemeyi yaptıktan sonra hediye göndermek için bir e-posta seçeceksiniz.",
         "i_already_paid_for_this": "Bunun için zaten ödeme yaptım...",
         "included_files": "İçindeki dosyalar",
         "agree_to_terms": "Ödemeyi tamamlayarak itch.io <1>Kullanım Şartları</1>'nı ve <2>Gizlilik Politikası</2>'nı kabul etmiş olacaksınız.",
@@ -604,7 +607,7 @@
         "your_purchase_comes_with_a_steam_key": "Alışverişinize Steam anahtarı da dahildir.",
         "steam_key_bundle_disclaimer": "(Not: {{bundle_title}} ürününe Steam anahtarı dahil değil)",
         "donate_button": "{{noun}} ürününe destek ol",
-        "empty_page_no_uploads": "Geliştirici henüz hiçbir şey yüklemedi...",
+        "empty_page_no_uploads": "Geliştirici henüz hiçbir şey yüklemedi…",
         "comments": {
             "comments_header": "Yorumlar",
             "leave_a_comment_header": "Yorum bırak",
@@ -1007,14 +1010,14 @@
                 "unavailable_to_rate": "Kendi girdinizi göndermediğiniz için bu projeye puan veremezsiniz. Yine de aşağıya bir yorum bırakabilirsiniz."
             },
             "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
-            "rated_by_people_count_plural": "Şimdiye kadar {{count}} kişi tarafından derecelendirildi.",
+            "rated_by_people_count_plural": "Şimdiye kadar {{count}} kişi tarafından oylandı",
             "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
             "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
             "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
             "ranked_with_vote_count_plural": "{{count}} oy(lar)la {{ordinal_rank}} sırada",
             "results_header": "Sonuçlar",
             "ranked_from_count": "<s> {{count}} derecelendirmeye </s> göre sıralanmıştır.",
-            "ranked_from_count_plural": "<s>{{count}} derecelendirmelere </s> göre sıralandı.",
+            "ranked_from_count_plural": "<s>{{count}} puanlarına</s> göre sıralanmıştır",
             "score_information": "Skor, ham puandan jam içindeki oyun başına ortalama derecelendirme sayısına göre ayarlanır.",
             "run_project": "Projeyi çalıştır",
             "play_game": "Oyunu oyna",
@@ -1084,6 +1087,9 @@
         "screenshots": {
             "loading_more": "Daha fazla ekran görüntüsü yükleniyor…",
             "empty_message": "Henüz yüklenmiş bir ekran görüntüsü yok"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Bu başvuru diskalifiye edilmiştir"
         }
     },
     "library": {
@@ -1323,7 +1329,8 @@
             "custom_noun_field_description": "Özel bir isim sağlayarak itch.io'nun projenize nasıl atıfta bulunduğunu değiştirebilirsiniz.",
             "custom_noun_field": "Özel isim",
             "kind_of_project_field": "Bu türdeki proje",
-            "classification_field_description": "Ne yüklüyorsun?"
+            "classification_field_description": "Ne yüklüyorsun?",
+            "external_file_tooltip": "Dosyaya bir bağlantı sağlarsınız ve biz de kaç kez indirildiğini takip ederiz"
         },
         "project_header": {
             "devlog": "Geliştirici Günlüğü",
