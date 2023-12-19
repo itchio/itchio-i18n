@@ -772,7 +772,8 @@
             "data_export": "Datenexport",
             "api_keys": "API-Keys",
             "oauth_applications": "OAuth-Applikation",
-            "thirdparty_analytics": "Analysen dritter Partien"
+            "thirdparty_analytics": "Analysen dritter Partien",
+            "delete_account": "Account löschen"
         },
         "profile": {
             "language_community_translation": "<s>itch.io wird von Mitgliedern der Community übersetzt.</s> Manche Sprachen sind bisher nur teilweise verfügbar. Wenn du itch.io gern in deiner Sprache sehen oder bei vorhandenen Fehlern helfen möchtest, kannst du das tun. <a>Erfahre mehr</a>",
