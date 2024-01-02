@@ -799,7 +799,8 @@
             "details_genre_info": "Sélectionnez la catégorie qui décrit le mieux votre jeu. Vous pouvez choisir des genres supplémentaires dans les mots-clés ci-dessous",
             "details_genre_header": "Genre",
             "details_tags_header": "Mots-clés",
-            "project_type_help": "Vous pouvez ajouter des fichiers à télécharger de n’importe quel type ci-dessus"
+            "project_type_help": "Vous pouvez ajouter des fichiers à télécharger de n’importe quel type ci-dessus",
+            "external_file_tooltip": "Vous fournissez un lien vers le fichier et nous comptabiliserons le nombre de téléchargements"
         },
         "stats": {
             "downloads": "Téléchargements",
