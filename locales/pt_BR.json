@@ -265,7 +265,7 @@
             "follow": "Você precisará de uma conta no itch.io antes de seguir alguém.",
             "follow_username": "Você precisará de uma conta no itch.io antes de poder seguir <1> {{username}} </1>.",
             "collection": "Você precisará de uma conta no itch.io antes de poder adicionar a uma coleção.",
-            "jam_submit": "Você precisa de uma conta na itch.io para participar de uma jam.",
+            "jam_submit": "Você precisa de uma conta na itch.io para participar de um Concurso.",
             "claim_object": "Por favor, faça o login ou crie uma conta para reivindicar {{noun}}.",
             "recent_purchases": "Faça login para vincular as compras que você fez recentemente.",
             "claim_object_title": "Por favor, entre ou crie uma conta para resgatar {{title}}."
