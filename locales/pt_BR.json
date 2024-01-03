@@ -36,7 +36,7 @@
             "feed_unseen_count_plural": "{{count}} novos",
             "feed": "Novidades",
             "dashboard": "Painel de Controle",
-            "jams": "Encontro de Desenvolvedores",
+            "jams": "Concursos de jogos",
             "notifications_count": "{{count}} notificação",
             "notifications_count_plural": "{{count}} notificações"
         },
@@ -47,7 +47,7 @@
             "log_out": "Sair",
             "settings": "Configurações",
             "view_profile": "Ver perfil",
-            "host_game_jam": "Criar game jam",
+            "host_game_jam": "Criar Concursos de jogos",
             "sales_bundles": "Promoções e pacotes",
             "new_project": "Carregar novo projeto",
             "dashboard": "Dashboard",
@@ -83,8 +83,8 @@
         "recommendations_based_on": "Com base nas coisas que você comprou, baixou e classificou",
         "fresh_games": "Jogos Frescos",
         "view_more": "Ver mais",
-        "featured_jams": "Jams em destaque",
-        "view_all_jams": "Ver todas as jams",
+        "featured_jams": "Concursos em destaque",
+        "view_all_jams": "Ver todos os concursos",
         "fresh_games_description": "Jogos que são constantemente atualizados no itch.io",
         "people_to_follow": "Pessoas Para Seguir",
         "view_all_games_on_sale": "Ver todos os jogos em promoção",
@@ -265,7 +265,7 @@
             "follow": "Você precisará de uma conta no itch.io antes de seguir alguém.",
             "follow_username": "Você precisará de uma conta no itch.io antes de poder seguir <1> {{username}} </1>.",
             "collection": "Você precisará de uma conta no itch.io antes de poder adicionar a uma coleção.",
-            "jam_submit": "Você precisará de uma conta no itch.io antes de poder enviar uma jam.",
+            "jam_submit": "Você precisa de uma conta na itch.io para participar de um Concurso.",
             "claim_object": "Por favor, faça o login ou crie uma conta para reivindicar {{noun}}.",
             "recent_purchases": "Faça login para vincular as compras que você fez recentemente.",
             "claim_object_title": "Por favor, entre ou crie uma conta para resgatar {{title}}."
@@ -986,7 +986,7 @@
                 "voting_ends_in": "A votação termina em"
             },
             "submission_is_closed_for_voting": "O envio está encerrado e a votação está em andamento",
-            "you_can_now_rate_entries": "Agora pode avaliar entradas atraves da <a>pagina de submissoes</a>2"
+            "you_can_now_rate_entries": "Agora pode avaliar entradas através da <a>página de submissões</a>"
         },
         "submissions": {
             "there_are_no_submissions_yet": "Ainda não há submissões",

@@ -320,7 +320,7 @@
         "modern": "Moderne",
         "mental-health": "Santé mentale",
         "meme": "Meme",
-        "lgbtqia": "LGBTQIA+",
+        "lgbtqia": "LGBTQIA",
         "kung-fu": "Kung Fu",
         "internet": "Internet",
         "indie": "Jeu indépendant",
@@ -345,7 +345,7 @@
         "lovecraft": "Horreur Lovecraftien",
         "hypercard": "HyperCarte",
         "homebrew": "Brassage maison",
-        "hexcrawl": "He crawl",
+        "hexcrawl": "Hexcrawl",
         "eroge": "Eroge",
         "endless-runner": "Coureur sans fin",
         "clicker": "Cliqueur",
@@ -368,6 +368,11 @@
         "tabletop": "sur table",
         "sokoban": "Sokoban",
         "railroad": "Chemin de fer",
-        "queer": "Queer"
+        "queer": "Queer",
+        "touhou": "Touhou",
+        "sailing": "Navigation",
+        "synthwave": "Synthwave",
+        "siren-head": "Siren Head",
+        "template": "Modèle de projet"
     }
 }

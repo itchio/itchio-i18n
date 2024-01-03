@@ -165,7 +165,7 @@
         "forms": {
             "required": "Champ obligatoire",
             "save": "Enregistrer",
-            "email_address": "Adresse de courriel",
+            "email_address": "Adresse e-mail",
             "submit": "Envoyer",
             "form_errors": "Veuillez vérifier les informations que vous avez fournies",
             "search": "Rechercher",
@@ -176,7 +176,7 @@
         "follow_button": {
             "follow_username": "Suivre {{username}}",
             "follow": "S’abonner",
-            "following_username": "Abonné·e à {{username}}",
+            "following_username": "Abonné à {{username}}",
             "following": "Abonnements",
             "unfollow_username": "Arrêter de suivre {{username}}",
             "unfollow": "Se désabonner"
@@ -207,7 +207,7 @@
         },
         "lightboxes": {
             "close": "Fermer",
-            "error_title": "Votre demande n'a pas pu être complétée"
+            "error_title": "Votre demande n’a pas pu être complétée"
         },
         "countdown": {
             "months": "mois",
@@ -294,7 +294,7 @@
             "url_preview": "Votre page de profil sera",
             "other_registration_methods": "Autres méthodes de connexion",
             "already_have_account": "ou vous avez déjà un compte ?",
-            "digest_signup": "Je veux m'inscrire à la newsletter bimensuelle d’itch.io",
+            "digest_signup": "Je veux m’inscrire à la newsletter bimensuelle d’itch.io",
             "interest_gamer": "Je veux jouer ou télécharger des jeux depuis itch.io",
             "interest_developer": "Je veux distribuer du contenu sur itch.io",
             "account_preferences_info": "Vous pouvez changer vos réponses plus tard, ces questions ajustent la manière dont le site se présente à vous.",
@@ -322,7 +322,7 @@
         "create_account_or_login": "<1>Créer un compte</1> <em>ou</em> <2>Se connecter</2>",
         "upload_or_dashboard": "<1>Créer un nouveau jeu</1> <em>ou</em> <2>Accéder au tableau de bord</2>",
         "design_your_games_page_description": "Créez une page personnalisée pour votre jeu où les gens pourront acheter ou télécharger votre jeu. Choisissez les couleurs, les polices, les images et les vidéos. Puisque c’est votre page, elle n’affichera que le contenu que vous aurez choisi, rien d’autre.",
-        "track_your_game_description": "Gardez un œil sur ce que les gens pensent de votre jeu avec des analyses détaillées de vos vues, téléchargements et achats. Vous voulez vous faire de la pub ? Générez des clés pour donner aux utilisateurs l'accès à votre jeu."
+        "track_your_game_description": "Gardez un œil sur ce que les gens pensent de votre jeu avec des analyses détaillées de vos vues, téléchargements et achats. Vous voulez vous faire de la pub ? Générez des clés pour donner aux utilisateurs l’accès à votre jeu."
     },
     "search": {
         "creators": "Créateurs :",
@@ -482,8 +482,8 @@
                 "view_the_submission_page": "Voir la page de jam",
                 "accepting_ratiings": "Les travaux soumis à cette jam sont en cours d’évaluation. <a>En savoir plus</a>",
                 "you_rated_this_game": "Vous avez évalué ce jeu",
-                "now_accepting_ratings": "Les soumissions de cette jam sont en cours d’évaluation.",
-                "rating_instructions": "Notez et commentez cette soumission en visitant sa page à partir du lien ci-dessus."
+                "now_accepting_ratings": "Les participations de cette jam sont en cours d’évaluation.",
+                "rating_instructions": "Notez et commentez cette participation en visitant sa page à partir du lien ci-dessus."
             },
             "included_in_bundle_title": "Inclus dans {{bundle_title}}"
         },
@@ -518,12 +518,12 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Ce sujet est archivé. Il n'est plus répertorié et aucun nouveau message ne peut y être créé.",
+            "topic_is_archived": "Ce sujet est archivé. Il n’est plus répertorié et aucun nouveau message ne peut y être créé.",
             "reply": "Répondre",
             "log_in_to_reply": "Connectez-vous pour répondre",
             "unlisted_topic_notice": "<s>Un modérateur a modifié le répertoriage de ce sujet.</s> Il n’est plus visible dans la liste des sujets, mais vous pouvez toujours y répondre et y apporter des modifications.",
             "join_the_discussion": "Rejoignez la discussion. Connectez-vous ou créez un compte gratuit itch.io pour continuer.",
-            "reply_to_someone_else": "Voulez-vous répondre à quelqu’un d’autre ? Cliquez sur <s>répondre</s> sous leur publication.",
+            "reply_to_someone_else": "Voulez-vous répondre à quelqu’un d’autre ? Cliquez sur <s>répondre</s> sous leur publication.",
             "this_reply_will_go_to_yourself": "Cette réponse ira à vous-même.",
             "this_reply_will_go_to_the_topic_author": "Cette réponse ira à l’auteur du sujet, {{username}}.",
             "new_reply": "Nouvelle réponse",
@@ -628,7 +628,7 @@
             "empty_message": "Il n’y a aucun sujet",
             "there_arent_any_topics_yet": "Il n’y a pas encore de sujets",
             "rules_header": "Règles",
-            "view_this_communitys_rules": "Voir les règles de cette communauté …"
+            "view_this_communitys_rules": "Voir les règles de cette communauté…"
         },
         "misc": {
             "new_topic_button": "Nouveau sujet"
@@ -651,7 +651,7 @@
         "download_this_product_by_purchasing_it_for": "Téléchargez ce produit en l’achetant pour {{price}} ou plus.",
         "your_email_address": "Votre adresse e-mail",
         "email_address_description": "Un reçu vous sera envoyé à cette addresse",
-        "gift_email_instructions": "Vous pourrez entrer l'adresse mail du bénéficiaire après paiement.",
+        "gift_email_instructions": "Vous pourrez entrer l’adresse mail du bénéficiaire après paiement.",
         "i_already_paid_for_this": "J’ai déjà payé pour ça…",
         "included_files": "Fichiers inclus",
         "agree_to_terms": "En effectuant un paiement, vous acceptez les <1>Conditions d’utilisation</1> et la <2>Politique de respect de la vie privée</2> d’itch.io.",
@@ -680,7 +680,7 @@
         "remove_item_button": "Retirer…",
         "edit_blurb": "Modifier le commentaire",
         "blurb_author_says": "{{author}} a dit",
-        "remove_confirm": "Souhaitez-vous vraiment le retirer de la collection",
+        "remove_confirm": "Êtes-vous sûr de vouloir retirer ceci de la collection",
         "page_title": "{{collection_title}} - Collection de {{author}}"
     },
     "dashboard": {
@@ -799,13 +799,14 @@
             "details_genre_info": "Sélectionnez la catégorie qui décrit le mieux votre jeu. Vous pouvez choisir des genres supplémentaires dans les mots-clés ci-dessous",
             "details_genre_header": "Genre",
             "details_tags_header": "Mots-clés",
-            "project_type_help": "Vous pouvez ajouter des fichiers à télécharger de n’importe quel type ci-dessus"
+            "project_type_help": "Vous pouvez ajouter des fichiers à télécharger de n’importe quel type ci-dessus",
+            "external_file_tooltip": "Vous fournissez un lien vers le fichier et nous comptabiliserons le nombre de téléchargements"
         },
         "stats": {
             "downloads": "Téléchargements",
             "payments": "Paiements",
             "views": "Vues",
-            "followers": "Abonné·es",
+            "followers": "Abonnés",
             "following": "Abonnements",
             "gross_revenue": "Revenu brut"
         },
@@ -860,7 +861,7 @@
         "dont_see_something_you_like_header": "Vous ne trouvez rien à votre goût ?",
         "browse_in_progress": "En cours",
         "browse_top_past_jams": "Jams populaires terminées",
-        "count_joined": "{{count}} inscrit·es",
+        "count_joined": "{{count}} inscrits",
         "games_created": "<s>{{count}} jeu</s> a été créé pour des jams hébergées sur itch.io.",
         "games_created_plural": "<s>{{count}} jeux</s> ont été créés pour des jams hébergées sur itch.io.",
         "host_a_jam_button": "Héberger une jam",
@@ -901,8 +902,8 @@
             "collection_added_count_plural": "{{count}} éléments ajoutés."
         },
         "my_feed_tab": "Mon flux",
-        "latest_featured_games_header": "Derniers jeux populaires",
-        "upload_a_game_button": "Mettre un jeu en ligne",
+        "latest_featured_games_header": "Derniers jeux sélectionnés",
+        "upload_a_game_button": "Mettre en ligne un jeu",
         "filter_devlogs_tab": "Devlogs",
         "featured_tags_header": "Tags en vedette",
         "global_feed_tab": "Flux global",
@@ -1036,16 +1037,16 @@
             "password": "Mot de passe",
             "new_password": "Nouveau mot de passe",
             "please_set_a_password_on_your_account": "Veuillez définir un mot de passe pour votre compte pour renforcer sa sécurité et son accès sans aucun service tiers.",
-            "no_password_service_name": "Votre compte n'as pas de mot de passe car vous vous êtes enregistré avec {{service_name}}.",
-            "your_account_currently_doesnt_have_a_password": "Votre compte n'a pas de mot de passe.",
-            "updating_your_password_will_cause": "Mettre à jour votre mot de passe causera la déconnexion de toutes vos autres sessions via navigateur. Vos <a>connexions via OAuth et clés d'API</a> resteront actives."
+            "no_password_service_name": "Votre compte n’as pas de mot de passe car vous vous êtes enregistré avec {{service_name}}.",
+            "your_account_currently_doesnt_have_a_password": "Votre compte n’a pas de mot de passe.",
+            "updating_your_password_will_cause": "Mettre à jour votre mot de passe causera la déconnexion de toutes vos autres sessions via navigateur. Vos <a>connexions via OAuth et clés d’API</a> resteront actives."
         },
         "two_factor_auth": {
             "configure_twofactor_authentication": "Configurer la double authentification",
             "learn_more_about_twofactor_authentication": "En savoir plus à propos de la double authentification",
             "status_off": "Désactivée",
             "status_on": "Activé",
-            "page_description": "L'authentification à deux facteurs est une couche de sécurité supplémentaire pour votre compte car elle permet d'éviter les accès inautorisés à ce dernier si votre mot de passe a été volé.",
+            "page_description": "L’authentification à deux facteurs est une couche de sécurité supplémentaire pour votre compte car elle permet d’éviter les accès inautorisés à ce dernier si votre mot de passe a été volé.",
             "tfa_status": "Statut : {{tfa_status}}",
             "page_title": "Authentification à 2 facteurs"
         }
@@ -1129,7 +1130,7 @@
             }
         },
         "stats": {
-            "joined": "inscrit·es",
+            "joined": "inscrits",
             "entries": "projets",
             "ratings": "Notes"
         },
@@ -1187,6 +1188,9 @@
         "screenshots": {
             "empty_message": "Aucune capture d’écran n’a encore été mise en ligne",
             "loading_more": "Chargement de plus de captures d’écran…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Cette participation est disqualifiée"
         }
     },
     "nags": {
@@ -1244,7 +1248,7 @@
         "commonly_tagged_with": "Communément taggé avec",
         "types": {
             "tool": "Outils",
-            "platform": "Platformes",
+            "platform": "Plateformes",
             "style": "Styles",
             "genre": "Genres",
             "event": "Évènements"
@@ -1300,7 +1304,7 @@
             "thank_you_for_purchasing_author": "Merci d’avoir acheté {{product_title}} de {{author}}.",
             "thank_you_for_donating": "Merci d’avoir fait un don pour {{product_title}}.",
             "thank_you_for_donating_author": "Merci d’avoir donné pour {{product_title}} de {{author}}.",
-            "unique_url_for_your_payment": "Cette page a un URL unique pour votre paiement.",
+            "unique_url_for_your_payment": "Cette page a une URL unique pour votre paiement.",
             "save_this_purchase_to_your_account": "Enregistrez cet achat dans votre compte",
             "receipt_support_information": "Vous devriez aussi recevoir un e-mail avec un lien vers cette page. Si vous perdez ce lien, vous pouvez demandez à le recevoir depuis la <a>page de support</a>.",
             "youve_been_gifted": "Vous avez reçu {{product_title}}.",
@@ -1363,13 +1367,13 @@
         "add_button": "Ajouter à une collection",
         "manage_collections_link": "Gérer mes collections",
         "about_this_project_label": "À propos de ce projet",
-        "add_to_new": "Ajouter à une nouvelle collection avec ce nom"
+        "add_to_new": "Ajouter à une nouvelle collection nommée"
     },
     "game_grid": {
         "in_bundle": "Voir offre groupée"
     },
     "notifications": {
-        "unseen_label": "Nouveautés",
+        "unseen_label": "Nouveau",
         "page_title": "Notifications",
         "filter_follows": "Abonnements",
         "filter_payments": "Paiements",
@@ -1379,20 +1383,20 @@
     },
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "Veuillez saisir un nouveau mot de passe pour le compte {{account_name}}.",
-        "link_sent": "Un lien de réinitialisation du mot de passe a été envoyé à l'adresse principale de votre compte.",
-        "enter_your_email": "Entrez l'adresse e-mail avec laquelle vous vous êtes inscrit et nous vous enverrons un lien pour réinitialiser votre mot de passe.",
+        "link_sent": "Un lien de réinitialisation du mot de passe a été envoyé à l’adresse principale de votre compte.",
+        "enter_your_email": "Entrez l’adresse e-mail avec laquelle vous vous êtes inscrit et nous vous enverrons un lien pour réinitialiser votre mot de passe.",
         "reset_password": "Réinitialiser le mot de passe"
     },
     "user": {
         "verify_email": {
             "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Vous ne pouvez pas vérifier une adresse e-mail lorsque vous êtes connecté à un compte différent",
             "your_email_address_has_been_verified": "Votre adresse email à été vérifiée",
-            "we_were_unable_to_verify_your_email_address": "Nous n'avons pas pu vérifier votre adresse e-mail",
-            "submit_button": "Confirmez la vérification de l'adresse email",
+            "we_were_unable_to_verify_your_email_address": "Nous n’avons pas pu vérifier votre adresse e-mail",
+            "submit_button": "Confirmez la vérification de l’adresse email",
             "page_title": "Vérifier votre adresse email",
             "you_will_automatically_be_logged_in": "Vous serez automatiquement connecté a votre compte après avoir vérifié votre adresse email.",
             "link_purchases": "Si vous aviez faits des achats auparavant avec cette adresse email, ils seront automatiquement associés à ce compte.",
-            "confirm_verification": "Veuillez confirmez votre adresse email {{email_address}} pour le compte {{account}}. Il est nécessaire de vérifier l'adresse email pour faire certaines actions sur itch.io."
+            "confirm_verification": "Veuillez confirmez votre adresse email {{email_address}} pour le compte {{account}}. Il est nécessaire de vérifier l’adresse email pour faire certaines actions sur itch.io."
         }
     }
 }
