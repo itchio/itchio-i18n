@@ -182,7 +182,7 @@
         "steampunk": "Стимпанк",
         "story-rich": "Глубокий сюжет",
         "strategy": "Стратегия",
-        "superhero": "Супергерои",
+        "superhero": "Супергерой",
         "surreal": "Сюрреалистичная",
         "survival": "Выживание",
         "survival-horror": "Хоррор на выживание",
@@ -384,6 +384,14 @@
         "lewd": "Нагота",
         "itchfunding": "Финансирование зуда",
         "hypercard": "Гиперкарта",
-        "boys-love": "Яой"
+        "boys-love": "Яой",
+        "forged-in-the-dark": "Forged in the Dark",
+        "webcomic": "Вебкомикс",
+        "svg": "SVG",
+        "midi": "MIDI",
+        "heist": "Ограбление",
+        "fanzine": "Фэнзин",
+        "doujinshi": "Додзинси",
+        "basketball": "Баскетбол"
     }
 }
