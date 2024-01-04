@@ -1239,7 +1239,8 @@
         "view_all_tags": "Voir tous les tags",
         "filter_by_tag": "Filtrer par tag",
         "filter_group_type": "Type",
-        "filter_group_misc": "Divers"
+        "filter_group_misc": "Divers",
+        "filter_group_player_count": "Nombre de joueurs"
     },
     "browse_tags": {
         "page_title": "Tags populaires",
