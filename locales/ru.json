@@ -735,7 +735,8 @@
             "toggle_more_options": "Переключить больше настроек",
             "clear_filter": "Сбросить фильтр"
         },
-        "filter_everything_else": "Всё остальное"
+        "filter_everything_else": "Всё остальное",
+        "filter_group_player_count": "Количество игроков"
     },
     "browse_tags": {
         "page_title": "Популярные метки",
