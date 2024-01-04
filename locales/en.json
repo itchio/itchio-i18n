@@ -724,7 +724,8 @@
             "toggle_more_options": "Toggle More Options",
             "clear_filter": "Clear filter"
         },
-        "filter_everything_else": "Everything else"
+        "filter_everything_else": "Everything else",
+        "filter_group_player_count": "Player count"
     },
     "browse_tags": {
         "page_title": "Top tags",
