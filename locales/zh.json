@@ -428,8 +428,9 @@
         "sort_new_and_popular": "新品与热门",
         "sort_popular": "人气",
         "results_count": "{{count}}个结果",
-        "results_count_plural": "{{count}} 个结果",
-        "filter_everything_else": "其他"
+        "results_count_plural": "{{count}}个结果",
+        "filter_everything_else": "其他",
+        "filter_group_player_count": "玩家数量"
     },
     "collection": {
         "remove_confirm": "您确定将该项从此收藏夹移除吗",
@@ -559,7 +560,7 @@
             "like": "点赞",
             "reply": "回复",
             "edits_count": "（已被编辑{{count}}次）",
-            "edits_count_plural": "({{count}} 次编辑)",
+            "edits_count_plural": "（已被编辑{{count}}次）",
             "edit_blocks": "编辑屏蔽列表",
             "post_from_blocked_account": "发布者已被你屏蔽",
             "deleted_post": "帖子已删除"
@@ -898,13 +899,13 @@
                 "vote": "投票"
             },
             "rated_by_people_count": "{{count}}位用户已打分",
-            "rated_by_people_count_plural": "到目前为止已有 {{count}} 人评分",
+            "rated_by_people_count_plural": "{{count}}位用户已打分",
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "submitted_by_contributors": "由 {{contributors}} 提交",
             "ranked_with_vote_count": "以{{count}}个投票排名第{{ordinal_rank}}",
             "results_header": "结果",
             "ranked_from_count": "依据<s>{{count}}个评分</s>排名。",
-            "ranked_from_count_plural": "根据<s>{{count}}个评分</s>排名。",
+            "ranked_from_count_plural": "排名依据<s>{{count}}个评分</s>。",
             "score_information": "最终得分将基于原始分数根据本次 Jam 中所有游戏的得分中位数而调整。",
             "run_project": "运行项目",
             "play_game": "开始游戏",
@@ -1167,7 +1168,7 @@
             "page_header": "个人信息",
             "language_description": "itch.io 用户界面的语言",
             "language": "语言",
-            "language_community_translation": "<s>itch.io 由我们的社区成员翻译。</s>一些语言只有部分可用。如果您想以自己的语言使用 itch.io 或者帮忙修正错译，欢迎您参与翻译。<a>了解详情</a>"
+            "language_community_translation": "<s>itch.io 由我们的社区成员们翻译。</s>有些语言的译文仍不完整。如果您想以自己的语言使用 itch.io 或者帮忙修正错译，欢迎您做出贡献。<a>了解详情</a>"
         },
         "navigation": {
             "thirdparty_analytics": "第三方统计",
@@ -1196,7 +1197,7 @@
             "publisher_header": "发布者",
             "payment_header": "支付",
             "basics_header": "基本",
-            "delete_account": "删除帐户"
+            "delete_account": "注销账户"
         },
         "account_settings": "账号设置",
         "two_factor_auth": {
