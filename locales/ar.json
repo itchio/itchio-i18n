@@ -746,7 +746,8 @@
         "results_count_2": "{{count}} نتيجة",
         "results_count_3": "{{count}} نتيجة",
         "results_count_4": "{{count}} نتيجة",
-        "results_count_5": "{{count}}"
+        "results_count_5": "{{count}}",
+        "filter_group_player_count": "عدد اللاعبين"
     },
     "user_settings": {
         "profile": {
