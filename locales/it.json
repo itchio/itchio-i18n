@@ -477,14 +477,14 @@
                 "participate_to_rate_message": "Per recensire questa consegna devi essere <a>loggato su itch.io</a> e aver consegnato il tuo lavoro. Chiunque ha un account può lasciare un commento."
             },
             "rated_by_people_count": "Votato da {{count}} persona",
-            "rated_by_people_count_plural": "Valutato da {{count}} persone",
+            "rated_by_people_count_plural": "Valutato da {{count}} persone finora",
             "time_remaining_before_deadline": "Hai ancora {{time_duration}} prima della scadenza",
             "submitted_by_contributors": "Consegnato da {{contributors}}",
             "ranked_with_vote_count": "Classificato {{ordinal_rank}} con {{count}} voto",
             "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
             "results_header": "Risultati",
             "ranked_from_count": "Classificato in base a <s>{{count}} valutazione</s>.",
-            "ranked_from_count_plural": "Classificato da <s> {{count}} valutazioni </s>.",
+            "ranked_from_count_plural": "Classificato in base a <s> {{count}} valutazioni </s>.",
             "score_information": "La classifica è regolata da un punteggio grezzo ad un numero medio di recensioni per gioco della jam.",
             "run_project": "Esegui il progetto",
             "play_game": "Gioca",
@@ -1130,7 +1130,8 @@
         "sort_new_and_popular": "Nuovi e popolari",
         "sort_popular": "Popolare",
         "results_count": "{{count}} risultato",
-        "results_count_plural": "{{count}} risultati"
+        "results_count_plural": "{{count}} risultati",
+        "filter_group_player_count": "Numero di giocatori"
     },
     "collection": {
         "remove_confirm": "Sei davvero sicuro di voler rimuoverlo dalla collezione",
