@@ -384,6 +384,15 @@
         "shaders": "Shader",
         "sailing": "Navigazione",
         "queer": "Queer",
-        "open-source": "Open Source"
+        "open-source": "Open Source",
+        "forged-in-the-dark": "Forgiato nell'oscurità",
+        "webcomic": "Webcomic",
+        "svg": "SVG",
+        "midi": "MIDI",
+        "heist": "Rapina",
+        "fanzine": "Fanzine",
+        "doujinshi": "Doujinshi",
+        "basketball": "Pallacanestro",
+        "suika-game": "Gioco Suika"
     }
 }
