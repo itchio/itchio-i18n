@@ -825,7 +825,10 @@
         "page_title": "प्रमुख टैग्स",
         "find_tag": "टैग खोजें",
         "commonly_tagged_with": "से सामान्यतः टैग्ड",
-        "no_description_yet": "अभी तक कोई विवरण नहीं"
+        "no_description_yet": "अभी तक कोई विवरण नहीं",
+        "types": {
+            "tool": "साधन"
+        }
     },
     "buy_form_popup": {
         "author_line": "{{author}}<1>के द्वारा</1>",
