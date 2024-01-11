@@ -2,7 +2,23 @@
     "layout": {
         "footer": {
             "contact_us": "联系我们",
-            "about": "关于"
+            "about": "关于",
+            "directory": "目录检索",
+            "cookies": "Cookie使用条款",
+            "privacy": "隐私政策",
+            "terms": "服务条款",
+            "blog": "博客",
+            "faq": "常见问题及解答"
+        },
+        "header": {
+            "search_placeholder": "搜索游戏或创作者",
+            "community": "社区",
+            "devlogs": "开发日志",
+            "upload_game": "上传游戏",
+            "game_jams": "游戏开发马拉松",
+            "browse_games": "浏览更多游戏",
+            "browse": "浏览"
         }
-    }
+    },
+    "itchio": "itch.io官方网站"
 }
