@@ -1,1 +1,51 @@
-{}
+{
+    "index": {
+        "nav": {
+            "all_games": "Бүх тоглоом"
+        },
+        "view_more": "Цааш үзэх",
+        "recommended_for_you": "Таньд санал болгох"
+    },
+    "layout": {
+        "header": {
+            "fun_games": "Хөгжилтэй тоглоомууд",
+            "bundles": "Багцууд",
+            "search_placeholder": "Тоглоом эсвэл бүтээгчийг хайх",
+            "community": "Олон нийтийн бүлэг",
+            "devlogs": "Хөгжүүлэгчийн бүртгэл",
+            "upload_game": "Тоглоом байршуулах",
+            "browse_games": "Тоглоом үзэх",
+            "feed_unseen_count": "{{count}} шинэ",
+            "feed_unseen_count_plural": "{{count}} шинэ",
+            "games": "Тоглоомууд",
+            "comics": "Комик",
+            "game_development": "Тоглоом хөгжүүлэлт",
+            "free_games": "Үнэгүй тоглоомууд",
+            "no_notifications": "Шинэ мэдэгдэл алга",
+            "notifications_count": "{{count}} мэдэгдэл",
+            "notifications_count_plural": "{{count}} мэдэгдлүүп",
+            "dashboard": "Хяналтын самбар",
+            "register": "Бүртгүүлэх",
+            "log_in": "Нэвтрэх",
+            "search": "Хайх"
+        },
+        "user_menu": {
+            "view_profile": "Профайл харах",
+            "settings": "Тохиргоо",
+            "log_out": "Гарах",
+            "account": "Хаяг",
+            "create": "Үүсгэх"
+        },
+        "footer": {
+            "cookies": "Күүки",
+            "privacy": "Нууцлал",
+            "directory": "Лавлах",
+            "terms": "Нөхцөлүүд",
+            "contact_us": "Бидэнтэй холбогдох",
+            "blog": "Блог",
+            "faq": "Түгээмэл асуулт хариулт",
+            "about": "Тухай"
+        }
+    },
+    "itchio": "itch.io"
+}
