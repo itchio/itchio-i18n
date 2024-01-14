@@ -43,7 +43,7 @@
         "exploration": "探险",
         "explosions": "爆炸",
         "fairy-tale": "童话",
-        "fangame": "同人游戏",
+        "fangame": "粉丝向游戏",
         "fantasy": "奇幻",
         "farming": "农业",
         "fast-paced": "快节奏",
@@ -384,6 +384,15 @@
         "boys-love": "男子的爱",
         "bara": "蔷薇",
         "backgrounds": "背景",
-        "augmented-reality": "AR(增强现实)"
+        "augmented-reality": "AR(增强现实)",
+        "webcomic": "网络漫画",
+        "svg": "矢量图形",
+        "suika-game": "西瓜游戏",
+        "midi": "电脑音乐",
+        "heist": "抢劫",
+        "forged-in-the-dark": "在黑暗中锻造",
+        "fanzine": "同好杂志",
+        "doujinshi": "同人志作品",
+        "basketball": "篮球"
     }
 }
