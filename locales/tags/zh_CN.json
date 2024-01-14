@@ -63,6 +63,17 @@
         "crafting": "建造",
         "clicker": "点击",
         "chess": "棋类",
-        "bullet-hell": "弹幕射击"
+        "bullet-hell": "弹幕射击",
+        "dice": "骰子",
+        "detective": "刑侦",
+        "destruction": "破坏",
+        "demake": "怀旧重制",
+        "deck-building": "卡牌构筑",
+        "dating-sim": "恋爱模拟",
+        "dark-humor": "黑色幽默",
+        "dark-fantasy": "黑暗奇幻",
+        "dark": "黑暗",
+        "cyberpunk": "赛博朋克",
+        "cute": "可爱"
     }
 }
