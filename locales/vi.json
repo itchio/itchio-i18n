@@ -345,7 +345,8 @@
         "languages_header": "Có sẵn trên ngôn ngữ của bạn",
         "page_title": "Tải xuống ứng dụng",
         "meta_description": " itch, cách tốt nhất để tải xuống và chơi game indie. Tải xuống các trò chơi miễn phí và quản lý thư viện của bạn từ máy tính để bàn. Hiện đã có cho Windows, macOS và Linux.",
-        "summary": "Ứng dụng itch.io, <s>itch</s>, cho phép bạn dễ dàng tải xuống và chạy các trò chơi và phần mềm từ itch.io. Tất cả các bản tải xuống của bạn được lưu giữ ở một nơi duy nhất và được cập nhật tự động. Truy cập các bộ sưu tập và giao dịch mua của bạn hoặc duyệt tìm các trò chơi mới qua trình duyệt trong ứng dụng."
+        "summary": "Ứng dụng itch.io, <s>itch</s>, cho phép bạn dễ dàng tải xuống và chạy các trò chơi và phần mềm từ itch.io. Tất cả các bản tải xuống của bạn được lưu giữ ở một nơi duy nhất và được cập nhật tự động. Truy cập các bộ sưu tập và giao dịch mua của bạn hoặc duyệt tìm các trò chơi mới qua trình duyệt trong ứng dụng.",
+        "languages_description": "Ứng dụng itch có sẵn cho hơn 20 ngôn ngữ, nhờ có cộng đồng itch.io! <a>Tìm hiểu thêm về việc phiên dịch</a>"
     },
     "game": {
         "get_access": "Bạn sẽ có quyền truy cập các tệp sau:",
@@ -507,7 +508,7 @@
         "topic": {
             "join_the_discussion": "Tham gia cuộc thảo luận. Đăng nhập hoặc tạo một tài khoản itch.io miễn phí để tiếp tục.",
             "reply_to_someone_else": "Muốn trả lời một ai khác? Nhấn <s>trả lời</s> ở phía dưới bài đăng của họ.",
-            "topic_is_archived": "Chủ đề này đã được bảo tồn và không còn có thể được đăng tại đây",
+            "topic_is_archived": "Chủ đề này đã được lưu trữ và không thể đăng tại đây.",
             "reply": "Trả lời",
             "log_in_to_reply": "Đăng nhập để trả lời",
             "this_reply_will_go_to_yourself": "Bài đăng này sẽ trả lời chính bạn.",
