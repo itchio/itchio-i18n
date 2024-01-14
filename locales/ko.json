@@ -717,7 +717,8 @@
             "toggle_more_options": "더 많은 옵션 토글",
             "clear_filter": "필터 초기화"
         },
-        "filter_everything_else": "기타 등등"
+        "filter_everything_else": "기타 등등",
+        "filter_group_player_count": "플레이어 수"
     },
     "browse_tags": {
         "page_title": "태그순",
