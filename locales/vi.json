@@ -314,7 +314,9 @@
         "upload_your_game_description": "Đăng tải các trò chơi indie của bạn lên <s>itch.io</s> miễn phí. Chúng tôi đưa trò chơi của bạn lên mạng, cùng với ảnh chụp màn hình và các nội dung tải xuống khác. Nội dung tải xuống của bạn luôn sẵn có và nhanh chóng.",
         "learn_more_about": "Tìm hiểu thêm về:",
         "create_account_or_login": "<1>Tạo một tài khoản</1> <em>hoặc</em> <2>Đăng nhập</2>",
-        "upload_or_dashboard": "<1>Đăng tải một trò chơi mới</1> <em>hoặc</em> <2>Đi đến bảng điều khiển</2>"
+        "upload_or_dashboard": "<1>Đăng tải một trò chơi mới</1> <em>hoặc</em> <2>Đi đến bảng điều khiển</2>",
+        "track_your_game_description": "Theo dõi các tab về cách mọi người xem trò chơi của bạn với phân tích chi tiết về lượt xem, lượt tải xuống và lượt mua. Bạn muốn chạy một chương trình khuyến mãi? Tạo khóa tải xuống để cung cấp cho mọi người quyền truy cập vào trò chơi của bạn.",
+        "design_your_games_page_description": "Tạo một trang tùy chỉnh cho trò chơi của bạn nơi mọi người mua hoặc tải xuống trò chơi của bạn. Bạn chọn màu sắc, phông chữ, hình ảnh và video. Bởi vì đó là trang trò chơi của bạn, bạn sẽ không tìm thấy bất kỳ thứ gì trên đó mà bạn không đặt ở đó."
     },
     "search": {
         "view_all_tags": "Xem tất cả các nhãn",
@@ -341,7 +343,9 @@
         "web_games_header": "Trò chơi trình duyệt ngoại tuyến",
         "web_games_description": "Bạn có thể đồng bộ bất kì trò chơi trình duyệt nào vào chính ứng dụng, cho phép bạn chơi chúng offline bất cứ lúc nào bạn muốn. Một khi bạn có mạng trở lại, bạn sẽ có thể nhận các bản cập nhật nếu cần thiết.",
         "languages_header": "Có sẵn trên ngôn ngữ của bạn",
-        "page_title": "Tải xuống ứng dụng"
+        "page_title": "Tải xuống ứng dụng",
+        "meta_description": " itch, cách tốt nhất để tải xuống và chơi game indie. Tải xuống các trò chơi miễn phí và quản lý thư viện của bạn từ máy tính để bàn. Hiện đã có cho Windows, macOS và Linux.",
+        "summary": "Ứng dụng itch.io, <s>itch</s>, cho phép bạn dễ dàng tải xuống và chạy các trò chơi và phần mềm từ itch.io. Tất cả các bản tải xuống của bạn được lưu giữ ở một nơi duy nhất và được cập nhật tự động. Truy cập các bộ sưu tập và giao dịch mua của bạn hoặc duyệt tìm các trò chơi mới qua trình duyệt trong ứng dụng."
     },
     "game": {
         "get_access": "Bạn sẽ có quyền truy cập các tệp sau:",
@@ -543,7 +547,7 @@
             "delete_topic": "Xóa chủ đề",
             "delete": "Xóa",
             "report": "Báo cáo",
-            "ban": "Cấm...",
+            "ban": "Cấm…",
             "vote_up": "Bình chọn lên",
             "vote_down": "Bình chọn xuống",
             "deleted_account": "Tài khoản đã bị xóa",
@@ -580,7 +584,8 @@
             "new_flag": "Mới",
             "archived_flag": "Đã bảo tồn",
             "by_topic_author": "bởi {{username}}",
-            "there_arent_any_topics_yet": "Hiện chưa có chủ đề nào cả"
+            "there_arent_any_topics_yet": "Hiện chưa có chủ đề nào cả",
+            "view_this_communitys_rules": "Xem các quy tắc của cộng đồng này..."
         },
         "new_topic": {
             "moderator_tools": "Công cụ kiểm duyệt",
@@ -609,12 +614,13 @@
             "list_header_topic_title": "Chủ đề",
             "list_header_last_post": "Bài đăng gần nhất",
             "views_count": "<s>{{count}}</s> lượt xem",
-            "no_posts_yet": "Chưa có bài đăng nào cả"
+            "no_posts_yet": "Chưa có bài đăng nào cả",
+            "no_replies_yet": "Chưa có câu trả lời"
         }
     },
     "buy_form": {
         "included_files": "Các tệp bao gồm",
-        "i_already_paid_for_this": "Tôi đã trả tiền cho nó rồi...",
+        "i_already_paid_for_this": "Tôi đã trả tiền cho vật phẩm này rồi…",
         "this_purchase_is_a_gift": "Thanh toán này là một phần quà",
         "download_title": "Tải xuống '{{title}}'",
         "buy_title": "Mua '{{title}}'",
@@ -642,7 +648,7 @@
         "billing_address": "Địa chỉ thanh toán",
         "generic_error": "Đã có một vấn đề với thanh toán của bạn: {{error}}",
         "contact_support_on_error": "Nếu vấn đề tái diễn, vui lòng liên hệ <a>bộ phận hỗ trợ itch.io</a> với những thông tin có liên quan.",
-        "gift_email_instructions": "Bạn sẽ chọn một email để gửi quà đến sau khi bạn trả tiền",
+        "gift_email_instructions": "Bạn sẽ chọn một email để gửi quà sau khi thanh toán.",
         "agree_to_terms": "Bằng việc hoàn thành thanh toán bạn chấp nhận <1>Điều khoản Dịch vụ</1> và <2>Chính sách Quyền riêng tư</2> của itch.io."
     },
     "collection": {
@@ -657,7 +663,7 @@
         "private_collection_message": "Bộ sưu tập này là riêng tư, chỉ có các người đóng góp mới có thể xem nội dung của nó",
         "pending_invitation": "Bạn đang có lời mời làm người đóng góp của bộ sưu tập này đang chờ được xử lí. <a>Xem lời mời</a>",
         "page_title": "{{collection_title}} - Bộ sưu tập bởi {{author}}",
-        "remove_item_button": "Xóa...",
+        "remove_item_button": "Xóa…",
         "edit_blurb": "Chỉnh sửa thông điệp",
         "remove_confirm": "Bạn có chắc chắn bạn muốn xóa nó khỏi bộ sưu tập không"
     },
@@ -708,7 +714,13 @@
         "no_description_yet": "Chưa có miêu tả",
         "page_title": "Tốp nhãn",
         "find_tag": "Tìm nhãn",
-        "commonly_tagged_with": "Thường gán nhãn với"
+        "commonly_tagged_with": "Thường gán nhãn với",
+        "types": {
+            "tool": "Công cụ",
+            "event": "Sự kiện",
+            "platform": "Nền tảng",
+            "genre": "Thể loại"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>bởi</1> {{author}}",
@@ -742,7 +754,8 @@
             "data_export": "Xuất thông tin",
             "api_keys": "Khóa API",
             "oauth_applications": "Ứng dụng OAuth",
-            "thirdparty_analytics": "Phân tích bên thứ ba"
+            "thirdparty_analytics": "Phân tích bên thứ ba",
+            "delete_account": "Xóa Tài khoản"
         },
         "profile": {
             "website": "Website",
@@ -783,7 +796,11 @@
             "new_password": "Mật khẩu mới",
             "password_again": "Nhập lại mật khẩu",
             "new_password_again": "Nhập lại mật khẩu mới",
-            "current_password": "Mật khẩu hiện tại"
+            "current_password": "Mật khẩu hiện tại",
+            "please_set_a_password_on_your_account": "Vui lòng đặt mật khẩu trên tài khoản của bạn để cải thiện tính bảo mật và khả năng truy cập tài khoản của bạn mà không cần bất kỳ dịch vụ của bên thứ ba nào.",
+            "your_account_currently_doesnt_have_a_password": "Tài khoản của bạn hiện không có mật khẩu.",
+            "no_password_service_name": "Tài khoản của bạn hiện không có mật khẩu vì bạn đã đăng ký với {{service_name}}.",
+            "updating_your_password_will_cause": "Việc cập nhật mật khẩu của bạn sẽ khiến tất cả các phiên trình duyệt khác bị đăng xuất. Mọi <a>kết nối OAuth và khóa API</a> sẽ vẫn hoạt động."
         },
         "email_addresses": {
             "primary_email_header": "Email chính",
@@ -809,6 +826,15 @@
             "your_primary_email_address": "Địa chỉ email chính của bạn: {{email}}",
             "primary_email_description": "Email chính của bạn là nơi itch.io sẽ gửi các thông báo đến cho bạn.",
             "change_password_instructions": "Khi bạn thay đổi địa chị email của bạn, bạn phải xác nhận nó để truy cập các trò chơi bạn đã mua. Bạn sẽ được gửi hướng dẫn xác minh. Vì lí do bảo mật, bạn cũng phải cung cấp mật khẩu hiện tại để tạo bất cứ thay đổi nào đến địa chỉ email của bạn."
+        },
+        "two_factor_auth": {
+            "status_off": "Tắt",
+            "status_on": "Mở",
+            "tfa_status": "Trạng thái: {{tfa_status}}",
+            "page_description": "Xác thực hai yếu tố là lớp bảo mật bổ sung cho tài khoản của bạn nhằm giúp ngăn chặn truy cập trái phép nếu mật khẩu của bạn bị đánh cắp.",
+            "page_title": "Xác thực hai yếu tố",
+            "configure_twofactor_authentication": "Cài đặt xác thực hai yếu tố",
+            "learn_more_about_twofactor_authentication": "Tìm hiểu thêm về xác thực hai yếu tố"
         }
     },
     "game_download": {
