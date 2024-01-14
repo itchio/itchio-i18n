@@ -384,6 +384,15 @@
         "simple": "단순",
         "one-page": "단일 페이지",
         "modern": "현대",
-        "lewd": "음란"
+        "lewd": "음란",
+        "webcomic": "웹코믹",
+        "svg": "SVG",
+        "suika-game": "수박 게임",
+        "midi": "MIDI",
+        "heist": "하이스트",
+        "forged-in-the-dark": "Forged in the Dark",
+        "fanzine": "팬 잡지",
+        "doujinshi": "동인지",
+        "basketball": "농구"
     }
 }
