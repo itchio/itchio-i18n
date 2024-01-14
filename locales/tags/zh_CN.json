@@ -39,8 +39,8 @@
         "cartoon": "卡通",
         "card-game": "卡牌游戏",
         "buttons": "按钮",
-        "brushes": "刷子",
-        "breakout": "突破",
+        "brushes": "笔刷",
+        "breakout": "打砖块",
         "brain-training": "脑力训练",
         "boys-love": "BL",
         "boss-battle": "Boss 战",
@@ -55,6 +55,14 @@
         "colorful": "丰富多彩的",
         "co-op": "合作社",
         "basketball": "篮球",
-        "beat-em-up": "清版动作"
+        "beat-em-up": "清版动作",
+        "cult-classic": "另类经典",
+        "crime": "犯罪",
+        "creepy": "怪异",
+        "creative": "创意",
+        "crafting": "建造",
+        "clicker": "点击",
+        "chess": "棋类",
+        "bullet-hell": "弹幕射击"
     }
 }
