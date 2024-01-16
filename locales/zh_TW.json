@@ -703,7 +703,8 @@
             "clear_filter": "清除篩選"
         },
         "filter_everything_else": "其他",
-        "fresh_description": "瀏覽由我們成員持續更新的精選專案。敬請再次來訪查看新增的內容。"
+        "fresh_description": "瀏覽由我們成員持續更新的精選專案。敬請再次來訪查看新增的內容。",
+        "filter_group_player_count": "玩家數量"
     },
     "user_settings": {
         "navigation": {
