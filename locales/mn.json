@@ -27,7 +27,8 @@
             "dashboard": "Хяналтын самбар",
             "register": "Бүртгүүлэх",
             "log_in": "Нэвтрэх",
-            "search": "Хайх"
+            "search": "Хайх",
+            "browse": "Үзэх"
         },
         "user_menu": {
             "view_profile": "Профайл харах",
