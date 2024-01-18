@@ -28,14 +28,25 @@
             "register": "Бүртгүүлэх",
             "log_in": "Нэвтрэх",
             "search": "Хайх",
-            "browse": "Үзэх"
+            "browse": "Үзэх",
+            "game_assets": "Нэмэлтүүд",
+            "sales": "Хямдралтай",
+            "indie_game_store": "Инди тоглоомын дэлгүүр"
         },
         "user_menu": {
             "view_profile": "Профайл харах",
             "settings": "Тохиргоо",
             "log_out": "Гарах",
             "account": "Хаяг",
-            "create": "Үүсгэх"
+            "create": "Үүсгэх",
+            "posts": "Нийтлэлүүд",
+            "account_menu_tooltip": "Хаягын цэс",
+            "library": "Миний сан",
+            "recommendations": "Санал болгох",
+            "dashboard": "Хянах самбар",
+            "new_project": "Шинэ төсөл байршуулах",
+            "sales_bundles": "Хямдралууд & багцууд",
+            "explore": "Судлах"
         },
         "footer": {
             "cookies": "Күүки",
