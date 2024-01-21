@@ -4,7 +4,7 @@
             "settings": "Pengaturan",
             "account": "Akun",
             "library": "Pustakaku",
-            "explore": "Jelajah",
+            "explore": "Jelajahi",
             "account_menu_tooltip": "Menu Akun",
             "feed": "Berandaku",
             "recommendations": "Rekomendasi",
@@ -26,12 +26,12 @@
             "notifications_count": "{{count}} notifikasi",
             "dashboard": "Dasbor",
             "register": "Daftar",
-            "search": "Pencarian",
+            "search": "Cari",
             "community": "Komunitas",
-            "devlogs": "Devlog",
+            "devlogs": "Log Pengembang",
             "game_jams": "Game Jam",
-            "browse_games": "Telusuri Game",
-            "browse": "Telusur",
+            "browse_games": "Jelajahi Game",
+            "browse": "Jelajahi",
             "feed": "Beranda",
             "games": "Game",
             "fun_games": "Game seru",
@@ -50,9 +50,9 @@
             "privacy": "Privasi",
             "directory": "Direktori",
             "terms": "Ketentuan",
-            "contact_us": "Hubungi Kami",
+            "contact_us": "Hubungi kami",
             "blog": "Blog",
-            "faq": "FAQ",
+            "faq": "Pertanyaan Umum",
             "about": "Tentang Kami"
         }
     },
@@ -84,8 +84,8 @@
         "fresh_games_description": "Selalu diperbarui dengan berbagai game terbaru di itch.io",
         "recommendations_based_on": "Berdasarkan yang pernah kamu pernah beli, unduh, dan beri rating",
         "on_sale": "Sedang Diskon",
-        "get_the_app": "<s>Dapatkan yang terbaik dari itch.io</s> Pasang dan kelola game kamu dengan aplikasi desktop kami",
-        "view_something_random": "Cari secara acak",
+        "get_the_app": "<s>Dapatkan yang terbaik dari itch.io!</s> Pasang dan kelola game kamu dengan aplikasi desktop kami",
+        "view_something_random": "Lihat sesuatu secara acak",
         "to_follow": {
             "empty_results": "Kami tidak punya rekomendasi saat ini. Coba lagi nanti",
             "created_projects": "{{project_list}} yang dibuat",
@@ -106,7 +106,7 @@
         "more_featured_games": "Lebih banyak game pilihan",
         "html5_games": "Game HTML5",
         "game_dev_on_sale": "Sumber Bahan Pengembangan Game <1>Yang Diskon</1>",
-        "people_to_follow_description": "Berikut ini beberapa akun yang menarik untuk diikuti. <a>Mengapa?</a>",
+        "people_to_follow_description": "Berikut ini beberapa akun yang menarik untuk diikuti. <a>Kenapa ikuti?</a>",
         "filtering_platform": "Hanya menampilkan game untuk {{platform_name}}",
         "intro": "<s>itch.io</s> mempermudah berbagi dan mencari game indie daring secara gratis.",
         "intro_cta": "<1>Unggah game kamu</1> atau <2>Baca FAQ</2>",
@@ -220,7 +220,8 @@
             "add_to_collection": "Tambah ke koleksi"
         },
         "lightboxes": {
-            "close": "Tutup"
+            "close": "Tutup",
+            "error_title": "Permintaan Anda tidak dapat diselesaikan"
         },
         "project_visibility": {
             "restricted": "Terbatas",
@@ -657,7 +658,7 @@
         "continue_payment": "Lanjutkan pembayaran",
         "billing_address": "Alamat billing",
         "generic_error": "Ada masalah deangan pembelian kamu: {{error}}",
-        "gift_email_instructions": "Setelah membayar, kamu akan memilih alamat email yang akan dikirimkan hadiah"
+        "gift_email_instructions": "Anda akan memilih email untuk mengirim hadiah setelah Anda membayar."
     },
     "collection": {
         "empty_collection_message": "Tidak ada apa-apa di koleksi ini.",
@@ -716,7 +717,8 @@
             "toggle_more_options": "Alihkan ke Pilihan Lebih Banyak",
             "clear_filter": "Hapus penyaringan"
         },
-        "filter_everything_else": "Sisanya"
+        "filter_everything_else": "Sisanya",
+        "filter_group_player_count": "Jumlah pemain"
     },
     "user_settings": {
         "navigation": {
@@ -745,7 +747,8 @@
             "data_export": "Ekspor data",
             "api_keys": "API key",
             "oauth_applications": "Aplikasi OAuth",
-            "thirdparty_analytics": "Analisis pihak-ketiga"
+            "thirdparty_analytics": "Analisis pihak-ketiga",
+            "delete_account": "Hapus Akun"
         },
         "profile": {
             "language_community_translation": "<s>itch.io diterjemahkan oleh anggota-anggota dari komunitas kami.</s> Beberapa bahasa mungkin baru diterjemahkan sebagian. Jika kamu ingin melihat itch.io dalam bahasa kamu, kamu dapat berkontribusi dalam penerjemahan. <a>Selengkapnya</a>",
@@ -1006,7 +1009,7 @@
             },
             "score_information": "Skor disesuaikan dari skor murni berdasarkan nilai tengah rating per game di game jam.",
             "rated_by_people_count": "Sejauh ini telah dinilai oleh {{count}} orang",
-            "rated_by_people_count_plural": "Sejauh ini telah dinilai oleh {{count}} orang",
+            "rated_by_people_count_plural": "Dinilai oleh {{count}} orang sejauh ini",
             "rate_submission": {
                 "owner_message": "Ini kiriman karya kamu, tidak diperbolehkan untuk menilai karya sendiri. Namun, peserta lain di game jam ini dapat memberi rating untuk proyek kamu di sini.",
                 "sign_up_to_vote": "<a>Daftar dengan akun itch.io</a> untuk memberi voting dan komentar.",
@@ -1068,6 +1071,9 @@
         "screenshots": {
             "empty_message": "Belum ada screenshot yang diunggah",
             "loading_more": "Memuat lebih banyak tangkapan layar…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Pengiriman ini didiskualifikasi"
         }
     },
     "dashboard": {
@@ -1217,7 +1223,8 @@
             "screenshots_header": "Screenshot",
             "details_genre_info": "Pilih kategori yang paling tepat untuk menjelaskan game kamu. Kamu bisa memilih genre tambahan dengan tag-tag di bawah",
             "community_field_info": "Bangun komunitas untuk proyek kamu dengan membolehkan orang membuat postingan di halaman kamu.",
-            "community_discussion_board_info": "Tambahkan halaman komunitas khusus dengan fitur kategori, utas, balasan & lainnya"
+            "community_discussion_board_info": "Tambahkan halaman komunitas khusus dengan fitur kategori, utas, balasan & lainnya",
+            "external_file_tooltip": "Anda memberikan tautan ke file tersebut dan kami akan melacak berapa kali file tersebut diunduh"
         },
         "follow_itchio": "Ikuti itch.io di {{twitter}} dan {{facebook}}",
         "recently_updated_pages_header": "Halaman yang baru diperbarui",
