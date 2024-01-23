@@ -735,7 +735,8 @@
             "toggle_more_options": "Przełącz więcej opcji",
             "clear_filter": "Wyczyść filtr"
         },
-        "filter_everything_else": "Wszystko inne"
+        "filter_everything_else": "Wszystko inne",
+        "filter_group_player_count": "Liczba graczy"
     },
     "browse_tags": {
         "page_title": "Popularne tagi",
