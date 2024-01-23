@@ -749,7 +749,8 @@
         "filter_everything_else": "Усе інше",
         "results_count_0": "{{count}} результат",
         "results_count_1": "{{count}} результати",
-        "results_count_2": "{{count}} результатів"
+        "results_count_2": "{{count}} результатів",
+        "filter_group_player_count": "К-сть гравців"
     },
     "buy_form_popup": {
         "author_line": "<1>від</1> {{author}}",
