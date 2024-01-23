@@ -385,6 +385,13 @@
         "asset-pack": "Pakiet zasobów",
         "animation": "Animacje",
         "adult": "Dla dorosłych",
-        "doujinshi": ""
+        "doujinshi": "Doujinshi",
+        "webcomic": "E-komiks",
+        "svg": "SVG",
+        "midi": "MIDI",
+        "heist": "Heist",
+        "forged-in-the-dark": "Forged in the Dark",
+        "fanzine": "Fanzin",
+        "basketball": "Koszykówka"
     }
 }
