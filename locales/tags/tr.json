@@ -316,6 +316,16 @@
         "fanzine": "Fanzin",
         "doujinshi": "Doujinshi",
         "basketball": "Basketbol",
-        "asset-pack": "Öğe Paketi"
+        "asset-pack": "Öğe Paketi",
+        "nsfw": "NSFW",
+        "modular": "Modüler",
+        "modern": "Modern",
+        "mental-health": "Akıl sağlığı",
+        "meme": "Meme",
+        "meaningful-choices": "Anlamlı Seçimler",
+        "magical-realism": "Büyülü Gerçekçilik",
+        "lovecraft": "Lovecraftian Korku",
+        "lgbtqia": "LGBTQIA",
+        "lewd": "Müstehcen"
     }
 }
