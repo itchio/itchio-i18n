@@ -735,7 +735,8 @@
             "payment_header": "Platba",
             "basics_header": "Všeobecné",
             "thirdparty_analytics": "Analytiky tretej strany",
-            "press_access": "Prístup pre vydavateľstva"
+            "press_access": "Prístup pre vydavateľstva",
+            "delete_account": "Odstrániť Účet"
         },
         "account_settings": "Nastavenia konta",
         "email_addresses": {
