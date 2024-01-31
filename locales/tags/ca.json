@@ -384,6 +384,15 @@
         "open-source": "Codi obert",
         "one-shot": "Una bala",
         "one-page": "Una pàgina",
-        "nsfw": "NSFW"
+        "nsfw": "NSFW",
+        "webcomic": "Webcòmic",
+        "svg": "SVG",
+        "suika-game": "Suika Game",
+        "midi": "MIDI",
+        "heist": "Heist",
+        "forged-in-the-dark": "Forged in the Dark",
+        "fanzine": "Fanzine",
+        "doujinshi": "Doujinshi",
+        "basketball": "Basquetbol"
     }
 }
