@@ -724,7 +724,8 @@
             "toggle_more_options": "Activa/desactiva més opcions",
             "clear_filter": "Neteja el filtre"
         },
-        "filter_everything_else": "Tota la resta"
+        "filter_everything_else": "Tota la resta",
+        "filter_group_player_count": "Nombre de jugadors"
     },
     "browse_tags": {
         "page_title": "Etiquetes més populars",
