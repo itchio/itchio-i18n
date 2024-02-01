@@ -17,8 +17,37 @@
             "upload_game": "上传游戏",
             "game_jams": "游戏开发马拉松",
             "browse_games": "浏览更多游戏",
-            "browse": "浏览"
+            "browse": "浏览",
+            "feed": "反馈",
+            "feed_unseen_count": "",
+            "games": "游戏",
+            "fun_games": "欢乐游戏",
+            "game_assets": "资产",
+            "bundles": "捆绑包",
+            "sales": "折扣",
+            "comics": "漫画",
+            "game_development": "游戏开发",
+            "indie_game_store": "独立游戏商店",
+            "free_games": "免费游戏",
+            "no_notifications": "没有新通知",
+            "dashboard": "仪表板",
+            "register": "注册",
+            "log_in": "登录",
+            "search": "搜索"
+        },
+        "user_menu": {
+            "posts": "动态",
+            "account_menu_tooltip": "账户菜单",
+            "new_project": "上传新项目",
+            "sales_bundles": "折扣&捆绑包",
+            "view_profile": "浏览个人资料",
+            "settings": "设置",
+            "log_out": "退出登录",
+            "account": "账户"
         }
     },
-    "itchio": "itch.io官方网站"
+    "itchio": "itch.io官方网站",
+    "index": {
+        "popular_tags": "热门标签"
+    }
 }
