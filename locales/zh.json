@@ -2,7 +2,7 @@
     "index": {
         "view_all": "更多",
         "with_demo": "有试玩版",
-        "top_sellers": "热销游戏",
+        "top_sellers": "畅销商品",
         "free_games": "免费游戏",
         "on_sale": "促销中",
         "browse_all_tags": "浏览全部标签",
@@ -11,7 +11,7 @@
         "from_the_itchio_blog": "itch.io 博客",
         "get_the_app": "<s>充分利用 itch.io！</s>使用我们的桌面应用来安装和管理您的游戏",
         "dont_see_anything_you_like": "没找到感兴趣的内容？",
-        "view_all_games": "全部游戏",
+        "view_all_games": "浏览所有游戏",
         "download_app": "下载客户端",
         "games_by_price": "按价格排序",
         "browse": "浏览",
@@ -45,7 +45,7 @@
         "more_featured_games": "更多精选游戏",
         "view_all_games_on_sale": "浏览全部促销中游戏",
         "people_to_follow": "推荐关注",
-        "fresh_games_description": "itch.io 上发布的最新游戏，持续更新",
+        "fresh_games_description": "itch.io 上最新的游戏，持续更新",
         "view_all_jams": "更多",
         "featured_jams": "热门 Game Jam",
         "view_more": "更多",
@@ -196,7 +196,7 @@
         "browse_jams_header": "浏览 Jam",
         "manage_submissions_link": "管理您的作品和 Jam",
         "host_a_jam_button": "发起 Jam",
-        "games_created": "<s>共有{{count}}款游戏</s>为 itch.io 上发起的 Jam 而制作出来。",
+        "games_created": "<s>共有{{count}}款游戏</s>为 itch.io 上发起的 Game Jam 而开发。",
         "page_summary": "itch.io 是一个在线发起与参与 Game Jam 的地方。任何人都可以立即创建并发起一个 Jam。",
         "page_title": "itch.io 上的 Game Jam",
         "jams_joined_header": "您参加的 Jam",
@@ -264,7 +264,7 @@
                 "paid": "付费",
                 "free_or_donate": "{{money}}或捐赠"
             },
-            "details_genre_info": "选择最能描述您游戏的类别。您可以选择下面带标签的其他类型",
+            "details_genre_info": "选择最能描述您游戏的类别。您也可以通过下面的标签选择额外的类型",
             "details_tags_header": "标签",
             "details_genre_header": "类型",
             "embed_options": {
@@ -320,8 +320,8 @@
             "community_comments": "评论",
             "community_disabled": "禁用",
             "community_field": "社区",
-            "instructions_field_info1": "玩家通过浏览器下载您的游戏时将会看到这段文字。应包含有关如何安装与运行游戏的信息。",
-            "instructions_field_info2": "如果游戏需要玩家提前安装运行库或程序，您应也在此处声明",
+            "instructions_field_info1": "玩家通过浏览器下载您的游戏时会看到这段文字。应包含有关如何安装与运行游戏的信息。",
+            "instructions_field_info2": "如果游戏需要玩家提前安装运行库或程序，您也应在此处声明",
             "description_field_description": "这将构成您游戏页面的内容。",
             "project_type_help": "不论您选择哪个类型，都可以添加另外的可下载文件",
             "tip_label": "提示",
@@ -343,7 +343,7 @@
             "short_description_field": "简短说明或宣传标语",
             "delete_game_button": "删除游戏",
             "video_field_description": "提供一个 YouTube 或 Vimeo 视频的链接。",
-            "video_field": "游戏视频或宣传片",
+            "video_field": "实机演示或宣传片",
             "save_and_view_button": "保存并查看页面",
             "project_url_field": "项目 URL",
             "title_field": "标题",
@@ -629,7 +629,7 @@
             "jam_submission": {
                 "rating_instructions": "访问上方的提交页面，以对此参赛作品进行评分与评论。",
                 "now_accepting_ratings": "本 Jam 的参赛作品已开放评分。",
-                "you_rated_this_game": "您已为此游戏评分",
+                "you_rated_this_game": "您已对此游戏评分",
                 "accepting_ratiings": "本 Jam 的参赛作品已开放评分。<a>了解详情</a>",
                 "view_the_submission_page": "查看投稿页面",
                 "this_is_a_submission_to_jam_title": "这是投稿于 {{jam_title}} 的作品"
@@ -763,7 +763,7 @@
         "languages_header": "支持您的语言",
         "web_games_description": "您可以将网页游戏同步到客户端，以便您随时离线游玩。当您再次联网，便可获取任何更新。",
         "web_games_header": "离线网页游戏",
-        "updates_description": "不只您安装的游戏会自动更新，客户端本身也会随着新特性的推出而自动更新。使用我们新的命令行工具的游戏会使用<em>增量补丁</em>，确保您每次更新只需下载有改动的内容。",
+        "updates_description": "不只您安装的游戏会自动更新，客户端本身也会随着新特性的推出而自动更新。使用我们新的命令行工具发布的游戏会使用<em>增量补丁</em>，确保您每次更新只需下载有改动的内容。",
         "updates_header": "保持更新",
         "browse_description": "在 itch.io，每个项目的页面设计都由它们的创作者掌控。内置浏览器让您在下载与安装游戏的同时可以欣赏<a>创作者们设计的独特页面</a>。",
         "browse_header": "以创作者所意料的方式浏览游戏",
@@ -805,8 +805,8 @@
         "upload_a_new_game": "上传新游戏",
         "my_dashboard": "我的创作中心",
         "product_summary2": "您甚至可以给游戏设置最低购买价格，让玩家自行选择想要支付的价格。",
-        "product_summary1": "<s>itch.io</s> 是一个免费的独立游戏在线发布平台。您可以将游戏文件和屏幕截图全部上传到一个地方，并给自己的游戏创建专属的独特主页。",
-        "page_header": "创建自定义页面，助您快速发行、销售自己的游戏"
+        "product_summary1": "<s>itch.io</s> 是一个免费的独立游戏在线发布平台。您可以将游戏文件和屏幕截图全部上传到一个地方，并为自己的游戏创建专属的页面。",
+        "page_header": "搭建自定义页面，迅速发行或销售您的独立游戏"
     },
     "user_register": {
         "page_title": "创建账号",
@@ -1142,7 +1142,7 @@
             "profile_description": "个人页面信息",
             "profile": "个人信息",
             "use_dark_theme": "在可用的地方使用黑色主题",
-            "click_to_load_games": "需要点击才能运行网页游戏",
+            "click_to_load_games": "要求点击以运行 HTML5 游戏",
             "disable_autoloading_next_page_when_browsing": "浏览时禁用自动加载下一页",
             "disable_animated_gifs": "禁用 GIF 动画",
             "show_adult_content": "在搜索和浏览中显示标记为成人的内容",
@@ -1325,9 +1325,9 @@
             "keyboard": "键盘"
         },
         "multiplayer_features": {
-            "adhoc": "本地多人联机游戏",
-            "server": "线上多人联机游戏",
-            "local": "本地多人游戏"
+            "adhoc": "本地联机",
+            "server": "线上联机",
+            "local": "本地"
         },
         "accessibility_features": {
             "textless": "无文本",
