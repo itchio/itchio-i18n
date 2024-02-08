@@ -53,7 +53,7 @@
         "recommended_for_you": "向您推荐",
         "random_game": "随机游戏",
         "from_the_blog": "博客摘要",
-        "view_something_random": "随便来几个"
+        "view_something_random": "随机挑选"
     },
     "layout": {
         "user_menu": {
@@ -61,7 +61,7 @@
             "library": "我的库",
             "recommendations": "推荐",
             "new_project": "上传新项目",
-            "sales_bundles": "促销和捆绑包",
+            "sales_bundles": "促销与捆绑包",
             "host_game_jam": "发起 Game Jam",
             "view_profile": "个人主页",
             "settings": "设置",
@@ -203,7 +203,7 @@
         "jams_created_header": "您创建的 Jam"
     },
     "game_grid": {
-        "in_bundle": "游戏包中"
+        "in_bundle": "在捆绑包中"
     },
     "add_to_collection": {
         "about_this_project_label": "关于这个项目",
@@ -368,7 +368,7 @@
         "header": {
             "game_jams_link": "Game Jam",
             "coop_bundles_link": "合作捆绑包",
-            "sales_bundles_link": "促销和捆绑包",
+            "sales_bundles_link": "促销与捆绑包",
             "payouts_link": "支出",
             "analytics_link": "分析",
             "payments_link": "支付",
@@ -471,8 +471,8 @@
         "includes_steam_key": "您将在购买时获赠 Steam 序列号。",
         "no_thanks_just_take_me_to_the_downloads": "不用了，请带我去下载页面",
         "free_pay_what_you_want": "此作品是免费的，但创作者接受您支付一个您认为恰当的金额作为支持。",
-        "buy_as_bundle_plural": "您可以以{{price}}的价格购买包含本商品的游戏包（内含{{count}}件产品）：",
-        "also_buy_as_bundle_plural": "您也可以用{{price}}购买包含本产品的游戏包（共含{{count}}件产品）：",
+        "buy_as_bundle_plural": "您可以用{{price}}购买包含本商品的捆绑包（内含{{count}}件商品）：",
+        "also_buy_as_bundle_plural": "您也可以用{{price}}购买包含本产品的捆绑包（共含{{count}}件产品）：",
         "percent_off_until": "在 {{end_date}} 前的所有购买均有<s>{{rate}}%</s>优惠。",
         "support_message": "通过捐赠支持该项目的开发",
         "on_sale_notice": "这个商品正在促销中。",
@@ -561,8 +561,8 @@
             "reply": "回复",
             "edits_count": "（已被编辑{{count}}次）",
             "edits_count_plural": "（已被编辑{{count}}次）",
-            "edit_blocks": "编辑屏蔽列表",
-            "post_from_blocked_account": "发布者已被你屏蔽",
+            "edit_blocks": "编辑黑名单",
+            "post_from_blocked_account": "发布者已被你拉黑",
             "deleted_post": "帖子已删除"
         },
         "topic": {
@@ -642,7 +642,7 @@
             },
             "ownership": {
                 "purchased_for_price": "是您以{{price}}购买的",
-                "purchased_in_a_bundle_for_price": "包含在您以{{price}}购买的游戏包中",
+                "purchased_in_a_bundle_for_price": "包含在您以{{price}}购买的捆绑包中",
                 "you_were_gifted_this": "是您收下的礼物",
                 "claimed": "领取成功",
                 "you_havent_sent_this_gift_to_anyone_yet": "您还没有把这份礼物送给任何人",
@@ -726,7 +726,7 @@
         },
         "empty_page_no_uploads": "创作者尚未上传任何内容…",
         "donate_button": "支持此{{noun}}",
-        "steam_key_bundle_disclaimer": "（注意：Steam 序列号不包含在 {{bundle_title}} 中）",
+        "steam_key_bundle_disclaimer": "（注意：{{bundle_title}} 中不包含 Steam 序列号）",
         "your_purchase_comes_with_a_steam_key": "您的购买会附带一份 Steam 序列号。",
         "devlog_view_all_posts": "查看所有帖子",
         "in_order_to_access": "若要获取此{{noun}}，您必须以不低于{{price}}的价格购买它。",
@@ -794,9 +794,9 @@
         "share_message": "itch.io 是一个免费的独立游戏在线发布平台。",
         "learn_more_about": "了解更多内容：",
         "upload_your_game_description": "您可以将自己的独立游戏免费上传到 <s>itch.io</s>。我们会托管您的游戏、截图及其他可下载内容，并提供可靠快速的下载途径。",
-        "browser_game_description": "通过将您的网页游戏托管在 <s>itch.io</s> 上来获得收入。游戏的本体将会嵌入它的主页里；玩家如果喜欢您的游戏，可以向您捐赠任意金额。",
+        "browser_game_description": "通过将您的网页游戏托管在 <s>itch.io</s> 上来获得收入。您的游戏将会嵌入在网页中，如果玩家喜欢您的游戏，他们可以向您捐赠任意金额。",
         "learn_more": "了解更多",
-        "host_a_sale_description": "通过开展可自由设置时段的促销活动，以推广您的游戏并获得更高的销量。",
+        "host_a_sale_description": "在任意时间段开展促销活动，以帮助您推广游戏并获得更高销量。",
         "host_a_sale": "发起促销活动",
         "track_your_game": "追踪您的游戏数据",
         "design_your_games_page": "设计您的游戏页面",
@@ -1046,7 +1046,7 @@
             "view_all_my_purchases": "查看我的所有购买",
             "download_title": "下载 {{project_title}}",
             "preorder_title": "预购 {{project_title}}",
-            "view_rest_in_bundle": "查看游戏包中的其他内容",
+            "view_rest_in_bundle": "查看捆绑包中的其他内容",
             "more_menu": "更多",
             "invoice": "收据"
         },
@@ -1060,7 +1060,7 @@
         "preorder_instructions": "此项目有文件尚未发布。请在创作者开放下载后再回到此页下载它们。",
         "check_your_email_for_the_confirmation_link": "已向您的邮箱发送确认链接。",
         "alternate_download": {
-            "region_message": "一些地区会屏蔽 itch.io 的 CDN。如果您的下载没有开始，则可以启用备用下载模式并重试。",
+            "region_message": "已知有些地区会屏蔽 itch.io 的 CDN。如果您的下载没有开始，则可以开启备用下载模式后重试。",
             "title": "备用下载模式",
             "enable_alternate_download_mode": "启用备用下载模式"
         },
