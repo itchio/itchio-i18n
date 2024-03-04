@@ -724,7 +724,8 @@
             "toggle_more_options": "Schalte zu weiteren Optionen um",
             "clear_filter": "Setze Filter zurück"
         },
-        "filter_everything_else": "Sonstiges"
+        "filter_everything_else": "Sonstiges",
+        "filter_group_player_count": "Anzahl der Spieler"
     },
     "browse_tags": {
         "page_title": "Beliebteste Tags",
@@ -1244,7 +1245,7 @@
             "edit_project": "Projekt bearbeiten",
             "devlog": "Entwicklerlog",
             "metadata": "Metadaten",
-            "analytics": "Analysen",
+            "analytics": "Analytics",
             "distribute": "Verteilung",
             "interact": "Interaktionen",
             "edit_comments": "Kommentare bearbeiten",
