@@ -384,6 +384,15 @@
         "effects": "Effekte",
         "characters": "Charaktere",
         "celtic": "Keltisch",
-        "cats": "Katzen"
+        "cats": "Katzen",
+        "webcomic": "Webcomic",
+        "svg": "SVG",
+        "suika-game": "Suika-Spiel",
+        "midi": "MIDI",
+        "heist": "Überfall",
+        "forged-in-the-dark": "Geschmiedet in der Finsternis",
+        "fanzine": "Fanzine",
+        "doujinshi": "Dōjinshi",
+        "basketball": "Basketball"
     }
 }
