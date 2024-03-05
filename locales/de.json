@@ -1088,6 +1088,9 @@
         "screenshots": {
             "empty_message": "Es wurden bisher keine Screenshots hochgeladen",
             "loading_more": "Lade mehr Screenshots …"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Dieser Eintrag ist disqualifiziert"
         }
     },
     "dashboard": {
@@ -1239,13 +1242,14 @@
             "community_comments_info": "Füge einen Kommentarthread zum Ende der Seite hinzu",
             "community_discussion_board_info": "Füge eine Community-Seite mit Kategorien, Threads, Antworten und mehr hinzu",
             "add_screenshots": "Screenshots hinzufügen",
-            "screenshots_header": "Screenshots"
+            "screenshots_header": "Screenshots",
+            "external_file_tooltip": "Gib einen Link zur Datei an und wir verfolgen, wie oft sie heruntergeladen wurde"
         },
         "project_header": {
             "edit_project": "Projekt bearbeiten",
             "devlog": "Entwicklerlog",
             "metadata": "Metadaten",
-            "analytics": "Analytics",
+            "analytics": "Analysen",
             "distribute": "Verteilung",
             "interact": "Interaktionen",
             "edit_comments": "Kommentare bearbeiten",
