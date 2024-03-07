@@ -343,7 +343,7 @@
         "open-source": "Open Source",
         "nsfw": "NSFW",
         "lovecraft": "Horreur Lovecraftien",
-        "hypercard": "HyperCarte",
+        "hypercard": "HyperCard",
         "homebrew": "Brassage maison",
         "hexcrawl": "Hexcrawl",
         "eroge": "Eroge",
@@ -377,6 +377,11 @@
         "svg": "SVG",
         "midi": "MIDI",
         "doujinshi": "Doujinshi",
-        "basketball": "Basketball"
+        "basketball": "Basketball",
+        "suika-game": "Jeu de la pastèque",
+        "sharecart1000": "SHARECART1000",
+        "roadtrip": "Roadtrip",
+        "one-shot": "Un seul tir",
+        "heist": "Cambriolage"
     }
 }
