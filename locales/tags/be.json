@@ -2,11 +2,11 @@
     "tags": {
         "buttons": "Кнопкі",
         "brushes": "Пэндзлі",
-        "boys-love": "Яой",
+        "boys-love": "Любоў хлопцаў",
         "boss-battle": "Бітва з босам",
         "black-and-white": "Чорнае і белае",
         "backgrounds": "Фоны",
-        "audio": "Аўдыё",
+        "audio": "Аўдыя",
         "asteroids": "Астэроіды",
         "art-book": "Артбук",
         "archery": "Стральба з лука",
@@ -19,14 +19,18 @@
         "adult": "Для дарослых",
         "8-bit": "8-бітная",
         "4x": "4Х",
-        "3d-platformer": "3D Платформер",
+        "3d-platformer": "3D-платформер",
         "3d": "3D",
         "2d": "2D",
         "altgame": "Альтгульня",
         "aliens": "Іншапланецяне",
         "action-rpg": "Ролевы экшэн",
-        "action-adventure": "Экшн-прыгода",
+        "action-adventure": "Экшэн-прыгода",
         "action": "Экшэн",
-        "abstract": "Абстрактная"
+        "abstract": "Абстрактная",
+        "brain-training": "Трэніроўка мозга",
+        "automation": "Аўтаматызацыя",
+        "augmented-reality": "Дапоўненая рэальнасць",
+        "atmospheric": "Атмасферная"
     }
 }
