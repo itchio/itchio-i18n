@@ -382,6 +382,7 @@
         "sharecart1000": "SHARECART1000",
         "roadtrip": "Roadtrip",
         "one-shot": "Un seul tir",
-        "heist": "Cambriolage"
+        "heist": "Cambriolage",
+        "fanzine": "Full name\nRequired\nStreet line 1\nRequired\nStreet line 2\nOptional\nCity\nRequired\nCountry\n\nUnited State"
     }
 }
