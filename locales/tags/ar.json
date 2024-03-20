@@ -170,7 +170,7 @@
         "female-protagonist": "بطلة",
         "fast-paced": "تسارعي",
         "fantasy": "خيال",
-        "fairy-tale": "قصص اطفال",
+        "fairy-tale": "قصص خيالية",
         "explosions": "تفجيرات",
         "exploration": "استكشاف",
         "experimental": "تجربه",
@@ -388,6 +388,7 @@
         "doujinshi": "الأعمال ذاتية النشر اليابانية",
         "webcomic": "ويب كومكس",
         "svg": "SVG",
-        "basketball": "كرة سلة"
+        "basketball": "كرة سلة",
+        "fanzine": "مجلة المعجبين"
     }
 }
