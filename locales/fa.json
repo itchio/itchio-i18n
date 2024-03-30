@@ -250,7 +250,7 @@
             "inputs": "ورودی ها",
             "languages": "زبان ها",
             "average_session_duration": "میانگین نشست",
-            "code_license": "کد مجوز",
+            "code_license": "مجوز کد",
             "tags": "برچسب ها",
             "made_with_tools": "ساخته شده با",
             "genre": "ژانر",
@@ -614,7 +614,7 @@
             "current_password": "گذرواژه‌ی کنونی",
             "set_password": "تنظیم گذرواژه",
             "reset_password": "بازنشانی گذرواژه",
-            "updating_your_password_will_cause": "به‌روز کردن گذرواژه، موجب پایان یافتن تمامی نشست‌هایی شما در مرورگرهای نیز خواهد شد. فقط <a>اتصال‌های OAuth و کلیدهای API</a> فعال خواهند ماند.",
+            "updating_your_password_will_cause": "به‌روز کردن گذرواژه، موجب پایان یافتن تمامی نشست‌های شما در مرورگرهای دیگر نیز خواهد شد. فقط <a>اتصال‌های OAuth و کلیدهای API</a> فعال خواهند ماند.",
             "please_set_a_password_on_your_account": "لطفا جهت افزایش امنیت حساب خود و همچنین دسترسی راحت بدون نیاز به سرویس‌های سوم شخص، گذرواژه‌ای برای حساب خود تنظیم کنید.",
             "your_account_currently_doesnt_have_a_password": "حساب شما در حال حاضر گذرواژه‌ای ندارد.",
             "no_password_service_name": "حساب شما در حال حاضر گذرواژه ندارد، زیرا شما با {{service_name}} ثبت نام کرده‌اید."
