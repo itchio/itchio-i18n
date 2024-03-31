@@ -233,8 +233,8 @@
         "black-and-white": "Đen trắng",
         "beat-em-up": "Đánh đấu",
         "automation": "Tự động hóa",
-        "atmospheric": "Không gian mở",
-        "asteroids": "Thiên thạch",
+        "atmospheric": "Bầu không khí",
+        "asteroids": "Tiểu hành tinh",
         "art-book": "Sách họa",
         "archery": "Xạ thủ",
         "arcade": "Phổ thông",
@@ -254,6 +254,10 @@
         "3d": "3D",
         "2d": "2D",
         "augmented-reality": "Thực tế Tăng cường",
-        "adult": "Người lớn"
+        "adult": "Người lớn",
+        "backgrounds": "Lớp nền",
+        "asset-pack": "Gói nội dung",
+        "audio": "Âm thanh",
+        "animation": "Hoạt ảnh"
     }
 }
