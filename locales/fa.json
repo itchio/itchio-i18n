@@ -751,8 +751,8 @@
         "filter_group": {
             "clear_filter": "پاک کردن فیلتر",
             "toggle_more_options": "جابه جایی گزینه های بیشتر",
-            "fewer_options": "گزینه های کمتر",
-            "more_options": "گزینه های بیشتر"
+            "fewer_options": "گزینه‌های کمتر",
+            "more_options": "گزینه‌های بیشتر"
         },
         "filter_group_tools": "ابزارها و موتورها",
         "filter_group_collection": "مجموعه",
@@ -779,7 +779,7 @@
         "clear_filters": "پاک کردن",
         "filter_results": "فیلتر کردن نتایج",
         "upload_your_project": "پروژه‌ی خود را در itch.io <a>آپلود کنید</a> تا اینجا نمایش داده شود.",
-        "sort": "مرتب سازی",
+        "sort": "مرتب‌‍سازی",
         "sort_most_recent": "جدیدترین",
         "sort_top_rated": "بیشترین رتبه",
         "sort_top_sellers": "فروشندگان برتر",
@@ -787,7 +787,7 @@
         "sort_popular": "محبوب",
         "results_count": "{{count}} نتیجه",
         "results_count_plural": "{{count}} نتیجه",
-        "fresh_description": "مجموعه‌ای از پروژه‌ها را که به طور مداوم توسط اعضای انتخابی ما در حال به‌روزرسانی هستند را بررسی کنید. برای موارد جدید هر روز سر بزنید."
+        "fresh_description": "مجموعه‌ای از پروژه‌ها که به طور مداوم توسط اعضای انتخابی ما در حال به‌روزرسانی هستند را بررسی کنید. برای موارد جدید هر روز سر بزنید."
     },
     "buy_form": {
         "check_out_with": "پرداخت با",
