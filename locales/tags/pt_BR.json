@@ -384,6 +384,11 @@
         "sokoban": "Sokoban",
         "wobbly": "Cambaleante",
         "vector": "Vetor",
-        "sprites": "Sprites"
+        "sprites": "Sprites",
+        "heist": "Assalto",
+        "forged-in-the-dark": "Forged in the Dark",
+        "fanzine": "Revista de fãs",
+        "doujinshi": "Doujinshi",
+        "basketball": "Basquete"
     }
 }
