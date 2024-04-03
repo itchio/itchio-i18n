@@ -36,7 +36,7 @@
             "feed_unseen_count_plural": "{{count}} novos",
             "feed": "Novidades",
             "dashboard": "Painel de Controle",
-            "jams": "Concursos de jogos",
+            "jams": "Eventos",
             "notifications_count": "{{count}} notificação",
             "notifications_count_plural": "{{count}} notificações"
         },
@@ -386,7 +386,7 @@
         "your_purchase_comes_with_a_steam_key": "Sua compra vem com uma chave Steam.",
         "steam_key_bundle_disclaimer": "(Nota: chave do Steam não incluída no {{bundle_title}})",
         "donate_button": "Apoie este {{noun}}",
-        "empty_page_no_uploads": "Nada carregado ainda…",
+        "empty_page_no_uploads": "Nada foi publicado ainda…",
         "comments": {
             "comments_header": "Comentários",
             "leave_a_comment_header": "Deixe um comentário",
@@ -451,7 +451,7 @@
             "add_to_collection_short": "Coleção",
             "comments": "Comentários",
             "community": "Comunidade",
-            "devlog": "Devlog",
+            "devlog": "Diário Dev",
             "edit_your_rating": "Edite Sua Avaliação",
             "edit_rating": "Editar Avaliação",
             "rate": "Avaliar",
@@ -724,7 +724,8 @@
             "toggle_more_options": "Alternar Mais Opções",
             "clear_filter": "Limpar filtro"
         },
-        "filter_everything_else": "Todo o resto"
+        "filter_everything_else": "Todo o resto",
+        "filter_group_player_count": "Número de jogadores"
     },
     "browse_tags": {
         "page_title": "Tags principais",
@@ -1246,7 +1247,7 @@
         },
         "project_header": {
             "edit_project": "Editar projeto",
-            "devlog": "Devlog",
+            "devlog": "Diário Dev",
             "metadata": "Metadados",
             "analytics": "Dados",
             "distribute": "Distribuir",
