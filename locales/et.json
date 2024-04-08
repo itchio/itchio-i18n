@@ -25,7 +25,7 @@
             "feed": "Voog",
             "game_assets": "Vahendid",
             "bundles": "Kimbud",
-            "indie_game_store": "Indie mängude pood",
+            "indie_game_store": "Väike arendaja mängupood",
             "jams": "Jämmid",
             "register": "Registreeri"
         },
@@ -639,7 +639,7 @@
         "agree_to_terms": "Makse sooritades nõustute itch.io <1>teenusetingimuste</1> ja <2>privaatsuseeskirjadega</2>.",
         "included_files": "Kaasatud failid",
         "i_already_paid_for_this": "Juba maksin selle eest…",
-        "gift_email_instructions": "Pärast maksmist valite kingituse saatmiseks e-posti addressi",
+        "gift_email_instructions": "Pärast maksmist valite kingituse saatmiseks e-posti addressi.",
         "email_address_description": "Teie maksekinnitus saadetakse siia",
         "your_email_address": "Sinu e-posti aadress",
         "download_this_product_by_purchasing_it_for": "Laadige see toode alla, ostes selle hinnaga {{price}} või rohkem.",
