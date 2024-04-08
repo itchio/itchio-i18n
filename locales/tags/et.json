@@ -201,7 +201,7 @@
         "management": "Juhtimine",
         "male-protagonist": "Meessoost Peategelane",
         "magic": "Maagia",
-        "low-poly": "Low-poly",
+        "low-poly": "Vähese-hulknurkadega",
         "loot": "Saak",
         "local-multiplayer": "Kohalik Mitmikmäng",
         "local-co-op": "Kohalik Co-Op",
@@ -209,6 +209,7 @@
         "kickstarter": "Kickstarter",
         "gore": "Verine",
         "demake": "Vanandatud",
-        "coming-of-age": "Vanuse saabumine"
+        "coming-of-age": "Vanuse saabumine",
+        "nsfw": "Mittesobilik Sisu"
     }
 }
