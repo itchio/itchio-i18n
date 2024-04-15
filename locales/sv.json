@@ -724,7 +724,8 @@
             "toggle_more_options": "Växla fler inställningar",
             "clear_filter": "Rensa filter"
         },
-        "filter_everything_else": "Allt annat"
+        "filter_everything_else": "Allt annat",
+        "filter_group_player_count": "Antal spelare"
     },
     "browse_tags": {
         "page_title": "Populäraste taggarna",
@@ -772,7 +773,8 @@
             "data_export": "Dataexport",
             "api_keys": "API-nycklar",
             "oauth_applications": "OAuth-applikationer",
-            "thirdparty_analytics": "Analysverktyg från tredjepart"
+            "thirdparty_analytics": "Analysverktyg från tredjepart",
+            "delete_account": "Ta bort konto"
         },
         "profile": {
             "language_community_translation": "<s>itch.io är översatt av sina medlemmar.</s> Vissa språk är bara delvis tillgängliga. Om du vill se itch.io i ditt språk eller hjälpa till att fixa några misstag är du välkommen att hjälpa till. <a>Läs mer</a>",
