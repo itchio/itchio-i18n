@@ -748,7 +748,8 @@
             "contact_header": "Contacto",
             "publisher_header": "Editora",
             "payment_header": "Pagamento",
-            "basics_header": "Noções básicas"
+            "basics_header": "Noções básicas",
+            "delete_account": "Apagar Conta"
         },
         "account_settings": "Definições da conta",
         "email_addresses": {
