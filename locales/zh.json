@@ -349,7 +349,7 @@
             "title_field": "标题",
             "edit_project_title": "编辑项目",
             "create_a_new_project_title": "创建一个新项目",
-            "external_file_tooltip": "您提供文件的链接，我们将跟踪该文件的下载次数"
+            "external_file_tooltip": "您提供文件链接，我们会持续更新下载次数"
         },
         "dashboard": "创作中心",
         "hello": "您好！",
@@ -430,7 +430,7 @@
         "results_count": "{{count}}个结果",
         "results_count_plural": "{{count}}个结果",
         "filter_everything_else": "其他",
-        "filter_group_player_count": "玩家数量"
+        "filter_group_player_count": "玩家数"
     },
     "collection": {
         "remove_confirm": "您确定将该项从此收藏夹移除吗",
