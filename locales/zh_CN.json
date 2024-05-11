@@ -19,7 +19,7 @@
             "browse_games": "浏览更多游戏",
             "browse": "浏览",
             "feed": "反馈",
-            "feed_unseen_count": "",
+            "feed_unseen_count": "{{count}}条新动态",
             "games": "游戏",
             "fun_games": "欢乐游戏",
             "game_assets": "资产",
