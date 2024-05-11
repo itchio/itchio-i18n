@@ -1,1 +1,18 @@
-{}
+{
+    "layout": {
+        "header": {
+            "browse": "Browse"
+        },
+        "footer": {
+            "cookies": "cookie",
+            "privacy": "Privacy",
+            "directory": "Direktori",
+            "terms": "Syarat",
+            "contact_us": "Hubungi kita",
+            "blog": "Blog",
+            "faq": "FAQ",
+            "about": "Babagan"
+        }
+    },
+    "itchio": "itch.io"
+}
