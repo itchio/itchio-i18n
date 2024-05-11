@@ -1,1 +1,23 @@
-{}
+{
+    "layout": {
+        "header": {
+            "community": "Community",
+            "devlogs": "ବିକାଶକାରୀ ଲଗ୍ |",
+            "upload_game": "ଖେଳ ଅପଲୋଡ୍ କରନ୍ତୁ |",
+            "game_jams": "ଗେମ୍ ଜାମସ୍ |",
+            "browse_games": "ଖେଳଗୁଡିକ ବ୍ରାଉଜ୍ କରନ୍ତୁ |",
+            "browse": "ବ୍ରାଉଜ୍ କରନ୍ତୁ |"
+        },
+        "footer": {
+            "cookies": "କୁକିଜ୍",
+            "privacy": "ଗୋପନୀୟତା",
+            "directory": "ଡିରେକ୍ଟୋରୀ",
+            "terms": "ସର୍ତ୍ତାବଳୀ",
+            "contact_us": "ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |",
+            "blog": "ବ୍ଲଗ୍",
+            "faq": "FAQ",
+            "about": "ପାଖାପାଖି"
+        }
+    },
+    "itchio": "or.itch.io"
+}
