@@ -55,7 +55,8 @@
             "recommendations": "Suositukset",
             "library": "Kirjasto",
             "feed": "Syöte",
-            "account_menu_tooltip": "Tilivalikko"
+            "account_menu_tooltip": "Tilivalikko",
+            "posts": "Postaukset"
         }
     },
     "index": {
@@ -170,7 +171,8 @@
             "seconds": "sekunnit"
         },
         "lightboxes": {
-            "close": "Sulje"
+            "close": "Sulje",
+            "error_title": "Sinun pyyntöäsi ei voitu suorittaa"
         },
         "collection_button": {
             "add_to_collection": "Lisää kokoelmaan"
@@ -1060,7 +1062,9 @@
             "password": "Salasana",
             "current_password": "Nykyinen salasana",
             "set_password": "Aseta salasana",
-            "reset_password": "Nollaa salasana"
+            "reset_password": "Nollaa salasana",
+            "your_account_currently_doesnt_have_a_password": "Tililläsi ei ole salasanaa.",
+            "no_password_service_name": "Sinun tililläsi ei ole salasanaa koska rekisteröidyit {{service_name}}:lla."
         },
         "profile": {
             "profile_description": "Profiilisivusi sisältö",
@@ -1120,7 +1124,8 @@
             "contact_header": "Yhteys",
             "publisher_header": "Julkaisija",
             "payment_header": "Maksu",
-            "basics_header": "Perusteet"
+            "basics_header": "Perusteet",
+            "delete_account": "Poista tili"
         },
         "account_settings": "Tiliasetukset",
         "two_factor_auth": {
@@ -1192,7 +1197,8 @@
         "sort_new_and_popular": "Uudet & suositut",
         "sort_popular": "Suosittu",
         "results_count": "{{count}} tulos",
-        "results_count_plural": "{{count}} tulosta"
+        "results_count_plural": "{{count}} results",
+        "filter_group_player_count": "Pelaajamäärä"
     },
     "collection": {
         "remove_confirm": "Oletko varma että haluat poistaa tämän kokoelmasta",
