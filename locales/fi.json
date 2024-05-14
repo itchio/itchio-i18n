@@ -904,7 +904,7 @@
                 "vote": "Äänestä"
             },
             "rated_by_people_count": "Yhden henkilön pistetyttämä {{count}} tähän asti",
-            "rated_by_people_count_plural": "{{count}} ihmistä on arvostellut tähän mennessä",
+            "rated_by_people_count_plural": "{{count}} henkilö(ä) on arvostellut tähän mennessä.",
             "time_remaining_before_deadline": "{{time_duration}} ennen lopullista kehityksen päätösaikaa",
             "submitted_by_contributors": "Toimitettu seuraavien toimesta {{contributors}}",
             "ranked_with_vote_count": "Asteutettu {{ordinal_rank}} äänen {{count}} kautta",
@@ -932,6 +932,9 @@
             "results_table_votes": "Äänet",
             "results_table_rank": "Asteutus",
             "results_table_criteria": "Määre"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Tämä lähetys on hylätty"
         }
     },
     "game_download": {
