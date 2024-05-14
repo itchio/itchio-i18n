@@ -1,1 +1,27 @@
-{}
+{
+    "tags": {
+        "boring": "Tylsä",
+        "board-game": "Lautapeli",
+        "black-and-white": "Mustavalkoinen",
+        "beat-em-up": "Beat 'em up",
+        "atmospheric": "Ilmakehä",
+        "art-book": "Taidekirja",
+        "archery": "Jousiammunta",
+        "arcade": "Kolikkopeli",
+        "anime": "Anime",
+        "animals": "Eläimet",
+        "altgame": "Altgame",
+        "alternate-history": "Vaihtoehtoinen historia",
+        "aliens": "Alienit",
+        "adventure": "Seikkailu",
+        "action-rpg": "Toiminta roolipeli",
+        "action-adventure": "Toimintaseikkailu",
+        "action": "Toiminta",
+        "abstract": "Abstrakti",
+        "8-bit": "8-bittinen",
+        "4x": "4X",
+        "3d-platformer": "3D-tasohyppely",
+        "3d": "3D",
+        "2d": "2D"
+    }
+}
