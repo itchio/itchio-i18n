@@ -694,7 +694,8 @@
         "filter_group_tools": "Unelte și Motoare de joc",
         "filter_group_misc": "Diverse",
         "filter_group_release_status": "Starea lansarii",
-        "filter_group_input_methods": "Metode de intrare"
+        "filter_group_input_methods": "Metode de intrare",
+        "filter_group_player_count": "Numărul de jucători"
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
@@ -702,7 +703,7 @@
         "preorder_title": "Pre-comandați '{{title}}'",
         "buy_title": "Cumpărați '{{title}}'",
         "i_already_paid_for_this": "Am plătit deja pentru asta…",
-        "gift_email_instructions": "Vei alege un e-mail la care să trimiți cadoul după ce ai plătit",
+        "gift_email_instructions": "Vei alege un e-mail la care să trimiți cadoul după ce ai plătit.",
         "email_address_description": "Confirmarea plății va fi trimisă aici",
         "your_email_address": "Adresa ta de email",
         "download_this_product_by_purchasing_it_for": "Descărcați acest produs achiziționându-l pentru {{price}} sau mai mult.",
@@ -772,7 +773,8 @@
             "contact_header": "Contacteaza",
             "publisher_header": "Publicant",
             "press_access": "Acces de Presă",
-            "basics_header": "Bazele"
+            "basics_header": "Bazele",
+            "delete_account": "Ștergeți contul"
         },
         "account_settings": "Setările contului",
         "profile": {
@@ -801,7 +803,9 @@
             "account_type": "Tipul Contului",
             "language_community_translation": "<s>itch.io este tradus de catre membrii din comunitatea noastră.</s> Unele limbi sunt disponibile doar parțial. Daca doriți sa vedeti itch.io in limba dumneavoastra sau sa corectati greseli puteți contribui. <a>Invața mai multe</a>",
             "click_to_load_games": "Necesită un clic pentru a rula încorporarea jocului HTML5",
-            "website_description": "URL optional pentru a fi pus pe pagina de profil"
+            "website_description": "URL optional pentru a fi pus pe pagina de profil",
+            "display_name": "Numele afișat",
+            "username_description": "Folosit pentru a vă conecta în cont și pentru URL-ul paginii dvs"
         },
         "email_addresses": {
             "add_email_form": {
