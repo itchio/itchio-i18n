@@ -15,6 +15,9 @@
         "adult": "Adult",
         "action-rpg": "Acțiune RPG",
         "anime": "Anime",
-        "animation": "Animatie"
+        "animation": "Animatie",
+        "archery": "Tir cu arcul",
+        "arcade": "Arcadă",
+        "altgame": "Joc alternativ"
     }
 }
