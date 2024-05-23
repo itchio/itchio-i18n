@@ -805,7 +805,8 @@
             "click_to_load_games": "Necesită un clic pentru a rula încorporarea jocului HTML5",
             "website_description": "URL optional pentru a fi pus pe pagina de profil",
             "display_name": "Numele afișat",
-            "username_description": "Folosit pentru a vă conecta în cont și pentru URL-ul paginii dvs"
+            "username_description": "Folosit pentru a vă conecta în cont și pentru URL-ul paginii dvs",
+            "twitter_description": "Cont de Twitter, care va apărea pe profilul dvs"
         },
         "email_addresses": {
             "add_email_form": {
