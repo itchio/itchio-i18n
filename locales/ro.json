@@ -806,7 +806,8 @@
             "website_description": "URL optional pentru a fi pus pe pagina de profil",
             "display_name": "Numele afișat",
             "username_description": "Folosit pentru a vă conecta în cont și pentru URL-ul paginii dvs",
-            "twitter_description": "Cont de Twitter, care va apărea pe profilul dvs"
+            "twitter_description": "Cont de Twitter, care va apărea pe profilul dvs",
+            "account_type_gamer": "Joc și descarc jocuri"
         },
         "email_addresses": {
             "add_email_form": {
@@ -825,7 +826,12 @@
             "your_primary_email_address": "Adresa dvs. de email primară: {{email}}",
             "primary_email_header": "Email primar",
             "additional_emails": {
-                "emails_added_header": "Email-uri adaugate"
+                "emails_added_header": "Email-uri adaugate",
+                "detach_email": "Detașați email-ul",
+                "email_sent_status": "email trimis",
+                "resend_verification_email_button": "retrimiteți email-ul de verificare",
+                "verified_column": "Verificat",
+                "email_column": "Adresă e-mail"
             }
         },
         "password": {
@@ -838,7 +844,13 @@
             "password": "Parolă",
             "current_password": "Parola actuală",
             "set_password": "Setați parola",
-            "reset_password": "Resetați parola"
+            "reset_password": "Resetați parola",
+            "new_password": "Parolă nouă"
+        },
+        "two_factor_auth": {
+            "status_off": "Off",
+            "status_on": "On",
+            "tfa_status": "Status: {{tfa_status}}"
         }
     },
     "buy_form_popup": {
@@ -858,5 +870,8 @@
         "commonly_tagged_with": "Etichetat frecvent cu",
         "find_tag": "Gasiți etichetă",
         "page_title": "Cele mai bune etichete"
+    },
+    "stripe_checkout": {
+        "payment_error": "A apărut o eroare la procesarea plății dvs:"
     }
 }
