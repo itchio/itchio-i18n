@@ -383,6 +383,9 @@
         "roadtrip": "Roadtrip",
         "one-shot": "Un seul tir",
         "heist": "Cambriolage",
-        "fanzine": "Fanzine"
+        "fanzine": "Fanzine",
+        "wordle": "Wordle",
+        "webcomic": "Webcomic",
+        "forged-in-the-dark": "Forgé dans l'Obscurité"
     }
 }
