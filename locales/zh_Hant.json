@@ -111,7 +111,8 @@
             "community_field_info": "藉由讓人們在您的頁面上貼文來建立社群。",
             "details_genre_info": "請選擇最適合您遊戲的分類。您也可以使用下方的標籤選取額外的分類",
             "instructions_field_info1": "這段文字會顯示給使用瀏覽器下載您的遊戲的人。包括任何有關如何安裝和執行下載項目的資訊。",
-            "custom_noun_field_description": "您可以提供自訂名詞改變 itch.io 稱呼您專案的方式。"
+            "custom_noun_field_description": "您可以提供自訂名詞改變 itch.io 稱呼您專案的方式。",
+            "payment_warning_info": "如果您將最低價格設定大於 0，則沒有人能下載您的專案。<a>編輯帳戶</a>"
         },
         "intro_text": "您是開發者嗎？上傳您的第一個遊戲",
         "project_list": {
@@ -879,7 +880,8 @@
             "thirdparty_analytics": "第三方分析",
             "basics_header": "基本",
             "payment_header": "付款",
-            "contact_header": "聯絡"
+            "contact_header": "聯絡",
+            "delete_account": "刪除帳戶"
         },
         "profile": {
             "language_description": "itch.io 使用者界面的語言",
@@ -949,7 +951,8 @@
             "new_password_again": "重複新密碼",
             "please_set_a_password_on_your_account": "為了保證您的帳戶安全，且無須再利用第三方服務登入您的帳戶，請設定密碼。",
             "your_account_currently_doesnt_have_a_password": "您的帳號尚未設定密碼。",
-            "no_password_service_name": "您的帳號與{{service_name}}連結，註冊時尚未設定密碼。"
+            "no_password_service_name": "您的帳號與{{service_name}}連結，註冊時尚未設定密碼。",
+            "updating_your_password_will_cause": "更新您的密碼將使先前的所有瀏覽器會話登出。已有的 <a>OAuth 連接和 API 密鑰</a> 仍將維持可用狀態。"
         },
         "two_factor_auth": {
             "learn_more_about_twofactor_authentication": "瞭解雙重認證",
@@ -1002,7 +1005,8 @@
         "filter_group_multiplayer": "多人連線",
         "filter_group_release_status": "銷售狀況",
         "filter_group_collection": "收藏",
-        "filter_group_accessibility_features": "輔助功能"
+        "filter_group_accessibility_features": "輔助功能",
+        "filter_group_player_count": "玩家數"
     },
     "game_download": {
         "trouble_downloading_link": "沒有開始下載？",
@@ -1181,7 +1185,7 @@
             "results_header": "結果",
             "score_information": "成績會以競賽中所有遊戲收到的評分的中位數來對原始分數做調整。",
             "rated_by_people_count": "已有{{count}}人評分",
-            "rated_by_people_count_plural": "已有{{count}}人評分",
+            "rated_by_people_count_plural": "{{count}} 人已評分",
             "ranked_with_vote_count": "以{{count}}票排名{{ordinal_rank}}",
             "ranked_from_count_plural": "根據<s>{{count}}個評分</s>排名。",
             "ranked_from_count": "根據<s>{{count}}個評分</s>排名。"
