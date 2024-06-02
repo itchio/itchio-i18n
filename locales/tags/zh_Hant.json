@@ -66,7 +66,7 @@
         "dragons": "龍",
         "dreams": "夢想",
         "driving": "駕駛",
-        "drm-free": "DRM Free",
+        "drm-free": "無 DRM",
         "dungeon-crawler": "地牢爬行者",
         "dystopian": "反烏托邦",
         "economy": "經濟",
@@ -339,6 +339,11 @@
         "historical": "歷史",
         "hentai": "變態",
         "gui": "圖形化使用者介面",
-        "fbx": "FBX"
+        "fbx": "FBX",
+        "painting": "繪畫",
+        "immersive": "身臨其境",
+        "fanzine": "同好誌",
+        "doujinshi": "同人誌",
+        "basketball": "籃球"
     }
 }
