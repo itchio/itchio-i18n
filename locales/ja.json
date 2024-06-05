@@ -256,7 +256,7 @@
         "create_account_or_login": "<1>アカウントを作成する</1><em>または</em><2>ログイン</2>",
         "track_your_game": "作品の分析",
         "design_your_games_page_description": "ダウンロードまたは購入されるための独自のゲームページを製作します。色、フォント、画像、または動画を選択してください。こちらは専用のゲームページになるため、正しく配置しないものは実際のゲームページに表示されません。",
-        "track_your_game_description": "閲覧数、ダウンロード数、購入数を含む詳細な統計データで、あなたのゲームへの印象を把握してみましょう。キャンペーンを行ってみたいですか？ダウンロードキーを生成して、あなたのゲームにアクセスできるようにしてみましょう。"
+        "track_your_game_description": "閲覧数、ダウンロード数、購入数を含む詳細な統計データで、あなたのゲームへの印象を把握してみましょう。ゲームの告知を考えていますか？ダウンロードキーを生成して、あなたのゲームにアクセスできるようにしてみましょう。"
     },
     "user_register": {
         "register_form": {
@@ -709,7 +709,7 @@
         "download_this_product_by_purchasing_it_for": "こちらの商品を{{price}}以上の価格で購入してダウンロードしましょう。",
         "your_email_address": "メールアドレス",
         "email_address_description": "こちらにお支払いの確認が送信されます",
-        "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます",
+        "gift_email_instructions": "支払いが完了したら、ギフト先のメールアドレスが選べます。",
         "i_already_paid_for_this": "既にこの作品を購入済みです…",
         "support_message": "こちらの作品の開発を支援しましょう",
         "this_purchase_is_a_gift": "ギフトとして購入する",
@@ -769,7 +769,8 @@
         "sort_top_rated": "高評価",
         "upload_your_project": "ここに表示するにはitch.ioに<a>作品をアップロード</a>してください。",
         "clear_filters": "リセット",
-        "filter_group_price": "価格"
+        "filter_group_price": "価格",
+        "filter_group_player_count": "プレーヤーの数"
     },
     "stripe_checkout": {
         "manage_cards_link": "<a>アカウント設定</a>からご利用のカードを管理できます",
@@ -878,7 +879,8 @@
             "data_export": "データのエクスポート",
             "api_keys": "APIキー",
             "oauth_applications": "OAuthアプリケーション",
-            "thirdparty_analytics": "サードパーティの解析"
+            "thirdparty_analytics": "サードパーティの解析",
+            "delete_account": "アカウントを消す"
         },
         "password": {
             "reset_password": "パスワードの変更",
@@ -920,7 +922,7 @@
         },
         "two_factor_auth": {
             "page_description": "二段階認証はアカウントにセキュリテ層を追加します。パスワードが漏洩した時の不正アクセス防止に役立ちます。",
-            "learn_more_about_twofactor_authentication": "二段階認証とは？",
+            "learn_more_about_twofactor_authentication": "二段階認証について詳しく",
             "status_off": "オフ",
             "status_on": "オン",
             "tfa_status": "ステータス: {{tfa_status}}",
@@ -1070,7 +1072,8 @@
             "instructions_field_info2": "ライブラリや他のプログラムのインストールが必要なゲームの場合、まずはその情報を記載しておきましょう",
             "description_field_description": "これがゲームページの内容になります。",
             "short_description_field_description": "プロジェクトへのリンクに表示されます。タイトルとの重複は避けましょう",
-            "classification_field": "種類"
+            "classification_field": "種類",
+            "external_file_tooltip": "ファイルへのリンクを提供したら、ダウンロード回数を記録します"
         },
         "analytics_summary_header": "概要",
         "intro_text": "あなたは開発者ですか？　最初の作品をアップロードしましょう",
@@ -1145,7 +1148,7 @@
             "link_to_itchio_page": "{{game_title}}のitch.ioページ",
             "play_game": "プレイ",
             "ranked_from_count": "<s>{{count}}件の評価</s>をもとに順位付け。",
-            "ranked_from_count_plural": "<s>{{count}}件の評価</s>をもとに順位付け。",
+            "ranked_from_count_plural": "<s> {{count}}</ s>からランク付けされました。",
             "run_project": "プロジェクトを実行",
             "results_table_raw_score": "元スコア",
             "results_table_score": "スコア",
@@ -1158,7 +1161,7 @@
             "downloads": "ダウンロード",
             "submitted_by_contributors": "{{contributors}}様",
             "rated_by_people_count": "現在 {{count}}人に評価されています",
-            "rated_by_people_count_plural": "{{count}}人のユーザーに評価されています",
+            "rated_by_people_count_plural": "現在 {{count}} 人に評価されています",
             "time_remaining_before_deadline": "締め切りまであと{{time_duration}}"
         },
         "header": {
@@ -1237,6 +1240,9 @@
         "screenshots": {
             "loading_more": "スクリーンショットを読み込み中…",
             "empty_message": "まだスクリーンショットは投稿されていません"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "この投稿は不適切です"
         }
     },
     "add_to_collection": {
