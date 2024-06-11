@@ -1148,7 +1148,7 @@
             "link_to_itchio_page": "{{game_title}}のitch.ioページ",
             "play_game": "プレイ",
             "ranked_from_count": "<s>{{count}}件の評価</s>をもとに順位付け。",
-            "ranked_from_count_plural": "<s> {{count}}</ s>からランク付けされました。",
+            "ranked_from_count_plural": "<s>{{count}}</s>からランク付けされました。",
             "run_project": "プロジェクトを実行",
             "results_table_raw_score": "元スコア",
             "results_table_score": "スコア",
