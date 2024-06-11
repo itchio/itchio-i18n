@@ -29,6 +29,18 @@
         "backgrounds": "Taustat",
         "automation": "Automaatio",
         "augmented-reality": "Lisätty todellisuus",
-        "audio": "Ääni"
+        "audio": "Ääni",
+        "clicker": "Klikkailupeli",
+        "chicken": "Kana",
+        "characters": "Hahmot",
+        "cats": "Kissat",
+        "cartoon": "Piirretty",
+        "buttons": "Napit",
+        "brushes": "harjat",
+        "brain-training": "Aivoharjoitus",
+        "asteroids": "Asteroidit",
+        "asset-pack": "Sisältöpaketti",
+        "animation": "Animaatio",
+        "adult": "Aikuispeli"
     }
 }
