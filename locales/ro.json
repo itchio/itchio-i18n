@@ -850,7 +850,11 @@
         "two_factor_auth": {
             "status_off": "Off",
             "status_on": "On",
-            "tfa_status": "Status: {{tfa_status}}"
+            "tfa_status": "Status: {{tfa_status}}",
+            "page_description": "Autentificarea în doi pași este un strat adițional de securitate pentru contul dvs pentru a prevenii accesul neautorizat în cazul în care vă este furată parola.",
+            "learn_more_about_twofactor_authentication": "Învățați despre autentificare în doi pași",
+            "configure_twofactor_authentication": "Configurați autentificarea în doi pași",
+            "page_title": "Autentificarea în doi pași"
         }
     },
     "buy_form_popup": {
@@ -872,6 +876,19 @@
         "page_title": "Cele mai bune etichete"
     },
     "stripe_checkout": {
-        "payment_error": "A apărut o eroare la procesarea plății dvs:"
+        "payment_error": "A apărut o eroare la procesarea plății dvs:",
+        "name_as_it_appears_on_card": "Așa cum apare pe card",
+        "full_name": "Numele întreg",
+        "youll_be_mailed_your_access_link": "Vi se va trimite prin email linkul de acces",
+        "you_will_receive_files": "Veți primi:",
+        "donating_price_vat_to": "Donați {{price}}, cu TVA inclus, către:",
+        "paying_price_vat_for": "Se plătește {{price}}, cu TVA inclus, pentru:",
+        "save_credit_card_for_future_purchases": "Salvați cardul de credit pentru achizițiile viitoare",
+        "buying_as": "Cumpără ca",
+        "choose_a_card": "Alegeți un card",
+        "payment_error_help": "Dacă sunteți nesigur, vă rugăm să contactați <a>itch.io suport</a> cu mesajul de mai sus."
+    },
+    "game_download": {
+        "share_and_follow": "Distribuiți & urmăriți"
     }
 }
