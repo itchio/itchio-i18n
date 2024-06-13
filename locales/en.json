@@ -725,7 +725,8 @@
             "clear_filter": "Clear filter"
         },
         "filter_everything_else": "Everything else",
-        "filter_group_player_count": "Player count"
+        "filter_group_player_count": "Player count",
+        "no_results_found": "No results found"
     },
     "browse_tags": {
         "page_title": "Top tags",
