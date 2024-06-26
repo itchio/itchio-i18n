@@ -61,6 +61,9 @@
     "itchio": "ইচ.আইও",
     "index": {
         "browse": "ব্রাউস",
-        "popular_tags": "জনপ্রিয় ট্যাগস"
+        "popular_tags": "জনপ্রিয় ট্যাগস",
+        "view_something_random": "দ্রব্য কিছু দেখুন",
+        "download_app": "অ্যাপ ডাউনলোড",
+        "games_by_price": "মূল্য দ্বারা গেম"
     }
 }
