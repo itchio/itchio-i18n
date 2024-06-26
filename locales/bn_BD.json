@@ -239,7 +239,32 @@
         }
     },
     "user_login": {
-        "log_in_to_your_itchio_account": "আপনার itch.io একাউন্টে লগ ইন করুন"
+        "log_in_to_your_itchio_account": "আপনার itch.io একাউন্টে লগ ইন করুন",
+        "page_title": "লগ ইন",
+        "no_account_prompt": "একাউন্ট নেই? <1>একাউন্ট তৈরি করুন</1>",
+        "intent": {
+            "claim_object_title": "{{title}} ক্লেইম করতে লগ ইন অথবা একাউন্ট তৈরি করুন।",
+            "recent_purchases": "নিকটতম সময়ে কেনা সামগ্রীকে লিংক করতে লগ ইন করুন।",
+            "claim_object": "দয়া করে {{noun}} কে ক্লেইম করার জন্য লগ ইন অথবা একাউন্ট তৈরি করুন।",
+            "jam_submit": "একটি জ্যাম সাবমিট করার আগে itch.io একাউন্ট খুলতে হবে।",
+            "collection": "কালেকশনে যুক্ত করার আগে itch.io একাউন্ট খুলতে হবে।",
+            "follow_username": "<1>{{username}}</1> কে ফলো করার আগে itch.io একাউন্ট খুলতে হবে।",
+            "follow": "কাউকে ফলো করার আগে itch.io একাউন্ট খুলতে হবে।",
+            "rate_game": "একটি গেম রেট করার আগে itch.io একাউন্ট খুলতে হবে।",
+            "comment": "কমেন্ট করার আগে আপনাকে একটি itch.io একাউন্ট খুলতে হবে।",
+            "community": "কমিউনিটিতে যোগ দিতে itch.io একাউন্ট খুলতে হবে।একাউন্ট খোলা যায় বিনামূল্যে এবং অল্প সময়ে।"
+        },
+        "create_a_new_account": "একটি নতুন একাউন্ট খুলুন",
+        "looking_for_something_you_bought": "আপনি যা কিনেছেন এমন কিছু খুঁজছেন ?",
+        "login_form": {
+            "log_in_button": "লগ ইন",
+            "or": "অথবা",
+            "or_log_in_with_another_site": "অথবা অন্য সাইট দিয়ে লগ ইন করুন",
+            "create_account": "একাউন্ট খুলুন",
+            "forgot_password": "পাসওয়ার্ড মনে নেই",
+            "password": "পাসওয়ার্ড",
+            "username_or_email": "ইউজারনেম অথবা ইমেইল"
+        }
     },
     "blog": {
         "tag_filter": "{{tag}} ফিল্টার করা হচ্ছে। <a>ট্যাগ বাতিল</a>",
