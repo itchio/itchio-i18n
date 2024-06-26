@@ -119,7 +119,133 @@
         "classifications": {
             "game": "গেমস",
             "game_mod": "গেম মডস",
-            "assets": "গেম অ্যাসেটস"
+            "assets": "গেম অ্যাসেটস",
+            "book": "বই",
+            "comic": "কমিকস",
+            "tool": "টুলস",
+            "other": "বিবিধ",
+            "soundtrack": "অ্যালবাম & সাউন্ডট্রাক",
+            "physical_game": "শারীরিক গেমস"
+        },
+        "loading_more_ellip": "আরো লোড হচ্ছে…",
+        "more_ellip": "আরো…",
+        "errors": {
+            "server_error": "সার্ভার রেসপন্স করছে না, দয়া করে পরে আবার চেষ্টা করুন"
+        },
+        "release_statuses": {
+            "prototype": "প্রোটোটাইপ",
+            "canceled": "বাতিল হয়েছে",
+            "on_hold": "হোল্ডে আছে",
+            "in_development": "ডেভেলপমেন্ট চলছে",
+            "released": "মুক্তি প্রাপ্ত"
+        },
+        "dismiss": "বাদ দিন",
+        "view_more": "আরো দেখুন",
+        "project_visibility": {
+            "public": "পাবলিক",
+            "draft": "খসড়া",
+            "published": "প্রকাশিত",
+            "restricted": "রেসিট্রিকেটেড"
+        },
+        "countdown": {
+            "seconds": "সেকেন্ড",
+            "minutes": "মিনিট",
+            "hours": "ঘন্টা",
+            "days": "দিন",
+            "months": "মাস",
+            "years": "বছর"
+        },
+        "lightboxes": {
+            "error_title": "আপনার অনুরোধ সম্পূর্ণ করা সম্ভব হয় নি",
+            "close": "বন্ধ"
+        },
+        "collection_button": {
+            "add_to_collection": "কালেকশনে যুক্ত করুন"
+        },
+        "pager": {
+            "first_page": "প্রথম পেজ",
+            "previous_page": "পূর্ববর্তী পেজ",
+            "current_page_of_total": "{{current_page}} / {{total_pages}} পেজ",
+            "next": "পরবর্তী",
+            "prev": "পূর্ববর্তী",
+            "next_page": "পরবর্তী পেজ"
+        },
+        "filter_price": {
+            "paid": "পেইড",
+            "on_sale": "সেল চলছে",
+            "free": "বিনামূল্যে"
+        },
+        "platforms": {
+            "web": "ওয়েব"
+        },
+        "filter_when": {
+            "last_30_days": "গত ৩০ দিন",
+            "last_7_days": "গত ৭ দিন",
+            "last_day": "গত দিন"
+        },
+        "follow_button": {
+            "unfollow": "আনফলো",
+            "unfollow_username": "{{username}} কে আনফলো করুন",
+            "following": "ফলো করছেন",
+            "following_username": "{{username}} কে ফলো করছেন",
+            "follow": "ফলো",
+            "follow_username": "{{username}} কে ফলো করুন"
+        },
+        "page_number": "{{page_number}} পেজ",
+        "forms": {
+            "confirm": "নিশ্চায়ন",
+            "form_errors": "দয়া করে যেসব তথ্য আপনি দিয়েছে তা যাচাই করুন",
+            "search": "খুঁজুন",
+            "optional": "ঐচ্ছিক",
+            "submit": "সাবমিট",
+            "email_address": "ইমেইল অ্যাড্রেস",
+            "save": "সেভ",
+            "required": "বাধ্যতামূলক"
+        },
+        "durations": {
+            "days": "১ দিন অথবা বেশি",
+            "hours": "কিছু ঘন্টা",
+            "hour": "প্রায় এক ঘন্টা",
+            "half_hour": "প্রায় আধা ঘন্টা",
+            "minutes": "কিছু মিনিট",
+            "seconds": "কিছু সেকেন্ড"
+        },
+        "inputs": {
+            "midi_controller": "MIDI কন্ট্রোলার",
+            "dance_pad": "ড্যান্স প্যাড",
+            "phone": "স্মার্টফোন",
+            "accelerometer": "এক্সেলেরোমিটার",
+            "voice": "ভয়েস কন্ট্রোল",
+            "touchscreen": "টাচস্ক্রিন",
+            "joystick": "জয়স্টিক",
+            "gamepad": "গেমপ্যাড (যেকোনো)",
+            "mouse": "মাউস",
+            "keyboard": "কীবোর্ড"
+        },
+        "multiplayer_features": {
+            "adhoc": "Ad-hoc নেটওয়ার্কড মাল্টিপ্লেয়ার",
+            "server": "সার্ভার বেসড নেটওয়ার্কড মাল্টিপ্লেয়ার",
+            "local": "লোকাল মাল্টিপ্লেয়ার"
+        },
+        "accessibility_features": {
+            "textless": "লেখাবিহীন",
+            "blind": "অন্ধ উপযোগী",
+            "one_button": "একটি বোতাম",
+            "tutorial": "ইন্টারেক্টিভ টিউটোরিয়াল",
+            "highcontrast": "হাই-কন্ট্রাস্ট",
+            "configurable_controls": "কনফিগারেবল কন্ট্রোল",
+            "subtitles": "সাবটাইটেল",
+            "colorblind": "বর্ণান্ধ উপযোগী"
         }
+    },
+    "user_login": {
+        "log_in_to_your_itchio_account": "আপনার itch.io একাউন্টে লগ ইন করুন"
+    },
+    "blog": {
+        "tag_filter": "{{tag}} ফিল্টার করা হচ্ছে। <a>ট্যাগ বাতিল</a>",
+        "empty_message": "আর কোনো পোষ্ট নেই",
+        "digest": "ডাইজেস্ট",
+        "updates": "আপডেটস",
+        "all_posts": "সকল পোষ্ট"
     }
 }
