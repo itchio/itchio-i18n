@@ -91,6 +91,33 @@
         "random_game": "র‍্যানডম গেম",
         "from_the_blog": "ব্লগ থেকে",
         "dont_see_anything_you_like": "আপনার পছন্দের কিছুই দেখতে পারছেন না?",
-        "view_all_games": "সকল গেমসমূহ দেখুন"
+        "view_all_games": "সকল গেমসমূহ দেখুন",
+        "to_follow": {
+            "dismiss_tooltip": "আর সাজেস্ট করবে না",
+            "refresh_button": "আরো পেতে রিফ্রেশ করুন",
+            "empty_results": "এখন আর কোনো সুপারিশ নেই। পরে আবার চেষ্টা করুন",
+            "created_projects": "{{project_list}} তৈরী করা হয়েছে"
+        },
+        "meta_description": "itch.io হল একটি সহজ উপায় অনলাইন স্বাধীন গেমস খোঁজা, ডাউনলোড করা এবং বিতরণ করার জন্য। আপনি যদি একজন ডেভেলপার হন এবং আপনার গেম আপলোড করতে চান বা শুধু কিছু নতুন খেলতে চান তবে itch.io আপনার জন্য উপযুক্ত।",
+        "page_title": "লেটেস্ট স্বাধীন গেমস ডাউনলোড করুন",
+        "html5_games": "HTML5 গেমস",
+        "intro_cta": "<1>আপনার গেম যুক্ত করুন</1> অথবা <2>সচরাচর জিজ্ঞাসা পড়ুন</2>",
+        "intro": "<s>itch.io</s> হলো স্বাধীন গেমস খোঁজার এবং শেয়ার করার একটি সহজ উপায়।",
+        "nav": {
+            "community": "কমিউনিটি",
+            "devlogs": "ডেভেলপার লগসমূহ",
+            "game_jams": "গেম জ্যামসমূহ",
+            "bundles": "বান্ডলসমূহ",
+            "all_games": "সকল গেমস"
+        },
+        "browse_content_type": "{{content_type}} ব্রাউস করুন",
+        "view_all_platforms": "সকল প্লাটফর্মসমূহ দেখুন",
+        "filtering_platform": "সকল গেমস ফিল্টার করা হচ্ছে {{platform_name}} এর জন্য",
+        "latest_featured_games": "লেটেস্ট ফিচার্ড গেমস"
+    },
+    "misc": {
+        "classifications": {
+            "game": "গেমস"
+        }
     }
 }
