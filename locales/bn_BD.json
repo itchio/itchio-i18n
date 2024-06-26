@@ -264,7 +264,14 @@
             "forgot_password": "পাসওয়ার্ড মনে নেই",
             "password": "পাসওয়ার্ড",
             "username_or_email": "ইউজারনেম অথবা ইমেইল"
-        }
+        },
+        "errors": {
+            "please_enter_a_valid_email_address": "দয়া করে একটি সঠিক ইমেইল অ্যাড্রেস দিন",
+            "accept_terms": "আপনাকে নিয়মনীতি ও শর্তাবলী মানতে হবে"
+        },
+        "welcome_to_itchio": "itch.io তে স্বাগতম!",
+        "welcome_back": "আবার স্বাগতম!",
+        "you_are_logged_out": "আপনি লগ আউট করছেন"
     },
     "blog": {
         "tag_filter": "{{tag}} ফিল্টার করা হচ্ছে। <a>ট্যাগ বাতিল</a>",
@@ -272,5 +279,30 @@
         "digest": "ডাইজেস্ট",
         "updates": "আপডেটস",
         "all_posts": "সকল পোষ্ট"
+    },
+    "developers": {
+        "page_header": "আপনার স্বাধীন গেমস দ্রুত বিতরণ বা বিক্রয় করতে একটি কাস্টম পেজ খুলুন"
+    },
+    "user_register": {
+        "page_title": "একাউন্ট রেজিষ্টার",
+        "register_form": {
+            "other_registration_methods": "রেজিস্ট্রেশন এর অন্যান্য উপায়",
+            "username": "ইউজারনেম",
+            "url_preview": "আপনার প্রোফাইল হবে",
+            "repeat_password": "পাসওয়ার্ড আবার লিখুন",
+            "password": "পাসওয়ার্ড",
+            "your_email_address": "আপনার ইমেইল অ্যাড্রেস",
+            "about_you": "আপনার সম্পর্কে",
+            "account_preferences_info": "আপনি রেসপন্স পরবর্তীতে বদলাতে পারবেন, এগুলো itch.io হিন্ট হিসেবে ব্যাবহার করে নিজেকে প্রদর্শন করে।",
+            "interest_developer": "আমি itch.io কন্টেন্ট বিতরণে আগ্রহী",
+            "interest_gamer": "আমি itch.io তে গেম খেলতে অথবা ডাউনলোড করতে আগ্রহী",
+            "digest_signup": "আমাকে দ্বিমাসিক নিউজলেটার ডাইজেস্ট এর জন্য সাইনআপ করান",
+            "accept_tos": "আমি <1>নিয়মাবলী এবং শর্তাবলী</1> মেনে নিলাম",
+            "link_product": "আপনার কেনা <1>{{product}}</1> আপনার একাউন্টের সাথে সয়ংক্রিয়ভাবে যুক্ত হয়ে যাবে রেজিস্ট্রেশন এর পরে।",
+            "log_in": "লগ ইন",
+            "already_have_account": "অথবা একাউন্ট আছে?",
+            "create_account": "একাউন্ট খুলুন"
+        },
+        "create_an_account_on_itchio": "itch.io তে একাউন্ট খুলুন"
     }
 }
