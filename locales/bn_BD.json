@@ -38,7 +38,29 @@
             "about": "সম্পর্কে",
             "cookies": "কুকিজ",
             "privacy": "গোপনীয়তা"
+        },
+        "user_menu": {
+            "posts": "পোস্টসমূহ",
+            "account_menu_tooltip": "একাউন্ট মেনু",
+            "feed": "আমার ফিড",
+            "library": "আমার লাইব্রেরী",
+            "recommendations": "সুপারিশকৃত",
+            "game_jams": "গেম জ্যামসমূহ",
+            "dashboard": "ড্যাশবোর্ড",
+            "new_project": "নতুন প্রজেক্ট আপলোড",
+            "sales_bundles": "সেলস & বান্ডলসমূহ",
+            "host_game_jam": "গেম জ্যাম আয়োজন করুন",
+            "view_profile": "প্রোফাইল দেখুন",
+            "settings": "সেটিংস",
+            "log_out": "লগ আউট",
+            "account": "একাউন্ট",
+            "create": "তৈরী করুন",
+            "explore": "ঘুরে দেখুন"
         }
     },
-    "itchio": "ইচ.আইও"
+    "itchio": "ইচ.আইও",
+    "index": {
+        "browse": "ব্রাউস",
+        "popular_tags": "জনপ্রিয় ট্যাগস"
+    }
 }
