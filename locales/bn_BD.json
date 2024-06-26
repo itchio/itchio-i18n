@@ -117,7 +117,9 @@
     },
     "misc": {
         "classifications": {
-            "game": "গেমস"
+            "game": "গেমস",
+            "game_mod": "গেম মডস",
+            "assets": "গেম অ্যাসেটস"
         }
     }
 }
