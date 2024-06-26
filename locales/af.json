@@ -1,6 +1,6 @@
 {
     "index": {
-        "game_dev_on_sale": "Speletjie-ontwikkelaar Hulpbronne <1>Te Koop</1>",
+        "game_dev_on_sale": "Speletjie-ontwikkelaarshulpbronne <1>Te Koop</1>",
         "more_featured_games": "Meer Uitgeligte Speletjies",
         "view_all_games_on_sale": "Wys alle speletjies te koop",
         "people_to_follow": "Mense om Te Volg",
@@ -29,7 +29,31 @@
         "download_app": "Laai toep af",
         "games_by_price": "Speletjies volgens prys",
         "browse": "Blaai",
-        "popular_tags": "Gewilde Etikette"
+        "popular_tags": "Gewilde Etikette",
+        "to_follow": {
+            "dismiss_tooltip": "Moenie verder voorstel nie",
+            "refresh_button": "Hervris vir meer",
+            "empty_results": "Ons het nie nog aanbevelings op die oomblik nie. Kyk later weer",
+            "created_projects": "{{project_list}} geskep"
+        },
+        "meta_description": "itch.io is 'n eenvoudige manier om indie games aanlyn te vind, af te laai en te versprei. Of jy nou 'n ontwikkelaar is opsoek om jou speletjie op te laai of net iemand is wat soek vir iets nuuts om te speel itch.io dek jou.",
+        "page_title": "Laai die nuutste indie games af",
+        "html5_games": "HTML5-speletjies",
+        "intro_cta": "<1>Voeg jou speletjie by</1> of <2>Lees die FAQ</2>",
+        "intro": "<s>itch.io</s> is 'n eenvoudige manier om indie speletjies aanlyn te vind en deel, verniet.",
+        "nav": {
+            "community": "Gemeenskap",
+            "devlogs": "Ontwikkelaar Logs",
+            "game_jams": "Speletjie jams",
+            "bundles": "Bundels",
+            "all_games": "Alle Speletjies"
+        },
+        "browse_content_type": "Blaai {{content_type}}",
+        "view_all_platforms": "Wys alle platforms",
+        "filtering_platform": "Filtreer alle speletjies na {{platform_name}}",
+        "latest_featured_games": "Nuutste Uitgeligte Speletjies",
+        "people_to_follow_description": "Hier is 'n paar rekeninge wat jy dalk belangstel om te volg. <a>Hoekom volg?</a>",
+        "view_all_on_sale": "Wys alles te koop"
     },
     "layout": {
         "user_menu": {
