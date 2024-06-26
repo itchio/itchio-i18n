@@ -1,1 +1,42 @@
-{}
+{
+    "layout": {
+        "header": {
+            "feed": "ফিড",
+            "feed_unseen_count": "একটি নতুন",
+            "feed_unseen_count_plural": "{{count}} টি নতুন",
+            "games": "গেমসমূহ",
+            "fun_games": "মজার গামসমূহ",
+            "game_assets": "অ্যাসেটসমূহ",
+            "bundles": "বান্ডলসমূহ",
+            "sales": "সেলস",
+            "comics": "কমিকস",
+            "game_development": "গেম ডেভেলপমেন্ট",
+            "indie_game_store": "স্বাধীন নির্মাতা গেম স্টোর",
+            "free_games": "বিনামূল্যের গেমসমূহ",
+            "no_notifications": "কোনো নতুন নোটিফিকেশন নেই",
+            "notifications_count": "শুধুমাত্র {{count}} টি নোটিফিকেশন",
+            "notifications_count_plural": "{{count}} টি নোটিফিকেশন",
+            "jams": "জ্যামসমূহ",
+            "dashboard": "ড্যাশবোর্ড",
+            "register": "রেজিষ্টার",
+            "log_in": "লগ ইন",
+            "search": "খুঁজুন",
+            "search_placeholder": "গেম অথবা নির্মাতাকে খুঁজুন",
+            "community": "কমিউনিটি",
+            "devlogs": "ডেভেলপার লগসমূহ",
+            "upload_game": "গেম আপলোড",
+            "game_jams": "গেম জ্যামসমূহ",
+            "browse_games": "গেমসমূহ ব্রাউস করুন",
+            "browse": "ব্রাউস করুন"
+        },
+        "footer": {
+            "directory": "ডিরেক্টরি",
+            "terms": "শর্তাবলী",
+            "contact_us": "আমাদের সাথে যোগাযোগ করুন",
+            "blog": "ব্লগ",
+            "faq": "সচরাচর জিজ্ঞাসা",
+            "about": "সম্পর্কে"
+        }
+    },
+    "itchio": "ইচ.আইও"
+}
