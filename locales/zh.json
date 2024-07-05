@@ -428,9 +428,10 @@
         "sort_new_and_popular": "新品与热门",
         "sort_popular": "人气",
         "results_count": "{{count}}个结果",
-        "results_count_plural": "{{count}}个结果",
+        "results_count_plural": "{{count}} 条结果",
         "filter_everything_else": "其他",
-        "filter_group_player_count": "玩家数"
+        "filter_group_player_count": "玩家数",
+        "no_results_found": "能尚未与它尚没有兼容？"
     },
     "collection": {
         "remove_confirm": "您确定将该项从此收藏夹移除吗",
