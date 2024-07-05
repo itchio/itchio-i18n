@@ -392,6 +392,7 @@
         "shaders": "Nuanceurs",
         "tileset": "Jeu de tuiles",
         "supplement": "Supplément",
-        "soundtoy": "Jeux musicaux"
+        "soundtoy": "Jeux musicaux",
+        "sprites": "Sprites"
     }
 }
