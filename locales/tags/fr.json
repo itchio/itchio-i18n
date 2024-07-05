@@ -255,7 +255,7 @@
         "shadows": "Ombres",
         "top-down-shooter": "Jeu de tir en vue de dessus",
         "story-rich": "Histoire riche",
-        "tilemap": "Cartes de tuiles",
+        "tilemap": "Carte de tuiles",
         "time-attack": "Contre le temps",
         "kinetic-novel": "Roman cinétique",
         "twin-stick-shooter": "Shooter à deux sticks",
@@ -385,7 +385,10 @@
         "heist": "Cambriolage",
         "fanzine": "Fanzine",
         "wordle": "Wordle",
-        "webcomic": "Webcomic",
-        "forged-in-the-dark": "Forgé dans l'Obscurité"
+        "webcomic": "BD Web",
+        "forged-in-the-dark": "Forgé dans l'Obscurité",
+        "wobbly": "Branlant",
+        "troika": "Troïka",
+        "shaders": "Nuanceurs"
     }
 }
