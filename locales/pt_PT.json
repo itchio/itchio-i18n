@@ -479,12 +479,12 @@
             "write_your_comment": "Escreve o teu comentário…",
             "post_comment": "Publicar comentário",
             "log_in_to_leave_comment": "<a>Inicia sessão com o itch.io</a> para deixar um comentário.",
-            "click_to_leave_a_comment": "Clica para deixar um comentário...",
+            "click_to_leave_a_comment": "Clica para deixar um comentário…",
             "leave_a_comment": "Deixa um comentário",
             "leave_a_comment_header": "Deixa um comentário",
             "comments_header": "Comentários"
         },
-        "empty_page_no_uploads": "O criador ainda não publicou nada...",
+        "empty_page_no_uploads": "O criador ainda não publicou nada…",
         "donate_button": "Apoia este {{noun}}",
         "steam_key_bundle_disclaimer": "(Nota: {{bundle_title}} não inclui código Steam)",
         "after_download": {
@@ -520,6 +520,17 @@
         "edit_project": {
             "kind_of_project_field": "Tipo de projeto",
             "description_field": "Descrição"
+        },
+        "header": {
+            "analytics_link": "Análises",
+            "payments_link": "Pagamentos",
+            "projects_link": "Projetos"
+        },
+        "stats": {
+            "following": "A seguir",
+            "followers": "Seguidores",
+            "views": "Exibições",
+            "payments": "Pagamentos"
         }
     },
     "community": {
@@ -589,7 +600,7 @@
             "vote_down": "Votar negativamente",
             "vote_up": "Votar positivamente",
             "view_more_in_thread": "Ver toda a discussão",
-            "ban": "Banir...",
+            "ban": "Banir…",
             "report": "Denunciar",
             "delete": "Eliminar",
             "delete_topic": "Eliminar tópico",
@@ -608,7 +619,7 @@
             "create_first_topic_button": "Criar o primeiro tópico",
             "topics_count": "{{count}} tópico",
             "topics_count_plural": "{{count}} tópicos",
-            "view_this_communitys_rules": "Ver as regras desta comunidade...",
+            "view_this_communitys_rules": "Ver as regras desta comunidade…",
             "by_topic_author": "por {{username}}",
             "archived_flag": "Arquivado",
             "new_flag": "Novo",
@@ -643,7 +654,7 @@
     "buy_form": {
         "agree_to_terms": "Ao completares o pagamento estás a concordar com os <1>Termos de Serviço</1> e a <2>Política de Privacidade</2>.",
         "included_files": "Ficheiros incluídos",
-        "i_already_paid_for_this": "Já paguei por isto. . .",
+        "i_already_paid_for_this": "Já paguei por isto…",
         "gift_email_instructions": "Após efetuares o pagamento, selecionarás o email para enviar o presente.",
         "email_address_description": "A confirmação de pagamento será enviada para aqui",
         "your_email_address": "O teu endereço de e-mail",
@@ -678,7 +689,7 @@
         "blurb_author_says": "{{author}} diz",
         "edit_blurb": "Editar comentário",
         "add_a_blurb": "Adicionar um comentário",
-        "remove_item_button": "Remover. . .",
+        "remove_item_button": "Remover…",
         "page_title": "{{collection_title}} - Coleção de {{author}}",
         "a_collection_by_author": "Uma coleção de {{author}}",
         "pending_invitation": "Tens um convite pendente para contribuires para esta coleção. <a>Ver convite</a>",
@@ -859,7 +870,9 @@
         "sort_new_and_popular": "Novo e Popular",
         "sort_popular": "Popular",
         "results_count": "{{count}} resultado",
-        "results_count_plural": "{{count}} resultados"
+        "results_count_plural": "{{count}} resultados",
+        "no_results_found": "Nenhum resultado encontrado",
+        "filter_group_player_count": "Número de jogadores"
     },
     "stripe_checkout": {
         "manage_cards_link": "Podes gerir os teus cartões nas <a>Definições da conta</a>",
@@ -875,6 +888,97 @@
         "choose_a_card": "Escolher um cartão",
         "payment_error_help": "Se tiveres dúvidas, por favor entra em contacto com o <a>suporte do itch.io</a> com a mensagem acima.",
         "payment_error": "Ocorreu um erro ao processar o pagamento:",
-        "pay_price_button": "Pagar {{price}}"
+        "pay_price_button": "Pagar {{price}}",
+        "full_name": "Nome completo",
+        "youll_be_mailed_your_access_link": "Será lhe enviado um email com o um link de acesso",
+        "email": "Email"
+    },
+    "jam": {
+        "screenshots": {
+            "empty_message": "Ainda não foram enviadas capturas de ecrã",
+            "loading_more": "A carregar mais capturas de ecrã…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Esta submissão foi desqualificada"
+        },
+        "submission": {
+            "rate_submission": {
+                "disqualified_message": "Esta entrada foi desqualificada e não está elegível para classificações.",
+                "save_rating": "Guardar classificação",
+                "save_vote": "Guardar voto",
+                "private_field": "(privado)"
+            },
+            "rated_by_people_count": "Classificado por {{count}} pessoa até agora",
+            "rated_by_people_count_plural": "Classificado por {{count}} pessoas até agora",
+            "time_remaining_before_deadline": "{{time_duration}} antes do prazo de entrega",
+            "results_header": "Resultados",
+            "run_project": "Executar projeto",
+            "play_game": "Jogar",
+            "link_to_itchio_page": "Página itch.io de {{game_title}}",
+            "comments": {
+                "empty_message": "Ainda ninguém publicou um comentário",
+                "post_comment": "Publicar comentário",
+                "leave_a_comment_header": "Deixar um comentário"
+            },
+            "view_project_page": "Ver página do projeto",
+            "view_game_page": "Ver página do jogo",
+            "results_table_score": "Pontuação",
+            "results_table_votes": "Votos",
+            "results_table_criteria": "Critério"
+        },
+        "results": {
+            "submissions": {
+                "ranked_score": "Pontuação: {{score}}",
+                "by_author": "por {{author}}"
+            },
+            "sort_overall": "No geral",
+            "sort_by_criteria": "Por critério",
+            "no_rankings_available": "Não há classificações disponíveis",
+            "results": "Resultados"
+        },
+        "submissions": {
+            "rated": "Classificado"
+        },
+        "submitter": {
+            "countdown": {
+                "voting_ends_in": "Votação acaba em",
+                "starts_in": "Começa em"
+            },
+            "view_entries": "Ver {{count}} entrada",
+            "view_entries_plural": "Ver {{count}} entradas",
+            "view_results": "Ver resultados",
+            "jam_is_now_over": "Este jam terminou. Esteve ativo durante {{start_date}} até {{end_date}}.",
+            "leave_jam": "Sair do jam",
+            "or_leave_jam": "ou <a>Sair do jam</a>"
+        },
+        "stats": {
+            "ratings": "Classificações",
+            "entries": "Entradas"
+        },
+        "header": {
+            "links": {
+                "edit_jam": "Editar jam",
+                "screenshots": "Capturas de ecrã",
+                "overview": "Visão geral",
+                "results": "Resultados",
+                "community": "Comunidade"
+            }
+        }
+    },
+    "game_download": {
+        "purchase": {
+            "linked_user_message": "Esta compra está vinculada à conta {{username}}.",
+            "percent_off": "{{percent}}% de desconto",
+            "link_purchase_links": "<1>Criar uma conta</1> ou <2>iniciar sessão em itch.io</2> para vincular instantaneamente esta compra."
+        },
+        "link_my_account": "Vincular a minha conta",
+        "header": {
+            "return_to_project": "Voltar ao projeto",
+            "view_all_my_purchases": "Ver todas as minhas compras",
+            "more_menu": "Mais",
+            "invoice": "Recibo"
+        },
+        "version_name": "Versão {{version_name}}",
+        "share_and_follow": "Partilhar & seguir"
     }
 }
