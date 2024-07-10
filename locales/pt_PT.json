@@ -377,7 +377,7 @@
         "download_access": "Clica em \"Descarregar agora\" para teres acesso aos seguintes ficheiros:",
         "purchase_header": "Comprar",
         "unavailable": "Este {{game_noun}} não se encontra disponível",
-        "download_header": "Descarregar",
+        "download_header": "Transferir",
         "install_instructions": "Instruções de instalação",
         "more_information": "Mais informações",
         "empty_page": "Parece que não há nada aqui…",
@@ -397,7 +397,7 @@
             "view_all_by_name": "Criações de {{name}}",
             "ownership": {
                 "percent_off": "{{percent}}% de desconto",
-                "download": "Descarregar",
+                "download": "Transferir",
                 "send_gift": "Enviar presente",
                 "you_own_this": "Possuis isto",
                 "claimed": "Reivindicado",
@@ -437,7 +437,7 @@
             "version_name": "Versão {{version_name}}",
             "if_you_pay_price_or_more": "se pagares {{price}} ou mais",
             "play_in_browser": "Jogar no navegador",
-            "download": "Descarregar",
+            "download": "Transferir",
             "preorder": "Pré-reserva"
         },
         "community_sticky": "Fixo",
@@ -630,7 +630,10 @@
             "details_section_header": "Detalhes",
             "release_status_field": "Estado de lançamento",
             "classification_field_description": "O que é que estás a enviar?",
-            "classification_field": "Classificação"
+            "classification_field": "Classificação",
+            "community_discussion_board_info": "Adiciona uma página da comunidade com categorias, tópicos, respostas e mais",
+            "community_comments_info": "Adiciona um tópico de comentários aninhados na parte inferior da página do projeto",
+            "short_description_field_description": "Mostrado quando mostramos um link para o teu projeto. Evita duplicar o título do teu projeto"
         },
         "header": {
             "analytics_link": "Análises",
@@ -646,7 +649,8 @@
             "followers": "Seguidores",
             "views": "Exibições",
             "payments": "Pagamentos",
-            "downloads": "Transferências"
+            "downloads": "Transferências",
+            "gross_revenue": "Receita Bruta"
         },
         "dashboard": "Painel",
         "hello": "Olá!",
@@ -678,7 +682,8 @@
         },
         "blog_posts": {
             "new_post": "Nova publicação"
-        }
+        },
+        "new_devlog": "Novo devlog"
     },
     "community": {
         "topic": {
@@ -762,7 +767,7 @@
         },
         "category": {
             "there_arent_any_topics_yet": "Ainda não há tópicos",
-            "empty_message": "Não há tópicos",
+            "empty_message": "Não existem tópicos",
             "create_first_topic_button": "Criar o primeiro tópico",
             "topics_count": "{{count}} tópico",
             "topics_count_plural": "{{count}} tópicos",
@@ -853,7 +858,7 @@
             "disable_autoloading_next_page_when_browsing": "Desativar carregamento automático na próxima página enquanto está a navegar",
             "disable_animated_gifs": "Desativar gifs animados",
             "show_adult_content": "Mostrar conteúdo marcado para adultos na pesquisa e navegação",
-            "content_description": "Como itch.io lhe mostra conteúdo",
+            "content_description": "Como o itch.io te mostra conteúdo",
             "content": "Conteúdo",
             "default_language_option": "Padrão (Definido para Inglês durante a versão beta de idiomas)",
             "account_type_developer": "Desenvolver e enviar jogos",
@@ -868,15 +873,15 @@
             "profile_image_description": "Mostrado ao lado do seu nome quando interage com o site (Dimensões quadradas)",
             "profile_image": "Imagem de perfil",
             "url_description": "URL público para a sua conta",
-            "you_recently_changed_your_username": "Você mudou recentemente seu nome de usuário",
-            "change_username": "Alterar meu nome de usuário/URL",
+            "you_recently_changed_your_username": "Mudaste recentemente o teu nome de utilizador",
+            "change_username": "Mudar o meu nome de utilizador/URL",
             "username_description": "Usado para iniciar sessão na sua conta e para o URL da sua página",
-            "username": "Nome de usuário",
+            "username": "Nome de utilizador",
             "page_header": "Perfil",
             "language_description": "Idioma da interface de usuário do itch.io",
             "language": "Idioma",
             "language_community_translation": "<s>itch.io é traduzido por membros da nossa comunidade.</s> Alguns idiomas estão apenas parcialmente disponíveis. Se quiser ver itch.io no seu idioma ou ajudar em corrigir erros poderá contribuir para o mesmo. <a>Saber mais</a>",
-            "profile_description": "Conteúdos da página de perfil",
+            "profile_description": "Conteúdo da tua página de perfil",
             "profile": "Perfil",
             "use_dark_theme": "Usar um tema escuro quando disponível"
         },
@@ -888,15 +893,15 @@
             "privacy": "Privacidade",
             "press_access": "Acesso à Imprensa",
             "connected_accounts": "Contas conectadas",
-            "email_notifications": "Notificações de E-mail",
-            "billing_address": "Morada de Faturação",
-            "credit_cards": "Cartões de Crédito",
-            "payout_mode": "Modo de Pagamento",
+            "email_notifications": "Notificações de email",
+            "billing_address": "Morada de faturação",
+            "credit_cards": "Cartões de crédito",
+            "payout_mode": "Modo de pagamento",
             "tax_information": "Informação de Impostos",
-            "payment_processors": "Processadores de Pagamento",
+            "payment_processors": "Processadores de pagamento",
             "revenue_sharing": "Partilha de receitas",
-            "publisher_get_started": "Começa Aqui",
-            "support_email": "E-mail de Suporte",
+            "publisher_get_started": "Começa aqui",
+            "support_email": "Email de suporte",
             "two_factor_auth": "Dois fatores",
             "email_addresses": "Endereços de e-mail",
             "password": "Palavra-passe",
@@ -923,7 +928,7 @@
                 "add_email_button": "Adicionar Email",
                 "additional_email_address_label": "Endereço de e-mail adicional"
             },
-            "additional_emails_instructions": "Será-lhe enviado um email com instruções de verificação após adicionar um email adicional.",
+            "additional_emails_instructions": "Será-te enviado um email com instruções de verificação após adicionar um email adicional.",
             "change_email_form": {
                 "current_password": "Palavra-passe atual",
                 "new_email_address": "Novo endereço de email"
@@ -960,11 +965,11 @@
     },
     "buy_form_popup": {
         "powered_by_itchio": "distribuído por {{itchio}}",
-        "author_line": "<1>por</1> {{author}}"
+        "author_line": "<1>de</1> {{author}}"
     },
     "browse_tags": {
-        "no_description_yet": "Ainda sem descrição",
-        "commonly_tagged_with": "Comumente marcado com",
+        "no_description_yet": "Ainda não tem descrição",
+        "commonly_tagged_with": "Habitualmente marcado com",
         "find_tag": "Encontrar tag",
         "page_title": "Tags principais",
         "all_tags": "Todos os marcadores",
@@ -977,23 +982,23 @@
         }
     },
     "browse": {
-        "filter_everything_else": "Todo o resto",
+        "filter_everything_else": "Tudo o resto",
         "filter_group": {
             "clear_filter": "Limpar filtro",
             "toggle_more_options": "Alternar Mais Opções",
             "fewer_options": "Menos Opções",
             "more_options": "Mais Opções"
         },
-        "fresh_description": "Procure um conjunto de projetos em constante atualização provenientes de coleções escolhidas pelos nossos membros. Volte para novas adições.",
+        "fresh_description": "Procura um conjunto de projetos em constante atualização provenientes de coleções escolhidas pelos nossos membros. Volta para novas adições.",
         "filter_group_tools": "Ferramentas e Motores",
         "filter_group_collection": "Coleção",
-        "filter_group_misc": "Variados",
-        "filter_group_release_status": "Estado de Lançamento",
+        "filter_group_misc": "Diversos",
+        "filter_group_release_status": "Estado de lançamento",
         "type_downloadable": "Transferível",
         "filter_group_type": "Tipo",
         "filter_group_accessibility_features": "Recursos de acessibilidade",
         "filter_group_multiplayer": "Recursos multiplayer",
-        "filter_group_session_length": "Duração média da sessão",
+        "filter_group_session_length": "Duração média de sessão",
         "filter_group_input_methods": "Métodos de entrada",
         "filter_group_when": "Quando",
         "filter_by_tag": "Filtrar por tag",
@@ -1001,15 +1006,15 @@
         "filter_group_platform": "Plataforma",
         "tag": {
             "suggest_description_for_this_tag": "Sugerir descrição para esta tag",
-            "suggest_updated_description": "Sugira uma descrição atualizada",
-            "no_description_yet": "Ainda sem descrição"
+            "suggest_updated_description": "Sugerir uma descrição atualizada",
+            "no_description_yet": "Ainda não tem descrição"
         },
         "filter_group_genre": "Género",
         "filter_group_price": "Preço",
-        "related_collections": "Coleções Relacionadas",
+        "related_collections": "Coleções relacionadas",
         "clear_filters": "Limpar",
         "filter_results": "Filtrar Resultados",
-        "upload_your_project": "<a>Envie seu projeto</a> para o itch.io para que ele seja exibido aqui.",
+        "upload_your_project": "<a>Envia o teu projeto</a> para o itch.io para que ele fique visível aqui.",
         "sort": "Ordenar",
         "sort_most_recent": "Mais Recentes",
         "sort_top_rated": "Melhor Avaliados",
@@ -1097,13 +1102,31 @@
             "submitted_by_contributors": "Submetido por {{contributors}}",
             "downloads": "Transferências",
             "remove_this_submission_button": "Remover esta submissão",
-            "edit_this_submission_button": "Editar esta submissão"
+            "edit_this_submission_button": "Editar esta submissão",
+            "ranked_with_vote_count": "Classificado em {{ordinal_rank}} com {{count}} voto",
+            "ranked_with_vote_count_plural": "Classificado em {{ordinal_rank}} com {{count}} votos",
+            "ranked_from_count": "Classificado de <s>{{count}} avaliação</s>.",
+            "ranked_from_count_plural": "Classificado de <s>{{count}} avaliações</s>.",
+            "score_information": "A pontuação é ajustada a partir da pontuação bruta pelo número mediano de avaliações por jogo na jam.",
+            "a_jam_submission": "Uma submissão da jam",
+            "results_table_raw_score": "Pontuação bruta",
+            "results_table_rank": "Classificação"
         },
         "results": {
             "submissions": {
                 "ranked_score": "Pontuação: {{score}}",
                 "by_author": "por {{author}}",
-                "view_submission_page": "Ver página de submissões"
+                "view_submission_page": "Ver página de submissões",
+                "ranked_criteria_rating_count": "Classificado em {{ordinal_rank}} em {{criteria_name}} com {{count}} avaliação",
+                "ranked_criteria_rating_count_plural": "Classificado em {{ordinal_rank}} em {{criteria_name}} com {{count}} avaliações",
+                "ranked_criteria_vote_count": "Classificado em {{ordinal_rank}} em {{criteria_name}} com {{count}} voto",
+                "ranked_criteria_vote_count_plural": "Classificado em {{ordinal_rank}} em {{criteria_name}} com {{count}} votos",
+                "ranked_criteria": "Classificado em {{ordinal_rank}} em {{criteria_name}}",
+                "ranked_rating_count": "Classificado em {{ordinal_rank}} com {{count}} avaliação",
+                "ranked_rating_count_plural": "Classificado em {{ordinal_rank}} com {{count}} avaliações",
+                "ranked_vote_count": "Classificado em {{ordinal_rank}} com {{count}} voto",
+                "ranked_vote_count_plural": "Classificado em {{ordinal_rank}} com {{count}} votos",
+                "ranked": "{{ordinal_rank}} classificado"
             },
             "sort_overall": "No geral",
             "sort_by_criteria": "Por critério",
@@ -1237,7 +1260,8 @@
         "install_instructions_intro": "Instruções de download e instalação de {{username}}:",
         "trouble_downloading_link": "Downloads não estão a iniciar?",
         "or_share_on": "ou partilhar em",
-        "social_share_message_download": "Acabei de descarregar {{title}} de {{username}}"
+        "social_share_message_download": "Acabei de descarregar {{title}} de {{username}}",
+        "access_it": "Acessá-lo"
     },
     "library": {
         "things_rated_header": "Coisas que avaliaste",
@@ -1256,7 +1280,7 @@
         "nav": {
             "things_to_rate": "Coisas para Avaliar",
             "recommended_for_you": "Recomendado para ti",
-            "things_on_sale": "Promocções",
+            "things_on_sale": "Promoções",
             "my_purchases": "As minhas compras"
         },
         "permalink": "Link permanente",
@@ -1267,7 +1291,8 @@
         "go_to_collection_link": "Ir para coleção",
         "private_toggle": "Privado",
         "show_on_my_profile_toggle": "Mostrar no meu perfil",
-        "view_all_link": "Ver tudo"
+        "view_all_link": "Ver tudo",
+        "download_button": "Transferir"
     },
     "game_grid": {
         "in_bundle": "Em bundle"
@@ -1368,6 +1393,12 @@
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "Por favor introduz uma senha nova para a conta {{account_name}}.",
         "link_sent": "Um link para repor a tua senha foi enviado para o endereço primário da tua conta.",
-        "reset_password": "Repor senha"
+        "reset_password": "Repor senha",
+        "enter_your_email": "Insere o endereço de email com que te registraste e nós enviamos-te um link para repor a tua senha."
+    },
+    "nags": {
+        "unverified_email": {
+            "title": "O teu endereço de email não está verificado"
+        }
     }
 }
