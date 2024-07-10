@@ -121,7 +121,7 @@
             "assets": "Recursos para jogos",
             "game_mod": "Mods para jogos",
             "physical_game": "Jogos físicos",
-            "soundtrack": "Albuns e Bandas sonoras",
+            "soundtrack": "Álbuns e Bandas sonoras",
             "other": "Diversos",
             "tool": "Ferramentas",
             "comic": "Banda desenhada",
@@ -519,18 +519,165 @@
     "dashboard": {
         "edit_project": {
             "kind_of_project_field": "Tipo de projeto",
-            "description_field": "Descrição"
+            "description_field": "Descrição",
+            "short_description_field": "Pequena descrição ou slogan",
+            "delete_game_button": "Apagar jogo",
+            "video_field_description": "Fornecer um link para Youtube ou Vimeo.",
+            "video_field": "Vídeo de jogabilidade ou trailer",
+            "save_and_view_button": "Guardar e ver página",
+            "project_url_field": "URL do projeto",
+            "title_field": "Título",
+            "edit_project_title": "Editar projeto",
+            "create_a_new_project_title": "Criar novo projeto",
+            "external_file_tooltip": "Fornece um link para o ficheiro e nós monitorizamos quantas vezes foi transferido",
+            "embed_options": {
+                "frame_options": "Opções de frame",
+                "launch_fullscreen_option": "Clica para iniciar em ecrã inteiro",
+                "embed_in_page_option": "Incorporar na página",
+                "enable_scrollbars_option": "Ativar barras de deslizamento",
+                "fullscreen_button_option": "Butão de ecrã inteiro",
+                "orientation": "Orientação",
+                "mobile_friendly_info": "O teu projeto pode ser executado em telemóveis (resolução menor e suporte a toque)",
+                "mobile_friendly_option": "Amigável para dispositivos móveis",
+                "height": "Altura",
+                "width": "Largura",
+                "viewport_dimensions": "Dimensões da janela de visualização"
+            },
+            "upload_files_button": "Carregar ficheiros",
+            "uploads_header": "Carregamentos",
+            "screenshots_header": "Capturas de ecrã",
+            "add_screenshots": "Adicionar capturas de ecrã",
+            "community_field_info": "Cria uma comunidade para o teu projeto permitindo que pessoas publiquem na tua página.",
+            "uploads": {
+                "change_display_name_button": "Mudar o nome de exibição",
+                "set_price_toggle": "Definir um preço diferente para este ficheiro",
+                "preorder_toggle": "Este ficheiro é um espaço reservado para pré-encomenda",
+                "demo_toggle": "Este ficheiro é uma demonstração e pode ser transferido gratuitamente",
+                "hide_toggle": "Esconder este ficheiro e preveni-lo de ser transferido",
+                "play_in_browser_toggle": "Este ficheiro será jogado no browser",
+                "delete_file_button": "Apagar ficheiro"
+            },
+            "pricing": {
+                "price_too_low_error": "Por favor fornece um valor maior que o preço do projeto",
+                "default_price_info": "Preço padrão mostrado quando alguém tenta comprar o teu projeto",
+                "suggested_price_label": "Preço sugerido",
+                "suggested_donation_label": "Doação sugerida",
+                "suggest_default_price_label": "Sugerir um preço padrão alternativo",
+                "payment_disabled_info": "Os ficheiros do projeto estarão disponíveis gratuitamente e não podem ser feitas doações",
+                "default_donation_amount_info": "Valor padrão de doação",
+                "free_price_info": "Alguém que transfira o teu projeto será perguntado se quer doar antes de ter acesso. Podem saltar para o download gratuitamente.",
+                "minimum_price_info": "Preço mínimo a pagar para ter acesso ao download do jogo",
+                "minimum_price_label": "Preço mínimo",
+                "embed_pricing_info": "Definir um preço mínimo apenas irá restringir o acesso aos ficheiros transferíveis. Conteúdo incorporado está disponível gratuitamente.",
+                "no_payments": "Sem pagamentos",
+                "paid": "Pago",
+                "free_or_donate": "{{money}} ou doar"
+            },
+            "details_genre_info": "Seleciona a categoria que melhor descreve o teu jogo. Podes escolher géneros adicionais com as tags abaixo",
+            "details_tags_header": "Tags",
+            "details_genre_header": "Género",
+            "embed_options_header": "Definições de incorporação",
+            "access_control": {
+                "access_settings": "Definições de acesso",
+                "restricted_access_settings": "Definições de acesso restrito",
+                "public_access_settings": "Definições de acesso público",
+                "password_label": "Senha",
+                "allow_password_option": "Permitir também uma senha para ver a página",
+                "unlisted_option": "Não listado na procura e navegação",
+                "disable_downloads_option": "Desativar novos downloads e compras"
+            },
+            "visibility_access_info": "Usa Rascunho para rever a tua página antes de torná-la publica. <a>Sabe mais sobre modos de acesso</a>",
+            "visibility_access_header": "Visibilidade & acesso",
+            "error_dialog": {
+                "title": "Houve um problema a guardar o teu projeto",
+                "confirm_button": "Entendi"
+            },
+            "errors": {
+                "invalid_image": "Por favor edita a tua imagem ou tenta outra",
+                "invalid_file": "Há um problema com o ficheiro selecionado"
+            },
+            "cover_uploader": {
+                "upload_button": "Carregar Imagem de Capa",
+                "remove_image": "Remover Imagem",
+                "replace_image": "Substituir Imagem de Capa",
+                "cover_description": "A imagem de capa é usada sempre que o itch.io quiser vincular o teu projeto a outra parte do site. Requerido (Mínimo: 315x250, Recomendado: 630x500)",
+                "confirm_remove": "Tens a certeza que queres remover a imagem de capa?"
+            },
+            "payment_warning_info": "Se definires um preço mínimo acima de 0 ninguém vai conseguir transferir o teu projeto gratuitamente. <a>Editar conta</a>",
+            "payment_warning_header": "Não tens pagamentos configurados",
+            "content_guidelines_info": "Revê as nossas <a>diretrizes de qualidade</a> antes de publicar o teu projeto",
+            "content_guidelines_header": "Certifica-te que todos conseguem achar a tua página",
+            "file_size_limit": "Limite de tamanho do ficheiro: {{filesize}}. <a>Contacta-nos</a> se precisares de mais espaço",
+            "add_external_file_button": "Adicionar ficheiro externo",
+            "pricing_header": "Preço",
+            "community_discussion_board": "Quadro de discussão",
+            "community_comments": "Comentários",
+            "community_disabled": "Desativado",
+            "community_field": "Comunidade",
+            "instructions_field_info1": "Este texto vai ser mostrado a alguém que transfira o teu jogo através do browser. Inclui qualquer informação sobre como instalar e executar o que estão a transferir.",
+            "instructions_field_info2": "Se o teu jogo precisa que bibliotecas ou programas sejam instalados primeiro deves também incluir essa informação",
+            "description_field_description": "Isto será o conteúdo da tua página do jogo.",
+            "project_type_help": "Podes adicionar ficheiros transferíveis adicionais para qualquer um dos tipos acima",
+            "tip_label": "Dica",
+            "types": {
+                "downloadable": "Transferível"
+            },
+            "classification_other": "Outro",
+            "default_noun": "Deixa em branco para usar o padrão: '{{default_noun}}'.",
+            "instructions_field": "Instruções de download & instalação",
+            "custom_noun_field_description": "Podes mudar como o itch.io se refere ao teu projeto fornecendo um nome personalizado.",
+            "custom_noun_field": "Nome personalizado",
+            "details_section_header": "Detalhes",
+            "release_status_field": "Estado de lançamento",
+            "classification_field_description": "O que é que estás a enviar?",
+            "classification_field": "Classificação"
         },
         "header": {
             "analytics_link": "Análises",
             "payments_link": "Pagamentos",
-            "projects_link": "Projetos"
+            "projects_link": "Projetos",
+            "coop_bundles_link": "Pacotes de colaboração",
+            "sales_bundles_link": "Promoções & pacotes",
+            "payouts_link": "Pagamentos",
+            "game_jams_link": "Game Jams"
         },
         "stats": {
             "following": "A seguir",
             "followers": "Seguidores",
             "views": "Exibições",
-            "payments": "Pagamentos"
+            "payments": "Pagamentos",
+            "downloads": "Transferências"
+        },
+        "dashboard": "Painel",
+        "hello": "Olá!",
+        "recently_updated_pages_header": "Páginas recentemente atualizadas",
+        "not_a_developer_escape": "Não, leva-me ao feed de jogos",
+        "intro_text": "És um desenvolvedor? Carrega o teu primeiro jogo",
+        "analytics_summary_header": "Resumo",
+        "project_list": {
+            "no_image": "Sem imagem",
+            "analytics": "Análises",
+            "edit": "Editar",
+            "widget": "Widget"
+        },
+        "create_new_project_button": "Criar novo projeto",
+        "page_title": "Painel de Criador",
+        "follow_itchio": "Segue itch.io no {{twitter}} e {{facebook}}",
+        "project_header": {
+            "analytics": "Análises",
+            "more": "Mais",
+            "admins": "Administradores",
+            "rewards": "Recompensas",
+            "discussion_board": "Quadro de discussão",
+            "edit_comments": "Editar comentários",
+            "interact": "Interagir",
+            "distribute": "Distribuir",
+            "metadata": "Metadados",
+            "devlog": "Diário de desenvolvimento",
+            "edit_project": "Editar projeto"
+        },
+        "blog_posts": {
+            "new_post": "Nova publicação"
         }
     },
     "community": {
@@ -891,7 +1038,15 @@
         "pay_price_button": "Pagar {{price}}",
         "full_name": "Nome completo",
         "youll_be_mailed_your_access_link": "Será lhe enviado um email com o um link de acesso",
-        "email": "Email"
+        "email": "Email",
+        "name_as_it_appears_on_card": "Como aparece no cartão",
+        "linked_to_account": "Vinculado à conta",
+        "steam_key": "Chave Steam",
+        "you_will_receive_files": "Irás receber:",
+        "donating_price_vat_to": "Doar {{price}} IVA inc. para:",
+        "donating_price_to": "Doar {{price}} para:",
+        "paying_price_vat_for": "Pagar {{price}} IVA inc. por:",
+        "paying_price_for": "Pagar {{price}} por:"
     },
     "jam": {
         "screenshots": {
@@ -906,7 +1061,21 @@
                 "disqualified_message": "Esta entrada foi desqualificada e não está elegível para classificações.",
                 "save_rating": "Guardar classificação",
                 "save_vote": "Guardar voto",
-                "private_field": "(privado)"
+                "private_field": "(privado)",
+                "you_voted_ago": "Votaste às {{timestamp}}.",
+                "you_just_voted": "Acabaste de votar.",
+                "you_havent_rated_this_submission_yet": "Ainda não avaliaste esta submissão.",
+                "other_participants_can_rate": "Outros que tenham entrado nesta jam poderão avaliar a tua entrada.",
+                "you_will_be_able_to_rate_if_you_submit": "Poderás avaliar esta entrada se submeters para esta jam.",
+                "participate_to_rate_message": "Para avaliares esta submissão tens que ter uma <a>sessão iniciada no Itch.io</a> e ter submetido a tua própria entrada. Qualquer pessoa com uma conta pode publicar um comentário.",
+                "sign_up_to_vote": "<a>Inicia sessão com uma conta Itch.io</a> para votar e publicar comentários.",
+                "sign_up_to_rate": "<a>Inicia sessão com uma conta Itch.io</a> para avaliar e publicar comentários.",
+                "unavailable_to_rate": "Não podes avaliar este projeto porque não submeteste a tua entrada. Mas podes deixar um comentário em baixo.",
+                "owner_message": "Esta é a tua submissão, não podes avaliá-la. Outros participantes do jam vão poder avaliar o teu projeto aqui.",
+                "not_open_yet": "O período de submissão deste jam ainda não acabou. Avaliações abrem a {{start_date}}.",
+                "rate_this_submission": "Avaliar esta submissão",
+                "vote_for_this_submission": "Votar nesta submissão",
+                "vote": "Votar"
             },
             "rated_by_people_count": "Classificado por {{count}} pessoa até agora",
             "rated_by_people_count_plural": "Classificado por {{count}} pessoas até agora",
@@ -924,36 +1093,71 @@
             "view_game_page": "Ver página do jogo",
             "results_table_score": "Pontuação",
             "results_table_votes": "Votos",
-            "results_table_criteria": "Critério"
+            "results_table_criteria": "Critério",
+            "submitted_by_contributors": "Submetido por {{contributors}}",
+            "downloads": "Transferências",
+            "remove_this_submission_button": "Remover esta submissão",
+            "edit_this_submission_button": "Editar esta submissão"
         },
         "results": {
             "submissions": {
                 "ranked_score": "Pontuação: {{score}}",
-                "by_author": "por {{author}}"
+                "by_author": "por {{author}}",
+                "view_submission_page": "Ver página de submissões"
             },
             "sort_overall": "No geral",
             "sort_by_criteria": "Por critério",
             "no_rankings_available": "Não há classificações disponíveis",
-            "results": "Resultados"
+            "results": "Resultados",
+            "empty_page_message": "Não há resultados nesta página",
+            "empty_message": "Os resultados ainda não estão disponíveis, volta mais tarde",
+            "average_and_median_results": "O número médio de avaliações por jogo foi <s>{{average_ratings}}</s> e a mediana foi <s>{{median_ratings}}</s>.",
+            "ratings_given_submissions_count": "<s>{{count}} classificação</s> foi dada a <s>{{submission_count}} entradas</s> ({{percent}}%) entre {{vote_start_date}} e {{vote_end_date}}.",
+            "ratings_given_submissions_count_plural": "<s>{{count}} classificações</s> foram dadas a <s>{{submission_count}} entradas</s> ({{percent}}%) entre {{vote_start_date}} e {{vote_end_date}}.",
+            "ratings_given_count": "<s>{{count}} classificação</s> foi dada entre {{vote_start_date}} e {{vote_end_date}}.",
+            "ratings_given_count_plural": "<s>{{count}} classificações</s> foram dadas entre {{vote_start_date}} e {{vote_end_date}}.",
+            "votes_cast_count": "<s>{{count}}</s> voto foi submetido entre {{vote_start_date}} e {{vote_end_date}}.",
+            "votes_cast_count_plural": "<s>{{count}}</s> votos foram submetidos entre {{vote_start_date}} e {{vote_end_date}}.",
+            "submissions_summary": "<s>{{count}} entrada</s> foi submetida entre {{start_date}} e {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} entradas</s> foram submetidas entre {{start_date}} e {{end_date}}."
         },
         "submissions": {
-            "rated": "Classificado"
+            "rated": "Classificado",
+            "empty_results": "Nenhuma submissão corresponde ao teu filtro",
+            "filter": "Filtro",
+            "filters": {
+                "browser_playable": "Jogável no browser",
+                "all_submissions": "Todas as submissões"
+            },
+            "help_submissions_in_need_of_ratings": "Ajuda a classificar submissões com poucas classificações: <a>Submissões que precisam de classificações</a>",
+            "submissions_will_be_available_after_the_jam_has_ended": "Submissões estarão disponíveis depois da jam terminar",
+            "there_were_no_submissions": "Não houve submissões",
+            "there_are_no_submissions_yet": "Ainda não há submissões"
         },
         "submitter": {
             "countdown": {
                 "voting_ends_in": "Votação acaba em",
-                "starts_in": "Começa em"
+                "starts_in": "Começa em",
+                "submissions_due_in": "Submissões acabam em"
             },
             "view_entries": "Ver {{count}} entrada",
             "view_entries_plural": "Ver {{count}} entradas",
             "view_results": "Ver resultados",
             "jam_is_now_over": "Este jam terminou. Esteve ativo durante {{start_date}} até {{end_date}}.",
             "leave_jam": "Sair do jam",
-            "or_leave_jam": "ou <a>Sair do jam</a>"
+            "or_leave_jam": "ou <a>Sair do jam</a>",
+            "you_can_now_rate_entries": "Podes agora classificar entradas na <a>página de submissões</a>",
+            "submission_is_closed_for_voting": "Submissões estão fechadas e a votação está agora em progresso",
+            "submissions_open_from": "Submissões abertas de {{start_date}} até {{end_date}}",
+            "joined_instructions": "Vem a esta página depois da jam começar para submeter o teu projeto.",
+            "youve_joined": "Juntaste-te a esta jam.",
+            "submit_button": "Submete o teu projeto",
+            "join_jam": "Juntar-se à jam"
         },
         "stats": {
             "ratings": "Classificações",
-            "entries": "Entradas"
+            "entries": "Entradas",
+            "joined": "Juntaram-se"
         },
         "header": {
             "links": {
@@ -961,24 +1165,201 @@
                 "screenshots": "Capturas de ecrã",
                 "overview": "Visão geral",
                 "results": "Resultados",
-                "community": "Comunidade"
-            }
+                "community": "Comunidade",
+                "submission_feed": "Feed de submissões",
+                "submissions": "Submissões"
+            },
+            "hosted_by": "Hospedado por {{hosts}}"
         }
     },
     "game_download": {
         "purchase": {
             "linked_user_message": "Esta compra está vinculada à conta {{username}}.",
             "percent_off": "{{percent}}% de desconto",
-            "link_purchase_links": "<1>Criar uma conta</1> ou <2>iniciar sessão em itch.io</2> para vincular instantaneamente esta compra."
+            "link_purchase_links": "<1>Criar uma conta</1> ou <2>iniciar sessão em itch.io</2> para vincular instantaneamente esta compra.",
+            "payment_summary_with_email": "Pagaste por isto a {{payment_date}} por {{payment_price}} com o email {{email_address}}.",
+            "payment_summary": "Pagaste por isto a {{payment_date}} por {{payment_price}}.",
+            "receipt_support_information": "Deves ter também recebido um email com um link para esta página. Se alguma vez perderes o URL para esta página podes pedir para que te seja enviado por email a partir da <a>página de suporte</a>.",
+            "access_latest_files_from_this_page": "Podes sempre aceder aos ficheiros mais recentes através desta página.",
+            "unique_url_for_your_payment": "Esta página tem um URL único para o teu pagamento.",
+            "thank_you_for_donating_author": "Obrigado pelo donativo a {{product_title}} de {{author}}.",
+            "thank_you_for_donating": "Obrigado pelo donativo a {{product_title}}.",
+            "thank_you_for_purchasing_author": "Obrigado por comprares {{product_title}} de {{author}}.",
+            "thank_you_for_purchasing": "Obrigado por comprares {{product_title}}.",
+            "link_purchase_warning": "Não percas a tua compra!",
+            "save_this_purchase_to_your_account": "Guarda esta compra na tua conta",
+            "youve_been_gifted": "Foste presenteado com {{product_title}}."
         },
         "link_my_account": "Vincular a minha conta",
         "header": {
             "return_to_project": "Voltar ao projeto",
             "view_all_my_purchases": "Ver todas as minhas compras",
             "more_menu": "Mais",
-            "invoice": "Recibo"
+            "invoice": "Recibo",
+            "preorder_title": "Pré-compra de {{project_title}}",
+            "discussion_board": "Quadro de discussão",
+            "download_title": "Descarregar {{project_title}}",
+            "view_rest_in_bundle": "Ver o restante no pacote"
         },
         "version_name": "Versão {{version_name}}",
-        "share_and_follow": "Partilhar & seguir"
+        "share_and_follow": "Partilhar & seguir",
+        "email_capture": {
+            "provide_email_instructions": "Insere o teu endereço de email para vinculá-lo à tua compra para que possas recuperá-la se perderes esta página.",
+            "dont_lose_your_purchase": "Não percas a tua compra!"
+        },
+        "access_comes_with_key": "O teu acesso vem com uma chave {{key_type}}!",
+        "payment_comes_with_key": "O teu pagamento vem com uma chave {{key_type}}!",
+        "claim_external_key_instructions": "Clica no botão para reivindicar.",
+        "claim_external_key": "Reivindicar chave {{key_type}}",
+        "get_external_key": "Obter chave {{key_type}}",
+        "access_existing_copy": "Não podes obter outra cópia, mas podes aceder à tua existente.",
+        "already_own": "Parece que já tens isto",
+        "must_link_account_description": "Tens que vincular esta página a uma conta itch.io antes de poder fazer o download. Contas são gratuitas e permitem-te gerir quaisquer jogos que tenhas colecionado.",
+        "link_account_description": "Podes vincular esta página de download a uma conta itch.io para nunca teres que te preocupar em perdê-la. Ficará visível junto a outros itens teus.",
+        "link_account_header": "Vincula esta página de download à tua conta itch.io",
+        "log_in_to_link": "Inicia sessão para vincular",
+        "linked_user_message": "Esta página está vinculada à conta {{username}}.",
+        "start_project_button": "Iniciar",
+        "play_in_your_browser": "Joga no teu browser",
+        "app_banner": {
+            "app_description": "Instala e gere os teus jogos com a aplicação de ambiente de trabalho itch.io",
+            "get_the_app": "Obtém a aplicação"
+        },
+        "preorder_instructions": "Este projeto tem ficheiros que ainda não foram lançados. Volta a esta página quando o criador tiver lançado os ficheiros para poderes descarregá-los.",
+        "check_your_email_for_the_confirmation_link": "Verifica o teu email pelo link de confirmação.",
+        "alternate_download": {
+            "region_message": "Algumas regiões podem bloquear o CDN do itch.io. Se os teus downloads não iniciarem podes tentar ativar o modo de download alternativo e tentar novamente.",
+            "title": "Modo de Download Alternativo",
+            "enable_alternate_download_mode": "Ativar modo de download alternativo"
+        },
+        "check_out_more_from_jam_title": "Descobre mais de {{jam_title}}",
+        "recommendations_title": "Mais em que podes estar interessado",
+        "install_instructions_intro": "Instruções de download e instalação de {{username}}:",
+        "trouble_downloading_link": "Downloads não estão a iniciar?",
+        "or_share_on": "ou partilhar em",
+        "social_share_message_download": "Acabei de descarregar {{title}} de {{username}}"
+    },
+    "library": {
+        "things_rated_header": "Coisas que avaliaste",
+        "redeem_button": "Resgatar",
+        "rate_game": {
+            "you_rated_this_project_ago": "Avaliaste este projeto {{time_ago}}.",
+            "rate_header": "Avaliar e Criticar {{project_title}}",
+            "choose_stars": "Escolhe uma avaliação de 1 a 5 estrelas.",
+            "delete_button": "Apagar avaliação e crítica",
+            "rating_deleted_summary": "A tua avaliação foi apagada.",
+            "rating_removed_header": "Avaliação removida",
+            "follow_creator": "Considera seguir o criador de {{project_title}} para te manteres atualizado sobre os lançamentos mais recentes.",
+            "rating_saved_header": "Avaliação guardada"
+        },
+        "gift_button": "Presente",
+        "nav": {
+            "things_to_rate": "Coisas para Avaliar",
+            "recommended_for_you": "Recomendado para ti"
+        },
+        "permalink": "Link permanente",
+        "things_you_own_header": "Coisas que possuis",
+        "page_title": "A minha biblioteca"
+    },
+    "game_grid": {
+        "in_bundle": "Em bundle"
+    },
+    "user": {
+        "verify_email": {
+            "page_title": "Verifica o teu endereço de email",
+            "you_will_automatically_be_logged_in": "Vais entrar automaticamente na tua conta quando verificares o teu endereço de email.",
+            "link_purchases": "Se já fizeste compras apenas com o teu endereço de email, elas serão automaticamente associadas à tua conta.",
+            "confirm_verification": "Por favor confirma o endereço de email {{email_address}} da conta {{account}}. É necessário verificar o teu email para teres acesso a várias funcionalidades no itch.io.",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Não podes verificar um endereço de email enquanto tens sessão iniciada noutra conta",
+            "your_email_address_has_been_verified": "O teu endereço de email foi verificado",
+            "we_were_unable_to_verify_your_email_address": "Não foi possível verificar o teu endereço de email",
+            "submit_button": "Confirmar verificação de email"
+        }
+    },
+    "notifications": {
+        "filter_follows": "Seguidores",
+        "filter_payments": "Pagamentos",
+        "filter_replies": "Respostas",
+        "filter_all": "Tudo",
+        "filter": "Filtrar",
+        "unseen_label": "Nova",
+        "page_title": "Notificações"
+    },
+    "feed": {
+        "filter_posts_tab": "Publicações",
+        "event": {
+            "collection_added_count": "{{count}} item adicionado.",
+            "collection_added_count_plural": "{{count}} itens adicionados.",
+            "collection_summary": "Uma coleção com {{count}} item.",
+            "collection_summary_plural": "Uma coleção com {{count}} itens."
+        },
+        "profile_notice": {
+            "description": "A tua conta não tem uma imagem de perfil, adiciona uma para que fique mais fácil os outros identificarem-te!",
+            "add_a_profile_image": "Adicionar uma imagem de perfil"
+        },
+        "email_warning": {
+            "verify_your_email_address": "Verifica o teu endereço de email"
+        },
+        "event_filter_label": "Filtro:",
+        "upload_a_game_button": "Carregar um jogo",
+        "manage_my_games_button": "Gerir os meus jogos",
+        "global_feed_tab": "Feed global",
+        "my_feed_tab": "O meu feed",
+        "to_follow": {
+            "to_follow_description": "Aqui estão algumas contas que podes ter interesse em seguir.",
+            "people_to_follow_header": "Pessoas para seguir"
+        },
+        "filter_ratings_tab": "Avaliações",
+        "to_rate": {
+            "to_rate_description": "Aqui estão algumas coisas com as quais interagiste, mas não avaliaste.",
+            "projects_to_rate_header": "Projetos para avaliar"
+        },
+        "featured_tags_header": "Tags em destaque",
+        "latest_featured_games_header": "Últimos jogos em destaque",
+        "filter_devlogs_tab": "Logs de Desenvolvedor",
+        "filter_collections_tab": "Coleções",
+        "filter_new_projects_tab": "Novos projetos",
+        "filter_everything_tab": "Tudo",
+        "filter_own_activity_tab": "A minha atividade"
+    },
+    "jams": {
+        "count_joined": "{{count}} juntaram-se",
+        "browse_in_progress": "Em Progresso",
+        "browse_top_past_jams": "Top Jams Anteriores",
+        "brose_featured_jams": "Jams em destaque",
+        "browse_upcoming_this_month": "Próximos Este Mês",
+        "dont_see_something_you_like_header": "Não vês nada que te agrade?",
+        "host_or_explore_links": "<1>Crie a Tua Própria Jam</1> ou <2>Explora Todas As Jams</2>",
+        "host_your_own_jam_button": "Cria a tua própria Jam",
+        "jam_calendar_header": "Calendário de Jams",
+        "browse_jams_header": "Procura Jams",
+        "manage_submissions_link": "Gere as tuas submissões e jams",
+        "host_a_jam_button": "Criar uma jam",
+        "games_created": "<s>{{count}} jogo</s> foi criado para jams hospedadas no itch.io.",
+        "games_created_plural": "<s>{{count}} jogos</s> foram criados para jams hospedadas no itch.io.",
+        "page_summary": "O itch.io é um local para hospedar e participar em game jams online. Qualquer um pode criar e hospedar uma jam.",
+        "page_title": "Game Jams no itch.io",
+        "jams_joined_header": "Jams a que te juntaste",
+        "jams_created_header": "Jams que criaste"
+    },
+    "add_to_collection": {
+        "about_this_project_label": "Sobre este projeto",
+        "private_collection_option": "Coleção privada — Apenas tu consegues ver o conteúdo",
+        "manage_collections_link": "Gerir coleções",
+        "add_button": "Adicionar a coleção",
+        "default_title": "Coleção de {{username}}",
+        "add_to_new": "Adicionar à nova coleção intitulada",
+        "private_collection_title": "[Privado] {{title}}",
+        "add_to_existing": "Adicionar à coleção existente",
+        "count_items": "{{count}} item",
+        "count_items_plural": "{{count}} itens",
+        "already_in_collections": "Este projeto já está nas seguintes coleções:",
+        "add_reason": "Adiciona este projeto a uma coleção para guardar para mais tarde.",
+        "dialog_title": "Adicionar {{project_title}} à coleção"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Por favor introduz uma senha nova para a conta {{account_name}}.",
+        "link_sent": "Um link para repor a tua senha foi enviado para o endereço primário da tua conta.",
+        "reset_password": "Repor senha"
     }
 }
