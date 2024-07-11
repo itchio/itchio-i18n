@@ -25,7 +25,8 @@
                 "demo_toggle": "該檔案是試玩版和可以免費下載",
                 "change_display_name_button": "改變顯示名字",
                 "set_price_toggle": "設定給這個檔案不同的價格",
-                "hide_toggle": "隱藏這個檔案並防止其被下載"
+                "hide_toggle": "隱藏這個檔案並防止其被下載",
+                "preorder_toggle": "此檔是預購佔位元"
             },
             "details_tags_header": "標籤",
             "details_genre_header": "類型",
@@ -112,7 +113,10 @@
             "details_genre_info": "請選擇最適合您遊戲的分類。您也可以使用下方的標籤選取額外的分類",
             "instructions_field_info1": "這段文字會顯示給使用瀏覽器下載您的遊戲的人。包括任何有關如何安裝和執行下載項目的資訊。",
             "custom_noun_field_description": "您可以提供自訂名詞改變 itch.io 稱呼您專案的方式。",
-            "payment_warning_info": "如果您將最低價格設定大於 0，則沒有人能下載您的專案。<a>編輯帳戶</a>"
+            "payment_warning_info": "如果您將最低價格設定大於 0，則沒有人能下載您的專案。<a>編輯帳戶</a>",
+            "external_file_tooltip": "您提供檔的鏈接，我們將跟蹤該文件的下載次數",
+            "community_discussion_board_info": "添加一個專門的社區頁面，其中包含類別、主題、回復等",
+            "short_description_field_description": "當我們連結到您的項目時顯示。避免重複項目標題"
         },
         "intro_text": "您是開發者嗎？上傳您的第一個遊戲",
         "project_list": {
@@ -159,7 +163,10 @@
         "recently_updated_pages_header": "最近更新頁面",
         "new_devlog": "新的開發日誌",
         "dashboard": "儀表板",
-        "not_a_developer_escape": "罷了，我要去看遊戲動態"
+        "not_a_developer_escape": "罷了，我要去看遊戲動態",
+        "blog_posts": {
+            "new_post": "最新帖子"
+        }
     },
     "layout": {
         "header": {
@@ -513,7 +520,7 @@
         "upload_your_game_description": "你可以在<s>itch.io</s>免費上傳獨立遊戲。我們會發行你的遊戲，展示遊戲截圖和其他下載內容。我們也會為你提供快速的下載環境。",
         "share_message": "itch.io 是一款免費在線平台，讓你輕鬆發行自己的獨立遊戲。",
         "upload_or_dashboard": "<1>上傳新遊戲</1> <em>或</em> <2>打開創作中心</2>",
-        "track_your_game_description": "詳盡紀錄觀看、下載和購買的統計數據，密切關注人們如何查看你的遊戲。想要進行促銷活動？生成下載密鑰以允許用戶獲取你的遊戲。"
+        "track_your_game_description": "通过涵盖浏览量、下载量和购买量的详细分析，密切关注人们如何查看您的游戏。想要进行促销吗？生成下载密钥，让人们可以访问您的游戏。"
     },
     "search": {
         "creators": "創作者：",
@@ -773,7 +780,7 @@
             "suspended_account": "已停用的帳戶",
             "edit": "編輯",
             "edits_count": "（已編輯 {{count}} 次）",
-            "edits_count_plural": "（已編輯{{count}}次）",
+            "edits_count_plural": "({{count}}編輯)",
             "post_from_suspended_account": "來自已停用帳戶的貼文",
             "pinned_post": "置頂貼文",
             "deleted_post": "已刪除的文章",
@@ -843,7 +850,7 @@
         "preorder_this_product_by_purchasing_it_for": "支付{{price}}或更高價格以預購本產品。",
         "download_this_product_by_purchasing_it_for": "支付{{price}}或更高價格以下載本產品。",
         "email_address_description": "您的付款確認訊息將會被寄到這裡",
-        "gift_email_instructions": "您將在付款後選擇一個電子郵箱來贈送禮物",
+        "gift_email_instructions": "付款后，您將選擇一封電子郵件來發送禮物。",
         "this_purchase_is_a_gift": "本次購買是一份禮物",
         "support_the_creator_with_an_additional_contribution": "用額外的捐助來支持創作者",
         "pay_with": "付款方式",
@@ -977,7 +984,7 @@
         "filter_group_genre": "類型",
         "filter_group_misc": "其他",
         "results_count": "{{count}} 個結果",
-        "results_count_plural": "{{count}}項結果",
+        "results_count_plural": "{{count}}個結果",
         "sort_new_and_popular": "新品&流行",
         "sort_top_sellers": "最暢銷",
         "sort_top_rated": "最高評價",
@@ -1006,7 +1013,8 @@
         "filter_group_release_status": "銷售狀況",
         "filter_group_collection": "收藏",
         "filter_group_accessibility_features": "輔助功能",
-        "filter_group_player_count": "玩家數"
+        "filter_group_player_count": "玩家數",
+        "no_results_found": "找不到結果"
     },
     "game_download": {
         "trouble_downloading_link": "沒有開始下載？",
@@ -1185,7 +1193,7 @@
             "results_header": "結果",
             "score_information": "成績會以競賽中所有遊戲收到的評分的中位數來對原始分數做調整。",
             "rated_by_people_count": "已有{{count}}人評分",
-            "rated_by_people_count_plural": "{{count}} 人已評分",
+            "rated_by_people_count_plural": "目前已有{{count}}人給予評分",
             "ranked_with_vote_count": "以{{count}}票排名{{ordinal_rank}}",
             "ranked_from_count_plural": "根據<s>{{count}}個評分</s>排名。",
             "ranked_from_count": "根據<s>{{count}}個評分</s>排名。"
@@ -1230,6 +1238,9 @@
         "screenshots": {
             "empty_message": "這裡還沒有任何上傳截圖",
             "loading_more": "載入更多螢幕截圖…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "此提交不合格"
         }
     },
     "feed": {
@@ -1297,7 +1308,8 @@
         "private_collection_option": "私人收藏 — 只有你能看到內容",
         "private_collection_title": "［私人］ {{title}}",
         "add_button": "增加到收藏",
-        "manage_collections_link": "管理收藏"
+        "manage_collections_link": "管理收藏",
+        "add_to_new": "添加到新收藏集，標題為"
     },
     "nags": {
         "unverified_email": {
@@ -1343,10 +1355,18 @@
     },
     "notifications": {
         "unseen_label": "新的",
-        "page_title": "通知"
+        "page_title": "通知",
+        "filter_follows": "关注",
+        "filter_payments": "付款",
+        "filter_replies": "回覆",
+        "filter_all": "全部",
+        "filter": "濾波器"
     },
     "user_forgot_password": {
-        "reset_password": "重置密碼"
+        "reset_password": "重置密碼",
+        "please_provide_a_new_password_for_account": "請為帳戶{{account_name}}提供新密碼。",
+        "link_sent": "密碼重置連結已發送到您帳戶的主位址。",
+        "enter_your_email": "輸入您註冊時使用的電子郵件地址，我們將向您發送一個連結以重置您的密碼。"
     },
     "user": {
         "verify_email": {
