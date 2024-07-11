@@ -809,7 +809,8 @@
             "add_screenshots": "添加截图",
             "community_discussion_board_info": "添加一个带有类别，主题，回复等等的专用社区页面",
             "community_comments_info": "在项目页面的下面添加一个嵌套的评论线程",
-            "community_field_info": "通过让人们向你的页面发表帖子来创建一个社区。"
+            "community_field_info": "通过让人们向你的页面发表帖子来创建一个社区。",
+            "external_file_tooltip": "提交文件链接，我们会持续更新下载次数"
         },
         "project_header": {
             "more": "更多",
@@ -885,7 +886,9 @@
         "filter_group_input_methods": "输入方式",
         "filter_group_type": "类型",
         "filter_group_release_status": "发售情况",
-        "filter_group_tools": "工具和引擎"
+        "filter_group_tools": "工具和引擎",
+        "no_results_found": "未找到结果",
+        "filter_group_player_count": "玩家数量"
     },
     "browse_tags": {
         "page_title": "热门标签",
