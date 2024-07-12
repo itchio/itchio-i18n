@@ -219,7 +219,8 @@
             "free": "Tasuta"
         },
         "lightboxes": {
-            "close": "Sulge"
+            "close": "Sulge",
+            "error_title": "Teie päringut ei olnud võimalik sooritada"
         },
         "collection_button": {
             "add_to_collection": "Lisa kogusse"
@@ -523,7 +524,29 @@
             "page_header": "Profiil",
             "language_description": "Itch.io kasutajaliidese keel",
             "language": "Keel",
-            "language_community_translation": "<s>itch.io on tõlgitud meie kogukonna liikmete poolt.</s> Mõned keeled on saadaval ainult osaliselt. Kui soovite näha itch.io-d oma keeles või aidata parandada vigu, saate oma panuse anda. <a>Lisateave</a>"
+            "language_community_translation": "<s>itch.io on tõlgitud meie kogukonna liikmete poolt.</s> Mõned keeled on saadaval ainult osaliselt. Kui soovite näha itch.io-d oma keeles või aidata parandada vigu, saate oma panuse anda. <a>Lisateave</a>",
+            "display_name": "Kuvatav nimi",
+            "profile_description": "Teie profiililehe sisu",
+            "profile": "Profiil",
+            "use_dark_theme": "Kasuta tumedat teemat kohtades, kus see on saadaval",
+            "click_to_load_games": "Nõua HTML5 mängu manuste käivitamiseks klikki",
+            "show_adult_content": "Näita otsingus ning sirvimisel täiskasvanutele märgitud sisu",
+            "disable_autoloading_next_page_when_browsing": "Keela järgmise lehe automaatne laadimine sirvimisel",
+            "disable_animated_gifs": "Keela animeeritud GIF-id",
+            "content_description": "Kuidas on sisu teile kuvatud lehel itch.io",
+            "content": "Sisu",
+            "default_language_option": "Vaikimisi (keelte beetaversiooni ajaks on määratud keeleks inglise keel)",
+            "account_type_developer": "Mängude arendamiseks ja üleslaadimiseks",
+            "account_type_gamer": "Mängude mängimiseks ja allalaadimiseks",
+            "account_type_description": "Milleks te enda kontot kasutate",
+            "account_type": "Konto tüüp",
+            "twitter_description": "Twitteri konto, mida näidatakse teie profiilil",
+            "website_description": "Valikuline URL, mida näidatakse teie profiililehel",
+            "website": "Veebileht",
+            "display_name_description": "Nimi, mida näidatakse kasutajanime asemel. Kasutajanime näitamiseks jäta tühjaks",
+            "profile_image_description": "Näidatakse nime kõrval, kui teostate toiminguid lehel (ruudukujulises mõõtes)",
+            "profile_image": "Profiilipilt",
+            "url_description": "Avallik internetiaadress teie kontole"
         },
         "navigation": {
             "thirdparty_analytics": "Kolmanda osapoole analüüs",
@@ -548,9 +571,54 @@
             "contact_header": "Võtke ühendust",
             "publisher_header": "Kirjastaja",
             "payment_header": "Makse",
-            "basics_header": "Põhitõed"
+            "basics_header": "Põhitõed",
+            "delete_account": "Kustuta Konto",
+            "api_keys": "API võtmed",
+            "press_access": "Meedia juurdepääs"
         },
-        "account_settings": "Konto seaded"
+        "account_settings": "Konto seaded",
+        "two_factor_auth": {
+            "status_off": "Väljalülitatud",
+            "status_on": "Sisselülitatud",
+            "tfa_status": "Olek: {{tfa_status}}",
+            "page_description": "Kaheastmeline autentimine on teie konto täiendav turvakiht, mis aitab vältida volitamata juurdepääsu juhul, kui teie parool varastatakse.",
+            "page_title": "Kaheastmeline autentimine",
+            "configure_twofactor_authentication": "Seadista kaheastmeline autentimine",
+            "learn_more_about_twofactor_authentication": "Loe lisa kaheastmelise autentimise kohta"
+        },
+        "email_addresses": {
+            "additional_emails": {
+                "detach_email": "Eemalda e-posti aadress",
+                "email_sent_status": "E-kiri saadetud",
+                "verified_column": "Kinnitatud",
+                "email_column": "E-post",
+                "emails_added_header": "Lisatud e-postid"
+            },
+            "add_email_form": {
+                "add_email_button": "Lisa e-post"
+            },
+            "change_password_instructions": "Kui muudate oma e-posti aadressi, peate selle kinnitama, et pääseda ligi mängudele, mille te olete ostnud. Teile saadetakse kinnitamisjuhised e-postile. Turvalisuse huvides peate oma e-posti aadressi muutmiseks sisestama ka oma praeguse parooli.",
+            "primary_email_description": "Teie peamine e-posti aadress on see, kuhu itch.io saadab teile kõik teated.",
+            "change_email_form": {
+                "current_password": "Praegune parool",
+                "new_email_address": "Uus e-posti aadress"
+            },
+            "your_primary_email_address": "Teie peamise e-posti aadress: {{email}}",
+            "primary_email_header": "Peamine e-post"
+        },
+        "password": {
+            "please_set_a_password_on_your_account": "Palun määrake oma kontole parool, et parandada turvalisust ja võimaldada juurdepääsu oma kontole ilma kolmandate osapoolte teenuste kaudu.",
+            "your_account_currently_doesnt_have_a_password": "Teie kontol ei ole hetkel parooli.",
+            "no_password_service_name": "Teie kontol ei ole hetkel parooli, sest te registreerusite {{service_name}}-i kaudu.",
+            "updating_your_password_will_cause": "Parooli uuendamine toob kaasa kõigi teiste veebibrauseri seansside väljalogimise. Kõik <a>OAuth ühendused ja API võtmed</a> jäävad aktiivseks.",
+            "new_password_again": "Uus parool uuesti",
+            "password_again": "Parool uuesti",
+            "new_password": "Uus parool",
+            "password": "Parool",
+            "current_password": "Praegune parool",
+            "set_password": "Määrake parool",
+            "reset_password": "Lähtesta parool"
+        }
     },
     "browse_tags": {
         "all_tags": "Kõik sildid",
@@ -605,9 +673,11 @@
         "sort_new_and_popular": "Uus & populaarne",
         "sort_popular": "Populaarne",
         "results_count": "{{count}} tulemus",
-        "results_count_plural": "{{count}} tulemused",
+        "results_count_plural": "{{count}} tulemust",
         "filter_group_type": "Tüüp",
-        "clear_filters": "Puhasta"
+        "clear_filters": "Puhasta",
+        "filter_group_player_count": "Mängijate arv",
+        "no_results_found": "Ühtegi tulemust ei leitud"
     },
     "collection": {
         "remove_confirm": "Kas olete kindel, et soovite selle kogust eemaldada",
@@ -847,5 +917,11 @@
             "view_entries_plural": "Vaata {{count}} kirjeid",
             "view_results": "Vaata tulemusi"
         }
+    },
+    "stripe_checkout": {
+        "payment_error": "Teie makse töötlemisel ilmnes viga:"
+    },
+    "buy_form_popup": {
+        "author_line": "{{author}}<1>poolt</1>"
     }
 }
