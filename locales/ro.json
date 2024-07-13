@@ -695,7 +695,8 @@
         "filter_group_misc": "Diverse",
         "filter_group_release_status": "Starea lansarii",
         "filter_group_input_methods": "Metode de intrare",
-        "filter_group_player_count": "Numărul de jucători"
+        "filter_group_player_count": "Numărul de jucători",
+        "no_results_found": "Nici un rezultat gasit"
     },
     "buy_form": {
         "agree_to_terms": "Prin finalizarea unei plate sunteți de acord cu <1>Termenii și condițiile</1> și <2>Politica de confidențialitate</2> itch.io.",
