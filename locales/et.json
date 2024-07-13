@@ -919,7 +919,15 @@
         }
     },
     "stripe_checkout": {
-        "payment_error": "Teie makse töötlemisel ilmnes viga:"
+        "payment_error": "Teie makse töötlemisel ilmnes viga:",
+        "credit_or_debit_card": "Krediit- või deebetkaart",
+        "buying_as": "Ostetakse kui",
+        "password": "Parool",
+        "enter_your_password_to_use_your_card": "Sisestage parool kaardi kasutamiseks",
+        "new_card": "Uus kaart",
+        "card_ending_last4": "Lõpeb numbritega {{last4}}",
+        "edit_saved_cards": "Muuda salvestatud kaarte",
+        "choose_a_card": "Vali kaart"
     },
     "buy_form_popup": {
         "author_line": "{{author}}<1>poolt</1>"
