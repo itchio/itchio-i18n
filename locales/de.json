@@ -43,7 +43,7 @@
         "user_menu": {
             "explore": "Erkunden",
             "create": "Erstellen",
-            "account": "Account",
+            "account": "Konto",
             "log_out": "Abmelden",
             "settings": "Einstellungen",
             "view_profile": "Profil ansehen",
@@ -55,7 +55,7 @@
             "dashboard": "Übersicht",
             "game_jams": "Game Jams",
             "feed": "Mein für dich",
-            "account_menu_tooltip": "Account Einstellungen",
+            "account_menu_tooltip": "Kontoeinstellungen",
             "posts": "Beiträge"
         }
     },
@@ -91,14 +91,14 @@
         "more_featured_games": "Mehr vorgestellte Spiele",
         "game_dev_on_sale": "Spieleentwicklungsressourcen <1>im Angebot</1>",
         "view_all_on_sale": "Alle Angebote ansehen",
-        "people_to_follow_description": "Hier sind ein paar Accounts, denen Du vielleicht folgen willst. <a>Warum folgen?</a>",
+        "people_to_follow_description": "Hier sind ein paar Konten, denen Du vielleicht folgen willst. <a>Warum folgen?</a>",
         "latest_featured_games": "Zuletzt vorgestellte Spiele",
         "filtering_platform": "Alle Spiele nach {{platform_name}} filtern",
         "view_all_platforms": "Alle Plattformen anzeigen",
         "browse_content_type": "{{content_type}} durchsuchen",
         "nav": {
             "all_games": "Alle Spiele",
-            "bundles": "Bundles",
+            "bundles": "Bündel",
             "game_jams": "Game Jams",
             "devlogs": "Entwicklerlogs",
             "community": "Community"
@@ -123,7 +123,7 @@
             "physical_game": "Physische Spiele",
             "soundtrack": "Alben & Soundtracks",
             "other": "Sonstiges",
-            "tool": "Tools",
+            "tool": "Werkzeuge",
             "comic": "Comics",
             "book": "Bücher"
         },
@@ -239,10 +239,10 @@
         }
     },
     "blog": {
-        "all_posts": "Alle Posts",
+        "all_posts": "Alle Beiträge",
         "digest": "Zusammenfassung",
         "updates": "Updates",
-        "empty_message": "Hier scheint es keine Posts zu geben",
+        "empty_message": "Hier scheint es keine Beiträge zu geben",
         "tag_filter": "Filtere nach {{tag}} <a>Filter löschen</a>"
     },
     "user_login": {
@@ -251,26 +251,26 @@
             "username_or_email": "Benutzername oder E-Mail-Adresse",
             "password": "Passwort",
             "forgot_password": "Passwort vergessen",
-            "create_account": "Account erstellen",
+            "create_account": "Konto erstellen",
             "or_log_in_with_another_site": "Oder mit einer anderen Seite anmelden",
             "or": "oder",
             "log_in_button": "Anmelden"
         },
         "looking_for_something_you_bought": "Suchst du etwas, das du gekauft hast?",
-        "create_a_new_account": "Neuen Account erstellen",
+        "create_a_new_account": "Ein neues Konto erstellen",
         "intent": {
             "community": "Du musst dich anmelden, um auf itch.io an Communities teilzunehmen. Es ist kostenlos, einen Account zu erstellen, und dauert nur ein paar Minuten.",
-            "comment": "Du brauchst einen itch.io-Account, bevor du kommentieren kannst.",
-            "rate_game": "Du brauchst einen itch.io-Account, bevor du ein Spiel bewerten kannst.",
-            "follow": "Du brauchst einen itch.io-Account, bevor du jemandem folgen kannst.",
-            "follow_username": "Du brauchst einen itch.io-Account, bevor du <1>{{username}}</1> folgen kannst.",
-            "collection": "Du brauchst einen itch.io-Account, bevor du einer Sammlung etwas hinzufügen kannst.",
-            "jam_submit": "Du brauchst einen itch.io-Account, bevor du an einem Game Jam teilnehmen kannst.",
-            "claim_object": "Bitte melde dich an oder erstelle einen Account, um {{noun}} zu beanspruchen.",
+            "comment": "Du brauchst ein itch.io-Konto, bevor du kommentieren kannst.",
+            "rate_game": "Du brauchst ein itch.io-Konto, bevor du ein Spiel bewerten kannst.",
+            "follow": "Du brauchst ein itch.io-Konto, bevor du jemandem folgen kannst.",
+            "follow_username": "Du brauchst einen itch.io-Konto, bevor du <1>{{username}}</1> folgen kannst.",
+            "collection": "Du brauchst einen itch.io-Konto, bevor du einer Sammlung etwas hinzufügen kannst.",
+            "jam_submit": "Du brauchst einen itch.io-Konto, bevor du an einem Game Jam teilnehmen kannst.",
+            "claim_object": "Bitte melde dich an oder erstelle ein Konto, um {{noun}} zu beanspruchen.",
             "recent_purchases": "Logge dich ein, um kürzlich getätigte Einkäufe mit deinem Benutzerkonto zu verknüpfen.",
-            "claim_object_title": "Bitte melde dich an oder erstelle einen Account um {{title}} zu beanspruchen."
+            "claim_object_title": "Bitte melde dich an oder erstelle ein Konto um {{title}} zu beanspruchen."
         },
-        "no_account_prompt": "Du hast keinen Account? <1>Erstelle einen Account</1>",
+        "no_account_prompt": "Kein Konto? <1>Erstelle ein Konto</1>",
         "page_title": "Anmelden",
         "you_are_logged_out": "Du bist abgemeldet",
         "errors": {
@@ -281,10 +281,10 @@
         "welcome_to_itchio": "Willkommen bei itch.io!"
     },
     "user_register": {
-        "create_an_account_on_itchio": "Erstelle einen itch.io Account",
+        "create_an_account_on_itchio": "Erstelle ein itch.io-Konto",
         "register_form": {
-            "create_account": "Account erstellen",
-            "already_have_account": "oder hast du bereits einen Account?",
+            "create_account": "Konto erstellen",
+            "already_have_account": "oder hast du bereits ein Konto?",
             "log_in": "Einloggen",
             "link_product": "Dein Einkauf von <1>{{product}}</1> wird automatisch mit deinem Konto verknüpft, sobald du dich registriert hast.",
             "accept_tos": "Ich akzeptiere die <1>Allgemeinen Geschäftsbedingungen</1>",
@@ -300,7 +300,7 @@
             "username": "Benutzername",
             "other_registration_methods": "Andere Registrierungsmethoden"
         },
-        "page_title": "Account registrieren"
+        "page_title": "Konto registrieren"
     },
     "developers": {
         "page_header": "Erstelle deine eigene Seite, um deine Spiele sofort zu veröffentlichen und zu verkaufen",
@@ -308,7 +308,7 @@
         "product_summary2": "Du kannst auch einen Mindestpreis für dein Spiel festlegen, um deinen Fans die Möglichkeit zu geben, für dein Spiel das zu zahlen, was sie wollen.",
         "my_dashboard": "Mein Dashboard",
         "upload_a_new_game": "Neues Spiel hochladen",
-        "account_faq_cta": "<1>Erstelle einen neuen Account</1> oder <2>Lese die FAQ</2>",
+        "account_faq_cta": "<1>Erstelle ein neues Konto</1> oder <2>Lese die FAQ</2>",
         "upload_your_indie_game": "Lade dein Indie-Spiel hoch",
         "design_your_games_page": "Erstelle die Seite für dein Spiel",
         "track_your_game": "Analysiere dein Spiel",
@@ -319,7 +319,7 @@
         "upload_your_game_description": "Lade dein Spiel kostenlos auf <s>itch.io</s> hoch. Wir stellen dein Spiel, neben deinen Screenshots und weiteren Downloads, zur Verfügung. Downloads für dein Spiel sind immer verfügbar und schnell.",
         "learn_more_about": "Erfahre mehr über:",
         "share_message": "itch.io is der einfachste Weg, deine Indie-Spiele kostenlos online zu vertreiben.",
-        "create_account_or_login": "<1>Erstelle einen Account</1> <em>oder</em> <2>Log dich ein</2>",
+        "create_account_or_login": "<1>Erstelle ein Konto</1> <em>oder</em> <2>Log dich ein</2>",
         "upload_or_dashboard": "<1>Neues Spiel hochladen</1> <em>oder</em> <2>zum Dashboard gehen</2>",
         "design_your_games_page_description": "Kreiere eine individuelle Seite für dein Spiel, auf der andere dein Spiel kaufen und herunterladen können. Du entscheidest über Farben, Schriftarten, Bilder und Videos. Da es deine Spielseite ist, wird dort nichts sein, was du nicht willst.",
         "track_your_game_description": "Behalte im Blick, wie Leute dein Spiel finden und nutze detaillierte Analysen über Aufrufe, Downloads und Käufe. Du möchtest Werbung machen? Erstelle Download-Keys, um Leuten Zugriff auf dein Spiel zu geben."
@@ -518,12 +518,12 @@
     },
     "community": {
         "topic": {
-            "topic_is_archived": "Dieses Thema ist archiviert und es kann nicht länger darin gepostet werden.",
+            "topic_is_archived": "Dieses Thema ist archiviert und ausgelistet. Es kann nicht länger darin beigetragen werden.",
             "reply": "Antworten",
             "log_in_to_reply": "Anmelden, um zu antworten",
             "unlisted_topic_notice": "<s>Ein Moderator hat dieses Thema versteckt.</s> Es ist nicht mehr in der Themenliste sichtbar, aber du kannst noch immer antworten und Bearbeitungen machen.",
-            "join_the_discussion": "Tritt der Diskussion bei. Melde dich an oder erstelle einen kostenlosen Account auf itch.io, um fortzufahren.",
-            "reply_to_someone_else": "Du möchtest auf jemand anderen antworten? Drücke <s>Antworten</s> unter ihrem Post.",
+            "join_the_discussion": "Tritt der Diskussion bei. Melde dich an oder erstelle ein kostenloses Konto auf itch.io, um fortzufahren.",
+            "reply_to_someone_else": "Du möchtest auf jemand anderen antworten? Drücke <s>Antworten</s> unter ihrem Beitrag.",
             "this_reply_will_go_to_yourself": "Diese Antwort geht an dich selbst.",
             "this_reply_will_go_to_the_topic_author": "Diese Antwort geht an den Threadersteller, {{username}}.",
             "new_reply": "Neue Antwort",
@@ -544,12 +544,12 @@
             "last_page": "Letzte Seite",
             "this_topic_is_locked": "Dieses Thema ist geschlossen",
             "this_topic_was_locked_by_username": "Dieses Thema wurde von {{username}} geschlossen",
-            "topic_is_autoarchived": "Dieses Thema wurde archiviert und kann nicht mehr kommentiert werden, da lange nicht auf das Thema geantwortet wurde.",
+            "topic_is_autoarchived": "Dieses Thema wurde archiviert und kann nicht länger kommentiert werden, da lange nicht auf das Thema geantwortet wurde.",
             "create_related_topic": "Wenn du ein ähnliches Ansinnen hast, ziehe in Betracht ein <a>neues Thema in der Kategorie {{category_name}}</a> zu erstellen."
         },
         "post_list": {
-            "deleted_post": "Gelöschter Post",
-            "post_from_blocked_account": "Post von einem blockierten Account",
+            "deleted_post": "Gelöschter Beitrag",
+            "post_from_blocked_account": "Beitrag von einem blockierten Konto",
             "edit_blocks": "Bearbeite Blöcke",
             "edits_count_plural": "({{count}} Bearbeitungen)",
             "edits_count": "({{count}} Bearbeitung)",
@@ -559,27 +559,27 @@
             "delete_topic": "Thema löschen",
             "delete": "Löschen",
             "report": "Melden",
-            "ban": "Banne …",
+            "ban": "Banne…",
             "view_more_in_thread": "Zeige mehr in diesem Thread",
-            "vote_up": "Guter Post",
-            "vote_down": "Schlechter Post",
-            "deleted_account": "Gelöschter Account",
-            "suspended_account": "Geperrter Account",
+            "vote_up": "Guter Beitrag",
+            "vote_down": "Schlechter Beitrag",
+            "deleted_account": "Gelöschtes Konto",
+            "suspended_account": "Gesperrtes Konto",
             "pinned_reply": "Angepinnte Antwort",
-            "pinned_post": "Angepinnter Post",
+            "pinned_post": "Angepinnter Beitrag",
             "edited": "(bearbeitet)",
-            "post_from_suspended_account": "Beitrag eines deaktivierten Benutzers"
+            "post_from_suspended_account": "Beitrag eines deaktivierten Kontos"
         },
         "post_form": {
             "add_profile_image": "Profilbild hinzufügen",
             "save": "Speichern",
-            "post": "Senden",
+            "post": "Beitragen",
             "subscribe": "Folgen",
             "subscribe_to_this_topic": "Folge diesem Thema",
             "subscribe_description": "Erhalte Benachrichtigungen bei neuen Antworten in diesem Thema",
             "tag_header": "Tag",
             "remove_tag": "Tag entfernen",
-            "post_reply": "Antwort abschicken"
+            "post_reply": "Antwort senden"
         },
         "new_topic": {
             "moderator_tools": "Moderator-Werkzeuge",
@@ -594,7 +594,7 @@
             "body": "Inhalt",
             "topic_tag": "Tag",
             "your_moderators_are": "itch.io moderiert dieses Forum nicht, die Moderatoren sind:",
-            "page_title": "Starte ein neues Thema"
+            "page_title": "Neues Thema beginnen"
         },
         "misc": {
             "new_topic_button": "Neues Thema"
@@ -612,7 +612,7 @@
                 "topics": "Themen"
             },
             "rules_header": "Regeln",
-            "recent_posts_header": "Kürzliche Posts",
+            "recent_posts_header": "Kürzliche Beiträge",
             "list_header_last_topic": "Letztes Thema",
             "new_flag": "Neu",
             "archived_flag": "Archiviert",
@@ -622,7 +622,7 @@
         "topic_list": {
             "views_count": "<s>{{count}}</s> Aufruf",
             "views_count_plural": "<s>{{count}}</s> Aufrufe",
-            "no_posts_yet": "Keine Antworten",
+            "no_posts_yet": "Keine Antworten bisher",
             "replies_count": "<s>{{count}}</s> Antwort",
             "replies_count_plural": "<s>{{count}}</s> Antworten",
             "started_by_author": "erstellt von {{topic_author}}",
@@ -630,7 +630,7 @@
             "sticky_flag": "Angepinnt",
             "locked_flag": "Geschlossen",
             "list_header_topic_title": "Thema",
-            "list_header_last_post": "Letzter Post",
+            "list_header_last_post": "Letzter Beitrag",
             "no_replies_yet": "Noch keine Antworten"
         }
     },
@@ -665,7 +665,7 @@
         "continue_payment": "Zahle mit Bezahlung fort",
         "billing_address": "Rechnungsadresse",
         "generic_error": "Es gab ein Problem mit deinem Kauf: {{error}}",
-        "contact_support_on_error": "Wenn das Problem weiterhin besteht, kontaktiere bitte den <a>itch.io Support</a> mit allen relevanten Details."
+        "contact_support_on_error": "Wenn das Problem weiterhin besteht, kontaktiere bitte den <a>itch.io-Support</a> mit allen relevanten Details."
     },
     "collection": {
         "authors": "eine Sammlung von {{author}}",
@@ -725,7 +725,8 @@
             "clear_filter": "Setze Filter zurück"
         },
         "filter_everything_else": "Sonstiges",
-        "filter_group_player_count": "Anzahl der Spieler"
+        "filter_group_player_count": "Anzahl der Spieler",
+        "no_results_found": "Keine Ergebnisse gefunden"
     },
     "browse_tags": {
         "page_title": "Beliebteste Tags",
@@ -734,7 +735,7 @@
         "no_description_yet": "Keine Beschreibung vorhanden",
         "all_tags": "Alle Tags",
         "types": {
-            "tool": "Tools",
+            "tool": "Werkzeuge",
             "event": "Events",
             "platform": "Plattformen",
             "style": "Stil",
@@ -746,7 +747,7 @@
         "powered_by_itchio": "unterstützt von {{itchio}}"
     },
     "user_settings": {
-        "account_settings": "Accounteinstellungen",
+        "account_settings": "Kontoeinstellungen",
         "navigation": {
             "basics_header": "Basis",
             "payment_header": "Zahlung",
@@ -758,7 +759,7 @@
             "password": "Passwort",
             "email_addresses": "E-Mail-Adresse",
             "two_factor_auth": "Zwei-Stufen-Authentifizierung",
-            "support_email": "Support E-Mail-Adresse",
+            "support_email": "Support-E-Mail-Adresse",
             "publisher_get_started": "Wie du anfängst",
             "revenue_sharing": "Einkommensbeteiligung",
             "payment_processors": "Zahlungsmöglichkeiten",
@@ -767,14 +768,14 @@
             "credit_cards": "Kreditkarten",
             "billing_address": "Rechnungsadresse",
             "email_notifications": "E-Mail-Benachrichtigungen",
-            "connected_accounts": "Verknüpfte Accounts",
+            "connected_accounts": "Verknüpfte Konten",
             "press_access": "Pressezugang",
             "privacy": "Privatsphäre",
             "data_export": "Datenexport",
-            "api_keys": "API-Keys",
-            "oauth_applications": "OAuth-Applikation",
-            "thirdparty_analytics": "Analysen dritter Partien",
-            "delete_account": "Account löschen"
+            "api_keys": "Programmierschnittstellenschlüssel",
+            "oauth_applications": "OAuth-Anwendungen",
+            "thirdparty_analytics": "Drittanbieteranalytik",
+            "delete_account": "Konto löschen"
         },
         "profile": {
             "language_community_translation": "<s>itch.io wird von Mitgliedern der Community übersetzt.</s> Manche Sprachen sind bisher nur teilweise verfügbar. Wenn du itch.io gern in deiner Sprache sehen oder bei vorhandenen Fehlern helfen möchtest, kannst du das tun. <a>Erfahre mehr</a>",
@@ -782,19 +783,19 @@
             "language_description": "Sprache von itch.ios Benutzeroberfläche",
             "page_header": "Profil",
             "username": "Benutzername",
-            "username_description": "Wird zum Einloggen und die URL deiner Seite benutzt",
+            "username_description": "Wird zur Kontoanmeldung und für die URL deiner Seite genutzt",
             "change_username": "Meinen Benutzernamen/URL ändern",
             "you_recently_changed_your_username": "Du hast kürzlich deinen Benutzernamen geändert",
-            "url_description": "Die öffentliche URL für deinen Account",
+            "url_description": "Die öffentliche URL für dein Konto",
             "profile_image": "Profilbild",
             "profile_image_description": "Wird neben deinem Namen angezeigt, wenn du eine Aktion auf der Seite ausführst (eckiges Format)",
             "display_name": "Angezeigter Name",
             "display_name_description": "Dieser Name wird anstelle deines Benutzernamens angezeigt. Soll dein Username verwendet werden, lasse es leer.",
             "website": "Webseite",
             "website_description": "Optionale URL, die auf deiner Profilseite angezeigt wird",
-            "twitter_description": "Twitter-Account, der auf deinem Profil angezeigt wird",
-            "account_type": "Account-Typ",
-            "account_type_description": "Wie du deinen Account verwenden wirst",
+            "twitter_description": "Twitter-Konto, welches auf deinem Profil angezeigt wird",
+            "account_type": "Kontotyp",
+            "account_type_description": "Wie du dein Konto verwenden wirst",
             "account_type_gamer": "Herunterladen und Spielen von Spielen",
             "account_type_developer": "Erstellen und Hochladen von Spielen",
             "default_language_option": "Standard (Während der Sprach-Beta ist dies Englisch)",
@@ -816,9 +817,9 @@
             "new_password": "Neues Passwort",
             "password_again": "Passwort wiederholen",
             "new_password_again": "Neues Passwort wiederholen",
-            "please_set_a_password_on_your_account": "Bitte setze ein Passwort, um deinen Account besser zu schützen und dich ohne Third-Party-Services einloggen zu können.",
-            "your_account_currently_doesnt_have_a_password": "Dein Account hat derzeit kein Passwort.",
-            "no_password_service_name": "Dein Account hat derzeit kein Passwort, da du dich mit {{service_name}} registriert hast.",
+            "please_set_a_password_on_your_account": "Bitte setze ein Passwort, um dein Konto besser zu schützen und dich ohne Drittanbieterdienste einloggen zu können.",
+            "your_account_currently_doesnt_have_a_password": "Dein Konto hat derzeit kein Passwort.",
+            "no_password_service_name": "Dein Konto hat derzeit kein Passwort, da du dich mit {{service_name}} registriert hast.",
             "updating_your_password_will_cause": "Das Aktualisieren des Passworts wird alle aktiven Sitzungen ausloggen. Jede <a>OAuth-Verbindungen und API-Schlüssel</a> bleiben aktiv."
         },
         "email_addresses": {
@@ -831,7 +832,7 @@
             "primary_email_description": "Deine primäre E-Mail-Adresse wird von itch.io benutzt, um dir Mitteilungen zu schicken.",
             "change_password_instructions": "Wenn du deine E-Mail-Adresse änderst, musst du diese bestätigen, um Zugriff auf all die Spiele zu haben, die du gekauft hast. Die Bestätigungs-Anleitung wird dir per Mail geschickt. Aus Sicherheitsgründen musst du für Änderungen an der E-Mail-Adresse dein aktuelles Passwort angeben.",
             "additional_emails_header": "Zusätzliche E-Mail-Adressen",
-            "additional_emails_summary": "Du kannst weitere E-Mail-Adressen mit deinem itch.io-Account verbinden, um auch von diesen Adressen auf alles zugreifen zu können. Deine PayPal-Adresse ist beispielsweise vielleicht eine andere als deine normale, daher wäre es klug, diese als zusätzliche Mailadresse einzutragen.",
+            "additional_emails_summary": "Du kannst weitere E-Mail-Adressen mit deinem itch.io-Konto verbinden, um auch von diesen Adressen auf alles zugreifen zu können. Deine PayPal-Adresse ist beispielsweise vielleicht eine andere als deine normale, daher wäre es klug, diese als zusätzliche Mailadresse einzutragen.",
             "additional_emails_instructions": "Dir werden Verifizierungsanweiseungen per Mail geschickt, nachdem du eine zusätzliche Mailadresse hinzugefügt hast.",
             "add_email_form": {
                 "additional_email_address_label": "Zusätzliche E-Mail-Adressen",
@@ -850,7 +851,7 @@
             "status_off": "Aus",
             "status_on": "An",
             "tfa_status": "Status: {{tfa_status}}",
-            "page_description": "Zwei-Faktor-Authentisierung ist ein zusätzlicher Schutz für deinen Account, der unerlaubten Zugriff verhindert, sollte dein Passwort gestohlen werden.",
+            "page_description": "Die Zwei-Faktor-Authentifizierung ist ein zusätzlicher Schutz für dein Konto, der unerlaubten Zugriff im Falle eines Passwortdiebstahls verhindert.",
             "learn_more_about_twofactor_authentication": "Erfahre mehr über Zwei-Faktor-Authentisierung",
             "configure_twofactor_authentication": "Zwei-Faktor-Authentisierung einstellen",
             "page_title": "Zwei-Faktor-Authentisierung"
@@ -869,7 +870,7 @@
         "gift_instructions": "Dieser Kauf ist ein Geschenk. Du kannst die E-Mail-Adresse des Empfängers nach der Zahlung angeben.",
         "credit_or_debit_card": "Kredit- oder Debitkarte",
         "save_credit_card_for_future_purchases": "Speichere die Kreditkarte für zukünftige Käufe",
-        "manage_cards_link": "Du kannst deine Karten in den <a>Account-Einstellungen</a> bearbeiten",
+        "manage_cards_link": "Du kannst deine Karten in den <a>Konto-Einstellungen</a> bearbeiten",
         "pay_price_button": "Bezahle {{price}}",
         "paying_price_for": "Bezahle {{price}} für:",
         "paying_price_vat_for": "Bezahle {{price}}, inklusive Mehrwertsteuer, für:",
@@ -877,7 +878,7 @@
         "donating_price_vat_to": "Spende {{price}}, inklusive Mehrwertsteuer, an:",
         "you_will_receive_files": "Du erhältst:",
         "steam_key": "Steam-Key",
-        "linked_to_account": "Mit Account verbunden",
+        "linked_to_account": "Mit Konto verbunden",
         "email": "E-Mail",
         "youll_be_mailed_your_access_link": "Der Zugangsschlüssel wird dir per Mail geschickt",
         "full_name": "Voller Name",
@@ -1073,8 +1074,8 @@
                 "owner_message": "Dies ist deine Einsendung, du kannst sie nicht selbst bewerten. Andere Personen des Jams hingegen werden sie hier bewerten können.",
                 "unavailable_to_rate": "Du kannst dieses Projekt nicht bewerten, da du selbst noch keinen Eintrag eingesendet hast. Du kannst jedoch unten einen Kommentar hinterlassen.",
                 "sign_up_to_rate": "<a>Logge dich in dein itch.io-Konto ein</a>, um zu bewerten und Kommentare zu hinterlassen.",
-                "sign_up_to_vote": "<a>Logge dich in dein itch.io-Konto ein</a>, um zu voten und Kommentare zu hinterlassen.",
-                "participate_to_rate_message": "Um diese Einsendung bewerten zu können, musst du <a>in deinen itch.io-Konto eingeloggt sein</a> und deinen eigenen Eintrag abgesendet haben. Jeder mit einem Account kann einen Kommentar hinterlassen.",
+                "sign_up_to_vote": "<a>Logge dich in dein itch.io-Konto ein</a>, um zu abzustimmen und Kommentare zu hinterlassen.",
+                "participate_to_rate_message": "Um diese Einsendung bewerten zu können, musst du <a>in deinen itch.io-Konto eingeloggt sein</a> und deinen eigenen Eintrag abgesendet haben. Jeder mit einem Konto kann einen Kommentar hinterlassen.",
                 "you_will_be_able_to_rate_if_you_submit": "Du kannst diese Eintrag bewerten, wenn du selbst am Jam teilnimmst.",
                 "other_participants_can_rate": "Andere Teilnehmer des Jams werden deinen Eintrag bewerten können.",
                 "save_vote": "Vote speichern",
@@ -1320,7 +1321,7 @@
         },
         "to_follow": {
             "people_to_follow_header": "Personen zum Folgen",
-            "to_follow_description": "Hier sind einige Accounts, denen du vielleicht folgen möchtest."
+            "to_follow_description": "Hier sind einige Konten, denen du vielleicht folgen möchtest."
         },
         "my_feed_tab": "Mein Feed",
         "global_feed_tab": "Globaler Feed",
@@ -1332,7 +1333,7 @@
         },
         "profile_notice": {
             "add_a_profile_image": "Füge ein Profilbild hinzu",
-            "description": "Dein Account hat noch kein Profilbild. Füge eines hinzu, damit es anderen leichter fällt, dich sofort zu erkennen!"
+            "description": "Dein Konto hat noch kein Profilbild. Füge eines hinzu, damit es anderen leichter fällt, dich sofort zu erkennen!"
         },
         "event": {
             "collection_summary": "Eine Sammlung mit {{count}} Objekt.",
@@ -1383,21 +1384,21 @@
         "filter": "Filter"
     },
     "user_forgot_password": {
-        "please_provide_a_new_password_for_account": "Bitte vergib für den Account {{account_name}} ein neues Passwort.",
+        "please_provide_a_new_password_for_account": "Bitte vergib für das Konto {{account_name}} ein neues Passwort.",
         "link_sent": "Ein Link zum Zurücksetzen des Passwort wurde an deine E-Mail-Adresse gesendet.",
         "enter_your_email": "Gib die E-Mail-Adresse ein, mit der du dich registriert hast, und wir schickt dir einen Link zum Zurücksetzen.",
         "reset_password": "Passwort zurücksetzen"
     },
     "user": {
         "verify_email": {
-            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Du kannst deine E-Mail-Adresse nicht verifizieren, wenn du in einem anderen Account eingeloggt bist",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Du kannst deine E-Mail-Adresse nicht verifizieren, wenn du mit einem anderen Konto eingeloggt bist",
             "your_email_address_has_been_verified": "Deine E-Mail-Adresse wurde verifiziert",
             "we_were_unable_to_verify_your_email_address": "Wir konnten deine E-Mail-Adresse nicht verifizieren",
             "submit_button": "Bestätige die E-Mail-Verifizierung",
             "page_title": "Verifiziere deine E-Mail-Adresse",
-            "you_will_automatically_be_logged_in": "Du wirst automatisch in deinen Account eingeloggt, nachdem du deine E-Mail-Adresse verifiziert hast.",
-            "link_purchases": "Wenn du vorher bereits Einkäufe nur mit deiner E-Mail-Adresse gemacht hast, werden diese automatisch mit deinem Account verbunden.",
-            "confirm_verification": "Bitte verifiziere deine E-Mail-Adresse {{email_address}} für den Account {{account}}. Die Verifizierung ist notwendig, um viele Funktionen auf itch.io benutzen zu können."
+            "you_will_automatically_be_logged_in": "Du wirst automatisch in dein Konto eingeloggt, nachdem du deine E-Mail-Adresse verifiziert hast.",
+            "link_purchases": "Wenn du vorher bereits Einkäufe nur mit deiner E-Mail-Adresse gemacht hast, werden diese automatisch mit deinem Konto verbunden.",
+            "confirm_verification": "Bitte verifiziere deine E-Mail-Adresse {{email_address}} für das Konto {{account}}. Die Verifizierung ist notwendig, um viele Funktionen auf itch.io benutzen zu können."
         }
     }
 }
