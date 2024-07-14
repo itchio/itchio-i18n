@@ -147,8 +147,8 @@
         "agree_to_terms": "Здійснюючи оплату, ви погоджуєтеся з <1>Умовами використання</1> та <2>Політикою конфіденційності</2> itch.io.",
         "this_purchase_is_a_gift": "Ця покупка є дарунком",
         "support_the_creator_by_paying_above_the_minimum_price": "Підтримайте творця, заплативши понад мінімальну ціну",
-        "pay_with": "Оплатити через",
-        "credit_card": "картку",
+        "pay_with": "Оплатити",
+        "credit_card": "карткою",
         "go_back": "Повернутися",
         "continue_payment": "Продовжити оплату",
         "billing_address": "Адреса виставлення рахунку",
@@ -516,7 +516,7 @@
             "comments": "Коментарі",
             "community": "Спільнота",
             "devlog": "Журнал розробки",
-            "edit_your_rating": "Змінити свій оцінку",
+            "edit_your_rating": "Змінити свою оцінку",
             "edit_rating": "Змінити оцінку",
             "rate": "Оцінити",
             "rate_this_noun": "Оцінити {{noun}}",
@@ -525,7 +525,7 @@
             "related_games": "Схожі ігри",
             "related_games_short": "Схоже",
             "ownership": {
-                "you_own_this": "Ви володієте наступним",
+                "you_own_this": "Придбане вами",
                 "send_gift": "Надіслати подарунок",
                 "download": "Завантажити",
                 "percent_off": "-{{percent}}%",
@@ -576,7 +576,7 @@
             "support_page_link": "Перейти на офіційну сторінку підтримки",
             "email_creator_link": "Написати творцю",
             "submit_report_button": "Надіслати звіт",
-            "title": "Звіт на сторінку '{{page_title}}'",
+            "title": "Звіт на сторінку «{{page_title}}»",
             "report_received_header": "Звіт отримано",
             "description_label": "Опис",
             "reason_label": "Причина",
@@ -587,7 +587,7 @@
         "topic": {
             "topic_is_archived": "Ця тема заархівована. Вона вилучена зі списку, і в ній не можна створювати нові повідомлення.",
             "reply": "Відповісти",
-            "log_in_to_reply": "Увійдіть у систему, щоб відповісти",
+            "log_in_to_reply": "Авторизуйтесь, щоб відповісти",
             "unlisted_topic_notice": "<s>Модератор вилучив цю тему зі списку тем.</s> Вона не відображається у списку тем, але ви все ще можете відповідати та вносити правки.",
             "join_the_discussion": "Приєднуйтесь до обговорення. Увійдіть або створіть безплатний обліковий запис на itch.io, щоб продовжити.",
             "reply_to_someone_else": "Хочете відповісти комусь? Натисніть <s>відповісти</s> під їхнім дописом.",
@@ -750,7 +750,8 @@
         "results_count_0": "{{count}} результат",
         "results_count_1": "{{count}} результати",
         "results_count_2": "{{count}} результатів",
-        "filter_group_player_count": "К-сть гравців"
+        "filter_group_player_count": "К-сть гравців",
+        "no_results_found": "Результатів не знайдено"
     },
     "buy_form_popup": {
         "author_line": "<1>від</1> {{author}}",
