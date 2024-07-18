@@ -29,7 +29,7 @@
             "bundles": "Bündel",
             "games": "Spiele",
             "feed_unseen_count": "{{count}} neu",
-            "feed_unseen_count_plural": "{{count}} neu",
+            "feed_unseen_count_plural": "{{count}} neue",
             "community": "Community",
             "search_placeholder": "Nach Spielen oder Erstellern suchen",
             "dashboard": "Übersicht",
@@ -140,7 +140,7 @@
         "multiplayer_features": {
             "local": "Lokaler Mehrspieler",
             "server": "Server-basierter Netzwerk-Mehrspieler",
-            "adhoc": "Ad-hoc Netzwerk-Mehrspieler"
+            "adhoc": "Ad-Hoc-Netzwerk-Mehrspieler"
         },
         "inputs": {
             "keyboard": "Tastatur",
@@ -170,7 +170,7 @@
             "save": "Speichern",
             "submit": "Absenden",
             "form_errors": "Bitte überprüfe die Informationen, die du eingegeben hast",
-            "confirm": "bestätigen"
+            "confirm": "Bestätigen"
         },
         "page_number": "Seite {{page_number}}",
         "follow_button": {
@@ -241,7 +241,7 @@
     "blog": {
         "all_posts": "Alle Beiträge",
         "digest": "Zusammenfassung",
-        "updates": "Updates",
+        "updates": "Neuerungen",
         "empty_message": "Hier scheint es keine Beiträge zu geben",
         "tag_filter": "Filtere nach {{tag}} <a>Filter löschen</a>"
     },
@@ -341,7 +341,7 @@
         "summary": "Die itch.io-App,<s>itch</s>, lässt dich bequem Spiele und Software von itch.io herunterladen und spielen. Alle deine Downloads sind an einem Platz und werden automatisch aktualisiert. Greife auf deine Sammlungen und Einkäufe zu oder stöbere durch neue Spiele per in-app-Browser.",
         "more_info_links": "<1>Lese mehr in den FAQ</1> oder <2>Lese den App-Guide</2>",
         "learn_more_below": "Erfahre unten mehr",
-        "updates": "Updates",
+        "updates": "Neuerungen",
         "contribute_link": "Willst du dazu beitragen? <a>Schau dir die Quelle auf GitHub an</a>",
         "read_the_app_guide": "Lies den App-Guide",
         "browse_header": "Entdecke Spiele, wie vom Ersteller gedacht",
@@ -772,7 +772,7 @@
             "press_access": "Pressezugang",
             "privacy": "Privatsphäre",
             "data_export": "Datenexport",
-            "api_keys": "Programmierschnittstellenschlüssel",
+            "api_keys": "API-Schlüssel",
             "oauth_applications": "OAuth-Anwendungen",
             "thirdparty_analytics": "Drittanbieteranalytik",
             "delete_account": "Konto löschen"
@@ -790,7 +790,7 @@
             "profile_image": "Profilbild",
             "profile_image_description": "Wird neben deinem Namen angezeigt, wenn du eine Aktion auf der Seite ausführst (eckiges Format)",
             "display_name": "Angezeigter Name",
-            "display_name_description": "Dieser Name wird anstelle deines Benutzernamens angezeigt. Soll dein Username verwendet werden, lasse es leer.",
+            "display_name_description": "Wird anstelle deines Benutzernamens angezeigt, leer lassen um den Benutzernamen zu verwenden",
             "website": "Webseite",
             "website_description": "Optionale URL, die auf deiner Profilseite angezeigt wird",
             "twitter_description": "Twitter-Konto, welches auf deinem Profil angezeigt wird",
