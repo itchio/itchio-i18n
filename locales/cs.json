@@ -692,7 +692,8 @@
             "preorder_title": "Předobjednávka {{project_title}}",
             "more_menu": "Více",
             "invoice": "Faktura",
-            "discussion_board": "Diskuze"
+            "discussion_board": "Diskuze",
+            "view_rest_in_bundle": "Zobrazit zbytek v balíčku"
         },
         "version_name": "Verze {{version_name}}",
         "start_project_button": "Start",
@@ -721,6 +722,15 @@
             "thank_you_for_donating": "Děkujeme za váš dar za {{product_title}}.",
             "thank_you_for_purchasing_author": "Děkujeme za váš nákup {{product_title}} od {{author}}.",
             "thank_you_for_purchasing": "Děkujeme za váš nákup {{product_title}}."
+        },
+        "log_in_to_link": "Přihlásit se k připojení",
+        "link_my_account": "Připojit můj účet",
+        "preorder_instructions": "Tento projekt obsahuje soubory, které ještě nebyly vydány. Vraťte se na tuto stránku, jakmile tvůrce tyto soubory vydá, abyste si je mohli stáhnout.",
+        "check_your_email_for_the_confirmation_link": "Zkontrolujte svůj e-mail pro potvrzovací odkaz.",
+        "alternate_download": {
+            "region_message": "Některé regiony blokují CDN itch.io. Pokud Vaše stahování nezačíná, můžete zkusit povolit alternativní režim stahování a zkusit to znovu.",
+            "title": "Alternativní režim stahování",
+            "enable_alternate_download_mode": "Povolit alternativní režim stahování"
         }
     },
     "stripe_checkout": {
@@ -747,7 +757,8 @@
         "payment_error": "Při zpracování vaší platby došlo k chybě:",
         "donating_price_vat_to": "Darovat {{price}} s daní pro:",
         "buying_as": "Nakupuji jako",
-        "paying_price_vat_for": "Zaplatit {{price}} s daní za:"
+        "paying_price_vat_for": "Zaplatit {{price}} s daní za:",
+        "card_ending_last4": "Končící na {{last4}}"
     },
     "user_settings": {
         "email_addresses": {
@@ -816,7 +827,8 @@
             "language_description": "Jazyk, ve kterém se vám bude itch.io zobrazovat",
             "language": "Jazyk",
             "language_community_translation": "<s>itch.io je překládáno členy naší komunity.</s> Některé jazyky jsou dostupné pouze z části. Pokud máte zájem nám pomoct přeložit itch.io nebo chcete opravit chyby v překladu, můžete se přidat. <a>Více informací</a>",
-            "profile_image_description": "Zobrazuje se na stránce vedle vašeho jména když provádíte akce (čtevrcový formát)"
+            "profile_image_description": "Zobrazuje se na stránce vedle vašeho jména když provádíte akce (čtevrcový formát)",
+            "click_to_load_games": "Vyžadovat kliknutí pro spuštění vložených HTML5 her"
         },
         "navigation": {
             "oauth_applications": "OAuth aplikace",
@@ -843,7 +855,8 @@
             "payment_processors": "Zpracovatelé plateb",
             "payout_mode": "Typ výplaty",
             "publisher_get_started": "Začínáme",
-            "email_addresses": "Mailové adresy"
+            "email_addresses": "Mailové adresy",
+            "delete_account": "Smazat účet"
         },
         "account_settings": "Nastavení účtu",
         "two_factor_auth": {
@@ -877,7 +890,8 @@
         "filter_group": {
             "clear_filter": "Vymazat filtr",
             "fewer_options": "Méně možností",
-            "more_options": "Více možností"
+            "more_options": "Více možností",
+            "toggle_more_options": "Zobrazit více možností"
         },
         "filter_group_tools": "Nástroje a Enginy",
         "filter_group_collection": "Kolekce",
@@ -913,7 +927,8 @@
         "results_count_plural": "{{count}} výsledků",
         "filter_group_misc": "Ostatní",
         "type_downloadable": "Stahovatelné",
-        "filter_group_accessibility_features": "Funkce usnadnění"
+        "filter_group_accessibility_features": "Funkce usnadnění",
+        "no_results_found": "Nebyly nalezeny žádné výsledky"
     },
     "collection": {
         "remove_confirm": "Jste si jistí, že chcete odebrat tuto položku z kolekce",
