@@ -849,8 +849,8 @@
             "new_password": "Parolă nouă"
         },
         "two_factor_auth": {
-            "status_off": "Off",
-            "status_on": "On",
+            "status_off": "Oprit",
+            "status_on": "Pornit",
             "tfa_status": "Status: {{tfa_status}}",
             "page_description": "Autentificarea în doi pași este un strat adițional de securitate pentru contul dvs pentru a prevenii accesul neautorizat în cazul în care vă este furată parola.",
             "learn_more_about_twofactor_authentication": "Învățați despre autentificare în doi pași",
@@ -887,7 +887,14 @@
         "save_credit_card_for_future_purchases": "Salvați cardul de credit pentru achizițiile viitoare",
         "buying_as": "Cumpără ca",
         "choose_a_card": "Alegeți un card",
-        "payment_error_help": "Dacă sunteți nesigur, vă rugăm să contactați <a>itch.io suport</a> cu mesajul de mai sus."
+        "payment_error_help": "Dacă sunteți nesigur, vă rugăm să contactați <a>itch.io suport</a> cu mesajul de mai sus.",
+        "credit_or_debit_card": "Card de credit sau debit",
+        "gift_instructions": "Această achiziție este un cadou. Veți putea furniza e-mailul destinatarului după finalizare.",
+        "password": "Parola",
+        "enter_your_password_to_use_your_card": "Introduceți parola pentru a vă folosi cardul",
+        "new_card": "Card nou",
+        "card_ending_last4": "Se termină în {{last4}}",
+        "edit_saved_cards": "Editează cardurile salvate"
     },
     "game_download": {
         "share_and_follow": "Distribuiți & urmăriți"
