@@ -927,9 +927,24 @@
         "new_card": "Uus kaart",
         "card_ending_last4": "Lõpeb numbritega {{last4}}",
         "edit_saved_cards": "Muuda salvestatud kaarte",
-        "choose_a_card": "Vali kaart"
+        "choose_a_card": "Vali kaart",
+        "name_as_it_appears_on_card": "Nagu on märgitud kaardil",
+        "full_name": "Täisnimi",
+        "youll_be_mailed_your_access_link": "Teile saadetakse e-posti teel juurdepääsulink",
+        "email": "E-post",
+        "linked_to_account": "Ühendatud kontoga",
+        "steam_key": "Steami võti",
+        "you_will_receive_files": "Teie saate:"
     },
     "buy_form_popup": {
         "author_line": "{{author}}<1>poolt</1>"
+    },
+    "game_download": {
+        "recommendations_title": "Teile võib huvi pakkuda veel",
+        "install_instructions_intro": "Allalaadimis- ja paigaldamisjuhised {{username}} poolt:",
+        "trouble_downloading_link": "Allalaadimine ei käivitu?",
+        "or_share_on": "või jagage",
+        "social_share_message_download": "Ma laadisin alla {{title}}, mille autoriks on {{username}}",
+        "share_and_follow": "Jaga & jälgi"
     }
 }
