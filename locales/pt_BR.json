@@ -725,7 +725,8 @@
             "clear_filter": "Limpar filtro"
         },
         "filter_everything_else": "Todo o resto",
-        "filter_group_player_count": "Número de jogadores"
+        "filter_group_player_count": "Número de jogadores",
+        "no_results_found": "Nenhum resultado encontrado"
     },
     "browse_tags": {
         "page_title": "Tags principais",
