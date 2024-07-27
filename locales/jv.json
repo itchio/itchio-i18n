@@ -1,7 +1,14 @@
 {
     "layout": {
         "header": {
-            "browse": "Browse"
+            "browse": "Browse",
+            "search": "Nggoleki",
+            "search_placeholder": "Telusuri game utawa pangripta",
+            "community": "Masyarakat",
+            "devlogs": "Log pangembang",
+            "upload_game": "Upload Game",
+            "game_jams": "Game macet",
+            "browse_games": "Browse Games"
         },
         "footer": {
             "cookies": "cookie",
