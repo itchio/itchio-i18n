@@ -339,6 +339,16 @@
         "shoot-em-up": "Стреляница",
         "hypercard": "HyperCard",
         "hacking": "Хакване",
-        "kickstarter": "Kickstarter"
+        "kickstarter": "Kickstarter",
+        "remake": "Римейк",
+        "perma-death": "Окончателна смърт",
+        "mechs": "Меха роботи",
+        "idle": "Бездействени",
+        "typing": "Писане на клавиатура",
+        "sprites": "Спрайтове",
+        "slice-of-life": "Парче от живота",
+        "runner": "Бяганица",
+        "nsfw": "Съдържание за възрастни",
+        "midi": "MIDI"
     }
 }
