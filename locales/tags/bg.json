@@ -208,7 +208,7 @@
         "tower-defense": "Защитни кули",
         "trading": "Търговия",
         "transgender": "Трансджендър",
-        "traps": "Къпани",
+        "traps": "Капани",
         "turn-based": "Походови",
         "turn-based-combat": "Походови битки",
         "turn-based-strategy": "Походови стратегии",
@@ -232,7 +232,7 @@
         "weapons": "Оръжия",
         "walking-simulator": "Симулатори на ходене",
         "vehicles": "Превозни средства",
-        "user-interface": "Потребителски интерфейс",
+        "user-interface": "Потребителски интерфейс (ПИ)",
         "two-player": "Двама играчи",
         "two-colors": "Два цвята",
         "tutorial": "Обучения",
@@ -336,6 +336,8 @@
         "svg": "SVG",
         "siren-head": "Siren Head",
         "sims-4": "Sims 4",
-        "shoot-em-up": "Стреляница"
+        "shoot-em-up": "Стреляница",
+        "hypercard": "HyperCard",
+        "hacking": "Хакване"
     }
 }
