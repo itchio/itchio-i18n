@@ -314,6 +314,23 @@
         "comics": "Комикси",
         "clicker": "Игра с кликане",
         "ciphers": "Шифри",
-        "characters": "Персонажи"
+        "characters": "Персонажи",
+        "roadtrip": "Пътешествие",
+        "puzzle-platformer": "Платформена игра с пъзели",
+        "png": "PNG",
+        "platformer": "Платформена игра",
+        "local-multiplayer": "Локална игра с други играчи",
+        "interactive-fiction": "Интерактивна фантастика",
+        "indie": "Инди",
+        "immersive": "Потапящи",
+        "high-score": "Висок резултат",
+        "heist": "Обир",
+        "doujinshi": "Доджинши",
+        "basketball": "Баскетбол",
+        "wav": "WAV",
+        "icons": "Икони",
+        "historical": "Исторически",
+        "hentai": "Хентай",
+        "gui": "Графичен потребителски интерфейс (ГПИ)"
     }
 }
