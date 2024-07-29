@@ -380,6 +380,19 @@
         "score-attack": "Стремеж за точки",
         "period-piece": "Историческа драма",
         "lewd": "Неприлично съдържание",
-        "forged-in-the-dark": "Forged in the Dark"
+        "forged-in-the-dark": "Forged in the Dark",
+        "supplement": "Добавка",
+        "speedrun": "Игрогонка (speedrun)",
+        "versus": "Опозиционна надпревара",
+        "gmless": "Игри без водещ (без game master)",
+        "liminal-space": "Лиминално пространство",
+        "lgbtqia": "ЛГБТКИА (ЛГБТСИА)",
+        "wobbly": "Игри с разтърсване",
+        "vector": "Векторни",
+        "tycoon": "Икономически симулатор",
+        "twin-stick-shooter": "Двустикова стреляница",
+        "osr": "Старошколски ренесанс (OSR)",
+        "one-shot": "Един дъх (без продължения, one-shot)",
+        "incremental": "Прогресивни"
     }
 }
