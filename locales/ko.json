@@ -718,7 +718,8 @@
             "clear_filter": "필터 초기화"
         },
         "filter_everything_else": "기타 등등",
-        "filter_group_player_count": "플레이어 수"
+        "filter_group_player_count": "플레이어 수",
+        "no_results_found": "결과 없음"
     },
     "browse_tags": {
         "page_title": "태그순",
