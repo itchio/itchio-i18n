@@ -896,10 +896,10 @@
         "name_as_it_appears_on_card": "Так же, как и на карте"
     },
     "game_download": {
-        "social_share_message_download": "Я только что скачал {{title}} от {{username}}",
+        "social_share_message_download": "Только что скачали {{title}} от {{username}}",
         "or_share_on": "или поделитесь в",
         "trouble_downloading_link": "Скачивание не началось?",
-        "recommendations_title": "Вам может быть интересно",
+        "recommendations_title": "Другие интересные проекты",
         "alternate_download": {
             "enable_alternate_download_mode": "Включить другой метод скачивания",
             "title": "Другой метод скачивания",
