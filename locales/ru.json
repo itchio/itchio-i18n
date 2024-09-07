@@ -995,7 +995,7 @@
             "view_entries_1": "Показать {{count}} проекта",
             "view_entries_2": "Показать {{count}} проектов",
             "countdown": {
-                "starts_in": "Начинается в",
+                "starts_in": "Начинается через",
                 "submissions_due_in": "Заявки закончатся через",
                 "voting_ends_in": "Голосование идёт до"
             },
