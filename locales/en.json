@@ -38,7 +38,8 @@
             "games": "Games",
             "feed_unseen_count": "{{count}} new",
             "feed_unseen_count_plural": "{{count}} new",
-            "feed": "Feed"
+            "feed": "Feed",
+            "skip_to_main_content": "Skip to main content"
         },
         "user_menu": {
             "explore": "Explore",
