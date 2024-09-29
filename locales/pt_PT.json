@@ -51,7 +51,7 @@
             "sales_bundles": "Promoções & pacotes",
             "new_project": "Submeter novo projeto",
             "dashboard": "Painel",
-            "game_jams": "Game jams",
+            "game_jams": "Game Jams",
             "recommendations": "Recomendações",
             "feed": "As minhas novidades",
             "library": "A minha biblioteca",
@@ -573,8 +573,8 @@
                 "paid": "Pago",
                 "free_or_donate": "{{money}} ou doar"
             },
-            "details_genre_info": "Seleciona a categoria que melhor descreve o teu jogo. Podes escolher géneros adicionais com as tags abaixo",
-            "details_tags_header": "Tags",
+            "details_genre_info": "Seleciona a categoria que melhor descreve o teu jogo. Podes escolher géneros adicionais com os marcadores abaixo",
+            "details_tags_header": "Marcadores",
             "details_genre_header": "Género",
             "embed_options_header": "Definições de incorporação",
             "access_control": {
@@ -807,7 +807,7 @@
         "agree_to_terms": "Ao completares o pagamento estás a concordar com os <1>Termos de Serviço</1> e a <2>Política de Privacidade</2>.",
         "included_files": "Ficheiros incluídos",
         "i_already_paid_for_this": "Já paguei por isto…",
-        "gift_email_instructions": "Após efetuares o pagamento, selecionarás o email para enviar o presente.",
+        "gift_email_instructions": "Após o pagamento, escolherás um e-mail para onde o presente será enviado.",
         "email_address_description": "A confirmação de pagamento será enviada para aqui",
         "your_email_address": "O teu endereço de e-mail",
         "download_this_product_by_purchasing_it_for": "Descarrega este produto comprando-o por {{price}} ou mais.",
@@ -893,7 +893,7 @@
             "privacy": "Privacidade",
             "press_access": "Acesso à Imprensa",
             "connected_accounts": "Contas conectadas",
-            "email_notifications": "Notificações de email",
+            "email_notifications": "Notificações por e-mail",
             "billing_address": "Morada de faturação",
             "credit_cards": "Cartões de crédito",
             "payout_mode": "Modo de pagamento",
@@ -901,7 +901,7 @@
             "payment_processors": "Processadores de pagamento",
             "revenue_sharing": "Partilha de receitas",
             "publisher_get_started": "Começa aqui",
-            "support_email": "Email de suporte",
+            "support_email": "E-mail de suporte",
             "two_factor_auth": "Dois fatores",
             "email_addresses": "Endereços de e-mail",
             "password": "Palavra-passe",
@@ -918,24 +918,24 @@
         "email_addresses": {
             "additional_emails": {
                 "verified_column": "Verificado",
-                "email_sent_status": "Email enviado",
-                "email_column": "Endereço de Email",
-                "emails_added_header": "Emails adicionados",
+                "email_sent_status": "e-mail enviado",
+                "email_column": "E-mail",
+                "emails_added_header": "E-mails adicionados",
                 "detach_email": "Desassociar e-mail",
                 "resend_verification_email_button": "reenviar e-mail de verificação"
             },
             "add_email_form": {
-                "add_email_button": "Adicionar Email",
+                "add_email_button": "Adicionar E-mail",
                 "additional_email_address_label": "Endereço de e-mail adicional"
             },
-            "additional_emails_instructions": "Será-te enviado um email com instruções de verificação após adicionar um email adicional.",
+            "additional_emails_instructions": "Ser-te-á enviado um e-mail com instruções de verificação após vinculares um e-mail adicional.",
             "change_email_form": {
                 "current_password": "Palavra-passe atual",
-                "new_email_address": "Novo endereço de email"
+                "new_email_address": "Novo endereço de e-mail"
             },
-            "additional_emails_summary": "Podes vincular endereços de e-mail adicionais à tua conta itch.io para teres acesso a qualquer coisa adquirida nesses mesmos endereços. Por exemplo, a tua conta PayPal pode ter um endereço de e-mail diferente do que o que usas normalmente por isso poderás querer ter o mesmo como e-mail adicional.",
+            "additional_emails_summary": "Podes vincular endereços de e-mail adicionais à tua conta itch.io para teres acesso a qualquer coisa adquirida com esses mesmos endereços. Por exemplo, a tua conta PayPal pode ter um endereço de e-mail diferente do que o que usas normalmente, por isso poderás querer tê-lo como e-mail adicional.",
             "additional_emails_header": "E-mails adicionais",
-            "change_password_instructions": "Quando alteras o teu endereço de e-mail, terás de o verificar para acederes a quaisquer jogos que tenhas comprado. Ser-te-ão enviadas as instruções de verificação. Por razões de segurança, terás ainda de fornecer a tua palavra-passe atual para fazeres alterações ao teu endereço de e-mail.",
+            "change_password_instructions": "Quando alteras o teu endereço de e-mail, tens de o verificar para acederes a quaisquer jogos que tenhas comprado. Ser-te-ão enviadas as instruções de verificação. Por razões de segurança, terás ainda de fornecer a tua palavra-passe atual para fazeres alterações ao teu endereço de e-mail.",
             "primary_email_description": "O teu e-mail principal é para onde o itch.io enviará quaisquer notificações tuas.",
             "your_primary_email_address": "O endereço do teu e-mail principal: {{email}}",
             "primary_email_header": "E-mail principal"
@@ -970,8 +970,8 @@
     "browse_tags": {
         "no_description_yet": "Ainda não tem descrição",
         "commonly_tagged_with": "Habitualmente marcado com",
-        "find_tag": "Encontrar tag",
-        "page_title": "Tags principais",
+        "find_tag": "Encontrar marcador",
+        "page_title": "Marcadores principais",
         "all_tags": "Todos os marcadores",
         "types": {
             "tool": "Ferramentas",
@@ -997,15 +997,15 @@
         "type_downloadable": "Transferível",
         "filter_group_type": "Tipo",
         "filter_group_accessibility_features": "Recursos de acessibilidade",
-        "filter_group_multiplayer": "Recursos multiplayer",
+        "filter_group_multiplayer": "Recursos de multijogador",
         "filter_group_session_length": "Duração média de sessão",
         "filter_group_input_methods": "Métodos de entrada",
         "filter_group_when": "Quando",
-        "filter_by_tag": "Filtrar por tag",
-        "view_all_tags": "Ver todas as tags",
+        "filter_by_tag": "Filtrar por marcador",
+        "view_all_tags": "Ver todos os marcadores",
         "filter_group_platform": "Plataforma",
         "tag": {
-            "suggest_description_for_this_tag": "Sugerir descrição para esta tag",
+            "suggest_description_for_this_tag": "Sugerir descrição para este marcador",
             "suggest_updated_description": "Sugerir uma descrição atualizada",
             "no_description_yet": "Ainda não tem descrição"
         },
@@ -1020,7 +1020,7 @@
         "sort_top_rated": "Melhor Avaliados",
         "sort_top_sellers": "Mais Vendidos",
         "sort_new_and_popular": "Novo e Popular",
-        "sort_popular": "Popular",
+        "sort_popular": "Populares",
         "results_count": "{{count}} resultado",
         "results_count_plural": "{{count}} resultados",
         "no_results_found": "Nenhum resultado encontrado",
@@ -1042,8 +1042,8 @@
         "payment_error": "Ocorreu um erro ao processar o pagamento:",
         "pay_price_button": "Pagar {{price}}",
         "full_name": "Nome completo",
-        "youll_be_mailed_your_access_link": "Será lhe enviado um email com o um link de acesso",
-        "email": "Email",
+        "youll_be_mailed_your_access_link": "Ser-te-á enviado um e-mail com o teu link de acesso",
+        "email": "E-mail",
         "name_as_it_appears_on_card": "Como aparece no cartão",
         "linked_to_account": "Vinculado à conta",
         "steam_key": "Chave Steam",
@@ -1200,9 +1200,9 @@
             "linked_user_message": "Esta compra está vinculada à conta {{username}}.",
             "percent_off": "{{percent}}% de desconto",
             "link_purchase_links": "<1>Criar uma conta</1> ou <2>iniciar sessão em itch.io</2> para vincular instantaneamente esta compra.",
-            "payment_summary_with_email": "Pagaste por isto a {{payment_date}} por {{payment_price}} com o email {{email_address}}.",
+            "payment_summary_with_email": "Pagaste {{payment_price}} por isto a {{payment_date}} com o e-mail {{email_address}}.",
             "payment_summary": "Pagaste por isto a {{payment_date}} por {{payment_price}}.",
-            "receipt_support_information": "Deves ter também recebido um email com um link para esta página. Se alguma vez perderes o URL para esta página podes pedir para que te seja enviado por email a partir da <a>página de suporte</a>.",
+            "receipt_support_information": "Deverás também ter recebido um e-mail com um link para esta página. Caso percas o URL desta página, poderás pedir para que te seja enviado por e-mail a partir da <a>página de suporte</a>.",
             "access_latest_files_from_this_page": "Podes sempre aceder aos ficheiros mais recentes através desta página.",
             "unique_url_for_your_payment": "Esta página tem um URL único para o teu pagamento.",
             "thank_you_for_donating_author": "Obrigado pelo donativo a {{product_title}} de {{author}}.",
@@ -1227,7 +1227,7 @@
         "version_name": "Versão {{version_name}}",
         "share_and_follow": "Partilhar & seguir",
         "email_capture": {
-            "provide_email_instructions": "Insere o teu endereço de email para vinculá-lo à tua compra para que possas recuperá-la se perderes esta página.",
+            "provide_email_instructions": "Insere o teu endereço de e-mail para o vinculares à tua compra para que possas recuperá-la caso percas esta página.",
             "dont_lose_your_purchase": "Não percas a tua compra!"
         },
         "access_comes_with_key": "O teu acesso vem com uma chave {{key_type}}!",
@@ -1249,7 +1249,7 @@
             "get_the_app": "Obtém a aplicação"
         },
         "preorder_instructions": "Este projeto tem ficheiros que ainda não foram lançados. Volta a esta página quando o criador tiver lançado os ficheiros para poderes descarregá-los.",
-        "check_your_email_for_the_confirmation_link": "Verifica o teu email pelo link de confirmação.",
+        "check_your_email_for_the_confirmation_link": "Verifica a receção do link de confirmação no teu e-mail.",
         "alternate_download": {
             "region_message": "Algumas regiões podem bloquear o CDN do itch.io. Se os teus downloads não iniciarem podes tentar ativar o modo de download alternativo e tentar novamente.",
             "title": "Modo de Download Alternativo",
@@ -1299,14 +1299,14 @@
     },
     "user": {
         "verify_email": {
-            "page_title": "Verifica o teu endereço de email",
-            "you_will_automatically_be_logged_in": "Vais entrar automaticamente na tua conta quando verificares o teu endereço de email.",
-            "link_purchases": "Se já fizeste compras apenas com o teu endereço de email, elas serão automaticamente associadas à tua conta.",
-            "confirm_verification": "Por favor confirma o endereço de email {{email_address}} da conta {{account}}. É necessário verificar o teu email para teres acesso a várias funcionalidades no itch.io.",
-            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Não podes verificar um endereço de email enquanto tens sessão iniciada noutra conta",
-            "your_email_address_has_been_verified": "O teu endereço de email foi verificado",
-            "we_were_unable_to_verify_your_email_address": "Não foi possível verificar o teu endereço de email",
-            "submit_button": "Confirmar verificação de email"
+            "page_title": "Verifica o teu endereço de e-mail",
+            "you_will_automatically_be_logged_in": "Vais entrar automaticamente na tua conta quando verificares o teu endereço de e-mail.",
+            "link_purchases": "Se já fizeste compras apenas usando o teu endereço de e-mail, elas serão automaticamente associadas à tua conta.",
+            "confirm_verification": "Por favor, confirma o endereço de e-mail {{email_address}} da conta {{account}}. É necessário verificares o teu e-mail para teres acesso a várias funcionalidades no itch.io.",
+            "error_you_can_not_verify_an_email_address_when_logged_into_a_different_account": "Não podes verificar um endereço de e-mail enquanto tens sessão iniciada noutra conta",
+            "your_email_address_has_been_verified": "O teu endereço de e-mail foi verificado",
+            "we_were_unable_to_verify_your_email_address": "Não foi possível verificar o teu endereço de e-mail",
+            "submit_button": "Confirmar verificação de e-mail"
         }
     },
     "notifications": {
@@ -1331,7 +1331,7 @@
             "add_a_profile_image": "Adicionar uma imagem de perfil"
         },
         "email_warning": {
-            "verify_your_email_address": "Verifica o teu endereço de email"
+            "verify_your_email_address": "Verifica o teu endereço de e-mail"
         },
         "event_filter_label": "Filtro:",
         "upload_a_game_button": "Carregar um jogo",
@@ -1347,7 +1347,7 @@
             "to_rate_description": "Aqui estão algumas coisas com as quais interagiste, mas não avaliaste.",
             "projects_to_rate_header": "Projetos para avaliar"
         },
-        "featured_tags_header": "Tags em destaque",
+        "featured_tags_header": "Marcadores em destaque",
         "latest_featured_games_header": "Últimos jogos em destaque",
         "filter_devlogs_tab": "Logs de Desenvolvedor",
         "filter_collections_tab": "Coleções",
@@ -1394,11 +1394,11 @@
         "please_provide_a_new_password_for_account": "Por favor introduz uma senha nova para a conta {{account_name}}.",
         "link_sent": "Um link para repor a tua senha foi enviado para o endereço primário da tua conta.",
         "reset_password": "Repor senha",
-        "enter_your_email": "Insere o endereço de email com que te registraste e nós enviamos-te um link para repor a tua senha."
+        "enter_your_email": "Insere o endereço de e-mail com que te registaste e nós enviar-te-emos um link para repores a tua palavra-passe."
     },
     "nags": {
         "unverified_email": {
-            "title": "O teu endereço de email não está verificado"
+            "title": "O teu endereço de e-mail não está verificado"
         }
     }
 }
