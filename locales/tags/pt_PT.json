@@ -356,6 +356,17 @@
         "otome": "Otome",
         "osr": "OSR",
         "one-shot": "Sessão única",
-        "one-page": "Uma página"
+        "one-page": "Uma página",
+        "virtual-reality": "Realidade Virtual (VR)",
+        "virtual-pet": "Animal Virtual",
+        "violent": "Violento",
+        "vampire": "Vampiro",
+        "swords": "Espadas",
+        "steampunk": "Steampunk",
+        "soccer": "Futebol",
+        "slasher": "Slasher",
+        "skeletons": "Esqueletos",
+        "skating": "Skating",
+        "side-scroller": "Side Scroller"
     }
 }
