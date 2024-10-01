@@ -213,6 +213,15 @@
         "hypercard": "HyperCard",
         "horror": "Terror",
         "horrible": "Horrível",
-        "homebrew": "Jogo Caseiro"
+        "homebrew": "Jogo Caseiro",
+        "on-rails-shooter": "On-Rails Shooter",
+        "nsfw": "Não é seguro para o trabalho",
+        "norse": "Nórdico",
+        "non-violent": "Não-violento",
+        "non-linear": "Não-linear",
+        "midi": "MIDI",
+        "metroidvania": "Metroidvania",
+        "lovecraft": "Terror Lovecraftiano",
+        "liminal-space": "Espaço Liminar"
     }
 }
