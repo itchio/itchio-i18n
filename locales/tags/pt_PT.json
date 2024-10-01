@@ -385,6 +385,11 @@
         "walking-simulator": "Simulador de Caminhada",
         "voice-acting": "Atuação de Voz",
         "visualization": "Visualização",
-        "visual-novel": "Romance Visual"
+        "visual-novel": "Romance Visual",
+        "zombies": "Zombies",
+        "zero-gravity": "Gravidade Zero",
+        "yuri": "Yuri",
+        "war": "Guerra",
+        "voxel": "Voxel"
     }
 }
