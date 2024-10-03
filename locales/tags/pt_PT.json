@@ -213,8 +213,8 @@
         "hypercard": "HyperCard",
         "horror": "Terror",
         "horrible": "Horrível",
-        "homebrew": "Jogo Caseiro",
-        "on-rails-shooter": "Atirador On Rails",
+        "homebrew": "Criado por Fãs",
+        "on-rails-shooter": "Tiros em Calha",
         "nsfw": "Não é seguro para o trabalho",
         "norse": "Nórdico",
         "non-violent": "Não-violento",
@@ -252,7 +252,7 @@
         "time-travel": "Viagem no Tempo",
         "time-attack": "Contra o Tempo",
         "tilemap": "Mapa de Mosaicos",
-        "tileset": "Grupo de Mosaicos",
+        "tileset": "Set de Mosaicos",
         "thriller": "Suspense",
         "third-person-shooter": "Tiros em Terceira Pessoa",
         "third-person": "Terceira Pessoa",
@@ -325,7 +325,7 @@
         "relaxing": "Relaxante",
         "real-time-strategy": "Estratégia em Tempo Real",
         "real-time": "Tempo Real",
-        "railroad": "História Linear",
+        "railroad": "Ferrovia",
         "racing": "Corrida",
         "queer": "Queer",
         "pvp": "PvP",
@@ -355,7 +355,7 @@
         "painting": "Pintura",
         "otome": "Otome",
         "osr": "OSR",
-        "one-shot": "Sessão única",
+        "one-shot": "Sessão Única",
         "one-page": "Uma página",
         "virtual-reality": "Realidade Virtual (RV)",
         "virtual-pet": "Animal Virtual",
@@ -390,6 +390,8 @@
         "zero-gravity": "Gravidade Zero",
         "yuri": "Yuri",
         "war": "Guerra",
-        "voxel": "Voxel"
+        "voxel": "Voxel",
+        "kickstarter": "Kickstarter",
+        "itchfunding": "Financiamento no Itch"
     }
 }
