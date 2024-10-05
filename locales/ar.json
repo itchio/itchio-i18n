@@ -747,7 +747,8 @@
         "results_count_3": "{{count}} نتيجة",
         "results_count_4": "{{count}} نتيجة",
         "results_count_5": "{{count}}",
-        "filter_group_player_count": "عدد اللاعبين"
+        "filter_group_player_count": "عدد اللاعبين",
+        "no_results_found": "لم يتم العثور على نتائج"
     },
     "user_settings": {
         "profile": {
