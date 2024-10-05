@@ -704,7 +704,8 @@
         },
         "filter_everything_else": "其他",
         "fresh_description": "瀏覽由我們成員持續更新的精選專案。敬請再次來訪查看新增的內容。",
-        "filter_group_player_count": "玩家數量"
+        "filter_group_player_count": "玩家數量",
+        "no_results_found": "未找到结果"
     },
     "user_settings": {
         "navigation": {
@@ -968,12 +969,12 @@
                 "private_field": "（私人的）"
             },
             "rated_by_people_count": "由 {{count}} 人評分",
-            "rated_by_people_count_plural": "到目前為止，由 {{count}} 人評分",
+            "rated_by_people_count_plural": "由{{count}}人评定至今",
             "time_remaining_before_deadline": "截止前剩餘 {{time_duration}}",
             "ranked_with_vote_count": "以 {{count}} 票排名 {{ordinal_rank}}",
             "results_header": "結果",
             "ranked_from_count": "根據 <s>{{count}} 個評分</s>排名。",
-            "ranked_from_count_plural": "排名自 <s>{{count}} 評級</s>。",
+            "ranked_from_count_plural": "排名来自 <s>{{count}} 评级</s>。",
             "score_information": "分數是根據賽事評分的中位數由原始分數調整而來。",
             "run_project": "執行專案",
             "play_game": "遊玩",
