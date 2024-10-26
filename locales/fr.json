@@ -26,7 +26,7 @@
             "jams": "Jams",
             "notifications_count": "{{count}} notification",
             "notifications_count_plural": "{{count}} notifications",
-            "no_notifications": "Pas de notifications",
+            "no_notifications": "Pas de nouvelle notification",
             "free_games": "Jeux gratuits",
             "indie_game_store": "Magasin de jeux indés",
             "game_development": "Développement de jeux vidéos",
