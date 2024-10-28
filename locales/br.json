@@ -112,7 +112,10 @@
         "intro_cta": "<1>Ouzhpennit ho c'hoari</1> pe <2>Lennit FAG</2>",
         "html5_games": "C'hoarioù HTML5",
         "page_title": "Pellgargit ar c'hoarioù dizalc'h diwezhañ",
-        "meta_description": "Un doare eeun da gavout , da bellgargañ ha da rannañ c'hoarioù dizalc'h enlinenn eo itch.io. Mard oc'h un diorroer a fell dezhañ pe dezhi uskargañ ho c'hoari pe just unan bennak a glask un dra bennak nevez evit c'hoari gantañ emaoc'h el lec'h mat."
+        "meta_description": "Un doare eeun da gavout , da bellgargañ ha da rannañ c'hoarioù dizalc'h enlinenn eo itch.io. Mard oc'h un diorroer a fell dezhañ pe dezhi uskargañ ho c'hoari pe just unan bennak a glask un dra bennak nevez evit c'hoari gantañ emaoc'h el lec'h mat.",
+        "to_follow": {
+            "created_projects": "Krouet {{project_list}}"
+        }
     },
     "misc": {
         "classifications": {
@@ -165,7 +168,10 @@
             "required": "Azgoulennet",
             "save": "Enrollañ",
             "email_address": "Chomlec'h postel",
-            "submit": "Kinnig"
+            "submit": "Kinnig",
+            "confirm": "Kadarnaat",
+            "search": "Klask",
+            "optional": "Diret"
         },
         "page_number": "Pajenn {{page_number}}",
         "follow_button": {
@@ -193,7 +199,8 @@
             "next_page": "Pajenn da heul",
             "prev": "Kent",
             "next": "Da-heul",
-            "current_page_of_total": "Pajenn {{current_page}} war {{total_pages}}"
+            "current_page_of_total": "Pajenn {{current_page}} war {{total_pages}}",
+            "first_page": "Pajenn kentañ"
         },
         "collection_button": {
             "add_to_collection": "Ouzhpennañ d'un dastumad"
@@ -532,7 +539,7 @@
             "delete_topic": "Dilemel an danvez",
             "delete": "Dilemel",
             "report": "Danevelliñ",
-            "ban": "Forbannañ...",
+            "ban": "Forbannañ…",
             "view_more_in_thread": "Gwelout ar gaozeadenn a-bezh",
             "vote_up": "Mouezhiañ evit",
             "vote_down": "Mouezhiañ a-enep",
@@ -695,6 +702,34 @@
             "billing_address": "Chomlec'h fakturenniñ",
             "email_notifications": "Rebuzadurioù dre bostel",
             "connected_accounts": "Kontoù kennasket"
+        },
+        "profile": {
+            "account_type_developer": "Diorroĩn ha ezkargañ c'hoarioù",
+            "account_type_gamer": "C'hoariñ ha pellgargañ c'hoarioù",
+            "language": "Yezh"
+        },
+        "password": {
+            "new_password": "Ger-tremen nevez",
+            "password": "Ger-tremen"
+        }
+    },
+    "library": {
+        "gift_button": "Profañ",
+        "page_title": "Ma C'hoariaoueg",
+        "nav_header": "C'hoariaoueg",
+        "download_button": "Pellgargañ"
+    },
+    "jams": {
+        "jam_calendar_header": "Jam Deiziadur",
+        "page_title": "Game Jams war itch.io"
+    },
+    "jam": {
+        "header": {
+            "links": {
+                "overview": "Gwel a-vras",
+                "results": "Disoc'hoù",
+                "community": "Kumuniezh"
+            }
         }
     }
 }
