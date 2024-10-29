@@ -731,5 +731,27 @@
                 "community": "Kumuniezh"
             }
         }
+    },
+    "dashboard": {
+        "edit_project": {
+            "access_control": {
+                "password_label": "Ger-tremen"
+            }
+        },
+        "hello": "Demat !",
+        "stats": {
+            "followers": "Heulierien"
+        },
+        "create_new_project_button": "Krouĩn ur raktres nevez",
+        "header": {
+            "game_jams_link": "Game Jams",
+            "projects_link": "Raktresoù"
+        },
+        "intro_text": "Krouer·ez o'ch ? Uskargit ho c'hoari kentañ"
+    },
+    "feed": {
+        "event_filter_label": "Sil :",
+        "my_feed_tab": "Ma lanv",
+        "global_feed_tab": "Lanv hollek"
     }
 }
