@@ -114,7 +114,8 @@
         "page_title": "Pellgargit ar c'hoarioù dizalc'h diwezhañ",
         "meta_description": "Un doare eeun da gavout , da bellgargañ ha da rannañ c'hoarioù dizalc'h enlinenn eo itch.io. Mard oc'h un diorroer a fell dezhañ pe dezhi uskargañ ho c'hoari pe just unan bennak a glask un dra bennak nevez evit c'hoari gantañ emaoc'h el lec'h mat.",
         "to_follow": {
-            "created_projects": "Krouet {{project_list}}"
+            "created_projects": "Krouet {{project_list}}",
+            "refresh_button": "Freskaat evit muioc'h"
         }
     },
     "misc": {
@@ -200,7 +201,8 @@
             "prev": "Kent",
             "next": "Da-heul",
             "current_page_of_total": "Pajenn {{current_page}} war {{total_pages}}",
-            "first_page": "Pajenn kentañ"
+            "first_page": "Pajenn kentañ",
+            "previous_page": "Pajenn a-raok"
         },
         "collection_button": {
             "add_to_collection": "Ouzhpennañ d'un dastumad"
@@ -219,7 +221,8 @@
         "project_visibility": {
             "restricted": "Strishaet",
             "published": "Embannet",
-            "draft": "Brouilhed"
+            "draft": "Brouilhed",
+            "public": "Foran"
         },
         "view_more": "Gwelout muioc'h",
         "dismiss": "Argas",
@@ -260,7 +263,8 @@
             "collection": "Ezhomm ho po ur gont itch.io evit ouzhpennañ en un dastumadeg.",
             "jam_submit": "Ezhomm ho po ur gont itch.io evit kinnig c'hoarioù d'un jam.",
             "claim_object": "Kennaskit pe krouit ur gont evit goulenn ar {{noun}}",
-            "recent_purchases": "Kennaskit evit liammañ ho prenadennoù diwezhañ."
+            "recent_purchases": "Kennaskit evit liammañ ho prenadennoù diwezhañ.",
+            "claim_object_title": "Kennaskit pe krouit ur gont evit goulenn {{title}}."
         },
         "no_account_prompt": "Kont ebet? <1>Krouit ur gont</1>",
         "page_title": "Kennaskañ",
@@ -385,7 +389,8 @@
             "leave_a_comment": "Ouzhpennañ un evezhiadenn",
             "click_to_leave_a_comment": "Klikit evit leuskel un evezhiadenn…",
             "log_in_to_leave_comment": "<a>Kennaskit gant itch.io</a> evit leuskel un evezhiadenn.",
-            "post_comment": "Embann un evezhiadenn"
+            "post_comment": "Embann un evezhiadenn",
+            "write_your_comment": "Skrivit ho evezhiadenn…"
         },
         "info_panel": {
             "updated_at": "Hizivaet",
@@ -492,6 +497,10 @@
             "see_everything": "Gwelet pep tra",
             "powered_by": "<s>Lusket gant</s> {{itchio_logo}}",
             "app_learn_more": "<s>Nevez!</s> Klaskit an arload burev itch.io nevez evit pellgargañ ha merañ ho c'hoariaoueg. <a>Gouzout hiroc'h</a>"
+        },
+        "report_form": {
+            "reason_label": "Abeg",
+            "description_label": "Deskrivadur"
         }
     },
     "community": {
@@ -556,7 +565,8 @@
             "subscribe_to_this_topic": "Koumanantiñ d'an danvez",
             "subscribe_description": "Kaout rebuzadurioù evit respontoù nevez d'an danvez",
             "tag_header": "Skritellig",
-            "remove_tag": "Tennañ ar skritellig"
+            "remove_tag": "Tennañ ar skritellig",
+            "post_reply": "Embann ar respont"
         },
         "new_topic": {
             "moderator_tools": "Ostilhoù merañ",
@@ -570,7 +580,42 @@
             "title": "Titl",
             "body": "Korfoù",
             "topic_tag": "Skritellig",
-            "your_moderators_are": "itch.io na gerreizh ket ket ar foromoù, ar gerreizherien a zo:"
+            "your_moderators_are": "itch.io na gerreizh ket ket ar foromoù, ar gerreizherien a zo:",
+            "page_title": "Embann un danvez nevez"
+        },
+        "topic_list": {
+            "list_header_topic_title": "Danvez",
+            "locked_flag": "Prennet",
+            "sticky_flag": "Spilhennet",
+            "new_flag": "Nevez",
+            "started_by_author": "krouet gant {{topic_author}}",
+            "replies_count_0": "<s>{{count}}</s> respont",
+            "replies_count_1": "<s>{{count}}</s> respont",
+            "replies_count_2": "<s>{{count}}</s> respont",
+            "replies_count_3": "<s>{{count}}</s> a respontoù",
+            "replies_count_4": "<s>{{count}}</s> respont"
+        },
+        "category": {
+            "by_topic_author": "gant {{username}}",
+            "archived_flag": "Diellaouet",
+            "new_flag": "Nevez",
+            "list_header_last_topic": "Danvez diwezhañ",
+            "rules_header": "Reolennoù",
+            "stats": {
+                "topics": "Danvezioù"
+            },
+            "unsubscribe_from_topics": "Digoumanantiñ",
+            "subscribe_to_new_topics": "Koumanantiñ d'an danvezioù",
+            "search_community_label": "Klask",
+            "create_first_topic_button": "Krouiñ an danvez kentañ",
+            "topics_count_0": "{{count}} danvez",
+            "topics_count_1": "{{count}} danvez",
+            "topics_count_2": "{{count}} danvez",
+            "topics_count_3": "{{count}} a danvezioù",
+            "topics_count_4": "{{count}} danvez"
+        },
+        "misc": {
+            "new_topic_button": "Danvez nevez"
         }
     },
     "buy_form": {
@@ -667,13 +712,18 @@
             "toggle_more_options": "Gwelout muioc'h a zibarzhioù",
             "clear_filter": "Skarzhañ ar siloù"
         },
-        "filter_everything_else": "An holl draoù all"
+        "filter_everything_else": "An holl draoù all",
+        "filter_group_player_count": "Niver a c'hoarierien"
     },
     "browse_tags": {
         "page_title": "Skritelligoù pennañ",
         "find_tag": "Klask ur skritellig",
         "commonly_tagged_with": "Peurvuiañ gant ur skritellig",
-        "no_description_yet": "Deskrivadur ebet evit poent"
+        "no_description_yet": "Deskrivadur ebet evit poent",
+        "types": {
+            "event": "Darvoudoù",
+            "platform": "Savennoù"
+        }
     },
     "buy_form_popup": {
         "author_line": "<1>gant</1> {{author}}",
