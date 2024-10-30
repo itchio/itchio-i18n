@@ -756,11 +756,32 @@
         "profile": {
             "account_type_developer": "Diorroĩn ha ezkargañ c'hoarioù",
             "account_type_gamer": "C'hoariñ ha pellgargañ c'hoarioù",
-            "language": "Yezh"
+            "language": "Yezh",
+            "profile": "Aelad",
+            "username": "Anv arveriad",
+            "page_header": "Aelad",
+            "website": "Lec'hienn internet"
         },
         "password": {
             "new_password": "Ger-tremen nevez",
-            "password": "Ger-tremen"
+            "password": "Ger-tremen",
+            "current_password": "Ger-tremen a vremañ"
+        },
+        "two_factor_auth": {
+            "tfa_status": "Statud : {{tfa_status}}"
+        },
+        "email_addresses": {
+            "additional_emails": {
+                "email_sent_status": "postel kaset",
+                "email_column": "Chomlec'h postel",
+                "emails_added_header": "Chomlec'hioù postel ouzhpennet"
+            },
+            "change_email_form": {
+                "current_password": "Ger-tremen a vremañ",
+                "new_email_address": "Chomlec'h postel nevez"
+            },
+            "your_primary_email_address": "Ho chomlec'h postel pennañ : {{email}}",
+            "primary_email_header": "Chomlec'h postel pennañ"
         }
     },
     "library": {
@@ -780,28 +801,65 @@
                 "results": "Disoc'hoù",
                 "community": "Kumuniezh"
             }
+        },
+        "submission": {
+            "rate_submission": {
+                "private_field": "(prevez)"
+            },
+            "play_game": "C'hoariñ"
+        },
+        "submissions": {
+            "filter": "Sil"
         }
     },
     "dashboard": {
         "edit_project": {
             "access_control": {
                 "password_label": "Ger-tremen"
-            }
+            },
+            "project_url_field": "URL ar rasktres",
+            "create_a_new_project_title": "Krouiñ ur raktres nevez"
         },
         "hello": "Demat !",
         "stats": {
-            "followers": "Heulierien"
+            "followers": "Heulierien",
+            "payments": "Paeamantoù"
         },
         "create_new_project_button": "Krouĩn ur raktres nevez",
         "header": {
             "game_jams_link": "Game Jams",
-            "projects_link": "Raktresoù"
+            "projects_link": "Raktresoù",
+            "coop_bundles_link": "Pakadoù koop",
+            "sales_bundles_link": "Distaolioù ha pakadoù",
+            "payments_link": "Paeamantoù"
         },
-        "intro_text": "Krouer·ez o'ch ? Uskargit ho c'hoari kentañ"
+        "intro_text": "Krouer·ez o'ch ? Uskargit ho c'hoari kentañ",
+        "new_devlog": "Devlog nevez"
     },
     "feed": {
         "event_filter_label": "Sil :",
         "my_feed_tab": "Ma lanv",
         "global_feed_tab": "Lanv hollek"
+    },
+    "notifications": {
+        "filter_payments": "Paeamantoù"
+    },
+    "game_download": {
+        "header": {
+            "download_title": "Pellgargañ {{project_title}}",
+            "invoice": "Fakturenn"
+        },
+        "version_name": "Handelv {{version_name}}",
+        "start_project_button": "Kregiñ",
+        "play_in_your_browser": "C'hoariñ en ho merdeer",
+        "social_share_message_download": "O paouez pellgarget {{title}} gant {{username}} emaon"
+    },
+    "stripe_checkout": {
+        "full_name": "Anv klok",
+        "email": "Chomlec'h postel",
+        "steam_key": "Alc'hwez Steam",
+        "pay_price_button": "Paeañ {{price}}",
+        "password": "Ger-tremen",
+        "choose_a_card": "Dibabit ur gartenn"
     }
 }
