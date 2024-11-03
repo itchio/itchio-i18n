@@ -597,7 +597,12 @@
             "replies_count_3": "<s>{{count}}</s> a respontoù",
             "replies_count_4": "<s>{{count}}</s> respont",
             "no_replies_yet": "N'eus ket respont ebet",
-            "no_posts_yet": "N'eus ket embannadenn ebet"
+            "no_posts_yet": "N'eus ket embannadenn ebet",
+            "views_count_0": "<s>{{count}}</s> gwel",
+            "views_count_1": "<s>{{count}}</s> gwel",
+            "views_count_2": "<s>{{count}}</s> gwel",
+            "views_count_3": "<s>{{count}}</s> a weloù",
+            "views_count_4": "<s>{{count}}</s> gwel"
         },
         "category": {
             "by_topic_author": "gant {{username}}",
@@ -838,7 +843,9 @@
         "hello": "Demat !",
         "stats": {
             "followers": "Heulierien",
-            "payments": "Paeamantoù"
+            "payments": "Paeamantoù",
+            "following": "Koumanantoù",
+            "views": "Gweloù"
         },
         "create_new_project_button": "Krouĩn ur raktres nevez",
         "header": {
@@ -858,7 +865,9 @@
         "event_filter_label": "Sil :",
         "my_feed_tab": "Ma lanv",
         "global_feed_tab": "Lanv hollek",
-        "filter_posts_tab": "Embannadennoù"
+        "filter_posts_tab": "Embannadennoù",
+        "filter_collections_tab": "Dastumadoù",
+        "filter_new_projects_tab": "Raktresoù nevez"
     },
     "notifications": {
         "filter_payments": "Paeamantoù",
@@ -893,5 +902,18 @@
             "page_title": "Gwiriañ ho chomlec'h postel",
             "submit_button": "Kadarnait gwiriadur ar chomlec'h postel"
         }
+    },
+    "add_to_collection": {
+        "default_title": "Dastumad {{username}}",
+        "about_this_project_label": "Diwar-benn ar raktres-mañ",
+        "add_button": "Ouzhpennañ d'un dastumad",
+        "count_items_0": "{{count}} elfenn",
+        "count_items_1": "{{count}} elfenn",
+        "count_items_2": "{{count}} elfenn",
+        "count_items_3": "{{count}} a elfennoù",
+        "count_items_4": "{{count}} elfenn",
+        "private_collection_title": "[Prevez] {{title}}",
+        "add_reason": "Ouzhpenn ar raktres-mañ d'un dastumad evit gwareziñ anezhañ da-heul.",
+        "dialog_title": "Ouzhpennañ {{project_title}} d'un dastumad"
     }
 }
