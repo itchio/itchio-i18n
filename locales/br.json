@@ -61,7 +61,8 @@
             "recommendations": "Erbedadennoù",
             "library": "Ma c'hoariaoueg",
             "feed": "Ma lanv",
-            "account_menu_tooltip": "Lañser kont"
+            "account_menu_tooltip": "Lañser kont",
+            "posts": "Embannadennoù"
         }
     },
     "index": {
@@ -612,7 +613,8 @@
             "topics_count_1": "{{count}} danvez",
             "topics_count_2": "{{count}} danvez",
             "topics_count_3": "{{count}} a danvezioù",
-            "topics_count_4": "{{count}} danvez"
+            "topics_count_4": "{{count}} danvez",
+            "recent_posts_header": "Embannadennoù nevesañ"
         },
         "misc": {
             "new_topic_button": "Danvez nevez"
