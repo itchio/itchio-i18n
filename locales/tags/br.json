@@ -17,6 +17,17 @@
         "2d": "2D",
         "singleplayer": "Ur c'hoarier",
         "local-multiplayer": "Liesc'hoarier lec'hel",
-        "multiplayer": "Liesc'hoarier"
+        "multiplayer": "Liesc'hoarier",
+        "archery": "Gwaregata",
+        "arcade": "Arcade",
+        "anime": "Anime",
+        "animation": "Bevaat",
+        "altgame": "C'hoari dazeilat",
+        "alternate-history": "Istor all",
+        "aliens": "Aliens",
+        "adventure": "Avantur",
+        "adult": "Oadour",
+        "abstract": "Difetis",
+        "8-bit": "8 bits"
     }
 }
