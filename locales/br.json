@@ -594,7 +594,9 @@
             "replies_count_1": "<s>{{count}}</s> respont",
             "replies_count_2": "<s>{{count}}</s> respont",
             "replies_count_3": "<s>{{count}}</s> a respontoù",
-            "replies_count_4": "<s>{{count}}</s> respont"
+            "replies_count_4": "<s>{{count}}</s> respont",
+            "no_replies_yet": "N'eus ket respont ebet",
+            "no_posts_yet": "N'eus ket embannadenn ebet"
         },
         "category": {
             "by_topic_author": "gant {{username}}",
@@ -820,7 +822,8 @@
                 "password_label": "Ger-tremen"
             },
             "project_url_field": "URL ar rasktres",
-            "create_a_new_project_title": "Krouiñ ur raktres nevez"
+            "create_a_new_project_title": "Krouiñ ur raktres nevez",
+            "community_field": "Kumuniezh"
         },
         "hello": "Demat !",
         "stats": {
@@ -836,12 +839,16 @@
             "payments_link": "Paeamantoù"
         },
         "intro_text": "Krouer·ez o'ch ? Uskargit ho c'hoari kentañ",
-        "new_devlog": "Devlog nevez"
+        "new_devlog": "Devlog nevez",
+        "blog_posts": {
+            "new_post": "Embannadenn nevez"
+        }
     },
     "feed": {
         "event_filter_label": "Sil :",
         "my_feed_tab": "Ma lanv",
-        "global_feed_tab": "Lanv hollek"
+        "global_feed_tab": "Lanv hollek",
+        "filter_posts_tab": "Embannadennoù"
     },
     "notifications": {
         "filter_payments": "Paeamantoù"
