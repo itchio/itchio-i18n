@@ -72,7 +72,7 @@
         "download_app": "Pellgargañ an arload",
         "view_something_random": "Gwelout un dra bennak dre zegouezh",
         "view_all_games": "Gwelout an holl c'hoarioù",
-        "dont_see_anything_you_like": "N'eus netra a blij deoc'h?",
+        "dont_see_anything_you_like": "N'eus netra a blij deoc'h ?",
         "from_the_blog": "Tennet eus ar blog",
         "random_game": "C'hoari dre zegouezh",
         "get_the_app": "<s>Tennit gounid eus itch.io!</s> Stailhit ha merit ho c'hoarioù gant hor arload burev",
@@ -253,7 +253,7 @@
             "or": "pe",
             "log_in_button": "Kennaskañ"
         },
-        "looking_for_something_you_bought": "Klask a rit un dra bennak ho peus prenet?",
+        "looking_for_something_you_bought": "Klask a rit un dra bennak ho peus prenet ?",
         "create_a_new_account": "Krouiñ ur gont nevez",
         "intent": {
             "community": "Ret e vo deoc'h kennaskañ evit kemer perzh e kumuniezhioù itch.io. Digoust eo krouiñ ur gont ha ne gemer ket kalz amzer.",
@@ -270,17 +270,18 @@
         "no_account_prompt": "Kont ebet? <1>Krouit ur gont</1>",
         "page_title": "Kennaskañ",
         "you_are_logged_out": "Digennasket oc'h",
-        "welcome_back": "Donemat en-dro!",
-        "welcome_to_itchio": "Donemat war itch.io!",
+        "welcome_back": "Donemat en-dro !",
+        "welcome_to_itchio": "Donemat war itch.io !",
         "errors": {
-            "accept_terms": "Ret eo deoc'h asantiñ an termenoù arver"
+            "accept_terms": "Ret eo deoc'h asantiñ an termenoù arver",
+            "please_enter_a_valid_email_address": "Enkasit ur chomlec'h postel gwiriek mar plij"
         }
     },
     "user_register": {
         "create_an_account_on_itchio": "Krouiñ ur gont war itch.io",
         "register_form": {
             "create_account": "Krouiñ ur gont",
-            "already_have_account": "pe ur gont ho peus endeo?",
+            "already_have_account": "pe ur gont ho peus endeo ?",
             "log_in": "Kennaskañ",
             "link_product": "Ho prenadenn <1>{{product}}</1> a vo liammet d'ho kont ent emgefreek ur wech ma vo krouet.",
             "accept_tos": "Asantiñ a ran d'an <1>termenoù arver</1>",
@@ -313,13 +314,13 @@
         "learn_more": "Gouzout hiroc'h",
         "browser_game_description": "Dastumit arc'hant gant ho c'hoari merdeer en ur herberc'hiañ anezhañ war <s>itch.io</s>. Ebarzhet eo ar c'hoari er merdeer hag ar c'hoarierien a c'hall reiñ ar c'hementad arc'hant a fell dezho ma plij dezho ho c'hoari.",
         "upload_your_game_description": "Uskargit ho c'hoari dizalc'h war <s>itch.io</s> evit netra. Herberc'hiañ a reomp ho c'hoari, a-gevred gant ho tapadennoù-skramm ha pellgargadennoù all. Ho pellgargadennoù a zo atav hegerz ha prim.",
-        "learn_more_about": "Gouzout hiroc'h war:",
+        "learn_more_about": "Gouzout hiroc'h war :",
         "share_message": "Un doare eeun da zasparzhañ ho c'hoarioù dizalc'h digoust eo itch.io.",
         "create_account_or_login": "<1>Krouiñ ur gont</1> <em>pe</em> <2>Kennaskañ</2>",
         "upload_or_dashboard": "<1>Uskargañ ur c'hoari nevez</1> <em>pe</em> <2>Mont d'an taolenn-stur</2>"
     },
     "search": {
-        "creators": "Krouerien:",
+        "creators": "Krouerien :",
         "published_count_0": "{{count}} raktres",
         "published_count_1": "{{count}} raktres",
         "published_count_2": "{{count}} raktres",
@@ -581,7 +582,7 @@
             "title": "Titl",
             "body": "Korfoù",
             "topic_tag": "Skritellig",
-            "your_moderators_are": "itch.io na gerreizh ket ket ar foromoù, ar gerreizherien a zo:",
+            "your_moderators_are": "itch.io na gerreizh ket ar foromoù, ar gerreizherien a zo :",
             "page_title": "Embann un danvez nevez"
         },
         "topic_list": {
@@ -758,7 +759,7 @@
             "connected_accounts": "Kontoù kennasket"
         },
         "profile": {
-            "account_type_developer": "Diorroĩn ha ezkargañ c'hoarioù",
+            "account_type_developer": "Diorroĩn hag uskargañ c'hoarioù",
             "account_type_gamer": "C'hoariñ ha pellgargañ c'hoarioù",
             "language": "Yezh",
             "profile": "Aelad",
@@ -772,20 +773,29 @@
             "current_password": "Ger-tremen a vremañ"
         },
         "two_factor_auth": {
-            "tfa_status": "Statud : {{tfa_status}}"
+            "tfa_status": "Statud : {{tfa_status}}",
+            "configure_twofactor_authentication": "Ardremmezañ aotentikadur daou faktor",
+            "page_title": "Aotentikadur daou faktor"
         },
         "email_addresses": {
             "additional_emails": {
                 "email_sent_status": "postel kaset",
                 "email_column": "Chomlec'h postel",
-                "emails_added_header": "Chomlec'hioù postel ouzhpennet"
+                "emails_added_header": "Chomlec'hioù postel ouzhpennet",
+                "verified_column": "Gwiriet",
+                "detach_email": "Distagañ ar chomlec'h postel"
             },
             "change_email_form": {
                 "current_password": "Ger-tremen a vremañ",
                 "new_email_address": "Chomlec'h postel nevez"
             },
             "your_primary_email_address": "Ho chomlec'h postel pennañ : {{email}}",
-            "primary_email_header": "Chomlec'h postel pennañ"
+            "primary_email_header": "Chomlec'h postel pennañ",
+            "additional_emails_header": "Chomlech'ioù postel ouzhpenn",
+            "add_email_form": {
+                "additional_email_address_label": "Chomlec'hioù postel ouzhpenn",
+                "add_email_button": "Ouzhpennañ ar chomlec'h postel"
+            }
         }
     },
     "library": {
@@ -841,7 +851,7 @@
         "intro_text": "Krouer·ez o'ch ? Uskargit ho c'hoari kentañ",
         "new_devlog": "Devlog nevez",
         "blog_posts": {
-            "new_post": "Embannadenn nevez"
+            "new_post": "Kemennadenn nevez"
         }
     },
     "feed": {
@@ -851,7 +861,10 @@
         "filter_posts_tab": "Embannadennoù"
     },
     "notifications": {
-        "filter_payments": "Paeamantoù"
+        "filter_payments": "Paeamantoù",
+        "filter_replies": "Respontoù",
+        "filter": "Silioù",
+        "unseen_label": "Nevez"
     },
     "game_download": {
         "header": {
@@ -870,5 +883,15 @@
         "pay_price_button": "Paeañ {{price}}",
         "password": "Ger-tremen",
         "choose_a_card": "Dibabit ur gartenn"
+    },
+    "user_forgot_password": {
+        "reset_password": "Adderaouĩn ar ger-tremen"
+    },
+    "user": {
+        "verify_email": {
+            "your_email_address_has_been_verified": "Gwiriet eo bet ho chomlec'h postel",
+            "page_title": "Gwiriañ ho chomlec'h postel",
+            "submit_button": "Kadarnait gwiriadur ar chomlec'h postel"
+        }
     }
 }
