@@ -794,7 +794,7 @@
             "display_name_description": "Name to be shown in place of your username, leave blank to default to username",
             "website": "Website",
             "website_description": "Optional URL to be shown on your profile page",
-            "twitter_description": "Twitter account to show on your profile",
+            "twitter_description": "Optional Twitter account to show on your profile",
             "account_type": "Account type",
             "account_type_description": "How will you use your account",
             "account_type_gamer": "Playing and downloading games",
