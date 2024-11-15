@@ -26,7 +26,7 @@
             "jams": "Jams",
             "notifications_count": "{{count}} notification",
             "notifications_count_plural": "{{count}} notifications",
-            "no_notifications": "Pas de notifications",
+            "no_notifications": "Pas de nouvelle notification",
             "free_games": "Jeux gratuits",
             "indie_game_store": "Magasin de jeux indés",
             "game_development": "Développement de jeux vidéos",
@@ -1037,7 +1037,7 @@
             "password": "Mot de passe",
             "new_password": "Nouveau mot de passe",
             "please_set_a_password_on_your_account": "Veuillez définir un mot de passe pour votre compte pour renforcer sa sécurité et son accès sans aucun service tiers.",
-            "no_password_service_name": "Votre compte n’as pas de mot de passe car vous vous êtes enregistré avec {{service_name}}.",
+            "no_password_service_name": "Votre compte n'a pas de mot de passe car vous vous êtes enregistré avec {{service_name}}.",
             "your_account_currently_doesnt_have_a_password": "Votre compte n’a pas de mot de passe.",
             "updating_your_password_will_cause": "Mettre à jour votre mot de passe causera la déconnexion de toutes vos autres sessions via navigateur. Vos <a>connexions via OAuth et clés d’API</a> resteront actives."
         },

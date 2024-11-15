@@ -484,7 +484,7 @@
             "ranked_with_vote_count_plural": "Classificato {{ordinal_rank}} con {{count}} voti",
             "results_header": "Risultati",
             "ranked_from_count": "Classificato in base a <s>{{count}} valutazione</s>.",
-            "ranked_from_count_plural": "Classificato in base a <s> {{count}} valutazioni </s>.",
+            "ranked_from_count_plural": "Classificato da <s>{{count}} valutazioni</s>.",
             "score_information": "La classifica è regolata da un punteggio grezzo ad un numero medio di recensioni per gioco della jam.",
             "run_project": "Esegui il progetto",
             "play_game": "Gioca",
@@ -1078,8 +1078,8 @@
     "browse_tags": {
         "no_description_yet": "Ancora non c'è nessuna descrizione",
         "commonly_tagged_with": "Comunemente taggato con",
-        "find_tag": "Cerca un etichetta",
-        "page_title": "Top delle etichette",
+        "find_tag": "Trova un'etichetta",
+        "page_title": "Etichette più alte",
         "all_tags": "Tutte le etichette",
         "types": {
             "tool": "Strumenti",
@@ -1131,7 +1131,8 @@
         "sort_popular": "Popolare",
         "results_count": "{{count}} risultato",
         "results_count_plural": "{{count}} risultati",
-        "filter_group_player_count": "Numero di giocatori"
+        "filter_group_player_count": "Numero di giocatori",
+        "no_results_found": "Nessun risultato trovato"
     },
     "collection": {
         "remove_confirm": "Sei davvero sicuro di voler rimuoverlo dalla collezione",

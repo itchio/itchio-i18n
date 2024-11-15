@@ -33,7 +33,7 @@
         "chicken": "Ayam",
         "christmas": "Natal",
         "city-builder": "Membangun Kota",
-        "casual": "Kasual",
+        "casual": "Santai",
         "character-customization": "Kustomisasi Karakter",
         "classes": "Kelas Karakter",
         "co-op": "Main Kolaborasi",
@@ -328,6 +328,7 @@
         "cartoon": "Kartun",
         "buttons": "Tombol",
         "brain-training": "Melatih Otak",
-        "bara": "Bara"
+        "bara": "Bara",
+        "basketball": "Bola Basket"
     }
 }

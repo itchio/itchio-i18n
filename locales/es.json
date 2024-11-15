@@ -1221,7 +1221,9 @@
         "sort_new_and_popular": "Nuevo & popular",
         "sort_popular": "Popular",
         "results_count": "{{count}} resultado",
-        "results_count_plural": "{{count}} resultados"
+        "results_count_plural": "{{count}} resultados",
+        "no_results_found": "No se encontraron resultados",
+        "filter_group_player_count": "Número de jugadores"
     },
     "buy_form_popup": {
         "powered_by_itchio": "Con tecnología de {{itchio}}",

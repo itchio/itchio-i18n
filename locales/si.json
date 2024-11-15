@@ -1,0 +1,31 @@
+{
+    "layout": {
+        "header": {
+            "game_assets": "වත්කම්",
+            "sales": "විකුණුම්",
+            "game_development": "පරිගණක ක්‍රීඩා සංවර්ධනය",
+            "free_games": "පරිගණක ක්‍රීඩා (නොමිලේ)",
+            "no_notifications": "නව දැනුම්දීම් නැත",
+            "notifications_count": "{{count}} දැනුම්දීම",
+            "notifications_count_plural": "{{count}} දැනුම්දීම්",
+            "jams": "තරඟ",
+            "register": "ලියාපදිංචි වෙන්න",
+            "log_in": "ලොග් වන්න",
+            "search": "සොයන්න",
+            "search_placeholder": "පරිගණක ක්‍රීඩා හෝ නිර්මාණකරුවන් සොයන්න",
+            "community": "ප්‍රජාව",
+            "devlogs": "සංවර්ධක ලඝු-සටහන්",
+            "upload_game": "පරිගණක ක්‍රීඩා උඩුගත කරන්න",
+            "game_jams": "පරිගණක ක්‍රීඩා තරඟ",
+            "fun_games": "විනෝදාත්මක පරිගණක ක්‍රීඩා"
+        },
+        "footer": {
+            "blog": "බ්ලොග්",
+            "faq": "නිති අසන පැණ",
+            "directory": "නාමාවලිය",
+            "terms": "කොන්දේසි",
+            "contact_us": "අපව අමතන්න",
+            "about": "ගැන"
+        }
+    }
+}
