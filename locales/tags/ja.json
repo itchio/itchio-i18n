@@ -328,7 +328,7 @@
         "indie": "インディーズ",
         "immersive": "没入感",
         "idle": "放置",
-        "endless-runner": "エンドレス",
+        "endless-runner": "エンドレスランナー",
         "ciphers": "暗号",
         "celtic": "ケルト風",
         "buttons": "ボタン",
@@ -361,6 +361,7 @@
         "one-shot": "ワンショット",
         "midi": "MIDI",
         "doujinshi": "同人誌",
-        "basketball": "バスケットボール"
+        "basketball": "バスケットボール",
+        "fanzine": "ファンジン"
     }
 }
