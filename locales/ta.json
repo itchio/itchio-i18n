@@ -3,7 +3,7 @@
         "user_menu": {
             "view_profile": "சுயவிவரம் காண்",
             "settings": "அமைப்புகள்",
-            "log_out": "வெளியேறு",
+            "log_out": "விடுபதிகை",
             "create": "உருவாக்கு",
             "explore": "ஆராயுங்கள்",
             "library": "என் நூலகம்",
@@ -36,7 +36,7 @@
             "notifications_count_plural": "{{count}} அறிவிப்புகள்",
             "jams": "விளையாட்டுகளை செய்யும் போட்டி",
             "dashboard": "முகப்புப்பெட்டி",
-            "register": "பதிவு செய்",
+            "register": "பதிவு",
             "log_in": "புகுபதிகை",
             "search": "தேடு",
             "search_placeholder": "குறிச்சொல், சேம்சு, விளையாட்டுகளுக்கு அல்லது உருவாக்கியவர்களுக்குத் தேடு",
@@ -49,7 +49,7 @@
             "skip_to_main_content": "முக்கிய உள்ளடக்கத்திற்கு செல்க"
         },
         "footer": {
-            "cookies": "இணையதள குக்கீகள்",
+            "cookies": "குக்கீகள்",
             "privacy": "தனியுரிமை",
             "directory": "விவரப்பத்தகம்",
             "terms": "விதிமுறைகள்",
@@ -1136,7 +1136,7 @@
         "filter_group_multiplayer": "மல்டிபிளேயர் நற்பொருத்தங்கள்",
         "sort": "வரிசைப்படுத்து",
         "sort_new_and_popular": "புதிய & பிரபலமான",
-        "no_results_found": "முடிவுகள் எதுவும் கிடைக்கவில்லை"
+        "no_results_found": "முடிவுகள் எதுவும் இல்லை"
     },
     "developers": {
         "learn_more_about": "இன்னும் அறிந்து கொள்ள:",
