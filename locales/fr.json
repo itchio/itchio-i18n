@@ -18,7 +18,7 @@
             "upload_game": "Mettre en ligne un jeu",
             "devlogs": "Journaux du développeur",
             "community": "Communauté",
-            "search_placeholder": "Rechercher des jeux ou des créateurs",
+            "search_placeholder": "Rechercher des jeux, jams, tags ou créateurs",
             "search": "Rechercher",
             "log_in": "Se connecter",
             "register": "S’inscrire",
@@ -38,7 +38,8 @@
             "games": "Jeux",
             "feed_unseen_count": "{{count}} non lu",
             "feed_unseen_count_plural": "{{count}} non lus",
-            "feed": "Flux"
+            "feed": "Flux",
+            "skip_to_main_content": "Sauter au contenu principal"
         },
         "user_menu": {
             "explore": "Explorer",
@@ -1012,7 +1013,7 @@
             "display_name_description": "Nom à afficher à la place de votre nom d’utilisateur, laissez vide pour utiliser votre nom d’utilisateur",
             "website": "Site internet",
             "website_description": "Une adresse URL optionnelle à afficher sur votre page de profil",
-            "twitter_description": "Compte Twitter à afficher sur votre profil",
+            "twitter_description": "Compte Twitter optionnel à afficher sur votre profil",
             "account_type": "Type de compte",
             "account_type_description": "Comment vous allez utiliser votre compte",
             "account_type_gamer": "Jouer et télécharger des jeux",
