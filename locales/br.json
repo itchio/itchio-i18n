@@ -16,9 +16,9 @@
             "browse_games": "C'hoarioù",
             "game_jams": "Game Jams",
             "upload_game": "Uskargañ ur c'hoari",
-            "devlogs": "Developer",
+            "devlogs": "Marilhoù an diorroer",
             "community": "Kumuniezh",
-            "search_placeholder": "Klask c'hoarioù pe krouerien",
+            "search_placeholder": "Klask c'hoarioù, jams, skritelligoù pe krouerien",
             "search": "Klask",
             "log_in": "Kennaskañ",
             "register": "Marilhañ",
@@ -66,7 +66,7 @@
         }
     },
     "index": {
-        "popular_tags": "Skritelligoù personelaet",
+        "popular_tags": "Skritelligoù brudet",
         "browse": "Merdeiñ",
         "games_by_price": "C'hoarioù dre briz",
         "download_app": "Pellgargañ an arload",
@@ -557,7 +557,8 @@
             "deleted_account": "Kont dilamet",
             "suspended_account": "Kont ehanet",
             "pinned_reply": "Respont spilhennet",
-            "pinned_post": "Embannadenn spilhennet"
+            "pinned_post": "Embannadenn spilhennet",
+            "edited": "(kemmet)"
         },
         "post_form": {
             "add_profile_image": "Ouzhpennañ ur skeudenn aelad",
@@ -732,8 +733,12 @@
         "no_description_yet": "Deskrivadur ebet evit poent",
         "types": {
             "event": "Darvoudoù",
-            "platform": "Savennoù"
-        }
+            "platform": "Savennoù",
+            "tool": "Binvioù",
+            "style": "Stiloù",
+            "genre": "Seurtoù"
+        },
+        "all_tags": "An holl strikelligoù"
     },
     "buy_form_popup": {
         "author_line": "<1>gant</1> {{author}}",
@@ -807,7 +812,10 @@
         "gift_button": "Profañ",
         "page_title": "Ma C'hoariaoueg",
         "nav_header": "C'hoariaoueg",
-        "download_button": "Pellgargañ"
+        "download_button": "Pellgargañ",
+        "nav": {
+            "my_purchases": "Ma frenadennoù"
+        }
     },
     "jams": {
         "jam_calendar_header": "Jam Deiziadur",
@@ -818,7 +826,8 @@
             "links": {
                 "overview": "Gwel a-vras",
                 "results": "Disoc'hoù",
-                "community": "Kumuniezh"
+                "community": "Kumuniezh",
+                "edit_jam": "Kemmañ ar jam"
             }
         },
         "submission": {
@@ -838,7 +847,25 @@
             },
             "project_url_field": "URL ar rasktres",
             "create_a_new_project_title": "Krouiñ ur raktres nevez",
-            "community_field": "Kumuniezh"
+            "community_field": "Kumuniezh",
+            "details_section_header": "Munudoù",
+            "classification_field": "Rummatadur",
+            "short_description_field": "Deskrivadur bihan pe lugan",
+            "title_field": "Titl",
+            "edit_project_title": "Kemmañ ar raktres",
+            "community_comments": "Evezhiadennoù",
+            "community_disabled": "Diweredekaet",
+            "tip_label": "Tun",
+            "types": {
+                "downloadable": "Da bellgargañ"
+            },
+            "classification_other": "All",
+            "details_tags_header": "Skritelligoù",
+            "details_genre_header": "Seurt",
+            "delete_game_button": "Dilemel ar c'hoari",
+            "custom_noun_field": "Anv personelaet",
+            "description_field": "Deskrivadur",
+            "kind_of_project_field": "Stumm ar raktres"
         },
         "hello": "Demat !",
         "stats": {
@@ -859,6 +886,9 @@
         "new_devlog": "Devlog nevez",
         "blog_posts": {
             "new_post": "Kemennadenn nevez"
+        },
+        "project_list": {
+            "edit": "Kemmañ"
         }
     },
     "feed": {
@@ -878,12 +908,18 @@
     "game_download": {
         "header": {
             "download_title": "Pellgargañ {{project_title}}",
-            "invoice": "Fakturenn"
+            "invoice": "Fakturenn",
+            "view_all_my_purchases": "Gwelout ma holl brenadennoù"
         },
         "version_name": "Handelv {{version_name}}",
         "start_project_button": "Kregiñ",
         "play_in_your_browser": "C'hoariñ en ho merdeer",
-        "social_share_message_download": "O paouez pellgarget {{title}} gant {{username}} emaon"
+        "social_share_message_download": "O paouez pellgarget {{title}} gant {{username}} emaon",
+        "get_external_key": "Kaout an alc'hwez {{key_type}}",
+        "log_in_to_link": "Kennaskañ evit liammañ",
+        "link_my_account": "Liammañ ma c'hont",
+        "or_share_on": "pe rannañ war",
+        "share_and_follow": "Rannañ ha heuliañ"
     },
     "stripe_checkout": {
         "full_name": "Anv klok",
