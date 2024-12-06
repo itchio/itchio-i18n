@@ -89,7 +89,7 @@
             "register": "注册",
             "log_in": "登录",
             "search": "搜索",
-            "search_placeholder": "搜索游戏或创作者",
+            "search_placeholder": "搜索游戏、Jam、标签或创作者",
             "community": "社区",
             "devlogs": "开发日志",
             "upload_game": "上传游戏",
@@ -99,7 +99,8 @@
             "feed_unseen_count": "{{count}}条新动态",
             "fun_games": "小游戏",
             "dashboard": "创作中心",
-            "game_jams": "Game Jam"
+            "game_jams": "Game Jam",
+            "skip_to_main_content": "跳转到主要内容"
         },
         "footer": {
             "cookies": "Cookie 条款",
@@ -906,7 +907,7 @@
             "ranked_with_vote_count": "以{{count}}个投票排名第{{ordinal_rank}}",
             "results_header": "结果",
             "ranked_from_count": "依据<s>{{count}}个评分</s>排名。",
-            "ranked_from_count_plural": "排名依据<s>{{count}}个评分</s>。",
+            "ranked_from_count_plural": "依据<s>{{count}}个评分</s>排名。",
             "score_information": "最终得分将基于原始分数根据本次 Jam 中所有游戏的得分中位数而调整。",
             "run_project": "运行项目",
             "play_game": "开始游戏",
@@ -1154,8 +1155,8 @@
             "account_type_gamer": "游玩和下载游戏",
             "account_type_description": "账号使用目的",
             "account_type": "账号类型",
-            "twitter_description": "个人资料页面上展示的 Twitter 账号",
-            "website_description": "可选，将在个人资料页面上显示",
+            "twitter_description": "个人资料页面上显示的 Twitter 账号（选填）",
+            "website_description": "个人资料页面上显示的网址（选填）",
             "website": "网站",
             "display_name_description": "显示名称会代替您的用户名，留空默认为用户名",
             "display_name": "显示名称",
@@ -1298,7 +1299,7 @@
         "forms": {
             "form_errors": "请检查您提供的信息",
             "search": "搜索",
-            "optional": "可选",
+            "optional": "选填",
             "submit": "提交",
             "email_address": "电子邮箱",
             "save": "保存",
