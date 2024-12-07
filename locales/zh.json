@@ -439,7 +439,7 @@
         "blurb_author_says": "{{author}} 说",
         "edit_blurb": "编辑简介",
         "add_a_blurb": "添加简介",
-        "remove_item_button": "删除…",
+        "remove_item_button": "删除……",
         "page_title": "{{collection_title}} - {{author}} 的收藏夹",
         "a_collection_by_author": "{{author}} 的收藏夹",
         "pending_invitation": "您有一个待处理的成为此收藏夹贡献者的邀请。<a>查看邀请</a>",
@@ -464,7 +464,7 @@
         "this_purchase_is_a_gift": "此次购买是一份礼物",
         "agree_to_terms": "完成付款即表示您同意 itch.io 的 <1>服务条款</1>和<2>隐私政策</2>。",
         "included_files": "包含的文件",
-        "i_already_paid_for_this": "我已经为此付了钱…",
+        "i_already_paid_for_this": "我已经为此付了钱……",
         "gift_email_instructions": "付款后，您将选择一个电子邮件发送礼物。",
         "email_address_description": "付款确认信息将会发送到这个邮箱",
         "your_email_address": "您的邮箱地址",
@@ -513,7 +513,7 @@
             "empty_message": "没有主题",
             "create_first_topic_button": "创建第一个主题",
             "topics_count": "{{count}}个主题",
-            "view_this_communitys_rules": "查看社区规则…"
+            "view_this_communitys_rules": "查看社区规则……"
         },
         "misc": {
             "new_topic_button": "新主题"
@@ -554,7 +554,7 @@
             "vote_down": "反对",
             "vote_up": "支持",
             "view_more_in_thread": "查看更多",
-            "ban": "封禁…",
+            "ban": "封禁……",
             "report": "举报",
             "delete": "删除",
             "delete_topic": "删除主题",
@@ -611,7 +611,7 @@
             "submit_report_button": "提交举报",
             "email_creator_link": "给创作者发送电子邮件",
             "support_page_link": "跳转到官方支持页面",
-            "support_from_creator": "您是否遇到问题，需要创作者的支持？",
+            "support_from_creator": "您是否遇到问题，需要创作者的协助？",
             "form_description": "如果您需要就本页内容联系 itch.io 管理团队，请填写此表格。必要时，您的报告可能会与该页面的创建者共享。"
         },
         "after_download": {
@@ -718,15 +718,15 @@
             "updated_at": "更新于"
         },
         "comments": {
-            "write_your_comment": "写下您的评论…",
+            "write_your_comment": "写下您的评论……",
             "post_comment": "发表评论",
             "log_in_to_leave_comment": "<a>登录 itch.io</a> 以发表评论。",
-            "click_to_leave_a_comment": "点击发表评论…",
+            "click_to_leave_a_comment": "点击发表评论……",
             "leave_a_comment": "发表评论",
             "leave_a_comment_header": "发表评论",
             "comments_header": "评论"
         },
-        "empty_page_no_uploads": "创作者尚未上传任何内容…",
+        "empty_page_no_uploads": "创作者尚未上传任何内容……",
         "donate_button": "支持此{{noun}}",
         "steam_key_bundle_disclaimer": "（注意：{{bundle_title}} 中不包含 Steam 序列号）",
         "your_purchase_comes_with_a_steam_key": "您的购买会附带一份 Steam 序列号。",
@@ -753,7 +753,7 @@
         "download_header": "下载",
         "install_instructions": "安装说明",
         "more_information": "更多信息",
-        "empty_page": "这里似乎没有任何东西…"
+        "empty_page": "这里似乎没有任何东西……"
     },
     "app": {
         "meta_description": "itch，下载和游玩独立游戏的最佳方式。在桌面上下载免费游戏、管理游戏库。现已支持 Windows、macOS 和 Linux。",
@@ -876,7 +876,7 @@
     },
     "jam": {
         "screenshots": {
-            "loading_more": "正在加载更多截图…",
+            "loading_more": "正在加载更多截图……",
             "empty_message": "还没有任何截图被上传"
         },
         "submission": {
@@ -1158,7 +1158,7 @@
             "twitter_description": "个人资料页面上显示的 Twitter 账号（选填）",
             "website_description": "个人资料页面上显示的网址（选填）",
             "website": "网站",
-            "display_name_description": "显示名称会代替您的用户名，留空默认为用户名",
+            "display_name_description": "将代替您的用户名而显示，留空则默认为用户名",
             "display_name": "显示名称",
             "profile_image_description": "将会与您的名字一起显示在网站上（方形尺寸）",
             "profile_image": "头像",
@@ -1231,8 +1231,8 @@
         }
     },
     "misc": {
-        "loading_more_ellip": "正在加载更多…",
-        "more_ellip": "更多…",
+        "loading_more_ellip": "正在加载更多……",
+        "more_ellip": "更多……",
         "errors": {
             "server_error": "服务器无法响应，请稍后再试"
         },
