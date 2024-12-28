@@ -108,7 +108,7 @@
             "seconds": "сек"
         },
         "view_more": "Докладніше",
-        "dismiss": "Відхилити",
+        "dismiss": "Не цікаво",
         "release_statuses": {
             "released": "Випущено",
             "in_development": "У стадії розробки",
@@ -173,10 +173,10 @@
     },
     "browse_tags": {
         "commonly_tagged_with": "Зазвичай використовується з",
-        "page_title": "Популярні теґи",
-        "find_tag": "Знайти теґ",
+        "page_title": "Популярні теги",
+        "find_tag": "Знайти тег",
         "no_description_yet": "Поки що немає опису",
-        "all_tags": "Усі теґи",
+        "all_tags": "Усі теги",
         "types": {
             "tool": "Інструменти",
             "event": "Події",
@@ -201,9 +201,9 @@
             "browse": "Огляд",
             "game_jams": "Ігрові джеми",
             "upload_game": "Вивантажити гру",
-            "devlogs": "Журнали розробника",
+            "devlogs": "Журнали розробників",
             "community": "Спільнота",
-            "search_placeholder": "Пошук ігор чи творців",
+            "search_placeholder": "Пошук ігор, джемів, тегів або творців",
             "jams": "Джеми",
             "no_notifications": "Немає нових сповіщень",
             "sales": "Розпродажі",
@@ -226,7 +226,8 @@
             "feed_unseen_count_0": "{{count}} новина",
             "feed_unseen_count_1": "{{count}} новини",
             "feed_unseen_count_2": "{{count}} новин",
-            "dashboard": "Панель"
+            "dashboard": "Панель",
+            "skip_to_main_content": "Пропустити до головного вмісту"
         },
         "user_menu": {
             "explore": "Дослідити",
@@ -248,7 +249,7 @@
         }
     },
     "index": {
-        "popular_tags": "Популярні теґи",
+        "popular_tags": "Популярні теги",
         "browse": "Огляд",
         "games_by_price": "Ігри за ціною",
         "download_app": "Завантажити застосунок",
@@ -260,7 +261,7 @@
         "from_the_itchio_blog": "Дещо з блогу itch.io",
         "view_all_blog_posts": "Переглянути всі оновлення",
         "search_games_creators": "Пошук ігор та авторів",
-        "browse_all_tags": "Оглянути всі теґи",
+        "browse_all_tags": "Оглянути всі теги",
         "on_sale": "Розпродаж",
         "free_games": "Безплатні ігри",
         "top_sellers": "Хіти продажів",
@@ -287,7 +288,7 @@
             "all_games": "Усі ігри",
             "bundles": "Комплекти",
             "game_jams": "Ігрові джеми",
-            "devlogs": "Журнали розробника",
+            "devlogs": "Журнали розробників",
             "community": "Спільнота"
         },
         "intro": "<s>itch.io</s> — це простий спосіб знаходити інді-ігри та ділитися ними онлайн безплатно.",
@@ -308,7 +309,7 @@
         "updates": "Оновлення",
         "digest": "Дайджест",
         "empty_message": "Схоже, тут немає жодного допису",
-        "tag_filter": "Фільтрація за: {{tag}}. <a>Прибрати теґ</a>"
+        "tag_filter": "Фільтрація за: {{tag}}. <a>Прибрати тег</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "Вхід до облікового запису itch.io",
@@ -391,7 +392,7 @@
     },
     "search": {
         "creators": "Творці:",
-        "view_all_tags": "Переглянути всі теґи",
+        "view_all_tags": "Переглянути всі теги",
         "browse_all_games": "Оглянути всі ігри",
         "search_results_for_query": "Результати пошуку для '{{query}}'",
         "published_count_0": "{{count}} проєкт",
@@ -475,7 +476,7 @@
             "author": "Автор",
             "genre": "Жанр",
             "made_with_tools": "Зроблено з",
-            "tags": "Теґи",
+            "tags": "Теги",
             "code_license": "Ліцензія на код",
             "asset_license": "Ліцензія на ресурси",
             "average_session_duration": "Середній час гри",
@@ -519,7 +520,7 @@
             "edit_your_rating": "Змінити свою оцінку",
             "edit_rating": "Змінити оцінку",
             "rate": "Оцінити",
-            "rate_this_noun": "Оцінити {{noun}}",
+            "rate_this_noun": "Оцінити: {{noun}}",
             "rate_for_jam": "Оцінити для {{jam_title}}",
             "submission_to_jam": "Подання на {{jam_title}}",
             "related_games": "Схожі ігри",
@@ -646,8 +647,8 @@
             "subscribe": "Підписатися",
             "subscribe_to_this_topic": "Підписатися на цю тему",
             "subscribe_description": "Отримувати сповіщення про нові відповіді на тему",
-            "tag_header": "Теґ",
-            "remove_tag": "Прибрати теґ",
+            "tag_header": "Тег",
+            "remove_tag": "Прибрати тег",
             "post_reply": "Відповісти"
         },
         "new_topic": {
@@ -661,7 +662,7 @@
             "see_community_guidelines": "Політика спільноти itch.io описана у <a>Керівні принципи спільноти</a>.",
             "title": "Заголовок",
             "body": "Повідомлення",
-            "topic_tag": "Теґ",
+            "topic_tag": "Тег",
             "your_moderators_are": "itch.io не модерує ці форуми, це роблять ваші модератори:",
             "page_title": "Створити нову тему"
         },
@@ -723,11 +724,11 @@
         "tag": {
             "no_description_yet": "Поки що немає опису",
             "suggest_updated_description": "Запропонувати оновлений опис",
-            "suggest_description_for_this_tag": "Запропонувати опис для цього теґу"
+            "suggest_description_for_this_tag": "Запропонувати опис для цього тегу"
         },
         "filter_group_platform": "Платформа",
-        "view_all_tags": "Переглянути всі теґи",
-        "filter_by_tag": "Фільтрувати за теґом",
+        "view_all_tags": "Переглянути всі теги",
+        "filter_by_tag": "Фільтрувати за тегом",
         "filter_group_when": "Коли",
         "filter_group_input_methods": "Способи керування",
         "filter_group_session_length": "Середній час гри",
@@ -804,7 +805,7 @@
             "display_name_description": "Ім’я, яке буде показано замість вашого імені користувача, залиште порожнім, щоб було ім’я користувача",
             "website": "Вебсайт",
             "website_description": "Необов’язкова URL-адреса, яка буде показана на сторінці вашого профілю",
-            "twitter_description": "Обліковий запис Twitter для показу у вашому профілі",
+            "twitter_description": "(За бажанням) Обліковий запис X (Twitter) для показу у вашому профілі",
             "account_type": "Тип облікового запису",
             "account_type_description": "Як ви будете використовувати свій обліковий запис",
             "account_type_gamer": "Грати та завантажувати ігри",
@@ -1085,17 +1086,17 @@
                 "private_field": "(приватний)",
                 "vote_for_this_submission": "Проголосувати за цей проєкт",
                 "rate_this_submission": "Оцінити цей проєкт",
-                "not_open_yet": "Період подання проектів до цього джему ще не завершений. Оцінювання розпочнеться {{start_date}}.",
-                "owner_message": "Це ваш проект, тож ви не можете його оцінювати. Інші учасники джему зможуть його оцінити на цій сторінці.",
-                "unavailable_to_rate": "Ви не можете оцінити цей проект бо ви ще не відправили свій. Проте ви вже можете його коментувати.",
+                "not_open_yet": "Період подання проєктів до цього джему ще не завершений. Оцінювання розпочнеться {{start_date}}.",
+                "owner_message": "Це ваш проєкт, тож ви не можете його оцінювати. Інші учасники джему зможуть його оцінити на цій сторінці.",
+                "unavailable_to_rate": "Ви не можете оцінити цей проєкт, бо ви ще не відправили свій. Проте ви вже можете його коментувати.",
                 "sign_up_to_rate": "<a>Ввійдіть в акаунт itch.io</a> для оцінюваня та коментування.",
                 "sign_up_to_vote": "<a>Ввійдіть в акаунт itch.io</a> для голосування та коментування.",
-                "participate_to_rate_message": "Ви маєте <a>ввійти в акаунт itch.io</a> та відправити свій проект для оцінки цього проекту. Будь-хто з акаунтом може коментувати.",
-                "you_will_be_able_to_rate_if_you_submit": "Ви зможете оцінити цю заявку, якщо візьмете участь в джемі.",
+                "participate_to_rate_message": "Ви маєте <a>ввійти в обліковий запис itch.io</a> та відправити свій проєкт для оцінки цього проєкту. Будь-хто з обліковим записом може коментувати.",
+                "you_will_be_able_to_rate_if_you_submit": "Ви зможете оцінити цю заявку, якщо візьмете участь у джемі.",
                 "other_participants_can_rate": "Інші учасники джему зможуть оцінити вашу роботу.",
                 "save_vote": "Зберегти голос",
                 "save_rating": "Зберегти оцінку",
-                "you_havent_rated_this_submission_yet": "Ви ще не оцінили цей проект.",
+                "you_havent_rated_this_submission_yet": "Ви ще не оцінили цей проєкт.",
                 "you_just_voted": "Ви щойно проголосували.",
                 "you_voted_ago": "Ви проголосували о {{timestamp}}.",
                 "disqualified_message": "Цей запис дискваліфікований і не підходить для оцінки."
@@ -1125,7 +1126,7 @@
             "payments": "Платежі",
             "views": "Переглядів",
             "downloads": "Завантажень",
-            "followers": "Підписників",
+            "followers": "Підписники",
             "following": "Підписки"
         },
         "follow_itchio": "Стежте за itch.io в {{twitter}} та {{facebook}}",
@@ -1229,8 +1230,8 @@
                 "frame_options": "Параметри рамки"
             },
             "details_genre_header": "Жанр",
-            "details_tags_header": "Теґи",
-            "details_genre_info": "Оберіть категорію, яка найкраще описує гру. Ви можете вибрати додаткові жанри за допомогою теґів нижче",
+            "details_tags_header": "Теги",
+            "details_genre_info": "Оберіть категорію, яка найкраще описує гру. Ви можете вибрати додаткові жанри за допомогою тегів нижче",
             "pricing": {
                 "free_or_donate": "{{money}} або пожертва",
                 "paid": "Платно",
@@ -1336,7 +1337,7 @@
         "filter_devlogs_tab": "Журнали розробки",
         "filter_ratings_tab": "Оцінки",
         "latest_featured_games_header": "Найновіші ігри",
-        "featured_tags_header": "Популярні теґи",
+        "featured_tags_header": "Популярні теги",
         "to_rate": {
             "projects_to_rate_header": "Проєкти для оцінки",
             "to_rate_description": "Ось деякі проєкти, з якими ви взаємодіяли, але не оцінили."
@@ -1381,7 +1382,7 @@
             "my_purchases": "Мої покупки",
             "recommended_for_you": "Рекомендовано для вас",
             "things_on_sale": "Зі знижкою",
-            "things_to_rate": "Оцінити"
+            "things_to_rate": "Можна оцінити"
         },
         "download_button": "Завантажити",
         "gift_button": "Подарувати",
