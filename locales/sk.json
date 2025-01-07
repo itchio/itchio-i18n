@@ -40,7 +40,8 @@
             "dashboard": "Nástenka",
             "feed_unseen_count_0": "{{count}} nový",
             "feed_unseen_count_1": "{{count}} nové",
-            "feed_unseen_count_2": "{{count}} nových"
+            "feed_unseen_count_2": "{{count}} nových",
+            "skip_to_main_content": "Preskočiť na hlavný obsah"
         },
         "user_menu": {
             "explore": "Objaviť",
@@ -87,7 +88,7 @@
         "view_more": "Zobraziť viac",
         "featured_jams": "Vyberané jamy",
         "view_all_jams": "Zobraziť všetky jamy",
-        "fresh_games_description": "Neustále updatované novými hrami na itch.io",
+        "fresh_games_description": "Neustále aktualizované novými hrami na itch.io",
         "people_to_follow": "Ľudia na sledovanie",
         "view_all_games_on_sale": "Zobraziť všetky zľavnené hry",
         "more_featured_games": "Viac vyberaných hier",
@@ -101,7 +102,7 @@
             "all_games": "Všetky hry",
             "bundles": "Bundles",
             "game_jams": "Game jamy",
-            "devlogs": "Logy Developerov",
+            "devlogs": "Denníky Vývojárov",
             "community": "Komunita"
         },
         "intro": "<s>itch.io</s> je jednoduchý spôsob ako nájsť a zdielať indie hry online a zadarmo.",
@@ -844,7 +845,9 @@
         "results_count_0": "{{count}} výsledok",
         "results_count_1": "{{count}} výsledky",
         "results_count_2": "{{count}} výsledkov",
-        "results_count_plural": "{{count}} výsledkov"
+        "results_count_plural": "{{count}} výsledkov",
+        "no_results_found": "Neboli nájdene žiadne výsledky",
+        "filter_group_player_count": "Počet hráčov"
     },
     "collection": {
         "remove_confirm": "Ste si istý, že chcete toto odstrániť z kolekcie",
@@ -1008,7 +1011,8 @@
         "new_card": "Nová karta",
         "edit_saved_cards": "Upraviť uložené karty",
         "choose_a_card": "Vyberte kartu",
-        "buying_as": "Kupujem ako"
+        "buying_as": "Kupujem ako",
+        "paying_price_for": "Zaplatíte {{price}} za:"
     },
     "game_download": {
         "trouble_downloading_link": "Sťahovanie nezačína?",
@@ -1156,7 +1160,7 @@
         "header": {
             "projects_link": "Projekty",
             "payouts_link": "Výplaty",
-            "game_jams_link": "Herné jamy",
+            "game_jams_link": "Game jamy",
             "coop_bundles_link": "Co-op bundle",
             "sales_bundles_link": "Výpredaje & bundles",
             "analytics_link": "Analytika",
@@ -1262,7 +1266,12 @@
         "jam_calendar_header": "Kalendár Jamov",
         "host_a_jam_button": "Usporiadať jam",
         "jams_joined_header": "Jamy, do ktorých si sa pripojil(a)",
-        "jams_created_header": "Jamy, ktoré si vytvoril(a)"
+        "jams_created_header": "Jamy, ktoré si vytvoril(a)",
+        "browse_in_progress": "Prebiehajúce",
+        "browse_top_past_jams": "Najlepšie predošlé Jamy",
+        "browse_upcoming_this_month": "Nadchádzajúce Tento Mesiac",
+        "browse_jams_header": "Prehliadať Jamy",
+        "brose_featured_jams": "Odporúčané Jamy"
     },
     "game_grid": {
         "in_bundle": "V bundle"
