@@ -74,6 +74,18 @@
         "dark-fantasy": "黑暗奇幻",
         "dark": "黑暗",
         "cyberpunk": "赛博朋克",
-        "cute": "可爱"
+        "cute": "可爱",
+        "emulator": "模拟器",
+        "effects": "效果",
+        "educational": "教育",
+        "dungeon-crawler": "迷宫地牢探索",
+        "drm-free": "无加密游戏",
+        "driving": "驾驶",
+        "dreams": "梦境",
+        "dragons": "西方龙",
+        "doujinshi": "同人",
+        "dogs": "狗",
+        "dinosaurs": "恐龙",
+        "difficult": "困难"
     }
 }
