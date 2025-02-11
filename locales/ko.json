@@ -18,7 +18,7 @@
             "upload_game": "게임 업로드",
             "devlogs": "개발일지",
             "community": "커뮤니티",
-            "search_placeholder": "게임이나 창작자 검색",
+            "search_placeholder": "게임, 잼, 태그 또는 창작자 검색하기",
             "search": "검색",
             "log_in": "로그인",
             "register": "가입하기",
@@ -36,7 +36,8 @@
             "fun_games": "재미있는 게임",
             "games": "게임",
             "feed_unseen_count": "{{count}}개 읽지 않음",
-            "feed": "피드"
+            "feed": "피드",
+            "skip_to_main_content": "메인 콘텐츠로 건너뛰기"
         },
         "user_menu": {
             "explore": "탐험하기",
@@ -786,7 +787,7 @@
             "display_name_description": "아이디 대신 표시되는 이름이며, 공백으로 놔두면 아이디 기본값으로 사용함",
             "website": "웹사이트",
             "website_description": "프로필에 보이는 추가 URL",
-            "twitter_description": "프로필에 보이는 Twitter 계정",
+            "twitter_description": "프로필에 표시하고 싶은 Twitter 계정",
             "account_type": "계정 종류",
             "account_type_description": "계정 사용 방식",
             "account_type_gamer": "게임 플레이와 다운로드",
