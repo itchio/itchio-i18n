@@ -121,7 +121,7 @@
     "library": {
         "redeem_button": "兑换",
         "rate_game": {
-            "you_rated_this_project_ago": "您已在{{time_ago}}评价过此项目。",
+            "you_rated_this_project_ago": "您在{{time_ago}}已评价该项目。",
             "rate_header": "评分与评价 {{project_title}}",
             "choose_stars": "选择一至五颗星的评分。",
             "delete_button": "删除评分与评价",
@@ -322,7 +322,7 @@
             "community_disabled": "禁用",
             "community_field": "社区",
             "instructions_field_info1": "玩家通过浏览器下载您的游戏时会看到这段文字。应包含有关如何安装与运行游戏的信息。",
-            "instructions_field_info2": "如果游戏需要另外安装运行库或程序，您也应在此处声明",
+            "instructions_field_info2": "如果游戏依赖于另外的运行库或程序，您也应在此处声明",
             "description_field_description": "这将构成您游戏页面的内容。",
             "project_type_help": "不论您选择哪个类型，都可以添加额外的可下载文件",
             "tip_label": "提示",
@@ -901,6 +901,7 @@
                 "vote": "投票"
             },
             "rated_by_people_count": "已有{{count}}人评分",
+            "rated_by_people_count_plural": "已有{{count}}人评分",
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "submitted_by_contributors": "由 {{contributors}} 投稿",
             "ranked_with_vote_count": "凭{{count}}票排名第{{ordinal_rank}}",
@@ -926,8 +927,7 @@
             "results_table_score": "得分",
             "results_table_votes": "票数",
             "results_table_rank": "名次",
-            "results_table_criteria": "标准",
-            "rated_by_people_count_plural": "已有{{count}}人评分"
+            "results_table_criteria": "标准"
         },
         "results": {
             "submissions": {
