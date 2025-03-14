@@ -227,6 +227,26 @@
         "open-source": "Open Source",
         "otome": "Otome",
         "physics": "Fizik",
-        "pinball": "Flipper"
+        "pinball": "Flipper",
+        "retro": "Retro",
+        "remake": "Remake",
+        "relaxing": "Dibrezañ",
+        "real-time-strategy": "Strategiezh e amzer werc'hel",
+        "real-time": "Amzer werc'hel",
+        "railroad": "Hent-houarn",
+        "puzzle-platformer": "Miltamm-savenn",
+        "platformer": "Savenn",
+        "moddable": "Moddus",
+        "incremental": "Azvuiadel",
+        "gothic": "Gotek",
+        "gore": "Gwadeg",
+        "golf": "Golf",
+        "gmless": "Hep GM",
+        "cute": "Moutik",
+        "characters": "Tudennoù",
+        "casual": "Casual",
+        "bullet-hell": "Bullet Hell",
+        "brushes": "Barroù-livañ",
+        "3d-platformer": "Savenn 3D"
     }
 }
