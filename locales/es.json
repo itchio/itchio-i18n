@@ -377,7 +377,7 @@
             "like": "Me gusta",
             "reply": "Responder",
             "edits_count": "({{count}} edición)",
-            "edits_count_plural": "({{count}} ediciones)",
+            "edits_count_plural": "({{count}}ediciones)",
             "edit_blocks": "Editar bloques",
             "post_from_blocked_account": "Comentario de una cuenta bloqueada",
             "deleted_post": "Comentario borrado"
