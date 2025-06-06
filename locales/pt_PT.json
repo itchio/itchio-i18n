@@ -18,7 +18,7 @@
             "upload_game": "Submeter Jogo",
             "devlogs": "Diários dos Produtores",
             "community": "Comunidade",
-            "search_placeholder": "Pesquisar jogos ou criadores",
+            "search_placeholder": "Pesquisar jogos, jams, tags ou criadores",
             "search": "Pesquisar",
             "log_in": "Iniciar sessão",
             "register": "Registar",
@@ -38,7 +38,8 @@
             "games": "Jogos",
             "feed_unseen_count": "{{count}} novo",
             "feed_unseen_count_plural": "{{count}} novos",
-            "feed": "Novidades"
+            "feed": "Novidades",
+            "skip_to_main_content": "Saltar para o conteúdo principal"
         },
         "user_menu": {
             "explore": "Explorar",
@@ -865,7 +866,7 @@
             "account_type_gamer": "Jogar e descarregar jogos",
             "account_type_description": "Como irá usar a sua conta",
             "account_type": "Tipo de conta",
-            "twitter_description": "Conta de Twitter a ser mostrado no seu perfil",
+            "twitter_description": "Conta de Twitter opcional a ser mostrada no seu perfil",
             "website_description": "URL opcional a ser mostrado na sua página de perfil",
             "website": "Página web",
             "display_name_description": "Nome a ser mostrado no lugar do seu nome de utilizador, deixar em branco para ficar o nome de utilizador definido anteriormente",
@@ -1083,7 +1084,7 @@
                 "vote": "Votar"
             },
             "rated_by_people_count": "Classificado por {{count}} pessoa até agora",
-            "rated_by_people_count_plural": "Classificado por {{count}} pessoas até agora",
+            "rated_by_people_count_plural": "Classificado por {{count}} pessoa(s) até agora",
             "time_remaining_before_deadline": "{{time_duration}} antes do prazo de entrega",
             "results_header": "Resultados",
             "run_project": "Executar projeto",
@@ -1106,7 +1107,7 @@
             "ranked_with_vote_count": "Classificado em {{ordinal_rank}} com {{count}} voto",
             "ranked_with_vote_count_plural": "Classificado em {{ordinal_rank}} com {{count}} votos",
             "ranked_from_count": "Classificado de <s>{{count}} avaliação</s>.",
-            "ranked_from_count_plural": "Classificado de <s>{{count}} avaliações</s>.",
+            "ranked_from_count_plural": "Classificação a partir de <s>{{count}} classificações</s>.",
             "score_information": "A pontuação é ajustada a partir da pontuação bruta pelo número mediano de avaliações por jogo na jam.",
             "a_jam_submission": "Uma submissão da jam",
             "results_table_raw_score": "Pontuação bruta",
