@@ -47,7 +47,7 @@
             "upload_game": "Mag-upload ng Laro",
             "game_jams": "Mga Game Jam",
             "sales": "Mga Benta",
-            "search_placeholder": "Maghanap ng mga laro o creator",
+            "search_placeholder": "Maghanap ng mga laro, jam, tag, o creator",
             "feed": "Balitaan",
             "browse_games": "Maghanap ng Laro",
             "browse": "Maghanap",
@@ -70,7 +70,7 @@
         },
         "classifications": {
             "comic": "Mga komik",
-            "soundtrack": "Mga soundtrack",
+            "soundtrack": "Mga album at soundtrack",
             "book": "Mga aklat",
             "game": "Mga Laro",
             "physical_game": "Mga larong pisikal",
@@ -114,6 +114,10 @@
             "half_hour": "Mga kalahating oras",
             "minutes": "Mga ilang minuto",
             "seconds": "Mga ilang segundo"
+        },
+        "accessibility_features": {
+            "configurable_controls": "",
+            "colorblind": "I-angkop para sa bulag sa kulay"
         }
     },
     "user_settings": {
@@ -183,7 +187,8 @@
         "html5_games": "Mga larong HTML5",
         "view_all_on_sale": "Tignan ang lahat ng mga ibinibenta",
         "to_follow": {
-            "created_projects": "Nilikha ang {{project_list}}"
+            "created_projects": "Nilikha ang {{project_list}}",
+            "refresh_button": "I-refresh para sa higit pa"
         },
         "game_dev_on_sale": "<1>Ibinibentang</1> Mga Tagagawa Ng Laro",
         "more_featured_games": "Iba pang mga patok na laro",
@@ -200,7 +205,8 @@
         "download_app": "I-download ang app",
         "top_sellers": "Pinakamabenta",
         "people_to_follow_description": "Ito ang mga account na maaaring interesado kang sundan. <a>Bakit susundan?</a>",
-        "view_something_random": "Tumingin ng pasumala"
+        "view_something_random": "Tumingin ng pasumala",
+        "intro_cta": "<1>Idagdag ang inyong laro</1> o <2>Basahin ang FAQ</2>"
     },
     "itchio": "itch.io",
     "dashboard": {
