@@ -47,7 +47,7 @@
             "upload_game": "Mag-upload ng Laro",
             "game_jams": "Mga Game Jam",
             "sales": "Mga Benta",
-            "search_placeholder": "Maghanap ng mga laro, jam, tag, o creator",
+            "search_placeholder": "Maghanap ng mga laro, jam, tag o creator",
             "feed": "Balitaan",
             "browse_games": "Maghanap ng Laro",
             "browse": "Maghanap",
@@ -55,7 +55,8 @@
             "community": "Pamayanan",
             "game_development": "Game development",
             "dashboard": "Dashboard",
-            "devlogs": "Mga Developer Log"
+            "devlogs": "Mga Developer Log",
+            "skip_to_main_content": "Lumaktaw sa pangunahing kontento"
         }
     },
     "misc": {
@@ -74,9 +75,9 @@
             "book": "Mga aklat",
             "game": "Mga Laro",
             "physical_game": "Mga larong pisikal",
-            "game_mod": "Mga game mod",
+            "game_mod": "Mga modipikasyon ng laro",
             "tool": "Mga tool",
-            "assets": "Mga game asset"
+            "assets": "Mga mapagkukunan ng laro"
         },
         "project_visibility": {
             "published": "Nilatha"
@@ -166,7 +167,8 @@
             "all_games": "Lahat ng Laro",
             "community": "Pamayanan",
             "game_jams": "Mga game jam",
-            "bundles": "Mga bundle"
+            "bundles": "Mga bundle",
+            "devlogs": "Mga Tala ng Developer"
         },
         "browse_content_type": "Maghanap ng {{content_type}}",
         "view_all_platforms": "Tignan lahat ng plataporma",
@@ -188,7 +190,9 @@
         "view_all_on_sale": "Tignan ang lahat ng mga ibinibenta",
         "to_follow": {
             "created_projects": "Nilikha ang {{project_list}}",
-            "refresh_button": "I-refresh para sa higit pa"
+            "refresh_button": "I-refresh para sa higit pa",
+            "empty_results": "Wala kaming maibibigay na rekomendasyon ngayon. Maaring bumalik kayo mamaya",
+            "dismiss_tooltip": "Huwag nang magmungkahi"
         },
         "game_dev_on_sale": "<1>Ibinibentang</1> Mga Tagagawa Ng Laro",
         "more_featured_games": "Iba pang mga patok na laro",
