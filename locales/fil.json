@@ -21,7 +21,7 @@
             "game_jams": "Mga game jam",
             "log_out": "Maglog-out",
             "create": "Lumikha",
-            "host_game_jam": "Host game jam",
+            "host_game_jam": "Magsimula ng siksikan ng laro",
             "posts": "Mga ipinaskil",
             "account_menu_tooltip": "Karta ng Menu",
             "dashboard": "Pisara",
@@ -262,8 +262,9 @@
         "sort_new_and_popular": "Bago at Sikat",
         "filter_results": "Isala ang mga Resulta",
         "results_count": "{{count}} resulta",
-        "results_count_plural": "Mga {{count}} resulta",
-        "sort_top_sellers": "Pinakamabenta"
+        "results_count_plural": "{{count}} resulta",
+        "sort_top_sellers": "Pinakamabenta",
+        "sort_most_recent": "Pinakabago"
     },
     "jam": {
         "header": {
