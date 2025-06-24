@@ -70,13 +70,13 @@
             "required": "Kinakailangan"
         },
         "classifications": {
-            "comic": "Mga komik",
+            "comic": "Mga komiko",
             "soundtrack": "Mga album at soundtrack",
             "book": "Mga aklat",
             "game": "Mga Laro",
             "physical_game": "Mga larong pisikal",
             "game_mod": "Mga modipikasyon ng laro",
-            "tool": "Mga tool",
+            "tool": "Mga kasangkapan",
             "assets": "Mga mapagkukunan ng laro"
         },
         "project_visibility": {
@@ -117,8 +117,23 @@
             "seconds": "Mga ilang segundo"
         },
         "accessibility_features": {
-            "configurable_controls": "",
-            "colorblind": "I-angkop para sa bulag sa kulay"
+            "configurable_controls": "Pasadya na controls",
+            "colorblind": "Maaangkop sa bulag sa kulay",
+            "textless": "Walang teksto",
+            "blind": "Maaangkop sa bulag",
+            "one_button": "Isang pindutan",
+            "tutorial": "Mapang-ugnay na sangguni",
+            "highcontrast": "Labis na Kontrast",
+            "subtitles": "Subtitolo"
+        },
+        "inputs": {
+            "accelerometer": "Darasigsukat",
+            "keyboard": "Tipaan"
+        },
+        "multiplayer_features": {
+            "adhoc": "Ad-hoc na kabalagang multiplayer",
+            "server": "Kabalagang multiplayer na nakabatay sa server",
+            "local": "Lokal na multiplayer"
         }
     },
     "user_settings": {
