@@ -445,7 +445,9 @@
         "intent": {
             "community": "Kailangan mong mag-login upang makilahok sa iba't ibang komunidad sa itch.io. Ang paggawa ng account ay libre at hindi tatagal ng ilang saglit.",
             "rate_game": "Kailangan mo ng akawnt bago ka maka-rate ng laro.",
-            "comment": "Kailangan mo ng akawnt sa itch.io bago ka makaiwan ng puna."
+            "comment": "Kailangan mo ng akawnt sa itch.io bago ka makaiwan ng puna.",
+            "follow": "Kailangan mo ng akawnt sa itch.io bago ka maka-subaybay ng iba.",
+            "follow_username": "Kailangan mo ng akawnt sa itch.io bago mo masubaybayan si <1>{{username}}</1>."
         },
         "create_a_new_account": "Gumawa ng bagong account",
         "looking_for_something_you_bought": "Hinahanap mo ba ang binili mo?",
