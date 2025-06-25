@@ -11,51 +11,51 @@
             "about": "Tungkol dito"
         },
         "user_menu": {
-            "settings": "Mga Opsyon",
+            "settings": "Mga opsyon",
             "new_project": "Magpaskil ng bagong proyekto",
             "view_profile": "Tignan ang profile",
-            "sales_bundles": "Mga Benta at Bigkis",
+            "sales_bundles": "Mga benta at bigkis",
             "feed": "Ang aking talataan",
             "library": "Ang aking tala-aklatan",
             "recommendations": "Mga Rekomendasyon",
-            "game_jams": "Mga game jam",
+            "game_jams": "Mga siksikan ng laro",
             "log_out": "Maglog-out",
             "create": "Lumikha",
             "host_game_jam": "Magsimula ng siksikan ng laro",
             "posts": "Mga ipinaskil",
-            "account_menu_tooltip": "Karta ng Menu",
+            "account_menu_tooltip": "Menu ng Akawnt",
             "dashboard": "Pisara",
-            "account": "Account",
+            "account": "Akawnt",
             "explore": "Libutin"
         },
         "header": {
             "feed_unseen_count": "{{count}} bago",
-            "feed_unseen_count_plural": "{{count}} (na) mga bago",
-            "games": "Mga Laro",
-            "fun_games": "Mga Masasayang Laro",
-            "game_assets": "Mga Asset",
-            "bundles": "Mga Bundle",
-            "indie_game_store": "Tindahan ng Indie Games",
+            "feed_unseen_count_plural": "{{count}} na bago",
+            "games": "Mga laro",
+            "fun_games": "Masasayang laro",
+            "game_assets": "Mga mapagkukunan",
+            "bundles": "Mga bigkis",
+            "indie_game_store": "Tindahan ng indie na laro",
             "free_games": "Mga libreng laro",
-            "no_notifications": "Walang mga bagong notifikasyon",
-            "notifications_count": "{{count}} notifikasyon",
-            "notifications_count_plural": "Mga {{count}} notifikasyon",
+            "no_notifications": "Walang bagong pabatid",
+            "notifications_count": "{{count}} pabatid",
+            "notifications_count_plural": "{{count}} na pabatid",
             "jams": "Mga Jam",
             "register": "Magregister",
             "log_in": "Maglogin",
             "search": "Maghanap",
-            "upload_game": "Mag-upload ng Laro",
+            "upload_game": "Magpaskil ng Laro",
             "game_jams": "Mga Game Jam",
-            "sales": "Mga Benta",
-            "search_placeholder": "Maghanap ng mga laro, jam, tag o creator",
+            "sales": "Mga benta",
+            "search_placeholder": "Maghanap ng mga laro, siksikan ng laro, pananda o manlilikha",
             "feed": "Balitaan",
             "browse_games": "Maghanap ng Laro",
             "browse": "Maghanap",
-            "comics": "Mga Komik",
+            "comics": "Mga komiko",
             "community": "Pamayanan",
-            "game_development": "Game development",
+            "game_development": "Pagpaunlad ng laro",
             "dashboard": "Dashboard",
-            "devlogs": "Mga Developer Log",
+            "devlogs": "Mga Tala ng Developer",
             "skip_to_main_content": "Lumaktaw sa pangunahing kontento"
         }
     },
@@ -67,7 +67,13 @@
         },
         "forms": {
             "search": "Maghanap",
-            "required": "Kinakailangan"
+            "required": "Kinakailangan",
+            "confirm": "Kumpirmahin",
+            "form_errors": "Pakisuri ang impormasyong ibinigay mo",
+            "optional": "Di-sapilitan",
+            "submit": "Isumite",
+            "email_address": "Direksiyon ng Email",
+            "save": "I-save"
         },
         "classifications": {
             "comic": "Mga komiko",
@@ -77,10 +83,14 @@
             "physical_game": "Mga larong pisikal",
             "game_mod": "Mga modipikasyon ng laro",
             "tool": "Mga kasangkapan",
-            "assets": "Mga mapagkukunan ng laro"
+            "assets": "Mga mapagkukunan ng laro",
+            "other": "Balabalaki"
         },
         "project_visibility": {
-            "published": "Nilatha"
+            "published": "Nilatha",
+            "draft": "Burador",
+            "public": "Publiko",
+            "restricted": "Limitado"
         },
         "countdown": {
             "seconds": "mga segundo",
@@ -91,7 +101,8 @@
             "years": "mga taon"
         },
         "lightboxes": {
-            "close": "Isara"
+            "close": "Isara",
+            "error_title": "Hindi maikumpleto ang inyong bilin"
         },
         "collection_button": {
             "add_to_collection": "I-dagdag sa koleksyon"
@@ -114,7 +125,8 @@
             "hour": "Mga isang oras",
             "half_hour": "Mga kalahating oras",
             "minutes": "Mga ilang minuto",
-            "seconds": "Mga ilang segundo"
+            "seconds": "Mga ilang segundo",
+            "hours": "Mga ilang oras"
         },
         "accessibility_features": {
             "configurable_controls": "Pasadya na controls",
@@ -128,13 +140,47 @@
         },
         "inputs": {
             "accelerometer": "Darasigsukat",
-            "keyboard": "Tipaan"
+            "keyboard": "Tipaan",
+            "midi_controller": "MIDI na controller",
+            "dance_pad": "Banig ng sayaw",
+            "phone": "Matalinong hatinig",
+            "joystick": "Dyoystik",
+            "voice": "Kontrol ng tinig",
+            "touchscreen": "Mapindot na tabing",
+            "gamepad": "Gamepad (kahit ano)",
+            "mouse": "Raton"
         },
         "multiplayer_features": {
             "adhoc": "Ad-hoc na kabalagang multiplayer",
             "server": "Kabalagang multiplayer na nakabatay sa server",
             "local": "Lokal na multiplayer"
-        }
+        },
+        "loading_more_ellip": "Naghahanda ng higit pa…",
+        "platforms": {
+            "web": "Web"
+        },
+        "more_ellip": "Higit pa…",
+        "errors": {
+            "server_error": "Bigong makapagtugon ang server, maaaring subukan muli mamaya"
+        },
+        "release_statuses": {
+            "prototype": "Prototipo",
+            "canceled": "Kinansela",
+            "on_hold": "Nakahinto",
+            "in_development": "Pinapaunlad pa",
+            "released": "Nailathala"
+        },
+        "dismiss": "Balewalain",
+        "view_more": "Tumingin pa ng iba",
+        "follow_button": {
+            "unfollow": "Huwag subaybayan",
+            "unfollow_username": "Huwag subaybayan si {{username}}",
+            "following": "Sinusubaybayan",
+            "following_username": "Sinusubaybayan si {{username}}",
+            "follow": "Subaybayan",
+            "follow_username": "Subaybayan si {{username}}"
+        },
+        "page_number": "Pahina {{page_number}}"
     },
     "user_settings": {
         "email_addresses": {
@@ -181,15 +227,15 @@
         "nav": {
             "all_games": "Lahat ng Laro",
             "community": "Pamayanan",
-            "game_jams": "Mga game jam",
-            "bundles": "Mga bundle",
+            "game_jams": "Mga siksikan ng laro",
+            "bundles": "Mga bigkis",
             "devlogs": "Mga Tala ng Developer"
         },
         "browse_content_type": "Maghanap ng {{content_type}}",
         "view_all_platforms": "Tignan lahat ng plataporma",
         "filtering_platform": "Ipinipiltro lahat ng laro sa {{platform_name}}",
         "view_all_games_on_sale": "Tignan ang lahat ng larong ibinibenta",
-        "people_to_follow": "Mga Taong Maaaring I-Follow",
+        "people_to_follow": "Mga Taong Maaaring Subaybayan",
         "fresh_games_description": "Patuloy na i-update ang mga bagong laro sa itch.io",
         "view_all_jams": "Tignan ang lahat ng jams",
         "featured_jams": "Tampok na jams",
@@ -209,21 +255,21 @@
             "empty_results": "Wala kaming maibibigay na rekomendasyon ngayon. Maaring bumalik kayo mamaya",
             "dismiss_tooltip": "Huwag nang magmungkahi"
         },
-        "game_dev_on_sale": "<1>Ibinibentang</1> Mga Tagagawa Ng Laro",
-        "more_featured_games": "Iba pang mga patok na laro",
+        "game_dev_on_sale": "Mga <1>Ibinibentang</1> Mapagkukunan para sa Tagagawa Ng Laro",
+        "more_featured_games": "Iba pang mga Tampok na Laro",
         "recommended_for_you": "Inirerekomenda para sayo",
-        "search_games_creators": "Maghanap ng mga laro at mga tagagawa",
+        "search_games_creators": "Maghanap ng mga laro at mga manlilikha",
         "view_all_blog_posts": "Tignan ang lahat ng update",
         "from_the_itchio_blog": "Mula sa itch.io blog",
         "get_the_app": "<s>Sulitin ang itch.io!</s> Mag-install at pamahalaan ang iyong mga laro gamit ang aming desktop app",
-        "meta_description": "Ang itch.io ay isang simpleng paraan upang maghanap, magdownload at magbahagi ng mga indie na laro online. Mapa-developer ka man na naghahanap ng lugar na pag-uuploadan ng laro mo o naghahanap lang ng bagong malalaruan, swak ang itch.io para sayo.",
-        "intro": "<s>itch.io</s>ay isang simpleng paraan upang makahanap at magbahagi ng indie na laro sa online ng libre.",
+        "meta_description": "Isang simpleng daan ang itch.io sa online na paghahanap, pagdadownload at pagbabahagi ng mga indie na laro. Mapa-developer ka man na naglalayong mapaiskil ang laro mo o naghahanap lang ng bagong malalaruan, swak ang itch.io para sayo.",
+        "intro": "Isang simpleng daan ang <s>itch.io</s> sa online at libre na paghahanap at pagbabahagi ng indie na laro.",
         "page_title": "I-download ang mga pinakabagong indie na laro",
         "random_game": "Pasumalang laro",
         "view_all_games": "Tignan ang lahat ng laro",
         "download_app": "I-download ang app",
         "top_sellers": "Pinakamabenta",
-        "people_to_follow_description": "Ito ang mga account na maaaring interesado kang sundan. <a>Bakit susundan?</a>",
+        "people_to_follow_description": "Ito ang mga akawnt na maaaring may interesado kang sumubaybay. <a>Bakit magsubaybay?</a>",
         "view_something_random": "Tumingin ng pasumala",
         "intro_cta": "<1>Idagdag ang inyong laro</1> o <2>Basahin ang FAQ</2>"
     },
@@ -232,14 +278,27 @@
         "edit_project": {
             "pricing": {
                 "paid": "May bayad"
-            }
+            },
+            "details_genre_info": "Pumili ng kategorya na pinakamalapit na naglalarawan sa iyong laro. Maari ka ring dumagdag ng dyanra gamit ang mga pananda sa ibaba",
+            "details_tags_header": "Mga pananda",
+            "short_description_field": "Maikling paglalarawan o tagline"
         },
         "header": {
-            "payments_link": "Mga Bayad"
+            "payments_link": "Mga Bayad",
+            "projects_link": "Mga proyekto",
+            "analytics_link": "Analitika",
+            "coop_bundles_link": "Ko-op na bigkis",
+            "sales_bundles_link": "Mga benta at bigkis",
+            "game_jams_link": "Mga siksikan ng laro"
         },
         "analytics_summary_header": "Buod",
         "hello": "Kamusta!",
-        "new_devlog": "Bagong devlog"
+        "new_devlog": "Bagong devlog",
+        "page_title": "Panel ng Lumilikha",
+        "project_list": {
+            "edit": "Baguhin"
+        },
+        "create_new_project_button": "Gumawa ng bagong proyekto"
     },
     "community": {
         "topic": {
@@ -247,7 +306,7 @@
         },
         "new_topic": {
             "new_topic": "Bagong topic",
-            "topic_tag": "Tag",
+            "topic_tag": "Pananda",
             "title": "Pamagat"
         },
         "topic_list": {
@@ -255,6 +314,10 @@
             "locked_flag": "Nakakandado",
             "list_header_last_post": "Nakaraang post",
             "no_replies_yet": "Wala pang tugon"
+        },
+        "post_form": {
+            "remove_tag": "Tanggalin ang pananda",
+            "tag_header": "Pananda"
         }
     },
     "browse": {
@@ -264,7 +327,15 @@
         "results_count": "{{count}} resulta",
         "results_count_plural": "{{count}} resulta",
         "sort_top_sellers": "Pinakamabenta",
-        "sort_most_recent": "Pinakabago"
+        "sort_most_recent": "Pinakabago",
+        "filter_by_tag": "Magsala ayon sa pananda",
+        "view_all_tags": "Tingnan ang lahat ng pananda",
+        "tag": {
+            "suggest_description_for_this_tag": "Magmungkahi ng bagong paglalarawan",
+            "suggest_updated_description": "Magmungkahi ng bagong paglalarawan",
+            "no_description_yet": "Wala pang paglalarawan sa ngayon"
+        },
+        "filter_group_misc": "Balabalaki"
     },
     "jam": {
         "header": {
@@ -281,7 +352,9 @@
         }
     },
     "search": {
-        "search_results_for_query": "Resulta ng paghahanap sa '{{query}}'"
+        "search_results_for_query": "Resulta ng paghahanap sa '{{query}}'",
+        "view_all_tags": "Tingnan ang lahat ng pananda",
+        "creators": "Mga manlilikha:"
     },
     "feed": {
         "global_feed_tab": "Pandaigdig na Balitaan",
@@ -298,7 +371,9 @@
         "event": {
             "collection_added_count": "Nagdagdag ng {{count}} item.",
             "collection_added_count_plural": "Nagdagdag ng mga {{count}} item."
-        }
+        },
+        "featured_tags_header": "Mga tampok na pananda",
+        "filter_posts_tab": "Mga ipinaskil"
     },
     "game": {
         "layout": {
@@ -306,14 +381,20 @@
                 "percent_off": "{{percent}}% bawas"
             }
         },
-        "percent_off": "<s>{{percent}}%</s> Bawas"
+        "percent_off": "<s>{{percent}}%</s> Bawas",
+        "info_panel": {
+            "tags": "Mga pananda"
+        }
     },
     "game_download": {
         "app_banner": {
             "get_the_app": "Kunin ang app"
         },
         "play_in_your_browser": "Laruin sa inyong browser",
-        "version_name": "Bersyon {{version_name}}"
+        "version_name": "Bersyon {{version_name}}",
+        "header": {
+            "more_menu": "Iba pa"
+        }
     },
     "jams": {
         "browse_upcoming_this_month": "Mga Paparating sa Buwan na Ito",
@@ -323,7 +404,7 @@
     },
     "library": {
         "things_you_own_header": "Mga pagmamay-ari mo",
-        "page_title": "Aking Library",
+        "page_title": "Aking Aklatan",
         "nav": {
             "recommended_for_you": "Rinerekomenda para sayo"
         },
@@ -357,17 +438,45 @@
             "or_log_in_with_another_site": "O maglog-in gamit ng ibang site",
             "create_account": "Gumawa ng account",
             "forgot_password": "Nakalimutan ang password",
-            "password": "Password"
+            "password": "Password",
+            "username_or_email": "Pangalan ng gagamit o dagisiking sulat"
         },
         "page_title": "Maglogin",
         "intent": {
-            "community": "Kailangan mong mag-login upang makilahok sa iba't ibang komunidad sa itch.io. Ang paggawa ng account ay libre at hindi tatagal ng ilang saglit."
+            "community": "Kailangan mong mag-login upang makilahok sa iba't ibang komunidad sa itch.io. Ang paggawa ng account ay libre at hindi tatagal ng ilang saglit.",
+            "rate_game": "Kailangan mo ng akawnt bago ka maka-rate ng laro.",
+            "comment": "Kailangan mo ng akawnt sa itch.io bago ka makaiwan ng puna."
         },
-        "create_a_new_account": "Gumawa ng bagong account"
+        "create_a_new_account": "Gumawa ng bagong account",
+        "looking_for_something_you_bought": "Hinahanap mo ba ang binili mo?",
+        "log_in_to_your_itchio_account": "Maglogin sa iyong itch.io na akawnt"
     },
     "blog": {
         "empty_message": "Wala yatang mga post dito",
-        "updates": "Mga Update",
-        "all_posts": "Lahat ng post"
+        "updates": "Mga Pagbabago",
+        "all_posts": "Lahat ng post",
+        "tag_filter": "Pagsala sa {{tag}}. <a>Tanggalin ang pananda</a>",
+        "digest": "Buod"
+    },
+    "browse_tags": {
+        "all_tags": "Lahat ng pananda",
+        "types": {
+            "tool": "Mga kasangkapan",
+            "event": "Mga kaganapan",
+            "platform": "Mga plataporma",
+            "style": "Mga istilo",
+            "genre": "Mga dyanra"
+        },
+        "no_description_yet": "Wala pang paglalarawan sa ngayon",
+        "commonly_tagged_with": "Karaniwang naka-pananda sa",
+        "find_tag": "Maghanap ng tag",
+        "page_title": "Mga nangungunang pananda"
+    },
+    "app": {
+        "tagline": "Mag-install, mag-update at maglaro ng indie na laro",
+        "browse_header": "Maghanap ng mga laro na parang nilayon ng naglikha"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Mangyaring magbigay ng bagong password para sa account na {{account_name}}."
     }
 }
