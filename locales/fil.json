@@ -40,12 +40,12 @@
             "no_notifications": "Walang bagong pabatid",
             "notifications_count": "{{count}} pabatid",
             "notifications_count_plural": "{{count}} na pabatid",
-            "jams": "Mga Jam",
+            "jams": "Mga siksikan",
             "register": "Magregister",
             "log_in": "Maglogin",
             "search": "Maghanap",
             "upload_game": "Magpaskil ng Laro",
-            "game_jams": "Mga Game Jam",
+            "game_jams": "Mga Siksikan ng Laro",
             "sales": "Mga benta",
             "search_placeholder": "Maghanap ng mga laro, siksikan ng laro, pananda o manlilikha",
             "feed": "Balitaan",
@@ -72,7 +72,7 @@
             "form_errors": "Pakisuri ang impormasyong ibinigay mo",
             "optional": "Di-sapilitan",
             "submit": "Isumite",
-            "email_address": "Direksiyon ng Email",
+            "email_address": "Direksiyon ng Dagisiking-Sulat",
             "save": "I-save"
         },
         "classifications": {
@@ -184,7 +184,7 @@
     },
     "user_settings": {
         "email_addresses": {
-            "primary_email_header": "Pangunahing email"
+            "primary_email_header": "Pangunahing dagisiking-sulat"
         },
         "profile": {
             "use_dark_theme": "Gumamit ng dark theme kung maari",
@@ -233,12 +233,12 @@
         },
         "browse_content_type": "Maghanap ng {{content_type}}",
         "view_all_platforms": "Tignan lahat ng plataporma",
-        "filtering_platform": "Ipinipiltro lahat ng laro sa {{platform_name}}",
+        "filtering_platform": "Sinasala lahat ng laro ayon sa {{platform_name}}",
         "view_all_games_on_sale": "Tignan ang lahat ng larong ibinibenta",
         "people_to_follow": "Mga Taong Maaaring Subaybayan",
         "fresh_games_description": "Patuloy na i-update ang mga bagong laro sa itch.io",
-        "view_all_jams": "Tignan ang lahat ng jams",
-        "featured_jams": "Tampok na jams",
+        "view_all_jams": "Tignan ang lahat ng siksikan",
+        "featured_jams": "Mga tampok na siksikan",
         "fresh_games": "Mga Bagong Laro",
         "view_all": "Tignan lahat",
         "with_demo": "May demo",
@@ -298,7 +298,12 @@
         "project_list": {
             "edit": "Baguhin"
         },
-        "create_new_project_button": "Gumawa ng bagong proyekto"
+        "create_new_project_button": "Lumikha ng bagong proyekto",
+        "follow_itchio": "Subaybayan ang itch.io sa {{twitter}} at sa {{facebook}}",
+        "stats": {
+            "following": "Sinusubaybayan",
+            "followers": "Mga sumusubaybay"
+        }
     },
     "community": {
         "topic": {
@@ -341,14 +346,51 @@
         "header": {
             "links": {
                 "community": "Pamayanan",
-                "results": "Mga Resulta"
-            }
+                "results": "Mga Resulta",
+                "edit_jam": "Baguhin ang siksikan",
+                "submission_feed": "Patalastas ng submisyon",
+                "screenshots": "Mga kuha ng tabing",
+                "overview": "Pangkalahatang-ideya",
+                "submissions": "Mga submisyon"
+            },
+            "hosted_by": "Hinost nina {{hosts}}"
         },
         "results": {
             "submissions": {
                 "by_author": "ni {{author}}"
             },
             "empty_page_message": "Walang mga resulta sa pahina na ito"
+        },
+        "submissions": {
+            "filters": {
+                "all_submissions": "Lahat ng mga submisyon"
+            },
+            "submissions_will_be_available_after_the_jam_has_ended": "Magiging available ang mga submisyon pagkatapos ng siksikan",
+            "there_were_no_submissions": "Wala pang mga submisyon",
+            "there_are_no_submissions_yet": "Wala pang mga submisyon sa ngayon"
+        },
+        "submitter": {
+            "submission_is_closed_for_voting": "Sarado na ang submisyon at ganap na ang pagboboto",
+            "countdown": {
+                "voting_ends_in": "Matatapos ang pagboto sa",
+                "submissions_due_in": "Huling submisyon sa",
+                "starts_in": "Magsisimula sa"
+            },
+            "view_entries": "Tingnan ang {{count}} entrada",
+            "view_entries_plural": "Tingnan ang {{count}} na entrada",
+            "view_results": "Tingnan ang kinalabasan",
+            "jam_is_now_over": "Natapos na ang siksikang ito. Nangyari ito sa {{start_date}} hanggang {{end_date}}.",
+            "submissions_open_from": "Bukas ang pagsumite sa {{start_date}} hanggang {{end_date}}",
+            "leave_jam": "Lumiban sa siksikan",
+            "joined_instructions": "Balikan ang pahinang ito pagkatapos na magsimula ang siksikan upang maisumite ang iyong proyekto.",
+            "youve_joined": "Kasali ka sa siksikan.",
+            "or_leave_jam": "o <a>Lumiban sa siksikan</a>",
+            "submit_button": "Isumite ang iyong proyekto",
+            "join_jam": "Sumali sa siksikan"
+        },
+        "stats": {
+            "entries": "Mga entrada",
+            "joined": "Kasali"
         }
     },
     "search": {
@@ -373,18 +415,38 @@
             "collection_added_count_plural": "Nagdagdag ng mga {{count}} item."
         },
         "featured_tags_header": "Mga tampok na pananda",
-        "filter_posts_tab": "Mga ipinaskil"
+        "filter_posts_tab": "Mga ipinaskil",
+        "to_follow": {
+            "to_follow_description": "Narito ang ilang mga account na maaaring may interesado kang magsubaybay.",
+            "people_to_follow_header": "Mga taong maaaring subaybayan"
+        }
     },
     "game": {
         "layout": {
             "ownership": {
                 "percent_off": "{{percent}}% bawas"
-            }
+            },
+            "jam_submission": {
+                "view_the_submission_page": "Tingnan ang pahina ng submisyon",
+                "this_is_a_submission_to_jam_title": "Submisyon ito sa {{jam_title}}"
+            },
+            "submission_to_jam": "Submisyon sa {{jam_title}}",
+            "following_username": "Sinusubaybayan si {{username}}",
+            "follow_username": "Subaybayan si {{username}}",
+            "following": "Sinusubaybayan",
+            "follow": "Subaybayan"
         },
         "percent_off": "<s>{{percent}}%</s> Bawas",
         "info_panel": {
             "tags": "Mga pananda"
-        }
+        },
+        "after_download": {
+            "view_all_from_jam": "Tingnan ang lahat galing sa siksikan",
+            "check_out_more_from_jam_title": "Tingnan ang higit pa mula sa {{jam_title}}"
+        },
+        "get_access_preorder": "Maaakseso mo ang sumusunod na mga talaksan kapag nailathala na sila:",
+        "get_access": "Maaakseso mo ang sumusunod na mga talaksan:",
+        "download_access": "Pindutin ngayon ang download upang maakseso ang sumusunod na mga talaksan:"
     },
     "game_download": {
         "app_banner": {
@@ -394,7 +456,9 @@
         "version_name": "Bersyon {{version_name}}",
         "header": {
             "more_menu": "Iba pa"
-        }
+        },
+        "check_out_more_from_jam_title": "Tingnan ang higit pa galing sa {{jam_title}}",
+        "share_and_follow": "Magbahagi at magsubaybay"
     },
     "jams": {
         "browse_upcoming_this_month": "Mga Paparating sa Buwan na Ito",
@@ -409,15 +473,19 @@
             "recommended_for_you": "Rinerekomenda para sayo"
         },
         "empty_collection_message": "Walang laman ang koleksyong ito",
-        "go_to_collection_link": "Tumungo sa koleksyon"
+        "go_to_collection_link": "Tumungo sa koleksyon",
+        "rate_game": {
+            "follow_creator": "Pag-isipang sundan ang naglikha ng {{project_title}} upang manatiling napapanahon sa kanilang mga bagong iilathala."
+        }
     },
     "notifications": {
         "page_title": "Mga Notifikasyon",
-        "unseen_label": "Bago"
+        "unseen_label": "Bago",
+        "filter_follows": "Nagsusubaybay"
     },
     "developers": {
         "track_your_game": "Subaybayan ang inyong laro",
-        "account_faq_cta": "<1>Gumawa ng account ngayon</1> or <2>Basahin ang FAQ</2>",
+        "account_faq_cta": "<1>Lumikha ng akawnt ngayon</1> o <2>Basahin ang FAQ</2>",
         "upload_a_new_game": "Mag-upload ng bagong laro",
         "my_dashboard": "Dashboard ko"
     },
@@ -426,8 +494,13 @@
             "repeat_password": "Ulitin ang password",
             "about_you": "Tungkol sayo",
             "accept_tos": "Tinatanggap ko ang <1>Tuntunin ng Serbisyo</1>",
-            "create_account": "Gumawa ng account"
-        }
+            "create_account": "Lumikha ng akawnt",
+            "interest_gamer": "Interesado akong maglaro at magdownload ng laro sa itch.io",
+            "link_product": "Ang bili mong <1>{{product}}</1> ay sariling kokonekta sa iyong akawnt pagkatapos mong magparehistro.",
+            "log_in": "Maglogin",
+            "already_have_account": "o mayroon kanang akawnt?"
+        },
+        "create_an_account_on_itchio": "Lumikha ng akawnt sa itch.io"
     },
     "user_login": {
         "welcome_to_itchio": "Maligayang pagdating sa itch.io!",
@@ -436,10 +509,10 @@
             "log_in_button": "Maglogin",
             "or": "o",
             "or_log_in_with_another_site": "O maglog-in gamit ng ibang site",
-            "create_account": "Gumawa ng account",
+            "create_account": "Lumikha ng account",
             "forgot_password": "Nakalimutan ang password",
             "password": "Password",
-            "username_or_email": "Pangalan ng gagamit o dagisiking sulat"
+            "username_or_email": "Pangalan ng gagamit o dagisiking-sulat"
         },
         "page_title": "Maglogin",
         "intent": {
@@ -448,11 +521,21 @@
             "comment": "Kailangan mo ng akawnt sa itch.io bago ka makaiwan ng puna.",
             "follow": "Kailangan mo ng akawnt sa itch.io bago ka maka-subaybay ng iba.",
             "follow_username": "Kailangan mo ng akawnt sa itch.io bago mo masubaybayan si <1>{{username}}</1>.",
-            "collection": "Kailangan mo ng akawnt sa itch.io bago ka makadagdag sa isang tipon."
+            "collection": "Kailangan mo ng akawnt sa itch.io bago ka makadagdag sa isang tipon.",
+            "claim_object_title": "Pakilogin o lumikha ng akawnt upang maangkin ang {{title}}.",
+            "recent_purchases": "Maglogin upang maikonekta ang anumang mga kamakailang pagbiling ginawa mo.",
+            "claim_object": "Pakilogin o lumikha ng akawnt upang maangkin ang {{noun}}.",
+            "jam_submit": "Kailangan mo ng akawnt upang makasumite sa isang siksikan."
         },
-        "create_a_new_account": "Gumawa ng bagong account",
+        "create_a_new_account": "Lumikha ng bagong account",
         "looking_for_something_you_bought": "Hinahanap mo ba ang binili mo?",
-        "log_in_to_your_itchio_account": "Maglogin sa iyong itch.io na akawnt"
+        "log_in_to_your_itchio_account": "Maglogin sa iyong itch.io na akawnt",
+        "errors": {
+            "please_enter_a_valid_email_address": "Pakilagay ng gumaganang direksyon ng dagisiking-sulat",
+            "accept_terms": "Dapat mong tanggapin ang Mga Tuntunin ng Serbisyo"
+        },
+        "no_account_prompt": "Wala ka bang akawnt? <1>Lumikha ng akawnt</a>",
+        "you_are_logged_out": "Nakalogout ka"
     },
     "blog": {
         "empty_message": "Wala yatang mga post dito",
@@ -481,5 +564,8 @@
     },
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "Mangyaring magbigay ng bagong password para sa account na {{account_name}}."
+    },
+    "add_to_collection": {
+        "already_in_collections": "Nasa sumusunod na ang proyektong ito sa mga tipon na:"
     }
 }
