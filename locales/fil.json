@@ -56,7 +56,7 @@
             "game_development": "Pagpaunlad ng laro",
             "dashboard": "Dashboard",
             "devlogs": "Mga Tala ng Developer",
-            "skip_to_main_content": "Lumaktaw sa pangunahing kontento"
+            "skip_to_main_content": "Lumaktaw sa pangunahing nilalaman"
         }
     },
     "misc": {
@@ -498,7 +498,8 @@
             "interest_gamer": "Interesado akong maglaro at magdownload ng laro sa itch.io",
             "link_product": "Ang bili mong <1>{{product}}</1> ay sariling kokonekta sa iyong akawnt pagkatapos mong magparehistro.",
             "log_in": "Maglogin",
-            "already_have_account": "o mayroon kanang akawnt?"
+            "already_have_account": "o mayroon kanang akawnt?",
+            "digest_signup": "I-sign up ako sa buod na newsletter ng itch.io na ipinapadala dalawang beses sa isang buwan"
         },
         "create_an_account_on_itchio": "Lumikha ng akawnt sa itch.io"
     },
