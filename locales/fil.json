@@ -323,6 +323,9 @@
         "post_form": {
             "remove_tag": "Tanggalin ang pananda",
             "tag_header": "Pananda"
+        },
+        "post_list": {
+            "report": "Magsumbong"
         }
     },
     "browse": {
@@ -370,7 +373,7 @@
             "there_are_no_submissions_yet": "Wala pang mga submisyon sa ngayon"
         },
         "submitter": {
-            "submission_is_closed_for_voting": "Sarado na ang submisyon at ganap na ang pagboboto",
+            "submission_is_closed_for_voting": "Pinid na ang submisyon at nagaganap ngayon ang pagboboto",
             "countdown": {
                 "voting_ends_in": "Matatapos ang pagboto sa",
                 "submissions_due_in": "Huling submisyon sa",
@@ -428,7 +431,8 @@
             },
             "jam_submission": {
                 "view_the_submission_page": "Tingnan ang pahina ng submisyon",
-                "this_is_a_submission_to_jam_title": "Submisyon ito sa {{jam_title}}"
+                "this_is_a_submission_to_jam_title": "Submisyon ito sa {{jam_title}}",
+                "you_rated_this_game": "Nairate mo ang larong itong"
             },
             "submission_to_jam": "Submisyon sa {{jam_title}}",
             "following_username": "Sinusubaybayan si {{username}}",
@@ -437,7 +441,10 @@
             "follow": "Subaybayan",
             "footer": {
                 "report": "Magsumbong"
-            }
+            },
+            "rate_for_jam": "Magrate para sa {{jam_title}}",
+            "rate_this_noun": "I-rate ang {{noun}}",
+            "rate": "Magrate"
         },
         "percent_off": "<s>{{percent}}%</s> Bawas",
         "info_panel": {
@@ -451,7 +458,11 @@
         "get_access": "Maaakseso mo ang sumusunod na mga talaksan:",
         "download_access": "Pindutin ngayon ang download upang maakseso ang sumusunod na mga talaksan:",
         "report_form": {
-            "form_description": "Pakipunan ang sumusunod kung kakailanganin mong makipag-ugnayan sa pulutong modersyon ng itch.io ukol sa nilalaman ng pahinang ito. Maaaring maibahagi ang iyong sumbong sa nanglikha ng pahina kung kinakailangan."
+            "form_description": "Pakipunan ang sumusunod kung kakailanganin mong makipag-ugnayan sa pulutong modersyon ng itch.io ukol sa nilalaman ng pahinang ito. Maaaring maibahagi ang iyong sumbong sa nanglikha ng pahina kung kinakailangan.",
+            "description_label": "Paglalarawan",
+            "report_received_header": "Natanggap ang sumbong",
+            "title": "Isumbong ang pahinang '{{page_title}}'",
+            "submit_report_button": "Isumite ang sumbong"
         }
     },
     "game_download": {
