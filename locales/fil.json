@@ -434,7 +434,10 @@
             "following_username": "Sinusubaybayan si {{username}}",
             "follow_username": "Subaybayan si {{username}}",
             "following": "Sinusubaybayan",
-            "follow": "Subaybayan"
+            "follow": "Subaybayan",
+            "footer": {
+                "report": "Magsumbong"
+            }
         },
         "percent_off": "<s>{{percent}}%</s> Bawas",
         "info_panel": {
@@ -446,7 +449,10 @@
         },
         "get_access_preorder": "Maaakseso mo ang sumusunod na mga talaksan kapag nailathala na sila:",
         "get_access": "Maaakseso mo ang sumusunod na mga talaksan:",
-        "download_access": "Pindutin ngayon ang download upang maakseso ang sumusunod na mga talaksan:"
+        "download_access": "Pindutin ngayon ang download upang maakseso ang sumusunod na mga talaksan:",
+        "report_form": {
+            "form_description": "Pakipunan ang sumusunod kung kakailanganin mong makipag-ugnayan sa pulutong modersyon ng itch.io ukol sa nilalaman ng pahinang ito. Maaaring maibahagi ang iyong sumbong sa nanglikha ng pahina kung kinakailangan."
+        }
     },
     "game_download": {
         "app_banner": {
@@ -499,7 +505,8 @@
             "link_product": "Ang bili mong <1>{{product}}</1> ay sariling kokonekta sa iyong akawnt pagkatapos mong magparehistro.",
             "log_in": "Maglogin",
             "already_have_account": "o mayroon kanang akawnt?",
-            "digest_signup": "I-sign up ako sa buod na newsletter ng itch.io na ipinapadala dalawang beses sa isang buwan"
+            "digest_signup": "I-sign up ako sa buod na newsletter ng itch.io na ipinapadala dalawang beses sa isang buwan",
+            "interest_developer": "May-nais akong magbahagi ng mga nilalaman sa itch.io"
         },
         "create_an_account_on_itchio": "Lumikha ng akawnt sa itch.io"
     },
