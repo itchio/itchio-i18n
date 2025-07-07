@@ -219,6 +219,9 @@
         "immersive": "Imersibo",
         "idle": "Usyoso",
         "incremental": "Inkremental",
-        "controller": "Supil ng Laro"
+        "controller": "Supil ng Laro",
+        "midi": "MIDI",
+        "metroidvania": "Metroidvania",
+        "mental-health": "Kalusugang Pangkaisipan"
     }
 }
