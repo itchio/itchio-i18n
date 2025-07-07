@@ -222,6 +222,14 @@
         "controller": "Supil ng Laro",
         "midi": "MIDI",
         "metroidvania": "Metroidvania",
-        "mental-health": "Kalusugang Pangkaisipan"
+        "mental-health": "Kalusugang Pangkaisipan",
+        "music": "Tugtugin",
+        "multiple-endings": "Maraming Pagtatapos",
+        "mountains": "Bundok",
+        "monsters": "Halimaw",
+        "modular": "Modular",
+        "modern": "Moderno",
+        "moddable": "Moddable",
+        "minimalist": "Minimalist"
     }
 }
