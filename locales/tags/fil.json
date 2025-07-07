@@ -182,8 +182,8 @@
         "low-poly": "Mababang damsiha",
         "loot": "Loot",
         "multiplayer": "Multiplayer",
-        "massively-multiplayer": "Bungkong na multiplayer",
-        "local-multiplayer": "Pampook na multiplayer",
+        "massively-multiplayer": "Bungkong na pangmaramihang paglalaro",
+        "local-multiplayer": "Pampook na pangmaramihang paglalaro",
         "local-co-op": "Pampook na Pagtutulungan",
         "lo-fi": "Mababang Katapatan",
         "liminal-space": "Espasyong liminal",
@@ -301,6 +301,13 @@
         "rotation": "Inog",
         "romance": "Pagmamahalan",
         "roguelite": "Roguelite",
-        "roguelike": "Roguelike"
+        "roguelike": "Roguelike",
+        "singleplayer": "Pang-isahang paglalaro",
+        "side-scroller": "Sagilirang Galawan",
+        "short": "Maikli",
+        "sharecart1000": "SHARECART1000",
+        "shadows": "Anino",
+        "shaders": "Shaders",
+        "score-attack": "Score Attack"
     }
 }
