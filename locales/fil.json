@@ -49,8 +49,8 @@
             "sales": "Mga benta",
             "search_placeholder": "Maghanap ng mga laro, siksikan ng laro, pananda o manlilikha",
             "feed": "Balitaan",
-            "browse_games": "Maghanap ng Laro",
-            "browse": "Maghanap",
+            "browse_games": "Magmasid ng Laro",
+            "browse": "Magmasid",
             "comics": "Mga komiko",
             "community": "Pamayanan",
             "game_development": "Pagpaunlad ng laro",
@@ -208,7 +208,9 @@
             "language_description": "Wika ng user interface sa itch.io",
             "language": "Wika",
             "click_to_load_games": "Kailanganin ng pindot upang magpatakbo ng HTML5 game embeds",
-            "content": "Nilalaman"
+            "content": "Nilalaman",
+            "show_adult_content": "Magpakita ng mga nilalamang may pananda na pangmatanda sa paghahanap at pagmamasid",
+            "content_description": "Kung papaano pinapakita ni itch.io ang nilalaman sa iyo"
         },
         "password": {
             "current_password": "Kasalukuyang password"
@@ -229,7 +231,7 @@
     "index": {
         "view_more": "Tumingin pa ng iba",
         "recommendations_based_on": "Batay sa mga binili, dinownload, at nairate mo",
-        "browse_all_tags": "Maghanap sa lahat ng pananda",
+        "browse_all_tags": "Magmasid sa lahat ng pananda",
         "from_the_blog": "Mula sa blog",
         "dont_see_anything_you_like": "Wala ba dito ang gusto mo?",
         "popular_tags": "Mga Sikat na Pananda",
@@ -240,7 +242,7 @@
             "bundles": "Mga bigkis",
             "devlogs": "Mga Tala ng Developer"
         },
-        "browse_content_type": "Maghanap ng {{content_type}}",
+        "browse_content_type": "Magmasid ng {{content_type}}",
         "view_all_platforms": "Tignan lahat ng plataporma",
         "filtering_platform": "Sinasala lahat ng laro ayon sa {{platform_name}}",
         "view_all_games_on_sale": "Tignan ang lahat ng larong ibinibenta",
@@ -253,7 +255,7 @@
         "with_demo": "May demo",
         "free_games": "Mga libreng laro",
         "on_sale": "Ibinibenta",
-        "browse": "Maghanap",
+        "browse": "Magmasid",
         "games_by_price": "Mga laro ayon sa presyo",
         "latest_featured_games": "Mga Pinakabagong Tampok na Laro",
         "html5_games": "Mga larong HTML5",
@@ -454,7 +456,8 @@
     "search": {
         "search_results_for_query": "Resulta ng paghahanap sa '{{query}}'",
         "view_all_tags": "Tingnan ang lahat ng pananda",
-        "creators": "Mga manlilikha:"
+        "creators": "Mga manlilikha:",
+        "browse_all_games": "Magmasid sa lahat ng laro"
     },
     "feed": {
         "global_feed_tab": "Pandaigdig na Balitaan",
@@ -651,7 +654,7 @@
     },
     "app": {
         "tagline": "Mag-install, mag-update at maglaro ng indie na laro",
-        "browse_header": "Maghanap ng mga laro na parang nilayon ng naglikha"
+        "browse_header": "Magmasid ng mga laro na parang nilayon ng naglikha"
     },
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "Mangyaring magbigay ng bagong password para sa account na {{account_name}}."
