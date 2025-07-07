@@ -302,12 +302,18 @@
         "romance": "Pagmamahalan",
         "roguelite": "Roguelite",
         "roguelike": "Roguelike",
-        "singleplayer": "Pang-isahang paglalaro",
+        "singleplayer": "Pang-isahang manlalaro",
         "side-scroller": "Sagilirang Galawan",
         "short": "Maikli",
         "sharecart1000": "SHARECART1000",
         "shadows": "Anino",
         "shaders": "Shaders",
-        "score-attack": "Score Attack"
+        "score-attack": "Score Attack",
+        "slime": "Banlik",
+        "slice-of-life": "Hiwa ng Buhay",
+        "slasher": "Paghihiwa-hiwa",
+        "skeletons": "Kalansay",
+        "skating": "Pag-iisketing",
+        "siren-head": "Siren Head"
     }
 }
