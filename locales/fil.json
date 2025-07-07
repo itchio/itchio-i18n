@@ -184,7 +184,12 @@
     },
     "user_settings": {
         "email_addresses": {
-            "primary_email_header": "Pangunahing dagisiking-sulat"
+            "primary_email_header": "Pangunahing dagisiking-sulat",
+            "primary_email_description": "Sa iyong pangunahing dagisiking-sulat pinipadala ni itch.io ang mga pabatid.",
+            "change_email_form": {
+                "new_email_address": "Bagong direksiyon ng dagisiking-sulat"
+            },
+            "your_primary_email_address": "Ang direksiyon ng iyong pangunahing dagisiking-sulat: {{email}}"
         },
         "profile": {
             "use_dark_theme": "Gumamit ng dark theme kung maari",
@@ -202,7 +207,8 @@
             "change_username": "Palitan ang aking username/URL",
             "language_description": "Wika ng user interface sa itch.io",
             "language": "Wika",
-            "click_to_load_games": "Kailanganin ng pindot upang magpatakbo ng HTML5 game embeds"
+            "click_to_load_games": "Kailanganin ng pindot upang magpatakbo ng HTML5 game embeds",
+            "content": "Nilalaman"
         },
         "password": {
             "current_password": "Kasalukuyang password"
@@ -213,7 +219,10 @@
             "misc_header": "Iba pa",
             "publisher_header": "Paglalatha",
             "payment_header": "Pagbayad",
-            "basics_header": "Pangunahin"
+            "basics_header": "Pangunahin",
+            "email_notifications": "Mga pabatid sa dagisiking-sulat",
+            "support_email": "Dagisiking-sulat para sa magpatulong",
+            "email_addresses": "Mga direksiyon ng dagisiking-sulat"
         },
         "account_settings": "Kaayusan ng Account"
     },
@@ -309,7 +318,14 @@
     },
     "community": {
         "topic": {
-            "replies_count": "Mga tugon:{{count}}"
+            "replies_count": "Mga tugon:{{count}}",
+            "new_reply": "Bagong tugon",
+            "this_reply_will_go_to_the_topic_author": "Pupunta ang tugon na ito sa may-akda ng paksa, {{username}}.",
+            "this_reply_will_go_to_yourself": "Pupunta ang tugon na ito sa iyong sarili.",
+            "reply_to_someone_else": "Gusto mong tumugon sa iba? Pindutung ang <s>tumugon</s> sa ibaba ng paskil.",
+            "unlisted_topic_notice": "<s>Tinago ng moderator ang paksa.</s> Makakatugon at mababago mo pa ang iyong tugon kahit hindi na makikita ang paksa sa talaan.",
+            "log_in_to_reply": "Maglogin upang makapagtugon",
+            "reply": "Tumugon"
         },
         "new_topic": {
             "new_topic": "Bagong topic",
@@ -320,14 +336,20 @@
             "new_flag": "Bago",
             "locked_flag": "Nakakandado",
             "list_header_last_post": "Nakaraang post",
-            "no_replies_yet": "Wala pang tugon"
+            "no_replies_yet": "Wala pang tugon",
+            "replies_count": "<s>{{count}}</s> tugon",
+            "replies_count_plural": "<s>{{count}}</s> na tugon"
         },
         "post_form": {
             "remove_tag": "Tanggalin ang pananda",
-            "tag_header": "Pananda"
+            "tag_header": "Pananda",
+            "subscribe_description": "Tumanggap ng pabatid ukol sa mga bagong tugon sa paksa",
+            "post_reply": "Ipaskil ang tugon"
         },
         "post_list": {
-            "report": "Magsumbong"
+            "report": "Magsumbong",
+            "pinned_reply": "Sinipit na Tugon",
+            "reply": "Tumugon"
         }
     },
     "browse": {
@@ -413,7 +435,7 @@
                 "you_just_voted": "Kakaboto mo lang.",
                 "you_havent_rated_this_submission_yet": "Hindi mo pa narerate ang submisyong ito.",
                 "other_participants_can_rate": "Maaaring marate ng ibang sumali sa siksikan ang iyong entrada.",
-                "you_will_be_able_to_rate_if_you_submit": "Maaari kang makarate sa entradang ito kapag makapgsumite ka sa siksikang ito.",
+                "you_will_be_able_to_rate_if_you_submit": "Maaari kang makarate sa entradang ito kapag makapagsumite ka sa siksikang ito.",
                 "participate_to_rate_message": "Kakailanganing mong <a>nakalogin sa itch.io</a> at nakasumite ng sariling entrada upang makarate sa submisyong ito. Maaaring makaiwan ng puna ang kahit sinong may akawnt.",
                 "sign_up_to_vote": "<a>Magsignup ng itch.io na akawnt</a> upang makaboto at maka-iwan ng puna.",
                 "sign_up_to_rate": "<a>Magsignup ng itch.io na akawnt</a> upang makarate at maka-iwan ng puna.",
@@ -425,7 +447,8 @@
                 "vote": "Magboto"
             },
             "rated_by_people_count": "Narate ng {{count}} tao sa ngayon",
-            "rated_by_people_count_plural": "Narate ng {{count}} (na) mga tao sa ngayon"
+            "rated_by_people_count_plural": "Narate ng {{count}} (na) mga tao sa ngayon",
+            "submitted_by_contributors": "Sinumite ni {{contributors}}"
         }
     },
     "search": {
@@ -500,7 +523,8 @@
             "description_label": "Paglalarawan",
             "report_received_header": "Natanggap ang sumbong",
             "title": "Isumbong ang pahinang '{{page_title}}'",
-            "submit_report_button": "Isumite ang sumbong"
+            "submit_report_button": "Isumite ang sumbong",
+            "email_creator_link": "Dagisiking-sulat ng manlilikha"
         }
     },
     "game_download": {
@@ -542,9 +566,10 @@
         "things_rated_header": "Mga narate mo na"
     },
     "notifications": {
-        "page_title": "Mga Notifikasyon",
+        "page_title": "Mga Pabatid",
         "unseen_label": "Bago",
-        "filter_follows": "Nagsusubaybay"
+        "filter_follows": "Nagsusubaybay",
+        "filter_replies": "Mga Tugon"
     },
     "developers": {
         "track_your_game": "Subaybayan ang inyong laro",
@@ -563,7 +588,8 @@
             "log_in": "Maglogin",
             "already_have_account": "o mayroon kanang akawnt?",
             "digest_signup": "I-sign up ako sa buod na newsletter ng itch.io na ipinapadala dalawang beses sa isang buwan",
-            "interest_developer": "May-nais akong magbahagi ng mga nilalaman sa itch.io"
+            "interest_developer": "May-nais akong magbahagi ng mga nilalaman sa itch.io",
+            "your_email_address": "Ang direksiyon ng iyong dagisiking-sulat"
         },
         "create_an_account_on_itchio": "Lumikha ng akawnt sa itch.io"
     },
@@ -632,5 +658,12 @@
     },
     "add_to_collection": {
         "already_in_collections": "Nasa sumusunod na ang proyektong ito sa mga tipon na:"
+    },
+    "collection": {
+        "private_collection_message": "Pribado ang tipon na ito, mga tagapag-ambag lamang ang makakakita sa nilalaman"
+    },
+    "buy_form": {
+        "gift_email_instructions": "Pipili ka ng dagisiking-sulat na padadalhan ng regalo pagkatapos mong makabayad.",
+        "your_email_address": "Ang direksiyon ng iyong dagisiking-sulat"
     }
 }
