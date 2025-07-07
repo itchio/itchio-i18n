@@ -230,6 +230,27 @@
         "modular": "Modular",
         "modern": "Moderno",
         "moddable": "Moddable",
-        "minimalist": "Minimalist"
+        "minimalist": "Minimalist",
+        "open-source": "Bukas na Mapagkukunan",
+        "one-shot": "One-shot",
+        "one-page": "Isahang pahina",
+        "mouse-only": "Raton lang",
+        "twin-stick-shooter": "Dalawahang Tungkod na Barilbarilan",
+        "top-down-shooter": "Tanaw-taas-pababang barilbarilan",
+        "top-down": "Tanaw-Taas-Pababa",
+        "third-person-shooter": "Ikatlong Panauhang Barilbarilan",
+        "shooter": "Barilbarilan",
+        "shoot-em-up": "Pagbarilbarilin Sila",
+        "on-rails-shooter": "Barilbarilan sa Daang-Bakak",
+        "nsfw": "NSFW",
+        "norse": "Norse",
+        "non-violent": "Dimarahas",
+        "non-linear": "Dituwirin",
+        "noir": "Noir",
+        "ninja": "Ninja",
+        "neon": "Neon",
+        "narrative": "Pasalaysay",
+        "mystery": "Misteryo",
+        "music-production": "Pangangalalang ng Tugtugin"
     }
 }
