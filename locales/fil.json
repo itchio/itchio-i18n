@@ -281,7 +281,8 @@
             },
             "details_genre_info": "Pumili ng kategorya na pinakamalapit na naglalarawan sa iyong laro. Maari ka ring dumagdag ng dyanra gamit ang mga pananda sa ibaba",
             "details_tags_header": "Mga pananda",
-            "short_description_field": "Maikling paglalarawan o tagline"
+            "short_description_field": "Maikling paglalarawan o tagline",
+            "content_guidelines_info": "Balisulyapan ang aming <a>mga alintuntunin sa kalidad</a> bago maipaskil ang iyong proyekto"
         },
         "header": {
             "payments_link": "Mga Bayad",
