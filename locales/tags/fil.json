@@ -292,6 +292,15 @@
         "racing": "Paunahan",
         "queer": "Queer",
         "pvp": "PvP",
-        "puzzle-platformer": "Palaisipang Plataporma"
+        "puzzle-platformer": "Palaisipang Plataporma",
+        "science-fiction": "Kathang-agham",
+        "sandbox": "Kahon ng Buhangin",
+        "sailing": "Paglalayag",
+        "runner": "Pagtatakbo",
+        "royalty-free": "Walang Royalty",
+        "rotation": "Inog",
+        "romance": "Pagmamahalan",
+        "roguelite": "Roguelite",
+        "roguelike": "Roguelike"
     }
 }
