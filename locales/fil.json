@@ -151,9 +151,9 @@
             "mouse": "Raton"
         },
         "multiplayer_features": {
-            "adhoc": "Ad-hoc na kabalagang multiplayer",
-            "server": "Kabalagang multiplayer na nakabatay sa server",
-            "local": "Pampook na multiplayer"
+            "adhoc": "Ad-hoc na kabalagang pangmaraming manlalaro",
+            "server": "Kabalagang pangmaraming manlalaro na nakabatay sa server",
+            "local": "Pampook na pangmaraming manlalaro"
         },
         "loading_more_ellip": "Naghahanda ng higit pa…",
         "platforms": {
@@ -370,7 +370,8 @@
             "no_description_yet": "Wala pang paglalarawan sa ngayon"
         },
         "filter_group_misc": "Balabalaki",
-        "sort_top_rated": "Matataas ang pagrate"
+        "sort_top_rated": "Matataas ang pagrate",
+        "filter_group_multiplayer": "Mga tampok pangmaraming manlalaro"
     },
     "jam": {
         "header": {
@@ -512,7 +513,9 @@
         "percent_off": "<s>{{percent}}%</s> Bawas",
         "info_panel": {
             "tags": "Mga pananda",
-            "links": "Mga kawingan"
+            "links": "Mga kawingan",
+            "multiplayer": "Pangmaraming manlalaro",
+            "singleplayer": "Pang-isahang manlalaro"
         },
         "after_download": {
             "view_all_from_jam": "Tingnan ang lahat galing sa siksikan",
