@@ -343,7 +343,8 @@
             "suggest_updated_description": "Magmungkahi ng bagong paglalarawan",
             "no_description_yet": "Wala pang paglalarawan sa ngayon"
         },
-        "filter_group_misc": "Balabalaki"
+        "filter_group_misc": "Balabalaki",
+        "sort_top_rated": "Matataas ang pagrate"
     },
     "jam": {
         "header": {
@@ -370,7 +371,9 @@
             },
             "submissions_will_be_available_after_the_jam_has_ended": "Magiging available ang mga submisyon pagkatapos ng siksikan",
             "there_were_no_submissions": "Wala pang mga submisyon",
-            "there_are_no_submissions_yet": "Wala pang mga submisyon sa ngayon"
+            "there_are_no_submissions_yet": "Wala pang mga submisyon sa ngayon",
+            "rated": "Narate",
+            "help_submissions_in_need_of_ratings": "Tumulong magrate ng mga submisyong mga iilan lang ang pagrerate: <a>Mga submisyong nangangailangan pa ng pagrerate</a>"
         },
         "submitter": {
             "submission_is_closed_for_voting": "Pinid na ang submisyon at nagaganap ngayon ang pagboboto",
@@ -389,11 +392,36 @@
             "youve_joined": "Kasali ka sa siksikan.",
             "or_leave_jam": "o <a>Lumiban sa siksikan</a>",
             "submit_button": "Isumite ang iyong proyekto",
-            "join_jam": "Sumali sa siksikan"
+            "join_jam": "Sumali sa siksikan",
+            "you_can_now_rate_entries": "Makaka-rate kana ngayon sa mga entrada sa <a>pahina ng submisyon</a>"
         },
         "stats": {
             "entries": "Mga entrada",
             "joined": "Kasali"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Diskuwalipikado ang submisyong ito"
+        },
+        "submission": {
+            "rate_submission": {
+                "disqualified_message": "Diskuwalipikado ang entradang ito at wala nang rapat makatanggap ng pagrate.",
+                "you_voted_ago": "Nagboto ka sa {{timestamp}}.",
+                "you_just_voted": "Kakaboto mo lang.",
+                "you_havent_rated_this_submission_yet": "Hindi mo pa narerate ang submisyong ito.",
+                "other_participants_can_rate": "Maaaring marate ng ibang sumali sa siksikan ang iyong entrada.",
+                "you_will_be_able_to_rate_if_you_submit": "Maaari kang makarate sa entradang ito kapag makapgsumite ka sa siksikang ito.",
+                "participate_to_rate_message": "Kakailanganing mong <a>nakalogin sa itch.io</a> at nakasumite ng sariling entrada upang makarate sa submisyong ito. Maaaring makaiwan ng puna ang kahit sinong may akawnt.",
+                "sign_up_to_vote": "<a>Magsignup ng itch.io na akawnt</a> upang makaboto at maka-iwan ng puna.",
+                "sign_up_to_rate": "<a>Magsignup ng itch.io na akawnt</a> upang makarate at maka-iwan ng puna.",
+                "unavailable_to_rate": "Hindi ka maaaring magrate sa proyektong ito rahil hindi ka nagsumite ng sariling entrada. Maaari ka paring mag-iwan ng puna sa ibaba.",
+                "owner_message": "Submisyon mo ito, hindi mo ito maaaring i-rate. Mga ibang kalahok sa siksikan ang maaaring magrate sa proyekto mo rito.",
+                "not_open_yet": "Hindi pa natapos ang submisyon sa siksikang ito. Bubukas pa ang pagrerate sa {{start_date}}.",
+                "rate_this_submission": "Magrate sa submisyong ito",
+                "vote_for_this_submission": "Botohin ang submisyong ito",
+                "vote": "Magboto"
+            },
+            "rated_by_people_count": "Narate ng {{count}} tao sa ngayon",
+            "rated_by_people_count_plural": "Narate ng {{count}} (na) mga tao sa ngayon"
         }
     },
     "search": {
@@ -422,6 +450,10 @@
         "to_follow": {
             "to_follow_description": "Narito ang ilang mga account na maaaring may interesado kang magsubaybay.",
             "people_to_follow_header": "Mga taong maaaring subaybayan"
+        },
+        "to_rate": {
+            "to_rate_description": "Ito ang mga nakipag-ugnayan mo ngunit hindi pa narerate.",
+            "projects_to_rate_header": "Mga proyektong irerate"
         }
     },
     "game": {
@@ -432,7 +464,8 @@
             "jam_submission": {
                 "view_the_submission_page": "Tingnan ang pahina ng submisyon",
                 "this_is_a_submission_to_jam_title": "Submisyon ito sa {{jam_title}}",
-                "you_rated_this_game": "Nairate mo ang larong itong"
+                "you_rated_this_game": "Nairate mo ang larong itong",
+                "rating_instructions": "Dalawin ang pahina ng submisyon upang marate at mapuna ang entradang ito gamit ang kawingan sa itaas."
             },
             "submission_to_jam": "Submisyon sa {{jam_title}}",
             "following_username": "Sinusubaybayan si {{username}}",
@@ -448,7 +481,8 @@
         },
         "percent_off": "<s>{{percent}}%</s> Bawas",
         "info_panel": {
-            "tags": "Mga pananda"
+            "tags": "Mga pananda",
+            "links": "Mga kawingan"
         },
         "after_download": {
             "view_all_from_jam": "Tingnan ang lahat galing sa siksikan",
@@ -487,13 +521,19 @@
         "things_you_own_header": "Mga pagmamay-ari mo",
         "page_title": "Aking Aklatan",
         "nav": {
-            "recommended_for_you": "Rinerekomenda para sayo"
+            "recommended_for_you": "Rinerekomenda para sayo",
+            "things_to_rate": "Mga irerate pa"
         },
         "empty_collection_message": "Walang laman ang koleksyong ito",
         "go_to_collection_link": "Tumungo sa koleksyon",
         "rate_game": {
-            "follow_creator": "Pag-isipang sundan ang naglikha ng {{project_title}} upang manatiling napapanahon sa kanilang mga bagong iilathala."
-        }
+            "follow_creator": "Pag-isipang sundan ang naglikha ng {{project_title}} upang manatiling napapanahon sa kanilang mga bagong iilathala.",
+            "choose_stars": "Pumili ng pagrate simula sa isa hanggang limang bituwin.",
+            "delete_button": "Tanggalin ang pagrate at pamuna",
+            "rating_deleted_summary": "Tinanggal ang iyong pagrate.",
+            "rating_removed_header": "Inalis ang pagrate"
+        },
+        "things_rated_header": "Mga narate mo na"
     },
     "notifications": {
         "page_title": "Mga Notifikasyon",
