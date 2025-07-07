@@ -282,7 +282,8 @@
             "details_genre_info": "Pumili ng kategorya na pinakamalapit na naglalarawan sa iyong laro. Maari ka ring dumagdag ng dyanra gamit ang mga pananda sa ibaba",
             "details_tags_header": "Mga pananda",
             "short_description_field": "Maikling paglalarawan o tagline",
-            "content_guidelines_info": "Balisulyapan ang aming <a>mga alintuntunin sa kalidad</a> bago maipaskil ang iyong proyekto"
+            "content_guidelines_info": "Balisulyapan ang aming <a>mga alintuntunin sa kalidad</a> bago maipaskil ang iyong proyekto",
+            "visibility_access_info": "Gamitin ang Burador upang mabalisulyapan ang iyong proyekto bago ito masapubliko. <a>Matuto pa ukol sa mga moda ng pag-akses</a>"
         },
         "header": {
             "payments_link": "Mga Bayad",
@@ -364,7 +365,9 @@
             "submissions": {
                 "by_author": "ni {{author}}"
             },
-            "empty_page_message": "Walang mga resulta sa pahina na ito"
+            "empty_page_message": "Walang mga resulta sa pahina na ito",
+            "submissions_summary": "<s>{{count}} entrada</s> ang naisumite galing {{start_date}} hanggang {{end_date}}.",
+            "submissions_summary_plural": "<s>{{count}} na entrada</s> ang naisumite galing {{start_date}} hanggang {{end_date}}."
         },
         "submissions": {
             "filters": {
@@ -530,9 +533,11 @@
         "rate_game": {
             "follow_creator": "Pag-isipang sundan ang naglikha ng {{project_title}} upang manatiling napapanahon sa kanilang mga bagong iilathala.",
             "choose_stars": "Pumili ng pagrate simula sa isa hanggang limang bituwin.",
-            "delete_button": "Tanggalin ang pagrate at pamuna",
+            "delete_button": "Tanggalin ang pagrate at balisulyap",
             "rating_deleted_summary": "Tinanggal ang iyong pagrate.",
-            "rating_removed_header": "Inalis ang pagrate"
+            "rating_removed_header": "Inalis ang pagrate",
+            "you_rated_this_project_ago": "Narate mo na ang proyektong ito mga {{time_ago}}.",
+            "rate_header": "I-rate at balisulyapan ang {{project_title}}"
         },
         "things_rated_header": "Mga narate mo na"
     },
