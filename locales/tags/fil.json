@@ -277,6 +277,21 @@
         "pbta": "PbtA",
         "parody": "Gayambalbal",
         "parkour": "Parkour",
-        "painting": "Pagpipinta"
+        "painting": "Pagpipinta",
+        "robots": "Robots",
+        "roadtrip": "Roadtrip",
+        "rhythm": "Aliw-iw",
+        "retro": "Retro",
+        "remake": "Muling likha",
+        "relaxing": "Nakakapahinga",
+        "turn-based-strategy": "Kaparaanan sa Pagsalitan",
+        "strategy": "Kaparaanan",
+        "real-time-strategy": "Kaparaanang Totoong Panahon",
+        "real-time": "Totoong Panahon",
+        "railroad": "Daang-bakal",
+        "racing": "Paunahan",
+        "queer": "Queer",
+        "pvp": "PvP",
+        "puzzle-platformer": "Palaisipang Plataporma"
     }
 }
