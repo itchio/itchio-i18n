@@ -631,7 +631,7 @@
             "please_enter_a_valid_email_address": "Pakilagay ng gumaganang direksyon ng dagisiking-sulat",
             "accept_terms": "Dapat mong tanggapin ang Mga Tuntunin ng Serbisyo"
         },
-        "no_account_prompt": "Wala ka bang akawnt? <1>Lumikha ng akawnt</a>",
+        "no_account_prompt": "Wala ka bang akawnt? <1>Lumikha ng akawnt</1>",
         "you_are_logged_out": "Nakalogout ka"
     },
     "blog": {
