@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
 
-    - uses: leafo/gh-actions-lua@master
+    - uses: lewis6991/gh-actions-lua@01aab24c4de9555717b685f9b142a2abbe12ef14
       with:
         luaVersion: ${{ matrix.luaVersion }}
 
