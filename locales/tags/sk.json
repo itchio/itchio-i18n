@@ -323,7 +323,7 @@
         "indie": "Indie",
         "hexcrawl": "Hexcrawl",
         "hex-based": "Hex Based",
-        "boys-love": "Boys' Love",
+        "boys-love": "Láska Chlapcov",
         "bara": "Bara",
         "sprites": "Sprites",
         "porn": "Porno",
@@ -351,6 +351,18 @@
         "comics": "Komiksy",
         "clicker": "Klikačka",
         "cartoon": "Kreslené",
-        "asset-pack": "Balíček Assetov"
+        "asset-pack": "Balíček Assetov",
+        "thriller": "Thriller",
+        "tentacles": "Chápadlá",
+        "synthwave": "Synthwave",
+        "svg": "SVG",
+        "solo-rpg": "Sólo RPG",
+        "siren-head": "Siren Head",
+        "shaders": "Shadery",
+        "roadtrip": "Roadtrip",
+        "itchfunding": "Financované od Itch",
+        "heist": "Lúpež",
+        "doujinshi": "Doujinshi",
+        "basketball": "Basketbal"
     }
 }

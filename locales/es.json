@@ -16,7 +16,7 @@
             "browse_games": "Explorar Juegos",
             "upload_game": "Subir Juego",
             "community": "Comunidad",
-            "search_placeholder": "Buscar juegos o creadores",
+            "search_placeholder": "Buscar juegos, jams, etiquetas, o creadores",
             "search": "Buscar",
             "log_in": "Iniciar sesión",
             "register": "Registrarse",
@@ -38,7 +38,8 @@
             "game_assets": "Insumos",
             "feed_unseen_count": "{{count}} nuevo",
             "feed_unseen_count_plural": "{{count}} nuevos",
-            "feed": "Boletín"
+            "feed": "Boletín",
+            "skip_to_main_content": "Saltar al contenido principal"
         },
         "user_menu": {
             "explore": "Explorar",
@@ -377,7 +378,7 @@
             "like": "Me gusta",
             "reply": "Responder",
             "edits_count": "({{count}} edición)",
-            "edits_count_plural": "({{count}} ediciones)",
+            "edits_count_plural": "({{count}}ediciones)",
             "edit_blocks": "Editar bloques",
             "post_from_blocked_account": "Comentario de una cuenta bloqueada",
             "deleted_post": "Comentario borrado"
@@ -1086,7 +1087,7 @@
             "account_type_gamer": "Para jugar y descargar juegos",
             "account_type_description": "Cómo usarás tu cuenta",
             "account_type": "Tipo de cuenta",
-            "twitter_description": "Cuenta de Twitter para mostrarse en tu perfil",
+            "twitter_description": "Cuenta de Twitter para mostrar en tu perfil (Opcional)",
             "website_description": "URL opcional que será mostrada en la página de tu perfil",
             "website": "Página web",
             "display_name_description": "Este nombre será mostrado en vez de tu nombre de usuario, déjalo en blanco si quieres mostrar tu nombre de usuario",

@@ -18,7 +18,7 @@
             "upload_game": "Carica un gioco",
             "devlogs": "Registri degli sviluppatori",
             "community": "Comunità",
-            "search_placeholder": "Cerca giochi o autori",
+            "search_placeholder": "Cerca giochi, jam, tag o autori",
             "search": "Cerca",
             "log_in": "Accedi",
             "register": "Registrati",
@@ -38,7 +38,8 @@
             "feed_unseen_count": "{{count}} nuovo",
             "feed_unseen_count_plural": "{{count}} nuovi",
             "feed": "Feed",
-            "dashboard": "Dashboard"
+            "dashboard": "Dashboard",
+            "skip_to_main_content": "Passa al contenuto principale"
         },
         "user_menu": {
             "explore": "Esplora",
@@ -392,7 +393,7 @@
             "account_type_gamer": "Gioco e scarico giochi",
             "account_type_description": "Dicci cosa fai qui su itch.io",
             "account_type": "Tipo dell'account",
-            "twitter_description": "Un account di Twitter che verrà mostrato nella tua pagina",
+            "twitter_description": "Opzionalmente un account di Twitter che verrà mostrato nella tua pagina",
             "website_description": "Sito opzionale che verrà mostrato nella tua pagina",
             "website": "Sito",
             "display_name_description": "Verrà mostrato al posto del tuo nome d'arte, lascia il campo vuoto per il nome d'arte",
@@ -1079,7 +1080,7 @@
         "no_description_yet": "Ancora non c'è nessuna descrizione",
         "commonly_tagged_with": "Comunemente taggato con",
         "find_tag": "Trova un'etichetta",
-        "page_title": "Etichette più alte",
+        "page_title": "Top dei tag",
         "all_tags": "Tutte le etichette",
         "types": {
             "tool": "Strumenti",
@@ -1223,7 +1224,7 @@
             "vote_down": "Vota negativamente",
             "vote_up": "Vota positivamente",
             "view_more_in_thread": "Guarda di più",
-            "ban": "Ban…",
+            "ban": "Banna…",
             "report": "Segnala",
             "delete": "Cancella",
             "delete_topic": "Cancella commento",

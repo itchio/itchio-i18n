@@ -865,7 +865,9 @@
             "delete_game_button": "Dilemel ar c'hoari",
             "custom_noun_field": "Anv personelaet",
             "description_field": "Deskrivadur",
-            "kind_of_project_field": "Stumm ar raktres"
+            "kind_of_project_field": "Stumm ar raktres",
+            "pricing_header": "Prizioù",
+            "save_and_view_button": "Enrollañ & gwelout ar bajenn"
         },
         "hello": "Demat !",
         "stats": {
@@ -889,7 +891,8 @@
         },
         "project_list": {
             "edit": "Kemmañ"
-        }
+        },
+        "dashboard": "Taolenn-stur"
     },
     "feed": {
         "event_filter_label": "Sil :",
