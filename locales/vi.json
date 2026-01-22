@@ -9,7 +9,7 @@
             "no_notifications": "Không có thông báo mới",
             "free_games": "Trò chơi miễn phí",
             "bundles": "Gói",
-            "search_placeholder": "Tìm kiếm trò chơi hoặc nhà sáng tạo",
+            "search_placeholder": "Tìm kiếm trò chơi, jam, nhãn hoặc nhà sáng tạo",
             "indie_game_store": "Cửa hàng trò chơi indie",
             "game_development": "Phát triển trò chơi",
             "community": "Cộng đồng",
@@ -23,9 +23,10 @@
             "sales": "Khuyến mãi",
             "game_assets": "Tài nguyên",
             "browse_games": "Khám phá trò chơi",
-            "game_jams": "Game Jam",
+            "game_jams": "Game jam",
             "dashboard": "Bảng điều khiển",
-            "fun_games": "Game vui"
+            "fun_games": "Game vui",
+            "skip_to_main_content": "Nhảy đến nội dung chính"
         },
         "footer": {
             "about": "Giới thiệu",
@@ -166,7 +167,8 @@
             "submit": "Gửi",
             "optional": "Tuỳ chọn",
             "search": "Tìm kiếm",
-            "form_errors": "Vui lòng kiểm tra thông tin bạn cung cấp"
+            "form_errors": "Vui lòng kiểm tra thông tin bạn cung cấp",
+            "confirm": "Xác nhận"
         },
         "platforms": {
             "web": "Web"
@@ -385,7 +387,7 @@
             "release_date": "Ngày phát hành",
             "platforms": "Nền tảng",
             "made_with_tools": "Được làm với",
-            "code_license": "Giấy phép",
+            "code_license": "Giấy phép mã nguồn",
             "asset_license": "Giấy phép tài nguyên",
             "updated_at": "Đã cập nhật",
             "published_at": "Đã xuất bản",
