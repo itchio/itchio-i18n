@@ -463,7 +463,8 @@
             "edit_rating": "Chỉnh sửa đánh giá",
             "rate": "Đánh giá",
             "rate_this_noun": "Đánh giá {{noun}} này",
-            "submission_to_jam": "Mục thi của {{jam_title}}"
+            "submission_to_jam": "Mục thi của {{jam_title}}",
+            "included_in_bundle_title": "Được bao gồm trong {{bundle_title}}"
         },
         "after_download": {
             "thanks_for_downloading_title": "Cảm ơn vì đã tải xuống",
