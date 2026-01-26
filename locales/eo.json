@@ -49,7 +49,8 @@
             "log_out": "Elsaluti",
             "account": "Konto",
             "create": "Krei",
-            "explore": "Esplori"
+            "explore": "Esplori",
+            "posts": "Afiŝoj"
         }
     },
     "index": {
@@ -92,27 +93,49 @@
         },
         "classifications": {
             "tool": "Iloj",
-            "book": "Libroj"
+            "book": "Libroj",
+            "game_mod": "Ludmodifoj",
+            "comic": "Bildrakontoj"
         },
         "forms": {
-            "email_address": "Retpoŝta adreso"
+            "email_address": "Retpoŝta adreso",
+            "confirm": "Konfirmi",
+            "submit": "Submeti"
         },
         "follow_button": {
             "unfollow_username": "Malsekvi {{username}}",
             "following_username": "Vi sekvas {{username}}",
             "follow_username": "Sekvi {{username}}"
+        },
+        "loading_more_ellip": "Ŝarĝante pli…",
+        "project_visibility": {
+            "draft": "Skizo"
+        },
+        "inputs": {
+            "phone": "Saĝtelefono",
+            "accelerometer": "Akcelometro",
+            "joystick": "Stirstango",
+            "gamepad": "Ludregilo (iu ajn)"
+        },
+        "accessibility_features": {
+            "tutorial": "Interagebla lernilo",
+            "highcontrast": "Alta kontrasto",
+            "configurable_controls": "Agordeblaj regiloj"
         }
     },
     "user_login": {
         "login_form": {
             "username_or_email": "Uzantnomo aŭ retpoŝtadreso",
-            "password": "Pasvorto"
+            "password": "Pasvorto",
+            "forgot_password": "Forgesis la pasvorton"
         },
         "errors": {
-            "please_enter_a_valid_email_address": "Bonvolu tajpi validan retpoŝtadreson"
+            "please_enter_a_valid_email_address": "Bonvolu tajpi validan retpoŝtadreson",
+            "accept_terms": "Vi devas akcepti la Servokondiĉojn"
         },
         "intent": {
-            "follow_username": "Vi bezonas konton en itch.io antaŭ vi povas sekvi <1>{{username}}</1>."
+            "follow_username": "Vi bezonas konton en itch.io antaŭ vi povas sekvi <1>{{username}}</1>.",
+            "collection": "Vi bezonos konton sur itch.io antaŭ ol vi povas aldoni al kolekto."
         }
     },
     "user_register": {
@@ -120,14 +143,26 @@
             "username": "Uzantnomo",
             "password": "Pasvorto",
             "repeat_password": "Pasvorto-ripeto",
-            "your_email_address": "Via retpoŝta adreso"
+            "your_email_address": "Via retpoŝta adreso",
+            "url_preview": "Via profila paĝo estos",
+            "about_you": "Pri vi",
+            "interest_gamer": "Mi interesiĝas pri ludi aŭ elŝuti ludojn sur itch.io",
+            "accept_tos": "Mi akceptas la <1>Servokondiĉojn</1>"
         }
     },
     "developers": {
-        "learn_more": "Lerni Pli"
+        "learn_more": "Lerni Pli",
+        "upload_or_dashboard": "<1>Alŝuti novan ludon</1> <em>aŭ</em> <2>Iri al kontrolpanelo</2>",
+        "create_account_or_login": "<1>Krei konton</1> <em>aŭ</em> <2>Ensaluti</2>",
+        "learn_more_about": "Lerni pli pri:",
+        "upload_your_indie_game": "Alŝutu Vian Sendependan Ludon",
+        "account_faq_cta": "<1>Krei konton nun</1> aŭ <2>Legi la FAQ-n</2>",
+        "upload_a_new_game": "Alŝuti novan ludon",
+        "my_dashboard": "Mia kontrolpanelo"
     },
     "app": {
-        "community_header": "Aliĝu al la komunumo"
+        "community_header": "Aliĝu al la komunumo",
+        "open_source": "Malfermfonta"
     },
     "game": {
         "buy_now_button": "Aĉeti nun",
@@ -160,5 +195,15 @@
     },
     "buy_form": {
         "your_email_address": "Via retpoŝta adreso"
+    },
+    "search": {
+        "browse_all_games": "Foliumi ĉiujn ludojn",
+        "view_all_tags": "Vidi ĉiujn etikedojn",
+        "published_count": "{{count}} projekto",
+        "published_count_plural": "{{count}} projektoj",
+        "creators": "Kreantoj:"
+    },
+    "user_forgot_password": {
+        "please_provide_a_new_password_for_account": "Bonvolu aldoni novan pasvorton por la konto {{account_name}}."
     }
 }
