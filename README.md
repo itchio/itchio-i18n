@@ -9,7 +9,7 @@ to build translations modules used by the itch.io website to insert localized
 strings.
 
 If you'd like to contribute to translations on itch.io then we recommend using
-our [Weblate](https://weblate.itch.ovh/projects/itchio/). You can create an
+our [Weblate](https://weblate.itch.zone/projects/itchio/). You can create an
 account there and suggest translations. Accepted changes are merged back into
 this branch automatically.
 
