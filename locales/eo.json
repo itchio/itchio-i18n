@@ -127,7 +127,8 @@
         "login_form": {
             "username_or_email": "Uzantnomo aŭ retpoŝtadreso",
             "password": "Pasvorto",
-            "forgot_password": "Forgesis la pasvorton"
+            "forgot_password": "Forgesis la pasvorton",
+            "create_account": "Krei konton"
         },
         "errors": {
             "please_enter_a_valid_email_address": "Bonvolu tajpi validan retpoŝtadreson",
@@ -204,6 +205,7 @@
         "creators": "Kreantoj:"
     },
     "user_forgot_password": {
-        "please_provide_a_new_password_for_account": "Bonvolu aldoni novan pasvorton por la konto {{account_name}}."
+        "please_provide_a_new_password_for_account": "Bonvolu aldoni novan pasvorton por la konto {{account_name}}.",
+        "reset_password": "Reagordi Pasvorton"
     }
 }
