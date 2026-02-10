@@ -18,7 +18,7 @@
             "upload_game": "Prześlij grę",
             "devlogs": "Dzienniki deweloperów",
             "community": "Społeczność",
-            "search_placeholder": "Szukaj gier lub twórców",
+            "search_placeholder": "Szukaj gier, jamów, tagów lub twórców",
             "search": "Szukaj",
             "log_in": "Zaloguj się",
             "register": "Zarejestruj",
@@ -40,7 +40,8 @@
             "feed_unseen_count_0": "{{count}} nowa",
             "feed_unseen_count_1": "{{count}} nowe",
             "feed_unseen_count_2": "{{count}} nowych",
-            "feed": "Tablica"
+            "feed": "Tablica",
+            "skip_to_main_content": "Przejdź do głównej zawartości"
         },
         "user_menu": {
             "explore": "Odkrywaj",
@@ -736,7 +737,8 @@
             "clear_filter": "Wyczyść filtr"
         },
         "filter_everything_else": "Wszystko inne",
-        "filter_group_player_count": "Liczba graczy"
+        "filter_group_player_count": "Liczba graczy",
+        "no_results_found": "Brak wyników"
     },
     "browse_tags": {
         "page_title": "Popularne tagi",
@@ -803,7 +805,7 @@
             "display_name_description": "Nazwa wyświetlana zamiast twojej nazwy użytkownika, pozostaw puste dla domyślnej nazwy użytkownika",
             "website": "Strona domowa",
             "website_description": "Opcjonalny URL wyświetlany na twojej stronie profilowej",
-            "twitter_description": "Konto twitter wyświetlane na twoim profilu",
+            "twitter_description": "Opcjonalne konto Twitter wyświetlane na twoim profilu",
             "account_type": "Rodzaj konta",
             "account_type_description": "Jak będziesz używać konta",
             "account_type_gamer": "Granie i pobieranie gier",
