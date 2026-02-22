@@ -38,7 +38,8 @@
             "dashboard": "Painel de Controle",
             "jams": "Eventos",
             "notifications_count": "{{count}} notificação",
-            "notifications_count_plural": "{{count}} notificações"
+            "notifications_count_plural": "{{count}} notificações",
+            "skip_to_main_content": "Pular para o conteúdo principal"
         },
         "user_menu": {
             "explore": "Explorar",
