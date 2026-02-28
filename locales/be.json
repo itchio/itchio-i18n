@@ -8,7 +8,7 @@
         "download_app": "Загрузіць дадатак",
         "games_by_price": "Гульні па кошце",
         "browse": "Агляд",
-        "popular_tags": "Папулярныя пазнакі",
+        "popular_tags": "Папулярныя тэгі",
         "to_follow": {
             "dismiss_tooltip": "Не прапаноўваць больш",
             "refresh_button": "Абнавіць, каб бачыць больш",
@@ -79,7 +79,7 @@
             "register": "Зарэгістравацца",
             "log_in": "Уваход",
             "search": "Пошук",
-            "search_placeholder": "Пошук гульняў і стваральнікаў",
+            "search_placeholder": "Пошук гульняў, геймджэмаў, тэгаў і стваральнікаў",
             "community": "Супольнасць",
             "devlogs": "Дзённікі распрацоўкі",
             "upload_game": "Загрузіць гульню",
@@ -95,7 +95,7 @@
             "terms": "Умовы выкарыстання",
             "contact_us": "Звязацца",
             "blog": "Блог",
-            "about": "Аб сайце"
+            "about": "Пра сайт"
         },
         "user_menu": {
             "posts": "Публікацыі",
@@ -303,7 +303,8 @@
     },
     "game": {
         "info_panel": {
-            "updated_at": "Абноўлена"
+            "updated_at": "Абноўлена",
+            "tags": "Тэгі"
         },
         "comments": {
             "log_in_to_leave_comment": "<a>Увайдзіце ў акаўнт itch.io</a>, каб пакінуць каментар.",
@@ -360,5 +361,12 @@
     },
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "Увядзіце новы пароль для ўліковага запісу {{account_name}}."
+    },
+    "browse_tags": {
+        "find_tag": "Знайсці тэг",
+        "page_title": "Папулярныя тэгі"
+    },
+    "browse": {
+        "view_all_tags": "Глядзець усе тэгі"
     }
 }
