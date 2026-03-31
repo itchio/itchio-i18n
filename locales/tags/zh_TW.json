@@ -217,6 +217,15 @@
         "music": "音樂",
         "music-production": "音樂製作",
         "mystery": "神秘",
-        "narrative": "敘事"
+        "narrative": "敘事",
+        "midi": "MIDI",
+        "neon": "霓虹",
+        "ninja": "忍者",
+        "noir": "黑色電影風格",
+        "non-linear": "非線性",
+        "non-violent": "非暴力",
+        "norse": "北歐風格",
+        "nsfw": "限制級",
+        "on-rails-shooter": "定軌射擊"
     }
 }
