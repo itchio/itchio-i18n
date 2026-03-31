@@ -16,7 +16,7 @@
         "abstract": "抽象",
         "8-bit": "8位元",
         "4x": "4X",
-        "3d-platformer": "3D 平台遊戲",
+        "3d-platformer": "3D平台遊戲",
         "boss-battle": "BOSS對戰",
         "boring": "無聊",
         "board-game": "棋盤遊戲",
@@ -204,6 +204,8 @@
         "immersive": "身臨其境",
         "idle": "怠",
         "icons": "圖示",
-        "hypercard": "超級卡"
+        "hypercard": "超級卡",
+        "basketball": "籃球",
+        "doujinshi": "同人"
     }
 }
