@@ -251,6 +251,12 @@
         "point-and-click": "點擊式",
         "porn": "情色",
         "post-apocalyptic": "後末日",
-        "print-and-play": "即印即玩"
+        "print-and-play": "即印即玩",
+        "procedural": "隨機生成",
+        "prototype": "原型",
+        "psychological-horror": "心理恐怖",
+        "puzzle": "解謎",
+        "puzzle-platformer": "動作解謎",
+        "pvp": "玩家對戰"
     }
 }
