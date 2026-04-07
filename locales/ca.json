@@ -15,7 +15,7 @@
             "browse_games": "Explora els Jocs",
             "upload_game": "Penja un Joc",
             "community": "Comunitat",
-            "search_placeholder": "Cerca jocs o desenvolupadors",
+            "search_placeholder": "Cerca jocs, jams, etiquetes o creadors",
             "search": "Cerca",
             "log_in": "Inicia la sessió",
             "register": "Registreu-vos",
@@ -37,7 +37,8 @@
             "feed": "Fil de continguts",
             "game_jams": "Game jams",
             "devlogs": "Devlogs",
-            "jams": "Jams"
+            "jams": "Jams",
+            "skip_to_main_content": "Salta al contingut principal"
         },
         "user_menu": {
             "explore": "Explora",
@@ -725,7 +726,8 @@
             "clear_filter": "Neteja el filtre"
         },
         "filter_everything_else": "Tota la resta",
-        "filter_group_player_count": "Nombre de jugadors"
+        "filter_group_player_count": "Nombre de jugadors",
+        "no_results_found": "No s’ha trobat cap resultat"
     },
     "browse_tags": {
         "page_title": "Etiquetes més populars",
@@ -791,7 +793,7 @@
             "display_name_description": "Nom que es mostra en lloc del vostre nom d’usuari, deixeu-lo en blanc per a fer servir el nom d’usuari",
             "website": "Lloc web",
             "website_description": "URL opcional que es mostrarà a la vostra pàgina de perfil",
-            "twitter_description": "Compte de Twitter que es mostrarà al vostre perfil",
+            "twitter_description": "Compte de Twitter que es mostrarà al vostre perfil (opcional)",
             "account_type": "Tipus de compte",
             "account_type_description": "Com fareu servir el vostre compte",
             "account_type_gamer": "Per a jugar i baixar jocs",
