@@ -779,8 +779,7 @@
             "deleted_account": "已刪除的帳戶",
             "suspended_account": "已停用的帳戶",
             "edit": "編輯",
-            "edits_count": "（已編輯 {{count}} 次）",
-            "edits_count_plural": "({{count}}編輯)",
+            "edits_count_0": "（已編輯 {{count}} 次）",
             "post_from_suspended_account": "來自已停用帳戶的貼文",
             "pinned_post": "置頂貼文",
             "deleted_post": "已刪除的文章",
@@ -983,8 +982,7 @@
         "sort_popular": "流行",
         "filter_group_genre": "類型",
         "filter_group_misc": "其他",
-        "results_count": "{{count}} 個結果",
-        "results_count_plural": "{{count}}個結果",
+        "results_count_0": "{{count}} 個結果",
         "sort_new_and_popular": "新品&流行",
         "sort_top_sellers": "最暢銷",
         "sort_top_rated": "最高評價",
@@ -1192,11 +1190,10 @@
             "run_project": "執行專案",
             "results_header": "結果",
             "score_information": "成績會以競賽中所有遊戲收到的評分的中位數來對原始分數做調整。",
-            "rated_by_people_count": "已有{{count}}人評分",
-            "rated_by_people_count_plural": "目前已有{{count}}人給予評分",
+            "rated_by_people_count_0": "已有{{count}}人評分",
             "ranked_with_vote_count": "以{{count}}票排名{{ordinal_rank}}",
             "ranked_from_count_plural": "根據<s>{{count}}個評分</s>排名。",
-            "ranked_from_count": "根據<s>{{count}}個評分</s>排名。"
+            "ranked_from_count_0": "根據<s>{{count}}個評分</s>排名。"
         },
         "stats": {
             "ratings": "評分",
