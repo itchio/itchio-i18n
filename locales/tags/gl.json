@@ -1,1 +1,8 @@
-{}
+{
+    "tags": {
+        "2d": "2D",
+        "3d": "3D",
+        "anime": "Anime",
+        "arcade": "Arcade"
+    }
+}
