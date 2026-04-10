@@ -545,7 +545,7 @@
             "post_from_blocked_account": "Bài đăng từ tài khoản đã chặn",
             "edit_blocks": "Chỉnh sửa chặn",
             "edits_count_plural": "({{count}} lần chỉnh sửa)",
-            "edits_count": "({{count}} lần chỉnh sửa)",
+            "edits_count_0": "({{count}} lần chỉnh sửa)",
             "reply": "Trả lời",
             "like": "Thích",
             "delete_topic": "Xóa chủ đề",
@@ -711,7 +711,7 @@
             "clear_filter": "Xóa bộ lọc"
         },
         "filter_everything_else": "Tất cả những thứ còn lại",
-        "results_count": "{{count}} kết quả",
+        "results_count_0": "{{count}} kết quả",
         "upload_your_project": "<a>Đăng tải dự án của bạn</a> lên itch.io để cho nó hiển thị ở đây."
     },
     "browse_tags": {
@@ -1051,12 +1051,11 @@
             "downloads": "Lượt tải về",
             "play_game": "Chơi trò chơi",
             "run_project": "Chạy dự án",
-            "ranked_from_count": "Đã xếp hạng từ <s>{{count}} đánh giá</s>.",
-            "ranked_from_count_plural": "Đã xếp hạng từ <s>{{count}} đánh giá</s>.",
+            "ranked_from_count_0": "Đã xếp hạng từ <s>{{count}} đánh giá</s>.",
             "ranked_with_vote_count": "Đã xếp hạng {{ordinal_rank}} với {{count}} lượt bình chọn",
             "time_remaining_before_deadline": "{{time_duration}} trước hạn chốt",
             "rated_by_people_count_plural": "Đã được đánh giá bởi {{count}} người đến nay",
-            "rated_by_people_count": "Đã được đánh giá bởi {{count}} người đến nay",
+            "rated_by_people_count_0": "Đã được đánh giá bởi {{count}} người đến nay",
             "remove_this_submission_button": "Xóa bỏ mục thi này",
             "score_information": "Điểm số được điều chỉnh từ điểm số thô dựa vào số đánh giá trung vi mỗi trò chơi trong jam này."
         },
