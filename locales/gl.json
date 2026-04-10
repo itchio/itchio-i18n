@@ -1,1 +1,16 @@
-{}
+{
+    "itchio": "itch.io",
+    "layout": {
+        "footer": {
+            "about": "Acerca de",
+            "privacy": "Privacidade",
+            "cookies": "Cookies"
+        },
+        "header": {
+            "free_games": "Xogos de balde",
+            "indie_game_store": "Tenda de xogos independentes",
+            "game_development": "Desenvolvemento de xogos",
+            "sales": "Ofertas"
+        }
+    }
+}
