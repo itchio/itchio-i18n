@@ -29,11 +29,9 @@
             "notifications_count_0": "התראה {{count}}",
             "notifications_count_1": "{{count}} התראות",
             "notifications_count_2": "{{count}} התראות",
-            "notifications_count_3": "{{count}} התראות",
             "feed_unseen_count_0": "{{count}} חדש",
             "feed_unseen_count_1": "{{count}} חדשים",
             "feed_unseen_count_2": "{{count}} חדשים",
-            "feed_unseen_count_3": "{{count}} חדשים",
             "indie_game_store": "חנות משחקים",
             "dashboard": "לוח בקרה",
             "bundles": "חבילות",
@@ -341,8 +339,7 @@
         "results": {
             "ratings_given_submissions_count_0": "<s>דירוג {{count}}</s> ניתן ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}.",
             "ratings_given_submissions_count_1": "<s>{{count}} דירוגים</s> ניתנו ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}.",
-            "ratings_given_submissions_count_2": "<s>{{count}} דירוגים</s> ניתנו ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}.",
-            "ratings_given_submissions_count_3": "<s>{{count}} דירוגים</s> ניתנו ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}."
+            "ratings_given_submissions_count_2": "<s>{{count}} דירוגים</s> ניתנו ל<s>{{submission_count}} משתתפים</s> ({{percent}} אחוזים) בין {{vote_start_date}} ל-{{vote_end_date}}."
         }
     },
     "search": {
@@ -351,7 +348,6 @@
         "published_count_0": "פריויקט {{count}}",
         "published_count_1": "{{count}} פרויקטים",
         "published_count_2": "{{count}} פרויקטים",
-        "published_count_3": "{{count}} פרויקטים",
         "browse_all_games": "גלוש בכל המשחקים",
         "search_results_for_query": "תוצאות חיפוש ל \"{{query}}\""
     },
@@ -510,7 +506,6 @@
         "community_posts_count_0": "הודעה אחת",
         "community_posts_count_1": "שתי הודעות",
         "community_posts_count_2": "{{count}} הודעות",
-        "community_posts_count_3": "{{count}} הודעות",
         "after_download": {
             "share_this_project": "שתף את הפרוייקט הזה",
             "thanks_for_downloading_title": "תודה שהורדת",
@@ -616,7 +611,6 @@
         "results_count_0": "תוצאה אחת",
         "results_count_1": "שתי תוצאות",
         "results_count_2": "{{count}} תוצאות",
-        "results_count_3": "{{count}} תוצאות",
         "results_count_plural": "{{count}} תוצאות"
     },
     "library": {
@@ -698,8 +692,7 @@
             "create_first_topic_button": "צור את הנושא הראשון",
             "topics_count_0": "נושא אחד",
             "topics_count_1": "שני נושאים",
-            "topics_count_2": "{{count}} נושאים",
-            "topics_count_3": "{{count}} נושאים"
+            "topics_count_2": "{{count}} נושאים"
         },
         "misc": {
             "new_topic_button": "נושא חדש"
@@ -750,7 +743,6 @@
             "edits_count_0": "(עריכה אחת)",
             "edits_count_1": "(שתי עריכות)",
             "edits_count_2": "({{count}} עריכות)",
-            "edits_count_3": "({{count}} עריכות)",
             "edits_count_plural": "({{count}} עריכות)",
             "edit_blocks": "ערוך בלוקים",
             "post_from_blocked_account": "פרסום ממשתמש חסום",
