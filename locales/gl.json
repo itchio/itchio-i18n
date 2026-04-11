@@ -4,13 +4,33 @@
         "footer": {
             "about": "Acerca de",
             "privacy": "Privacidade",
-            "cookies": "Cookies"
+            "cookies": "Cookies",
+            "faq": "Preguntas frecuentes",
+            "blog": "Blog",
+            "contact_us": "Contacta connosco",
+            "terms": "Termos",
+            "directory": "Directorio"
         },
         "header": {
             "free_games": "Xogos de balde",
             "indie_game_store": "Tenda de xogos independentes",
             "game_development": "Desenvolvemento de xogos",
-            "sales": "Ofertas"
+            "sales": "Ofertas",
+            "browse": "Explorar",
+            "browse_games": "Explorar xogos",
+            "upload_game": "Subir xogo",
+            "devlogs": "Rexistros de desenvolvemento",
+            "community": "Comunidade",
+            "search_placeholder": "Buscar xogos, jams, etiquetas ou creadores",
+            "search": "Buscar",
+            "log_in": "Iniciar sesión",
+            "register": "Rexistrarse",
+            "dashboard": "Panel de control",
+            "jams": "Jams",
+            "notifications_count": "{{count}} notificación",
+            "notifications_count_plural": "{{count}} notificacións",
+            "no_notifications": "Non hai notificacións novas",
+            "game_jams": "Game Jams"
         }
     }
 }
