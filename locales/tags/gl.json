@@ -3,6 +3,25 @@
         "2d": "2D",
         "3d": "3D",
         "anime": "Anime",
-        "arcade": "Arcade"
+        "arcade": "Arcade",
+        "4x": "4X",
+        "3d-platformer": "Plataformas 3D",
+        "8-bit": "8 bits",
+        "abstract": "Abstracto",
+        "action": "Acción",
+        "action-adventure": "Acción e aventura",
+        "action-rpg": "RPG de acción",
+        "adult": "Adultos",
+        "adventure": "Aventura",
+        "alternate-history": "Historia alternativa",
+        "animals": "Animais",
+        "animation": "Animación",
+        "art-book": "Libro de arte",
+        "asset-pack": "Paquete de recursos",
+        "asteroids": "Asteroides",
+        "atmospheric": "Atmosférico",
+        "audio": "Son",
+        "augmented-reality": "Realidade aumentada",
+        "automation": "Automatización"
     }
 }
