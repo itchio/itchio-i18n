@@ -30,7 +30,44 @@
             "notifications_count": "{{count}} notificación",
             "notifications_count_plural": "{{count}} notificacións",
             "no_notifications": "Non hai notificacións novas",
-            "game_jams": "Game Jams"
+            "game_jams": "Game Jams",
+            "comics": "Cómics",
+            "bundles": "Lotes",
+            "game_assets": "Recursos",
+            "fun_games": "Xogos divertidos",
+            "games": "Xogos",
+            "feed_unseen_count": "{{count}} novo",
+            "feed_unseen_count_plural": "{{count}} novos",
+            "feed": "Actividade",
+            "skip_to_main_content": "Saltar ao contido principal"
+        },
+        "user_menu": {
+            "explore": "Explorar",
+            "create": "Crear",
+            "account": "Conta",
+            "log_out": "Pechar sesión",
+            "settings": "Configuración",
+            "view_profile": "Ver perfil",
+            "host_game_jam": "Organizar unha game jam",
+            "sales_bundles": "Ofertas e lotes",
+            "new_project": "Subir novo proxecto",
+            "dashboard": "Panel de control",
+            "game_jams": "Game jams",
+            "recommendations": "Recomendacións",
+            "library": "A miña biblioteca",
+            "feed": "O meu feed",
+            "account_menu_tooltip": "Menú da conta",
+            "posts": "Publicacións"
         }
+    },
+    "index": {
+        "popular_tags": "Etiquetas populares",
+        "browse": "Explorar",
+        "games_by_price": "Xogos por prezo",
+        "download_app": "Descargar aplicación",
+        "view_something_random": "Ver algo ao chou",
+        "view_all_games": "Ver todos os xogos",
+        "dont_see_anything_you_like": "Non ves nada que che guste?",
+        "from_the_blog": "Do blog"
     }
 }
