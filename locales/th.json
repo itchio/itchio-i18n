@@ -93,13 +93,14 @@
             "register": "สร้างบัญชี",
             "log_in": "เข้าสู่ระบบ",
             "search": "ค้นหา",
-            "search_placeholder": "ลองค้นหาเกมหรือผู้สร้างสรรค์",
+            "search_placeholder": "ลองค้นหาเกม แจม แท็ก หรือผู้สร้างสรรค์",
             "community": "ชุมชน",
             "devlogs": "บันทึกผู้พัฒนา",
             "upload_game": "อัปโหลดเกม",
             "browse_games": "ค้นหาเกม",
             "browse": "ค้นดู",
-            "game_jams": "แจมเกม"
+            "game_jams": "แจมเกม",
+            "skip_to_main_content": "ข้ามไปเนื้อหาหลัก"
         },
         "footer": {
             "cookies": "นโยบายคุกกี้",
@@ -140,7 +141,8 @@
             "contact_header": "การติดต่อ",
             "publisher_header": "การเผยแพร่",
             "payment_header": "การชำระเงิน",
-            "basics_header": "ทั่วไป"
+            "basics_header": "ทั่วไป",
+            "delete_account": "ลบบัญชี"
         },
         "account_settings": "การตั้งค่าบัญชี",
         "profile": {
@@ -148,7 +150,7 @@
             "language_description": "ภาษาของอินเตอร์เฟซ itch สำหรับผู้ใช้",
             "language": "ภาษา",
             "change_username": "เปลี่ยนชื่อผู้ใช้ของฉัน/URL",
-            "twitter_description": "บัญชี Twitter ที่แสดงบนโปรไฟล์ของคุณ",
+            "twitter_description": "บัญชี Twitter ที่แสดงบนโปรไฟล์ของคุณ (ไม่บังคับ)",
             "account_type_description": "คุณจะใช้บัญชีของคุณอย่างไร",
             "default_language_option": "ค่าเริ่มต้น (ตั้งค่าเป็นภาษาอังกฤษในระหว่างช่วงทดสอบภาษา)",
             "disable_animated_gifs": "ปิดภาพ gif ที่เคลื่อนไหวได้",
@@ -224,8 +226,7 @@
         }
     },
     "browse": {
-        "results_count": "{{count}} ผลลัพธ์",
-        "results_count_plural": "{{count}} ผลลัพธ์",
+        "results_count_0": "{{count}} ผลลัพธ์",
         "sort_popular": "ยอดนิยม",
         "sort_new_and_popular": "ใหม่ยอดนิยม",
         "sort_top_sellers": "ขายดี",
@@ -264,7 +265,10 @@
         "filter_group_collection": "คอลเลคชัน",
         "filter_group_tools": "เครื่องมือและเอนจิน",
         "fresh_description": "ค้นหาชุดโปรเจกต์ที่มีการอัปเดตอย่างสม่ำเสมอจากคอลเลคชันที่คัดสรรโดยสมาชิกของเรา อย่าลืมกลับมาตรวจสอบสิ่งใหม่ๆ เพิ่มเติม",
-        "filter_everything_else": "ทุกอย่างที่มี"
+        "filter_everything_else": "ทุกอย่างที่มี",
+        "results_count_plural": "พบ ­{{count}} รายการ",
+        "filter_group_player_count": "จำนวนผู้เล่น",
+        "no_results_found": "ไม่มีผลลัพธ์"
     },
     "misc": {
         "accessibility_features": {
@@ -800,7 +804,7 @@
             "pinned_post": "การโพสต์ที่ปักหมุดไว้",
             "edit_blocks": "แก้ไขบล็อก",
             "edits_count_plural": "(แก้ไข {{count}} ครั้ง)",
-            "edits_count": "(แก้ไข {{count}} ครั้ง)",
+            "edits_count_0": "(แก้ไข {{count}} ครั้ง)",
             "like": "ชื่นชอบ",
             "view_more_in_thread": "ดูเพิ่มเติมในเธรด",
             "vote_up": "โหวตขึ้น",
@@ -1022,11 +1026,9 @@
             "no_rankings_available": "อันดับยังไม่พร้อมแสดง"
         },
         "submission": {
-            "rated_by_people_count": "จัดอันดับโดย {{count}} คน จนถึงตอนนี้",
-            "rated_by_people_count_plural": "มีผู้ให้คะแนนแล้ว {{count}} คน",
+            "rated_by_people_count_0": "จัดอันดับโดย {{count}} คน จนถึงตอนนี้",
             "ranked_with_vote_count": "ได้อันดับ {{ordinal_rank}} ด้วย {{count}} โหวต",
-            "ranked_from_count": "จัดอันดับจาก <s>{{count}} เรตติ้ง</s>",
-            "ranked_from_count_plural": "จัดอันดับจาก <s>{{count}} เรตติ้ง</s>",
+            "ranked_from_count_0": "จัดอันดับจาก <s>{{count}} เรตติ้ง</s>",
             "score_information": "คะแนนจะถูกปรับจากคะแนนดิบ ตามค่ากลาง(ค่ามัธยฐาน)จากคะแนนต่อเกมใน Jam",
             "rate_submission": {
                 "you_havent_rated_this_submission_yet": "คุณยังไม่ได้ให้คะแนนการส่งนี้เลย",
@@ -1069,11 +1071,16 @@
             },
             "view_project_page": "ดูหน้า โปรเจกต์",
             "view_game_page": "ดูหน้า เกม",
-            "results_table_votes": "โหวต"
+            "results_table_votes": "โหวต",
+            "ranked_from_count_plural": "เรียงลำดับจาก<s>การให้คะแนน {{count}} รายการ</s>",
+            "rated_by_people_count_plural": "ให้คะแนนโดยผู้ใช้ {{count}} คน"
         },
         "screenshots": {
             "empty_message": "ยังไม่มีการอัปโหลดภาพหน้าจอใดๆ",
             "loading_more": "กำลังโหลดภาพหน้าจอเพิ่มเติม…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "การส่งนี้ถูกตัดสิทธิ์"
         }
     },
     "dashboard": {
@@ -1192,7 +1199,8 @@
             "community_discussion_board_info": "เพิ่มหน้าชุมชนโดยเฉพาะ ด้วยหมวดหมู่ กระทู้ การตอบกลับ และอื่นๆ",
             "screenshots_header": "ภาพหน้าจอ",
             "add_screenshots": "เพิ่มภาพหน้าจอ",
-            "community_comments_info": "เพิ่มกระทู้ความคิดเห็นที่ซ้อนกันที่ด้านล่างของหน้าโปรเจกต์"
+            "community_comments_info": "เพิ่มกระทู้ความคิดเห็นที่ซ้อนกันที่ด้านล่างของหน้าโปรเจกต์",
+            "external_file_tooltip": "คุณป้อนลิงก์สำหรับเข้าถึงไฟล์และเราจะติดตามว่ามีการกดดาวน์โหลดเป็นจำนวนเท่าใด"
         },
         "dashboard": "แดชบอร์ด",
         "hello": "ว่าไง!",
