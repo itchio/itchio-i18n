@@ -117,7 +117,55 @@
     },
     "misc": {
         "classifications": {
-            "game": "Xogos"
+            "game": "Xogos",
+            "assets": "Recursos do xogo",
+            "game_mod": "Modificacións para xogos",
+            "physical_game": "Xogos físicos",
+            "soundtrack": "Álbums e bandas sonoras",
+            "other": "Varios",
+            "tool": "Ferramentas",
+            "comic": "Cómics",
+            "book": "Libros"
+        },
+        "accessibility_features": {
+            "colorblind": "Adaptado para daltonismo",
+            "subtitles": "Subtítulos",
+            "configurable_controls": "Controis configurables",
+            "highcontrast": "Alto contraste",
+            "tutorial": "Titorial interactivo",
+            "one_button": "Un botón",
+            "blind": "Adaptado para persoas cegas",
+            "textless": "Sen texto"
+        },
+        "multiplayer_features": {
+            "local": "Multixogador local",
+            "server": "Multixogador en rede baseado en servidor",
+            "adhoc": "Multixogador en rede ad hoc"
+        },
+        "inputs": {
+            "keyboard": "Teclado",
+            "mouse": "Rato",
+            "gamepad": "Mando (calquera)",
+            "joystick": "Joystick",
+            "touchscreen": "Pantalla táctil",
+            "voice": "Control por voz",
+            "accelerometer": "Acelerómetro",
+            "phone": "Teléfono intelixente",
+            "dance_pad": "Tapete de baile",
+            "midi_controller": "Controlador MIDI"
+        },
+        "durations": {
+            "seconds": "Uns segundos",
+            "minutes": "uns poucos minutos",
+            "half_hour": "Ao redor de media hora",
+            "hour": "Ao redor dunha hora",
+            "hours": "Unhas poucas horas",
+            "days": "Días ou máis"
+        },
+        "forms": {
+            "required": "Requirido",
+            "save": "Gardar",
+            "email_address": "Enderezo de correo electrónico"
         }
     }
 }
