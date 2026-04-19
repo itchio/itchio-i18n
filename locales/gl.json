@@ -105,6 +105,19 @@
         },
         "intro": "<s>itch.io</s> é unha forma sinxela de atopar e compartir xogos indie en liña de balde.",
         "intro_cta": "<1>Engade o teu xogo</1> ou <2>Consulta as preguntas frecuentes</2>",
-        "html5_games": "Xogos HTML5"
+        "html5_games": "Xogos HTML5",
+        "page_title": "Descargalos derradeiros xogos indie",
+        "meta_description": "itch.io é unha forma sinxela de atopar, descargar e distribuír xogos indie en liña. Tanto se es un desenvolvedor que quere subir o seu xogo como se só buscas algo novo ao que xogar, itch.io ten o que precisas.",
+        "to_follow": {
+            "created_projects": "Creado {{project_list}}",
+            "empty_results": "Non temos máis recomendacións agora mesmo. Volta máis tarde",
+            "refresh_button": "Actualizar para ver máis",
+            "dismiss_tooltip": "Non suxerir máis"
+        }
+    },
+    "misc": {
+        "classifications": {
+            "game": "Xogos"
+        }
     }
 }
