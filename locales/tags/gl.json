@@ -85,6 +85,18 @@
         "educational": "Educativo",
         "effects": "Efectos",
         "emulator": "Emulador",
-        "endesga-32": "ENDESGA 32"
+        "endesga-32": "ENDESGA 32",
+        "breakout": "Rompe bloques (Breakout)",
+        "bullet-hell": "Inferno de balas",
+        "clicker": "Xogo de clics",
+        "coming-of-age": "Maduración",
+        "endless": "Sen fin",
+        "endless-runner": "Corredor infinito",
+        "episodic": "Episódico",
+        "eroge": "Eroge",
+        "erotic": "Erótico",
+        "escape-game": "Xogo de escape",
+        "experimental": "Experimental",
+        "exploration": "Exploración"
     }
 }
