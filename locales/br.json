@@ -937,7 +937,11 @@
         "log_in_to_link": "Kennaskañ evit liammañ",
         "link_my_account": "Liammañ ma c'hont",
         "or_share_on": "pe rannañ war",
-        "share_and_follow": "Rannañ ha heuliañ"
+        "share_and_follow": "Rannañ ha heuliañ",
+        "linked_user_message": "Liammet eo bet ar bajenn-mañ ouzh ar gont {{username}}.",
+        "purchase": {
+            "linked_user_message": "Liammet eo bet ar brenadenn-mañ ouzh ar gont {{username}}."
+        }
     },
     "stripe_checkout": {
         "full_name": "Anv klok",
