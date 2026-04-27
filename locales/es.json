@@ -92,7 +92,7 @@
         "more_featured_games": "Más juegos seleccionados",
         "game_dev_on_sale": "Recursos Para Gamedevs <1>En Oferta</1>",
         "view_all_on_sale": "Ver todas las ofertas",
-        "people_to_follow_description": "Estos son algunos perfiles que puede que te interese seguir. <a>¿Por qué seguirles?</a>",
+        "people_to_follow_description": "Estos son algunos perfiles que puede que te interese seguir. <a>¿Por qué seguirlos?</a>",
         "latest_featured_games": "Últimos Juegos Seleccionados",
         "filtering_platform": "Filtrando todos los juegos para {{platform_name}}",
         "view_all_platforms": "Ver todas las plataformas",
@@ -292,7 +292,7 @@
             "digest_signup": "Inscríbeme a la newsletter con el resumen bimensual de itch.io",
             "interest_gamer": "Estoy interesado en jugar o descargar juegos en itch.io",
             "interest_developer": "Estoy interesado en distribuir contenido en itch.io",
-            "account_preferences_info": "Puedes cambiar tus respuestas a estar preguntas despues, son usadas para darle una pista a itch.io en como debe presentarse a ti.",
+            "account_preferences_info": "Puedes cambiar tus respuestas a estar preguntas después, son usadas para darle una pista a itch.io en como debe presentarse a ti.",
             "about_you": "Acerca de ti",
             "your_email_address": "Tu dirección de correo electrónico",
             "password": "Contraseña",
@@ -437,8 +437,8 @@
             "view_this_communitys_rules": "Ver las reglas de esta comunidad…"
         },
         "topic_list": {
-            "views_count": "<s>{{count}}</s> Ver",
-            "views_count_plural": "<s>{{count}}</s> Ver varias",
+            "views_count": "<s>{{count}}</s> visita",
+            "views_count_plural": "<s>{{count}}</s> visitas",
             "list_header_last_post": "Última publicación",
             "list_header_topic_title": "Tema",
             "locked_flag": "Bloqueado",
@@ -477,7 +477,7 @@
             "publisher": "Editor",
             "platforms": "Plataformas",
             "asset_license": "Licencia de assets",
-            "languages": "Lenguajes",
+            "languages": "Idiomas",
             "average_session_duration": "Sesión media",
             "inputs": "Entradas",
             "mentions": "Menciones",
@@ -646,7 +646,7 @@
             "download_title": "Descarga {{project_title}}",
             "preorder_title": "Preordenar {{project_title}}",
             "view_rest_in_bundle": "Ver el resto del bundle",
-            "more_menu": "Mas",
+            "more_menu": "Más",
             "invoice": "Factura"
         },
         "linked_user_message": "Esta página está vinculada a la cuenta de {{username}}.",
@@ -1100,7 +1100,7 @@
             "username_description": "Usado para acceder a tu cuenta y para la dirección url de tu página",
             "username": "Nombre de usuario",
             "page_header": "Perfil",
-            "language_description": "Lenguaje de la interfaz de usuario en itch.io",
+            "language_description": "Idioma de la interfaz de usuario en itch.io",
             "language": "Lenguaje"
         },
         "navigation": {
@@ -1285,7 +1285,7 @@
         "manage_cards_link": "Puedes administrar tus tarjetas de crédito desde tus <a>Ajustes de Cuenta</a>",
         "save_credit_card_for_future_purchases": "Guardar tarjeta de crédito para compras futuras",
         "credit_or_debit_card": "Tarjeta de crédito o débito",
-        "gift_instructions": "Esta compra es un regalo. Después de comprar el producto podrás introducir el correo electrónico del recibidor."
+        "gift_instructions": "Esta compra es un regalo. Después de comprar el producto podrás introducir el correo electrónico del destinatario."
     },
     "jams": {
         "page_title": "Game Jams en itch.io",
