@@ -38,7 +38,7 @@
             "games": "Xogos",
             "feed_unseen_count": "{{count}} novo",
             "feed_unseen_count_plural": "{{count}} novos",
-            "feed": "Actividade",
+            "feed": "Novidades",
             "skip_to_main_content": "Saltar ao contido principal"
         },
         "user_menu": {
@@ -55,7 +55,7 @@
             "game_jams": "Game jams",
             "recommendations": "Recomendacións",
             "library": "A miña biblioteca",
-            "feed": "O meu feed",
+            "feed": "As miñas novidades",
             "account_menu_tooltip": "Menú da conta",
             "posts": "Publicacións"
         }
