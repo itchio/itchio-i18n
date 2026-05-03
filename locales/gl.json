@@ -82,7 +82,7 @@
         "view_all": "Ver todo",
         "recommended_for_you": "Recomendado para ti",
         "recommendations_based_on": "Baseado no que compraches, descargaches e valoraches",
-        "fresh_games": "Xogos recentes",
+        "fresh_games": "Novidades",
         "view_more": "Ver máis",
         "featured_jams": "Game jams destacadas",
         "view_all_jams": "Ver todas as jams",
@@ -121,7 +121,7 @@
             "game": "Xogos",
             "assets": "Recursos para xogos",
             "game_mod": "Mods para xogos",
-            "physical_game": "Xogos físicos",
+            "physical_game": "Xogos en físico",
             "soundtrack": "Álbums e bandas sonoras",
             "other": "Varios",
             "tool": "Ferramentas",
@@ -357,7 +357,7 @@
         "community_description": "Obtén máis información sobre o desenvolvemento da aplicación <1>na nosa comunidade</1>. Solicita novas funcionalidades e achega suxestións coa comunidade de usuarios de itch.io. Se te dedicas á programación, alegrarache saber que o noso proxecto é de <2>código aberto e dispoñible en GitHub</2>. Agardamos as túas contribucións.",
         "page_title": "Descargar aplicación",
         "meta_description": "itch, a mellor forma de descargar e xogar a xogos indie. Descarga xogos gratuítos e administra a túa biblioteca desde o teu escritorio. Xa dispoñible para Windows, macOS e Linux.",
-        "browse_header": "Explora páxinas de xogos deseñadas polos seus creadores"
+        "browse_header": "Explora páxinas de xogo deseñadas polos seus creadores"
     },
     "game": {
         "empty_page": "Parece que non hai nada aquí…",
