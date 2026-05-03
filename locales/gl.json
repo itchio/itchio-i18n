@@ -356,7 +356,8 @@
         "community_header": "Únete á comunidade",
         "community_description": "Obtén máis información sobre o desenvolvemento da aplicación <1>na nosa comunidade</1>. Solicita novas funcionalidades e achega suxestións coa comunidade de usuarios de itch.io. Se te dedicas á programación, alegrarache saber que o noso proxecto é de <2>código aberto e dispoñible en GitHub</2>. Agardamos as túas contribucións.",
         "page_title": "Descargar aplicación",
-        "meta_description": "itch, a mellor forma de descargar e xogar a xogos indie. Descarga xogos gratuítos e administra a túa biblioteca desde o teu escritorio. Xa dispoñible para Windows, macOS e Linux."
+        "meta_description": "itch, a mellor forma de descargar e xogar a xogos indie. Descarga xogos gratuítos e administra a túa biblioteca desde o teu escritorio. Xa dispoñible para Windows, macOS e Linux.",
+        "browse_header": "Explora páxinas de xogos deseñadas polos seus creadores"
     },
     "game": {
         "empty_page": "Parece que non hai nada aquí…",
