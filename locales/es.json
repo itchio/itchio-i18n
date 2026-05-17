@@ -765,19 +765,19 @@
                 "sign_up_to_vote": "<a>Inicia sesión con una cuenta de itch.io</a> para poder votar y dejar comentarios.",
                 "sign_up_to_rate": "<a>Inicia sesión con una cuenta de itch.io</a> para poder calificar y dejar comentarios.",
                 "you_havent_rated_this_submission_yet": "Aún no has puntuado esta entrada.",
-                "save_rating": "Guardar puntuación",
+                "save_rating": "Guardar calificación",
                 "save_vote": "Guardar voto",
-                "vote_for_this_submission": "Vote por este envío",
+                "vote_for_this_submission": "Vota este envío",
                 "rate_this_submission": "Califica este envío",
-                "not_open_yet": "El período de presentación de este jam aún no ha finalizado. La calificación abre el {{start_date}}.",
-                "owner_message": "Este es su envío, no puede calificarlo. Otros participantes de la jam podrán calificar tu proyecto aquí.",
-                "unavailable_to_rate": "No puede calificar este proyecto porque no ha enviado su propia entrada. Sin embargo, puedes dejar un comentario a continuación.",
-                "participate_to_rate_message": "Para calificar este envío, debe <a> iniciar sesión en itch.io </a> y haber enviado su propia entrada. Cualquiera que tenga una cuenta puede dejar un comentario.",
-                "you_will_be_able_to_rate_if_you_submit": "Podrás calificar esta entrada si te envías a este jam.",
-                "other_participants_can_rate": "Otros que hayan ingresado al Jam podrán calificar su participación.",
+                "not_open_yet": "El período de envío de esta jam aún no ha terminado. La calificación empieza el {{start_date}}.",
+                "owner_message": "Este es tu envío, no puedes calificarlo. Otros participantes de la jam podrán calificar tu proyecto aquí.",
+                "unavailable_to_rate": "No puedes calificar este proyecto porque no has enviado una entrada propia. Sin embargo, debajo puedes dejar un comentario.",
+                "participate_to_rate_message": "Para calificar este envío, debes haber <a>iniciado sesión en itch.io</a> y enviado tu propia entrada. Cualquiera que tenga una cuenta puede dejar un comentario.",
+                "you_will_be_able_to_rate_if_you_submit": "Podrás calificar esta entrada si haces un envío a esta jam.",
+                "other_participants_can_rate": "Otros que hayan entrado a la jam podrán calificar tu participación.",
                 "you_just_voted": "Usted acaba de votar.",
-                "you_voted_ago": "Votaste {{timestamp}}.",
-                "disqualified_message": "Esta entrada está descalificada y no es elegible para calificaciones."
+                "you_voted_ago": "Has votado {{timestamp}}.",
+                "disqualified_message": "Esta entrada está descalificada y no es calificable."
             },
             "results_header": "Resultados",
             "play_game": "Jugar",
@@ -816,7 +816,7 @@
             "empty_message": "Aún no se han subido capturas de pantalla"
         },
         "rate_game": {
-            "this_submission_is_disqualified": "Esta presentación está descalificada"
+            "this_submission_is_disqualified": "Esta entrada está descalificada"
         }
     },
     "app": {
@@ -877,7 +877,7 @@
             },
             "project_url_field": "URL del proyecto",
             "file_size_limit": "Tamaño máximo de archivo: {{filesize}}. <a>Contacta con nosotros</a> si necesitas más espacio",
-            "video_field_description": "Aporta un enlace a Youtube o Vimeo.",
+            "video_field_description": "Añade un enlace a Youtube o Vimeo.",
             "types": {
                 "downloadable": "Descargable"
             },
@@ -930,19 +930,19 @@
             "create_a_new_project_title": "Crear un nuevo proyecto",
             "title_field": "Título",
             "delete_game_button": "Borrar juego",
-            "custom_noun_field_description": "Puede cambiar la forma en que itch.io se refiere a su proyecto proporcionando un nombre personalizado.",
-            "instructions_field_info2": "Si su juego requiere que se instalen bibliotecas o programas primero, también debe incluir esa información",
-            "instructions_field_info1": "Este texto se le mostrará a alguien cuando esté descargando tu juego a través de su navegador. Incluya cualquier información sobre cómo instalar y ejecutar lo que están descargando.",
-            "short_description_field_description": "Se muestra cuando nos vinculamos a su proyecto. Evite duplicar el título de su proyecto",
-            "video_field": "Video de juego o avance",
+            "custom_noun_field_description": "Puedes cambiar la forma en que itch.io se refiere a tu proyecto proporcionando un nombre personalizado.",
+            "instructions_field_info2": "Si tu juego requiere que se instalen bibliotecas o programas primero, también debes incluir esa información",
+            "instructions_field_info1": "Este texto se le mostrará a alguien cuando esté descargando tu juego a través de su navegador. Incluye cualquier información sobre cómo instalar y ejecutar lo que están descargando.",
+            "short_description_field_description": "Se muestra cuando hay un enlace a tu proyecto. Evita duplicar el título",
+            "video_field": "Video del juego o tráiler",
             "short_description_field": "Breve descripción o lema",
             "release_status_field": "Estado de lanzamiento",
             "upload_files_button": "Subir archivos",
-            "custom_noun_field": "Sustantivo personalizado",
+            "custom_noun_field": "Nombre personalizado",
             "instructions_field": "Instrucciones de descarga e instalación",
-            "default_noun": "Déjelo en blanco para que el valor predeterminado sea: '{{default_noun}}'.",
-            "project_type_help": "Puede agregar archivos descargables adicionales para cualquiera de los tipos anteriores",
-            "description_field_description": "Esto constituirá el contenido de su página de juego.",
+            "default_noun": "Déjalo en blanco para que el valor por defecto sea: '{{default_noun}}'.",
+            "project_type_help": "Puedes agregar archivos descargables adicionales de cualquiera de los tipos anteriores",
+            "description_field_description": "Esto será el contenido de la página de tu juego.",
             "community_disabled": "Desactivada",
             "pricing_header": "Precios",
             "uploads_header": "Subidas",
@@ -981,7 +981,7 @@
         "intro_text": "¿Eres desarrollador? Sube tu primer juego",
         "project_list": {
             "edit": "Editar",
-            "analytics": "Analítica",
+            "analytics": "Analíticas",
             "widget": "Widget",
             "no_image": "Sin imágen"
         },
@@ -992,21 +992,21 @@
             "payments": "Pagos",
             "gross_revenue": "Ingresos brutos",
             "following": "Siguiendo",
-            "views": "Puntos de vista"
+            "views": "Visitas"
         },
         "follow_itchio": "Sigue a itch.io en {{twitter}} y {{facebook}}",
         "analytics_summary_header": "Resumen",
         "header": {
             "payments_link": "Pagos",
             "projects_link": "Proyectos",
-            "coop_bundles_link": "Paquetes cooperativos",
-            "analytics_link": "Analítica",
+            "coop_bundles_link": "Lotes cooperativos",
+            "analytics_link": "Analíticas",
             "payouts_link": "Pagos",
-            "sales_bundles_link": "Ventas y paquetes",
-            "game_jams_link": "Jams de juego"
+            "sales_bundles_link": "Ofertas y lotes",
+            "game_jams_link": "Jams de juegos"
         },
-        "page_title": "Panel del creador",
-        "not_a_developer_escape": "No, llévame al feed de juegos",
+        "page_title": "Panel de Creador",
+        "not_a_developer_escape": "No, llévame al boletín de juegos",
         "recently_updated_pages_header": "Páginas actualizadas recientemente",
         "new_devlog": "Nuevo devlog",
         "dashboard": "Tablero",
