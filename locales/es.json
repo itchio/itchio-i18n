@@ -610,7 +610,7 @@
         }
     },
     "game_download": {
-        "claim_external_key": "Reclamar código {{key_type}}",
+        "claim_external_key": "Reclamar clave {{key_type}}",
         "purchase": {
             "link_purchase_links": "<1>Crea una cuenta</1> o <2>inicia sesión en itch.io</2> para vincular instantáneamente esta compra.",
             "link_purchase_warning": "¡No pierdas tu compra!",
@@ -631,9 +631,9 @@
         "already_own": "Parece que ya tienes esto",
         "access_existing_copy": "No puedes reclamar otra copia, pero puedes acceder a tu copia existente.",
         "get_external_key": "Obtener la clave {{key_type}}",
-        "claim_external_key_instructions": "Haga clic en el botón para reclamarlo.",
-        "payment_comes_with_key": "¡Su pago viene con una clave {{key_type}}!",
-        "access_comes_with_key": "¡Su acceso viene con una clave {{key_type}}!",
+        "claim_external_key_instructions": "Haz clic en el botón para reclamarlo.",
+        "payment_comes_with_key": "¡Tu pago viene con una clave {{key_type}}!",
+        "access_comes_with_key": "¡Tu acceso viene con una clave {{key_type}}!",
         "access_it": "Acceder",
         "email_capture": {
             "dont_lose_your_purchase": "¡No pierdas tu compra!",
@@ -652,9 +652,9 @@
         "linked_user_message": "Esta página está vinculada a la cuenta de {{username}}.",
         "link_my_account": "Vincular mi cuenta",
         "log_in_to_link": "Inicia sesión para vincular",
-        "link_account_header": "Vincular esta página de descarga a su cuenta de itch.io",
-        "link_account_description": "Puede vincular esta página de descarga a una cuenta de itch.io para no tener que preocuparse por perderla. Aparecerá junto con cualquier otra cosa que poseas.",
-        "must_link_account_description": "Debe vincular esta página a una cuenta de itch.io antes de poder descargarla. Las cuentas son gratuitas y te permitirán realizar un seguimiento de los juegos que hayas recopilado.",
+        "link_account_header": "Vincula esta página de descarga a tu cuenta de itch.io",
+        "link_account_description": "Puedes vincular esta página de descarga a una cuenta de itch.io para no tener que preocuparte por perderla. Aparecerá junto con cualquier otra cosa que tengas.",
+        "must_link_account_description": "Debes vincular esta página a una cuenta de itch.io antes de descargarla. Las cuentas son gratuitas y te permitirán realizar un seguimiento de los juegos que hayas recopilado.",
         "install_instructions_intro": "Instrucciones de descarga e instalación de {{username}}:",
         "app_banner": {
             "app_description": "Instala y gestiona tus juegos con la aplicación de escritorio de itch.io",
