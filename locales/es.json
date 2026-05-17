@@ -866,14 +866,14 @@
             },
             "errors": {
                 "invalid_image": "Por favor, edita tu imagen o prueba con otra",
-                "invalid_file": "Hay un problema con el archivo que has seleccionado"
+                "invalid_file": "Hay un problema con el archivo seleccionado"
             },
             "cover_uploader": {
-                "upload_button": "Subir imagen de carátula",
-                "remove_image": "Eliminar imagen",
-                "cover_description": "La imagen de portada se utiliza siempre que itch.io quiera enlazar con su proyecto desde otra parte del sitio. Requerido (Mínimo: 315x250, Recomendado: 630x500)",
+                "upload_button": "Subir Portada",
+                "remove_image": "Eliminar Portada",
+                "cover_description": "La imagen de portada se utiliza siempre que itch.io muestra un enlace del proyecto desde otra parte del sitio. Requerido (Mínimo: 315x250, Recomendado: 630x500)",
                 "confirm_remove": "¿Estás seguro de que deseas eliminar la imagen de portada?",
-                "replace_image": "Reemplazar imagen de portada"
+                "replace_image": "Reemplazar Portada"
             },
             "project_url_field": "URL del proyecto",
             "file_size_limit": "Tamaño máximo de archivo: {{filesize}}. <a>Contacta con nosotros</a> si necesitas más espacio",
