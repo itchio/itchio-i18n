@@ -546,7 +546,7 @@
             "following_username": "Siguiendo a {{username}}",
             "creator": "Creador",
             "rate": "Valorar",
-            "rate_for_jam": "Valorar para {{jam_title}}",
+            "rate_for_jam": "Califica para {{jam_title}}",
             "jam_submission": {
                 "view_the_submission_page": "Ver la página de entregas",
                 "this_is_a_submission_to_jam_title": "Se ha presentado a {{jam_title}}",
