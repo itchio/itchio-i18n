@@ -1188,7 +1188,7 @@
             "toggle_more_options": "Muéstrame más opciones",
             "fewer_options": "Menos opciones"
         },
-        "filter_group_tools": "Herramientas y motores",
+        "filter_group_tools": "Herramientas y Motores",
         "filter_group_collection": "Colección",
         "filter_everything_else": "Todo lo demás",
         "fresh_description": "Navega por un conjunto de proyectos constantemente actualizados elegidos de colecciones reconocidas por nuestros miembros. Vuelve más tarde para ver contenido nuevo.",
@@ -1253,9 +1253,9 @@
         "page_title": "{{collection_title}} - Colección de {{author}}",
         "a_collection_by_author": "Una colección de {{author}}",
         "pending_invitation": "Tienes una invitación pendiente para contribuir a esta colección. <a>Ver invitación</a>",
-        "private_collection_message": "Esta colección es privada, solo los contribuyentes pueden ver sus contenidos",
+        "private_collection_message": "Esta colección es privada, solo los colaboradores pueden ver sus contenidos",
         "empty_collection_message": "Esta colección está vacía.",
-        "edit_contributors": "Editar contribuyentes",
+        "edit_contributors": "Editar colaboradores",
         "edit_collection": "Editar colección",
         "last_updated_date": "última actualización {{date}}",
         "authors": "una colección de {{author}}"
