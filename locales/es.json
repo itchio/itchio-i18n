@@ -687,7 +687,7 @@
             "view_results": "Ver resultados",
             "countdown": {
                 "starts_in": "Empieza en",
-                "voting_ends_in": "La votación finaliza en",
+                "voting_ends_in": "La votación termina en",
                 "submissions_due_in": "Se entrega en"
             },
             "leave_jam": "Abandonar jam",
