@@ -782,7 +782,7 @@
             "results_header": "Resultados",
             "play_game": "Jugar",
             "ranked_with_vote_count": "Clasificado {{ordinal_rank}} con {{count}} voto",
-            "ranked_with_vote_count_plural": "Clasificado {{ordinal_rank}} con {{count}} voto",
+            "ranked_with_vote_count_plural": "Clasificado {{ordinal_rank}} con {{count}} votos",
             "a_jam_submission": "Enviado a una jam",
             "run_project": "Ejecutar proyecto",
             "score_information": "La puntuación se obtiene a partir de la puntuación bruta por el número medio de calificaciones por juego en la jam.",
