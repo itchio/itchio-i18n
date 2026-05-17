@@ -775,7 +775,7 @@
                 "participate_to_rate_message": "Para calificar este envío, debes haber <a>iniciado sesión en itch.io</a> y enviado tu propia entrada. Cualquiera que tenga una cuenta puede dejar un comentario.",
                 "you_will_be_able_to_rate_if_you_submit": "Podrás calificar esta entrada si haces un envío a esta jam.",
                 "other_participants_can_rate": "Otros que hayan entrado a la jam podrán calificar tu participación.",
-                "you_just_voted": "Usted acaba de votar.",
+                "you_just_voted": "Acabas de votar.",
                 "you_voted_ago": "Has votado {{timestamp}}.",
                 "disqualified_message": "Esta entrada está descalificada y no es calificable."
             },
