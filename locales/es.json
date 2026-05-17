@@ -618,7 +618,7 @@
             "thank_you_for_purchasing_author": "Gracias por comprar {{product_title}} de {{author}}.",
             "thank_you_for_donating": "Gracias por donar a {{product_title}}.",
             "thank_you_for_donating_author": "Gracias por donar a {{product_title}} de {{author}}.",
-            "unique_url_for_your_payment": "Esta página tiene una URL única para su pago.",
+            "unique_url_for_your_payment": "Esta página tiene una URL única para tu pago.",
             "access_latest_files_from_this_page": "Siempre puedes acceder a los últimos archivos desde esta página.",
             "youve_been_gifted": "Te han regalado {{product_title}}.",
             "save_this_purchase_to_your_account": "Guarda esta compra en tu cuenta",
@@ -637,7 +637,7 @@
         "access_it": "Acceder",
         "email_capture": {
             "dont_lose_your_purchase": "¡No pierdas tu compra!",
-            "provide_email_instructions": "Ingresa tu dirección de correo electrónico para vincularlo a tu compra para que pueda recuperarla si alguna vez pierde esta página."
+            "provide_email_instructions": "Ingresa tu dirección de correo electrónico para vincularlo a tu compra para poder recuperarla si alguna vez pierdes esta página."
         },
         "header": {
             "discussion_board": "Panel de discusión",
@@ -683,7 +683,7 @@
             "submit_button": "Enviar tu proyecto",
             "or_leave_jam": "o <a>Salir de la jam</a>",
             "youve_joined": "Te has unido a esta jam.",
-            "joined_instructions": "Venga a esta página después de que comience la jam para enviar su proyecto.",
+            "joined_instructions": "Entra a esta página después de que comience la jam para enviar tu proyecto.",
             "view_results": "Ver resultados",
             "countdown": {
                 "starts_in": "Empieza en",
@@ -700,7 +700,7 @@
         },
         "header": {
             "links": {
-                "submission_feed": "Boletin",
+                "submission_feed": "Boletín de envíos",
                 "edit_jam": "Editar jam",
                 "results": "Resultados",
                 "community": "Comunidad",
