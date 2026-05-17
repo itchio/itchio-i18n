@@ -644,8 +644,8 @@
             "return_to_project": "Volver al proyecto",
             "view_all_my_purchases": "Ver todas mis compras",
             "download_title": "Descarga {{project_title}}",
-            "preorder_title": "Preordenar {{project_title}}",
-            "view_rest_in_bundle": "Ver el resto del bundle",
+            "preorder_title": "Reserva {{project_title}}",
+            "view_rest_in_bundle": "Ver el resto del lote",
             "more_menu": "Más",
             "invoice": "Factura"
         },
@@ -655,12 +655,12 @@
         "link_account_header": "Vincular esta página de descarga a su cuenta de itch.io",
         "link_account_description": "Puede vincular esta página de descarga a una cuenta de itch.io para no tener que preocuparse por perderla. Aparecerá junto con cualquier otra cosa que poseas.",
         "must_link_account_description": "Debe vincular esta página a una cuenta de itch.io antes de poder descargarla. Las cuentas son gratuitas y te permitirán realizar un seguimiento de los juegos que hayas recopilado.",
-        "install_instructions_intro": "Descarga e instrucciones de instalación de {{username}}:",
+        "install_instructions_intro": "Instrucciones de descarga e instalación de {{username}}:",
         "app_banner": {
             "app_description": "Instala y gestiona tus juegos con la aplicación de escritorio de itch.io",
             "get_the_app": "Obtén la aplicación"
         },
-        "preorder_instructions": "Este proyecto tiene ficheros que todavía no se han publicado. Vuelve a esta página cuando el creado publique los ficheros para descargarlos.",
+        "preorder_instructions": "Este proyecto tiene archivos que todavía no se han publicado. Vuelve a esta página cuando el creador publique los archivos para descargarlos.",
         "check_your_email_for_the_confirmation_link": "Comprueba tu email para el enlace de confirmación.",
         "alternate_download": {
             "region_message": "Algunas regiones son conocidas por bloquear los CDN de itch.io. Si tus descargas no comienzan puedes intentar habilitar el modo de descarga alternativa y probar de nuevo.",
@@ -1073,7 +1073,7 @@
     "user_settings": {
         "profile": {
             "profile": "Perfil",
-            "language_community_translation": "<s>itch.io es traducido por miembros de nuestra comunidad.</s> Algunos idiomas solo se encuentran disponibles parcialmente. Si te gustaría ver itch.io en tu idioma o quieres ayudar a arreglar cualquier error puedes contribuir. <a>Más información</a>",
+            "language_community_translation": "<s>itch.io está traducido por miembros de nuestra comunidad.</s> Algunos idiomas solo se encuentran disponibles parcialmente. Si te gustaría ver itch.io en tu idioma o ayudar a arreglar errores puedes contribuir. <a>Más información</a>",
             "profile_description": "El contenido de tu perfil",
             "use_dark_theme": "Usar tema oscuro si está disponible",
             "click_to_load_games": "Solicitar un click para ejecutar juegos HTML embedidos",
@@ -1092,7 +1092,7 @@
             "website": "Página web",
             "display_name_description": "Este nombre será mostrado en vez de tu nombre de usuario, déjalo en blanco si quieres mostrar tu nombre de usuario",
             "display_name": "Nombre para mostrar",
-            "profile_image_description": "Se muestra al lado de tu nombre cuando publicas en el sitio (forma cuadrada)",
+            "profile_image_description": "Mostrado al lado de tu nombre cuando publicas en el sitio (dimensiones cuadradas)",
             "profile_image": "Imagen del perfil",
             "url_description": "La dirección URL pública de tu cuenta",
             "you_recently_changed_your_username": "Has cambiado tu usuario recientemente",
@@ -1140,13 +1140,13 @@
             },
             "your_primary_email_address": "Tu correo principal: {{email}}",
             "primary_email_header": "Correo principal",
-            "change_password_instructions": "Cuando cambias tu correo electrónico debes verificarlo para acceder a cualquier juego que hayas comprado. Se te enviará un correo con las instrucciones de verificación. Por razones de seguridad también debes escribir tu contraseña actual para hacer cualquier cambio sobre tu dirección de correo.",
+            "change_password_instructions": "Cuando cambias tu correo electrónico debes verificarlo para poder acceder a cualquier juego que hayas comprado. Se te enviará un correo con las instrucciones de verificación. Por razones de seguridad también debes escribir tu contraseña actual para hacer cualquier cambio sobre tu dirección de correo.",
             "additional_emails": {
                 "detach_email": "Quitar correo electrónico",
                 "email_sent_status": "Correo enviado",
                 "resend_verification_email_button": "Reenviar verificación",
                 "verified_column": "Verificado",
-                "email_column": "Correo",
+                "email_column": "Correo electrónico",
                 "emails_added_header": "Correos añadidos"
             },
             "add_email_form": {
@@ -1262,7 +1262,7 @@
     },
     "stripe_checkout": {
         "payment_error": "Hubo un error al procesar tu pago:",
-        "payment_error_help": "Si no estás seguro, por favor contacta al <a>soporte de itch.io</a> Y añade el mensaje de arriba.",
+        "payment_error_help": "Si no estás seguro, por favor contacta al <a>soporte de itch.io</a> con el mensaje de arriba.",
         "password": "Contraseña",
         "enter_your_password_to_use_your_card": "Ingresa tu contraseña para usar tu tarjeta",
         "new_card": "Tarjeta nueva",
