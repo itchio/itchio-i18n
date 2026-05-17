@@ -398,7 +398,7 @@
             "replies_count": "Respuestas: {{count}}",
             "moderation": "Moderación",
             "locked": "Bloqueado",
-            "sticky": "Anclado",
+            "sticky": "Fijo",
             "return_to_topic_list": "Volver a la lista de temas",
             "subscribe": "Suscribirse",
             "unsubscribe": "Darse de baja",
@@ -487,7 +487,7 @@
             "singleplayer": "Un jugador",
             "accessibility": "Accesibilidad"
         },
-        "community_sticky": "Fijado",
+        "community_sticky": "Fijo",
         "more_information": "Más información",
         "install_instructions": "Instrucciones de instalación",
         "download_header": "Descargar",
