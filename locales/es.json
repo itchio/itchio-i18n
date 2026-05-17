@@ -441,7 +441,7 @@
             "views_count_plural": "<s>{{count}}</s> visitas",
             "list_header_last_post": "Última publicación",
             "list_header_topic_title": "Tema",
-            "locked_flag": "Bloqueado",
+            "locked_flag": "Cerrado",
             "sticky_flag": "Fijado",
             "new_flag": "Nuevo",
             "started_by_author": "Iniciado por {{topic_author}}",
