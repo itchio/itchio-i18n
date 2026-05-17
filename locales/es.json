@@ -948,9 +948,9 @@
             "uploads_header": "Subidas",
             "add_external_file_button": "Agregar archivo externo",
             "content_guidelines_header": "Asegúrate de que todo el mundo pueda encontrar tu página",
-            "payment_warning_header": "No tienes el pago configurado",
+            "payment_warning_header": "No tienes método de pago configurado",
             "content_guidelines_info": "Revisa nuestras <a>pautas de calidad</a> antes de publicar tu proyecto",
-            "payment_warning_info": "Si establece un precio mínimo superior a 0, nadie podrá descargar su proyecto. <a> Editar cuenta </a>",
+            "payment_warning_info": "Si estableces un precio mínimo superior a 0, nadie podrá descargar tu proyecto. <a> Editar cuenta </a>",
             "error_dialog": {
                 "confirm_button": "Entendido",
                 "title": "Hubo un problema al guardar tu proyecto"
