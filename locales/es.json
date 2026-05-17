@@ -804,7 +804,7 @@
             "there_are_no_submissions_yet": "Todavía no hay envíos",
             "there_were_no_submissions": "No hubo ningún envío",
             "submissions_will_be_available_after_the_jam_has_ended": "Los envíos estarán disponibles después de que la jam se cierre",
-            "help_submissions_in_need_of_ratings": "Ayude a valorar sumisiones con pocas valoraciones: <a>Sumisiones con necesidad de valoraciones</a>",
+            "help_submissions_in_need_of_ratings": "Ayuda a calificar envíos con pocas calificaciones:<a>Envíos que necesitan calificaciones</a>",
             "filters": {
                 "all_submissions": "Todos los envíos",
                 "browser_playable": "Jugable en el navegador"
