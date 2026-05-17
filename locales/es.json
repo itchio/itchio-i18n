@@ -1045,17 +1045,17 @@
         "i_already_paid_for_this": "Ya he pagado por esto…",
         "your_email_address": "Tu dirección de correo electrónico",
         "included_files": "Archivos incluidos",
-        "check_out_with": "Paga con",
+        "check_out_with": "Verificar con",
         "contact_support_on_error": "Si el problema persiste, por favor contacta al <a>soporte de itch.io</a> con todos los detalles relevantes.",
         "generic_error": "Hubo un problema con tu compra: {{error}}",
         "billing_address": "Dirección de facturación",
         "continue_payment": "Continuar al pago",
-        "go_back": "Regresar",
+        "go_back": "Volver",
         "credit_card": "Tarjeta",
         "pay_with": "Paga con",
         "support_the_creator_with_an_additional_contribution": "Apoya al creador con una aportación adicional",
         "support_the_creator_by_paying_above_the_minimum_price": "Apoya al creador pagando al menos",
-        "this_purchase_is_a_gift": "Esta compra en un regalo",
+        "this_purchase_is_a_gift": "Esta compra es un regalo",
         "agree_to_terms": "Al completar el pago estás aceptando los <1>Términos de Servicio</1> y la <2>Política de Privacidad</2> de itch.io.",
         "gift_email_instructions": "Elegirás un correo electrónico al que enviar el regalo después de haber pagado.",
         "email_address_description": "La confirmación de pago se enviará aquí",
@@ -1200,16 +1200,16 @@
         "filter_group_multiplayer": "Características multijugador",
         "filter_group_session_length": "Duración media de sesión",
         "filter_group_input_methods": "Tipo de control",
-        "filter_group_when": "Cuando",
+        "filter_group_when": "Cuándo",
         "filter_by_tag": "Filtrar por etiqueta",
         "view_all_tags": "Ver todas las etiquetas",
         "filter_group_platform": "Plataforma",
         "tag": {
             "suggest_description_for_this_tag": "Sugerir una descripción para esta etiqueta",
-            "suggest_updated_description": "Sugerir se actualice la descripción",
+            "suggest_updated_description": "Sugerir una descripción actualizada",
             "no_description_yet": "No hay descripción aún"
         },
-        "filter_group_genre": "Genero",
+        "filter_group_genre": "Género",
         "filter_group_price": "Precio",
         "related_collections": "Colecciones relacionadas",
         "clear_filters": "Limpiar",
@@ -1219,7 +1219,7 @@
         "sort_most_recent": "Más recientes",
         "sort_top_rated": "Los mejor valorados",
         "sort_top_sellers": "Los más vendidos",
-        "sort_new_and_popular": "Nuevo & popular",
+        "sort_new_and_popular": "Nuevo y Popular",
         "sort_popular": "Popular",
         "results_count": "{{count}} resultado",
         "results_count_plural": "{{count}} resultados",
@@ -1227,8 +1227,8 @@
         "filter_group_player_count": "Número de jugadores"
     },
     "buy_form_popup": {
-        "powered_by_itchio": "Con tecnología de {{itchio}}",
-        "author_line": "<1>Por</1> {{author}}"
+        "powered_by_itchio": "impulsado por {{itchio}}",
+        "author_line": "<1>por</1> {{author}}"
     },
     "browse_tags": {
         "no_description_yet": "No hay descripción aún",
@@ -1257,8 +1257,8 @@
         "empty_collection_message": "Esta colección está vacía.",
         "edit_contributors": "Editar contribuyentes",
         "edit_collection": "Editar colección",
-        "last_updated_date": "Última actualización {{date}}",
-        "authors": "Una colección de {{author}}"
+        "last_updated_date": "última actualización {{date}}",
+        "authors": "una colección de {{author}}"
     },
     "stripe_checkout": {
         "payment_error": "Hubo un error al procesar tu pago:",
