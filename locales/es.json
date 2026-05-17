@@ -690,7 +690,7 @@
                 "voting_ends_in": "La votación finaliza en",
                 "submissions_due_in": "Entregas pendientes en"
             },
-            "leave_jam": "Dejar Jam",
+            "leave_jam": "Abandonar jam",
             "submissions_open_from": "Envíos disponibles desde {{start_date}} hasta {{end_date}}",
             "view_entries": "Ver entrada {{count}}",
             "view_entries_plural": "Ver entradas {{count}}",
