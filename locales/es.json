@@ -887,7 +887,7 @@
                 "suggest_default_price_label": "Sugerir un precio por defecto alternativo",
                 "free_or_donate": "{{money}} o donar",
                 "free_price_info": "A alguien que descargue su proyecto se le pedirá una donación antes de acceder. Pueden omitir la descarga de forma gratuita.",
-                "payment_disabled_info": "Los archivos del proyecto estarán disponibles gratuitamente y no se pueden realizar donaciones",
+                "payment_disabled_info": "Los archivos del proyecto estarán disponibles libremente y no se podrán hacer donaciones",
                 "paid": "Pagado",
                 "no_payments": "Sin pagos",
                 "embed_pricing_info": "Establecer un precio mínimo solo restringirá el acceso a los archivos descargables. El contenido incrustado está disponible gratuitamente.",
