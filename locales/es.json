@@ -624,7 +624,7 @@
             "save_this_purchase_to_your_account": "Guarda esta compra en tu cuenta",
             "payment_summary_with_email": "Pagaste {{payment_price}} por esto el {{payment_date}} con la dirección de correo electrónico {{email_address}}.",
             "percent_off": "{{percent}}% de descuento",
-            "linked_user_message": "Esta compra está vinculada a la cuenta {{username}}.",
+            "linked_user_message": "La compra está asociada a la cuenta {{username}}",
             "payment_summary": "Pagaste {{payment_price}} por esto el día {{payment_date}}.",
             "receipt_support_information": "Deberías haber recibido un correo electrónico con un link a esta página. Si pierdes el URL para esta página puedes solicitarla por correo desde la <a>página de soporte</a>."
         },
