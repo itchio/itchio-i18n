@@ -947,9 +947,9 @@
             "pricing_header": "Precios",
             "uploads_header": "Subidas",
             "add_external_file_button": "Agregar archivo externo",
-            "content_guidelines_header": "Asegúrese de que todos puedan encontrar su página",
+            "content_guidelines_header": "Asegúrate de que todo el mundo pueda encontrar tu página",
             "payment_warning_header": "No tienes el pago configurado",
-            "content_guidelines_info": "Revise nuestras <a> pautas de calidad </a> antes de publicar su proyecto",
+            "content_guidelines_info": "Revisa nuestras <a>pautas de calidad</a> antes de publicar tu proyecto",
             "payment_warning_info": "Si establece un precio mínimo superior a 0, nadie podrá descargar su proyecto. <a> Editar cuenta </a>",
             "error_dialog": {
                 "confirm_button": "Entendido",
