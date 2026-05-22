@@ -38,7 +38,8 @@
             "games": "Oyunlar",
             "feed_unseen_count": "{{count}} Yeni",
             "feed_unseen_count_plural": "{{count}} Yeniler",
-            "feed": "Akış"
+            "feed": "Akış",
+            "skip_to_main_content": "Ana içeriğe atla"
         },
         "user_menu": {
             "explore": "Keşfet",
