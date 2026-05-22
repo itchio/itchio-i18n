@@ -1379,7 +1379,8 @@
         "filter_payments": "Ödemeler",
         "filter_replies": "Yanıtlar",
         "filter_all": "Tümü",
-        "filter": "Filtrele"
+        "filter": "Filtrele",
+        "filter_follows": "Takip Edilenler"
     },
     "user_forgot_password": {
         "please_provide_a_new_password_for_account": "Lütfen {{account_name}} hesabı için yeni bir şifre girin.",
