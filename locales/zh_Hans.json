@@ -548,7 +548,7 @@
             "post_from_blocked_account": "从被禁止的帐户发布",
             "edit_blocks": "编辑块",
             "edits_count_plural": "（{{count}}次编辑）",
-            "edits_count": "（{{count}}次编辑）",
+            "edits_count_0": "（{{count}}次编辑）",
             "reply": "回复",
             "like": "点赞",
             "edit": "编辑",
@@ -848,7 +848,7 @@
     "browse": {
         "sort_popular": "人气",
         "results_count_plural": "{{count}}项结果",
-        "results_count": "{{count}}项结果",
+        "results_count_0": "{{count}}项结果",
         "sort_new_and_popular": "新品 & 热门",
         "sort_top_sellers": "热销",
         "sort_top_rated": "评分最高",
@@ -1210,7 +1210,7 @@
             "run_project": "运行项目",
             "score_information": "最终得分是由原始分数参考本场 Jam 游戏的得分中位数调整而来。",
             "ranked_from_count_plural": "排名依据<s>{{count}}个评分</s>。",
-            "ranked_from_count": "排名依据<s>{{count}}个评分</s>。",
+            "ranked_from_count_0": "排名依据<s>{{count}}个评分</s>。",
             "ranked_with_vote_count": "以{{count}}投票排名{{ordinal_rank}}",
             "results_header": "结果",
             "submitted_by_contributors": "由 {{contributors}} 提交",
@@ -1236,7 +1236,7 @@
             },
             "time_remaining_before_deadline": "距离最后期限还有{{time_duration}}",
             "rated_by_people_count_plural": "{{count}}位用户已打分",
-            "rated_by_people_count": "{{count}}位用户已打分"
+            "rated_by_people_count_0": "{{count}}位用户已打分"
         },
         "screenshots": {
             "empty_message": "尚未上传任何屏幕截图",
