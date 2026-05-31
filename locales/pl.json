@@ -722,7 +722,7 @@
         "filter_group_input_methods": "Urządzenia wejściowe",
         "filter_group_session_length": "Średnia długość sesji",
         "filter_group_multiplayer": "Multiplayer",
-        "filter_group_accessibility_features": "Dostępność",
+        "filter_group_accessibility_features": "Funkcje dostępności",
         "filter_group_type": "Typ",
         "type_downloadable": "Do pobrania",
         "filter_group_release_status": "Status wydania",
@@ -1274,7 +1274,7 @@
         },
         "project_header": {
             "edit_project": "Edytuj projekt",
-            "devlog": "Devlog",
+            "devlog": "Dziennik deweloperski",
             "metadata": "Metadane",
             "analytics": "Analityka",
             "distribute": "Dystrybucja",
