@@ -587,7 +587,7 @@
             "post_from_blocked_account": "ブロックされたアカウントからの投稿",
             "edit_blocks": "ブロックを編集",
             "edits_count_plural": "（更新数{{count}}回）",
-            "edits_count": "（更新数：{{count}}回）",
+            "edits_count_0": "（更新数：{{count}}回）",
             "reply": "返信",
             "like": "いいね",
             "edit": "編集",
@@ -763,7 +763,7 @@
             "clear_filter": "条件をクリア"
         },
         "results_count_plural": "検索結果{{count}}件",
-        "results_count": "検索結果{{count}}件",
+        "results_count_0": "検索結果{{count}}件",
         "sort_most_recent": "新作",
         "sort": "並び替え",
         "sort_top_rated": "高評価",
@@ -1147,8 +1147,7 @@
             },
             "link_to_itchio_page": "{{game_title}}のitch.ioページ",
             "play_game": "プレイ",
-            "ranked_from_count": "<s>{{count}}件の評価</s>をもとに順位付け。",
-            "ranked_from_count_plural": "<s>{{count}}</s>からランク付けされました。",
+            "ranked_from_count_0": "<s>{{count}}件の評価</s>をもとに順位付け。",
             "run_project": "プロジェクトを実行",
             "results_table_raw_score": "元スコア",
             "results_table_score": "スコア",
@@ -1160,8 +1159,7 @@
             "score_information": "スコアはジャムに参加していただいたゲームの中央値に基づいて補正されます。",
             "downloads": "ダウンロード",
             "submitted_by_contributors": "{{contributors}}様",
-            "rated_by_people_count": "現在 {{count}}人に評価されています",
-            "rated_by_people_count_plural": "現在 {{count}} 人に評価されています",
+            "rated_by_people_count_0": "現在 {{count}}人に評価されています",
             "time_remaining_before_deadline": "締め切りまであと{{time_duration}}"
         },
         "header": {
