@@ -794,7 +794,7 @@
             "display_name_description": "Deze naam wordt weergegeven in plaats van je gebruikersnaam, laat leeg om op je gebruikersnaam terug te vallen",
             "website": "Website",
             "website_description": "Optionele URL die op je profielpagina weergegeven wordt",
-            "twitter_description": "Twitter-account die op je profielpagina weergegeven wordt",
+            "twitter_description": "Optioneel Twitter-account om op je profiel weer te geven",
             "account_type": "Account-type",
             "account_type_description": "Hoe je jouw account gaat gebruiken",
             "account_type_gamer": "Voor het spelen en downloaden van spellen",
@@ -818,7 +818,7 @@
             "new_password": "Nieuw wachtwoord",
             "password_again": "Herhaal wachtwoord",
             "new_password_again": "Herhaal nieuwe wachtwoord",
-            "please_set_a_password_on_your_account": "Stel een wachtwoord in op je account voor verbeterde beveiliging en om in te kunnen loggen zonder gebruik van derdepartijdiensten.",
+            "please_set_a_password_on_your_account": "Stel een wachtwoord in voor uw account voor betere beveiliging en om toegang te krijgen tot uw account zonder gebruik te hoeven maken van diensten van derden.",
             "your_account_currently_doesnt_have_a_password": "Je account heeft op dit moment geen wachtwoord.",
             "no_password_service_name": "Je account heeft op dit moment nog geen wachtwoord, omdat je je geregistreerd hebt met {{service_name}}.",
             "updating_your_password_will_cause": "Wanneer je je wachtwoord veranderd, word je in alle andere browsersessies uitgelogd. <a>OAuth-verbindingen en API-sleutels</a> blijven actief."
@@ -1090,6 +1090,9 @@
         "screenshots": {
             "empty_message": "Er zijn nog geen screenshots geüpload",
             "loading_more": "Meer screenshots aan het laden…"
+        },
+        "rate_game": {
+            "this_submission_is_disqualified": "Deze inzending is gediskwalificeerd"
         }
     },
     "dashboard": {
@@ -1106,7 +1109,7 @@
         "header": {
             "projects_link": "Projecten",
             "payments_link": "Betalingen",
-            "analytics_link": "Analytics",
+            "analytics_link": "Statistieken",
             "payouts_link": "Uitbetalingen",
             "sales_bundles_link": "Aanbiedingen & bundels",
             "coop_bundles_link": "Co-op-bundels",
@@ -1241,19 +1244,20 @@
             "community_comments_info": "Voeg een ingebed discussieveld toe aan de onderkant van de pagina",
             "community_discussion_board_info": "Voeg een speciale community-pagina toe met categorieën, onderwerpen, reacties & meer",
             "add_screenshots": "Schermafbeeldingen toevoegen",
-            "screenshots_header": "Schermafbeeldingen"
+            "screenshots_header": "Schermafbeeldingen",
+            "external_file_tooltip": "Jij geeft een link naar het bestand en wij zullen bijhouden hoe vaak het gedownload is"
         },
         "project_header": {
             "edit_project": "Bewerk project",
-            "devlog": "Devlog",
+            "devlog": "Ontwikkelingslog",
             "metadata": "Metadata",
-            "analytics": "Analytics",
+            "analytics": "Statistieken",
             "distribute": "Uitgeven",
             "interact": "Interactie",
             "edit_comments": "Reacties bewerken",
             "discussion_board": "Discussiebord",
             "rewards": "Beloningen",
-            "admins": "Admins",
+            "admins": "Beheerders",
             "more": "Meer"
         },
         "blog_posts": {
@@ -1381,7 +1385,7 @@
         "filter": "Filter"
     },
     "user_forgot_password": {
-        "please_provide_a_new_password_for_account": "Geef een nieuw wachtwoord voor het account {{account_name}}.",
+        "please_provide_a_new_password_for_account": "Geef een nieuw wachtwoord op voor het account {{account_name}}.",
         "link_sent": "Een koppeling om je wachtwoord opnieuw in te stellen is naar het hoofdemailadres van je account gestuurd.",
         "enter_your_email": "Voer het emailadres dat je hebt geregistreerd in, dan sturen we je een koppeling om je wachtwoord opnieuw in te stellen.",
         "reset_password": "Wachtwoord Opnieuw Instellen"
