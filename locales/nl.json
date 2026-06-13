@@ -13,7 +13,7 @@
         },
         "header": {
             "upload_game": "Spel uploaden",
-            "search_placeholder": "Zoek naar spellen of ontwikkelaars",
+            "search_placeholder": "Zoek naar spellen, jams, tags of ontwikkelaars",
             "search": "Zoeken",
             "log_in": "Inloggen",
             "register": "Registreren",
@@ -38,7 +38,8 @@
             "feed_unseen_count": "{{count}} nieuw",
             "feed_unseen_count_plural": "{{count}} nieuw",
             "feed": "Feed",
-            "game_assets": "Hulpmiddelen"
+            "game_assets": "Hulpmiddelen",
+            "skip_to_main_content": "Doorgaan naar hoofdinhoud"
         },
         "user_menu": {
             "explore": "Verkennen",
@@ -499,7 +500,7 @@
         "summary": "De itch.io-app, <s>itch</s>, laat je zonder problemen games en software van itch.io downloaden en opstarten. Als je downloads worden op één plek bewaard en worden automatisch geüpdatet. Krijg toegang tot je collecties en aankopen, of zoek naar nieuwe games met de in-app browser.",
         "more_info_links": "<1>Lees meer op de FAQ</1> or <2>Lees de app-handleiding</2>",
         "learn_more_below": "Meer informatie hieronder",
-        "contribute_link": "Wil je meehelpen? <a>Bekijk de broncode op GitHub</a>",
+        "contribute_link": "Wil jij bijdragen? <a>Bekijk de broncode op GitHub</a>",
         "updates": "Updates",
         "read_the_app_guide": "Lees de app-handleiding",
         "browse_header": "Blader door games zoals de makers het bedoeld hebben",
@@ -724,7 +725,9 @@
             "toggle_more_options": "Zet Meer Opties Aan",
             "clear_filter": "Filter wissen"
         },
-        "filter_everything_else": "De rest"
+        "filter_everything_else": "De rest",
+        "filter_group_player_count": "Aantal spelers",
+        "no_results_found": "Geen resultaten gevonden"
     },
     "browse_tags": {
         "page_title": "Top-labels",
@@ -735,7 +738,7 @@
         "types": {
             "tool": "Hulpmiddelen",
             "event": "Evenementen",
-            "platform": "Platforms",
+            "platform": "Platformen",
             "style": "Stijlen",
             "genre": "Genres"
         }
@@ -772,7 +775,8 @@
             "data_export": "Data exporteren",
             "api_keys": "API-sleutels",
             "oauth_applications": "OAuth-applicaties",
-            "thirdparty_analytics": "Derde-party analytics"
+            "thirdparty_analytics": "Derde-party analytics",
+            "delete_account": "Account verwijderen"
         },
         "profile": {
             "language_community_translation": "<s>itch.io is vertaald door leden van onze community.</s> Sommige talen zijn maar gedeeltelijk beschikbaar. Als je itch.io in je eigen taal wil zien of foutjes helpen oplossen, kun je bijdragen. <a>Meer leren</a>",
