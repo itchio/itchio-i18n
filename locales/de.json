@@ -30,7 +30,7 @@
             "games": "Spiele",
             "feed_unseen_count": "{{count}} neu",
             "feed_unseen_count_plural": "{{count}} neue",
-            "community": "Community",
+            "community": "Gemeinschaft",
             "search_placeholder": "Nach Spielen oder Erstellern suchen",
             "dashboard": "Übersicht",
             "jams": "Jams",
@@ -152,7 +152,7 @@
             "dance_pad": "Tanzmatte",
             "midi_controller": "MIDI-Controller",
             "touchscreen": "Touchscreen",
-            "phone": "Smartphone"
+            "phone": "Mobiltelefon"
         },
         "durations": {
             "seconds": "Ein paar Sekunden",
@@ -751,7 +751,7 @@
         "navigation": {
             "basics_header": "Basis",
             "payment_header": "Zahlung",
-            "publisher_header": "Publisher",
+            "publisher_header": "Ersteller",
             "contact_header": "Kontakt",
             "misc_header": "Sonstiges",
             "developer_header": "Entwickler",
@@ -960,7 +960,7 @@
                 "results": "Ergebnisse",
                 "submissions": "Einsendungen",
                 "overview": "Übersicht",
-                "screenshots": "Screenshots",
+                "screenshots": "Bildschirmfoto",
                 "submission_feed": "Einsendungs-Feed",
                 "edit_jam": "Jam bearbeiten"
             }
@@ -1158,7 +1158,7 @@
             "community_comments": "Kommentare",
             "community_discussion_board": "Diskussionsforum",
             "pricing_header": "Preis",
-            "uploads_header": "Uploads",
+            "uploads_header": "Hochgeladene",
             "upload_files_button": "Dateien hochladen",
             "add_external_file_button": "Externe Datei hinzufügen",
             "project_type_help": "Du kannst für jede der oben genannten Arten weitere herunterladbare Dateien hinzufügen",
@@ -1243,7 +1243,7 @@
             "community_comments_info": "Füge einen Kommentarthread zum Ende der Seite hinzu",
             "community_discussion_board_info": "Füge eine Community-Seite mit Kategorien, Threads, Antworten und mehr hinzu",
             "add_screenshots": "Screenshots hinzufügen",
-            "screenshots_header": "Screenshots",
+            "screenshots_header": "Bildschirmfoto",
             "external_file_tooltip": "Gib einen Link zur Datei an und wir verfolgen, wie oft sie heruntergeladen wurde"
         },
         "project_header": {
@@ -1256,7 +1256,7 @@
             "edit_comments": "Kommentare bearbeiten",
             "discussion_board": "Diskussionsforum",
             "rewards": "Erfolge",
-            "admins": "Admins",
+            "admins": "Administrator",
             "more": "Mehr"
         },
         "blog_posts": {
@@ -1349,7 +1349,7 @@
         "view_all_link": "Alle anzeigen",
         "show_on_my_profile_toggle": "Auf meinem Profil zeigen",
         "things_rated_header": "Von dir bewertete Dinge",
-        "permalink": "Permalink",
+        "permalink": "Permaneter Link",
         "private_toggle": "Privat",
         "go_to_collection_link": "Gehe zur Sammlung",
         "empty_collection_message": "Diese Sammlung ist leer",
