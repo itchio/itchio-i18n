@@ -339,7 +339,7 @@
         "summary": "<s>itch</s>, arload itch.io, a ro an tu deoc'h da bellgargañ ha lañsañ c'hoarioù ha meziantoù eus itch.io. Holl ho pellgargadennoù a zo miret en ul lec'h hepken hag hizivaet eo ent emgefreek. Haezit ho tastumadegoù hag ho prenadennoù pe merdeit c'hoarioù nevez er merdeer enkorfet en arload.",
         "more_info_links": "<1>Lennit hiroc'h war Foar ar Goulennoù</1> pe <2>Lennit ar sturlevr</2>",
         "learn_more_below": "Lennit hiroc'h dindan",
-        "contribute_link": "Fellout a ra deoc'h kemer perzh ? <a>Gwelout ar raktres war GitHub</a>",
+        "contribute_link": "Fellout a ra deoc'h kemer perzh ? <a>Gwelout ar boneg tarzh war GitHub</a>",
         "updates": "Hizivadennoù",
         "read_the_app_guide": "Lennit ar sturlevr",
         "browse_header": "Merdeit ar c'hoarioù evel ma fell d'an diorroerien",
@@ -790,7 +790,7 @@
         "password": {
             "new_password": "Ger-tremen nevez",
             "password": "Ger-tremen",
-            "current_password": "Ger-tremen a vremañ",
+            "current_password": "Ger-tremen a-vremañ",
             "password_again": "Skrivit ar ger-tremen adarre",
             "new_password_again": "Skrivit ar ger-tremen nevez adarre"
         },
@@ -808,7 +808,7 @@
                 "detach_email": "Distagañ ar chomlec'h postel"
             },
             "change_email_form": {
-                "current_password": "Ger-tremen a vremañ",
+                "current_password": "Ger-tremen a-vremañ",
                 "new_email_address": "Chomlec'h postel nevez"
             },
             "your_primary_email_address": "Ho chomlec'h postel pennañ : {{email}}",
@@ -827,11 +827,13 @@
         "download_button": "Pellgargañ",
         "nav": {
             "my_purchases": "Ma frenadennoù"
-        }
+        },
+        "private_toggle": "Prevez"
     },
     "jams": {
         "jam_calendar_header": "Jam Deiziadur",
-        "page_title": "Game Jams war itch.io"
+        "page_title": "Game Jams war itch.io",
+        "host_a_jam_button": "Herberc'hiañ ur jam"
     },
     "jam": {
         "header": {
@@ -846,13 +848,18 @@
             "rate_submission": {
                 "private_field": "(prevez)"
             },
-            "play_game": "C'hoariñ"
+            "play_game": "C'hoariñ",
+            "link_to_itchio_page": "Pajenn itch.io {{game_title}}",
+            "results_header": "Disoc'hoù"
         },
         "submissions": {
             "filter": "Sil"
         },
         "results": {
-            "empty_page_message": "N'eus disoc'h ebet war ar bajenn-mañ"
+            "empty_page_message": "N'eus disoc'h ebet war ar bajenn-mañ",
+            "submissions": {
+                "by_author": "gant {{author}}"
+            }
         }
     },
     "dashboard": {
@@ -882,7 +889,16 @@
             "description_field": "Deskrivadur",
             "kind_of_project_field": "Stumm ar raktres",
             "pricing_header": "Prizioù",
-            "save_and_view_button": "Enrollañ & gwelout ar bajenn"
+            "save_and_view_button": "Enrollañ & gwelout ar bajenn",
+            "error_dialog": {
+                "confirm_button": "Mat eo"
+            },
+            "cover_uploader": {
+                "remove_image": "Dilemel ar skeudenn"
+            },
+            "uploads": {
+                "delete_file_button": "Dilemel ar restr"
+            }
         },
         "hello": "Demat !",
         "stats": {
@@ -907,7 +923,10 @@
         "project_list": {
             "edit": "Kemmañ"
         },
-        "dashboard": "Taolenn-stur"
+        "dashboard": "Taolenn-stur",
+        "project_header": {
+            "metadata": "Metaroadennoù"
+        }
     },
     "feed": {
         "event_filter_label": "Sil :",
@@ -941,15 +960,21 @@
         "linked_user_message": "Liammet eo bet ar bajenn-mañ ouzh ar gont {{username}}.",
         "purchase": {
             "linked_user_message": "Liammet eo bet ar brenadenn-mañ ouzh ar gont {{username}}."
+        },
+        "app_banner": {
+            "get_the_app": "Pellgargañ an arload"
         }
     },
     "stripe_checkout": {
         "full_name": "Anv klok",
-        "email": "Chomlec'h postel",
+        "email": "Postel",
         "steam_key": "Alc'hwez Steam",
         "pay_price_button": "Paeañ {{price}}",
         "password": "Ger-tremen",
-        "choose_a_card": "Dibabit ur gartenn"
+        "choose_a_card": "Dibabit ur gartenn",
+        "new_card": "Kartenn nevez",
+        "enter_your_password_to_use_your_card": "Lakait ho ker-tremen evit implijout ho kartenn",
+        "linked_to_account": "Liammet ouzh ar gont"
     },
     "user_forgot_password": {
         "reset_password": "Adderaouĩn ar ger-tremen"
