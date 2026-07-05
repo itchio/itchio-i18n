@@ -673,6 +673,7 @@
         "last_updated_date": "last updated {{date}}",
         "edit_collection": "Edit collection",
         "edit_contributors": "Edit contributors",
+        "edit_order": "Edit order",
         "empty_collection_message": "There isn't anything in this collection.",
         "private_collection_message": "This collection is private, only contributors can see its contents",
         "pending_invitation": "You have a pending invite to be a contributor of this collection. <a>See invite</a>",
