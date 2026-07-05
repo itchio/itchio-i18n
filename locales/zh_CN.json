@@ -35,7 +35,7 @@
             "log_in": "登录",
             "search": "搜索",
             "notifications_count": "{{count}}个通知",
-            "jams": "堵塞"
+            "jams": "Game Jam"
         },
         "user_menu": {
             "posts": "动态",

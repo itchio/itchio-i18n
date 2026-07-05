@@ -23,7 +23,7 @@
             "notifications_count": "{{count}} notificación",
             "notifications_count_plural": "{{count}} notificaciones",
             "no_notifications": "No hay nuevas notificaciones",
-            "game_jams": "Creaciones de Juegos a Corto Plazo",
+            "game_jams": "Jams de juegos",
             "devlogs": "Registros del desarrollador",
             "dashboard": "Panel de Control",
             "jams": "Jams",
