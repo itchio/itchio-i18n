@@ -1004,12 +1004,10 @@
             "basics_header": "Alapok",
             "payment_header": "Fizetés",
             "developer_header": "Fejlesztő",
-            "contact_header": "Kapcsolat",
             "profile": "Fiók",
             "password": "Jelszó",
             "email_addresses": "Email címek",
             "two_factor_auth": "Kétlépcsős azonosítás",
-            "misc_header": "Egyéb",
             "support_email": "Támogatási email",
             "publisher_get_started": "Vágj bele",
             "publisher_header": "Kiadó"

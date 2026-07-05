@@ -976,7 +976,6 @@
             "data_export": "Exportation des données",
             "payment_header": "Paiement",
             "publisher_header": "Éditeur",
-            "contact_header": "Contact",
             "developer_header": "Développeur",
             "profile": "Profil",
             "password": "Mot de passe",
@@ -991,7 +990,6 @@
             "thirdparty_analytics": "Analyses tierces",
             "oauth_applications": "Applications OAuth",
             "basics_header": "Compte",
-            "misc_header": "Divers",
             "revenue_sharing": "Partage des revenus",
             "publisher_get_started": "Démarrer",
             "delete_account": "Supprimer le compte"

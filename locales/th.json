@@ -137,8 +137,6 @@
             "password": "รหัสผ่าน",
             "profile": "ข้อมูลส่วนตัว",
             "developer_header": "สำหรับผู้พัฒนา",
-            "misc_header": "อื่น ๆ",
-            "contact_header": "การติดต่อ",
             "publisher_header": "การเผยแพร่",
             "payment_header": "การชำระเงิน",
             "basics_header": "ทั่วไป",

@@ -873,7 +873,6 @@
             "developer_header": "開發者",
             "oauth_applications": "OAuth 應用程式",
             "tax_information": "稅務資訊",
-            "misc_header": "其他",
             "publisher_header": "發行人",
             "two_factor_auth": "雙重驗證",
             "support_email": "售後信箱",
@@ -886,7 +885,6 @@
             "thirdparty_analytics": "第三方分析",
             "basics_header": "基本",
             "payment_header": "付款",
-            "contact_header": "聯絡",
             "delete_account": "刪除帳戶"
         },
         "profile": {
