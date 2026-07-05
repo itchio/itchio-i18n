@@ -751,11 +751,11 @@
         "account_settings": "Account settings",
         "navigation": {
             "basics_header": "Basics",
+            "security_header": "Security",
             "payment_header": "Payment",
             "publisher_header": "Publisher",
-            "contact_header": "Contact",
-            "misc_header": "Misc",
             "developer_header": "Developer",
+            "account_data_header": "Account & data",
             "profile": "Profile",
             "password": "Password",
             "email_addresses": "Email addresses",
