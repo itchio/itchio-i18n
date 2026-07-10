@@ -543,7 +543,10 @@
             "more_menu": "Iba pa"
         },
         "check_out_more_from_jam_title": "Tingnan ang higit pa galing sa {{jam_title}}",
-        "share_and_follow": "Magbahagi at magsubaybay"
+        "share_and_follow": "Magbahagi at magsubaybay",
+        "purchase": {
+            "link_purchase_links": "<1>Create an account</1> or <2>log in to itch.io</2> to instantly link this purchase."
+        }
     },
     "jams": {
         "browse_upcoming_this_month": "Mga Paparating sa Buwan na Ito",
