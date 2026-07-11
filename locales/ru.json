@@ -691,7 +691,8 @@
         "add_a_blurb": "Добавить примечание",
         "edit_blurb": "Изменить примечание",
         "blurb_author_says": "{{author}} говорит",
-        "remove_confirm": "Вы уверены, что хотите удалить это из коллекции"
+        "remove_confirm": "Вы уверены, что хотите удалить это из коллекции",
+        "edit_order": "Изменить порядок"
     },
     "browse": {
         "results_count_plural": "{{count}} результата(-ов)",
@@ -785,7 +786,9 @@
             "api_keys": "API-ключи",
             "oauth_applications": "Приложения OAuth",
             "thirdparty_analytics": "Сторонняя аналитика",
-            "delete_account": "Удалить учётную запись"
+            "delete_account": "Удалить учётную запись",
+            "security_header": "Безопасность",
+            "account_data_header": "Аккаунт и данные"
         },
         "profile": {
             "language_community_translation": "<s>itch.io переводится участниками нашего сообщества.</s> Некоторые языки доступны только частично. Если вы хотите видеть itch.io на своём языке, или же если вы нашли ошибки в переводе, вы можете нам помочь. <a>Подробнее</a>",
