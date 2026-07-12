@@ -618,7 +618,9 @@
             "oauth_applications": "Приложения с OAuth",
             "thirdparty_analytics": "Външни анализи",
             "email_notifications": "Известия по е-поща",
-            "delete_account": "Изтриване на акаунта"
+            "delete_account": "Изтриване на акаунта",
+            "security_header": "Сигурност",
+            "account_data_header": "Акаунт и данни"
         },
         "email_addresses": {
             "additional_emails": {
@@ -979,7 +981,8 @@
         "add_a_blurb": "Добавяне на описание",
         "edit_blurb": "Редактиране на описанието",
         "blurb_author_says": "{{author}} казва",
-        "remove_confirm": "Наистина ли искате да премахнете това от колекцията"
+        "remove_confirm": "Наистина ли искате да премахнете това от колекцията",
+        "edit_order": "Редактиране на реда"
     },
     "browse": {
         "results_count_plural": "{{count}} резултата",
