@@ -431,7 +431,8 @@
         "results_count_0": "{{count}}个结果",
         "filter_everything_else": "其他",
         "filter_group_player_count": "玩家数量",
-        "no_results_found": "未找到结果"
+        "no_results_found": "未找到结果",
+        "results_count_plural": "{{count}}个结果"
     },
     "collection": {
         "remove_confirm": "您确定要从本收藏夹中移除此项吗",
@@ -447,7 +448,8 @@
         "edit_contributors": "编辑贡献者",
         "edit_collection": "编辑收藏夹",
         "last_updated_date": "最后更新于{{date}}",
-        "authors": "{{author}} 的收藏夹"
+        "authors": "{{author}} 的收藏夹",
+        "edit_order": "编辑顺序"
     },
     "buy_form": {
         "contact_support_on_error": "如果问题持续存在，请联系 <a>itch.io 客服</a>并提供相关细节。",
@@ -563,7 +565,8 @@
             "edits_count_0": "（已被编辑{{count}}次）",
             "edit_blocks": "编辑黑名单",
             "post_from_blocked_account": "发布者已被你拉黑",
-            "deleted_post": "帖子已删除"
+            "deleted_post": "帖子已删除",
+            "edits_count_plural": "（已被编辑{{count}}次）"
         },
         "topic": {
             "create_related_topic": "如果您要发表相关内容，请考虑<a>在 {{category_name}} 中创建一个新主题</a>。",
@@ -923,7 +926,9 @@
             "results_table_score": "得分",
             "results_table_votes": "票数",
             "results_table_rank": "名次",
-            "results_table_criteria": "标准"
+            "results_table_criteria": "标准",
+            "ranked_from_count_plural": "依据<s>{{count}}个评分</s>排名。",
+            "rated_by_people_count_plural": "已有{{count}}人评分"
         },
         "results": {
             "submissions": {
@@ -1193,7 +1198,9 @@
             "publisher_header": "发布者",
             "payment_header": "付款",
             "basics_header": "基本",
-            "delete_account": "注销账户"
+            "delete_account": "注销账户",
+            "security_header": "安全性",
+            "account_data_header": "账号与数据"
         },
         "account_settings": "账号设置",
         "two_factor_auth": {
