@@ -235,24 +235,24 @@
         "view_more": "عرض المزيد",
         "dismiss": "رفض",
         "release_statuses": {
-            "released": "تم إصداره",
+            "released": "مصدَر",
             "in_development": "قيد التطوير",
-            "on_hold": "قيد اﻹنتظار",
+            "on_hold": "معلق",
             "canceled": "ملغي",
-            "prototype": "نموذج مبدئي"
+            "prototype": "نموذج أولي"
         },
         "errors": {
-            "server_error": "فشل السيرفر في الاستجابة، يرجى إعادة المحاولة لاحقًا"
+            "server_error": "لم يستجِب الخادم، يرجى المحاولة مرة أخرى لاحقًا"
         },
         "more_ellip": "المزيد…",
         "loading_more_ellip": "تحميل المزيد…"
     },
     "blog": {
-        "all_posts": "كل المنشورات",
+        "all_posts": "جميع المنشورات",
         "updates": "التحديثات",
-        "digest": "ملخص",
-        "empty_message": "لا يبدو أنه يوجد أية منشورات هنا",
-        "tag_filter": "فلترة إلى {{tag}}. <a>محو العلامة</a>"
+        "digest": "النشرة",
+        "empty_message": "لا يبدو أن هناك أي منشورات هنا",
+        "tag_filter": "تتم التصفية حسب {{tag}}. <a>مسح التصنيف</a>"
     },
     "user_login": {
         "log_in_to_your_itchio_account": "سجل الدخول إلى حساب itch.io",
