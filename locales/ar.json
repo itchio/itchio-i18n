@@ -216,21 +216,21 @@
         },
         "lightboxes": {
             "close": "إغلاق",
-            "error_title": "لا يمكن اتمام طلبك"
+            "error_title": "تعذر إتمام طلبك"
         },
         "countdown": {
-            "years": "سنين",
-            "months": "شهور",
+            "years": "أعوام",
+            "months": "أشهر",
             "days": "أيام",
             "hours": "ساعات",
             "minutes": "دقائق",
-            "seconds": "ثواني"
+            "seconds": "ثوانٍ"
         },
         "project_visibility": {
-            "restricted": "محظور",
-            "published": "نشرت",
-            "draft": "مسودة",
-            "public": "للعامة"
+            "restricted": "مقيّد",
+            "published": "منشور",
+            "draft": "مسودّة",
+            "public": "عام"
         },
         "view_more": "عرض المزيد",
         "dismiss": "رفض",
