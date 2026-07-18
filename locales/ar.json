@@ -153,19 +153,19 @@
             "joystick": "عصا التحكم",
             "touchscreen": "الشاشة اللمسية",
             "voice": "التحكم الصوتي",
-            "accelerometer": "المُسارع",
-            "phone": "هاتف ذكي",
-            "dance_pad": "لوح الرقص",
-            "midi_controller": "متحكم ميدي"
+            "accelerometer": "مقياس التسارع",
+            "phone": "الهاتف الذكي",
+            "dance_pad": "منصة الرقص",
+            "midi_controller": "وحدة تحكم MIDI"
         },
         "forms": {
             "required": "مطلوب",
             "save": "حفظ",
-            "email_address": "البريد الإلكتروني",
+            "email_address": "عنوان البريد الإلكتروني",
             "submit": "تقديم",
             "optional": "اختياري",
             "search": "البحث",
-            "form_errors": "من فضلك تحقق من المعلومات المُقدمة",
+            "form_errors": "يرجى مراجعة المعلومات التي قدمتها",
             "confirm": "تأكيد"
         },
         "multiplayer_features": {
@@ -174,33 +174,33 @@
             "adhoc": "اللعب الجماعي عبر الشبكة المخصصة"
         },
         "durations": {
-            "seconds": "ثواني قليلة",
-            "minutes": "عدة دقائق",
-            "half_hour": "حوالى نصف ساعة",
-            "hour": "حوالى ساعة",
-            "hours": "عدة ساعات",
+            "seconds": "بضع ثوانٍ",
+            "minutes": "بضع دقائق",
+            "half_hour": "حوالي نصف ساعة",
+            "hour": "حوالي ساعة",
+            "hours": "بضع ساعات",
             "days": "أيام أو أكثر"
         },
         "page_number": "الصفحة {{page_number}}",
         "follow_button": {
-            "follow_username": "تابع {{username}}",
-            "follow": "تابع",
-            "following_username": "انت تتابع {{username}}",
-            "following": "انت تتابعه",
+            "follow_username": "متابعة {{username}}",
+            "follow": "متابعة",
+            "following_username": "تتم متابعة {{username}}",
+            "following": "تتم متابعته",
             "unfollow_username": "إلغاء متابعة {{username}}",
             "unfollow": "إلغاء المتابعة"
         },
         "filter_when": {
-            "last_day": "أخر يوم",
-            "last_7_days": "آخر 7 أيام",
-            "last_30_days": "آخر 30 يومًا"
+            "last_day": "آخر يوم",
+            "last_7_days": "آخر أسبوع",
+            "last_30_days": "آخر شهر"
         },
         "platforms": {
             "web": "الويب"
         },
         "filter_price": {
             "free": "مجانية",
-            "on_sale": "تُباع",
+            "on_sale": "معروضة للبيع",
             "paid": "مدفوع"
         },
         "pager": {
@@ -209,13 +209,13 @@
             "next": "التالية",
             "current_page_of_total": "الصفحة {{current_page}} من {{total_pages}}",
             "previous_page": "الصفحة السابقة",
-            "first_page": "الصفحة الأولي"
+            "first_page": "الصفحة الأولى"
         },
         "collection_button": {
-            "add_to_collection": "أضف إلي مجموعة"
+            "add_to_collection": "إضافة إلى المجموعة"
         },
         "lightboxes": {
-            "close": "اغلاق",
+            "close": "إغلاق",
             "error_title": "لا يمكن اتمام طلبك"
         },
         "countdown": {
