@@ -2,10 +2,10 @@
     "itchio": "itch.io",
     "layout": {
         "footer": {
-            "faq": "الأسئلة المتكررة",
+            "faq": "الأسئلة الشائعة",
             "blog": "المدونة",
             "contact_us": "تواصل معنا",
-            "terms": "الشروط والأحكام",
+            "terms": "الشروط",
             "about": "حول",
             "cookies": "ملفات تعريف الارتباط",
             "directory": "الدليل",
@@ -14,7 +14,7 @@
         "header": {
             "browse": "تصفح",
             "browse_games": "تصفح الألعاب",
-            "game_jams": "تحديات الالعاب",
+            "game_jams": "فعاليات تطوير الألعاب",
             "upload_game": "ارفع لعبة",
             "devlogs": "سجلات المطور",
             "community": "المجتمع",
