@@ -340,7 +340,7 @@
         "more_info_links": "<1>FAQ에서 더 알아보시거나</1> <2>앱 사용 설명서를 읽어보세요</2>",
         "learn_more_below": "더 알아보기",
         "languages_header": "당신의 언어로",
-        "contribute_link": "도움을 주고 싶나요? <a>GitHub에서 소스를 보세요</a>",
+        "contribute_link": "기여하고 싶으신가요? <a>GitHub에서 소스 코드 보기</a>",
         "updates": "업데이트",
         "read_the_app_guide": "앱 사용 설명서 읽기",
         "browse_header": "창작자가 의도한 대로 게임들을 탐색하세요",
@@ -375,7 +375,7 @@
         "preorder_button": "지금 예약 구매하기",
         "buy_now_button": "지금 구매",
         "name_your_own_price": "원하는 만큼 내세요",
-        "on_sale": "할인중!",
+        "on_sale": "할인 중!",
         "percent_off": "<s>{{percent}}%</s> 할인",
         "price_or_more": "{{price}} <s>이상</s>",
         "development_log_header": "개발일지",
@@ -403,7 +403,7 @@
             "publisher": "배급사",
             "release_date": "출시 날짜",
             "rating": "평점",
-            "authors": "작성자",
+            "authors": "게시자",
             "author": "작가",
             "genre": "장르",
             "made_with_tools": "제작 도구",
@@ -424,7 +424,7 @@
         "join_the_community": "커뮤니티에 참가하기",
         "community_view_all_posts": "모든 글 보기",
         "community_post_author": "{{username}}이(가) 올림",
-        "community_posts_count": "글 {{count}}개",
+        "community_posts_count_0": "게시글 {{count}}개",
         "post_a_new_topic": "새 주제 올리기",
         "post_first_topic": "첫 주제를 올리기",
         "upload_list": {
@@ -457,7 +457,7 @@
             "related_games": "관련 게임",
             "related_games_short": "관련됨",
             "ownership": {
-                "you_own_this": "소유함",
+                "you_own_this": "소유 중",
                 "send_gift": "선물 보내기",
                 "download": "다운로드",
                 "percent_off": "{{percent}}% 할인",
@@ -482,7 +482,7 @@
                 "now_accepting_ratings": "이 잼은 참가자에 대한 평가를 받고 있습니다.",
                 "rating_instructions": "아래 링크를 통해서 잼 제출작의 페이지에 들어가서 평가하고 댓글을 달아주세요."
             },
-            "included_in_bundle_title": "{{bundle_title}}에 포함됨"
+            "included_in_bundle_title": "{{bundle_title}}에 포함"
         },
         "after_download": {
             "share_this_project": "프로젝트 공유하기",
@@ -675,7 +675,8 @@
         "add_a_blurb": "광고 추가",
         "edit_blurb": "광고 편집",
         "blurb_author_says": "{{author}}의 말",
-        "remove_confirm": "정말로 이걸 모음집에서 삭제하시겠습니까"
+        "remove_confirm": "정말로 이걸 모음집에서 삭제하시겠습니까",
+        "edit_order": "주문 수정"
     },
     "browse": {
         "results_count_plural": "결과 {{count}}개",
@@ -767,7 +768,9 @@
             "api_keys": "API 키",
             "oauth_applications": "OAuth 애플리케이션",
             "thirdparty_analytics": "제3자 분석",
-            "delete_account": "계정 삭제"
+            "delete_account": "계정 삭제",
+            "security_header": "보안",
+            "account_data_header": "계정 및 데이터"
         },
         "profile": {
             "language_community_translation": "<s>itch.io는 커뮤니티의 맴버들이 번역합니다.</s> 어떤 언어는 부분적으로 사용 가능합니다. itch.io를 원하는 언어로 보고 싶거나 잘못된 번역을 고치고 싶다면 기여할 수 있습니다. <a>더 알아보기</a>",
@@ -793,7 +796,7 @@
             "default_language_option": "기본값 (언어가 베타 상태일때까지는 영어로 설정됨)",
             "content": "콘텐츠",
             "content_description": "itch.io의 콘텐츠가 귀하에게 표시되는 방법",
-            "show_adult_content": "검색 & 탐색에서 컨 성인물",
+            "show_adult_content": "검색 및 탐색에서 성인 콘텐츠 표시하기",
             "disable_animated_gifs": "애니메이션 GIF 비활성화",
             "disable_autoloading_next_page_when_browsing": "탐색할 때 다음 페이지 자동으로 불러오지 않기",
             "click_to_load_games": "임베드 HTML5 게임을 실행하려면 클릭 요구",
@@ -979,7 +982,7 @@
                 "voting_ends_in": "투표 완료일"
             },
             "submission_is_closed_for_voting": "제출 기간이 끝났으며 현재 투표가 진행중입니다",
-            "you_can_now_rate_entries": "이제 <a>제출 페이지</a>에서 제출작들을 평가할 수 있습니다"
+            "you_can_now_rate_entries": "이제 <a>출품 페이지</a>에서 출품작들을 평가할 수 있습니다"
         },
         "submissions": {
             "there_are_no_submissions_yet": "아직 제출작이 없습니다",
