@@ -435,7 +435,9 @@
             "publisher_header": "Editore",
             "payment_header": "Pagamenti",
             "basics_header": "Generale",
-            "delete_account": "Cancella l'Account"
+            "delete_account": "Cancella l'Account",
+            "security_header": "Sicurezza",
+            "account_data_header": "Account e dati"
         },
         "account_settings": "Impostazioni account",
         "two_factor_auth": {
@@ -1147,7 +1149,8 @@
         "edit_contributors": "Modifica contribuenti",
         "edit_collection": "Modifica collezione",
         "last_updated_date": "ultimo aggiornamento {{date}}",
-        "authors": "una collezione di {{author}}"
+        "authors": "una collezione di {{author}}",
+        "edit_order": "Modifica ordine"
     },
     "community": {
         "topic_list": {
