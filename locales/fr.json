@@ -682,7 +682,8 @@
         "edit_blurb": "Modifier le commentaire",
         "blurb_author_says": "{{author}} a dit",
         "remove_confirm": "Êtes-vous sûr de vouloir retirer ceci de la collection",
-        "page_title": "{{collection_title}} - Collection de {{author}}"
+        "page_title": "{{collection_title}} - Collection de {{author}}",
+        "edit_order": "Modifier l'ordre"
     },
     "dashboard": {
         "edit_project": {
@@ -992,7 +993,9 @@
             "basics_header": "Compte",
             "revenue_sharing": "Partage des revenus",
             "publisher_get_started": "Démarrer",
-            "delete_account": "Supprimer le compte"
+            "delete_account": "Supprimer le compte",
+            "security_header": "Sécurité",
+            "account_data_header": "Compte et données"
         },
         "account_settings": "Paramètres du compte",
         "profile": {
