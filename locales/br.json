@@ -773,7 +773,9 @@
             "connected_accounts": "Kontoù kennasket",
             "api_keys": "Alc'hwezioù API",
             "oauth_applications": "Arloadoù OAuth",
-            "delete_account": "Dilemel ar gont"
+            "delete_account": "Dilemel ar gont",
+            "account_data_header": "Kont ha roadennoù",
+            "security_header": "Surentez"
         },
         "profile": {
             "account_type_developer": "Diorroĩn hag uskargañ c'hoarioù",
@@ -848,7 +850,8 @@
             },
             "play_game": "C'hoariñ",
             "link_to_itchio_page": "Pajenn itch.io {{game_title}}",
-            "results_header": "Disoc'hoù"
+            "results_header": "Disoc'hoù",
+            "results_table_votes": "Votoù"
         },
         "submissions": {
             "filter": "Sil"
@@ -857,7 +860,11 @@
             "empty_page_message": "N'eus disoc'h ebet war ar bajenn-mañ",
             "submissions": {
                 "by_author": "gant {{author}}"
-            }
+            },
+            "results": "Disoc'hoù"
+        },
+        "submitter": {
+            "view_results": "Gwelet an disoc'hoù"
         }
     },
     "dashboard": {
@@ -932,7 +939,19 @@
         "global_feed_tab": "Lanv hollek",
         "filter_posts_tab": "Embannadennoù",
         "filter_collections_tab": "Dastumadoù",
-        "filter_new_projects_tab": "Raktresoù nevez"
+        "filter_new_projects_tab": "Raktresoù nevez",
+        "event": {
+            "collection_added_count_0": "{{count}} elfenn ouzhpennet.",
+            "collection_added_count_1": "{{count}} elfenn ouzhpennet.",
+            "collection_added_count_2": "{{count}} elfenn ouzhpennet.",
+            "collection_added_count_3": "{{count}} a elfennoù ouzhpennet.",
+            "collection_added_count_4": "{{count}} elfenn ouzhpennet.",
+            "collection_summary_0": "Un dastumad gant {{count}} elfenn.",
+            "collection_summary_1": "Un dastumad gant {{count}} elfenn.",
+            "collection_summary_2": "Un dastumad gant {{count}} elfenn.",
+            "collection_summary_3": "Un dastumad gant {{count}} a elfennoù.",
+            "collection_summary_4": "Un dastumad gant {{count}} elfenn."
+        }
     },
     "notifications": {
         "filter_payments": "Paeamantoù",
