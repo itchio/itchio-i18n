@@ -49,7 +49,7 @@
             "settings": "Configuración",
             "view_profile": "Ver perfil",
             "host_game_jam": "Organizar unha game jam",
-            "sales_bundles": "Ofertas e lotes",
+            "sales_bundles": "Promocións e paquetes",
             "new_project": "Subir novo proxecto",
             "dashboard": "Panel de control",
             "game_jams": "Game jams",
@@ -1278,7 +1278,7 @@
         "about_this_project_label": "Acerca deste proxecto"
     },
     "game_grid": {
-        "in_bundle": "No paquete"
+        "in_bundle": "Nun paquete"
     },
     "jams": {
         "jams_created_header": "Jams que creaches",
