@@ -367,7 +367,7 @@
         "more_information": "Подробнее",
         "install_instructions": "Инструкции по установке",
         "download_header": "Скачать",
-        "unavailable": "Эта {{game_noun}} в данный момент недоступна",
+        "unavailable": "{{game_noun}}: в данный момент недоступно",
         "purchase_header": "Приобретение",
         "download_access": "Нажмите «скачать сейчас», чтобы получить доступ к следующим файлам:",
         "get_access": "Вы получите доступ к следующим файлам:",
