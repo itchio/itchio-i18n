@@ -274,6 +274,22 @@
         "vampire": "Vampyyri",
         "vector": "Vektori",
         "vehicles": "Ajoneuvot",
-        "violent": "Väkivaltainen"
+        "violent": "Väkivaltainen",
+        "virtual-pet": "Virtuaalilemmikki",
+        "virtual-reality": "Virtuaalitodellisuus (VR)",
+        "visual-novel": "Visuaalinen romaani",
+        "visualization": "Visualisointi",
+        "voice-acting": "Ääninäyttely",
+        "walking-simulator": "Kävelysimulaattori",
+        "war": "Sota",
+        "weapons": "Aseet",
+        "webcomic": "Verkkosarjakuva",
+        "wizards": "Velhoja",
+        "wobbly": "Huojuva",
+        "word-game": "Sanapeli",
+        "working-simulator": "Työsimulaattori",
+        "world-war-i": "Ensimmäinen maailmansota",
+        "world-war-ii": "Toinen maailmansota",
+        "zero-gravity": "Nollapainovoima"
     }
 }
