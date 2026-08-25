@@ -16,7 +16,7 @@
             "browse_games": "Selaa Pelejä",
             "upload_game": "Lisää Peli",
             "community": "Yhteisö",
-            "search_placeholder": "Hae pelejä ja kehittäjiä",
+            "search_placeholder": "Hae pelejä, jameja, tageja tai kehittäjiä",
             "search": "Hae",
             "log_in": "Kirjaudu",
             "register": "Rekisteröidy",
@@ -38,7 +38,8 @@
             "game_assets": "Käyttövälineet",
             "notifications_count": "{{count}} ilmoitus",
             "notifications_count_plural": "{{count}} ilmoitukset",
-            "devlogs": "Kehittäjien lokit"
+            "devlogs": "Kehittäjien lokit",
+            "skip_to_main_content": "Siirry pääsisältöön"
         },
         "user_menu": {
             "explore": "Tutki",
