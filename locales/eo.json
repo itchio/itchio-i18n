@@ -20,7 +20,7 @@
             "games": "Ludoj",
             "fun_games": "Amuzaj ludoj",
             "upload_game": "Alŝuti ludon",
-            "search_placeholder": "Serĉi ludojn aŭ kreantojn",
+            "search_placeholder": "Serĉi ludojn, konkursojn, kradvortojn aŭ kreantojn",
             "feed": "Fluo",
             "feed_unseen_count": "{{count}} nova",
             "feed_unseen_count_plural": "{{count}} novaj",
@@ -35,7 +35,10 @@
             "notifications_count_plural": "{{count}} sciigoj",
             "dashboard": "Panelo",
             "browse_games": "Esplori ludojn",
-            "browse": "Esplori"
+            "browse": "Esplori",
+            "game_jams": "Kreadaj konkursoj",
+            "jams": "Konkursoj",
+            "skip_to_main_content": "Salti al ĉefa enhavo"
         },
         "user_menu": {
             "settings": "Agordoj",
@@ -50,12 +53,15 @@
             "account": "Konto",
             "create": "Krei",
             "explore": "Esplori",
-            "posts": "Afiŝoj"
+            "posts": "Afiŝoj",
+            "host_game_jam": "Okazigi konkurson",
+            "game_jams": "Kreadaj konkursoj"
         }
     },
     "index": {
         "nav": {
-            "community": "Forumo"
+            "community": "Forumo",
+            "devlogs": "Taglibroj de evoluigado"
         },
         "games_by_price": "Ludoj per prezo",
         "download_app": "Elŝuti aplikaĵon",
@@ -85,7 +91,20 @@
         "from_the_blog": "De la blogo",
         "view_something_random": "Vidi ion hazardan",
         "browse": "Esplori",
-        "popular_tags": "Popularaj etikedoj"
+        "popular_tags": "Popularaj etikedoj",
+        "dont_see_anything_you_like": "Ĉu ne vidis ion plaĉan?",
+        "on_sale": "Rabatitaj",
+        "intro": "<s>itch.io</s> estas simpla metodo trovi kaj distribui sendepende evoluigitajn ludojn senpage.",
+        "intro_cta": "<1>Aldoni vian ludon</1> aŭ <2>legi la oftajn demandojn</2>",
+        "html5_games": "Ludoj HTML5",
+        "page_title": "Elŝutu freŝajn sendependajn ludojn",
+        "meta_description": "itch.io estas simpla metodo por trovi, elŝuti kaj distribui sendependajn ludojn surrete. Se vi estas kreanto, kiu volas publikigi viajn kreaĵojn, aŭ ludanto, serĉanta por iu nova, itch.io povas helpi vin.",
+        "to_follow": {
+            "created_projects": "Kreanto de {{project_list}}",
+            "empty_results": "Ni havas neniujn rekomendaĵojn nun. Rigardu poste",
+            "refresh_button": "Reŝarĝi por pli",
+            "dismiss_tooltip": "Ne sugesti plu"
+        }
     },
     "misc": {
         "pager": {
@@ -95,17 +114,26 @@
             "tool": "Iloj",
             "book": "Libroj",
             "game_mod": "Ludmodifoj",
-            "comic": "Bildrakontoj"
+            "comic": "Bildrakontoj",
+            "game": "Ludoj",
+            "assets": "Ludaj materialoj",
+            "physical_game": "Fizikaj ludoj"
         },
         "forms": {
             "email_address": "Retpoŝta adreso",
             "confirm": "Konfirmi",
-            "submit": "Submeti"
+            "submit": "Submeti",
+            "required": "Bezonata",
+            "save": "Konservi",
+            "optional": "Nedeviga",
+            "search": "Serĉi",
+            "form_errors": "Bonvolu kontroli la informaĵojn, kiun vi donis"
         },
         "follow_button": {
             "unfollow_username": "Malsekvi {{username}}",
             "following_username": "Vi sekvas {{username}}",
-            "follow_username": "Sekvi {{username}}"
+            "follow_username": "Sekvi {{username}}",
+            "follow": "Sekvi"
         },
         "loading_more_ellip": "Ŝarĝante pli…",
         "project_visibility": {
@@ -115,13 +143,25 @@
             "phone": "Saĝtelefono",
             "accelerometer": "Akcelometro",
             "joystick": "Stirstango",
-            "gamepad": "Ludregilo (iu ajn)"
+            "gamepad": "Ludregilo (iu ajn)",
+            "voice": "Kontrolo per voĉo",
+            "dance_pad": "Danca tapiŝo",
+            "midi_controller": "MIDI-kontrolilo"
         },
         "accessibility_features": {
             "tutorial": "Interagebla lernilo",
             "highcontrast": "Alta kontrasto",
             "configurable_controls": "Agordeblaj regiloj"
-        }
+        },
+        "durations": {
+            "seconds": "Kelkaj sekundoj",
+            "minutes": "Kelkaj minutoj",
+            "half_hour": "Proksimume duonhoro",
+            "hour": "Proksimume horo",
+            "hours": "Kelkaj horoj",
+            "days": "Tago aŭ pli"
+        },
+        "page_number": "Paĝo {{page_number}}"
     },
     "user_login": {
         "login_form": {
