@@ -281,14 +281,14 @@
     },
     "game": {
         "layout": {
-            "rate_for_jam": "对{{jam_title}}的评价",
-            "submission_to_jam": "提交到{{jam_title}}",
+            "rate_for_jam": "对{{jam_title}}写测评",
+            "submission_to_jam": "提交到{{jam_title}}参赛",
             "jam_submission": {
                 "this_is_a_submission_to_jam_title": "此游戏参与了{{jam_title}}",
                 "view_the_submission_page": "展示提交页",
                 "accepting_ratiings": "此Game Jam目前支持对参与的游戏进行评分。<a>了解详情</a>",
                 "you_rated_this_game": "你评价过此游戏",
-                "now_accepting_ratings": "此Game Jam目前只接受条目式评价。",
+                "now_accepting_ratings": "此Game Jam目前欢迎大家评价。",
                 "rating_instructions": "通过上方链接进入评测与评论页。"
             },
             "view_all_by_name": "{{name}}的所有作品",
@@ -305,11 +305,39 @@
             "edit_your_rating": "撰写评测",
             "edit_rating": "编辑评测",
             "rate": "评测",
-            "rate_this_noun": "对此{{noun}}进行评测"
+            "rate_this_noun": "对此{{noun}}进行评测",
+            "related_games": "相关游戏",
+            "related_games_short": "相关",
+            "included_in_bundle_title": "已在捆绑包{{bundle_title}}里",
+            "ownership": {
+                "you_own_this": "你已拥有",
+                "send_gift": "发送礼物",
+                "download": "下载",
+                "percent_off": "立减{{percent}}%",
+                "you_havent_sent_this_gift_to_anyone_yet": "这份礼物还未送出",
+                "claimed": "已领取",
+                "you_were_gifted_this": "您已收下",
+                "purchased_in_a_bundle_for_price": "包含在您以{{price}}购买的捆绑包中",
+                "purchased_for_price": "您已于{{price}}买下"
+            },
+            "footer": {
+                "view_all_by_username": "{{username}}的所有作品",
+                "report": "检举不当内容",
+                "embed": "嵌入网站",
+                "updated_date": "更新于{{date}}"
+            }
         },
         "after_download": {
             "check_out_more_from_jam_title": "查看更多{{jam_title}}作品",
-            "view_all_from_jam": "查看所有来自此Game Jam的作品"
+            "view_all_from_jam": "查看所有来自此Game Jam的作品",
+            "share_this_project": "分享此项目",
+            "thanks_for_downloading_title": "感谢下载",
+            "thanks_project_author": "感谢下载{{project}} - {{author}}。",
+            "more_from_creator": "查看创作者的其他作品：{{profile}}。",
+            "check_popup_blocker": "下载将会立刻开始。如果没有，可能是浏览器设置或广告拦截器的问题。",
+            "more_from_itchio_header": "在itch.io查看更多",
+            "see_everything": "查看全部",
+            "powered_by": "{{itchio_logo}}<s>强力驱动</s>"
         },
         "empty_page": "这里空空如也…",
         "more_information": "更多信息",
