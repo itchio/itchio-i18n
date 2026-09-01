@@ -392,7 +392,7 @@
             "click_to_leave_a_comment": "Klikit evit leuskel un evezhiadenn…",
             "log_in_to_leave_comment": "<a>Kennaskit gant itch.io</a> evit leuskel un evezhiadenn.",
             "post_comment": "Embann un evezhiadenn",
-            "write_your_comment": "Skrivit ho evezhiadenn…"
+            "write_your_comment": "Skrivit hoc'h evezhiadenn…"
         },
         "info_panel": {
             "updated_at": "Hizivaet",
@@ -778,7 +778,7 @@
             "security_header": "Surentez"
         },
         "profile": {
-            "account_type_developer": "Diorroĩn hag uskargañ c'hoarioù",
+            "account_type_developer": "Diorren hag uskargañ c'hoarioù",
             "account_type_gamer": "C'hoariñ ha pellgargañ c'hoarioù",
             "language": "Yezh",
             "profile": "Aelad",
@@ -833,7 +833,8 @@
     "jams": {
         "jam_calendar_header": "Jam Deiziadur",
         "page_title": "Game Jams war itch.io",
-        "host_a_jam_button": "Herberc'hiañ ur jam"
+        "host_a_jam_button": "Herberc'hiañ ur jam",
+        "browse_jams_header": "Merdeiñ ar jams"
     },
     "jam": {
         "header": {
@@ -851,7 +852,9 @@
             "play_game": "C'hoariñ",
             "link_to_itchio_page": "Pajenn itch.io {{game_title}}",
             "results_header": "Disoc'hoù",
-            "results_table_votes": "Votoù"
+            "results_table_votes": "Votoù",
+            "downloads": "Pellgargadennoù",
+            "run_project": "Lañsañ ar raktres"
         },
         "submissions": {
             "filter": "Sil"
@@ -903,6 +906,15 @@
             },
             "uploads": {
                 "delete_file_button": "Dilemel ar restr"
+            },
+            "embed_options": {
+                "height": "Uhelder",
+                "width": "Ledander",
+                "fullscreen_button_option": "Bouton Skramm a-bezh",
+                "launch_fullscreen_option": "Klikit evit lañsañ e skramm a-bezh"
+            },
+            "pricing": {
+                "paid": "Paeus"
             }
         },
         "hello": "Demat !",
@@ -910,7 +922,8 @@
             "followers": "Heulierien",
             "payments": "Paeamantoù",
             "following": "Koumanantoù",
-            "views": "Gweloù"
+            "views": "Gweloù",
+            "downloads": "Pellgargadennoù"
         },
         "create_new_project_button": "Krouĩn ur raktres nevez",
         "header": {
@@ -930,8 +943,12 @@
         },
         "dashboard": "Taolenn-stur",
         "project_header": {
-            "metadata": "Metaroadennoù"
-        }
+            "metadata": "Metaroadennoù",
+            "admins": "Merourien",
+            "rewards": "Prizioù"
+        },
+        "follow_itchio": "Heuliañ itch.io war {{twitter}} ha {{facebook}}",
+        "page_title": "Taolenn-stur krouer·ez"
     },
     "feed": {
         "event_filter_label": "Sil :",
@@ -951,7 +968,9 @@
             "collection_summary_2": "Un dastumad gant {{count}} elfenn.",
             "collection_summary_3": "Un dastumad gant {{count}} a elfennoù.",
             "collection_summary_4": "Un dastumad gant {{count}} elfenn."
-        }
+        },
+        "manage_my_games_button": "Merañ ma c'hoarioù",
+        "filter_devlogs_tab": "Notennoù diorroer"
     },
     "notifications": {
         "filter_payments": "Paeamantoù",
@@ -963,7 +982,8 @@
         "header": {
             "download_title": "Pellgargañ {{project_title}}",
             "invoice": "Fakturenn",
-            "view_all_my_purchases": "Gwelout ma holl brenadennoù"
+            "view_all_my_purchases": "Gwelout ma holl brenadennoù",
+            "return_to_project": "Distreiñ d'ar raktres"
         },
         "version_name": "Handelv {{version_name}}",
         "start_project_button": "Kregiñ",
