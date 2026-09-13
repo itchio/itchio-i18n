@@ -607,7 +607,8 @@
         },
         "new_topic": {
             "moderator_tools": "管理",
-            "sticky": "置顶"
+            "sticky": "置顶",
+            "locked": "已锁定"
         }
     }
 }
