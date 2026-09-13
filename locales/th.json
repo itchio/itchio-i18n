@@ -5,7 +5,7 @@
         "dont_see_anything_you_like": "ไม่พบสิ่งที่คุณต้องการหรือเปล่า?",
         "view_all_games": "ดูเกมทั้งหมด",
         "view_something_random": "ดูบางอย่างแบบสุ่ม",
-        "download_app": "ดาวน์โหลดแอพ",
+        "download_app": "ดาวน์โหลดแอป",
         "games_by_price": "ค้นเกมตามราคา",
         "browse": "ค้นดู",
         "popular_tags": "แท็กยอดนิยม",
@@ -479,7 +479,7 @@
         "tag_filter": "กรองตาม {{tag}} <a>ล้างตัวกรองทั้งหมด</a>",
         "empty_message": "ไม่มีโพสต์จะแสดงที่นี่...",
         "digest": "แนะนำ",
-        "updates": "อัพเดต",
+        "updates": "อัปเดต",
         "all_posts": "โพสต์ทั้งหมด"
     },
     "app": {
