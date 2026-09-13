@@ -613,7 +613,43 @@
             "i_agree_to_the_rules_above": "我同意上述规则",
             "new_topic": "新话题",
             "this_a_community_run_message_board": "本留言板由社区自主管理。",
-            "see_community_guidelines": "有关 itch.io 社区政策，请参阅<a>社区准则</a>。"
+            "see_community_guidelines": "有关 itch.io 社区政策，请参阅<a>社区准则</a>。",
+            "title": "标题",
+            "body": "正文",
+            "topic_tag": "标签",
+            "your_moderators_are": "这些留言板不属于itch.io管理，而属于：",
+            "page_title": "发表新话题"
+        },
+        "misc": {
+            "new_topic_button": "新话题"
+        },
+        "category": {
+            "topics_count_0": "{{count}}个话题",
+            "create_first_topic_button": "创建第一个话题",
+            "empty_message": "没有任何话题",
+            "there_arent_any_topics_yet": "目前没有任何话题",
+            "search_community_label": "搜索",
+            "subscribe_to_new_topics": "订阅新话题",
+            "unsubscribe_from_topics": "退订",
+            "stats": {
+                "topics": "话题"
+            },
+            "rules_header": "规则",
+            "recent_posts_header": "最近的帖子",
+            "list_header_last_topic": "最新一个话题",
+            "new_flag": "新",
+            "archived_flag": "已归档",
+            "by_topic_author": "由 {{username}} 发表",
+            "view_this_communitys_rules": "查看社区规则……"
+        },
+        "topic_list": {
+            "views_count_0": "<s>{{count}}</s>次浏览",
+            "no_posts_yet": "暂无帖子",
+            "replies_count_0": "<s>{{count}}</s>则回复",
+            "started_by_author": "发起人：{{topic_author}}",
+            "new_flag": "新",
+            "sticky_flag": "置顶",
+            "locked_flag": "已锁定"
         }
     }
 }
