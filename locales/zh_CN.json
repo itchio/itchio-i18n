@@ -593,6 +593,11 @@
             "pinned_post": "置顶帖子",
             "edited": "（内容被修改过）",
             "post_from_suspended_account": "发布者已封禁"
+        },
+        "post_form": {
+            "add_profile_image": "设置头像",
+            "save": "保存",
+            "post": "发布"
         }
     }
 }
