@@ -597,7 +597,17 @@
         "post_form": {
             "add_profile_image": "设置头像",
             "save": "保存",
-            "post": "发布"
+            "post": "发布",
+            "subscribe": "订阅",
+            "subscribe_to_this_topic": "关注此话题",
+            "subscribe_description": "本话题有新回复时接收通知",
+            "tag_header": "标签",
+            "remove_tag": "移除标签",
+            "post_reply": "回复"
+        },
+        "new_topic": {
+            "moderator_tools": "管理",
+            "sticky": "置顶"
         }
     }
 }
