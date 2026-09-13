@@ -608,7 +608,12 @@
         "new_topic": {
             "moderator_tools": "管理",
             "sticky": "置顶",
-            "locked": "已锁定"
+            "locked": "已锁定",
+            "moderation_options": "选项",
+            "i_agree_to_the_rules_above": "我同意上述规则",
+            "new_topic": "新话题",
+            "this_a_community_run_message_board": "本留言板由社区自主管理。",
+            "see_community_guidelines": "有关 itch.io 社区政策，请参阅<a>社区准则</a>。"
         }
     }
 }
