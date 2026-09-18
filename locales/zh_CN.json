@@ -820,7 +820,16 @@
             "account_type_description": "这个账户的用途",
             "account_type_gamer": "我更喜欢在itch上游玩而非开发",
             "account_type_developer": "我希望在 itch.io 上开发与分享我的作品",
-            "default_language_option": "英语（目前语言功能为测试版，默认英语）"
+            "default_language_option": "英语（目前语言功能为测试版，默认英语）",
+            "content": "个性化",
+            "content_description": "管理你看到的内容",
+            "show_adult_content": "展示成人内容",
+            "disable_animated_gifs": "禁用GIF动画",
+            "disable_autoloading_next_page_when_browsing": "禁用预加载",
+            "click_to_load_games": "不自动运行HTML5游戏",
+            "use_dark_theme": "暗黑主题",
+            "profile": "个人资料",
+            "profile_description": "你的个人页面内容"
         },
         "email_addresses": {
             "add_email_form": {
@@ -832,6 +841,12 @@
                 "email_column": "邮箱地址",
                 "verified_column": "已验证"
             }
+        },
+        "password": {
+            "reset_password": "重置密码",
+            "set_password": "设置密码",
+            "current_password": "目前密码",
+            "password": "密码"
         }
     }
 }
