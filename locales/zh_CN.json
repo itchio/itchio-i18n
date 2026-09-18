@@ -842,7 +842,11 @@
                 "verified_column": "已验证"
             },
             "primary_email_header": "主要邮箱地址",
-            "your_primary_email_address": "主要邮箱地址：{{email}}"
+            "your_primary_email_address": "主要邮箱地址：{{email}}",
+            "change_email_form": {
+                "new_email_address": "新电子邮件地址",
+                "current_password": "目前密码"
+            }
         },
         "password": {
             "reset_password": "重置密码",
