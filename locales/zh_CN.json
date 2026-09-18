@@ -840,13 +840,22 @@
                 "emails_added_header": "已添加邮箱地址",
                 "email_column": "邮箱地址",
                 "verified_column": "已验证"
-            }
+            },
+            "primary_email_header": "主要邮箱地址",
+            "your_primary_email_address": "主要邮箱地址：{{email}}"
         },
         "password": {
             "reset_password": "重置密码",
             "set_password": "设置密码",
             "current_password": "目前密码",
-            "password": "密码"
+            "password": "密码",
+            "new_password": "重设密码",
+            "password_again": "重复密码",
+            "new_password_again": "重复新密码",
+            "updating_your_password_will_cause": "修改密码会使你在另外所有地方退出登录，但是<a>两步验证与API接口</a>依旧可用。",
+            "no_password_service_name": "你目前通过{{service_name}}登录，因此账户无密码。",
+            "your_account_currently_doesnt_have_a_password": "你的账户目前无密码。",
+            "please_set_a_password_on_your_account": "请设置密码以提升安全性。"
         }
     }
 }
