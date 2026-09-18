@@ -19,7 +19,7 @@
             "browse_games": "浏览更多游戏",
             "browse": "浏览",
             "feed": "反馈",
-            "feed_unseen_count": "{{count}}条新动态",
+            "feed_unseen_count_0": "{{count}}条新动态",
             "games": "游戏",
             "fun_games": "欢乐游戏",
             "game_assets": "资产",
@@ -473,8 +473,8 @@
             "accept_tos": "我接受<1>服务条款</1>",
             "digest_signup": "我希望接到定期（半月一次）的itch动态邮件",
             "interest_gamer": "我更喜欢在itch上游玩而非开发",
-            "interest_developer": "我希望在 itch.io 上开发与分享",
-            "account_preferences_info": "您之后可以修改这些回答，itch.io 会据此向您展示对应的内容。",
+            "interest_developer": "我希望在 itch.io 上开发与分享我的作品",
+            "account_preferences_info": "我们会据此向你展示对应的内容。你之后可以修改。",
             "about_you": "个性化 itch 体验",
             "your_email_address": "邮箱地址",
             "password": "密码",
@@ -685,7 +685,8 @@
         "continue_payment": "继续支付",
         "billing_address": "账单地址",
         "generic_error": "此购买尚未完成：{{error}}",
-        "contact_support_on_error": "如果问题持续存在，请联系 <a>itch.io 客服</a>并提供相关细节。"
+        "contact_support_on_error": "如果问题持续存在，请联系 <a>itch.io 客服</a>并提供相关细节。",
+        "i_already_paid_for_this": "我已有此作品…"
     },
     "collection": {
         "authors": "收藏夹作者：{{author}}",
@@ -707,8 +708,8 @@
     "browse": {
         "results_count_plural": "{{count}}个结果",
         "results_count_0": "{{count}}个结果",
-        "sort_popular": "最有人气",
-        "sort_new_and_popular": "最有人气的新品",
+        "sort_popular": "最热门",
+        "sort_new_and_popular": "最热门新品",
         "sort_top_sellers": "最畅销",
         "sort_top_rated": "最高评价",
         "sort_most_recent": "最新",
@@ -790,7 +791,42 @@
             "billing_address": "帐单地址",
             "email_notifications": "邮件通知",
             "connected_accounts": "关联账号",
-            "press_access": "媒体支持"
+            "press_access": "媒体支持",
+            "privacy": "个人信息",
+            "data_export": "个人数据导出",
+            "api_keys": "API 接口",
+            "oauth_applications": "验证器",
+            "thirdparty_analytics": "第三方统计",
+            "delete_account": "删除此账户"
+        },
+        "profile": {
+            "language_community_translation": "<s>itch.io的翻译由社区负责。</s>某些语言翻译仍不完整。如你希望做出贡献，请<a>点击此处</a>。",
+            "language": "语言选择",
+            "language_description": "网页端的显示语言",
+            "page_header": "个人资料",
+            "username": "用户名",
+            "username_description": "用于你的个人网页与登录",
+            "change_username": "修改用户名",
+            "you_recently_changed_your_username": "用户名最近已修改",
+            "url_description": "你的个人页面",
+            "profile_image": "头像",
+            "profile_image_description": "显示在你的评论以及互动旁边（需要正方形格式）",
+            "display_name": "昵称",
+            "display_name_description": "显示在用户名旁",
+            "website": "个人网页",
+            "website_description": "可选：个人网页的网址",
+            "twitter_description": "可选：关联X（Twitter）账号",
+            "account_type": "账户类型",
+            "account_type_description": "这个账户的用途",
+            "account_type_gamer": "我更喜欢在itch上游玩而非开发",
+            "account_type_developer": "我希望在 itch.io 上开发与分享我的作品",
+            "default_language_option": "英语（目前语言功能为测试版，默认英语）"
+        },
+        "email_addresses": {
+            "add_email_form": {
+                "additional_email_address_label": "个性化",
+                "add_email_button": "添加邮箱地址"
+            }
         }
     }
 }
