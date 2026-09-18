@@ -826,6 +826,11 @@
             "add_email_form": {
                 "additional_email_address_label": "个性化",
                 "add_email_button": "添加邮箱地址"
+            },
+            "additional_emails": {
+                "emails_added_header": "已添加邮箱地址",
+                "email_column": "邮箱地址",
+                "verified_column": "已验证"
             }
         }
     }
