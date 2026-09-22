@@ -314,7 +314,7 @@
         "historical": "Tarihsel",
         "heist": "Soygun",
         "fanzine": "Fanzin",
-        "doujinshi": "Doujinshi",
+        "doujinshi": "Hayran Mangası",
         "basketball": "Basketbol",
         "asset-pack": "Öğe Paketi",
         "nsfw": "NSFW",
@@ -377,6 +377,22 @@
         "wobbly": "Sallanan akışkanlı bir şey",
         "word-game": "Kelime oyunu",
         "wordle": "Sıralı kelime",
-        "working-simulator": "Çalışma Similasyonu"
+        "working-simulator": "Çalışma Similasyonu",
+        "queer": "Norm dışı",
+        "railroad": "Demiryolu",
+        "roadtrip": "Yolculuk",
+        "sailing": "Denize açılma",
+        "shaders": "Gölgelendiriciler",
+        "sharecart1000": "PAYLAŞIM SEPETİ1000",
+        "souls-like": "Souls benzeri",
+        "supplement": "İlave",
+        "tabletop": "Masaüstü",
+        "tarot": "Tarot",
+        "tentacles": "Tentakıllar",
+        "thriller": "Gerilim",
+        "troika": "Üçlü yönetim",
+        "sokoban": "Kutu itme bulmacası",
+        "svg": "Ölçeklenebilir Vektör Grafikleri - ÖVG",
+        "synthwave": "Sentez Dalgası"
     }
 }
