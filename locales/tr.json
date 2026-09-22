@@ -300,7 +300,9 @@
             "email_notifications": "E-Posta bildirimleri",
             "connected_accounts": "Bağlı hesaplar",
             "press_access": "Basın erişimi",
-            "delete_account": "Hesabı Sil"
+            "delete_account": "Hesabı Sil",
+            "security_header": "Güvenlik",
+            "account_data_header": "Hesap & bilgiler"
         },
         "profile": {
             "language_community_translation": "<s>itch.io topluluk üyeleri tarafından çevirildi</s> Bazı diller sadece kısmen hazır. Eğer itch.io'yu dilinize çevirmek ya da hata düzeltmek isterseniz, siz de katkıda bulunabilirsinizç <a>Daha fazla öğrenin</a>",
@@ -500,7 +502,8 @@
         "authors": "{{author}} tarafından bir koleksiyon",
         "add_a_blurb": "Tanıtım yazısı ekle",
         "pending_invitation": "Bu koleksiyonun katılımcısı olmanız için bir davetiniz var. <a> Daveti gör </a>",
-        "edit_blurb": "Açıklamayı düzenle"
+        "edit_blurb": "Açıklamayı düzenle",
+        "edit_order": "Sıralamayı Düzenle"
     },
     "user_register": {
         "create_an_account_on_itchio": "Itch.io'da hesap oluşturun",
@@ -1011,14 +1014,14 @@
                 "unavailable_to_rate": "Kendi girdinizi göndermediğiniz için bu projeye puan veremezsiniz. Yine de aşağıya bir yorum bırakabilirsiniz."
             },
             "rated_by_people_count": "Şimdiye kadar {{count}} kişi tarafından değerlendirildi",
-            "rated_by_people_count_plural": "Şu ana kadar {{count}} kişi tarafından değerlendirildi",
+            "rated_by_people_count_plural": "Şu ana kadar {{count}} kişi tarafından puanlandı",
             "time_remaining_before_deadline": "Son tarihten önce {{time_duration}}",
             "submitted_by_contributors": "{{contributors}} tarafından gönderildi",
             "ranked_with_vote_count": "{{count}} oyla {{ordinal_rank}} sırada",
             "ranked_with_vote_count_plural": "{{count}} oy(lar)la {{ordinal_rank}} sırada",
             "results_header": "Sonuçlar",
             "ranked_from_count": "<s> {{count}} derecelendirmeye </s> göre sıralanmıştır.",
-            "ranked_from_count_plural": "<s> {{count}} değerlendirmeye </s> göre sıralandı",
+            "ranked_from_count_plural": "<s>{{count}} değerlendirme</s> üzerinden sıralandı",
             "score_information": "Skor, ham puandan jam içindeki oyun başına ortalama derecelendirme sayısına göre ayarlanır.",
             "run_project": "Projeyi çalıştır",
             "play_game": "Oyunu oyna",
