@@ -55,7 +55,7 @@
             "game_jams": "Oyun Maratonları",
             "recommendations": "Öneriler",
             "library": "Kütüphanem",
-            "feed": "Akışım",
+            "feed": "Hareketlerim",
             "account_menu_tooltip": "Hesap Menüsü",
             "posts": "Gönderiler"
         }
@@ -211,9 +211,9 @@
             "add_to_collection": "Kolleksiyona Ekle"
         },
         "countdown": {
-            "years": "Yıl",
-            "months": "ay",
-            "days": "gün",
+            "years": "yıllar",
+            "months": "aylar",
+            "days": "günler",
             "hours": "saat",
             "minutes": "dakika",
             "seconds": "saniye"
