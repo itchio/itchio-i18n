@@ -506,11 +506,18 @@
                 "sign_up_to_rate": "<a>登录并参赛</a>以给作品打分与留言。",
                 "sign_up_to_vote": "<a>登录并参赛</a>以给作品投票与留言。",
                 "participate_to_rate_message": "<a>登录</a>以给作品留言，但是进行评分还需要参赛。",
-                "you_will_be_able_to_rate_if_you_submit": "参赛即可评分。"
+                "you_will_be_able_to_rate_if_you_submit": "参赛即可评分。",
+                "other_participants_can_rate": "其他参赛者可以对你的作品打分。",
+                "save_vote": "保存投票",
+                "save_rating": "保存评分",
+                "you_havent_rated_this_submission_yet": "你尚未对此作品打分。",
+                "you_just_voted": "已投票。",
+                "you_voted_ago": "已在{{timestamp}}投票。",
+                "disqualified_message": "此作品已被取消资格，不能评分。"
             }
         },
         "rate_game": {
-            "this_submission_is_disqualified": "此操作被拒绝"
+            "this_submission_is_disqualified": "此作品被取消资格"
         },
         "header": {
             "hosted_by": "发起人：{{hosts}}",
@@ -535,12 +542,32 @@
             "or_leave_jam": "或<a>退出</a>",
             "youve_joined": "你已参赛。",
             "joined_instructions": "比赛开始后，请回到此页面来投稿。"
+        },
+        "screenshots": {
+            "empty_message": "暂无任何截图",
+            "loading_more": "加载更多截图中……"
         }
     },
     "dashboard": {
         "header": {
-            "game_jams_link": "Game Jam"
-        }
+            "game_jams_link": "Game Jam",
+            "projects_link": "作品",
+            "payments_link": "购买",
+            "analytics_link": "统计",
+            "payouts_link": "支出",
+            "sales_bundles_link": "特惠与捆绑包",
+            "coop_bundles_link": "合作捆绑包"
+        },
+        "stats": {
+            "gross_revenue": "总收入",
+            "payments": "作品购买次数",
+            "views": "浏览",
+            "downloads": "下载",
+            "followers": "粉丝数",
+            "following": "关注者"
+        },
+        "follow_itchio": "在 {{twitter}} 和 {{facebook}} 上关注 itch.io",
+        "page_title": "创作者总览"
     },
     "jams": {
         "page_title": "关于 itch.io 上的 Game Jam",
