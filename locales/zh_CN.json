@@ -505,7 +505,8 @@
                 "unavailable_to_rate": "必须参赛才能对其他参赛者评分，目前你只能对此作品写评论。",
                 "sign_up_to_rate": "<a>登录并参赛</a>以给作品打分与留言。",
                 "sign_up_to_vote": "<a>登录并参赛</a>以给作品投票与留言。",
-                "participate_to_rate_message": "<a>登录</a>以给作品留言，但是需要参赛才能进行评分。"
+                "participate_to_rate_message": "<a>登录</a>以给作品留言，但是进行评分还需要参赛。",
+                "you_will_be_able_to_rate_if_you_submit": "参赛即可评分。"
             }
         },
         "rate_game": {
