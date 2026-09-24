@@ -491,7 +491,22 @@
             "score_information": "分数已经根据Game Jam中的评分中位数进行调整。",
             "run_project": "运行项目",
             "ranked_from_count_plural": "依据<s>{{count}}个评分</s>排名。",
-            "ranked_from_count_0": "依据<s>{{count}}个评分</s>排名。"
+            "ranked_from_count_0": "依据<s>{{count}}个评分</s>排名。",
+            "time_remaining_before_deadline": "距截止还剩{{time_duration}}",
+            "rated_by_people_count_plural": "{{count}}人已评测",
+            "rated_by_people_count_0": "{{count}}人已评测",
+            "rate_submission": {
+                "vote": "投票",
+                "private_field": "（私密）",
+                "vote_for_this_submission": "对此参赛作品投票",
+                "rate_this_submission": "对此参赛作品评分",
+                "not_open_yet": "本比赛参赛时间尚未结束。评分将于{{start_date}}开始。",
+                "owner_message": "无法为自己的作品打分。其他参赛者才能为你的作品打分。",
+                "unavailable_to_rate": "必须参赛才能对其他参赛者评分，目前你只能对此作品写评论。",
+                "sign_up_to_rate": "<a>登录并参赛</a>以给作品打分与留言。",
+                "sign_up_to_vote": "<a>登录并参赛</a>以给作品投票与留言。",
+                "participate_to_rate_message": "<a>登录</a>以给作品留言，但是需要参赛才能进行评分。"
+            }
         },
         "rate_game": {
             "this_submission_is_disqualified": "此操作被拒绝"
