@@ -674,8 +674,27 @@
                 "no_payments": "无需付费",
                 "embed_pricing_info": "设置最低价格只会限制对可下载文件的访问。嵌入式内容免费。",
                 "minimum_price_label": "最低价",
-                "minimum_price_info": "下载文件的最低价格"
-            }
+                "minimum_price_info": "下载文件的最低价格",
+                "free_price_info": "下载者会被要求捐赠，但是依然可以免费下载。",
+                "default_donation_amount_info": "默认捐赠金额",
+                "payment_disabled_info": "此作品将会免费，并且不接受任何捐赠",
+                "suggest_default_price_label": "另外默认价格",
+                "suggested_donation_label": "建议捐赠",
+                "suggested_price_label": "建议售价",
+                "default_price_info": "购买此作品时显示的默认价格",
+                "price_too_low_error": "请设置比价格高的金额"
+            },
+            "uploads": {
+                "delete_file_button": "删除文件",
+                "play_in_browser_toggle": "该文件将直接在浏览器中运行",
+                "hide_toggle": "隐藏此文件并阻止下载",
+                "demo_toggle": "此文件为试玩版，可免费下载",
+                "preorder_toggle": "此文件供预购者使用",
+                "set_price_toggle": "为此文件设置额外价格",
+                "change_display_name_button": "更改显示名称"
+            },
+            "community_field_info": "允许在这个作品基础上发文和打造专属社区。",
+            "community_comments_info": "在页面底部添加楼中楼评论区"
         }
     },
     "jams": {
