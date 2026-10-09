@@ -140,7 +140,9 @@
             "publisher_header": "การเผยแพร่",
             "payment_header": "การชำระเงิน",
             "basics_header": "ทั่วไป",
-            "delete_account": "ลบบัญชี"
+            "delete_account": "ลบบัญชี",
+            "security_header": "ความปลอดภัย",
+            "account_data_header": "บัญชีและข้อมูล"
         },
         "account_settings": "การตั้งค่าบัญชี",
         "profile": {
@@ -834,7 +836,8 @@
         "private_collection_message": "คอลเลกชันนี้ไม่เป็นสาธารณะ เฉพาะผู้มีส่วนร่วมด้วยเท่านั้นจึงจะสามารถเห็นเนื้อหานี้ได้",
         "remove_confirm": "คุณแน่ใจหรือไม่ว่าต้องการลบออกจากคอลเลกชัน",
         "add_a_blurb": "เพิ่มคำโฆษณา",
-        "edit_blurb": "แก้ไขคำโฆษณา"
+        "edit_blurb": "แก้ไขคำโฆษณา",
+        "edit_order": "แก้ไขลำดับ"
     },
     "browse_tags": {
         "page_title": "แท็กยอดนิยม",
