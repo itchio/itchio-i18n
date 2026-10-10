@@ -691,7 +691,8 @@
         "add_a_blurb": "Dodaj rekomendację",
         "edit_blurb": "Edytuj rekomendację",
         "blurb_author_says": "Słowo od autora {{author}}",
-        "remove_confirm": "Czy na pewno chcesz to usunąć z kolekcji"
+        "remove_confirm": "Czy na pewno chcesz to usunąć z kolekcji",
+        "edit_order": "Edytuj zamówienie"
     },
     "browse": {
         "results_count_plural": "{{count}} wyników",
@@ -785,7 +786,9 @@
             "api_keys": "Klucze API",
             "oauth_applications": "Aplikacje OAuth",
             "thirdparty_analytics": "Analityka firm zewnętrznych",
-            "delete_account": "Usuń konto"
+            "delete_account": "Usuń konto",
+            "security_header": "Zabezpieczenia",
+            "account_data_header": "Konto i dane"
         },
         "profile": {
             "language_community_translation": "<s>itch.io jest tłumaczony przez członków naszej społeczności.</s> Niektóre języki są dostępne tylko częściowo. Jeśli chcesz zobaczyć itch.io w twoim języku, lub poprawić nasze błędy w tłumaczeniu, możesz nam pomóc. <a>Dowiedz się więcej</a>",
