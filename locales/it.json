@@ -408,7 +408,7 @@
             "page_header": "Profilo",
             "language_description": "Lingua dell'interfaccia di itch.io",
             "language": "Lingua",
-            "language_community_translation": "<s>itch.io è tradotto dai membri della comunità.</s>Alcune lingue non sono ancora complete. Itch.io è alla ricerca di traduttori in altre lingue. <a>Di più</a>"
+            "language_community_translation": "<s>itch.io è tradotto dai membri della comunità.</s> Alcune lingue non sono ancora complete. Itch.io è alla ricerca di traduttori in altre lingue. <a>Di più</a>"
         },
         "navigation": {
             "thirdparty_analytics": "Analisi di terze parti",
@@ -524,8 +524,9 @@
             "empty_page_message": "Nessun risultato disponibile per questa pagina",
             "empty_message": "Non c'è ancora niente, prova a ricontrollare più tardi",
             "average_and_median_results": "Le recensioni date per gioco sono state <s>{{average_ratings}}</s> e la media era di <s>{{median_ratings}}</s>.",
-            "ratings_given_submissions_count": "È stata lasciata <s>{{count}}recensione</s> a<s>{{submission_count}}entrata</s>({{percent}}%) tra il {{vote_start_date}} e il {{vote_end_date}}.",
-            "ratings_given_submissions_count_plural": "Sono state lasciate <s>{{count}}recensioni</s> a<s>{{submission_count}}entrate</s>({{percent}}%) tra il {{vote_start_date}} e il {{vote_end_date}}.",
+            "ratings_given_submissions_count_0": "<s>{{count}} recensione</s> a <s>{{submission_count}} entrata</s> ({{percent}}%) tra il {{vote_start_date}} e il {{vote_end_date}}.",
+            "ratings_given_submissions_count_1": "<s>{{count}} recensioni</s> a <s>{{submission_count}} entrate</s> ({{percent}}%) tra il {{vote_start_date}} e il {{vote_end_date}}.",
+            "ratings_given_submissions_count_2": "",
             "ratings_given_count": "È stata lasciata <s>{{count}}recensione</s> tra il {{vote_start_date}} e il{{vote_end_date}}.",
             "ratings_given_count_plural": "Sono state lasciate <s>{{count}}recensioni</s> tra il {{vote_start_date}} e il{{vote_end_date}}.",
             "votes_cast_count": "È stato dato <s>{{count}}</s> voto tra il {{vote_start_date}} e il {{vote_end_date}}.",
@@ -869,7 +870,7 @@
         "create_account_or_login": "<1>Crea un account</1> <em>oppure</em> <2>Loggati</2>",
         "share_message": "itch.io è un modo semplice di distribuire i tuoi giochi online gratuitamente.",
         "learn_more_about": "Scopri di più su:",
-        "upload_your_game_description": "Carica il tuo gioco su <s>itch.io</s>gratuitamente. Noi Lanciamo il tuo gioco, insieme alle schermate e altri downloads. I tuoi download saranno sempre disponibili e sempre veloci.",
+        "upload_your_game_description": "Carica il tuo gioco su <s>itch.io</s> gratuitamente. Noi Lanciamo il tuo gioco, insieme alle schermate e altri downloads. I tuoi download saranno sempre disponibili e sempre veloci.",
         "browser_game_description": "Guadagna dal tuo gioco in HTML5 caricandolo su <s>itch.io</s>. Il tuo gioco sarà giocabile da internet e se il gioco piace, i giocatori potranno donare una somma in denaro.",
         "learn_more": "Scopri di più",
         "host_a_sale_description": "Organizza delle offerte a tempo limitato, offrendo i tuoi giochi a prezzi scontati per ricevere maggiori acquisti.",
@@ -975,7 +976,7 @@
         "devlog_view_all_posts": "Guarda tutti i post",
         "in_order_to_access": "Per avere questo {{noun}} devi comprarlo al minimo prezzo di {{price}}.",
         "development_log_header": "Diario di sviluppo",
-        "price_or_more": "{{price}}<s> oppure di più</s>",
+        "price_or_more": "{{price}} <s>oppure di più</s>",
         "percent_off": "del <s>{{percent}}%</s>",
         "on_sale": "In Sconto!",
         "name_your_own_price": "\"Name your price\"",
@@ -1240,7 +1241,7 @@
             "pinned_reply": "Risposta in evidenza"
         },
         "topic": {
-            "create_related_topic": "Se hai qualcosa relativo ad un post <a> crea un commento in {{category_name}}</a>.",
+            "create_related_topic": "Se hai qualcosa relativo ad un post <a>crea un commento in {{category_name}}</a>.",
             "topic_is_autoarchived": "Questo commento è stato auto-archiviato, e non può più essere visto perché non ci sono messaggi da un po 'di tempo.",
             "this_topic_was_locked_by_username": "Il commento è stato bloccato da {{username}}",
             "this_topic_is_locked": "Il commento è bloccato",
