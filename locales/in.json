@@ -40,7 +40,7 @@
             "free_games": "Game gratis",
             "jams": "Game Jam",
             "log_in": "Masuk",
-            "search_placeholder": "Cari game atau pembuat game",
+            "search_placeholder": "Cari game, lomba game, label, atau pembuat game",
             "upload_game": "Unggah Game",
             "sales": "Diskon",
             "feed_unseen_count": "{{count}} kiriman baru"
@@ -765,7 +765,7 @@
             "display_name": "Nama tampilan",
             "website": "Situs web",
             "website_description": "URL pilihan untuk ditampilkan di halaman profilmu",
-            "twitter_description": "Akun Twitter untuk ditampilkan di profil",
+            "twitter_description": "Akun Twitter Opsional untuk ditampilkan di profil",
             "account_type": "Jenis akun",
             "account_type_description": "Bagaimana kamu akan menggunakan akun",
             "account_type_gamer": "Mengunduh dan bermain game",
@@ -850,7 +850,7 @@
     "stripe_checkout": {
         "payment_error_help": "Jika ragu, silakan hubungi <a>bantuan itch.io</a> dengan pesan di atas.",
         "gift_instructions": "Pembelian ini berupa hadiah. Kamu dapat memasukkan email penerima hadiah setelah checkout.",
-        "steam_key": "Steam key",
+        "steam_key": "Kunci Steam",
         "payment_error": "Ada kesalahan saat memproses pembayaran kamu:",
         "choose_a_card": "Pilih kartu",
         "edit_saved_cards": "Ubah kartu tersimpan",
