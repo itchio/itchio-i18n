@@ -30,7 +30,7 @@
             "games": "Spiele",
             "feed_unseen_count": "{{count}} neu",
             "feed_unseen_count_plural": "{{count}} neue",
-            "community": "Gemeinschaft",
+            "community": "Community",
             "search_placeholder": "Nach Spielen oder Erstellern suchen",
             "dashboard": "Übersicht",
             "jams": "Jams",
@@ -38,7 +38,8 @@
             "comics": "Comics",
             "game_assets": "Ressourcen",
             "fun_games": "Spaßige Spiele",
-            "feed": "Für dich"
+            "feed": "Für dich",
+            "skip_to_main_content": "Zum Hauptinhalt springen"
         },
         "user_menu": {
             "explore": "Erkunden",
@@ -681,7 +682,8 @@
         "add_a_blurb": "Füge einen Werbetext hinzu",
         "edit_blurb": "Bearbeite den Werbetext",
         "blurb_author_says": "{{author}} sagt",
-        "remove_confirm": "Bist du sicher, du möchtest das aus deiner Sammlung entfernen"
+        "remove_confirm": "Bist du sicher, du möchtest das aus deiner Sammlung entfernen",
+        "edit_order": "Bearbeite Anordnung"
     },
     "browse": {
         "results_count_plural": "{{count}} Ergebnisse",
@@ -773,7 +775,9 @@
             "api_keys": "API-Schlüssel",
             "oauth_applications": "OAuth-Anwendungen",
             "thirdparty_analytics": "Drittanbieteranalytik",
-            "delete_account": "Konto löschen"
+            "delete_account": "Konto löschen",
+            "security_header": "Sicherheit",
+            "account_data_header": "Konto & Daten"
         },
         "profile": {
             "language_community_translation": "<s>itch.io wird von Mitgliedern der Community übersetzt.</s> Manche Sprachen sind bisher nur teilweise verfügbar. Wenn du itch.io gern in deiner Sprache sehen oder bei vorhandenen Fehlern helfen möchtest, kannst du das tun. <a>Erfahre mehr</a>",
