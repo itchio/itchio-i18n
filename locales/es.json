@@ -1294,8 +1294,9 @@
     },
     "jams": {
         "page_title": "Game Jams en itch.io",
-        "games_created": "Se ha creado <s> {{count}} juego </s> para jams alojados en itch.io.",
-        "games_created_plural": "Se ha creado <s> {{count}} juego </s> para jams alojados en itch.io.",
+        "games_created_0": "Se ha creado <s> {{count}} juego </s> para jams alojados en itch.io.",
+        "games_created_1": "Se ha creado <s> {{count}} juego </s> para jams alojados en itch.io.",
+        "games_created_2": "",
         "host_a_jam_button": "Organiza una jam",
         "jams_created_header": "Jams que has creado",
         "jams_joined_header": "Jams a los que te has unido",
