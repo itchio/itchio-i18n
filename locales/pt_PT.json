@@ -797,11 +797,13 @@
             "sticky_flag": "Fixo",
             "new_flag": "Novo",
             "started_by_author": "iniciado por {{topic_author}}",
-            "replies_count": "<s>{{count}}</s> resposta",
-            "replies_count_plural": "<s>{{count}}</s> respostas",
+            "replies_count_0": "<s>{{count}}</s> resposta",
+            "replies_count_1": "<s>{{count}}</s> respostas",
+            "replies_count_2": "",
             "no_posts_yet": "Ainda não há publicações",
-            "views_count": "<s>{{count}}</s> visualização",
-            "views_count_plural": "<s>{{count}}</s> visualizações"
+            "views_count_0": "<s>{{count}}</s> visualização",
+            "views_count_1": "<s>{{count}}</s> visualizações",
+            "views_count_2": ""
         }
     },
     "buy_form": {
