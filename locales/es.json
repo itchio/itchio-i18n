@@ -437,8 +437,9 @@
             "view_this_communitys_rules": "Ver las reglas de esta comunidad…"
         },
         "topic_list": {
-            "views_count": "<s>{{count}}</s> visita",
-            "views_count_plural": "<s>{{count}}</s> visitas",
+            "views_count_0": "<s>{{count}}</s> visita",
+            "views_count_1": "<s>{{count}}</s> visitas",
+            "views_count_2": "",
             "list_header_last_post": "Última publicación",
             "list_header_topic_title": "Tema",
             "locked_flag": "Cerrado",
