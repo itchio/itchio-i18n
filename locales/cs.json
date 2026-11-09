@@ -40,7 +40,8 @@
             "feed_unseen_count_0": "{{count}} nový",
             "feed_unseen_count_1": "{{count}} nové",
             "feed_unseen_count_2": "{{count}} nových",
-            "jams": "Jamy"
+            "jams": "Jamy",
+            "skip_to_main_content": "Přejít na hlavní obsah"
         },
         "user_menu": {
             "explore": "Procházet",
