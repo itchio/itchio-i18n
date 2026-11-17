@@ -29,7 +29,7 @@
             "bundles": "Πακέτα",
             "fun_games": "Διασκεδαστικά παιχνίδια",
             "games": "Παιχνίδια",
-            "search_placeholder": "Αναζήτηση για παιχνίδια ή δημιουργούς",
+            "search_placeholder": "Αναζήτηση για παιχνίδια, διαγωνισμούς, ετικέτες ή δημιουργούς",
             "notifications_count": "{{count}} ειδοποίηση",
             "notifications_count_plural": "{{count}} ειδοποιήσεις",
             "feed_unseen_count": "{{count}} νέο",
@@ -37,8 +37,9 @@
             "dashboard": "Ταμπλό",
             "feed": "Νέα",
             "devlogs": "Αρχεία καταγραφής προγραμματιστών",
-            "jams": "Jams",
-            "game_assets": "Περιουσιακά στοιχεία"
+            "jams": "Διαγωνισμοί",
+            "game_assets": "Περιουσιακά στοιχεία",
+            "skip_to_main_content": "Μετάβαση στο κυρίως περιεχόμενο"
         },
         "user_menu": {
             "explore": "Εξερεύνησε",
@@ -343,7 +344,7 @@
         "open_source": "Ανοικτού κώδικα",
         "tagline": "Εγκατάστησε, ενημέρωσε και παίξε indie παιχνίδια",
         "more_info_links": "<1>Διάβασε στις Συχνές Ερωτήσεις</1> ή <2>Διάβασε τον οδηγό της εφαρμογής</2>",
-        "contribute_link": "Θες να συνεισφέρεις; <a>Δες το πηγαίο κώδικα στο GitHub</a>",
+        "contribute_link": "Θες να συνεισφέρεις;<a>Δες τον πηγαίο κώδικα στο GitHub</a>",
         "read_the_app_guide": "Διάβασε τον οδηγό της εφαρμογής",
         "download_now": "Λήψη Τώρα",
         "share_message": "itch, η desktop εφαρμογή για indie παιχνίδια",
@@ -474,7 +475,7 @@
             },
             "edit_your_rating": "Επεξεργαστείτε Τη Βαθμολογία Σας",
             "edit_rating": "Επεξεργασία Βαθμολογίας",
-            "devlog": "Devlog",
+            "devlog": "Ημερολόγιο ανάπτυξης",
             "submission_to_jam": "Υποβολή στο {{jam_title}}",
             "included_in_bundle_title": "Περιλαμβάνεται στο {{bundle_title}}"
         },
@@ -681,7 +682,8 @@
         "edit_collection": "Επεξεργασία συλλογής",
         "edit_contributors": "Επεξεργασία συνεργατών",
         "edit_blurb": "Επεξεργασία θόλωσης",
-        "pending_invitation": "Έχετε μια εκκρεμή πρόσκληση για να συμμετέχετε σε αυτήν τη συλλογή <a> Δείτε πρόσκληση </a>"
+        "pending_invitation": "Έχετε μια εκκρεμή πρόσκληση για να συμμετέχετε σε αυτήν τη συλλογή <a> Δείτε πρόσκληση </a>",
+        "edit_order": "Επεξεργασία σειράς"
     },
     "browse": {
         "results_count_plural": "{{count}} αποτελέσματα",
@@ -773,7 +775,9 @@
             "email_notifications": "Ειδοποιήσεις ηλεκτρονικού ταχυδρομείου",
             "oauth_applications": "Εφαρμογές OAuth",
             "thirdparty_analytics": "Αναλυτικά στοιχεία τρίτων",
-            "delete_account": "Διαγραφή λογαριασμού"
+            "delete_account": "Διαγραφή λογαριασμού",
+            "security_header": "Ασφάλεια",
+            "account_data_header": "Λογαριασμός & δεδομένα"
         },
         "profile": {
             "language": "Γλώσσα",
@@ -784,7 +788,7 @@
             "profile_image": "Εικόνα προφίλ",
             "display_name": "Εμφανιζόμενο όνομα",
             "website": "Ιστοσελίδα",
-            "twitter_description": "Λογαριασμό twitter που να εμφανίσει στο προφίλ σου",
+            "twitter_description": "Προαιρετικός λογαριασμό twitter που να εμφανίσει στο προφίλ σου",
             "account_type": "Τύπος λογαριασμού",
             "account_type_description": "Πως θα χρησιμοποιήσεις τον λογαριασμό σου",
             "account_type_gamer": "Παίξιμο και λήψη παιχνιδιών",
@@ -1241,7 +1245,7 @@
             "more": "Περισσότερα",
             "metadata": "Μεταδεδομένα",
             "edit_project": "Επεξεργασία έργου",
-            "devlog": "Devlog",
+            "devlog": "Ημερολόγιο ανάπτυξης",
             "analytics": "Ανάλυση",
             "distribute": "Διανέμω",
             "interact": "Αλληλεπιδρώ",
